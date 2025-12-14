@@ -1,0 +1,46 @@
+# Configurazione Rosso di Sera Blog
+title: Rosso di Sera
+description: Una Luce nel Mondo Digitale
+url: "https://www.rossodiserablog.it"
+baseurl: ""
+
+# Autori
+collections:
+  authors:
+    output: true
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Paginazione
+paginate: 12
+paginate_path: "/pagina/:num/"
+
+# Plugin
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
+# Esclusioni
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+# Timezone
+timezone: Europe/Rome

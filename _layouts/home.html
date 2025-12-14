@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="archive-section">
+    <div class="archive-box">Archivio Articoli</div>
+</div>
+
+<div class="posts-grid">
+    {% for post in paginator.posts %}
+    <article class="post-card">
+        <a href="{{ post.url | relative_url }}" class="post-card-link">
+            <div class="post-card-content">
+                <h2>{{ post.title }}</h2>
+                <div class="post-excerpt">
+                    {{ post.excerpt | strip_html | truncate: 200 }}
+                </div>
+            </div>
+            <div class="post-meta">
+                <span class="post-date">📅 {{ post.date | date: "%d %B %Y" }}</span>
+                <span class="post-author">✍️ {{ post.author | replace: "-", " " | capitalize }}</span>
+            </div>
+        </a>
+    </article>
+    {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-prev">« Più recenti</a>
+    {% endif %}
+    
+    <span class="pagination-info">Pagina {{ paginator.page }} di {{ paginator.total_pages }}</span>
+    
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-next">Più vecchi »</a>
+    {% endif %}
+</nav>
+{% endif %}

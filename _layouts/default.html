@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% seo %}
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="header-text">
+                <h1><a href="{{ '/' | relative_url }}">Rosso di Sera</a></h1>
+                <p>Una Luce nel Mondo Digitale</p>
+            </div>
+        </div>
+    </header>
+    
+    <nav class="main-nav">
+        <div class="container">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/archivio/' | relative_url }}">Archivio</a>
+            <a href="{{ '/autori/' | relative_url }}">Autori</a>
+        </div>
+    </nav>
+    
+    <main class="container">
+        {{ content }}
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Tutti i diritti riservati.</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<article class="post-single">
+    <header class="post-header">
+        <h1>{{ page.title }}</h1>
+        <div class="post-meta-single">
+            <span class="post-date">📅 {{ page.date | date: "%d %B %Y" }}</span>
+            <span class="post-author">✍️ {{ page.author | replace: "-", " " | capitalize }}</span>
+        </div>
+    </header>
+    
+    <div class="post-content">
+        {{ content }}
+    </div>
+    
+    {% if page.tags.size > 0 %}
+    <footer class="post-footer">
+        <div class="post-tags">
+            <span class="tags-label">Tag:</span>
+            {% for tag in page.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+    </footer>
+    {% endif %}
+    
+    <nav class="post-navigation">
+        {% if page.previous.url %}
+        <a href="{{ page.previous.url | relative_url }}" class="nav-prev">
+            <span class="nav-label">← Articolo precedente</span>
+            <span class="nav-title">{{ page.previous.title | truncate: 50 }}</span>
+        </a>
+        {% endif %}
+        
+        {% if page.next.url %}
+        <a href="{{ page.next.url | relative_url }}" class="nav-next">
+            <span class="nav-label">Articolo successivo →</span>
+            <span class="nav-title">{{ page.next.title | truncate: 50 }}</span>
+        </a>
+        {% endif %}
+    </nav>
+</article>
