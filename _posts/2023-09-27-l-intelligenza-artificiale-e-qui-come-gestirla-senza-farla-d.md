@@ -20,7 +20,7 @@ Parliamo spesso di AI come fosse roba da "Star Trek", ma la realtà è che è gi
 
     **Droni al volo**. E se ti dicessi che il tuo pacco Amazon potrebbe arrivare volando direttamente alla tua finestra? Beh, Amazon Prime Air ci sta lavorando. Meno furgoni in giro e un bel risparmio energetico. È come avere un piccione viaggiatore, ma molto più figo.
 
-    Ora si va nel "core" della questione. Vogliamo capire un po' meglio cosa ci differenzia da queste macchine "intelligenti" che sembrano essere ovunque.
+Ora si va nel "core" della questione. Vogliamo capire un po' meglio cosa ci differenzia da queste macchine "intelligenti" che sembrano essere ovunque.
 
     
 ![](images/2023/09/ste_spi_a_robotic_girl_with_her_skin_made_of_white_and_blue_dec_d5d86453-9815-47f2-8302-b4d987e7d148.png)
@@ -32,11 +32,11 @@ Parliamo spesso di AI come fosse roba da "Star Trek", ma la realtà è che è gi
 
     **Attenzione ai falsi amici**. Eccoci qua, amici, a parlare di discriminazione algoritmica. So che suona come un termine da geek, ma è semplicemente il cugino tecnologico del pregiudizio umano. È quando gli algoritmi - sì, quegli stessi algoritmi che vi trovano il ristorante perfetto per un appuntamento - iniziano a fare distinzioni basate su età, genere, etnia e chi più ne ha, più ne metta.
 
-    Capito?  Già, perché magari quegli stessi algoritmi sono stati "educati" con dati pregiudizievoli. È un po' come dare in mano una mappa stradale sbagliata a un autista: non va a finire bene, garantito.
+Capito?  Già, perché magari quegli stessi algoritmi sono stati "educati" con dati pregiudizievoli. È un po' come dare in mano una mappa stradale sbagliata a un autista: non va a finire bene, garantito.
 
-    E il bello è che tutto questo può avere conseguenze pesanti: crediti negati, assicurazioni più care, e anche la polizia che bussa alla tua porta per errori di identificazione. Insomma, non è proprio roba da prendere alla leggera.
+E il bello è che tutto questo può avere conseguenze pesanti: crediti negati, assicurazioni più care, e anche la polizia che bussa alla tua porta per errori di identificazione. Insomma, non è proprio roba da prendere alla leggera.
 
-    Allora, cosa facciamo? Già, perché se lasciamo che la nostra bella IA diventi un Frankenstein 2.0, poi non lamentiamoci se le cose vanno storte. Qui non c'è solo la questione della tecnologia; c'è anche un sacco di etica e responsabilità da mettere in campo. Come sempre, l'idea è di usare la testa per non lasciare che la tecnologia ci porti dove non vogliamo andare. Che dite? Ognuno di noi ha un ruolo in tutto questo. Nessuna scusa.
+Allora, cosa facciamo? Già, perché se lasciamo che la nostra bella IA diventi un Frankenstein 2.0, poi non lamentiamoci se le cose vanno storte. Qui non c'è solo la questione della tecnologia; c'è anche un sacco di etica e responsabilità da mettere in campo. Come sempre, l'idea è di usare la testa per non lasciare che la tecnologia ci porti dove non vogliamo andare. Che dite? Ognuno di noi ha un ruolo in tutto questo. Nessuna scusa.
 
     **Team perfetto? Umano + AI**. Guardate, non siamo nemici. Ognuno di noi ha i propri punti di forza e di debolezza, e l'idea è di usare il meglio di entrambi. L'AI è brava con i numeri; voi siete bravi con... beh, quasi tutto il resto. In sostanza, siamo come due pezzi di un puzzle che possono completarsi a vicenda. Immaginate un futuro dove ognuno di noi fa quello che fa meglio, creando un mondo più efficiente, ma anche più umano. Che dite, ne vale la pena?
 

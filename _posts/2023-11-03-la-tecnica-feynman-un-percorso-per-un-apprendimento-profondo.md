@@ -8,17 +8,17 @@ tags: ["Apprendimento Profondo", "Autonomia nell'Apprendimento", "Autovalutazion
 ---
 
 ![](images/2023/11/richard_feynman_1959.png)
-    Se stai cercando un modo per rivoluzionare il tuo approccio all'apprendimento e alla comprensione dei concetti, la Tecnica Feynman fa al caso tuo. Sviluppata dal geniale fisico Richard Feynman, Premio Nobel per la Fisica nel 1965, questa tecnica offre un quadro strutturato in quattro fasi per assimilare, elaborare e comunicare conoscenze in modo più efficace e duraturo. Non solo migliorerà il tuo modo di studiare, ma potrà anche arricchire il tuo modo di pensare e le tue competenze trasversali, dal pensiero critico all'autovalutazione. Scopriamo insieme come funziona.
+Se stai cercando un modo per rivoluzionare il tuo approccio all'apprendimento e alla comprensione dei concetti, la Tecnica Feynman fa al caso tuo. Sviluppata dal geniale fisico Richard Feynman, Premio Nobel per la Fisica nel 1965, questa tecnica offre un quadro strutturato in quattro fasi per assimilare, elaborare e comunicare conoscenze in modo più efficace e duraturo. Non solo migliorerà il tuo modo di studiare, ma potrà anche arricchire il tuo modo di pensare e le tue competenze trasversali, dal pensiero critico all'autovalutazione. Scopriamo insieme come funziona.
 
     l’inizio: era un preambolo al vero studio, un invito a stringere la mano al mistero prima di scortare le risposte fuori dal caos. E se mai incontrava un muro, lanciava uno sguardo furtivo ai passaggi successivi, giusto per carpire la direzione, per poi tornare a scolpire la soluzione con le sue mani. “Questo è il modo in cui studio", diceva, "lavorandoci sopra, creandolo, in un certo senso”.
 
-    Il primo vero passo, poi, era semplice come un titolo preciso all’inizio di un foglio bianco. Ma non fatevi ingannare dalla sua apparente banalità. Feynman sapeva che definire il campo di battaglia era essenziale quanto conoscere l'arma da brandire. Era la bussola per non perdersi nei meandri del pensiero, il punto di partenza da cui non deviare.
+Il primo vero passo, poi, era semplice come un titolo preciso all’inizio di un foglio bianco. Ma non fatevi ingannare dalla sua apparente banalità. Feynman sapeva che definire il campo di battaglia era essenziale quanto conoscere l'arma da brandire. Era la bussola per non perdersi nei meandri del pensiero, il punto di partenza da cui non deviare.
 
-    Nel suo “secondo passo", si immaginava di spiegare l'argomento a un bambino di sette anni. E chi ha mai tentato di catturare l'attenzione di un bambino sa che non ci si può perdere in fronzoli. Bisogna essere diretti, semplici, usare metafore e storie. È qui che il genio si misura con l'essenziale e, credetemi, è una sfida che non perdona le vie di mezzo.
+Nel suo “secondo passo", si immaginava di spiegare l'argomento a un bambino di sette anni. E chi ha mai tentato di catturare l'attenzione di un bambino sa che non ci si può perdere in fronzoli. Bisogna essere diretti, semplici, usare metafore e storie. È qui che il genio si misura con l'essenziale e, credetemi, è una sfida che non perdona le vie di mezzo.
 
-    Ma il vero gioco inizia con il terzo passo, quando si guarda indietro e si cercano le falle, le imperfezioni nella nostra spiegazione. È il momento della verità, del ritorno alle origini per aggiustare il tiro e riempire i vuoti. Come quando si dipinge un quadro e si fa un passo indietro per cogliere l'intero panorama.
+Ma il vero gioco inizia con il terzo passo, quando si guarda indietro e si cercano le falle, le imperfezioni nella nostra spiegazione. È il momento della verità, del ritorno alle origini per aggiustare il tiro e riempire i vuoti. Come quando si dipinge un quadro e si fa un passo indietro per cogliere l'intero panorama.
 
-    Il quarto e ultimo passo era forse il più audace: trasformare tutto in una storia unica, un racconto. Era il momento di impersonare il maestro, di calarsi nei panni dell'insegnante e spiegare, davvero, ad un pubblico reale o immaginario. Un'azione che rafforza, testa e cementa la conoscenza.
+Il quarto e ultimo passo era forse il più audace: trasformare tutto in una storia unica, un racconto. Era il momento di impersonare il maestro, di calarsi nei panni dell'insegnante e spiegare, davvero, ad un pubblico reale o immaginario. Un'azione che rafforza, testa e cementa la conoscenza.
 
     
 ![](images/2023/11/tecnica_-feynman.png)

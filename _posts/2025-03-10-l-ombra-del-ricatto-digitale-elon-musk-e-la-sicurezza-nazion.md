@@ -9,10 +9,10 @@ tags: ["cibernetica", "Conflitto", "Economia", "Etica", "Europa", "giustizia", "
 
 Stiamo per affidare la sicurezza nazionale ad un pazzo criminale. Potrebbe succedere domani a noi, oggi lo sta provando l’Ucraina, nazione sotto ricatto. Infatti è di poche ore fa l’affermazione: “Se spegnessi Starlink, la difesa ucraina crollerebbe subito”.
 
-    Questo è Elon Musk che, da capo bullo, non solo minaccia l’Ucraina ma dimostra tutta la cosiddetta volubilità ed inaffidabilità di un uomo fuori da ogni controllo, di un pazzo al quale è stato affidato un potere enorme.
+Questo è Elon Musk che, da capo bullo, non solo minaccia l’Ucraina ma dimostra tutta la cosiddetta volubilità ed inaffidabilità di un uomo fuori da ogni controllo, di un pazzo al quale è stato affidato un potere enorme.
 
-    Ma questo veramente non basta ai nostri governanti per capire quanto sia pericoloso affidarsi a lui? Consegnare la sicurezza cibernetica della nostra nazione ad un personaggio del genere? Oggi tocca all’Ucraina, domani potrebbe essere il nostro turno.
+Ma questo veramente non basta ai nostri governanti per capire quanto sia pericoloso affidarsi a lui? Consegnare la sicurezza cibernetica della nostra nazione ad un personaggio del genere? Oggi tocca all’Ucraina, domani potrebbe essere il nostro turno.
 
-    La tecnica di questo personaggio è chiara: offre servizi agli Stati, li vende (anche in Ucraina il conto lo ha pagato la Polonia, fino ad oggi), dove può ricarica al massimo, come vorrebbe fare in Italia, rende dipendenti dai suoi servizi e poi inizia ad estorcere più denaro e risorse nonché influenza la politica interna ed internazionale destabilizzando i quadranti che vuole sfruttare. Veramente i nostri intelligentissimi governanti non hanno capito questo? Oppure sono complici. Ed allora è un altro paio di maniche.
+La tecnica di questo personaggio è chiara: offre servizi agli Stati, li vende (anche in Ucraina il conto lo ha pagato la Polonia, fino ad oggi), dove può ricarica al massimo, come vorrebbe fare in Italia, rende dipendenti dai suoi servizi e poi inizia ad estorcere più denaro e risorse nonché influenza la politica interna ed internazionale destabilizzando i quadranti che vuole sfruttare. Veramente i nostri intelligentissimi governanti non hanno capito questo? Oppure sono complici. Ed allora è un altro paio di maniche.
 
-    Subito una politica europea comune nella difesa anche cibernetica e spaziale. Meglio arrivare con qualche anno di ritardo che diventare i servi sciocchi di una manica di pazzi criminali.
+Subito una politica europea comune nella difesa anche cibernetica e spaziale. Meglio arrivare con qualche anno di ritardo che diventare i servi sciocchi di una manica di pazzi criminali.

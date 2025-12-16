@@ -9,23 +9,23 @@ tags: ["Africa", "Cutro", "decrerto", "emigranti", "Governo", "leggi del mare", 
 
 La Meloni è insoddisfatta dei suoi risultati sulla immigrazione. L'altra sera la nostra premier, al TG1, nel tirare le somme vittoriose del primo anno di governo, ha, però, “ammesso” di essere non felice su quanto fatto per “fermare” gli immigrati. 
 
-    La Meloni di oggi  sembra essere la brutta copia di quella che era all'opposizione, dapprima sbraitava, si sperticava, rivendicava il "blocco navale" salvo poi accorgersi che non è possibile farlo. Malediva l'incapacità della gestione dei flussi, salvo poi trovarsi il 300% di arrivi in più. Urlava all'invasione ed ora quello che riesce ad inventarsi è una reclusione fino a 18 mesi nei centri di identificazione e rimpatrio, salvo poter pagare circa 5mila euro di cauzione.
+La Meloni di oggi  sembra essere la brutta copia di quella che era all'opposizione, dapprima sbraitava, si sperticava, rivendicava il "blocco navale" salvo poi accorgersi che non è possibile farlo. Malediva l'incapacità della gestione dei flussi, salvo poi trovarsi il 300% di arrivi in più. Urlava all'invasione ed ora quello che riesce ad inventarsi è una reclusione fino a 18 mesi nei centri di identificazione e rimpatrio, salvo poter pagare circa 5mila euro di cauzione.
 
-    Insomma una gestione del fenomeno migratorio caotica, inefficiente, inefficace e soprattutto disumana. Forse sarebbe educativo, invece di definire invasori i migranti, ricordare  il flusso incessante che è partito dall’Italia verso altre parti più promettenti del mondo, quando noi eravamo "gli invasori": poveri, disperati, mal vestiti e poco o per nulla educati. Eravamo così, non per colpa nostra, esattamente come non è colpa di questi disperati la loro condizione, che li rende vulnerabili e disposti a tutto pur di tentare di trovare un "mondo migliore" dove ricominciare una esistenza decorosa. 
+Insomma una gestione del fenomeno migratorio caotica, inefficiente, inefficace e soprattutto disumana. Forse sarebbe educativo, invece di definire invasori i migranti, ricordare  il flusso incessante che è partito dall’Italia verso altre parti più promettenti del mondo, quando noi eravamo "gli invasori": poveri, disperati, mal vestiti e poco o per nulla educati. Eravamo così, non per colpa nostra, esattamente come non è colpa di questi disperati la loro condizione, che li rende vulnerabili e disposti a tutto pur di tentare di trovare un "mondo migliore" dove ricominciare una esistenza decorosa. 
 
     
 ![](images/2023/09/img_4051.jpg)
-    Invece per questo esecutivo, questi disperati sono numeri, nemici, invasori che metterebbero in pericolo l’italianità e non persone con storie, esperienze, famiglie. 
+Invece per questo esecutivo, questi disperati sono numeri, nemici, invasori che metterebbero in pericolo l’italianità e non persone con storie, esperienze, famiglie. 
 
     
 ![](images/2023/09/img_4049.jpg)
-    Penso sia utile rileggere questa poesia, scritta nel 1882, più attuale che mai. Che qualcuno inizi così a capire? Certo non gli esponenti di questo esecutivo ed i loro galoppìni, pronti sempre a tutto, pur di accaparrarsi qualche voto e disposti a scannarsi, anche tra di loro, pur di non farsi superare, sempre a destra, l’un l’altro. 
+Penso sia utile rileggere questa poesia, scritta nel 1882, più attuale che mai. Che qualcuno inizi così a capire? Certo non gli esponenti di questo esecutivo ed i loro galoppìni, pronti sempre a tutto, pur di accaparrarsi qualche voto e disposti a scannarsi, anche tra di loro, pur di non farsi superare, sempre a destra, l’un l’altro. 
 
     
 ![](images/2023/09/img_4050.jpg)
-    Gli emigranti
+Gli emigranti
 
-    Cogli occhi spenti, con lo guancie cave,
+Cogli occhi spenti, con lo guancie cave,
 Pallidi, in atto addolorato e grave,
 Sorreggendo le donne affrante e smorte,
 Ascendono la nave
@@ -41,7 +41,7 @@ Umido ancora il desolato affanno
 Degli estremi saluti
 Dati ai monti che più non rivedranno.
 
-    Salgono, e ognuno la pupilla mesta
+Salgono, e ognuno la pupilla mesta
 Sulla ricca e gentil Genova arresta,
 Intento in atto di stupor profondo,
 Come sopra una festa
@@ -62,7 +62,7 @@ Come il pezzente cieco o vagabondo
 Erra di porta in porta,
 Essi così vanno di mondo in mondo.
 
-    Vanno coi figli come un gran tesoro
+Vanno coi figli come un gran tesoro
 Celando in petto una moneta d’oro,
 Frutto segreto d’infiniti stonti,
 E le donne con loro,
@@ -83,7 +83,7 @@ Tornerebbe a morir sopra i nativi
 Monti, nel triste nido
 Dove piangono i suoi vecchi malvivi.
 
-    Addio, poveri vecchi! In men d’un anno
+Addio, poveri vecchi! In men d’un anno
 Rosi dalla miseria e dall’affanno,
 Forse morrete là senza compianto,
 E i figli nol sapranno,
@@ -104,7 +104,7 @@ Chi versando un’amara onda dagli occhi
 La sua compagna abbraccia,
 Chi supplicando Iddio piega i ginocchi.
 
-    E il naviglio s’affretta, e il giorno muore,
+E il naviglio s’affretta, e il giorno muore,
 E un suon di pianti e d’urli di dolore
 Vagamente confuso al suon dell’onda
 Viene a morir nel core
@@ -125,9 +125,9 @@ E ritrovare ancor de le deserte
 Case sui limitari
 I vostri vecchi con le braccia aperte.
 
-    EDMONDO DE AMICIS
+EDMONDO DE AMICIS
 
-    POESIE, MILANO, FRATELLI TREVES, EDITORI, 1882
+POESIE, MILANO, FRATELLI TREVES, EDITORI, 1882
 
     
 ![](images/2023/09/img_4048.jpg)
