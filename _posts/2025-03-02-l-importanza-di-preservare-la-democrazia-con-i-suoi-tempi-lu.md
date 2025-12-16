@@ -1,4 +1,12 @@
----layout: posttitle: "L'importanza di preservare la democrazia, con i suoi tempi lunghi e le sue imperfezioni"date: 2025-03-02 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/03/img_6160-1.jpgcategories: [Cultura, Politica Nazionale]tags: ["crisi", "democrazia", "diritti", "Etica", "Europa", "giustizia", "Governo", "politica", "preservare", "proteggere", "repressione", "societ\u00e0", "Solidariet\u00e0", "UE"]---
+---
+layout: post
+title: "L'importanza di preservare la democrazia, con i suoi tempi lunghi e le sue imperfezioni"
+date: 2025-03-02 00:00:00 +0100
+author: lino-rialti
+image: /assets/images/2025/03/img_6160-1.jpg
+categories: [Cultura, Politica Nazionale]
+tags: ["crisi", "democrazia", "diritti", "Etica", "Europa", "giustizia", "Governo", "politica", "preservare", "proteggere", "repressione", "societ\u00e0", "Solidariet\u00e0", "UE"]
+---
 
 Dobbiamo proteggere la democrazia. In un periodo storico con quello attuale, in cui c’è in cantiere il progetto di demolire la democrazia, facendola passare per qualcosa di inutile, ridondante, lento, antieconomico e, addirittura, non rappresentativo, risulta urgente agire di converso.
 

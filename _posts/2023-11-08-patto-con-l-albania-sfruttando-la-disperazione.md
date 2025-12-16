@@ -1,4 +1,12 @@
----layout: posttitle: "Patto con l'Albania: sfruttando la disperazione"date: 2023-11-08 00:00:00 +0100author: lino-rialtiimage: /assets/images/2023/11/shengjin_wpwtr16.jpgcategories: [diritti umani, Politica Internazionale]tags: ["accordo", "albania", "edi rama", "Gjader", "immigrazione", "Meloni", "PD", "Shengjin", "Shlein"]---
+---
+layout: post
+title: "Patto con l'Albania: sfruttando la disperazione"
+date: 2023-11-08 00:00:00 +0100
+author: lino-rialti
+image: /assets/images/2023/11/shengjin_wpwtr16.jpg
+categories: [diritti umani, Politica Internazionale]
+tags: ["accordo", "albania", "edi rama", "Gjader", "immigrazione", "Meloni", "PD", "Shengjin", "Shlein"]
+---
 
 Un paio di giorni fa il coup de theatre: dal cilindro dell'illusionista capo, la nostra *Maggica* Giorgia, è uscito un coniglio dalla forma di protocollo con l'Albania sulla gestione dei migranti. E' stata magia pura.
 

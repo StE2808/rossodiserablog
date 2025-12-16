@@ -1,4 +1,12 @@
----layout: posttitle: "La via tortuosa verso la Pace: preservare l'Umanità nel Medio Oriente"date: 2023-10-11 00:00:00 +0100author: stefano-vozziimage: /assets/images/2023/10/pexels-photo-12018418.jpegcategories: [Mondo, Politica Internazionale]tags: ["Conflitto", "Corridoi Umanitari", "Diritti Civili", "Geopolitica", "guerra", "hamas", "Iran", "israele", "Medio Oriente", "Pace", "Salvaguardia Civili", "Stabilit\u00e0", "Striscia di Gaza"]---
+---
+layout: post
+title: "La via tortuosa verso la Pace: preservare l'Umanità nel Medio Oriente"
+date: 2023-10-11 00:00:00 +0100
+author: stefano-vozzi
+image: /assets/images/2023/10/pexels-photo-12018418.jpeg
+categories: [Mondo, Politica Internazionale]
+tags: ["Conflitto", "Corridoi Umanitari", "Diritti Civili", "Geopolitica", "guerra", "hamas", "Iran", "israele", "Medio Oriente", "Pace", "Salvaguardia Civili", "Stabilit\u00e0", "Striscia di Gaza"]
+---
 
 La tensione tra Israele e la Striscia di Gaza, in particolare tra Israele e Hamas, è inserita in un contesto storico e geopolitico più ampio che coinvolge anche Iran, Libano e Siria. La radice del conflitto affonda in una mescolanza di questioni territoriali, differenze religiose e ideologiche, nonché interessi geopolitici e influenze esterne.
 

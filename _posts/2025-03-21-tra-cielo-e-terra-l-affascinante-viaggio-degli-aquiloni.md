@@ -1,4 +1,12 @@
----layout: posttitle: "Tra cielo e terra: L'affascinante viaggio degli aquiloni"date: 2025-03-21 00:00:00 +0100author: stefano-vozziimage: /assets/images/2025/03/pexels-photo-29963661.jpegcategories: [Arte, Cultura, Societ\u00e0, Sport]tags: ["aquiloni", "aquiloni artistici", "aquiloni moderni", "arte del volo", "festival degli aquiloni", "filosofia dell'aquilone", "libert\u00e0 e vincolo", "origini cinesi", "sport con aquiloni", "storia degli aquiloni"]---
+---
+layout: post
+title: "Tra cielo e terra: L'affascinante viaggio degli aquiloni"
+date: 2025-03-21 00:00:00 +0100
+author: stefano-vozzi
+image: /assets/images/2025/03/pexels-photo-29963661.jpeg
+categories: [Arte, Cultura, Societ\u00e0, Sport]
+tags: ["aquiloni", "aquiloni artistici", "aquiloni moderni", "arte del volo", "festival degli aquiloni", "filosofia dell'aquilone", "libert\u00e0 e vincolo", "origini cinesi", "sport con aquiloni", "storia degli aquiloni"]
+---
 
 C'è qualcosa di magico nel vedere un aquilone librarsi nel cielo. Quel fragile oggetto colorato che volteggia tra le nuvole, tenuto a noi da un filo sottile, racchiude uno dei paradossi più belli della nostra esistenza: può volare solo perché è vincolato. È libero proprio in virtù di ciò che lo lega.
 

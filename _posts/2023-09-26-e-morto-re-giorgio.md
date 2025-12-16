@@ -1,4 +1,12 @@
----layout: posttitle: "E' morto Re Giorgio"date: 2023-09-26 00:00:00 +0100author: lino-rialtiimage: /assets/images/2023/09/img_4062.jpgcategories: [Politica Nazionale]tags: ["comunismo", "Giorgio", "migliorista", "morto", "Napolitano", "politica", "socialdemocrazia"]---
+---
+layout: post
+title: "E' morto Re Giorgio"
+date: 2023-09-26 00:00:00 +0100
+author: lino-rialti
+image: /assets/images/2023/09/img_4062.jpg
+categories: [Politica Nazionale]
+tags: ["comunismo", "Giorgio", "migliorista", "morto", "Napolitano", "politica", "socialdemocrazia"]
+---
 
 Non è mai il momento giusto per morire. Novantotto anni non sono pochi, ma non sono mai abbastanza gli anni per lasciare tutto e tutti , in questi ultimi tempi si era ritagliato più tempo per la vita privata, soprattutto per la sua famiglia, la moglie sempre presente e sempre sua attenta consigliera, i suoi nipoti, ai quali certamente mancherà e per i quali era sempre stato presente, come hanno tenuto a far sapere commossi in un bel discorso pubblico d'addio.
 

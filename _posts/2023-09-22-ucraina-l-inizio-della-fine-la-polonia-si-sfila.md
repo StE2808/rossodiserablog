@@ -1,4 +1,12 @@
----layout: posttitle: "Ucraina, l'inizio della fine: la Polonia si sfila"date: 2023-09-22 00:00:00 +0100author: lino-rialtiimage: /assets/images/2023/09/finta_infografica.pngcategories: [Mondo, Politica Internazionale, societ\u00e0]tags: ["Andrzej Duda", "Duda", "Europa", "guerra", "Liev", "Mateusz Morawiecki", "Nazioni Unite", "Polonia PIS", "Ucraina", "Varsavia", "Zelensky"]---
+---
+layout: post
+title: "Ucraina, l'inizio della fine: la Polonia si sfila"
+date: 2023-09-22 00:00:00 +0100
+author: lino-rialti
+image: /assets/images/2023/09/finta_infografica.png
+categories: [Mondo, Politica Internazionale, societ\u00e0]
+tags: ["Andrzej Duda", "Duda", "Europa", "guerra", "Liev", "Mateusz Morawiecki", "Nazioni Unite", "Polonia PIS", "Ucraina", "Varsavia", "Zelensky"]
+---
 
 E noi continuiamo ad armarli e a illuderli. Intanto, la controffensiva militare ucraina è al palo e l'esercito russo devasta a distanza, senza perdite, ma finendo di tirare giù, assieme agli ultimi palazzi in piedi, anche il morale della popolazione, oramai allo stremo. L'inverno è alle porte e quest'anno sarà più duro che mai: niente gas e niente elettricità nella maggior parte dei quartieri di tutte le città e dei villaggi ucraini.
 

@@ -1,4 +1,11 @@
----layout: posttitle: "L'Intelligenza Artificiale è qui: come gestirla senza farla diventare un Frankenstein 2.0"date: 2023-09-27 00:00:00 +0100author: stefano-vozziimage: /assets/images/2023/09/ste_spi_artificial_intelligence_collaborates_with_human_intelli_75784460-8fe4-4c33-a3f5-2af93a85f18e.pngcategories: [Cultura e Societ\u00e0, Economia, Mondo]---
+---
+layout: post
+title: "L'Intelligenza Artificiale è qui: come gestirla senza farla diventare un Frankenstein 2.0"
+date: 2023-09-27 00:00:00 +0100
+author: stefano-vozzi
+image: /assets/images/2023/09/ste_spi_artificial_intelligence_collaborates_with_human_intelli_75784460-8fe4-4c33-a3f5-2af93a85f18e.png
+categories: [Cultura e Societ\u00e0, Economia, Mondo]
+---
 
 Parliamo spesso di AI come fosse roba da "Star Trek", ma la realtà è che è già qui ed è più intrusiva di una suocera a cena. Quindi, come sta cambiando la nostra vita questa Intelligenza Artificiale?
 

@@ -1,4 +1,12 @@
----layout: posttitle: "L'Italia dei Mendicanti: Un Ritorno alle Origini"date: 2025-01-18 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/01/img_6006-1.jpgcategories: [Cultura, Politica Nazionale]tags: ["comparaggio", "diritti", "Economia", "Etica", "Europa", "giustizia", "Governo", "guerra", "lavoro", "Meloni", "Migrazione", "politica", "povert\u00e0", "sicurezza", "societ\u00e0", "USA"]---
+---
+layout: post
+title: "L'Italia dei Mendicanti: Un Ritorno alle Origini"
+date: 2025-01-18 00:00:00 +0100
+author: lino-rialti
+image: /assets/images/2025/01/img_6006-1.jpg
+categories: [Cultura, Politica Nazionale]
+tags: ["comparaggio", "diritti", "Economia", "Etica", "Europa", "giustizia", "Governo", "guerra", "lavoro", "Meloni", "Migrazione", "politica", "povert\u00e0", "sicurezza", "societ\u00e0", "USA"]
+---
 
 C'era una volta l'Italia del miracolo economico, della dignità ritrovata, dell'orgoglio di una nazione che si era rialzata dalle macerie della guerra. Quell'Italia sembra oggi un ricordo sbiadito, sostituita da un nuovo medioevo sociale dove il "cappello in mano" è tornato a essere la postura nazionale prediletta.
 

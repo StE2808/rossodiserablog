@@ -1,4 +1,12 @@
----layout: posttitle: "E' morta la Primula Rossa"date: 2024-03-05 00:00:00 +0100author: lino-rialtiimage: /assets/images/2024/03/220px-curcio_balzerani-1.webpcategories: [Cronaca, Cultura, societ\u00e0]tags: ["Barbara Balzerani", "Br", "Brigate Rosse", "Gianni Pelosi", "Girolamo Minervini", "James Lee Dozier", "Mario Moretti", "Partito Comunista Combattente", "Renato Curcio", "Sara", "sequestro Moro"]---
+---
+layout: post
+title: "E' morta la Primula Rossa"
+date: 2024-03-05 00:00:00 +0100
+author: lino-rialti
+image: /assets/images/2024/03/220px-curcio_balzerani-1.webp
+categories: [Cronaca, Cultura, societ\u00e0]
+tags: ["Barbara Balzerani", "Br", "Brigate Rosse", "Gianni Pelosi", "Girolamo Minervini", "James Lee Dozier", "Mario Moretti", "Partito Comunista Combattente", "Renato Curcio", "Sara", "sequestro Moro"]
+---
 
 Barbara Barzerani è morta ieri. Balzerani è stata una tra gli ultimi esponenti delle Brigate Rosse ad essere arrestata: fu catturata il 19 giugno 1985, assieme a Gianni Pelosi. Barbara godeva di quest'aura di inafferrabilità, per questo venne soprannominata la **Primula Rossa**.
 

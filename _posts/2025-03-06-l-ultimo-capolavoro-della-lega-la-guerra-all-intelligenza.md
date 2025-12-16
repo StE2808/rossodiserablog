@@ -1,4 +1,12 @@
----layout: posttitle: "L'ULTIMO CAPOLAVORO DELLA LEGA: LA GUERRA ALL'INTELLIGENZA!"date: 2025-03-06 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/03/img_6174-1.jpgcategories: [Politica Nazionale]tags: ["Cultura", "diritto", "Etica", "Governo", "Istruzione", "lega", "Lollobrigida", "Meloni", "Piemonte", "politica", "Riforme", "Salute", "salvini", "sanit\u00e0", "sociale", "societ\u00e0", "studio", "taglio", "trogloditi"]---
+---
+layout: post
+title: "L'ULTIMO CAPOLAVORO DELLA LEGA: LA GUERRA ALL'INTELLIGENZA!"
+date: 2025-03-06 00:00:00 +0100
+author: lino-rialti
+image: /assets/images/2025/03/img_6174-1.jpg
+categories: [Politica Nazionale]
+tags: ["Cultura", "diritto", "Etica", "Governo", "Istruzione", "lega", "Lollobrigida", "Meloni", "Piemonte", "politica", "Riforme", "Salute", "salvini", "sanit\u00e0", "sociale", "societ\u00e0", "studio", "taglio", "trogloditi"]
+---
 
 Oh, ma che splendida notizia ci giunge dal Piemonte!
 

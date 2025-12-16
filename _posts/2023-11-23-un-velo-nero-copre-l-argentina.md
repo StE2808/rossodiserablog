@@ -1,4 +1,12 @@
----layout: posttitle: "Un velo nero copre l'Argentina"date: 2023-11-23 00:00:00 +0100author: lino-rialtiimage: /assets/images/2023/11/img_4312.jpgcategories: [Cronaca, Mondo, Politica Internazionale]tags: ["Argentina", "ballottaggio", "Bolivia", "Brasile", "Cuba", "Ecuador", "Governo", "Milei", "Orban", "Per\u00f9", "politica", "societ\u00e0", "Uruguay", "USA", "Villaruel", "votazioni", "Vox"]---
+---
+layout: post
+title: "Un velo nero copre l'Argentina"
+date: 2023-11-23 00:00:00 +0100
+author: lino-rialti
+image: /assets/images/2023/11/img_4312.jpg
+categories: [Cronaca, Mondo, Politica Internazionale]
+tags: ["Argentina", "ballottaggio", "Bolivia", "Brasile", "Cuba", "Ecuador", "Governo", "Milei", "Orban", "Per\u00f9", "politica", "societ\u00e0", "Uruguay", "USA", "Villaruel", "votazioni", "Vox"]
+---
 
 Il populismo ha vinto. La rabbia popolare guidata contro la "casta" ha scardinato ogni possibile equilibrio ed ha fatto assurgere il guastatore Milei. Al ballottaggio si è aggiudicato per il rotto della cuffia la presidenza argentina.
 
