@@ -1,8 +1,28 @@
 # Configurazione Rosso di Sera Blog
-title: Rosso di Sera
-description: Una Luce nel Mondo Digitale
+title: "Rosso di Sera"
+tagline: "Una luce nel mondo digitale"
+description: "Blog di riflessioni, cultura e tecnologia. Esploriamo insieme il mondo digitale con uno sguardo critico e appassionato."
 url: "https://ste2808.github.io"
 baseurl: "/rossodiserablog"
+
+# Author principale (per SEO)
+author:
+  name: "Lino Rialti & StE2808"
+  email: "s.vozzi@gmail.com"
+  twitter: "@rossodiserablog"
+
+# Logo per Schema.org
+logo: "/assets/images/logo_trasparenza.png"
+
+# Social profiles
+social:
+  name: "Rosso di Sera"
+  links:
+    - https://github.com/StE2808/rossodiserablog
+
+# Impostazioni SEO
+lang: it_IT
+timezone: Europe/Rome
 
 # Autori
 collections:
@@ -21,6 +41,13 @@ paginate_path: "/pagina/:num/"
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Feed RSS
+feed:
+  path: feed.xml
+  excerpt_only: true
 
 # Defaults
 defaults:
@@ -29,6 +56,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      sitemap: true
   - scope:
       path: ""
       type: "authors"
@@ -41,6 +69,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
-
-# Timezone
-timezone: Europe/Rome
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - admin/config.yml

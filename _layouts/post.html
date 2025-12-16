@@ -2,6 +2,35 @@
 layout: default
 ---
 
+<!-- Schema.org JSON-LD per Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | default: page.seo_description | strip_html | escape }}",
+  "image": {% if page.image %}"{{ page.image | absolute_url }}"{% else %}"{{ '/assets/images/logo_trasparenza.png' | absolute_url }}"{% endif %},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "{% if page.author %}{% assign author = site.authors | where: 'username', page.author | first %}{{ author.name }}{% else %}{{ site.author.name }}{% endif %}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/assets/images/logo_trasparenza.png' | absolute_url }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
+
 <article class="post-single">
     <header class="post-header">
         <h1>{{ page.title }}</h1>
