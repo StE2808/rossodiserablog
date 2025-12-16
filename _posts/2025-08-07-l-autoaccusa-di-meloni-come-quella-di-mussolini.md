@@ -3,6 +3,7 @@ layout: post
 title: "L’autoaccusa di Meloni come quella di Mussolini"
 date: 2025-08-07 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/08/img_6680.jpg
 categories: [Cronaca, Cultura, Politica Nazionale, societ\u00e0]
 tags: ["Almasri", "diritti", "Etica", "Europa", "fascismo", "Giorgia Meloni", "giustizia", "Governo", "Identit\u00e0", "Meloni", "Mussolini", "odio", "politica", "repressione", "sicurezza", "sociale", "violenza"]
 ---

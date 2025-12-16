@@ -3,6 +3,7 @@ layout: post
 title: "Gaza: assuefazione alla morte"
 date: 2023-12-13 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/12/img_4371-1.jpg
 categories: [Cronaca, diritti umani, Mondo, Politica Internazionale, societ\u00e0]
 tags: ["children", "diritti", "Economia", "gaza", "guerra", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "resistenza", "sicurezza", "sociale", "Solidariet\u00e0", "Umanit\u00e0", "USA", "violenza"]
 ---

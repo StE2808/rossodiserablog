@@ -3,6 +3,7 @@ layout: post
 title: "Quel sovranista di Fleximan"
 date: 2024-02-04 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/02/img_4564-1.jpg
 tags: ["cambiamento climatico", "clima", "climatica", "Etica", "Fleximan", "giustizia", "Governo", "impatto ambientale", "inquinamento", "Lutto", "Meloni", "mercato", "Morte", "politica", "sicurezza", "societ\u00e0", "sovranisti", "trogloditi", "UE", "violenza"]
 ---
 

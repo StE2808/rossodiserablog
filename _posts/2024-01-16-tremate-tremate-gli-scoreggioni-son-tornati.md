@@ -3,6 +3,7 @@ layout: post
 title: "Tremate, tremate gli scoreggioni son tornati"
 date: 2024-01-16 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/01/img_4495-1.jpg
 categories: [Cultura, Cultura e Societ\u00e0, societ\u00e0]
 tags: ["cancelculture", "diritti", "fascismo", "fascisti", "LGBTQ+", "Meloni", "Noam Chomsky", "politica", "social", "Social Media", "sociale", "sociologia", "sociologo", "solidale", "Solidariet\u00e0", "sottofascismo"]
 ---

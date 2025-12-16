@@ -3,6 +3,7 @@ layout: post
 title: "Quando il pulpito diventa tribuna politica"
 date: 2025-08-04 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/08/img_6676.jpg
 categories: [Cronaca, Politica Nazionale]
 tags: ["associazione", "Cannizzaro", "concorso", "diritti", "don. Lucio", "esterno", "Etica", "Forza italia", "giustizia", "Governo", "mafia", "mafiosa", "malaffare", "Meloni", "politica", "societ\u00e0", "Solidariet\u00e0", "Stati Generali sud"]
 ---

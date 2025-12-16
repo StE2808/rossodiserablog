@@ -3,6 +3,7 @@ layout: post
 title: "Islanda: donne in sciopero per le donne"
 date: 2023-10-24 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/10/1447231.jpg
 categories: [Cronaca, societ\u00e0]
 tags: ["donne", "Kallar\u00f0u \u00feetta jafnr\u00e9tti", "sciopero"]
 ---

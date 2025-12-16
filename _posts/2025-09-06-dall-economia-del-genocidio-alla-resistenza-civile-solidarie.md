@@ -3,6 +3,7 @@ layout: post
 title: "Dall’economia del genocidio alla resistenza civile: solidarietà alla Global Sumud Flotilla"
 date: 2025-09-06 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/09/img_6748.jpg
 tags: ["diritti", "Economia", "Etica", "Europa", "gaza", "giustizia", "GlobalSumudFlottilla", "Governo", "guerra", "Meloni", "mercato", "odio", "Pace", "palestina", "politica", "societ\u00e0", "Solidariet\u00e0", "USA", "violenza"]
 ---
 

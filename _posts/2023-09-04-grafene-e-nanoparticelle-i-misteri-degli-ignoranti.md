@@ -3,6 +3,7 @@ layout: post
 title: "Grafene e nanoparticelle, i misteri degli ignoranti"
 date: 2023-09-04 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/black-eyed-kids-legend.webp
 categories: [Salute]
 tags: ["5G", "balck", "children", "covid", "eyed", "grafene", "malattia", "nanoparticelle", "sociale"]
 ---

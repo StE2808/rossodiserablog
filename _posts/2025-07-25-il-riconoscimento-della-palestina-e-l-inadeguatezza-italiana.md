@@ -3,6 +3,7 @@ layout: post
 title: "Il riconoscimento della Palestina e l’inadeguatezza italiana"
 date: 2025-07-25 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/07/img_6654.jpg
 categories: [Politica Internazionale]
 tags: ["diritti", "Etica", "Europa", "gaza", "giustizia", "Governo", "guerra", "israele", "Meloni", "odio", "Pace", "palestina", "politica", "repressione", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]
 ---

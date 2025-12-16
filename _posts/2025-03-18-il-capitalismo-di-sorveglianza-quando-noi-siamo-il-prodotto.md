@@ -3,6 +3,7 @@ layout: post
 title: "Il Capitalismo di Sorveglianza: Quando Noi Siamo il Prodotto"
 date: 2025-03-18 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2025/03/capitalismo_di_sorveglianza.jpg
 categories: [Cultura e Societ\u00e0, diritti umani, Economia, Mondo, Politica Internazionale, Politica Nazionale]
 tags: ["algoritmi", "asimmetria informativa", "Cambridge Analytica", "dati personali", "democrazia digitale", "design persuasivo", "economia dell'attenzione", "Facebook", "GDPR", "Google", "manipolazione comportamentale", "monetizzazione dei dati", "polarizzazione", "pregiudizi algoritmi", "privacy digitale", "prodotti predittivi", "Shoshana Zuboff", "tecnologia e societ\u00e0"]
 ---

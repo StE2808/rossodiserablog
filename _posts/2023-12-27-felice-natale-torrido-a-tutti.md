@@ -3,6 +3,7 @@ layout: post
 title: "Felice Natale torrido a tutti"
 date: 2023-12-27 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/12/img_4426-1.jpg
 categories: [Ambiente, Cultura e Societ\u00e0]
 tags: ["arabi", "cambiamento climatico", "clima", "climatica", "COP28", "crisi", "diritti", "Emirati", "Etica", "Europa", "giustizia", "inquinamento", "Natale", "plastica", "politica", "Russia", "societ\u00e0", "Solidariet\u00e0", "torrido", "UAE", "UE", "Uniti", "USA"]
 ---

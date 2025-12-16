@@ -3,6 +3,7 @@ layout: post
 title: "I segnali della guerra"
 date: 2024-04-22 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/04/8-soccorso-1024x683-1.jpg
 categories: [Cultura, Politica Internazionale, Politica Nazionale]
 tags: ["devastazione", "guerra", "Guerra Mondiale", "Morte", "ospedale", "pittogramma", "rifugio", "rifugio antiaereo", "segnale murale", "segnali"]
 ---

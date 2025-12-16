@@ -3,6 +3,7 @@ layout: post
 title: "Quando avevo tredici anni"
 date: 2024-03-06 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/03/img_4687-1.jpg
 tags: ["Ambiente", "Amore", "anarchia", "anni 70", "anni 80", "diritti", "Economia", "Etica", "Generazioni Future", "giovani", "giovent\u00f9", "giustizia", "Governo", "guerra", "Identit\u00e0", "odio", "partito", "politica", "repressione", "sociale", "societ\u00e0", "Solidariet\u00e0", "Umanit\u00e0"]
 ---
 

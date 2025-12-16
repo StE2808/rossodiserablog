@@ -3,6 +3,7 @@ layout: post
 title: "Chico: la vera storia di un personaggio finto"
 date: 2024-05-24 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/05/img_4987-1.jpg
 tags: ["Chico forti", "diritti", "Etica", "giustizia", "Governo", "Meloni", "politica", "societ\u00e0", "UE", "USA"]
 ---
 

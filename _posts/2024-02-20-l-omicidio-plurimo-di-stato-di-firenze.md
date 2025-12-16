@@ -3,6 +3,7 @@ layout: post
 title: "L’omicidio plurimo di Stato di Firenze"
 date: 2024-02-20 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/02/img_4623-1.jpg
 tags: ["Ambiente", "diritti", "Economia", "emigranti", "Governo", "incidente sul lavoro", "infortunio sul lavoro", "lavoratori", "lavoro", "malattia", "Meloni", "mercato", "migranti", "morti bianche", "politica", "Salute", "sicurezza", "societ\u00e0"]
 ---
 

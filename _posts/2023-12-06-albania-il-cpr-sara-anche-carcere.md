@@ -3,6 +3,7 @@ layout: post
 title: "Albania: il Cpr sarà anche carcere"
 date: 2023-12-06 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/12/cie.jpg
 categories: [Cronaca, diritti umani]
 tags: ["albania", "cie", "Cpr", "Governo", "immigrazione", "Meloni", "migranti", "rotte"]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "Violenza di genere: conoscere per cambiare"
 date: 2023-11-24 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/jina.jpeg
 categories: [Cultura, Cultura e Societ\u00e0, diritti umani]
 tags: ["Educazione", "femminicidio", "gender", "possesso", "ReatiSessuali", "violenza", "violenza di genere", "ViolenzaSessuale"]
 ---

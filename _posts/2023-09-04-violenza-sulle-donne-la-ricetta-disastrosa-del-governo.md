@@ -3,6 +3,7 @@ layout: post
 title: "Violenza sulle donne: la ricetta disastrosa del Governo"
 date: 2023-09-04 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/img_3987.jpg
 tags: ["odio", "violenza di genere", "violenza fisica", "violenza sulle donne", "violenzapsicologica"]
 ---
 

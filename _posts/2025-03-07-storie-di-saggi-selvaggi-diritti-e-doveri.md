@@ -3,6 +3,7 @@ layout: post
 title: "Storie di saggi, selvaggi, diritti e doveri"
 date: 2025-03-07 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/03/img_6180-1.jpg
 categories: [Cultura, Mondo]
 tags: ["Cina", "crisi", "diritti", "diritti umani", "Economia", "emigranti", "Etica", "Europa", "giustizia", "Governo", "guerra", "Meloni", "mercato", "migranti", "odio", "Orban", "Pace", "politica", "Russia", "salvini", "Schlein", "sicurezza", "societ\u00e0", "Solidariet\u00e0", "trogloditi", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---

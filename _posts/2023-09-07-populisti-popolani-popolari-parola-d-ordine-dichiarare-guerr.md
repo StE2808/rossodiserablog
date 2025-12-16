@@ -3,6 +3,7 @@ layout: post
 title: "Populisti, popolani, popolari: parola d’ordine, dichiarare guerra a tutto e tutti"
 date: 2023-09-07 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/img_3995.jpg
 categories: [Politica Nazionale]
 tags: ["diritti", "guerra", "lavoro", "Meloni", "politica", "reddito", "sociale"]
 ---

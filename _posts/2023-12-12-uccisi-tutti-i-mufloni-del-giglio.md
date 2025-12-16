@@ -3,6 +3,7 @@ layout: post
 title: "Uccisi tutti i mufloni del Giglio"
 date: 2023-12-12 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/12/img_4370-1.jpg
 categories: [societ\u00e0]
 tags: ["35", "giglio", "isola", "mufloni", "sterminio", "uccisione"]
 ---

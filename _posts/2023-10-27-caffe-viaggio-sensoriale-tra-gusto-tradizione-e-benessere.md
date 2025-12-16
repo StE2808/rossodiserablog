@@ -3,6 +3,7 @@ layout: post
 title: "Caffè: Viaggio Sensoriale tra Gusto, Tradizione e Benessere"
 date: 2023-10-27 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2023/10/pexels-photo-18724101.jpeg
 categories: [Cultura, Cultura e Societ\u00e0, Gastronomia, Salute]
 tags: ["antiossidanti", "Benessere", "Bevande Popolari", "caff\u00e8", "Caffeina", "Cultura Italiana", "Esperienza Emotiva", "Origini Esotiche", "Preparazione del caff\u00e8", "Pressione Sanguigna", "Rito Mattutino", "Storia del caff\u00e8", "Tradizione", "Viaggio Sensoriale"]
 ---

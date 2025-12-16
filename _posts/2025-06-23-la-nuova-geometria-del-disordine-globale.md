@@ -3,6 +3,7 @@ layout: post
 title: "La Nuova Geometria del Disordine Globale"
 date: 2025-06-23 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/06/img_6520-1.jpg
 categories: [Mondo, Politica Internazionale, societ\u00e0]
 tags: ["crisi", "diritti", "Economia", "Etica", "Europa", "giustizia", "guerra", "Identit\u00e0", "Iran", "iraniani", "israele", "mercato", "odio", "Pace", "Russia", "sicurezza", "sociale", "Solidariet\u00e0", "Trump", "UE", "USA", "violenza"]
 ---

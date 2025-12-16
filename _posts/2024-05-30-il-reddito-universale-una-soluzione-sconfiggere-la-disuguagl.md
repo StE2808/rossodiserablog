@@ -3,6 +3,7 @@ layout: post
 title: "Il Reddito Universale: una soluzione sconfiggere la disuguaglianza economica"
 date: 2024-05-30 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/05/image.png
 tags: ["Ambiente", "Cultura", "Economia", "Etica", "Europa", "giustizia", "Governo", "lavoro", "mercato", "migranti", "politica", "reddito universale", "Salute", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "L’odore del ricordo"
 date: 2023-10-23 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/10/img_4182-1.jpg
 tags: ["Anni \u201960", "Forme", "giovent\u00f9", "giovinezza", "Lutto", "Madeleine", "Morte", "nonna", "nonno", "Proust", "ragazzi", "ricordo", "societ\u00e0", "Solidariet\u00e0"]
 ---
 

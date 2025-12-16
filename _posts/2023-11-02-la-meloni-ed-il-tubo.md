@@ -3,6 +3,7 @@ layout: post
 title: "La Meloni ed il tubo"
 date: 2023-11-02 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/img_4211-1.jpg
 categories: [Politica Nazionale]
 tags: ["Etica", "Governo", "guerra", "Meloni", "politica", "Russia", "sicurezza", "trogloditi", "Ucraina"]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "Cambiamento Climatico e Aumento dei Prezzi Alimentari: Una Tendenza Preoccupante"
 date: 2023-09-16 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2023/09/climate_change_food.png
 categories: [Ambiente, Economia, Mondo]
 tags: ["Argentina", "aumento dei prezzi alimentari", "Brasile", "caff\u00e8", "cambiamento climatico", "Colombia", "Costa d'Avorio", "cultura tradizionale", "Ecuador", "impatti climatici", "India", "investimenti per il clima", "paesi vulnerabili", "stile di vita", "tonno", "Uganda", "Vietnam"]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "Meloni contro i diritti dei lavoratori"
 date: 2025-07-21 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/07/img_6622-1.jpg
 categories: [Politica Nazionale]
 tags: ["decreto", "diritti", "Economia", "giustizia", "Governo", "Ilva", "lavoratori", "lavoro", "Meloni", "politica", "sociale"]
 ---

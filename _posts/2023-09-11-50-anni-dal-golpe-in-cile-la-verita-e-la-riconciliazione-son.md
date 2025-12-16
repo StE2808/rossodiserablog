@@ -3,6 +3,7 @@ layout: post
 title: "50 anni dal golpe in Cile: la verità e la riconciliazione sono lontane"
 date: 2023-09-11 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/golpe-pinochet.jpg
 categories: [societ\u00e0]
 tags: ["Cile", "Desaparecidos", "Golpe", "Moneda", "Pinochet", "Santiago", "USA"]
 ---

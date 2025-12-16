@@ -3,6 +3,7 @@ layout: post
 title: "Come le luci disegnano l’essenza di una città"
 date: 2023-10-28 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2023/10/img_5609.jpeg
 categories: [Cultura, Cultura e Societ\u00e0]
 tags: ["Atmosfera", "Benessere", "Citt\u00e0", "Comportamento", "Comunit\u00e0", "Crepuscolo", "Grattacielo", "Identit\u00e0", "Illuminazione urbana", "Lampioni", "Luci", "Metropoli", "Neon", "Roma", "Stato d'animo", "Storia", "Tokyo", "Trastevere"]
 ---

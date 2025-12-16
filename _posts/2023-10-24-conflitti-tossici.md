@@ -3,6 +3,7 @@ layout: post
 title: "Conflitti tossici"
 date: 2023-10-24 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/10/giorgia_meloni_quirinale_2019.jpg
 categories: [Politica Nazionale, societ\u00e0]
 tags: ["Berlusconi", "conflitto d'interessi", "Forza italia", "Fratelli d'Italia", "fuorionda", "Giambruno", "Meloni"]
 ---

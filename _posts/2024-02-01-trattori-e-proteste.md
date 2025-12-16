@@ -3,6 +3,7 @@ layout: post
 title: "Trattori e proteste"
 date: 2024-02-01 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/02/img_4545-1.jpg
 categories: [Ambiente, Cronaca, Politica Nazionale]
 tags: ["blocchi", "cambiamento climatico", "clima", "climatica", "diritti", "Economia", "Europa", "Generazioni Future", "giustizia", "Governo", "impatti climatici", "impatto ambientale", "inquinamento", "lavoro", "manifestazioni", "Meloni", "mercato", "politica", "repressione", "salvini", "sicurezza", "societ\u00e0", "strada", "stradali", "strade trattori", "UE", "violenza"]
 ---

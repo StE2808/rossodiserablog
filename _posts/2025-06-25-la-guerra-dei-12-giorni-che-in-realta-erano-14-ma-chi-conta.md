@@ -3,6 +3,7 @@ layout: post
 title: "La Guerra dei 12 Giorni (che in realtà erano 14, ma chi conta?)"
 date: 2025-06-25 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/06/img_6531-1.jpg
 categories: [Cronaca, diritti umani, Mondo, Politica Internazionale]
 tags: ["Conflitto", "crisi", "Cultura", "gaza", "giustizia", "Governo", "guerra", "hamas", "Iran", "israele", "libert\u00e0", "Meloni", "odio", "Pace", "palestina", "politica", "repressione", "resistenza", "societ\u00e0", "Trump", "UE", "Umanit\u00e0", "USA", "violenza"]
 ---

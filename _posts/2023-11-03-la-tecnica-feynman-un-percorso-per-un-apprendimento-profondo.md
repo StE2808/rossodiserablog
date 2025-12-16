@@ -3,6 +3,7 @@ layout: post
 title: "La Tecnica Feynman: Un Percorso per un Apprendimento Profondo e Autonomo"
 date: 2023-11-03 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2023/11/richard_feynman_1959.png
 categories: [Cultura e Societ\u00e0, Scuola e Istruzione]
 tags: ["Apprendimento Profondo", "Autonomia nell'Apprendimento", "Autovalutazione", "Competenze Trasversali", "Comunicazione Efficace", "Connettivit\u00e0 del Sapere", "Empatia nell'Insegnamento", "Insegnamento Semplificato", "Memoria a Lungo Termine", "Metodologie di Studio", "Pensiero Critico", "Richard Feynman", "Tecnica Feynman"]
 ---

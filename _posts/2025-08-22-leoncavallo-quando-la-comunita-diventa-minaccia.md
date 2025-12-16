@@ -3,6 +3,7 @@ layout: post
 title: "Leoncavallo: quando la comunità diventa “minaccia”"
 date: 2025-08-22 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/08/img_6714.jpg
 categories: [Cronaca, Cultura, Cultura e Societ\u00e0, Politica Nazionale]
 tags: ["centro", "diritti", "Etica", "giustizia", "Governo", "Leoncavallo", "politica", "sgombero", "sociale", "societ\u00e0"]
 ---

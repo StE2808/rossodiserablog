@@ -3,6 +3,7 @@ layout: post
 title: "Architetture a confronto: Ravenna e Perugia ed i loro Mercati Coperti"
 date: 2023-09-04 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/img_3980.jpg
 tags: ["architettura", "mercato", "mercato coperto", "Perugia", "Ravenna"]
 ---
 

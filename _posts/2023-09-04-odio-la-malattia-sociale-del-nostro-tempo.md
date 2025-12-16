@@ -3,6 +3,7 @@ layout: post
 title: "Odio: la malattia sociale del nostro tempo"
 date: 2023-09-04 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/img_3989.jpg
 tags: ["malattia", "odio", "politica", "sociale", "societ\u00e0"]
 ---
 

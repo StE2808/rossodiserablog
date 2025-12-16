@@ -3,6 +3,7 @@ layout: post
 title: "Assange: il giorno X e’ arrivato"
 date: 2024-02-21 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/02/img_4624-1.jpg
 categories: [societ\u00e0]
 tags: ["assange"]
 ---

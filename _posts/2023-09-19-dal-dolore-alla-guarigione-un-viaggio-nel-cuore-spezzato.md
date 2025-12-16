@@ -3,6 +3,7 @@ layout: post
 title: "Dal Dolore alla Guarigione: Un Viaggio nel Cuore Spezzato"
 date: 2023-09-19 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2023/09/ste_spi_a_broken_heart_style_drawing_minimalist-s_750_1c72fa8c-3805-423c-867d-a412bc202453.png
 categories: [Salute]
 tags: ["anima", "attacco cardiaco", "cardiomiopatia", "cuore", "dolore", "medicina", "Romanticismo", "sindrome del cuore spezzato", "sindrome di Takotsubo", "speranza.", "takotsubo"]
 ---

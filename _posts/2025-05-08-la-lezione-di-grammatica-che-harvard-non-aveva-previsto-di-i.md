@@ -3,6 +3,7 @@ layout: post
 title: "La lezione di grammatica che Harvard non aveva previsto di impartire"
 date: 2025-05-08 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/05/1c04ce84-2392-4051-b7fd-a3c740da0921-1.jpg
 categories: [Cultura, Cultura e Societ\u00e0, Economia, Politica Internazionale, universita\u2019]
 tags: ["Etica", "federale", "Governo", "grammatica", "ignoranza", "politica", "societ\u00e0", "Stati", "Trump", "Uniti", "USA"]
 ---

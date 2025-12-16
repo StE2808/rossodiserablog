@@ -3,6 +3,7 @@ layout: post
 title: "Stiamo rotolando verso l’abisso"
 date: 2025-02-27 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/02/img_6154-1.jpg
 categories: [Politica Internazionale]
 tags: ["Bannon", "diritti", "Economia", "Etica", "Europa", "fascismo", "fascista", "giustizia", "Governo", "Meloni", "migranti", "odio", "politica", "Russia", "sociale", "societ\u00e0", "trogloditi", "Trump", "Ucraina", "USA", "Zelensky"]
 ---

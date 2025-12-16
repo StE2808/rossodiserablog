@@ -3,6 +3,7 @@ layout: post
 title: "Rompiamo le catene: viaggio verso la libertà dalla violenza di genere"
 date: 2023-11-24 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/img_4318-1.jpg
 categories: [diritti umani, societ\u00e0]
 tags: ["Amore", "Cultura", "diritti", "genere", "giustizia", "Governo", "Identit\u00e0", "Lutto", "Morte", "odio", "politica", "Salute", "sicurezza", "sociale", "Solidariet\u00e0", "violenza", "violenza di genere", "violenza sulle donne"]
 ---

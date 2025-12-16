@@ -3,6 +3,7 @@ layout: post
 title: "La pace e i manganelli"
 date: 2024-02-24 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/02/img_4628-1.jpg
 categories: [Cronaca, Politica Nazionale, societ\u00e0]
 tags: ["Cultura", "diritti", "diritti umani", "Etica", "Firenze", "giustizia", "Governo", "manifestazioni", "Meloni", "odio", "Pace", "palestina", "Pisa", "politica", "repressione", "resistenza", "sicurezza", "sociale", "Solidariet\u00e0", "studenti", "violenza"]
 ---

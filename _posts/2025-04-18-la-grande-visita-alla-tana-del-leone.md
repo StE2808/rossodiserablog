@@ -3,6 +3,7 @@ layout: post
 title: "La Grande Visita alla Tana del Leone"
 date: 2025-04-18 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/04/img_6322-1.jpg
 categories: [Politica Internazionale]
 tags: ["Cina", "diritti", "emigranti", "Etica", "Europa", "giustizia", "Governo", "guerra", "Identit\u00e0", "Meloni", "mercato", "Morte", "odio", "Pace", "politica", "Russia", "societ\u00e0", "Trump", "Ucraina", "UE", "USA", "Viaggio"]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "Epistocrazia: Quando il Sapere Sfida il Voto Universale"
 date: 2025-02-07 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/02/img_6082-1.jpg
 categories: [Cultura, Politica Nazionale]
 tags: ["diritti", "epistocrazia", "Etica", "fascismo", "Generazioni Future", "Governo", "politica", "societ\u00e0"]
 ---

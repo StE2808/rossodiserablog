@@ -3,6 +3,7 @@ layout: post
 title: "25 aprile: pace e Liberazione"
 date: 2024-04-04 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/04/salvini_berlusconi_meloni_2018_collage.png
 categories: [Cultura, Politica Nazionale]
 tags: ["25 aprile", "Berlusconi", "Biden", "Conflitto", "fascismo", "fascista", "Fini", "Governo", "guerra", "Guerra Mondiale", "Liberazione", "Meloni", "Neofascismo", "neofascista", "Pace", "salvini", "Sangiuliano", "Zelensky"]
 ---

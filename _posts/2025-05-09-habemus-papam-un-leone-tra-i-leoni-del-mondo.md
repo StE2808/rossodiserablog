@@ -3,6 +3,7 @@ layout: post
 title: "Habemus Papam: un Leone tra i leoni del mondo"
 date: 2025-05-09 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/05/img_6397-1.jpg
 categories: [Cronaca, Cultura e Societ\u00e0, Mondo, Politica Internazionale, Religione, societ\u00e0]
 tags: ["americano", "chiesa", "Governo", "leone", "Pace", "Papa", "politica", "Trump", "USA", "vaticano", "XIV"]
 ---

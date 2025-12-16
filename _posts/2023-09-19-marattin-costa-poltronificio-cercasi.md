@@ -3,6 +3,7 @@ layout: post
 title: "Marattin-Costa: poltronificio cercasi"
 date: 2023-09-19 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/img_4035.jpg
 categories: [Cronaca, Politica Locale, Politica Nazionale]
 tags: ["Azione", "Calenda", "Costa", "Italia Viva", "Marattin", "Renzi", "Terzo Polo"]
 ---

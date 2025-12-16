@@ -3,6 +3,7 @@ layout: post
 title: "Dieta mediterranea: il trattorista ed il contadino"
 date: 2024-02-12 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/02/grano-1024x577-1.jpeg
 categories: [Ambiente, societ\u00e0]
 tags: ["carne", "cereali", "contadini", "dieta", "imprenditori agricoli", "land grabbing", "latte", "latticini", "obesit\u00e0", "PAC", "PIL", "proteste", "Salute", "trattoristi"]
 ---

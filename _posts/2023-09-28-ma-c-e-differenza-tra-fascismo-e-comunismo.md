@@ -3,6 +3,7 @@ layout: post
 title: "Ma c’è differenza tra Fascismo e Comunismo?"
 date: 2023-09-28 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/img_4065-1.jpg
 categories: [societ\u00e0]
 ---
 

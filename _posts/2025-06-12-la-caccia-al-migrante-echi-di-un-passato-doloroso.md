@@ -3,6 +3,7 @@ layout: post
 title: "La caccia al migrante: echi di un passato doloroso"
 date: 2025-06-12 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/06/img_6500-1.jpg
 tags: ["Cultura", "diritti", "diritti umani", "emigranti", "Europa", "giustizia", "Governo", "Identit\u00e0", "ignoranza", "immigrazione", "lavoro", "libert\u00e0", "migranti", "Migrazione", "odio", "politica", "repressione", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "UE", "Umanit\u00e0", "USA", "violenza"]
 ---
 

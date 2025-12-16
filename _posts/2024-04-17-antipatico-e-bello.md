@@ -3,6 +3,7 @@ layout: post
 title: "Antipatico e’ bello"
 date: 2024-04-17 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/04/img_4811-1.png
 tags: ["antipatia", "diritti", "Etica", "Governo", "odio", "politica", "societ\u00e0", "Solidariet\u00e0", "Umanit\u00e0"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Dal Patinato al Popolare: La Sfida del Progressismo in un Mondo Disilluso"
 date: 2024-11-06 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2024/11/f26adb31-17df-42e2-8003-dee839be4bf5-2.jpg
 categories: [societ\u00e0]
 ---
 

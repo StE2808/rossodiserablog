@@ -3,6 +3,7 @@ layout: post
 title: "L’Uomo-Ombra: Andrea Pignataro ricchissimo e sconosciuto"
 date: 2025-07-28 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/07/img_6664.jpg
 categories: [Economia, Inchiesta, societ\u00e0]
 tags: ["agenzia entrate", "Andrea", "Pignataro", "ricchezza", "ricco", "tasse"]
 ---

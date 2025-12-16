@@ -3,6 +3,7 @@ layout: post
 title: "Bombe al fosforo bianco sui civili a Gaza"
 date: 2023-11-02 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/img_4212-1.jpg
 categories: [societ\u00e0]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Sciopero: il braccio di ferro è iniziato"
 date: 2023-11-18 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/img_4275.jpg
 categories: [Cronaca, Economia, Politica Nazionale]
 tags: ["diritti", "giustizia", "Governo", "lavoratori", "lavoro", "manovra economica", "Meloni", "mercato", "politica", "sciopero", "societ\u00e0", "Solidariet\u00e0"]
 ---

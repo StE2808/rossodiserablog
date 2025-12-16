@@ -3,6 +3,7 @@ layout: post
 title: "Riforma Nordio: oltraggio alla dignità in carcere"
 date: 2023-11-20 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/img_4302-1.jpg
 categories: [societ\u00e0]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "L’eco inquietante della storia: quando il populismo risveglia gli spettri del passato"
 date: 2025-08-13 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/08/img_6699.jpg
 categories: [diritti umani, Politica Nazionale, societ\u00e0]
 tags: ["Astis", "auto", "bambini", "Cecilia", "de", "giustizia", "Governo", "incidente", "investimento", "nazismo", "nazisti", "pirata", "politica", "razzismo", "razzisti", "rom", "salvini", "Vannacci"]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "Immigrazione: paura e nemici"
 date: 2024-03-18 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/03/download-1.jpg
 categories: [Politica Nazionale]
 tags: ["diritti", "Economia", "emigranti", "Europa", "Governo", "Identit\u00e0", "immigrazione", "lavoro", "Meloni", "mercato", "migranti", "Migrazione", "odio", "politica", "sociale", "societ\u00e0", "Solidariet\u00e0"]
 ---

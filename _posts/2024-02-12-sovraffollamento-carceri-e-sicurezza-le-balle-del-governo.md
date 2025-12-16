@@ -3,6 +3,7 @@ layout: post
 title: "Sovraffollamento carceri e sicurezza: le balle del governo"
 date: 2024-02-12 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/02/img_4591-1.jpg
 tags: ["carceri", "diritti", "Etica", "Europa", "giustizia", "Governo", "Identit\u00e0", "lavoro", "Meloni", "migranti", "Migrazione", "politica", "Salute", "salvini", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "sovraffollamento", "violenza"]
 ---
 

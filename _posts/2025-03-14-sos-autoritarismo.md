@@ -3,6 +3,7 @@ layout: post
 title: "SOS AUTORITARISMO"
 date: 2025-03-14 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/03/img_6202-1.jpg
 categories: [Cultura, Cultura e Societ\u00e0]
 tags: ["autoritario", "autoritarismo", "Cina", "diritti", "diritti umani", "dittatore", "dittatura", "Economia", "Etica", "Europa", "fascismo", "fascista", "gaza", "giustizia", "Governo", "guerra", "mercato", "migranti", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "Russia", "Salute", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza"]
 ---

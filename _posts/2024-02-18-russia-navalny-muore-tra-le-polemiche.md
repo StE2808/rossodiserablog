@@ -3,6 +3,7 @@ layout: post
 title: "Russia: Navalny muore tra le polemiche"
 date: 2024-02-18 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/02/img_4612-1.jpg
 categories: [Mondo, Politica Internazionale, societ\u00e0]
 tags: ["Cultura", "Economia", "Europa", "giustizia", "Governo", "guerra", "lega", "Morte", "Navalny", "odio", "omicidio", "politica", "Russia", "salvini", "Ucraina", "violenza"]
 ---

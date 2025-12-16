@@ -3,6 +3,7 @@ layout: post
 title: "La Cina sta lanciando aiuti umanitari su Gaza: il paradosso di quando i ruoli si invertono"
 date: 2025-05-13 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2025/05/img_6425-1.jpg
 categories: [diritti umani, Mondo, Politica Internazionale, societ\u00e0]
 tags: ["aiuti", "Cina", "diritti", "Etica", "Europa", "gaza", "giustizia", "Governo", "guerra", "israele", "politica", "Solidariet\u00e0", "UE", "umanitari", "USA"]
 ---

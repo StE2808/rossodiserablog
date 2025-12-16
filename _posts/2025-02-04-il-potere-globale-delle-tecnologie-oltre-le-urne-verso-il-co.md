@@ -3,6 +3,7 @@ layout: post
 title: "Il potere globale delle tecnologie: oltre le urne, verso il controllo digitale"
 date: 2025-02-04 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2025/02/articolo.png
 categories: [Cultura, Economia, Mondo, Politica Internazionale, societ\u00e0]
 ---
 

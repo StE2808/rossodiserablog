@@ -3,6 +3,7 @@ layout: post
 title: "Lo studio della storia nelle nuove indicazioni ministeriali: eurocentrismo e assenza di metodo scientifico"
 date: 2025-03-22 00:00:00 +0100
 author: stefano-vozzi
+image: /assets/images/2025/03/storia.jpg
 categories: [Cultura, Societ\u00e0]
 tags: ["#DibattitoPubblico", "#DidatticaInnovativa", "#EducazioneCivica", "#Eurocentrismo", "#FakeNews", "#InsegnamentoStoria", "#MetodoStorico", "#MIUR", "#NuoveIndicazioni2025", "#PensieroCritico", "#RiformaScuola", "#ScuolaPrimaria"]
 ---

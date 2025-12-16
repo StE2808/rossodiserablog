@@ -3,6 +3,7 @@ layout: post
 title: "Lo scippatore e la clava"
 date: 2023-09-10 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/09/img_4013.jpg
 tags: ["diritti", "giustizia", "Meloni", "odio", "politica", "scippatore", "sicurezza", "sociale", "societ\u00e0", "trogloditi", "violenza"]
 ---
 

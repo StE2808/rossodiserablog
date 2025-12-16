@@ -3,6 +3,7 @@ layout: post
 title: "La pace a brandelli"
 date: 2024-04-09 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/04/img_4757.jpg
 categories: [diritti umani, Mondo, Politica Internazionale]
 tags: ["Conflitto", "crisi", "diritti", "Economia", "Etica", "Europa", "gaza", "giustizia", "Governo", "guerra", "hamas", "israele", "Meloni", "odio", "Pace", "palestina", "politica", "Russia", "Ucraina", "USA", "violenza", "Zelensky"]
 ---

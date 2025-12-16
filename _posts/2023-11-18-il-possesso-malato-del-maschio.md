@@ -3,6 +3,7 @@ layout: post
 title: "Il possesso malato del maschio"
 date: 2023-11-18 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/img_4282-1.jpg
 categories: [societ\u00e0]
 tags: ["amore malato", "femminicidio", "Filippo Turetta", "Giulia Cecchettin", "patologia", "possesso"]
 ---

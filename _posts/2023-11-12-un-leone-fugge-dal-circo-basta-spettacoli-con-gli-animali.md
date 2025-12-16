@@ -3,6 +3,7 @@ layout: post
 title: "Un leone fugge dal circo: basta spettacoli con gli “animali”"
 date: 2023-11-12 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/img_4250-1.jpg
 categories: [societ\u00e0]
 tags: ["basta circhi con animali", "circo", "circo con animali", "fugge", "ladispoli", "leone", "Roma"]
 ---

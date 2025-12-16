@@ -3,6 +3,7 @@ layout: post
 title: "Europa: Meloni a bocca asciutta"
 date: 2024-06-18 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2024/06/img_5072-1.jpg
 categories: [Politica Internazionale, Politica Nazionale, societ\u00e0]
 ---
 

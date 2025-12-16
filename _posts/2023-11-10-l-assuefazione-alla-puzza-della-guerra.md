@@ -3,6 +3,7 @@ layout: post
 title: "L’ assuefazione alla puzza  della guerra"
 date: 2023-11-10 00:00:00 +0100
 author: lino-rialti
+image: /assets/images/2023/11/img_4245-1.jpg
 categories: [diritti umani, Mondo, Politica Internazionale, societ\u00e0]
 tags: ["due popoli due stati", "gaza", "Governo", "guerra", "odio", "Pace", "palestina", "politica"]
 ---
