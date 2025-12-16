@@ -6,6 +6,7 @@ gem "webrick", "~> 1.8"
 # Ruby 3.4+ richiede questi gem esplicitamente
 gem "logger"
 gem "csv"
+gem "base64"
 
 group :jekyll_plugins do
   gem "jekyll-seo-tag"
