@@ -1,11 +1,4 @@
----
-layout: post
-title: "L'assoggettamento come misura dei diritti"
-date: 2025-04-27 00:00:00 +0100
-author: lino-rialti
-categories: [Cultura, Cultura e Societ\u00e0, Diritti animali]
-tags: ["animali", "diritti", "giustizia", "politica", "societ\u00e0"]
----
+---layout: posttitle: "L'assoggettamento come misura dei diritti"date: 2025-04-27 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/04/img_6353-1.jpgcategories: [Cultura, Cultura e Societ\u00e0, Diritti animali]tags: ["animali", "diritti", "giustizia", "politica", "societ\u00e0"]---
 
 L'umanità ha sviluppato un peculiare rapporto con gli animali, strutturato secondo una gerarchia di considerazione morale che sembra inversamente proporzionale al grado di autonomia delle diverse specie. Questa dinamica merita un'analisi approfondita.
 

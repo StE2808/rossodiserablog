@@ -1,10 +1,4 @@
----
-layout: post
-title: "Meloni, parola d'ordine: fare la vittima"
-date: 2023-11-29 00:00:00 +0100
-author: lino-rialti
-tags: ["diritti", "Governo", "Identit\u00e0", "lavoro", "Meloni", "mercato", "migranti", "politica", "Russia", "sociale", "societ\u00e0", "vittima"]
----
+---layout: posttitle: "Meloni, parola d'ordine: fare la vittima"date: 2023-11-29 00:00:00 +0100author: lino-rialtiimage: /assets/images/2023/11/img_4338-1.jpgtags: ["diritti", "Governo", "Identit\u00e0", "lavoro", "Meloni", "mercato", "migranti", "politica", "Russia", "sociale", "societ\u00e0", "vittima"]---
 
 Quando tutti gli eventi ti danno contro, c'è poco da fare; quando tutti ce l'hanno con te, tu poco puoi. Ecco, questo è il sentiment, l'opinione generale,  che vuol essere ingenerata nel popolo dal governo di Giorgia Meloni.
 

@@ -1,11 +1,4 @@
----
-layout: post
-title: "25 aprile 1945-2025: 80 anni dalla Liberazione dell'Italia"
-date: 2025-04-09 00:00:00 +0100
-author: lino-rialti
-categories: [Storia]
-tags: ["25aprile", "80annidallaliberazione", "alleati", "armatarossa", "Europa", "giustizia", "guerra", "Liberazione", "libert\u00e0", "odio", "politica", "Russia", "societ\u00e0", "USA", "violenza"]
----
+---layout: posttitle: "25 aprile 1945-2025: 80 anni dalla Liberazione dell'Italia"date: 2025-04-09 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/04/img_6273-1.jpgcategories: [Storia]tags: ["25aprile", "80annidallaliberazione", "alleati", "armatarossa", "Europa", "giustizia", "guerra", "Liberazione", "libert\u00e0", "odio", "politica", "Russia", "societ\u00e0", "USA", "violenza"]---
 
 La Resistenza partigiana: cuore della lotta di Liberazione
 

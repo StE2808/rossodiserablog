@@ -1,11 +1,4 @@
----
-layout: post
-title: "La Storia si Ripete? Confronto tra l'Europa pre-1914 e l'Attualità"
-date: 2025-04-25 00:00:00 +0100
-author: lino-rialti
-categories: [Cultura, Politica Internazionale, Politica Nazionale, Storia]
-tags: ["diritti", "diritti umani", "Economia", "Etica", "Europa", "fascismo", "Generazioni Future", "giustizia", "Governo", "guerra", "Istruzione", "libert\u00e0", "Morte", "odio", "Pace", "politica", "repressione", "resistenza", "Russia", "sicurezza", "sociale", "societ\u00e0", "UE", "USA", "violenza"]
----
+---layout: posttitle: "La Storia si Ripete? Confronto tra l'Europa pre-1914 e l'Attualità"date: 2025-04-25 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/04/img_6345-1.jpgcategories: [Cultura, Politica Internazionale, Politica Nazionale, Storia]tags: ["diritti", "diritti umani", "Economia", "Etica", "Europa", "fascismo", "Generazioni Future", "giustizia", "Governo", "guerra", "Istruzione", "libert\u00e0", "Morte", "odio", "Pace", "politica", "repressione", "resistenza", "Russia", "sicurezza", "sociale", "societ\u00e0", "UE", "USA", "violenza"]---
 
 Nel silenzio inquieto che precede le tempeste storiche, si possono cogliere echi e parallelismi che attraversano il tempo. Le similitudini tra il periodo antecedente alla Prima Guerra Mondiale e la nostra epoca contemporanea emergono con inquietante chiarezza quando osserviamo determinati segnali: la retorica bellica, la produzione culturale carica di presagi e la crescente corsa agli armamenti.
 

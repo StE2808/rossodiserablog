@@ -1,11 +1,4 @@
----
-layout: post
-title: "Salvini in Spagna: magnifico Teatro dell'Assurdo"
-date: 2025-02-08 00:00:00 +0100
-author: lino-rialti
-categories: [Politica Internazionale, Politica Nazionale]
-tags: ["GovernoMeloni", "LePen", "Orban", "patrioti", "politica", "salvini", "sovranisti", "Wilders"]
----
+---layout: posttitle: "Salvini in Spagna: magnifico Teatro dell'Assurdo"date: 2025-02-08 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/02/img_6095-1.jpgcategories: [Politica Internazionale, Politica Nazionale]tags: ["GovernoMeloni", "LePen", "Orban", "patrioti", "politica", "salvini", "sovranisti", "Wilders"]---
 
 Ladies and gentlemen, ecco a voi il grande trasformista italiano, che si presenta come "patriota" (della Repubblica di TikTok, presumibilmente). Il nostro eroe, armato di un foglio e di uno spagnolo degno di una pizzeria turistica a Rimini, ha deliziato il pubblico con il suo one-man-show "Come salvare l'Italia distruggendo tutto ciò che la sostiene".
 

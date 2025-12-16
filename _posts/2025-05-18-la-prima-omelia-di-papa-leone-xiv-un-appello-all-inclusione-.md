@@ -1,11 +1,4 @@
----
-layout: post
-title: "La Prima Omelia di Papa Leone XIV: Un Appello all'Inclusione Sottovalutato dai Media"
-date: 2025-05-18 00:00:00 +0100
-author: lino-rialti
-categories: [Cronaca, Cultura, Cultura e Societ\u00e0, Religione, societ\u00e0]
-tags: ["diritti", "Governo", "Identit\u00e0", "LeoneIV", "odio", "Papa", "politica", "sociale", "Solidariet\u00e0", "vaticano"]
----
+---layout: posttitle: "La Prima Omelia di Papa Leone XIV: Un Appello all'Inclusione Sottovalutato dai Media"date: 2025-05-18 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/05/img_6448-1.jpgcategories: [Cronaca, Cultura, Cultura e Societ\u00e0, Religione, societ\u00e0]tags: ["diritti", "Governo", "Identit\u00e0", "LeoneIV", "odio", "Papa", "politica", "sociale", "Solidariet\u00e0", "vaticano"]---
 
 Nel contesto delle discussioni sul concetto di famiglia espresso da Papa Leone XIV, è passato quasi inosservato un elemento cruciale della sua prima omelia.
 

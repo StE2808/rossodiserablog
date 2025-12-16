@@ -1,11 +1,4 @@
----
-layout: post
-title: "L'Importanza della Conservazione dei Mari e degli Oceani"
-date: 2023-10-13 00:00:00 +0100
-author: stefano-vozzi
-categories: [Ambiente, Cultura e Societ\u00e0, Mondo]
-tags: ["biodiversit\u00e0 marina", "cambiamento climatico", "ciclo del carbonio", "conservazione marina", "inquinamento dei mari", "Mari", "oceani", "sostenibilit\u00e0 marina"]
----
+---layout: posttitle: "L'Importanza della Conservazione dei Mari e degli Oceani"date: 2023-10-13 00:00:00 +0100author: stefano-vozziimage: /assets/images/2023/10/mare.pngcategories: [Ambiente, Cultura e Societ\u00e0, Mondo]tags: ["biodiversit\u00e0 marina", "cambiamento climatico", "ciclo del carbonio", "conservazione marina", "inquinamento dei mari", "Mari", "oceani", "sostenibilit\u00e0 marina"]---
 
 ![](images/2023/10/mare.png)
     **I mari e gli oceani: custodi del nostro pianeta**

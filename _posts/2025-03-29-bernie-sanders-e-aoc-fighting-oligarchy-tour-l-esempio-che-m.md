@@ -1,11 +1,4 @@
----
-layout: post
-title: "Bernie Sanders e AOC | Fighting Oligarchy Tour: L'Esempio che Manca alla Politica Progressista"
-date: 2025-03-29 00:00:00 +0100
-author: stefano-vozzi
-categories: [diritti umani, Economia, Mondo, Politica Internazionale, Salute, Scuola e Istruzione, Societ\u00e0]
-tags: ["AlexandriaOcasioCortez", "AttivismoIntergenerazionale", "BernieSanders", "DemocraziaSana", "FightingOligarchy", "MobilitazionePolitica", "OpposizioneItaliana", "PoliticaProgressista", "RinnovamentoPolitico", "VisioneAlternativa"]
----
+---layout: posttitle: "Bernie Sanders e AOC | Fighting Oligarchy Tour: L'Esempio che Manca alla Politica Progressista"date: 2025-03-29 00:00:00 +0100author: stefano-vozziimage: /assets/images/2025/03/foto.png.webpcategories: [diritti umani, Economia, Mondo, Politica Internazionale, Salute, Scuola e Istruzione, Societ\u00e0]tags: ["AlexandriaOcasioCortez", "AttivismoIntergenerazionale", "BernieSanders", "DemocraziaSana", "FightingOligarchy", "MobilitazionePolitica", "OpposizioneItaliana", "PoliticaProgressista", "RinnovamentoPolitico", "VisioneAlternativa"]---
 
 Avete mai osservato un fiume che scorre con determinazione, superando ogni ostacolo sul suo cammino? È l'immagine che mi viene in mente guardando **Bernie Sanders** e **Alexandria Ocasio-Cortez** nel loro "**Fighting Oligarchy**" tour. Da una parte un ottuagenario con l'energia di un ventenne, dall'altra una millennial che trasforma le parole in azioni concrete. E noi, qui in Italia? La nostra **opposizione politica** sembra un ruscello che si perde tra le pietre prima di raggiungere il mare.
 

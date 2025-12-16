@@ -1,11 +1,4 @@
----
-layout: post
-title: "Dietro il Decreto Sicurezza: l'emergenza inesistente che minaccia le libertà fondamentali"
-date: 2025-04-15 00:00:00 +0100
-author: lino-rialti
-categories: [Cronaca, Politica Nazionale]
-tags: ["diritti", "diritti umani", "Etica", "Europa", "fascismo", "fascista", "giustizia", "Governo", "Identit\u00e0", "immigrazione", "Meloni", "migranti", "Migrazione", "odio", "politica", "repressione", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]
----
+---layout: posttitle: "Dietro il Decreto Sicurezza: l'emergenza inesistente che minaccia le libertà fondamentali"date: 2025-04-15 00:00:00 +0100author: lino-rialtiimage: /assets/images/2025/04/img_6312-1.jpgcategories: [Cronaca, Politica Nazionale]tags: ["diritti", "diritti umani", "Etica", "Europa", "fascismo", "fascista", "giustizia", "Governo", "Identit\u00e0", "immigrazione", "Meloni", "migranti", "Migrazione", "odio", "politica", "repressione", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]---
 
 L'intervento dell'ONU contro il recente Decreto Sicurezza del governo Meloni rappresenta solo l'ultimo segnale d'allarme su un provvedimento che bypassa le normali procedure democratiche per imporre misure restrittive in assenza di una reale emergenza. Analizzando i dati sulla criminalità in Italia, emerge un quadro ben diverso da quello rappresentato dall'esecutivo per giustificare l'urgenza del decreto.
 

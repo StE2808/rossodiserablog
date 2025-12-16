@@ -1,10 +1,4 @@
----
-layout: post
-title: "Israele senza linea politica accelera l'ecatombe Palestina"
-date: 2023-12-11 00:00:00 +0100
-author: lino-rialti
-tags: ["diritti", "Europa", "gaza", "giustizia", "guerra", "Iran", "Morte", "odio", "palestina", "politica", "societ\u00e0", "Solidariet\u00e0", "Ucraina", "USA", "violenza"]
----
+---layout: posttitle: "Israele senza linea politica accelera l'ecatombe Palestina"date: 2023-12-11 00:00:00 +0100author: lino-rialtiimage: /assets/images/2023/12/img_4362-1.jpgtags: ["diritti", "Europa", "gaza", "giustizia", "guerra", "Iran", "Morte", "odio", "palestina", "politica", "societ\u00e0", "Solidariet\u00e0", "Ucraina", "USA", "violenza"]---
 
 Mentre la conta dei morti civili a Gaza supera i 18 mila, Israele non ha piani. L'aviazione continua a bombardare, a martellare incessantemente assieme all'esercito di terra ma il governo di Netanyahu non è in grado di partorire una politica degna di questo nome, non ha una visione.
 
