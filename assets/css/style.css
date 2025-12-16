@@ -204,29 +204,31 @@ main.container {
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
-.post-header {
+article.post-single .post-header {
     margin-bottom: 2rem;
     padding: 2rem;
+    background: #f5ede4 !important;
     background-color: #f5ede4 !important;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     position: relative;
 }
 
-.post-header h1 {
+article.post-single .post-header h1 {
     font-family: 'Playfair Display', serif;
     font-size: 2.5rem;
-    color: #000;
+    color: #000 !important;
     margin-bottom: 1.5rem;
     line-height: 1.2;
 }
 
-.post-meta-wrapper {
+article.post-single .post-meta-wrapper {
     display: flex;
     justify-content: flex-end;
+    margin-top: 1rem;
 }
 
-.post-meta-single {
+article.post-single .post-meta-single {
     background-color: rgba(245, 237, 228, 0.95);
     padding: 0.75rem 1.25rem;
     font-size: 0.85rem;
@@ -236,12 +238,13 @@ main.container {
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
-.post-meta-single span {
+article.post-single .post-meta-single span {
+    display: inline-block;
     margin-right: 1.5rem;
     letter-spacing: 0.5px;
 }
 
-.post-meta-single span:last-child {
+article.post-single .post-meta-single span:last-child {
     margin-right: 0;
 }
 
