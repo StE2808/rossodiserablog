@@ -10,7 +10,10 @@ body {
     line-height: 1.6;
     color: #333;
     background: linear-gradient(135deg, #faf8f5 0%, #f5ede4 100%);
+    background-attachment: fixed;
     min-height: 100vh;
+    margin: 0;
+    padding: 0;
 }
 
 /* Header */
@@ -31,8 +34,8 @@ header {
 }
 
 .logo {
-    width: 140px;
-    height: 140px;
+    width: 180px;
+    height: 180px;
     flex-shrink: 0;
 }
 
@@ -45,8 +48,15 @@ header h1 {
     font-size: 3rem;
     margin-bottom: 0.5rem;
     font-weight: 700;
-    letter-spacing: 4px;
+    letter-spacing: 8px;
     text-transform: uppercase;
+}
+
+header h1 .blog-label {
+    font-size: 2rem;
+    font-style: italic;
+    letter-spacing: 2px;
+    font-weight: 400;
 }
 
 header h1 a {
@@ -129,7 +139,8 @@ header p {
 }
 
 .post-card-content {
-    padding: 1.5rem 1.5rem 5rem;
+    padding: 1.5rem 1.5rem 5.5rem;
+    min-height: 200px;
 }
 
 .post-card h2 {
@@ -180,25 +191,34 @@ header p {
 
 .post-header {
     margin-bottom: 2rem;
-    padding-bottom: 2rem;
-    border-bottom: 2px solid #f5ede4;
+    padding: 2rem;
+    background-color: #f5ede4;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    position: relative;
 }
 
 .post-header h1 {
     font-family: 'Playfair Display', serif;
     font-size: 2.5rem;
-    color: #8b1a1a;
-    margin-bottom: 1rem;
+    color: #000;
+    margin-bottom: 1.5rem;
     line-height: 1.2;
 }
 
 .post-meta-single {
+    background-color: rgba(245, 237, 228, 0.95);
+    padding: 0.75rem 1.25rem;
+    font-size: 0.85rem;
     color: #6b1414;
-    font-size: 0.95rem;
+    border: 1px solid rgba(139, 26, 26, 0.1);
+    display: inline-block;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
 .post-meta-single span {
     margin-right: 1.5rem;
+    letter-spacing: 0.5px;
 }
 
 .post-content {
@@ -230,8 +250,9 @@ header p {
 /* Post Footer */
 .post-footer {
     margin-top: 3rem;
-    padding-top: 2rem;
-    border-top: 1px solid #e0e0e0;
+    padding: 2rem;
+    background: linear-gradient(135deg, #faf8f5 0%, #f5ede4 100%);
+    border-radius: 8px;
 }
 
 .post-tags {
@@ -356,8 +377,16 @@ footer p {
     }
 
     .logo {
-        width: 100px;
-        height: 100px;
+        width: 120px;
+        height: 120px;
+    }
+
+    header h1 {
+        letter-spacing: 4px;
+    }
+
+    header h1 .blog-label {
+        font-size: 1.5rem;
     }
 
     .post-single {
