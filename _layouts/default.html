@@ -14,29 +14,20 @@
 <body>
     <header>
         <div class="header-content">
+            <img src="{{ '/assets/images/logo_trasparenza.png' | relative_url }}" alt="Rosso di Sera" class="logo">
             <div class="header-text">
                 <h1><a href="{{ '/' | relative_url }}">Rosso di Sera</a></h1>
-                <p>Una Luce nel Mondo Digitale</p>
+                <p>Una luce nel mondo digitale</p>
             </div>
         </div>
     </header>
-    
-    <nav class="main-nav">
-        <div class="container">
-            <a href="{{ '/' | relative_url }}">Home</a>
-            <a href="{{ '/archivio/' | relative_url }}">Archivio</a>
-            <a href="{{ '/autori/' | relative_url }}">Autori</a>
-        </div>
-    </nav>
     
     <main class="container">
         {{ content }}
     </main>
     
     <footer>
-        <div class="container">
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Tutti i diritti riservati.</p>
-        </div>
+        <p>&copy; 2023-{{ site.time | date: '%Y' }} Rosso di Sera</p>
     </footer>
 </body>
 </html>

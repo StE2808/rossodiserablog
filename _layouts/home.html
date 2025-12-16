@@ -3,13 +3,16 @@ layout: default
 ---
 
 <div class="archive-section">
-    <div class="archive-box">Archivio Articoli</div>
+    <div class="archive-box">Archivio 2023 - 2024 - 2025</div>
 </div>
 
 <div class="posts-grid">
     {% for post in paginator.posts %}
     <article class="post-card">
         <a href="{{ post.url | relative_url }}" class="post-card-link">
+            {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-image">
+            {% endif %}
             <div class="post-card-content">
                 <h2>{{ post.title }}</h2>
                 <div class="post-excerpt">
