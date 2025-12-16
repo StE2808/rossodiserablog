@@ -5,13 +5,20 @@
     box-sizing: border-box;
 }
 
+html {
+    width: 100%;
+    height: 100%;
+}
+
 body {
     font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
     color: #333;
     background: linear-gradient(135deg, #faf8f5 0%, #f5ede4 100%);
     background-attachment: fixed;
+    background-size: 100% 100%;
     min-height: 100vh;
+    width: 100%;
     margin: 0;
     padding: 0;
 }
@@ -75,8 +82,12 @@ header p {
 /* Container */
 .container {
     max-width: 1400px;
-    margin: 2rem auto;
-    padding: 0 1rem;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+main.container {
+    background: none;
 }
 
 /* Archive Section */
@@ -84,6 +95,10 @@ header p {
     text-align: center;
     padding: 2rem 2rem 3rem;
     background: linear-gradient(to bottom, #8b1a1a 0%, transparent 100%);
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    padding-left: calc(50vw - 50%);
+    padding-right: calc(50vw - 50%);
 }
 
 .archive-box {
@@ -192,7 +207,7 @@ header p {
 .post-header {
     margin-bottom: 2rem;
     padding: 2rem;
-    background-color: #f5ede4;
+    background-color: #f5ede4 !important;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     position: relative;
@@ -204,6 +219,11 @@ header p {
     color: #000;
     margin-bottom: 1.5rem;
     line-height: 1.2;
+}
+
+.post-meta-wrapper {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .post-meta-single {
@@ -219,6 +239,10 @@ header p {
 .post-meta-single span {
     margin-right: 1.5rem;
     letter-spacing: 0.5px;
+}
+
+.post-meta-single span:last-child {
+    margin-right: 0;
 }
 
 .post-content {
