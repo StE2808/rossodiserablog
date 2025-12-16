@@ -1,8 +1,8 @@
 # Configurazione Rosso di Sera Blog
 title: Rosso di Sera
 description: Una Luce nel Mondo Digitale
-url: "https://www.rossodiserablog.it"
-baseurl: ""
+url: "https://ste2808.github.io"
+baseurl: "/rossodiserablog"
 
 # Autori
 collections:
