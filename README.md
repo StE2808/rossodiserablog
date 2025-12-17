@@ -73,3 +73,10 @@ Contenuto dell'articolo in Markdown...
 ---
 
 Creato con ❤️ da Claude
+
+## Tina CMS Configurato
+
+Il blog ora utilizza Tina CMS per la gestione dei contenuti.
+
+- URL Admin: https://rossodiserablog.pages.dev/admin/
+- Accesso: Login con GitHub
