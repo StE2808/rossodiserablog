@@ -1,5 +1,6 @@
 import { defineConfig } from "tinacms";
 
+// Tina CMS Configuration
 // Your hosting provider likely exposes this as an environment variable
 const branch =
   process.env.GITHUB_BRANCH ||
