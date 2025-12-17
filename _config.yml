@@ -2,8 +2,8 @@
 title: "Rosso di Sera"
 tagline: "Una luce nel mondo digitale"
 description: "Blog di riflessioni, cultura e tecnologia. Esploriamo insieme il mondo digitale con uno sguardo critico e appassionato."
-url: "https://ste2808.github.io"
-baseurl: "/rossodiserablog"
+url: "https://rossodiserablog.pages.dev"
+baseurl: ""
 
 # Author principale (per SEO)
 author:
