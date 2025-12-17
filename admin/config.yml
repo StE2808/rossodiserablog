@@ -2,8 +2,7 @@ backend:
   name: github
   repo: StE2808/rossodiserablog
   branch: main
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  # Sveltia CMS usa GitHub OAuth diretto (no Netlify)
 
 # Opzionale: per editing locale
 # local_backend: true
