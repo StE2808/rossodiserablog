@@ -15,6 +15,7 @@ Data inizio: 19 Dicembre 2024
 - [x] Step 7: Commit e push finale
 - [x] Step 8: Migrazione a GitHub OAuth
 - [x] Step 9: Verifica admin/index.html
+- [x] Step 10: Migrazione a Sveltia CMS
 
 ---
 
@@ -81,6 +82,12 @@ Data inizio: 19 Dicembre 2024
 - Il file contiene il pannello Decap CMS (343 bytes)
 - Nessuna modifica necessaria, file già presente e funzionante
 
+### Step 10 - Migrazione a Sveltia CMS
+- Sostituito Decap CMS con Sveltia CMS (più moderno e veloce)
+- Configurato OAuth tramite Cloudflare Workers
+- URL autenticazione: https://rossodisera.s-vozzi.workers.dev
+- Rimossa dipendenza da Netlify
+
 ---
 
 ## Riepilogo file creati/modificati
@@ -95,42 +102,45 @@ Data inizio: 19 Dicembre 2024
 ### File modificati:
 - `_layouts/default.html` - Migliorati meta tag SEO (Open Graph, Twitter Cards), rimosso Netlify Identity
 - `_layouts/post.html` - Migliorato Schema.org JSON-LD con keywords e dateModified
-- `admin/config.yml` - Migrato da git-gateway a GitHub OAuth
-- `admin/index.html` - Rimosso Netlify Identity widget
+- `admin/config.yml` - Migrato a Cloudflare Workers OAuth (rossodisera.s-vozzi.workers.dev)
+- `admin/index.html` - Migrato da Decap CMS a Sveltia CMS
 
 ---
 
 ## Prossimi passi (da fare manualmente)
 
-L'utente deve ora configurare Netlify OAuth per abilitare il CMS:
+### Configurazione completata! ✅
 
-### Configurazione Netlify:
-
-1. Andare su https://app.netlify.com
-2. Registrarsi/loggarsi con GitHub
-3. Click su "Add new site" → "Import an existing project"
-4. Selezionare repository: **StE2808/rossodiserablog**
-5. Build settings:
-   - Build command: `jekyll build`
-   - Publish directory: `_site`
-6. Click "Deploy site"
-7. Attendere il completamento del deploy
-
-### Abilitazione GitHub OAuth:
-
-8. Nel sito Netlify, andare su **Settings → Access control → OAuth**
-9. Sotto "Authentication providers" click su **Install provider**
-10. Selezionare **GitHub**
-11. Netlify creerà automaticamente una GitHub OAuth App
-12. Autorizzare l'app quando richiesto
+Il CMS è ora configurato con:
+- **Sveltia CMS** (fork moderno di Decap CMS)
+- **Cloudflare Workers OAuth** per autenticazione GitHub
+- **Nessuna dipendenza da Netlify**
 
 ### Accesso al CMS:
 
-Dopo la configurazione OAuth, il CMS sarà accessibile all'indirizzo:
+Il CMS è già accessibile all'indirizzo:
 **https://ste2808.github.io/rossodiserablog/admin/**
 
-Gli utenti potranno accedere direttamente con il loro account GitHub (nessuna email di invito necessaria).
-Solo gli utenti con accesso write alla repository potranno modificare contenuti.
+### Come funziona l'autenticazione:
+
+1. L'utente accede a `/admin/`
+2. Sveltia CMS richiede autenticazione GitHub
+3. OAuth viene gestito da Cloudflare Worker: `https://rossodisera.s-vozzi.workers.dev`
+4. Dopo l'autorizzazione, l'utente può modificare i contenuti
+
+### Requisiti per gli utenti:
+
+- Account GitHub
+- Permessi di **write** sulla repository `StE2808/rossodiserablog`
+- Nessuna configurazione aggiuntiva necessaria
+
+### Vantaggi Sveltia CMS:
+
+- ✅ Più veloce e moderno di Decap CMS
+- ✅ Interfaccia utente migliorata
+- ✅ Compatibile al 100% con configurazioni Decap CMS
+- ✅ Supporto nativo i18n e media library
+- ✅ Open source e attivamente mantenuto
 
 ---
 
