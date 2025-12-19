@@ -2,7 +2,7 @@ backend:
   name: github
   repo: StE2808/rossodiserablog
   branch: main
-  base_url: base_url: https://sveltia-cms-auth.s-vozzi.workers.dev
+  base_url: https://sveltia-cms-auth.s-vozzi.workers.dev
 
 # Abilita editorial workflow (bozze)
 publish_mode: editorial_workflow
