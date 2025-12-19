@@ -7,14 +7,14 @@ layout: default
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "{{ page.title | escape }}",
-  "description": "{{ page.excerpt | default: page.seo_description | strip_html | escape }}",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.excerpt | default: page.seo_description | strip_html | truncate: 160 | jsonify }},
   "image": {% if page.image %}"{{ page.image | absolute_url }}"{% else %}"{{ '/assets/images/logo_trasparenza.png' | absolute_url }}"{% endif %},
   "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "author": {
     "@type": "Person",
-    "name": "{% if page.author %}{% assign author = site.authors | where: 'username', page.author | first %}{{ author.name }}{% else %}{{ site.author.name }}{% endif %}"
+    "name": "{% assign author = site.authors | where: 'username', page.author | first %}{{ author.name | default: page.author }}"
   },
   "publisher": {
     "@type": "Organization",
@@ -28,6 +28,9 @@ layout: default
     "@type": "WebPage",
     "@id": "{{ page.url | absolute_url }}"
   }
+  {% if page.tags.size > 0 %},
+  "keywords": {{ page.tags | join: ', ' | jsonify }}
+  {% endif %}
 }
 </script>
 

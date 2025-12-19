@@ -10,7 +10,7 @@ Data inizio: 19 Dicembre 2024
 - [x] Step 2: Creazione admin/config.yml
 - [x] Step 3: Cartella uploads
 - [x] Step 4: Meta SEO in default.html
-- [ ] Step 5: Schema.org in post.html
+- [x] Step 5: Schema.org in post.html
 - [ ] Step 6: robots.txt
 - [ ] Step 7: Commit e push finale
 
@@ -47,3 +47,11 @@ Data inizio: 19 Dicembre 2024
 - Aggiunto script Netlify Identity per redirect post-login
 - File modificato: _layouts/default.html
 - Prossimo: Step 5
+
+### Step 5 - Schema.org in post.html
+- Migliorato JSON-LD Schema.org esistente
+- Aggiunto supporto per keywords (tags)
+- Modificato dateModified per usare last_modified_at con fallback
+- Usato jsonify per headline e description
+- File modificato: _layouts/post.html
+- Prossimo: Step 6
