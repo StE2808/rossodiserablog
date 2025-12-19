@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ste2808.github.io/rossodiserablog/sitemap.xml
