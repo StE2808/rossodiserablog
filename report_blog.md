@@ -8,7 +8,7 @@ Data inizio: 19 Dicembre 2024
 - [x] Step 0: Setup iniziale
 - [x] Step 1: Creazione admin/index.html
 - [x] Step 2: Creazione admin/config.yml
-- [ ] Step 3: Cartella uploads
+- [x] Step 3: Cartella uploads
 - [ ] Step 4: Meta SEO in default.html
 - [ ] Step 5: Schema.org in post.html
 - [ ] Step 6: robots.txt
@@ -34,3 +34,8 @@ Data inizio: 19 Dicembre 2024
 - Aggiunta collection autori
 - Backend: git-gateway (per Netlify)
 - Prossimo: Step 3
+
+### Step 3 - Cartella uploads
+- Creata cartella assets/images/uploads/
+- Aggiunto .gitkeep per mantenerla nel repo
+- Prossimo: Step 4
