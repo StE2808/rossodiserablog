@@ -13,6 +13,7 @@ Data inizio: 19 Dicembre 2024
 - [x] Step 5: Schema.org in post.html
 - [x] Step 6: robots.txt
 - [x] Step 7: Commit e push finale
+- [x] Step 8: Migrazione a GitHub OAuth
 
 ---
 
@@ -67,6 +68,13 @@ Data inizio: 19 Dicembre 2024
 - Tutti i file creati/modificati con successo
 - Push finale effettuato
 
+### Step 8 - Migrazione a GitHub OAuth
+- Modificato backend in admin/config.yml da git-gateway a github
+- Rimosso Netlify Identity script da default.html
+- Rimosso Netlify Identity script da admin/index.html
+- Autenticazione ora tramite GitHub OAuth
+- Non serve più Netlify Identity, solo OAuth App su Netlify
+
 ---
 
 ## Riepilogo file creati/modificati
@@ -79,14 +87,16 @@ Data inizio: 19 Dicembre 2024
 - `report_blog.md` - Questo file di report
 
 ### File modificati:
-- `_layouts/default.html` - Migliorati meta tag SEO (Open Graph, Twitter Cards) e script Netlify Identity
+- `_layouts/default.html` - Migliorati meta tag SEO (Open Graph, Twitter Cards), rimosso Netlify Identity
 - `_layouts/post.html` - Migliorato Schema.org JSON-LD con keywords e dateModified
+- `admin/config.yml` - Migrato da git-gateway a GitHub OAuth
+- `admin/index.html` - Rimosso Netlify Identity widget
 
 ---
 
 ## Prossimi passi (da fare manualmente)
 
-L'utente deve ora configurare Netlify per abilitare il CMS:
+L'utente deve ora configurare Netlify OAuth per abilitare il CMS:
 
 ### Configurazione Netlify:
 
@@ -100,21 +110,21 @@ L'utente deve ora configurare Netlify per abilitare il CMS:
 6. Click "Deploy site"
 7. Attendere il completamento del deploy
 
-### Abilitazione Identity e Git Gateway:
+### Abilitazione GitHub OAuth:
 
-8. Nel sito Netlify, andare su **Settings → Identity**
-9. Click "Enable Identity"
-10. Sotto "Registration preferences" selezionare **Invite only**
-11. Sotto "Services" → Click "Enable Git Gateway"
-12. Andare su **Identity → Invite users**
-13. Aggiungere gli indirizzi email degli autori del blog
+8. Nel sito Netlify, andare su **Settings → Access control → OAuth**
+9. Sotto "Authentication providers" click su **Install provider**
+10. Selezionare **GitHub**
+11. Netlify creerà automaticamente una GitHub OAuth App
+12. Autorizzare l'app quando richiesto
 
 ### Accesso al CMS:
 
-Dopo la configurazione, il CMS sarà accessibile all'indirizzo:
+Dopo la configurazione OAuth, il CMS sarà accessibile all'indirizzo:
 **https://ste2808.github.io/rossodiserablog/admin/**
 
-Gli utenti invitati riceveranno un'email per impostare la password e potranno accedere al pannello di amministrazione.
+Gli utenti potranno accedere direttamente con il loro account GitHub (nessuna email di invito necessaria).
+Solo gli utenti con accesso write alla repository potranno modificare contenuti.
 
 ---
 

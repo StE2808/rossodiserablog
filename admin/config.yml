@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: StE2808/rossodiserablog
   branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 # Abilita editorial workflow (bozze)
 publish_mode: editorial_workflow
