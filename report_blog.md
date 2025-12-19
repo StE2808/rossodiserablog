@@ -9,7 +9,7 @@ Data inizio: 19 Dicembre 2024
 - [x] Step 1: Creazione admin/index.html
 - [x] Step 2: Creazione admin/config.yml
 - [x] Step 3: Cartella uploads
-- [ ] Step 4: Meta SEO in default.html
+- [x] Step 4: Meta SEO in default.html
 - [ ] Step 5: Schema.org in post.html
 - [ ] Step 6: robots.txt
 - [ ] Step 7: Commit e push finale
@@ -39,3 +39,11 @@ Data inizio: 19 Dicembre 2024
 - Creata cartella assets/images/uploads/
 - Aggiunto .gitkeep per mantenerla nel repo
 - Prossimo: Step 4
+
+### Step 4 - Meta SEO in default.html
+- Modificato og:type per essere dinamico (article per post, website altrimenti)
+- Aggiunti meta tag og:site_name e og:locale
+- Corretti meta tag Twitter (da property a name)
+- Aggiunto script Netlify Identity per redirect post-login
+- File modificato: _layouts/default.html
+- Prossimo: Step 5
