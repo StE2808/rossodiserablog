@@ -1,0 +1,145 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Abilita editorial workflow (bozze)
+publish_mode: editorial_workflow
+
+# Cartella per nuove immagini caricate dal CMS
+media_folder: "assets/images/uploads"
+public_folder: "/assets/images/uploads"
+
+# Lingua italiana
+locale: 'it'
+
+# Slug settings
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  # === ARTICOLI ===
+  - name: "posts"
+    label: "📝 Articoli"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort: "date:desc"
+    summary: "{{title}} - {{date | date('DD/MM/YYYY')}}"
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+
+      - label: "Titolo"
+        name: "title"
+        widget: "string"
+        required: true
+        hint: "Il titolo dell'articolo"
+
+      - label: "Data pubblicazione"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD HH:mm:ss ZZ"
+        date_format: "DD/MM/YYYY"
+        time_format: "HH:mm"
+        required: true
+
+      - label: "Autore"
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "Lino Rialti", value: "lino-rialti" }
+          - { label: "StE2808", value: "ste2808" }
+        required: true
+
+      - label: "Tag"
+        name: "tags"
+        widget: "list"
+        required: false
+        hint: "Aggiungi tag separati da virgola"
+
+      - label: "Immagine copertina"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Immagine che appare nella card della home e nell'articolo"
+        media_folder: "/assets/images/uploads"
+        public_folder: "/assets/images/uploads"
+
+      - label: "Sunto (50 parole)"
+        name: "excerpt"
+        widget: "text"
+        required: true
+        hint: "Breve descrizione per le schede home e meta description SEO (max 300 caratteri)"
+        pattern:
+          - '^.{10,300}$'
+          - "Deve essere tra 10 e 300 caratteri"
+
+      - label: "Titolo SEO (opzionale)"
+        name: "seo_title"
+        widget: "string"
+        required: false
+        hint: "Se vuoi un titolo diverso per Google (max 60 caratteri)"
+
+      - label: "Descrizione SEO (opzionale)"
+        name: "seo_description"
+        widget: "text"
+        required: false
+        hint: "Se vuoi una description diversa dall'excerpt (max 160 caratteri)"
+
+      - label: "Contenuto"
+        name: "body"
+        widget: "markdown"
+        required: true
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - quote
+          - bulleted-list
+          - numbered-list
+        editor_components:
+          - image
+
+  # === AUTORI ===
+  - name: "authors"
+    label: "👤 Autori"
+    folder: "_authors"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Nome completo"
+        name: "name"
+        widget: "string"
+        required: true
+
+      - label: "Username"
+        name: "username"
+        widget: "string"
+        required: true
+        hint: "Usato nei post (es: lino-rialti)"
+
+      - label: "Bio"
+        name: "bio"
+        widget: "text"
+        required: false
+
+      - label: "Immagine profilo"
+        name: "avatar"
+        widget: "image"
+        required: false
+
+      - label: "Email"
+        name: "email"
+        widget: "string"
+        required: false
+
+      - label: "Sito web"
+        name: "website"
+        widget: "string"
+        required: false

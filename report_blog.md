@@ -7,7 +7,7 @@ Data inizio: 19 Dicembre 2024
 ### Checklist
 - [x] Step 0: Setup iniziale
 - [x] Step 1: Creazione admin/index.html
-- [ ] Step 2: Creazione admin/config.yml
+- [x] Step 2: Creazione admin/config.yml
 - [ ] Step 3: Cartella uploads
 - [ ] Step 4: Meta SEO in default.html
 - [ ] Step 5: Schema.org in post.html
@@ -27,3 +27,10 @@ Data inizio: 19 Dicembre 2024
 - Creata cartella admin/
 - Creato file admin/index.html con Decap CMS e Netlify Identity
 - Prossimo: Step 2
+
+### Step 2 - admin/config.yml
+- Creato file admin/config.yml
+- Configurati campi: title, date, author, tags, image, excerpt, SEO fields
+- Aggiunta collection autori
+- Backend: git-gateway (per Netlify)
+- Prossimo: Step 3
