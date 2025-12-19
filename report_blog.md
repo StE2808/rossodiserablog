@@ -11,7 +11,7 @@ Data inizio: 19 Dicembre 2024
 - [x] Step 3: Cartella uploads
 - [x] Step 4: Meta SEO in default.html
 - [x] Step 5: Schema.org in post.html
-- [ ] Step 6: robots.txt
+- [x] Step 6: robots.txt
 - [ ] Step 7: Commit e push finale
 
 ---
@@ -55,3 +55,10 @@ Data inizio: 19 Dicembre 2024
 - Usato jsonify per headline e description
 - File modificato: _layouts/post.html
 - Prossimo: Step 6
+
+### Step 6 - robots.txt
+- Creato robots.txt
+- Permette indicizzazione completa del sito
+- Blocca indicizzazione pannello /admin/
+- Punta alla sitemap (generata automaticamente da jekyll-sitemap)
+- Prossimo: Step 7
