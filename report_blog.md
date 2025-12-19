@@ -6,7 +6,7 @@ Data inizio: 19 Dicembre 2024
 
 ### Checklist
 - [x] Step 0: Setup iniziale
-- [ ] Step 1: Creazione admin/index.html
+- [x] Step 1: Creazione admin/index.html
 - [ ] Step 2: Creazione admin/config.yml
 - [ ] Step 3: Cartella uploads
 - [ ] Step 4: Meta SEO in default.html
@@ -22,3 +22,8 @@ Data inizio: 19 Dicembre 2024
 - Clonata repository
 - Creato questo file report
 - Prossimo: Step 1
+
+### Step 1 - admin/index.html
+- Creata cartella admin/
+- Creato file admin/index.html con Decap CMS e Netlify Identity
+- Prossimo: Step 2
