@@ -1,7 +1,7 @@
 ---
 layout: post
-title: treni:%20ennesima%20giornata%20di%20caos
-date: 2025-12-20 10:57:00 +0100
+title: 'Treni: ennesima giornata di caos'
+date: 2025-12-17 11:09:00 +0100
 author: lino-rialti
 tags:
   - '#treni #salvinidimettiti #ritardi #trenitalia'
