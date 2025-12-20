@@ -2,7 +2,7 @@
 layout: post
 title: Il vento nei capelli
 date: 2025-12-19 13:34:00 +0100
-author: ste2808
+author: stefano-vozzi
 category: arte-artisti
 tags:
   - riflessioni, libertà, stile

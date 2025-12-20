@@ -41,7 +41,7 @@ collections:
         widget: "select"
         options:
           - { label: "Lino Rialti", value: "lino-rialti" }
-          - { label: "Stefano Vozzi", value: "ste2808" }
+          - { label: "Stefano Vozzi", value: "stefano-vozzi" }
         required: true
       - label: "Categoria"
         name: "category"

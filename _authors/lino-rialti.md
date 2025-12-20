@@ -4,4 +4,4 @@ name: Lino Rialti
 position: Autore
 ---
 
-Autore e collaboratore di Rosso di Sera.
+Co-fondatore e autore di Rosso di Sera.

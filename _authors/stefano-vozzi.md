@@ -1,5 +1,5 @@
 ---
-short_name: ste2808
+short_name: stefano-vozzi
 name: Stefano Vozzi
 position: Autore
 ---
