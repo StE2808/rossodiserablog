@@ -41,7 +41,23 @@ collections:
         widget: "select"
         options:
           - { label: "Lino Rialti", value: "lino-rialti" }
-          - { label: "StE2808", value: "ste2808" }
+          - { label: "Stefano Vozzi", value: "ste2808" }
+        required: true
+      - label: "Categoria"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Società", value: "societa" }
+          - { label: "Politica", value: "politica" }
+          - { label: "Cronaca", value: "cronaca" }
+          - { label: "Cultura", value: "cultura" }
+          - { label: "Diritti Umani", value: "diritti-umani" }
+          - { label: "Economia", value: "economia" }
+          - { label: "Ambiente", value: "ambiente" }
+          - { label: "Salute", value: "salute" }
+          - { label: "Scuola", value: "scuola" }
+          - { label: "Arte & Artisti", value: "arte-artisti" }
+          - { label: "Altro", value: "altro" }
         required: true
       - label: "Tag"
         name: "tags"

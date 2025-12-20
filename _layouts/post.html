@@ -2,53 +2,40 @@
 layout: default
 ---
 
-<!-- Schema.org JSON-LD per Article -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": {{ page.title | jsonify }},
-  "description": {{ page.excerpt | default: page.seo_description | strip_html | truncate: 160 | jsonify }},
-  "image": {% if page.image %}"{{ page.image | absolute_url }}"{% else %}"{{ '/assets/images/logo_trasparenza.png' | absolute_url }}"{% endif %},
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-  "author": {
-    "@type": "Person",
-    "name": "{% assign author = site.authors | where: 'username', page.author | first %}{{ author.name | default: page.author }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ site.title }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ '/assets/images/logo_trasparenza.png' | absolute_url }}"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ page.url | absolute_url }}"
-  }
-  {% if page.tags.size > 0 %},
-  "keywords": {{ page.tags | join: ', ' | jsonify }}
-  {% endif %}
-}
-</script>
-
 <article class="post-single">
     <header class="post-header">
-        <h1>{{ page.title }}</h1>
-        <div class="post-meta-wrapper">
-            <div class="post-meta-single">
-                <span class="post-date">📅 {{ page.date | date: "%d %B %Y" }}</span>
-                <span class="post-author">✍️ {{ page.author | replace: "-", " " | capitalize }}</span>
+        {% if page.category %}
+        <span class="post-category">{{ page.category }}</span>
+        {% endif %}
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="post-meta">
+            <div class="post-author">
+                <div class="author-avatar">
+                    {% assign author_initials = page.author | slice: 0, 2 | upcase %}
+                    {{ author_initials }}
+                </div>
+                {% if page.author == "ste2808" %}
+                  <span>Stefano Vozzi</span>
+                {% elsif page.author == "lino-rialti" %}
+                  <span>Lino Rialti</span>
+                {% else %}
+                  <span>{{ page.author | replace: "-", " " | capitalize }}</span>
+                {% endif %}
             </div>
+            <span class="post-date">{{ page.date | date: "%d %B %Y" }}</span>
         </div>
     </header>
-    
+
+    {% if page.image %}
+    <div class="post-featured-image">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+
     <div class="post-content">
         {{ content }}
     </div>
-    
+
     {% if page.tags.size > 0 %}
     <footer class="post-footer">
         <div class="post-tags">
@@ -59,18 +46,17 @@ layout: default
         </div>
     </footer>
     {% endif %}
-    
+
     <nav class="post-navigation">
         {% if page.previous.url %}
         <a href="{{ page.previous.url | relative_url }}" class="nav-prev">
-            <span class="nav-label">← Articolo precedente</span>
+            <span class="nav-label">← Precedente</span>
             <span class="nav-title">{{ page.previous.title | truncate: 50 }}</span>
         </a>
         {% endif %}
-        
         {% if page.next.url %}
         <a href="{{ page.next.url | relative_url }}" class="nav-next">
-            <span class="nav-label">Articolo successivo →</span>
+            <span class="nav-label">Successivo →</span>
             <span class="nav-title">{{ page.next.title | truncate: 50 }}</span>
         </a>
         {% endif %}
