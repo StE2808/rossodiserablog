@@ -3,6 +3,7 @@ layout: post
 title: Il vento nei capelli
 date: 2025-12-19 13:34:00 +0100
 author: ste2808
+category: arte-artisti
 tags:
   - riflessioni, libertà, stile
 image: /assets/images/uploads/il_vento_fra_i_capelli.png
