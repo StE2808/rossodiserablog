@@ -2,10 +2,12 @@
 layout: post
 title: Il vento nei capelli
 date: 2025-12-19 13:34:00 +0100
-author: stefano-vozzi
+author: ste2808
 category: arte-artisti
 tags:
-  - riflessioni, libertà, stile
+  - riflessioni
+  - libertà
+  - stile
 image: /assets/images/uploads/il_vento_fra_i_capelli.png
 excerpt: C'è qualcosa di irresistibilmente libero in chi lascia che il vento faccia quello che vuole. Un piccolo elogio del caos controllato.
 seo_title: 'Il vento nei capelli: elogio del caos controllato'
