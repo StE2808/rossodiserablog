@@ -11,8 +11,14 @@ layout: default
         <div class="post-meta">
             <div class="post-author">
                 <div class="author-avatar">
-                    {% assign author_initials = page.author | slice: 0, 2 | upcase %}
-                    {{ author_initials }}
+                    {% if page.author == "stefano-vozzi" %}
+                      SV
+                    {% elsif page.author == "lino-rialti" %}
+                      LR
+                    {% else %}
+                      {% assign author_initials = page.author | slice: 0, 2 | upcase %}
+                      {{ author_initials }}
+                    {% endif %}
                 </div>
                 {% if page.author == "stefano-vozzi" %}
                   <span>Stefano Vozzi</span>

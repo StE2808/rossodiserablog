@@ -1,3 +1,318 @@
+# Istruzioni per Claude Code - Aggiornamento Rosso di Sera
+
+## Panoramica del progetto
+
+**Repository**: `https://github.com/StE2808/rossodiserablog`
+**Branch**: `main`
+**Tecnologie**: Jekyll + GitHub Pages + Sveltia CMS
+
+---
+
+## TASK 1: Aggiungere il campo Categoria al CMS
+
+### File da modificare: `admin/config.yml`
+
+Aggiungere il campo `category` nella sezione `fields` della collection `posts`, **dopo** il campo `author`:
+
+```yaml
+      - label: "Categoria"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Società", value: "societa" }
+          - { label: "Politica", value: "politica" }
+          - { label: "Cronaca", value: "cronaca" }
+          - { label: "Cultura", value: "cultura" }
+          - { label: "Diritti Umani", value: "diritti-umani" }
+          - { label: "Economia", value: "economia" }
+          - { label: "Ambiente", value: "ambiente" }
+          - { label: "Salute", value: "salute" }
+          - { label: "Scuola", value: "scuola" }
+          - { label: "Arte & Artisti", value: "arte-artisti" }
+          - { label: "Altro", value: "altro" }
+        required: true
+```
+
+### Posizione esatta nel file
+
+Il campo va inserito dopo questo blocco:
+
+```yaml
+      - label: "Autore"
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "Lino Rialti", value: "lino-rialti" }
+          - { label: "StE2808", value: "ste2808" }
+        required: true
+```
+
+---
+
+## TASK 2: Nuovo Design del Blog
+
+### Sostituire completamente i seguenti file con il nuovo design moderno:
+
+### 2.1 File: `_layouts/default.html`
+
+```html
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Rosso di Sera</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+    
+    <!-- SEO -->
+    {% seo %}
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <a href="{{ '/' | relative_url }}" class="navbar-brand">
+            <img src="{{ '/assets/images/logo_trasparenza.png' | relative_url }}" alt="Rosso di Sera" class="navbar-logo">
+            <span class="navbar-title">Rosso di Sera</span>
+        </a>
+        <ul class="navbar-links">
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/archivio' | relative_url }}">Archivio</a></li>
+            <li><a href="{{ '/autori' | relative_url }}">Autori</a></li>
+            <li><a href="{{ '/contatti' | relative_url }}">Contatti</a></li>
+        </ul>
+    </nav>
+
+    {{ content }}
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-brand">
+                <h3>Rosso di Sera</h3>
+                <p>Un blog di pensiero critico, riflessioni sulla società contemporanea e uno sguardo attento sul mondo che ci circonda. Una luce nel mondo digitale.</p>
+            </div>
+            <div class="footer-section">
+                <h4>Navigazione</h4>
+                <ul>
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/archivio' | relative_url }}">Archivio</a></li>
+                    <li><a href="{{ '/autori' | relative_url }}">Autori</a></li>
+                    <li><a href="{{ '/contatti' | relative_url }}">Contatti</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Categorie</h4>
+                <ul>
+                    <li><a href="#">Società</a></li>
+                    <li><a href="#">Politica</a></li>
+                    <li><a href="#">Cultura</a></li>
+                    <li><a href="#">Economia</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Autori</h4>
+                <ul>
+                    <li><a href="#">Lino Rialti</a></li>
+                    <li><a href="#">Stefano Vozzi</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© {{ 'now' | date: "%Y" }} Rosso di Sera. Tutti i diritti riservati.</p>
+            <div class="social-links">
+                <a href="https://github.com/StE2808/rossodiserablog" aria-label="GitHub">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+                    </svg>
+                </a>
+                <a href="{{ '/feed.xml' | relative_url }}" aria-label="RSS">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M4 11a9 9 0 019 9M4 4a16 16 0 0116 16"/>
+                        <circle cx="5" cy="19" r="1"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Navbar scroll effect
+        const navbar = document.querySelector('.navbar');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 100) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+    </script>
+</body>
+</html>
+```
+
+### 2.2 File: `_layouts/home.html`
+
+```html
+---
+layout: default
+---
+
+<!-- HERO -->
+<section class="hero">
+    <div class="hero-decoration"></div>
+    <div class="hero-decoration"></div>
+    <div class="hero-decoration"></div>
+    
+    <div class="hero-content">
+        <p class="hero-subtitle">Un blog di pensiero critico</p>
+        <p class="hero-tagline">Una luce nel mondo digitale</p>
+        <a href="#articoli" class="hero-cta">
+            Esplora gli articoli
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 5v14M5 12l7 7 7-7"/>
+            </svg>
+        </a>
+    </div>
+
+    <div class="scroll-indicator">
+        <span></span>
+        <p>Scorri</p>
+    </div>
+</section>
+
+<!-- ARTICOLI -->
+<section class="articles-section" id="articoli">
+    <header class="section-header">
+        <span class="section-label">Ultimi articoli</span>
+        <h2 class="section-title">Pensieri e Riflessioni</h2>
+    </header>
+
+    <div class="articles-grid">
+        {% for post in site.posts limit:10 %}
+        <article class="article-card">
+            {% if post.image %}
+            <div class="article-image">
+                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                {% if post.category %}
+                <span class="article-category">{{ post.category }}</span>
+                {% endif %}
+            </div>
+            {% endif %}
+            <div class="article-content">
+                <div class="article-meta">
+                    <div class="article-author">
+                        <div class="author-avatar">
+                            {% assign author_initials = post.author | slice: 0, 2 | upcase %}
+                            {{ author_initials }}
+                        </div>
+                        <span>{{ post.author | replace: "-", " " | capitalize }}</span>
+                    </div>
+                    <span>•</span>
+                    <span>{{ post.date | date: "%d %B %Y" }}</span>
+                </div>
+                <h3 class="article-title">
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+                <p class="article-excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+                {% if post.tags.size > 0 %}
+                <div class="article-tags">
+                    {% for tag in post.tags limit:3 %}
+                    <span class="article-tag">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+
+    <div class="load-more-wrapper">
+        <a href="{{ '/archivio' | relative_url }}" class="load-more-btn">
+            Vedi tutti gli articoli
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+        </a>
+    </div>
+</section>
+```
+
+### 2.3 File: `_layouts/post.html`
+
+```html
+---
+layout: default
+---
+
+<article class="post-single">
+    <header class="post-header">
+        {% if page.category %}
+        <span class="post-category">{{ page.category }}</span>
+        {% endif %}
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="post-meta">
+            <div class="post-author">
+                <div class="author-avatar">
+                    {% assign author_initials = page.author | slice: 0, 2 | upcase %}
+                    {{ author_initials }}
+                </div>
+                <span>{{ page.author | replace: "-", " " | capitalize }}</span>
+            </div>
+            <span class="post-date">{{ page.date | date: "%d %B %Y" }}</span>
+        </div>
+    </header>
+
+    {% if page.image %}
+    <div class="post-featured-image">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+
+    <div class="post-content">
+        {{ content }}
+    </div>
+
+    {% if page.tags.size > 0 %}
+    <footer class="post-footer">
+        <div class="post-tags">
+            <span class="tags-label">Tag:</span>
+            {% for tag in page.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+    </footer>
+    {% endif %}
+
+    <nav class="post-navigation">
+        {% if page.previous.url %}
+        <a href="{{ page.previous.url | relative_url }}" class="nav-prev">
+            <span class="nav-label">← Precedente</span>
+            <span class="nav-title">{{ page.previous.title | truncate: 50 }}</span>
+        </a>
+        {% endif %}
+        {% if page.next.url %}
+        <a href="{{ page.next.url | relative_url }}" class="nav-next">
+            <span class="nav-label">Successivo →</span>
+            <span class="nav-title">{{ page.next.title | truncate: 50 }}</span>
+        </a>
+        {% endif %}
+    </nav>
+</article>
+```
+
+### 2.4 File: `assets/css/style.css`
+
+Sostituire completamente con questo CSS:
+
+```css
 /* ============================================
    ROSSO DI SERA - CSS MODERNO
    ============================================ */
@@ -138,7 +453,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image:
+    background-image: 
         radial-gradient(circle at 20% 80%, rgba(255,255,255,0.03) 0%, transparent 50%),
         radial-gradient(circle at 80% 20%, rgba(255,255,255,0.05) 0%, transparent 40%),
         radial-gradient(circle at 40% 40%, rgba(0,0,0,0.1) 0%, transparent 30%);
@@ -193,7 +508,7 @@ body {
 
 .hero-subtitle {
     font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(3.5rem, 8vw, 6rem);
+    font-size: clamp(2rem, 5vw, 3.5rem);
     font-weight: 600;
     letter-spacing: 2px;
     margin-bottom: 1rem;
@@ -202,7 +517,7 @@ body {
 
 .hero-tagline {
     font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(2rem, 5vw, 2.8rem);
+    font-size: clamp(1.2rem, 3vw, 1.6rem);
     font-style: italic;
     opacity: 0.85;
     margin-bottom: 3rem;
@@ -563,8 +878,6 @@ body {
 .post-content {
     font-size: 1.1rem;
     line-height: 1.9;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
 }
 
 .post-content p {
@@ -616,16 +929,14 @@ body {
 .tags-label {
     font-weight: 500;
     margin-right: 0.5rem;
-    color: var(--rosso-primario);
 }
 
 .tag {
-    background: transparent;
+    background: var(--crema-scuro);
     color: var(--testo-chiaro);
     padding: 0.4rem 1rem;
     font-size: 0.85rem;
     border-radius: 20px;
-    border: 1px solid var(--crema-scuro);
 }
 
 .post-navigation {
@@ -740,8 +1051,7 @@ footer {
     gap: 1rem;
 }
 
-.social-links a,
-.social-links span {
+.social-links a {
     width: 40px;
     height: 40px;
     border: 1px solid rgba(255,255,255,0.2);
@@ -800,3 +1110,146 @@ footer {
         text-align: left;
     }
 }
+```
+
+### 2.5 File: `index.html` (nella root)
+
+Sostituire il contenuto con:
+
+```html
+---
+layout: home
+---
+```
+
+---
+
+## TASK 3: Creare pagina Contatti (opzionale)
+
+### File da creare: `contatti.md`
+
+```markdown
+---
+layout: default
+title: Contatti
+---
+
+<div class="contact-page">
+    <div class="contact-header">
+        <h1>Contattaci</h1>
+        <p>Hai domande, suggerimenti o vuoi collaborare? Scrivici!</p>
+    </div>
+    
+    <form action="https://formspree.io/f/TUOCODICE" method="POST" class="contact-form">
+        <div class="form-group">
+            <label for="name">Nome</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+            <label for="message">Messaggio</label>
+            <textarea id="message" name="message" rows="6" required></textarea>
+        </div>
+        <button type="submit" class="submit-btn">Invia messaggio</button>
+    </form>
+</div>
+```
+
+**Nota**: Per il form funzionante, registrarsi su https://formspree.io e sostituire `TUOCODICE` con l'endpoint fornito.
+
+---
+
+## TASK 4: Modificare visualizzazione autore Ste2808 → Stefano Vozzi
+
+### 4.1 File: `admin/config.yml`
+
+Nella sezione autori, modificare la label:
+
+```yaml
+      - label: "Autore"
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "Lino Rialti", value: "lino-rialti" }
+          - { label: "Stefano Vozzi", value: "ste2808" }
+        required: true
+```
+
+**Nota**: Il `value` resta `ste2808` per non rompere i post esistenti, cambia solo la `label` visualizzata nel CMS.
+
+### 4.2 File: `_authors/ste2808.md`
+
+Aggiornare il nome visualizzato:
+
+```yaml
+---
+name: Stefano Vozzi
+username: ste2808
+bio: "Co-fondatore di Rosso di Sera"
+---
+```
+
+### 4.3 File: `_layouts/home.html` e `_layouts/post.html`
+
+Aggiungere una mappatura per convertire lo slug in nome completo. Nel file `home.html`, sostituire la riga:
+
+```html
+<span>{{ post.author | replace: "-", " " | capitalize }}</span>
+```
+
+Con:
+
+```html
+{% if post.author == "ste2808" %}
+  <span>Stefano Vozzi</span>
+{% elsif post.author == "lino-rialti" %}
+  <span>Lino Rialti</span>
+{% else %}
+  <span>{{ post.author | replace: "-", " " | capitalize }}</span>
+{% endif %}
+```
+
+Stessa modifica nel file `post.html` per la sezione `.post-author`.
+
+---
+
+## TASK 5: Commit e Push
+
+```bash
+# Dalla cartella del repository
+git add .
+git commit -m "Nuovo design moderno + campo categoria nel CMS"
+git push origin main
+```
+
+---
+
+## Checklist finale
+
+- [ ] `admin/config.yml` aggiornato con campo categoria
+- [ ] `admin/config.yml` label autore cambiata in "Stefano Vozzi"
+- [ ] `_authors/ste2808.md` aggiornato con nome "Stefano Vozzi"
+- [ ] `_layouts/default.html` sostituito
+- [ ] `_layouts/home.html` sostituito (con mappatura autori)
+- [ ] `_layouts/post.html` sostituito (con mappatura autori)
+- [ ] `assets/css/style.css` sostituito
+- [ ] `index.html` aggiornato
+- [ ] (Opzionale) `contatti.md` creato
+- [ ] Commit e push eseguiti
+- [ ] Verificare il sito dopo il deploy (1-2 minuti)
+
+---
+
+## Note importanti
+
+1. **Backup**: Prima di sovrascrivere, fare backup dei file esistenti se necessario
+2. **Logo**: Il nuovo design usa `/assets/images/logo_trasparenza.png` - assicurarsi che esista
+3. **Font**: I nuovi font (Cormorant Garamond + Outfit) vengono caricati da Google Fonts
+4. **Responsive**: Il design è già responsive (2 colonne desktop, 1 colonna mobile)
+
+---
+
+*Documento generato il 20 Dicembre 2024*

@@ -27,22 +27,3 @@ Cerco ancora e trovo un altro bacio, un "bacio animato", sul quale generazioni d
 Stavo ancora una volta distraendomi dalla mia ricerca su quel 54% delle culture che non si baciano quando il mio occhio cade su un abstract che parla di baci, ricerche, università. Clicco, apro la pagina web e comincio a leggere. Trovo questo: i ricercatori di un'università olandese hanno preso delle coppie e gli hanno fatte bere una bevanda probiotica, poi hanno fatto un tampone alla loro bocca. A questo punto, li hanno fatti baciare e hanno prelevato un altro campione di saliva. Dalle analisi comparative, risulta che 80 milioni di batteri sono passati da una bocca all'altra; ad ogni bacio passano talmente tanti batteri che dopo 7-8 baci, le coppie hanno praticamente gli stessi batteri in bocca. Ok, basta, spengo tutto e vado a cena. Durante la cena, guardo la mia compagna e faccio uno strano pensiero un po' imbarazzante: mi piace baciarti, ma cosa dire degli 80 milioni di batteri che dalla tua bocca saltano nella mia? 80 milioni di abitanti li fa la Germania; quindi, quando mi baci, una "Germania di batteri" mi salta in bocca. 80 milioni di "Bat-intrusi". Abbasso lo sguardo, c'è il bicchiere di vino; lo prendo, lo mando giù tutto d'un fiato e affogo lo strano pensiero.
 
 Che riflessioni fare su questa storia, oltre al fatto che ci dispiace per quel 54% delle culture che non praticano i baci romantici? Forse surrogano i baci con qualcosa di meglio; ce lo facciano sapere. C'è che certe cose è meglio non saperle e, se ci capita di leggerle, è meglio dimenticarle il prima possibile. Il vino con cui ho affogato i miei pensieri bizzarri era un Chianti del 2017, un rosso "al bacio".
-
-    
-
-    
-
-    
-  
- 
-
-    
-   
-  
-     
- 
-            
-    
-         
-
-Un sito WordPress.com

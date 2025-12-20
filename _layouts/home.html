@@ -47,8 +47,14 @@ layout: default
                 <div class="article-meta">
                     <div class="article-author">
                         <div class="author-avatar">
-                            {% assign author_initials = post.author | slice: 0, 2 | upcase %}
-                            {{ author_initials }}
+                            {% if post.author == "stefano-vozzi" %}
+                              SV
+                            {% elsif post.author == "lino-rialti" %}
+                              LR
+                            {% else %}
+                              {% assign author_initials = post.author | slice: 0, 2 | upcase %}
+                              {{ author_initials }}
+                            {% endif %}
                         </div>
                         {% if post.author == "stefano-vozzi" %}
                           <span>Stefano Vozzi</span>
