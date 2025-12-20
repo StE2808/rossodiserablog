@@ -3,8 +3,12 @@ layout: post
 title: 'Treni: ennesima giornata di caos'
 date: 2025-12-17 11:09:00 +0100
 author: lino-rialti
+category: politica
 tags:
-  - '#treni #salvinidimettiti #ritardi #trenitalia'
+  - treni
+  - salvinidimettiti
+  - ritardi
+  - trenitalia
 image: /assets/images/uploads/IMG_6989.jpeg
 excerpt: 'Treni: ennesima giornata di caos'
 ---
