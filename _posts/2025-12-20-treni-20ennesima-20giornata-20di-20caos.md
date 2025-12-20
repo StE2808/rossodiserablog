@@ -6,7 +6,7 @@ author: lino-rialti
 tags:
   - '#treni #salvinidimettiti #ritardi #trenitalia'
 image: /assets/images/uploads/IMG_6989.jpeg
-excerpt: 'treni: 20ennesima giornata di caos'
+excerpt: 'Treni: ennesima giornata di caos'
 ---
 Guardate questo tabellone: una sfilza di treni in ritardo. Qusta era, stamattina, Santa Maria  Novella, Firenze, ma è un problema diffuso in ogni stazione italiana.
 
