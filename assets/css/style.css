@@ -620,7 +620,7 @@ body {
 }
 
 .tag {
-    background: transparent;
+    background: rgba(255, 255, 255, 0.5);
     color: var(--testo-chiaro);
     padding: 0.4rem 1rem;
     font-size: 0.85rem;

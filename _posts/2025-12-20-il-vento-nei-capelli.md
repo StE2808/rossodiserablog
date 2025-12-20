@@ -2,7 +2,7 @@
 layout: post
 title: Il vento nei capelli
 date: 2025-12-20 21:36:00 +0100
-author: ste2808
+author: stefano-vozzi
 category: arte-artisti
 tags:
   - Fotografia
