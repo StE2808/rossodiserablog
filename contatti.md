@@ -83,7 +83,7 @@ document.getElementById('contact-form').addEventListener('submit', async functio
     };
     
     try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycbw6iMfn_2EuG22aBKgUPvZLPpmYQ1yf8p8y5ThzzzBFF-CQW1EYGUcdN8On7z9TV-ERwg/exec', {
+        const response = await fetch('https://script.google.com/macros/s/AKfycbwswRnizxmMA4yo0DOWYogwbPgn9fWUVMvMU85mxmV3AWokstm5BvLhfRmR3bXFNWH0/exec', {
             method: 'POST',
             mode: 'no-cors',
             headers: {
