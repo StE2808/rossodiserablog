@@ -1,82 +1,15 @@
-# Rosso di Sera Blog
+# Rosso di Sera
 
-Un blog Jekyll pronto per GitHub Pages.
+La redazione del blog Rosso di Sera è un autentico melting pot di culture, provenienze e età anagrafiche diverse. Qui, si incontrano individui con identità varie, ma accomunati da un profondo senso della giustizia, persone, scrittori, giornalisti, professionisti ma non solo, sempre attivi nella difesa dei diritti e con una comune passione per la ricerca di formule politiche, nel suo senso più alto, per vivere nel e il nostro Paese con più equità e solidarietà sociale.
 
-## Struttura
+Nella redazione, giovani talenti si mescolano ad esperti, provenienti da diverse esperienze, così portando con sé una ricchezza di prospettive e idee. Le discussioni anche accese, le analisi approfondite e la voglia di contribuire a un futuro migliore per la società sono ciò che caratterizza questa eclettica equipe.
 
-```
-rossodiserablog/
-├── _config.yml          # Configurazione del sito
-├── _posts/              # Tutti gli articoli (176 file)
-├── _layouts/            # Template delle pagine
-├── _authors/            # Profili autori
-├── assets/css/          # Fogli di stile
-├── CNAME                # Dominio personalizzato
-├── index.html           # Homepage
-├── archivio.md          # Pagina archivio
-└── autori.md            # Pagina autori
-```
-
-## Come pubblicare su GitHub Pages
-
-1. Vai su https://github.com/StE2808/rossodiserablog
-2. Clicca su "Add file" → "Upload files"
-3. Trascina tutti i file di questa cartella
-4. Clicca "Commit changes"
-
-## Attivare GitHub Pages
-
-1. Vai in "Settings" → "Pages"
-2. Source: seleziona "Deploy from a branch"
-3. Branch: seleziona "main" e "/ (root)"
-4. Clicca "Save"
-
-## Configurare il dominio
-
-Per usare www.rossodiserablog.it:
-
-1. Acquista il dominio da un registrar
-2. Configura i DNS:
-   - Record A: 185.199.108.153
-   - Record A: 185.199.109.153
-   - Record A: 185.199.110.153
-   - Record A: 185.199.111.153
-   - CNAME www → ste2808.github.io
-
-3. In GitHub Settings → Pages, inserisci il dominio
-
-## Aggiungere nuovi articoli
-
-Crea un file in `_posts/` con formato:
-```
-YYYY-MM-DD-titolo-articolo.md
-```
-
-Contenuto:
-```markdown
----
-layout: post
-title: "Titolo dell'articolo"
-date: 2025-01-15 10:00:00 +0100
-author: lino-rialti
-tags: ["tag1", "tag2"]
----
-
-Contenuto dell'articolo in Markdown...
-```
-
-## Autori
-
-- `lino-rialti` - Lino Rialti
-- `ste2808` - StE2808
+Ogni membro, indipendentemente dalla propria provenienza, mette in comune la propria esperienza e la propria visione, contribuendo a creare un ambiente in cui la diversità è un punto di forza, non una barriera. È questo impegno comune verso la giustizia e il bene comune che fa della redazione di Rosso di Sera un luogo unico dove le idee si fondono per forgiare un cammino verso un mondo più onesto e responsabile.
 
 ---
 
-Creato con ❤️ da Claude
+## ✍️ Vuoi unirti a noi?
 
-## Tina CMS Configurato
+Se condividi i nostri valori e hai voglia di contribuire con la tua voce, la tua esperienza o semplicemente le tue idee, saremo felici di conoscerti. La nostra redazione è sempre aperta a nuovi talenti e punti di vista.
 
-Il blog ora utilizza Tina CMS per la gestione dei contenuti.
-
-- URL Admin: https://rossodiserablog.pages.dev/admin/
-- Accesso: Login con GitHub
+**[Contattaci →](https://ste2808.github.io/rossodiserablog/contatti/)**
