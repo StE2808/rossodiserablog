@@ -283,32 +283,32 @@ body.menu-open {
 
 .hero-decoration {
     position: absolute;
-    border-radius: 50%;
-    border: 1px solid rgba(255,255,255,0.1);
     animation: float 20s infinite ease-in-out;
+    opacity: 0.6;
+    pointer-events: none;
 }
 
-.hero-decoration:nth-child(1) {
-    width: 600px;
-    height: 600px;
-    top: -200px;
-    right: -200px;
+.hero-branch-1 {
+    width: 400px;
+    height: 400px;
+    top: -100px;
+    right: -50px;
     animation-delay: 0s;
 }
 
-.hero-decoration:nth-child(2) {
-    width: 400px;
-    height: 400px;
-    bottom: -100px;
-    left: -100px;
+.hero-branch-2 {
+    width: 350px;
+    height: 350px;
+    bottom: -80px;
+    left: -40px;
     animation-delay: -5s;
 }
 
-.hero-decoration:nth-child(3) {
-    width: 200px;
-    height: 200px;
-    top: 30%;
-    left: 10%;
+.hero-branch-3 {
+    width: 180px;
+    height: 180px;
+    top: 35%;
+    left: 8%;
     animation-delay: -10s;
 }
 
@@ -872,6 +872,160 @@ body.menu-open {
 }
 
 /* ============================================
+   PAGINA ARCHIVIO
+============================================ */
+.archive-section {
+    padding: 8rem 2rem 4rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.archive-container {
+    margin-top: 3rem;
+}
+
+.archive-year-section {
+    margin-bottom: 4rem;
+    position: relative;
+}
+
+.archive-year-badge {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 5rem;
+    font-weight: 700;
+    color: var(--rosso-primario);
+    opacity: 0.15;
+    position: absolute;
+    top: -2rem;
+    left: -1rem;
+    z-index: 0;
+    user-select: none;
+    pointer-events: none;
+}
+
+.archive-posts {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.archive-card {
+    background: white;
+    border-radius: 16px;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+    transition: all 0.3s ease;
+    border-left: 3px solid transparent;
+}
+
+.archive-card:hover {
+    transform: translateX(5px);
+    box-shadow: 0 8px 24px rgba(139, 26, 26, 0.12);
+    border-left-color: var(--rosso-primario);
+}
+
+.archive-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.8rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.archive-date {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    color: var(--testo-chiaro);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.archive-date svg {
+    opacity: 0.6;
+}
+
+.archive-category {
+    background: var(--rosso-primario);
+    color: white;
+    padding: 0.3rem 0.9rem;
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    border-radius: 15px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.archive-category:hover {
+    background: var(--rosso-scuro);
+    transform: translateY(-2px);
+}
+
+.archive-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 0.8rem;
+}
+
+.archive-title a {
+    color: var(--testo);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.archive-card:hover .archive-title a {
+    color: var(--rosso-primario);
+}
+
+.archive-card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.archive-author {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.9rem;
+    color: var(--testo-chiaro);
+}
+
+.archive-author svg {
+    opacity: 0.6;
+}
+
+.archive-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+}
+
+.archive-tag {
+    background: var(--crema-scuro);
+    color: var(--testo-chiaro);
+    padding: 0.25rem 0.7rem;
+    font-size: 0.75rem;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.archive-tag:hover {
+    background: var(--rosso-accent);
+    color: white;
+}
+
+/* ============================================
    FOOTER
 ============================================ */
 footer {
@@ -1041,6 +1195,53 @@ footer {
 
     .category-section {
         padding: 6rem 1rem 3rem;
+    }
+
+    /* Archivio responsive */
+    .archive-section {
+        padding: 6rem 1rem 3rem;
+    }
+
+    .archive-year-badge {
+        font-size: 3.5rem;
+        top: -1.5rem;
+        left: 0;
+    }
+
+    .archive-card {
+        padding: 1.2rem 1.5rem;
+    }
+
+    .archive-card:hover {
+        transform: translateX(0) translateY(-3px);
+    }
+
+    .archive-card-footer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.8rem;
+    }
+
+    /* Hero branches responsive */
+    .hero-branch-1 {
+        width: 250px;
+        height: 250px;
+        top: -50px;
+        right: -30px;
+    }
+
+    .hero-branch-2 {
+        width: 200px;
+        height: 200px;
+        bottom: -40px;
+        left: -20px;
+    }
+
+    .hero-branch-3 {
+        width: 120px;
+        height: 120px;
+        top: 40%;
+        left: 5%;
     }
 }
 
