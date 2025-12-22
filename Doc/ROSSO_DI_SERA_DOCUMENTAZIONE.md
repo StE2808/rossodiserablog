@@ -1,5 +1,9 @@
 # Rosso di Sera - Documentazione Completa del Progetto
 
+**Ultimo aggiornamento: 22 Dicembre 2024**
+
+---
+
 ## Panoramica
 
 **Rosso di Sera** è un blog Jekyll ospitato su GitHub Pages con un CMS (Sveltia CMS) che permette di scrivere articoli direttamente dal browser.
@@ -8,7 +12,7 @@
 - **URL CMS**: https://ste2808.github.io/rossodiserablog/admin/
 - **Repository**: https://github.com/StE2808/rossodiserablog
 - **Articoli**: 177 (176 migrati + 1 nuovo)
-- **Autori**: StE2808, Lino Rialti (wqqz9pqy6z-cpu)
+- **Autori**: Stefano Vozzi, Lino Rialti
 
 ---
 
@@ -28,6 +32,9 @@ GITHUB (Repository rossodiserablog)
       │ GitHub Actions
       ▼
 GITHUB PAGES (Hosting)
+      │
+      ▼
+GISCUS (Commenti via GitHub Discussions)
 ```
 
 ---
@@ -41,6 +48,101 @@ GITHUB PAGES (Hosting)
 | CMS | Sveltia CMS | Fork moderno di Decap CMS |
 | Autenticazione | GitHub OAuth | Via Cloudflare Workers |
 | OAuth Proxy | Cloudflare Workers | Gratuito, senza limiti |
+| Form Contatti | Google Apps Script | Salva su Google Sheets + notifica email |
+| Commenti | Giscus | Basato su GitHub Discussions |
+
+---
+
+## Stato Attuale del Progetto
+
+### ✅ Completato
+
+- Design moderno con identità bordeaux
+- CMS Sveltia funzionante con autenticazione OAuth
+- 177 articoli migrati da WordPress
+- SEO completo (Open Graph, Twitter Cards, Schema.org, Sitemap, RSS)
+- Pagina Contatti con form funzionante
+- Notifiche email per nuovi messaggi (a scrivi.rossodisera@gmail.com)
+- Layout responsive (desktop/mobile)
+- **Sistema commenti Giscus** (basato su GitHub Discussions)
+
+### 📲 Da Fare (Prima del Go-Live)
+
+1. **Menu hamburger mobile** - La navbar su mobile non ha navigazione
+2. **Pagine categorie** - I link nel footer (Società, Politica, Cultura, Economia) puntano a `#`
+3. **Tempo di lettura** - Mostrare "X min di lettura" negli articoli
+
+### 📲 Da Fare (Nice to Have)
+
+4. **Pagina "Chi siamo"** - Storia del blog e presentazione autori
+5. **Ricerca articoli** - Campo di ricerca per l'archivio
+6. **Pulsante "Torna su"** - Per articoli lunghi
+7. **Articoli correlati** - Suggerimenti a fine articolo
+8. **Newsletter** - Form iscrizione per ricevere nuovi articoli
+9. **Dark mode** - Tema scuro per lettura serale
+
+### 📲 Da Fare (Per il Lancio)
+
+- Acquisto dominio personalizzato
+- Configurazione DNS
+- Aggiornamento URL in `_config.yml`
+- Aggiornamento `ALLOWED_DOMAINS` su Cloudflare
+
+---
+
+## Sistema Commenti (Giscus)
+
+### Configurazione
+- **Sistema**: Giscus (https://giscus.app)
+- **Backend**: GitHub Discussions
+- **Categoria**: "Commenti" (tipo Announcement)
+- **Mapping**: pathname (ogni articolo = una discussion)
+- **Tema**: light
+- **Lingua**: italiano
+
+### Parametri Giscus
+```html
+<script src="https://giscus.app/client.js"
+        data-repo="StE2808/rossodiserablog"
+        data-repo-id="R_kgDOQodhxA"
+        data-category="Commenti"
+        data-category-id="DIC_kwDOQodhxM4C0HE9"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="it"
+        crossorigin="anonymous"
+        async>
+</script>
+```
+
+### Moderazione Commenti
+1. Vai su https://github.com/StE2808/rossodiserablog/discussions
+2. Trova la discussion corrispondente all'articolo
+3. Clicca sui tre puntini (⋯) accanto al commento
+4. Seleziona "Delete" per eliminare o "Hide" per nascondere
+
+### App Giscus
+- **Installazione**: https://github.com/apps/giscus
+- **Configurata su**: solo repository `rossodiserablog`
+
+---
+
+## Form Contatti
+
+### Configurazione
+- **Google Sheet**: "Contatti Rosso di Sera"
+- **Apps Script URL**: `https://script.google.com/macros/s/AKfycbwswRnizxmMA4yo0DOWYogwbPgn9fWUVMvMU85mxmV3AWokstm5BvLhfRmR3bXFNWH0/exec`
+- **Email notifiche**: scrivi.rossodisera@gmail.com
+
+### Funzionamento
+1. Utente compila form su /contatti/
+2. Dati inviati a Google Apps Script
+3. Script salva riga in Google Sheets (Data, Nome, Email, Messaggio)
+4. Script invia email di notifica
 
 ---
 
@@ -107,7 +209,7 @@ collections:
         widget: "select"
         options:
           - { label: "Lino Rialti", value: "lino-rialti" }
-          - { label: "StE2808", value: "ste2808" }
+          - { label: "Stefano Vozzi", value: "stefano-vozzi" }
         required: true
       - label: "Tag"
         name: "tags"
@@ -180,10 +282,10 @@ rossodiserablog/
 ├── _layouts/
 │   ├── default.html         # Layout base (con meta SEO)
 │   ├── home.html            # Homepage con card
-│   └── post.html            # Articolo singolo (con Schema.org)
+│   └── post.html            # Articolo singolo (con Schema.org + Giscus)
 ├── _authors/
 │   ├── lino-rialti.md
-│   └── ste2808.md
+│   └── stefano-vozzi.md
 ├── admin/
 │   ├── index.html           # Pannello Sveltia CMS
 │   └── config.yml           # Configurazione CMS
@@ -193,9 +295,10 @@ rossodiserablog/
 ├── index.html               # Homepage
 ├── archivio.md              # Pagina archivio
 ├── autori.md                # Pagina autori
+├── contatti.md              # Pagina contatti con form
 ├── robots.txt               # SEO
 ├── Gemfile                  # Dipendenze Ruby
-└── report_blog.md           # Report implementazione
+└── ROSSO_DI_SERA_DOCUMENTAZIONE.md
 ```
 
 ---
@@ -248,17 +351,28 @@ rossodiserablog/
 - Tentativo Netlify Identity (fallito - limiti superati)
 - Migrazione a GitHub OAuth
 - Problemi "Invalid state key"
-
-### 19 Dicembre 2024 (continuazione)
 - Migrazione a Sveltia CMS
 - Setup Cloudflare Workers per OAuth
-- Risoluzione errori configurazione
 - **SUCCESSO**: CMS funzionante!
 - Primo articolo pubblicato: "Il vento nei capelli"
 
 ### 20 Dicembre 2024
-- Aggiunto Lino come collaboratore (wqqz9pqy6z-cpu)
+- Aggiunto Lino come collaboratore
 - Test pubblicazione multi-autore
+
+### 21 Dicembre 2024
+- Creata pagina Contatti con form
+- Implementato Google Apps Script per salvataggio messaggi
+- Configurata notifica email automatica a scrivi.rossodisera@gmail.com
+- Aggiornata documentazione con roadmap funzionalità
+
+### 22 Dicembre 2024
+- **Implementato sistema commenti Giscus**
+- Creata categoria "Commenti" su GitHub Discussions (tipo Announcement)
+- Installata app Giscus sul repository
+- Integrato widget commenti in `_layouts/post.html`
+- Tema light per integrazione con design del blog
+- Navigazione articoli spostata sotto i commenti
 
 ---
 
@@ -271,6 +385,7 @@ rossodiserablog/
 | "Configuration could not be parsed" | YAML complesso | Semplificare config.yml |
 | Netlify limiti superati | Piano gratuito | Usare Cloudflare Workers |
 | admin/index.html 404 | File non pushato | `git add -f admin/index.html` |
+| Giscus "Nessuna categoria trovata" | Cache o categoria non salvata | Inserire nome categoria manualmente |
 
 ---
 
@@ -291,11 +406,15 @@ rossodiserablog/
 
 - **Blog**: https://ste2808.github.io/rossodiserablog/
 - **CMS**: https://ste2808.github.io/rossodiserablog/admin/
+- **Contatti**: https://ste2808.github.io/rossodiserablog/contatti/
 - **Repository**: https://github.com/StE2808/rossodiserablog
+- **Discussions (Commenti)**: https://github.com/StE2808/rossodiserablog/discussions
 - **Cloudflare**: https://dash.cloudflare.com/
 - **GitHub OAuth**: https://github.com/settings/developers
+- **Google Sheet Contatti**: Google Sheets → "Contatti Rosso di Sera"
 - **Sveltia CMS Docs**: https://github.com/sveltia/sveltia-cms
 - **Sveltia Auth Docs**: https://github.com/sveltia/sveltia-cms-auth
+- **Giscus**: https://giscus.app
 
 ---
 
@@ -306,14 +425,14 @@ Modifica `admin/config.yml`, sezione `options` del campo autore:
 ```yaml
 options:
   - { label: "Lino Rialti", value: "lino-rialti" }
-  - { label: "StE2808", value: "ste2808" }
+  - { label: "Stefano Vozzi", value: "stefano-vozzi" }
   - { label: "Nuovo Autore", value: "nuovo-autore" }
 ```
 
-### Cambiare dominio (es. rossodiserablog.it)
+### Cambiare dominio (es. rossodisera.it)
 1. Compra dominio
 2. Configura DNS (A records verso GitHub)
-3. Crea file `CNAME` con `www.rossodiserablog.it`
+3. Crea file `CNAME` con `www.rossodisera.it`
 4. GitHub Settings → Pages → Custom domain
 5. Aggiorna `_config.yml` con nuovo URL
 6. Aggiorna `ALLOWED_DOMAINS` su Cloudflare
@@ -326,6 +445,15 @@ options:
 5. Aggiorna `GITHUB_CLIENT_SECRET`
 6. Distribuisci
 
----
+### Modificare email notifiche contatti
+1. Google Sheets → "Contatti Rosso di Sera" → Estensioni → Apps Script
+2. Modifica `var emailDestinatario = "nuova@email.com";`
+3. Salva e fai nuovo deployment
 
-*Documento generato il 20 Dicembre 2024*
+### Cambiare tema Giscus
+Modifica `_layouts/post.html`, attributo `data-theme`:
+- `light` - tema chiaro
+- `dark` - tema scuro
+- `preferred_color_scheme` - segue preferenze sistema
+- `noborder_light` - chiaro senza bordi
+- URL di un CSS custom per tema personalizzato

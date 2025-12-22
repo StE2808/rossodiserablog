@@ -32,6 +32,10 @@ body {
     overflow-x: hidden;
 }
 
+body.menu-open {
+    overflow: hidden;
+}
+
 /* ============================================
    NAVBAR
 ============================================ */
@@ -62,6 +66,7 @@ body {
     gap: 1rem;
     text-decoration: none;
     color: white;
+    z-index: 1001;
 }
 
 .navbar-logo {
@@ -116,6 +121,137 @@ body {
 
 .navbar-links a:hover::after {
     width: 100%;
+}
+
+/* ============================================
+   HAMBURGER MENU (MOBILE)
+============================================ */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 6px;
+    width: 32px;
+    height: 32px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 1001;
+}
+
+.hamburger-line {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: white;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.hamburger.active .hamburger-line:nth-child(1) {
+    transform: rotate(45deg) translate(6px, 6px);
+}
+
+.hamburger.active .hamburger-line:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active .hamburger-line:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -6px);
+}
+
+/* Mobile Menu Overlay */
+.mobile-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(165deg, var(--rosso-scuro) 0%, var(--rosso-primario) 50%, var(--rosso-accent) 100%);
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.4s ease;
+}
+
+.mobile-menu.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.mobile-menu-links {
+    list-style: none;
+    text-align: center;
+}
+
+.mobile-menu-links li {
+    margin-bottom: 1.5rem;
+}
+
+.mobile-menu-links a {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    transition: opacity 0.3s ease;
+}
+
+.mobile-menu-links a::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background: white;
+    transition: width 0.3s ease;
+}
+
+.mobile-menu-links a:hover::after {
+    width: 100%;
+}
+
+.mobile-menu-categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+    max-width: 300px;
+}
+
+.mobile-menu-label {
+    width: 100%;
+    text-align: center;
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.5);
+    margin-bottom: 0.5rem;
+}
+
+.mobile-menu-categories a {
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.2);
+    color: white;
+    padding: 0.5rem 1.2rem;
+    font-size: 0.85rem;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.mobile-menu-categories a:hover {
+    background: white;
+    color: var(--rosso-primario);
 }
 
 /* ============================================
@@ -523,6 +659,13 @@ body {
     text-transform: uppercase;
     border-radius: 20px;
     margin-bottom: 1.5rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.post-category:hover {
+    background: var(--rosso-scuro);
+    transform: translateY(-2px);
 }
 
 .post-title {
@@ -538,7 +681,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.8rem;
     color: var(--testo-chiaro);
     font-size: 0.95rem;
 }
@@ -547,6 +691,22 @@ body {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+}
+
+.meta-separator {
+    color: var(--crema-scuro);
+}
+
+/* Tempo di lettura */
+.reading-time {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: var(--testo-chiaro);
+}
+
+.reading-time svg {
+    opacity: 0.7;
 }
 
 .post-featured-image {
@@ -668,6 +828,50 @@ body {
 }
 
 /* ============================================
+   PAGINA CATEGORIA
+============================================ */
+.category-section {
+    padding: 8rem 2rem 4rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.category-header {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.category-label {
+    font-size: 0.8rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--testo-chiaro);
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.category-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+    font-weight: 600;
+    color: var(--rosso-primario);
+    margin-bottom: 1rem;
+}
+
+.category-count {
+    font-size: 1rem;
+    color: var(--testo-chiaro);
+}
+
+.category-description {
+    font-size: 1.1rem;
+    color: var(--testo-chiaro);
+    max-width: 600px;
+    margin: 1.5rem auto 0;
+    line-height: 1.7;
+}
+
+/* ============================================
    FOOTER
 ============================================ */
 footer {
@@ -774,6 +978,19 @@ footer {
         display: none;
     }
 
+    .hamburger {
+        display: flex;
+    }
+
+    .navbar-title {
+        font-size: 1.5rem;
+    }
+
+    .navbar-logo {
+        width: 60px;
+        height: 60px;
+    }
+
     .articles-grid {
         grid-template-columns: 1fr;
     }
@@ -792,12 +1009,34 @@ footer {
         padding: 6rem 1rem 3rem;
     }
 
+    .post-meta {
+        gap: 0.5rem;
+    }
+
+    .meta-separator {
+        display: none;
+    }
+
+    .post-meta > * {
+        margin-bottom: 0.3rem;
+    }
+
+    .reading-time {
+        width: 100%;
+        justify-content: center;
+        margin-top: 0.5rem;
+    }
+
     .post-navigation {
         flex-direction: column;
     }
 
     .nav-next {
         text-align: left;
+    }
+
+    .category-section {
+        padding: 6rem 1rem 3rem;
     }
 }
 
