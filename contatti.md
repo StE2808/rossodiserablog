@@ -17,17 +17,23 @@ permalink: /contatti/
                 <label for="nome">Nome *</label>
                 <input type="text" id="nome" name="nome" required placeholder="Il tuo nome">
             </div>
-            
+
             <div class="form-group">
                 <label for="email">Email *</label>
                 <input type="email" id="email" name="email" required placeholder="La tua email">
             </div>
-            
+
+            <!-- Honeypot anti-spam: campo invisibile che solo i bot compilano -->
+            <div class="form-group" style="position: absolute; left: -9999px;" aria-hidden="true">
+                <label for="website">Website</label>
+                <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+            </div>
+
             <div class="form-group">
                 <label for="messaggio">Messaggio *</label>
                 <textarea id="messaggio" name="messaggio" rows="6" required placeholder="Scrivi qui il tuo messaggio..."></textarea>
             </div>
-            
+
             <button type="submit" class="submit-btn" id="submit-btn">
                 <span class="btn-text">Invia messaggio</span>
                 <span class="btn-loading" style="display: none;">Invio in corso...</span>
@@ -36,7 +42,7 @@ permalink: /contatti/
                 </svg>
             </button>
         </form>
-        
+
         <div id="form-success" class="form-message success" style="display: none;">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
@@ -44,7 +50,7 @@ permalink: /contatti/
             </svg>
             <p>Grazie per il tuo messaggio! Ti risponderemo al più presto.</p>
         </div>
-        
+
         <div id="form-error" class="form-message error" style="display: none;">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <circle cx="12" cy="12" r="10"/>
@@ -59,31 +65,32 @@ permalink: /contatti/
 <script>
 document.getElementById('contact-form').addEventListener('submit', async function(e) {
     e.preventDefault();
-    
+
     const form = this;
     const submitBtn = document.getElementById('submit-btn');
     const btnText = submitBtn.querySelector('.btn-text');
     const btnLoading = submitBtn.querySelector('.btn-loading');
     const successMsg = document.getElementById('form-success');
     const errorMsg = document.getElementById('form-error');
-    
+
     // Disabilita il pulsante e mostra loading
     submitBtn.disabled = true;
     btnText.style.display = 'none';
     btnLoading.style.display = 'inline';
-    
+
     // Nascondi messaggi precedenti
     successMsg.style.display = 'none';
     errorMsg.style.display = 'none';
-    
+
     const data = {
         nome: document.getElementById('nome').value,
         email: document.getElementById('email').value,
-        messaggio: document.getElementById('messaggio').value
+        messaggio: document.getElementById('messaggio').value,
+        website: document.getElementById('website').value // Honeypot
     };
-    
+
     try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycbwswRnizxmMA4yo0DOWYogwbPgn9fWUVMvMU85mxmV3AWokstm5BvLhfRmR3bXFNWH0/exec', {
+        const response = await fetch('https://script.google.com/macros/s/AKfycbwg-j_RdUP0KXl2jMMw6RyCKak4Aa0EyEyV8tMFMpH10t1Yqy67zQl5kIitlhtVJWoHBQ/exec', {
             method: 'POST',
             mode: 'no-cors',
             headers: {
@@ -91,12 +98,12 @@ document.getElementById('contact-form').addEventListener('submit', async functio
             },
             body: JSON.stringify(data)
         });
-        
+
         // Con no-cors non possiamo leggere la risposta, assumiamo successo
         form.style.display = 'none';
         successMsg.style.display = 'flex';
         form.reset();
-        
+
     } catch (error) {
         errorMsg.style.display = 'flex';
         console.error('Errore:', error);
