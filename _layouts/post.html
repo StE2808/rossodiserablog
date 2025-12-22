@@ -53,6 +53,27 @@ layout: default
     </footer>
     {% endif %}
 
+    <!-- Sezione Commenti -->
+    <section class="post-comments">
+        <h3 class="comments-title">Commenti</h3>
+        <script src="https://giscus.app/client.js"
+                data-repo="StE2808/rossodiserablog"
+                data-repo-id="R_kgDOQodhxA"
+                data-category="Commenti"
+                data-category-id="DIC_kwDOQodhxM4C0HE9"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="light"
+                data-lang="it"
+                crossorigin="anonymous"
+                async>
+        </script>
+    </section>
+
+    <!-- Navigazione articoli (dopo i commenti) -->
     <nav class="post-navigation">
         {% if page.previous.url %}
         <a href="{{ page.previous.url | relative_url }}" class="nav-prev">
@@ -67,24 +88,4 @@ layout: default
         </a>
         {% endif %}
     </nav>
-
-    <!-- Sezione Commenti -->
-    <section class="post-comments">
-        <h3 class="comments-title">Commenti</h3>
-        <script src="https://giscus.app/client.js"
-                data-repo="StE2808/rossodiserablog"
-                data-repo-id="R_kgDOQodhxA"
-                data-category="Commenti"
-                data-category-id="DIC_kwDOQodhxM4C0HE9"
-                data-mapping="pathname"
-                data-strict="0"
-                data-reactions-enabled="1"
-                data-emit-metadata="0"
-                data-input-position="bottom"
-                data-theme="preferred_color_scheme"
-                data-lang="it"
-                crossorigin="anonymous"
-                async>
-        </script>
-    </section>
 </article>
