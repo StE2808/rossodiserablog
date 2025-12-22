@@ -954,3 +954,34 @@ footer {
         padding: 2rem 1.5rem;
     }
 }
+
+/* ============================================
+   SEZIONE COMMENTI (GISCUS)
+============================================ */
+.post-comments {
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 1px solid var(--crema-scuro);
+}
+
+.comments-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: var(--testo);
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.comments-title::before {
+    content: '💬 ';
+}
+
+/* Contenitore Giscus */
+.giscus {
+    max-width: 100%;
+}
+
+.giscus-frame {
+    border-radius: 12px;
+}
