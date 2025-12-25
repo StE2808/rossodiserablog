@@ -281,35 +281,76 @@ body.menu-open {
     pointer-events: none;
 }
 
-.hero-decoration {
+/* Albero esplosivo */
+.tree-svg {
     position: absolute;
-    animation: float 20s infinite ease-in-out;
-    opacity: 0.6;
-    pointer-events: none;
-}
-
-.hero-branch-1 {
     width: 400px;
     height: 400px;
-    top: -100px;
-    right: -50px;
-    animation-delay: 0s;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 1;
 }
 
-.hero-branch-2 {
-    width: 350px;
-    height: 350px;
-    bottom: -80px;
-    left: -40px;
-    animation-delay: -5s;
+.tree-fragment {
+    transform-origin: center;
 }
 
-.hero-branch-3 {
-    width: 180px;
-    height: 180px;
-    top: 35%;
-    left: 8%;
-    animation-delay: -10s;
+/* Animazioni esplosione per direzione */
+.tree-fragment[data-direction="top"] {
+    animation: explode-top 1.5s ease-out 2s forwards;
+}
+
+.tree-fragment[data-direction="top-left"] {
+    animation: explode-top-left 1.5s ease-out 2s forwards;
+}
+
+.tree-fragment[data-direction="top-right"] {
+    animation: explode-top-right 1.5s ease-out 2s forwards;
+}
+
+.tree-fragment[data-direction="left"] {
+    animation: explode-left 1.5s ease-out 2s forwards;
+}
+
+.tree-fragment[data-direction="right"] {
+    animation: explode-right 1.5s ease-out 2s forwards;
+}
+
+.tree-fragment[data-direction="bottom"] {
+    animation: explode-bottom 1.5s ease-out 2s forwards;
+}
+
+/* Keyframes esplosione */
+@keyframes explode-top {
+    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate(0, -250px) rotate(45deg); opacity: 0; }
+}
+
+@keyframes explode-top-left {
+    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate(-200px, -200px) rotate(-60deg); opacity: 0; }
+}
+
+@keyframes explode-top-right {
+    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate(200px, -200px) rotate(60deg); opacity: 0; }
+}
+
+@keyframes explode-left {
+    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate(-250px, 0) rotate(-45deg); opacity: 0; }
+}
+
+@keyframes explode-right {
+    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate(250px, 0) rotate(45deg); opacity: 0; }
+}
+
+@keyframes explode-bottom {
+    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
+    100% { transform: translate(0, 150px) rotate(30deg); opacity: 0; }
 }
 
 @keyframes float {
@@ -1222,26 +1263,10 @@ footer {
         gap: 0.8rem;
     }
 
-    /* Hero branches responsive */
-    .hero-branch-1 {
+    /* Albero esplosivo responsive */
+    .tree-svg {
         width: 250px;
         height: 250px;
-        top: -50px;
-        right: -30px;
-    }
-
-    .hero-branch-2 {
-        width: 200px;
-        height: 200px;
-        bottom: -40px;
-        left: -20px;
-    }
-
-    .hero-branch-3 {
-        width: 120px;
-        height: 120px;
-        top: 40%;
-        left: 5%;
     }
 }
 

@@ -4,22 +4,60 @@ layout: default
 
 <!-- HERO -->
 <section class="hero">
-    <!-- Ramo grande in alto a destra -->
-    <svg class="hero-decoration hero-branch-1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-        <path d="M100 180 Q100 140 120 120 Q140 100 160 80 M120 120 Q110 110 100 100 M120 120 Q130 110 140 100 M140 100 Q145 90 150 80 M140 100 Q138 88 135 75"
-              stroke="rgba(255,255,255,0.15)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-    </svg>
+    <!-- Albero esplosivo -->
+    <svg class="tree-svg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+        <!-- Tronco -->
+        <path class="tree-fragment trunk" data-direction="bottom"
+              d="M140 350 L140 200 Q140 190 145 185 L155 185 Q160 190 160 200 L160 350 Z"
+              fill="rgba(255,255,255,0.15)"/>
 
-    <!-- Ramo medio in basso a sinistra -->
-    <svg class="hero-decoration hero-branch-2" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-        <path d="M100 20 Q100 60 80 80 Q60 100 40 120 M80 80 Q90 90 100 100 M80 80 Q70 90 60 100 M60 100 Q55 110 50 120 M60 100 Q62 112 65 125"
-              stroke="rgba(255,255,255,0.15)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-    </svg>
+        <!-- Ramo principale sinistro -->
+        <path class="tree-fragment branch" data-direction="left"
+              d="M140 220 Q120 210 100 190 Q90 180 80 170"
+              stroke="rgba(255,255,255,0.15)" stroke-width="3" fill="none" stroke-linecap="round"/>
 
-    <!-- Ramo piccolo al centro-sinistra -->
-    <svg class="hero-decoration hero-branch-3" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-        <path d="M60 100 Q60 75 50 60 Q40 45 30 30 M50 60 Q55 55 60 50 M50 60 Q45 52 40 45"
-              stroke="rgba(255,255,255,0.12)" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+        <!-- Ramo principale destro -->
+        <path class="tree-fragment branch" data-direction="right"
+              d="M160 220 Q180 210 200 190 Q210 180 220 170"
+              stroke="rgba(255,255,255,0.15)" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+        <!-- Ramo superiore sinistro -->
+        <path class="tree-fragment branch" data-direction="top-left"
+              d="M145 200 Q130 180 115 160 Q105 145 95 130"
+              stroke="rgba(255,255,255,0.15)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+        <!-- Ramo superiore destro -->
+        <path class="tree-fragment branch" data-direction="top-right"
+              d="M155 200 Q170 180 185 160 Q195 145 205 130"
+              stroke="rgba(255,255,255,0.15)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+        <!-- Chioma 1 (alto centro) -->
+        <circle class="tree-fragment foliage" data-direction="top"
+                cx="150" cy="120" r="25" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 2 (sinistra alto) -->
+        <circle class="tree-fragment foliage" data-direction="top-left"
+                cx="100" cy="140" r="22" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 3 (destra alto) -->
+        <circle class="tree-fragment foliage" data-direction="top-right"
+                cx="200" cy="140" r="22" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 4 (sinistra) -->
+        <circle class="tree-fragment foliage" data-direction="left"
+                cx="85" cy="180" r="20" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 5 (destra) -->
+        <circle class="tree-fragment foliage" data-direction="right"
+                cx="215" cy="180" r="20" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 6 (centro sinistra) -->
+        <circle class="tree-fragment foliage" data-direction="left"
+                cx="120" cy="165" r="18" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 7 (centro destra) -->
+        <circle class="tree-fragment foliage" data-direction="right"
+                cx="180" cy="165" r="18" fill="rgba(255,255,255,0.15)"/>
     </svg>
 
     <div class="hero-content">
