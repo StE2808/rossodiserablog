@@ -47,17 +47,21 @@ collections:
         name: "category"
         widget: "select"
         options:
+          - { label: "Politica Interna", value: "politica-interna" }
+          - { label: "Politica Estera", value: "politica-estera" }
+          - { label: "Cronaca Bianca", value: "cronaca-bianca" }
+          - { label: "Cronaca Nera", value: "cronaca-nera" }
+          - { label: "Cronaca Rosa", value: "cronaca-rosa" }
+          - { label: "Cronaca Giudiziaria", value: "cronaca-giudiziaria" }
+          - { label: "Economia e Finanza", value: "economia-finanza" }
+          - { label: "Cultura e Spettacolo", value: "cultura-spettacolo" }
+          - { label: "Scienza e Tecnologia", value: "scienza-tecnologia" }
+          - { label: "Lifestyle e Moda", value: "lifestyle-moda" }
+          - { label: "Opinioni ed Editoriali", value: "opinioni-editoriali" }
+          - { label: "Inchieste e Dossier", value: "inchieste-dossier" }
           - { label: "Società", value: "societa" }
-          - { label: "Politica", value: "politica" }
-          - { label: "Cronaca", value: "cronaca" }
-          - { label: "Cultura", value: "cultura" }
-          - { label: "Diritti Umani", value: "diritti-umani" }
-          - { label: "Economia", value: "economia" }
           - { label: "Ambiente", value: "ambiente" }
-          - { label: "Salute", value: "salute" }
-          - { label: "Scuola", value: "scuola" }
-          - { label: "Arte & Artisti", value: "arte-artisti" }
-          - { label: "Altro", value: "altro" }
+          - { label: "Diritti Umani", value: "diritti-umani" }
         required: true
       - label: "Tag"
         name: "tags"
