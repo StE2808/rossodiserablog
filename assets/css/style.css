@@ -1421,18 +1421,18 @@ footer {
     text-align: center;
 }
 
-.cta-title {
+.cta-section .cta-title {
     font-family: 'Cormorant Garamond', serif;
     font-size: 2rem;
     font-weight: 600;
-    color: var(--crema);
+    color: var(--crema) !important;
     margin-bottom: 1rem;
 }
 
-.cta-text {
+.cta-section .cta-text {
     font-size: 1.1rem;
     line-height: 1.8;
-    color: var(--crema);
+    color: var(--crema) !important;
     margin-bottom: 2rem;
 }
 
@@ -1464,11 +1464,11 @@ footer {
         padding: 2rem 1.5rem;
     }
 
-    .cta-title {
+    .cta-section .cta-title {
         font-size: 1.6rem;
     }
 
-    .cta-text {
+    .cta-section .cta-text {
         font-size: 1rem;
     }
 }
