@@ -1400,6 +1400,80 @@ footer {
 }
 
 /* ============================================
+   PAGINA CHI SIAMO
+============================================ */
+.chi-siamo-content p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--testo);
+    margin-bottom: 1.5rem;
+}
+
+.chi-siamo-content p:last-of-type {
+    margin-bottom: 3rem;
+}
+
+.cta-section {
+    margin-top: 3rem;
+    padding: 2.5rem;
+    background: linear-gradient(135deg, var(--rosso-primario) 0%, var(--rosso-scuro) 100%);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.cta-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.cta-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 2rem;
+}
+
+.cta-section .hero-cta {
+    display: inline-block;
+    background: white;
+    color: var(--rosso-primario);
+    padding: 0.9rem 2.5rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.cta-section .hero-cta:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    background: var(--crema);
+}
+
+@media (max-width: 768px) {
+    .chi-siamo-content p {
+        font-size: 1rem;
+    }
+
+    .cta-section {
+        padding: 2rem 1.5rem;
+    }
+
+    .cta-title {
+        font-size: 1.6rem;
+    }
+
+    .cta-text {
+        font-size: 1rem;
+    }
+}
+
+/* ============================================
    SEZIONE COMMENTI (GISCUS)
 ============================================ */
 .post-comments {
