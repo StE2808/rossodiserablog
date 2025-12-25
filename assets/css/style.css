@@ -29,6 +29,7 @@ body {
     background: var(--crema);
     color: var(--testo);
     line-height: 1.7;
+    overflow-x: hidden;
 }
 
 body.menu-open {
@@ -263,7 +264,7 @@ body.menu-open {
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: visible;
+    overflow: hidden;
 }
 
 .hero::before {
@@ -280,194 +281,96 @@ body.menu-open {
     pointer-events: none;
 }
 
-/* Albero esplosivo - SVG separati */
-.tree-fragment {
-    position: fixed;
+/* Albero che cresce */
+.hero-tree {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 500px;
+    height: auto;
     pointer-events: none;
-    z-index: 9999;
-    transform-origin: center;
+    z-index: 1;
 }
 
-/* Posizionamento iniziale frammenti */
-.tree-fragment.trunk {
-    width: 30px;
-    height: 160px;
-    top: 50vh;
-    left: 50vw;
-    transform: translate(-50%, -40%);
+/* Tronco */
+.tree-trunk {
+    stroke-dasharray: 250;
+    stroke-dashoffset: 250;
+    animation: grow-tree 1s ease-out forwards, sway 4s ease-in-out infinite 3s;
+    transform-origin: bottom center;
 }
 
-.tree-fragment.branch[data-direction="left"] {
-    width: 80px;
-    height: 80px;
-    top: 48vh;
-    left: 48vw;
-    transform: translate(-50%, -50%);
+/* Rami con delay crescenti */
+.tree-branch {
+    stroke-dasharray: 150;
+    stroke-dashoffset: 150;
+    transform-origin: bottom center;
 }
 
-.tree-fragment.branch[data-direction="right"] {
-    width: 80px;
-    height: 80px;
-    top: 48vh;
-    left: 52vw;
-    transform: translate(-50%, -50%);
+.tree-branch.branch-1 {
+    animation: grow-tree 0.8s ease-out 0.3s forwards, sway 4s ease-in-out infinite 3s;
 }
 
-.tree-fragment.branch[data-direction="top-left"] {
-    width: 70px;
-    height: 90px;
-    top: 42vh;
-    left: 46vw;
-    transform: translate(-50%, -50%);
+.tree-branch.branch-2 {
+    animation: grow-tree 0.8s ease-out 0.4s forwards, sway 4s ease-in-out infinite 3s;
 }
 
-.tree-fragment.branch[data-direction="top-right"] {
-    width: 70px;
-    height: 90px;
-    top: 42vh;
-    left: 54vw;
-    transform: translate(-50%, -50%);
+.tree-branch.branch-3 {
+    animation: grow-tree 1s ease-out 0.6s forwards, sway 4s ease-in-out infinite 3.2s;
 }
 
-.tree-fragment.foliage[data-direction="top"] {
-    width: 60px;
-    height: 60px;
-    top: 36vh;
-    left: 50vw;
-    transform: translate(-50%, -50%);
+.tree-branch.branch-4 {
+    animation: grow-tree 1s ease-out 0.7s forwards, sway 4s ease-in-out infinite 3.2s;
 }
 
-.tree-fragment.foliage[data-direction="top-left"] {
-    width: 50px;
-    height: 50px;
-    top: 40vh;
-    left: 44vw;
-    transform: translate(-50%, -50%);
+.tree-branch.branch-5 {
+    animation: grow-tree 1s ease-out 0.9s forwards, sway 4s ease-in-out infinite 3.4s;
 }
 
-.tree-fragment.foliage[data-direction="top-right"] {
-    width: 50px;
-    height: 50px;
-    top: 40vh;
-    left: 56vw;
-    transform: translate(-50%, -50%);
+.tree-branch.branch-6 {
+    animation: grow-tree 1s ease-out 1s forwards, sway 4s ease-in-out infinite 3.4s;
 }
 
-.tree-fragment.foliage[data-direction="left"] {
-    width: 45px;
-    height: 45px;
-    top: 46vh;
-    left: 42vw;
-    transform: translate(-50%, -50%);
+.tree-branch.branch-7 {
+    animation: grow-tree 0.6s ease-out 1.2s forwards, sway 4s ease-in-out infinite 3.6s;
 }
 
-.tree-fragment.foliage[data-direction="right"] {
-    width: 45px;
-    height: 45px;
-    top: 46vh;
-    left: 58vw;
-    transform: translate(-50%, -50%);
+.tree-branch.branch-8 {
+    animation: grow-tree 0.6s ease-out 1.3s forwards, sway 4s ease-in-out infinite 3.6s;
 }
 
-/* Animazioni esplosione per direzione */
-.tree-fragment[data-direction="top"]:not(.floating-fragment) {
-    animation: explode-top 1.5s ease-out 2s forwards;
+.tree-branch.branch-9 {
+    animation: grow-tree 0.6s ease-out 1.4s forwards, sway 4s ease-in-out infinite 3.8s;
 }
 
-.tree-fragment[data-direction="top-left"]:not(.floating-fragment) {
-    animation: explode-top-left 1.5s ease-out 2s forwards;
+.tree-branch.branch-10 {
+    animation: grow-tree 0.6s ease-out 1.5s forwards, sway 4s ease-in-out infinite 3.8s;
 }
 
-.tree-fragment[data-direction="top-right"]:not(.floating-fragment) {
-    animation: explode-top-right 1.5s ease-out 2s forwards;
+/* Animazione crescita */
+@keyframes grow-tree {
+    from {
+        stroke-dashoffset: 150;
+        opacity: 0;
+    }
+    to {
+        stroke-dashoffset: 0;
+        opacity: 1;
+    }
 }
 
-.tree-fragment[data-direction="left"]:not(.floating-fragment) {
-    animation: explode-left 1.5s ease-out 2s forwards;
-}
-
-.tree-fragment[data-direction="right"]:not(.floating-fragment) {
-    animation: explode-right 1.5s ease-out 2s forwards;
-}
-
-.tree-fragment[data-direction="bottom"]:not(.floating-fragment) {
-    animation: explode-bottom 1.5s ease-out 2s forwards;
-}
-
-/* Frammenti fluttuanti - volano ai bordi e restano */
-.floating-fragment[data-direction="top-left"] {
-    animation: explode-float-top-left 1.5s ease-out 2s forwards, float 20s infinite ease-in-out 3.5s;
-}
-
-.floating-fragment[data-direction="top-right"] {
-    animation: explode-float-top-right 1.5s ease-out 2s forwards, float 20s infinite ease-in-out 3.5s;
-}
-
-.floating-fragment[data-direction="left"] {
-    animation: explode-float-left 1.5s ease-out 2s forwards, float 20s infinite ease-in-out 3.5s;
-}
-
-.floating-fragment[data-direction="right"] {
-    animation: explode-float-right 1.5s ease-out 2s forwards, float 20s infinite ease-in-out 3.5s;
-}
-
-/* Keyframes esplosione */
-@keyframes explode-top {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(0, -60vh) rotate(45deg); opacity: 0; }
-}
-
-@keyframes explode-top-left {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(-55vw, -55vh) rotate(-60deg); opacity: 0; }
-}
-
-@keyframes explode-top-right {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(55vw, -55vh) rotate(60deg); opacity: 0; }
-}
-
-@keyframes explode-left {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(-60vw, 0) rotate(-45deg); opacity: 0; }
-}
-
-@keyframes explode-right {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(60vw, 0) rotate(45deg); opacity: 0; }
-}
-
-@keyframes explode-bottom {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(0, 60vh) rotate(30deg); opacity: 0; }
-}
-
-/* Keyframes per frammenti che restano fluttuanti */
-@keyframes explode-float-top-left {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(-42vw, -42vh) rotate(-30deg); opacity: 0.4; }
-}
-
-@keyframes explode-float-top-right {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(42vw, -42vh) rotate(30deg); opacity: 0.4; }
-}
-
-@keyframes explode-float-left {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(-48vw, 0) rotate(-20deg); opacity: 0.4; }
-}
-
-@keyframes explode-float-right {
-    0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(48vw, 0) rotate(20deg); opacity: 0.4; }
-}
-
-@keyframes float {
-    0%, 100% { transform: translate(0, 0) rotate(0deg); }
-    25% { transform: translate(20px, -20px) rotate(5deg); }
-    50% { transform: translate(0, -40px) rotate(0deg); }
-    75% { transform: translate(-20px, -20px) rotate(-5deg); }
+/* Animazione oscillazione */
+@keyframes sway {
+    0%, 100% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(1deg);
+    }
+    75% {
+        transform: rotate(-1deg);
+    }
 }
 
 .hero-content {
@@ -1373,20 +1276,9 @@ footer {
         gap: 0.8rem;
     }
 
-    /* Albero esplosivo responsive */
-    .tree-fragment.trunk {
-        width: 20px;
-        height: 100px;
-    }
-
-    .tree-fragment.branch {
-        width: 50px;
-        height: 50px;
-    }
-
-    .tree-fragment.foliage {
-        width: 35px;
-        height: 35px;
+    /* Albero responsive */
+    .hero-tree {
+        width: 300px;
     }
 }
 
