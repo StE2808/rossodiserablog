@@ -341,53 +341,53 @@ body.menu-open {
 /* Keyframes esplosione */
 @keyframes explode-top {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(0, -45vh) rotate(45deg); opacity: 0; }
+    100% { transform: translate(0, -60vh) rotate(45deg); opacity: 0; }
 }
 
 @keyframes explode-top-left {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(-40vw, -40vh) rotate(-60deg); opacity: 0; }
+    100% { transform: translate(-55vw, -55vh) rotate(-60deg); opacity: 0; }
 }
 
 @keyframes explode-top-right {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(40vw, -40vh) rotate(60deg); opacity: 0; }
+    100% { transform: translate(55vw, -55vh) rotate(60deg); opacity: 0; }
 }
 
 @keyframes explode-left {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(-45vw, 0) rotate(-45deg); opacity: 0; }
+    100% { transform: translate(-60vw, 0) rotate(-45deg); opacity: 0; }
 }
 
 @keyframes explode-right {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(45vw, 0) rotate(45deg); opacity: 0; }
+    100% { transform: translate(60vw, 0) rotate(45deg); opacity: 0; }
 }
 
 @keyframes explode-bottom {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(0, 30vh) rotate(30deg); opacity: 0; }
+    100% { transform: translate(0, 60vh) rotate(30deg); opacity: 0; }
 }
 
 /* Keyframes per frammenti che restano fluttuanti */
 @keyframes explode-float-top-left {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(-35vw, -35vh) rotate(-30deg); opacity: 0.4; }
+    100% { transform: translate(-42vw, -42vh) rotate(-30deg); opacity: 0.4; }
 }
 
 @keyframes explode-float-top-right {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(35vw, -35vh) rotate(30deg); opacity: 0.4; }
+    100% { transform: translate(42vw, -42vh) rotate(30deg); opacity: 0.4; }
 }
 
 @keyframes explode-float-left {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(-40vw, 0) rotate(-20deg); opacity: 0.4; }
+    100% { transform: translate(-48vw, 0) rotate(-20deg); opacity: 0.4; }
 }
 
 @keyframes explode-float-right {
     0% { transform: translate(0, 0) rotate(0deg); opacity: 1; }
-    100% { transform: translate(40vw, 0) rotate(20deg); opacity: 0.4; }
+    100% { transform: translate(48vw, 0) rotate(20deg); opacity: 0.4; }
 }
 
 @keyframes float {
