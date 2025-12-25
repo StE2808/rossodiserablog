@@ -29,7 +29,6 @@ body {
     background: var(--crema);
     color: var(--testo);
     line-height: 1.7;
-    overflow-x: hidden;
 }
 
 body.menu-open {

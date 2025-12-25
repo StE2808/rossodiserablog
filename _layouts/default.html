@@ -149,5 +149,63 @@
             });
         });
     </script>
+
+    {% if page.layout == 'home' or layout.layout == 'home' %}
+    <!-- Albero esplosivo (solo homepage) -->
+    <svg class="tree-svg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+        <!-- Tronco -->
+        <path class="tree-fragment trunk" data-direction="bottom"
+              d="M140 350 L140 200 Q140 190 145 185 L155 185 Q160 190 160 200 L160 350 Z"
+              fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Ramo principale sinistro -->
+        <path class="tree-fragment branch" data-direction="left"
+              d="M140 220 Q120 210 100 190 Q90 180 80 170"
+              stroke="rgba(255,255,255,0.15)" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+        <!-- Ramo principale destro -->
+        <path class="tree-fragment branch" data-direction="right"
+              d="M160 220 Q180 210 200 190 Q210 180 220 170"
+              stroke="rgba(255,255,255,0.15)" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+        <!-- Ramo superiore sinistro -->
+        <path class="tree-fragment branch" data-direction="top-left"
+              d="M145 200 Q130 180 115 160 Q105 145 95 130"
+              stroke="rgba(255,255,255,0.15)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+        <!-- Ramo superiore destro -->
+        <path class="tree-fragment branch" data-direction="top-right"
+              d="M155 200 Q170 180 185 160 Q195 145 205 130"
+              stroke="rgba(255,255,255,0.15)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+        <!-- Chioma 1 (alto centro) -->
+        <circle class="tree-fragment foliage" data-direction="top"
+                cx="150" cy="120" r="25" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 2 (sinistra alto) - resta fluttuante -->
+        <circle class="tree-fragment foliage floating-fragment" data-direction="top-left"
+                cx="100" cy="140" r="22" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 3 (destra alto) - resta fluttuante -->
+        <circle class="tree-fragment foliage floating-fragment" data-direction="top-right"
+                cx="200" cy="140" r="22" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 4 (sinistra) - resta fluttuante -->
+        <circle class="tree-fragment foliage floating-fragment" data-direction="left"
+                cx="85" cy="180" r="20" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 5 (destra) -->
+        <circle class="tree-fragment foliage" data-direction="right"
+                cx="215" cy="180" r="20" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 6 (centro sinistra) -->
+        <circle class="tree-fragment foliage" data-direction="left"
+                cx="120" cy="165" r="18" fill="rgba(255,255,255,0.15)"/>
+
+        <!-- Chioma 7 (centro destra) -->
+        <circle class="tree-fragment foliage" data-direction="right"
+                cx="180" cy="165" r="18" fill="rgba(255,255,255,0.15)"/>
+    </svg>
+    {% endif %}
 </body>
 </html>
