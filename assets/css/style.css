@@ -280,20 +280,93 @@ body.menu-open {
     pointer-events: none;
 }
 
-/* Albero esplosivo */
-.tree-svg {
+/* Albero esplosivo - SVG separati */
+.tree-fragment {
     position: fixed;
-    width: 400px;
-    height: 400px;
-    top: 50vh;
-    left: 50vw;
-    transform: translate(-50%, -50%);
     pointer-events: none;
     z-index: 9999;
+    transform-origin: center;
 }
 
-.tree-fragment {
-    transform-origin: center;
+/* Posizionamento iniziale frammenti */
+.tree-fragment.trunk {
+    width: 30px;
+    height: 160px;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%, -40%);
+}
+
+.tree-fragment.branch[data-direction="left"] {
+    width: 80px;
+    height: 80px;
+    top: 48vh;
+    left: 48vw;
+    transform: translate(-50%, -50%);
+}
+
+.tree-fragment.branch[data-direction="right"] {
+    width: 80px;
+    height: 80px;
+    top: 48vh;
+    left: 52vw;
+    transform: translate(-50%, -50%);
+}
+
+.tree-fragment.branch[data-direction="top-left"] {
+    width: 70px;
+    height: 90px;
+    top: 42vh;
+    left: 46vw;
+    transform: translate(-50%, -50%);
+}
+
+.tree-fragment.branch[data-direction="top-right"] {
+    width: 70px;
+    height: 90px;
+    top: 42vh;
+    left: 54vw;
+    transform: translate(-50%, -50%);
+}
+
+.tree-fragment.foliage[data-direction="top"] {
+    width: 60px;
+    height: 60px;
+    top: 36vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+}
+
+.tree-fragment.foliage[data-direction="top-left"] {
+    width: 50px;
+    height: 50px;
+    top: 40vh;
+    left: 44vw;
+    transform: translate(-50%, -50%);
+}
+
+.tree-fragment.foliage[data-direction="top-right"] {
+    width: 50px;
+    height: 50px;
+    top: 40vh;
+    left: 56vw;
+    transform: translate(-50%, -50%);
+}
+
+.tree-fragment.foliage[data-direction="left"] {
+    width: 45px;
+    height: 45px;
+    top: 46vh;
+    left: 42vw;
+    transform: translate(-50%, -50%);
+}
+
+.tree-fragment.foliage[data-direction="right"] {
+    width: 45px;
+    height: 45px;
+    top: 46vh;
+    left: 58vw;
+    transform: translate(-50%, -50%);
 }
 
 /* Animazioni esplosione per direzione */
@@ -1301,9 +1374,19 @@ footer {
     }
 
     /* Albero esplosivo responsive */
-    .tree-svg {
-        width: 250px;
-        height: 250px;
+    .tree-fragment.trunk {
+        width: 20px;
+        height: 100px;
+    }
+
+    .tree-fragment.branch {
+        width: 50px;
+        height: 50px;
+    }
+
+    .tree-fragment.foliage {
+        width: 35px;
+        height: 35px;
     }
 }
 

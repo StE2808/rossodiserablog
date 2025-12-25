@@ -151,60 +151,66 @@
     </script>
 
     {% if page.layout == 'home' or layout.layout == 'home' %}
-    <!-- Albero esplosivo (solo homepage) -->
-    <svg class="tree-svg" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
-        <!-- Tronco -->
-        <path class="tree-fragment trunk" data-direction="bottom"
-              d="M140 350 L140 200 Q140 190 145 185 L155 185 Q160 190 160 200 L160 350 Z"
-              fill="rgba(255,255,255,0.15)"/>
+    <!-- Albero esplosivo - SVG separati per ogni frammento -->
 
-        <!-- Ramo principale sinistro -->
-        <path class="tree-fragment branch" data-direction="left"
-              d="M140 220 Q120 210 100 190 Q90 180 80 170"
-              stroke="rgba(255,255,255,0.15)" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Tronco -->
+    <svg class="tree-fragment trunk" data-direction="bottom" viewBox="0 0 30 160" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5 150 L5 5 Q5 0 10 0 L20 0 Q25 0 25 5 L25 150 Z" fill="rgba(255,255,255,0.15)"/>
+    </svg>
 
-        <!-- Ramo principale destro -->
-        <path class="tree-fragment branch" data-direction="right"
-              d="M160 220 Q180 210 200 190 Q210 180 220 170"
-              stroke="rgba(255,255,255,0.15)" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Ramo principale sinistro -->
+    <svg class="tree-fragment branch" data-direction="left" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+        <path d="M60 70 Q40 60 20 40 Q10 30 0 20" stroke="rgba(255,255,255,0.15)" stroke-width="3" fill="none" stroke-linecap="round"/>
+    </svg>
 
-        <!-- Ramo superiore sinistro -->
-        <path class="tree-fragment branch" data-direction="top-left"
-              d="M145 200 Q130 180 115 160 Q105 145 95 130"
-              stroke="rgba(255,255,255,0.15)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <!-- Ramo principale destro -->
+    <svg class="tree-fragment branch" data-direction="right" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+        <path d="M20 70 Q40 60 60 40 Q70 30 80 20" stroke="rgba(255,255,255,0.15)" stroke-width="3" fill="none" stroke-linecap="round"/>
+    </svg>
 
-        <!-- Ramo superiore destro -->
-        <path class="tree-fragment branch" data-direction="top-right"
-              d="M155 200 Q170 180 185 160 Q195 145 205 130"
-              stroke="rgba(255,255,255,0.15)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <!-- Ramo superiore sinistro -->
+    <svg class="tree-fragment branch" data-direction="top-left" viewBox="0 0 70 90" xmlns="http://www.w3.org/2000/svg">
+        <path d="M55 80 Q40 60 25 40 Q15 25 5 10" stroke="rgba(255,255,255,0.15)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    </svg>
 
-        <!-- Chioma 1 (alto centro) -->
-        <circle class="tree-fragment foliage" data-direction="top"
-                cx="150" cy="120" r="25" fill="rgba(255,255,255,0.15)"/>
+    <!-- Ramo superiore destro -->
+    <svg class="tree-fragment branch" data-direction="top-right" viewBox="0 0 70 90" xmlns="http://www.w3.org/2000/svg">
+        <path d="M15 80 Q30 60 45 40 Q55 25 65 10" stroke="rgba(255,255,255,0.15)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    </svg>
 
-        <!-- Chioma 2 (sinistra alto) - resta fluttuante -->
-        <circle class="tree-fragment foliage floating-fragment" data-direction="top-left"
-                cx="100" cy="140" r="22" fill="rgba(255,255,255,0.15)"/>
+    <!-- Chioma 1 (alto centro) -->
+    <svg class="tree-fragment foliage" data-direction="top" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="30" cy="30" r="25" fill="rgba(255,255,255,0.15)"/>
+    </svg>
 
-        <!-- Chioma 3 (destra alto) - resta fluttuante -->
-        <circle class="tree-fragment foliage floating-fragment" data-direction="top-right"
-                cx="200" cy="140" r="22" fill="rgba(255,255,255,0.15)"/>
+    <!-- Chioma 2 (sinistra alto) - fluttuante -->
+    <svg class="tree-fragment foliage floating-fragment" data-direction="top-left" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="25" cy="25" r="22" fill="rgba(255,255,255,0.15)"/>
+    </svg>
 
-        <!-- Chioma 4 (sinistra) - resta fluttuante -->
-        <circle class="tree-fragment foliage floating-fragment" data-direction="left"
-                cx="85" cy="180" r="20" fill="rgba(255,255,255,0.15)"/>
+    <!-- Chioma 3 (destra alto) - fluttuante -->
+    <svg class="tree-fragment foliage floating-fragment" data-direction="top-right" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="25" cy="25" r="22" fill="rgba(255,255,255,0.15)"/>
+    </svg>
 
-        <!-- Chioma 5 (destra) -->
-        <circle class="tree-fragment foliage" data-direction="right"
-                cx="215" cy="180" r="20" fill="rgba(255,255,255,0.15)"/>
+    <!-- Chioma 4 (sinistra) - fluttuante -->
+    <svg class="tree-fragment foliage floating-fragment" data-direction="left" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="22" cy="22" r="20" fill="rgba(255,255,255,0.15)"/>
+    </svg>
 
-        <!-- Chioma 6 (centro sinistra) -->
-        <circle class="tree-fragment foliage" data-direction="left"
-                cx="120" cy="165" r="18" fill="rgba(255,255,255,0.15)"/>
+    <!-- Chioma 5 (destra) -->
+    <svg class="tree-fragment foliage" data-direction="right" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="22" cy="22" r="20" fill="rgba(255,255,255,0.15)"/>
+    </svg>
 
-        <!-- Chioma 7 (centro destra) -->
-        <circle class="tree-fragment foliage" data-direction="right"
-                cx="180" cy="165" r="18" fill="rgba(255,255,255,0.15)"/>
+    <!-- Chioma 6 (centro sinistra) -->
+    <svg class="tree-fragment foliage" data-direction="left" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="20" cy="20" r="18" fill="rgba(255,255,255,0.15)"/>
+    </svg>
+
+    <!-- Chioma 7 (centro destra) -->
+    <svg class="tree-fragment foliage" data-direction="right" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="20" cy="20" r="18" fill="rgba(255,255,255,0.15)"/>
     </svg>
     {% endif %}
 </body>
