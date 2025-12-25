@@ -65,7 +65,7 @@ body.menu-open {
     align-items: center;
     gap: 1rem;
     text-decoration: none;
-    color: white;
+    color: var(--crema);
     z-index: 1001;
 }
 
@@ -95,7 +95,7 @@ body.menu-open {
 }
 
 .navbar-links a {
-    color: rgba(255,255,255,0.85);
+    color: var(--crema);
     text-decoration: none;
     font-size: 0.9rem;
     font-weight: 400;
@@ -144,7 +144,7 @@ body.menu-open {
     display: block;
     width: 100%;
     height: 2px;
-    background: white;
+    background: var(--crema);
     border-radius: 2px;
     transition: all 0.3s ease;
 }
