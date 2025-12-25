@@ -348,6 +348,38 @@ body.menu-open {
     animation: grow-tree 0.6s ease-out 1.5s forwards, sway 4s ease-in-out infinite 3.8s;
 }
 
+.tree-branch.branch-11 {
+    animation: grow-tree 1s ease-out 1.1s forwards, sway 4s ease-in-out infinite 3.5s;
+}
+
+.tree-branch.branch-12 {
+    animation: grow-tree 1s ease-out 1.2s forwards, sway 4s ease-in-out infinite 3.5s;
+}
+
+.tree-branch.branch-13 {
+    animation: grow-tree 0.8s ease-out 0.8s forwards, sway 4s ease-in-out infinite 3.3s;
+}
+
+.tree-branch.branch-14 {
+    animation: grow-tree 0.8s ease-out 0.9s forwards, sway 4s ease-in-out infinite 3.3s;
+}
+
+.tree-branch.branch-15 {
+    animation: grow-tree 1s ease-out 1.3s forwards, sway 4s ease-in-out infinite 3.7s;
+}
+
+.tree-branch.branch-16 {
+    animation: grow-tree 1s ease-out 1.4s forwards, sway 4s ease-in-out infinite 3.7s;
+}
+
+.tree-branch.branch-17 {
+    animation: grow-tree 0.6s ease-out 0.5s forwards, sway 4s ease-in-out infinite 3.1s;
+}
+
+.tree-branch.branch-18 {
+    animation: grow-tree 0.6s ease-out 0.6s forwards, sway 4s ease-in-out infinite 3.1s;
+}
+
 /* Animazione crescita */
 @keyframes grow-tree {
     from {
@@ -366,10 +398,10 @@ body.menu-open {
         transform: rotate(0deg);
     }
     25% {
-        transform: rotate(1deg);
+        transform: rotate(2.5deg);
     }
     75% {
-        transform: rotate(-1deg);
+        transform: rotate(-2.5deg);
     }
 }
 
