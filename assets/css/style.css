@@ -1425,14 +1425,14 @@ footer {
     font-family: 'Cormorant Garamond', serif;
     font-size: 2rem;
     font-weight: 600;
-    color: white;
+    color: var(--crema);
     margin-bottom: 1rem;
 }
 
 .cta-text {
     font-size: 1.1rem;
     line-height: 1.8;
-    color: rgba(255, 255, 255, 0.9);
+    color: var(--crema);
     margin-bottom: 2rem;
 }
 
