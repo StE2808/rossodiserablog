@@ -831,6 +831,13 @@ body.menu-open {
     color: var(--testo);
 }
 
+.post-content h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.8rem;
+    margin: 2.5rem 0 1rem;
+    color: var(--testo);
+}
+
 .post-content img {
     max-width: 100%;
     height: auto;

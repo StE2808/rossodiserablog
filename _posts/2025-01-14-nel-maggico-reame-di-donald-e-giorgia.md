@@ -30,4 +30,4 @@ Insomma se volessimo cambiare il finale di questo show, dovremmo veramente darci
 P.s.: spoiler del finale - l’Europa politica ed economica sparisce grazie ad un cavallo di Troia portato in casa nostra da Giorgia. Tutti gli stati del vecchio continente vengono governati e gestiti da una sola società che delega dei politicanti venduti. I cittadini perdono ogni status se non quello di consumatori, però senza diritto di recesso. Ecco il nuovo volto di un vecchio spettro che cento anni fa era durato un ventennio. Amen
 
     
-# governo #europa #Eu #usa #Trump #musk #GovernoMeloni
+## governo #europa #Eu #usa #Trump #musk #GovernoMeloni

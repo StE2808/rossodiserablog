@@ -7,6 +7,33 @@ layout: default
 {% if minutes < 1 %}{% assign minutes = 1 %}{% endif %}
 
 <article class="post-single">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {% if page.description and page.description != '' %}{{ page.description | jsonify }}{% else %}{{ page.excerpt | strip_html | truncate: 160 | jsonify }}{% endif %},
+  "image": {% if page.image %}"{{ page.image | absolute_url }}"{% else %}null{% endif %},
+  "author": {
+    "@type": "Person",
+    "name": {% if page.author == "stefano-vozzi" %}"Stefano Vozzi"{% elsif page.author == "lino-rialti" %}"Lino Rialti"{% else %}{{ page.author | replace: "-", " " | capitalize | jsonify }}{% endif %}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rosso di Sera",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/assets/images/logo_trasparenza.png' | absolute_url }}"
+    }
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
     <header class="post-header">
         {% if page.category %}
         <a href="{{ '/categoria/' | append: page.category | relative_url }}" class="post-category">{{ page.category | replace: "-", " " | capitalize }}</a>
@@ -47,7 +74,7 @@ layout: default
 
     {% if page.image %}
     <div class="post-featured-image">
-        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
     </div>
     {% endif %}
 

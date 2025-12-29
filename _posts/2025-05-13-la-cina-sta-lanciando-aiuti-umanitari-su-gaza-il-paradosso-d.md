@@ -25,4 +25,4 @@ Forse è il momento di riconsiderare queste semplificazioni con cui categorizzam
 Perché a volte, come in questo caso, le azioni parlano molto più forte delle parole.​​​​​​​​​​​​​​​​
 
     
-# cina #Trump #europa #Gaza #GazaGenocide #Israele
+## cina #Trump #europa #Gaza #GazaGenocide #Israele

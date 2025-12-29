@@ -20,4 +20,4 @@ Almeno prima che quel bamboccione di Stroppa, il fedele scudiero di Musk e suo r
 In Italia siamo divisi su tutto: Cutro, green deal, sanità, magistratura… ma se non rispondiamo al più presto alla minaccia americana, queste divisioni diverranno solo graffiti su un muro di irrilevanza storica! Nel frattempo, la Cina ci fa l'occhiolino… Non suggerisco di cambiare fidanzato, ma forse è il momento di fare amicizia con altri compagni di giochi sul playground mondiale!
 
     
-# Trump #Meloni #Gaza #trumpgaza
+## Trump #Meloni #Gaza #trumpgaza

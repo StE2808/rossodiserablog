@@ -79,6 +79,18 @@ collections:
         name: "body"
         widget: "markdown"
         required: true
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - quote
+          - bulleted-list
+          - numbered-list
+          - code
+          - code-block
 
   - name: "authors"
     label: "Autori"

@@ -21,4 +21,4 @@ Questa deriva assume contorni ancora più crudeli quando pensiamo a chi sarà da
 Il governo fermi immediatamente questa deriva folle e pericolosa. Ritiri l’emendamento vergogna e approvi finalmente una legge sul salario minimo che restituisca dignità a chi lavora. Basta con questa guerra ai poveri mascherata da riforme strutturali. I lavoratori italiani meritano rispetto, non l’ennesima pugnalata alle spalle.
 
     
-# Meloni #GOVERNODELLAVERGOGNA #governo #Lavoro #diritti #ILVA #decreto
+## Meloni #GOVERNODELLAVERGOGNA #governo #Lavoro #diritti #ILVA #decreto

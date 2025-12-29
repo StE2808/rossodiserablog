@@ -28,7 +28,7 @@ Insomma una brutta cattedrale, nel deserto del centro cittadino. Brutta grazie a
 Di contro Ravenna ed il suo Mercato Coperto: giudicate voi. Non servono altre altre parole.
 
     
-# Mercato #mercatocoperto #perugia #ravenna
+## Mercato #mercatocoperto #perugia #ravenna
     
 ![](images/2023/09/img_3980.jpg)
     
