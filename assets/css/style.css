@@ -222,22 +222,60 @@ body.menu-open {
     width: 100%;
 }
 
+/* Dropdown Categorie Mobile */
+.mobile-categories-dropdown {
+    width: 100%;
+    max-width: 320px;
+}
+
+.categories-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(255,255,255,0.15);
+    border: 2px solid rgba(255,255,255,0.3);
+    color: white;
+    padding: 1rem 1.5rem;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.categories-toggle:hover {
+    background: rgba(255,255,255,0.25);
+    border-color: rgba(255,255,255,0.5);
+}
+
+.dropdown-icon {
+    transition: transform 0.3s ease;
+    flex-shrink: 0;
+}
+
+.categories-toggle[aria-expanded="true"] .dropdown-icon {
+    transform: rotate(180deg);
+}
+
 .mobile-menu-categories {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 0.8rem;
-    max-width: 300px;
+    max-width: 320px;
+    max-height: 0;
+    overflow: hidden;
+    margin-top: 0;
+    opacity: 0;
+    transition: all 0.4s ease;
 }
 
-.mobile-menu-label {
-    width: 100%;
-    text-align: center;
-    font-size: 0.75rem;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: rgba(255,255,255,0.5);
-    margin-bottom: 0.5rem;
+.mobile-categories-dropdown.active .mobile-menu-categories {
+    max-height: 500px;
+    margin-top: 1rem;
+    opacity: 1;
 }
 
 .mobile-menu-categories a {

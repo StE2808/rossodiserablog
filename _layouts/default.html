@@ -51,23 +51,32 @@
             <li><a href="{{ '/autori' | relative_url }}">Autori</a></li>
             <li><a href="{{ '/contatti' | relative_url }}">Contatti</a></li>
         </ul>
-        <div class="mobile-menu-categories">
-            <span class="mobile-menu-label">Categorie</span>
-            <a href="{{ '/categoria/ambiente' | relative_url }}">Ambiente</a>
-            <a href="{{ '/categoria/cronaca-bianca' | relative_url }}">Cronaca Bianca</a>
-            <a href="{{ '/categoria/cronaca-giudiziaria' | relative_url }}">Cronaca Giudiziaria</a>
-            <a href="{{ '/categoria/cronaca-nera' | relative_url }}">Cronaca Nera</a>
-            <a href="{{ '/categoria/cronaca-rosa' | relative_url }}">Cronaca Rosa</a>
-            <a href="{{ '/categoria/cultura-spettacolo' | relative_url }}">Cultura e Spettacolo</a>
-            <a href="{{ '/categoria/diritti-umani' | relative_url }}">Diritti Umani</a>
-            <a href="{{ '/categoria/economia-finanza' | relative_url }}">Economia e Finanza</a>
-            <a href="{{ '/categoria/inchieste-dossier' | relative_url }}">Inchieste e Dossier</a>
-            <a href="{{ '/categoria/lifestyle-moda' | relative_url }}">Lifestyle e Moda</a>
-            <a href="{{ '/categoria/opinioni-editoriali' | relative_url }}">Opinioni ed Editoriali</a>
-            <a href="{{ '/categoria/politica-estera' | relative_url }}">Politica Estera</a>
-            <a href="{{ '/categoria/politica-interna' | relative_url }}">Politica Interna</a>
-            <a href="{{ '/categoria/scienza-tecnologia' | relative_url }}">Scienza e Tecnologia</a>
-            <a href="{{ '/categoria/societa' | relative_url }}">Società</a>
+
+        <!-- Dropdown Categorie -->
+        <div class="mobile-categories-dropdown">
+            <button class="categories-toggle" aria-expanded="false">
+                <span>Categorie</span>
+                <svg class="dropdown-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M6 9l6 6 6-6"/>
+                </svg>
+            </button>
+            <div class="mobile-menu-categories">
+                <a href="{{ '/categoria/ambiente' | relative_url }}">Ambiente</a>
+                <a href="{{ '/categoria/cronaca-bianca' | relative_url }}">Cronaca Bianca</a>
+                <a href="{{ '/categoria/cronaca-giudiziaria' | relative_url }}">Cronaca Giudiziaria</a>
+                <a href="{{ '/categoria/cronaca-nera' | relative_url }}">Cronaca Nera</a>
+                <a href="{{ '/categoria/cronaca-rosa' | relative_url }}">Cronaca Rosa</a>
+                <a href="{{ '/categoria/cultura-spettacolo' | relative_url }}">Cultura e Spettacolo</a>
+                <a href="{{ '/categoria/diritti-umani' | relative_url }}">Diritti Umani</a>
+                <a href="{{ '/categoria/economia-finanza' | relative_url }}">Economia e Finanza</a>
+                <a href="{{ '/categoria/inchieste-dossier' | relative_url }}">Inchieste e Dossier</a>
+                <a href="{{ '/categoria/lifestyle-moda' | relative_url }}">Lifestyle e Moda</a>
+                <a href="{{ '/categoria/opinioni-editoriali' | relative_url }}">Opinioni ed Editoriali</a>
+                <a href="{{ '/categoria/politica-estera' | relative_url }}">Politica Estera</a>
+                <a href="{{ '/categoria/politica-interna' | relative_url }}">Politica Interna</a>
+                <a href="{{ '/categoria/scienza-tecnologia' | relative_url }}">Scienza e Tecnologia</a>
+                <a href="{{ '/categoria/societa' | relative_url }}">Società</a>
+            </div>
         </div>
     </div>
 
@@ -168,6 +177,18 @@
                 hamburger.setAttribute('aria-expanded', 'false');
             });
         });
+
+        // Categories dropdown toggle
+        const categoriesToggle = document.querySelector('.categories-toggle');
+        const categoriesDropdown = document.querySelector('.mobile-categories-dropdown');
+
+        if (categoriesToggle) {
+            categoriesToggle.addEventListener('click', () => {
+                const isExpanded = categoriesToggle.getAttribute('aria-expanded') === 'true';
+                categoriesToggle.setAttribute('aria-expanded', !isExpanded);
+                categoriesDropdown.classList.toggle('active');
+            });
+        }
     </script>
 </body>
 </html>
