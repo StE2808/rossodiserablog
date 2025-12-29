@@ -4,7 +4,7 @@ title: "I politici sono tutti uguali?La politica e’ tutto un magna-magna? O è
 date: 2023-09-29 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_4068.jpg
-categories: [Politica Nazionale, societ\u00e0]
+category: politica-interna
 tags: ["giustizia", "Governo", "polarizzazione", "politica", "politici", "tutti uguali"]
 ---
 

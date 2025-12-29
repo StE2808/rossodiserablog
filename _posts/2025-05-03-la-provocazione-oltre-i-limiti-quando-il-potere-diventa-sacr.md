@@ -4,7 +4,7 @@ title: "La Provocazione Oltre i Limiti: Quando il Potere Diventa Sacrilegio"
 date: 2025-05-03 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6380-1.jpg
-categories: [Cultura, Cultura e Societ\u00e0, Politica Internazionale, Religione]
+category: cultura-spettacolo
 tags: ["diritti", "Economia", "Etica", "giustizia", "Governo", "mercato", "odio", "Pace", "Papa", "politica", "repressione", "sociale", "societ\u00e0", "Trump", "USA", "vaticano", "violenza"]
 ---
 

@@ -4,7 +4,7 @@ title: "Incidenti sul lavoro e la logica del sub-appalto"
 date: 2023-09-06 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/incidente-ferroviario-brandizzo-strage-cosa-e-successo-prassi.jpg
-categories: [Sicurezza sul Lavoro]
+category: cronaca-bianca
 tags: ["Brandizzo", "Ferrovia RFI", "lavoro", "morti bianche", "sicurezza"]
 ---
 

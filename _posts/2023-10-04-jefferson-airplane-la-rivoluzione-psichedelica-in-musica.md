@@ -4,7 +4,7 @@ title: "Jefferson Airplane: La Rivoluzione Psichedelica in Musica"
 date: 2023-10-04 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_4886.jpeg
-categories: [Cultura, Musica]
+category: cultura-spettacolo
 tags: ["Anni \u201960", "Controcultura", "Controcultura americana", "Grace Slick", "Hippie", "Jefferson Airplane", "Musica degli anni \u201960", "Musica rock", "Paul Kantner", "Rivoluzione culturale", "Rock psichedelico", "San Francisco", "White Rabbit"]
 ---
 

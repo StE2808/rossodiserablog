@@ -4,7 +4,7 @@ title: "I numeri segreti del governo Meloni"
 date: 2023-12-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/image-from-rawpixel-id-3373446-original.jpg
-categories: [Cultura e Societ\u00e0, diritti umani, Inchiesta, Politica Internazionale, Politica Nazionale, societ\u00e0]
+category: opinioni-editoriali
 tags: ["carcerati", "carcere", "femminicidi", "Governo", "Meloni", "migranti", "Migrazione", "politica", "prigione", "ristretti", "suicidi", "suicidio"]
 ---
 

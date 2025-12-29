@@ -4,7 +4,7 @@ title: "Il Tempo Sospeso del Conclave: Un Antidoto all'Immediatezza Digitale"
 date: 2025-05-08 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/05/img_8936.jpeg
-categories: [Cronaca, Cultura, Religione, societ\u00e0, Societ\u00e0, Storia]
+category: cronaca-bianca
 tags: ["Attesa", "Conclave", "Fumata Bianca", "Habemus Papam", "Immediatezza", "Notizie in Diretta", "Riflessione", "Ritmi Umani", "Social Media", "Tecnologia", "Tempo", "vaticano"]
 ---
 

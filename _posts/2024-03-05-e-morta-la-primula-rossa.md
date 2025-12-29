@@ -4,7 +4,7 @@ title: "E' morta la Primula Rossa"
 date: 2024-03-05 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/03/220px-curcio_balzerani-1.webp
-categories: [Cronaca, Cultura, societ\u00e0]
+category: cronaca-bianca
 tags: ["Barbara Balzerani", "Br", "Brigate Rosse", "Gianni Pelosi", "Girolamo Minervini", "James Lee Dozier", "Mario Moretti", "Partito Comunista Combattente", "Renato Curcio", "Sara", "sequestro Moro"]
 ---
 

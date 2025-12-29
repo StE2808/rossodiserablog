@@ -4,7 +4,7 @@ title: "Terza guerra mondiale? Eccola"
 date: 2024-01-12 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/cznmcy1wcml2yxrll3jhd3bpegvsx2ltywdlcy93zwjzaxrlx2nvbnrlbnqvbhivchg2ndyxmzgtaw1hz2uta3d2eg1szgquanbn.jpg
-categories: [Mondo, Politica Internazionale]
+category: politica-estera
 tags: ["attacco", "Eserciti", "gaza", "Gran Bretagna", "guerra", "hamas", "Houthi", "israele", "Mar Rosso", "terza guerra mondiale", "USA", "yemen"]
 ---
 

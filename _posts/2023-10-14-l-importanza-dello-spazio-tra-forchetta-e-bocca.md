@@ -4,7 +4,7 @@ title: "L’importanza dello spazio tra forchetta e bocca"
 date: 2023-10-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/img_4164-1.jpg
-categories: [Salute, societ\u00e0]
+category: scienza-tecnologia
 tags: ["Ambiente", "armi", "caccia", "cacciatori", "Etica", "fucili", "lobbismo", "lobby", "mentale", "morale", "preda", "pubblica", "vegan", "vegano", "vegetariano"]
 ---
 

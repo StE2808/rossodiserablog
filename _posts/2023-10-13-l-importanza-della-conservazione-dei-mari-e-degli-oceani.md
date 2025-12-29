@@ -4,7 +4,7 @@ title: "L'Importanza della Conservazione dei Mari e degli Oceani"
 date: 2023-10-13 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/mare.png
-categories: [Ambiente, Cultura e Societ\u00e0, Mondo]
+category: ambiente
 tags: ["biodiversit\u00e0 marina", "cambiamento climatico", "ciclo del carbonio", "conservazione marina", "inquinamento dei mari", "Mari", "oceani", "sostenibilit\u00e0 marina"]
 ---
 

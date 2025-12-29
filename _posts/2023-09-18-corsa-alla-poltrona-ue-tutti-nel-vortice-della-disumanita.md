@@ -4,7 +4,7 @@ title: "Corsa alla poltrona UE: tutti nel vortice della disumanità"
 date: 2023-09-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/porta_deuropa.jpg
-categories: [Cronaca, Politica Internazionale, Politica Nazionale]
+category: cronaca-bianca
 tags: ["barconi", "Borrel. Gentiloni", "Francia", "Germania", "Governo", "immigrazione", "lampedusa", "Libia", "Meloni", "migranti", "Saied", "Tunisia", "UE"]
 ---
 

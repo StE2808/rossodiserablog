@@ -4,7 +4,7 @@ title: "Il Paradosso del Risparmio tra Insicurezza e Povertà in Italia"
 date: 2025-08-15 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/08/img_6701.jpg
-categories: [Cronaca, Economia, Politica Nazionale]
+category: cronaca-bianca
 tags: ["diritti umani", "Generazioni Future", "Governo", "lavoratori", "lavoro", "libert\u00e0", "Meloni", "mercato", "politica", "Riforme", "Salute", "sicurezza", "sociale", "societ\u00e0"]
 ---
 

@@ -4,7 +4,7 @@ title: "Spiragli di pace in Ucraina"
 date: 2024-03-26 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/03/crocus_hall_2024.jpg
-categories: [Mondo, Politica Internazionale]
+category: politica-estera
 tags: ["Alitalia", "America", "Attentato", "CIA", "Cricus Cyty Hall", "Crimea", "Donbass", "ECFR", "Europa", "Francia", "FSB", "Germania", "guerra", "ISIS", "Korasan", "Macron", "Pace", "Russia", "Ucraina", "USA", "Zelensky"]
 ---
 

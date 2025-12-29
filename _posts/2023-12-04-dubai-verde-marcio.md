@@ -4,7 +4,7 @@ title: "Dubai: verde marcio"
 date: 2023-12-04 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/immagine-inquinamento.jpeg
-categories: [Ambiente, Cronaca, Mondo]
+category: ambiente
 tags: ["clima", "co2", "COP28", "crisi", "crisi climatica", "Dubai", "Italia", "Meloni"]
 ---
 

@@ -4,7 +4,7 @@ title: "Lo studio della storia nelle nuove indicazioni ministeriali: eurocentris
 date: 2025-03-22 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/storia.jpg
-categories: [Cultura, Societ\u00e0]
+category: cultura-spettacolo
 tags: ["#DibattitoPubblico", "#DidatticaInnovativa", "#EducazioneCivica", "#Eurocentrismo", "#FakeNews", "#InsegnamentoStoria", "#MetodoStorico", "#MIUR", "#NuoveIndicazioni2025", "#PensieroCritico", "#RiformaScuola", "#ScuolaPrimaria"]
 ---
 

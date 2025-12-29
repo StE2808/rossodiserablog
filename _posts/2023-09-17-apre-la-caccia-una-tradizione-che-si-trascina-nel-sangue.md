@@ -4,7 +4,7 @@ title: "Apre la caccia: una tradizione che si trascina nel sangue"
 date: 2023-09-17 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/ste_spi_a_group_of_hunters_in_shirts_with_rifles_in_a_forest_dr_d2df04d1-e3a9-4d52-aa52-ec43a6084596.png
-categories: [societ\u00e0]
+category: societa
 ---
 
 In molte regioni italiane, compresa l'Umbria, in questi giorni apre ufficialmente la stagione venatoria. 

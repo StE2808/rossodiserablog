@@ -4,7 +4,7 @@ title: "La Storia si Ripete? Confronto tra l'Europa pre-1914 e l'Attualità"
 date: 2025-04-25 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6345-1.jpg
-categories: [Cultura, Politica Internazionale, Politica Nazionale, Storia]
+category: cultura-spettacolo
 tags: ["diritti", "diritti umani", "Economia", "Etica", "Europa", "fascismo", "Generazioni Future", "giustizia", "Governo", "guerra", "Istruzione", "libert\u00e0", "Morte", "odio", "Pace", "politica", "repressione", "resistenza", "Russia", "sicurezza", "sociale", "societ\u00e0", "UE", "USA", "violenza"]
 ---
 

@@ -4,7 +4,7 @@ title: "La Prima Omelia di Papa Leone XIV: Un Appello all'Inclusione Sottovaluta
 date: 2025-05-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6448-1.jpg
-categories: [Cronaca, Cultura, Cultura e Societ\u00e0, Religione, societ\u00e0]
+category: cronaca-bianca
 tags: ["diritti", "Governo", "Identit\u00e0", "LeoneIV", "odio", "Papa", "politica", "sociale", "Solidariet\u00e0", "vaticano"]
 ---
 

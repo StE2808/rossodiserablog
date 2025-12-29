@@ -4,7 +4,7 @@ title: "Quando la plastica si trasforma in isola"
 date: 2023-10-31 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/waste_cocobeach_india.jpg
-categories: [Ambiente]
+category: ambiente
 tags: ["inquinamento", "isola", "isola di plastica", "microplastica. microplastiche", "The great Pacific garbage patch"]
 ---
 

@@ -4,7 +4,7 @@ title: "Dazi: la capitolazione dell’Europa al bullo Trump"
 date: 2025-07-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6662.jpg
-categories: [Economia, Politica Internazionale]
+category: economia-finanza
 tags: ["capitolazione", "crisi", "dazi", "Europa", "Governo", "guerra", "Meloni", "mercato", "politica", "salvini", "sociale", "tajani", "Trump", "UE", "USA"]
 ---
 

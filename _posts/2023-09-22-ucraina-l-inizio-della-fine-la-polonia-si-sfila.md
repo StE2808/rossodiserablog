@@ -4,7 +4,7 @@ title: "Ucraina, l'inizio della fine: la Polonia si sfila"
 date: 2023-09-22 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/finta_infografica.png
-categories: [Mondo, Politica Internazionale, societ\u00e0]
+category: politica-estera
 tags: ["Andrzej Duda", "Duda", "Europa", "guerra", "Liev", "Mateusz Morawiecki", "Nazioni Unite", "Polonia PIS", "Ucraina", "Varsavia", "Zelensky"]
 ---
 

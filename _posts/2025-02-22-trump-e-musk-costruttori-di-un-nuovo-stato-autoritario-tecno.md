@@ -4,7 +4,7 @@ title: "Trump e Musk: Costruttori di un Nuovo Stato Autoritario Tecnologico"
 date: 2025-02-22 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/02/image.jpg
-categories: [Cultura e Societ\u00e0, diritti umani, Economia, Mondo, Politica Internazionale]
+category: opinioni-editoriali
 tags: ["Autoritarismo tecnologico", "Controllo digitale", "Distopia moderna", "Intelligenza Artificiale", "Libert\u00e0 individuale", "Populismo politico", "Resistenza civile", "Reti decentralizzate", "Sorveglianza globale"]
 ---
 

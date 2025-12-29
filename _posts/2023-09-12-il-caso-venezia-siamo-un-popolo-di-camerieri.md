@@ -4,7 +4,7 @@ title: "Il caso Venezia: siamo un popolo di camerieri"
 date: 2023-09-12 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/venezia-invasa-dai-turisti.jpg
-categories: [Turismo]
+category: lifestyle-moda
 tags: ["assalto", "Governo", "invasione", "mercato", "Ocio", "politica", "societ\u00e0", "Venessia.com", "Venezia"]
 ---
 

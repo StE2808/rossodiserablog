@@ -4,7 +4,7 @@ title: "L’etica del viandante: ci potrà salvare?"
 date: 2025-02-15 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/02/viandante2.png
-categories: [Ambiente, clima, Cultura, Cultura e Societ\u00e0, diritti umani, Economia, Mondo]
+category: ambiente
 tags: ["Armonia con la natura", "Ascolto", "Cambiamento", "consapevolezza", "diritti", "Economia circolare", "Etica", "Filosofia", "futuro sostenibile", "giustizia", "politica", "societ\u00e0", "sostenibilit\u00e0", "Spiritualit\u00e0", "Viaggio", "Viandante"]
 ---
 

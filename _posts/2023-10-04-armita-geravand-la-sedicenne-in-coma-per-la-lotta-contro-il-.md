@@ -4,7 +4,7 @@ title: "Armita Geravand: la sedicenne in coma per la lotta contro il velo in Ira
 date: 2023-10-04 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5287.jpeg
-categories: [Cronaca, diritti umani, Mondo, societ\u00e0]
+category: cronaca-bianca
 tags: ["Armita Geravand", "Cultura", "diritti delle donne", "giovani donne iraniane", "giustizia", "libert\u00e0 di espressione", "lotta per i diritti", "Mahsa Amini", "polizia morale", "repressione", "Repubblica Islamica dell\u2019Iran", "resistenza", "Solidariet\u00e0", "Tehran"]
 ---
 

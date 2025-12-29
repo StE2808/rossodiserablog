@@ -4,7 +4,7 @@ title: "La via tortuosa verso la Pace: preservare l'Umanità nel Medio Oriente"
 date: 2023-10-11 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/pexels-photo-12018418.jpeg
-categories: [Mondo, Politica Internazionale]
+category: politica-estera
 tags: ["Conflitto", "Corridoi Umanitari", "Diritti Civili", "Geopolitica", "guerra", "hamas", "Iran", "israele", "Medio Oriente", "Pace", "Salvaguardia Civili", "Stabilit\u00e0", "Striscia di Gaza"]
 ---
 

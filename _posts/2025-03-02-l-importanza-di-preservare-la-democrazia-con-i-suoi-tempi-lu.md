@@ -4,7 +4,7 @@ title: "L'importanza di preservare la democrazia, con i suoi tempi lunghi e le s
 date: 2025-03-02 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/03/img_6160-1.jpg
-categories: [Cultura, Politica Nazionale]
+category: cultura-spettacolo
 tags: ["crisi", "democrazia", "diritti", "Etica", "Europa", "giustizia", "Governo", "politica", "preservare", "proteggere", "repressione", "societ\u00e0", "Solidariet\u00e0", "UE"]
 ---
 

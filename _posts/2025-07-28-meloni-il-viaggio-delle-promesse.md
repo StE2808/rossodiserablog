@@ -4,7 +4,7 @@ title: "Meloni: il viaggio delle promesse"
 date: 2025-07-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6663.jpg
-categories: [Politica Internazionale]
+category: politica-estera
 tags: ["Africa", "agricoltura", "Ambiente", "cambiamento climatico", "desertificazione", "diritti", "Economia", "Etiopia", "Europa", "fascismo", "Generazioni Future", "Governo", "Meloni", "mercato", "migranti", "politica", "Solidariet\u00e0", "UE"]
 ---
 

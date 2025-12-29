@@ -4,7 +4,7 @@ title: "Migranti: persone o numeri?"
 date: 2023-09-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/migranti_2.png
-categories: [Cronaca, societ\u00e0]
+category: cronaca-bianca
 tags: ["fame", "Governo", "lampedusa", "Meloni", "migranti", "Migrazione", "odio", "pompiere", "salvini", "Solidariet\u00e0"]
 ---
 

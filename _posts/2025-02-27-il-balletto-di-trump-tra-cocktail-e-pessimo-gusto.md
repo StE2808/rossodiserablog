@@ -4,7 +4,7 @@ title: "Il Balletto di Trump: tra cocktail e pessimo gusto"
 date: 2025-02-27 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/02/img_6149-1.jpg
-categories: [Politica Internazionale]
+category: politica-estera
 tags: ["Ambiente", "clima", "Economia", "Etica", "Europa", "fascismo", "gaza", "giustizia", "Governo", "guerra", "Meloni", "mercato", "migranti", "Migrazione", "Morte", "Musk", "Netanyahu", "Pace", "palestina", "politica", "repressione", "Russia", "societ\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
 

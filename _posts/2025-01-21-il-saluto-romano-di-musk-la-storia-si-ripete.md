@@ -4,7 +4,7 @@ title: "Il saluto romano di Musk: la storia si ripete"
 date: 2025-01-21 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_6007-1.jpg
-categories: [Cultura e Societ\u00e0, Mondo, Politica Internazionale]
+category: opinioni-editoriali
 tags: ["Governo", "Meloni", "Musk", "politica", "societ\u00e0", "Trump", "USA"]
 ---
 

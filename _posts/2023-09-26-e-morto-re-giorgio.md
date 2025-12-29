@@ -4,7 +4,7 @@ title: "E' morto Re Giorgio"
 date: 2023-09-26 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_4062.jpg
-categories: [Politica Nazionale]
+category: politica-interna
 tags: ["comunismo", "Giorgio", "migliorista", "morto", "Napolitano", "politica", "socialdemocrazia"]
 ---
 

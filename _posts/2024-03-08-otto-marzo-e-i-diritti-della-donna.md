@@ -4,7 +4,7 @@ title: "Otto marzo e i diritti della donna"
 date: 2024-03-08 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/03/25301279295_58a4cc9960_c.jpg
-categories: [Cultura e Societ\u00e0, societ\u00e0]
+category: opinioni-editoriali
 tags: ["8 marzo", "diritti", "diritti delle donne", "festa della donna", "giornata internazionale della donna", "marzo 8", "otto", "ottomarzo"]
 ---
 

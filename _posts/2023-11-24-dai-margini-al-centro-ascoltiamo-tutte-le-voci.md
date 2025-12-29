@@ -4,7 +4,7 @@ title: "Dai margini al centro: ascoltiamo tutte le voci."
 date: 2023-11-24 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/dallc2b7e-2023-11-24-10.05.31-create-an-impactful-image-that-depicts-marginalized-subaltern-groups-in-black-and-white-stepping-into-a-vibrant-colorful-world.-the-black-and-whit.png
-categories: [Cultura e Societ\u00e0, diritti umani, Politica Internazionale, Politica Nazionale]
+category: opinioni-editoriali
 tags: ["Barriere culturali", "Discriminazione sociale", "Disuguaglianza economica", "giustizia", "Gruppi subalterni", "Lotta di classe", "Movimenti per i diritti", "Movimenti sociali", "Politiche inclusive", "resistenza", "Solidariet\u00e0", "Umanit\u00e0", "Voci dimenticate"]
 ---
 

@@ -4,7 +4,7 @@ title: "Bernie Sanders e AOC | Fighting Oligarchy Tour: L'Esempio che Manca alla
 date: 2025-03-29 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/foto.png.webp
-categories: [diritti umani, Economia, Mondo, Politica Internazionale, Salute, Scuola e Istruzione, Societ\u00e0]
+category: diritti-umani
 tags: ["AlexandriaOcasioCortez", "AttivismoIntergenerazionale", "BernieSanders", "DemocraziaSana", "FightingOligarchy", "MobilitazionePolitica", "OpposizioneItaliana", "PoliticaProgressista", "RinnovamentoPolitico", "VisioneAlternativa"]
 ---
 

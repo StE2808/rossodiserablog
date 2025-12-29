@@ -4,7 +4,7 @@ title: "L'ombra del ricatto digitale: Elon Musk e la sicurezza nazionale in osta
 date: 2025-03-10 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/03/img_6184-1.jpg
-categories: [Cultura e Societ\u00e0, Politica Internazionale, Politica Nazionale, societ\u00e0]
+category: opinioni-editoriali
 tags: ["cibernetica", "Conflitto", "Economia", "Etica", "Europa", "giustizia", "Governo", "guerra", "Meloni", "mercato", "Musk", "odio", "Pace", "politica", "Russia", "sicurezza", "Trump", "UE", "USA"]
 ---
 

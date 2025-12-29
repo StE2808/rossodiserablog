@@ -4,7 +4,7 @@ title: "Nel maggico reame di Donald e Giorgia"
 date: 2025-01-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_5993-1.jpg
-categories: [Politica Internazionale]
+category: politica-estera
 tags: ["Cina", "Economia", "Europa", "fascismo", "fascista", "gaza", "giustizia", "Governo", "guerra", "Meloni", "mercato", "Pace", "palestina", "politica", "repressione", "Russia", "sicurezza", "societ\u00e0", "Ucraina", "UE", "USA"]
 ---
 

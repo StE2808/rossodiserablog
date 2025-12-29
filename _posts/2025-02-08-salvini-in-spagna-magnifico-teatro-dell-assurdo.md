@@ -4,7 +4,7 @@ title: "Salvini in Spagna: magnifico Teatro dell'Assurdo"
 date: 2025-02-08 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/02/img_6095-1.jpg
-categories: [Politica Internazionale, Politica Nazionale]
+category: politica-estera
 tags: ["GovernoMeloni", "LePen", "Orban", "patrioti", "politica", "salvini", "sovranisti", "Wilders"]
 ---
 

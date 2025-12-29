@@ -4,7 +4,7 @@ title: "La Volpe d'Oro e l'Uccellino Azzurro"
 date: 2025-02-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/02/img_6159-1.jpg
-categories: [Cronaca, Mondo, Politica Internazionale, societ\u00e0]
+category: cronaca-bianca
 tags: ["Conflitto", "Etica", "Europa", "guerra", "mercato", "Musk", "politica", "Russia", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
 

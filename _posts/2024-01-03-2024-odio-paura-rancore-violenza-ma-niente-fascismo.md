@@ -4,7 +4,7 @@ title: "2024? Odio, paura, rancore, violenza ma niente fascismo"
 date: 2024-01-03 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/5900204512_2bfc43bae9_w.jpg
-categories: [societ\u00e0]
+category: societa
 tags: ["fascismo", "Governo", "Meloni", "odio", "paura", "rancore", "violenza"]
 ---
 

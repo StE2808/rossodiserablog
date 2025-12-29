@@ -4,7 +4,7 @@ title: "La meravigliosa cronaca del nostro fulgido presente! Ovvero Giorgia Melo
 date: 2025-01-10 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_5982-1.jpg
-categories: [Politica Nazionale]
+category: politica-interna
 tags: ["clima", "Economia", "Europa", "fascismo", "Governo", "guerra", "Identit\u00e0", "immigrazione", "Meloni", "mercato", "Migrazione", "politica", "repressione", "Salute", "satelliti", "sicurezza", "Social Media", "societ\u00e0", "UE", "USA"]
 ---
 

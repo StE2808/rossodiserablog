@@ -73,3 +73,4 @@ exclude:
   - vendor
   - .sass-cache
   - .jekyll-cache
+  - _dev

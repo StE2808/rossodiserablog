@@ -4,7 +4,7 @@ title: "L'assoggettamento come misura dei diritti"
 date: 2025-04-27 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6353-1.jpg
-categories: [Cultura, Cultura e Societ\u00e0, Diritti animali]
+category: cultura-spettacolo
 tags: ["animali", "diritti", "giustizia", "politica", "societ\u00e0"]
 ---
 

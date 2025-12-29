@@ -4,7 +4,7 @@ title: "La resistenza accademica in USA: tutti contro Trump"
 date: 2025-04-16 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6314-1.jpg
-categories: [Mondo, Politica Internazionale, Scuola e Istruzione]
+category: politica-estera
 tags: ["Cultura", "emigranti", "fascismo", "giustizia", "Governo", "immigrazione", "istituzioni", "Istruzione", "migranti", "polarizzazione", "politica", "repressione", "scolastiche", "scuola", "sociale", "societ\u00e0", "Trump", "universita\u2019", "USA"]
 ---
 

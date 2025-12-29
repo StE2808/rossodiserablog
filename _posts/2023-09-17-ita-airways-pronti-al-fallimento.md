@@ -4,7 +4,7 @@ title: "ITA Airways: pronti al fallimento"
 date: 2023-09-17 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_5042.jpeg
-categories: [societ\u00e0]
+category: societa
 ---
 
 Penso che ci dovremmo mettere l’anima in pace: i tedeschi di Lufthansa non compreranno Ita. 

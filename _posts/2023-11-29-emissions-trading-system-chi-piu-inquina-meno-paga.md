@@ -4,7 +4,7 @@ title: "Emissions Trading System: chi più inquina meno paga."
 date: 2023-11-29 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/ciminiere.png
-categories: [Ambiente, Economia, Politica Internazionale]
+category: ambiente
 tags: ["ArcelorMittal", "\u00e9lite emissioni", "chi inquina paga", "contributo lotta cambiamento climatico", "costi ambientali e sociali", "disincentivo innovazione", "efficienza cambiamento climatico", "Emissions Trading System", "ENEL", "Eni", "EU ETS", "fondi per sostenibilit\u00e0", "futuro sostenibile", "grandi aziende inquinanti", "impatto ambientale", "importanza economica", "inquinamento", "inquinatori", "licenze emissioni gas serra", "limitazione efficacia EU ETS", "mitigazione impatto climatico", "normative ambientali", "permessi gratuiti", "piccole e medie imprese", "pratiche sostenibili", "responsabilit\u00e0 inquinatori", "riduzione emissioni", "riduzione emissioni gas serra", "riforma EU ETS", "RWE", "spostamento produzione", "supporto famiglie", "sviluppo tecnologie pulite", "Unione Europea"]
 ---
 

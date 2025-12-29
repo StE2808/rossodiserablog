@@ -4,7 +4,7 @@ title: "Meloni ed il progetto segreto"
 date: 2024-01-23 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4506-1.jpg
-categories: [Politica Nazionale]
+category: politica-interna
 tags: ["antiparlamentare", "antiparlamentarismo", "Costituzione", "Governo", "Meloni", "Padri Costituenti", "parlamento", "politica", "Riforme", "Riforme istituzionali"]
 ---
 

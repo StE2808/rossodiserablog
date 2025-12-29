@@ -4,7 +4,7 @@ title: "Israele ha gettato la maschera: vuole la fine della Palestina."
 date: 2025-05-05 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6384-1.jpg
-categories: [Cronaca, Politica Internazionale]
+category: cronaca-bianca
 tags: ["Conflitto", "crisi", "diritti", "diritti umani", "Etica", "Europa", "gaza", "genocidio", "giustizia", "Governo", "guerra", "hamas", "Identit\u00e0", "israele", "libert\u00e0", "massacro", "Meloni", "Nethanyahu", "Pace", "palestina", "palestinese", "politica", "popolo", "repressione", "sicurezza", "societ\u00e0", "UE", "Umanit\u00e0", "USA", "violenza"]
 ---
 

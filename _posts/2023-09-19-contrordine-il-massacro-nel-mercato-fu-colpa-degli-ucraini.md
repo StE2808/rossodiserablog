@@ -4,7 +4,7 @@ title: "Contrordine: il massacro nel mercato fu colpa degli ucraini"
 date: 2023-09-19 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/ste_spi_un_missile_militare_sfreccia_nel_cielo_quali_sono_le_im_636ca4a0-999e-46b3-9ee1-6b97463abcfc.png
-categories: [Cronaca, Politica Internazionale]
+category: cronaca-bianca
 tags: ["Donetsk", "Kiev.", "Kostiantynivka", "mercato", "Missile", "Putin", "Russia", "Ucraina", "Zelensky"]
 ---
 

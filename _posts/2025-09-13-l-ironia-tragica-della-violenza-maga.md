@@ -4,7 +4,7 @@ title: "L’ironia tragica della violenza MAGA"
 date: 2025-09-13 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/09/img_6766.jpg
-categories: [Cronaca, Politica Internazionale, Societ\u00e0]
+category: cronaca-bianca
 tags: ["America", "charliekirk", "Conflitto", "crisi", "diritti", "emigranti", "giustizia", "Governo", "immigrazione", "MAGA", "odio", "polarizzazione", "politica", "sicurezza", "sociale", "societ\u00e0", "Trump", "tylerrobinson", "USA"]
 ---
 

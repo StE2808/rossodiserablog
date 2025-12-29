@@ -3,7 +3,7 @@ layout: post
 title: 41 anni dalla strage di Natale
 date: 2025-12-23 11:50:00 +0100
 author: lino-rialti
-category: politica
+category: politica-interna
 tags:
   - '#stragedinatale #rapido904 #camorra'
 image: /assets/images/uploads/IMG_6995.jpeg

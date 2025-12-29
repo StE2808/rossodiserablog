@@ -4,7 +4,7 @@ title: "L’ITALIA DELLA VERGOGNA"
 date: 2025-07-19 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6617-1.jpg
-categories: [Politica Nazionale]
+category: politica-interna
 tags: ["Etica", "Europa", "giustizia", "Governo", "guerra", "hamas", "israele", "La Russa", "Meloni", "Netanyahu", "odio", "politica", "Russia", "sociale", "Solidariet\u00e0", "UE", "USA", "violenza"]
 ---
 

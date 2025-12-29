@@ -4,7 +4,7 @@ title: "Patto con l'Albania: sfruttando la disperazione"
 date: 2023-11-08 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/shengjin_wpwtr16.jpg
-categories: [diritti umani, Politica Internazionale]
+category: diritti-umani
 tags: ["accordo", "albania", "edi rama", "Gjader", "immigrazione", "Meloni", "PD", "Shengjin", "Shlein"]
 ---
 

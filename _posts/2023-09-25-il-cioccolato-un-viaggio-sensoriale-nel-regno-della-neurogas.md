@@ -4,7 +4,7 @@ title: "Il Cioccolato: Un Viaggio Sensoriale nel Regno della Neurogastronomia"
 date: 2023-09-25 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/pexels-photo-7538069.jpeg
-categories: [Gastronomia, Salute]
+category: lifestyle-moda
 tags: ["amarezza", "antiossidanti", "aromi", "cioccolato", "declino cognitivo", "dolcezza", "endorfine", "enzima", "esperienza sensoriale", "flavonoidi", "funzioni cognitive", "memoria", "mindfulness", "ormoni della felicit\u00e0", "piacere", "stress", "stress ossidativo"]
 ---
 

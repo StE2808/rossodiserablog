@@ -4,7 +4,7 @@ title: "Populisti, popolani, popolari: parola d’ordine, dichiarare guerra a tu
 date: 2023-09-07 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_3995.jpg
-categories: [Politica Nazionale]
+category: politica-interna
 tags: ["diritti", "guerra", "lavoro", "Meloni", "politica", "reddito", "sociale"]
 ---
 

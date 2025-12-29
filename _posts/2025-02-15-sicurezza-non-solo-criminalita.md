@@ -4,7 +4,7 @@ title: "Sicurezza: non solo criminalità"
 date: 2025-02-15 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/02/img_6115-1.jpg
-categories: [Cultura, Economia, societ\u00e0]
+category: cultura-spettacolo
 tags: ["crisi", "diritti", "giustizia", "Governo", "lavoratori", "lavoro", "Meloni", "migranti", "percepita", "percezione", "repressione", "sicurezza", "sociale", "violenza"]
 ---
 

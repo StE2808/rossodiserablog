@@ -4,7 +4,7 @@ title: "Bombe al fosforo bianco sui civili a Gaza"
 date: 2023-11-02 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4212-1.jpg
-categories: [societ\u00e0]
+category: societa
 ---
 
 Operazione a tenaglia di Israele a Gaza. Tre lati sotto attacco. L'offensiva prevede la preparazione del campo attraverso il bombardamento anche aereo, diviso per settori per poi penetrarvi da terra. Si stanno preparando ad una estenuante avanzata da terra e dentro al reticolo di cunicoli ancora presenti nel sottosuolo della Striscia.

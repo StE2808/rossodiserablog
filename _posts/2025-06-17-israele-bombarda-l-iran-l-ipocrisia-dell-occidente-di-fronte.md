@@ -4,7 +4,7 @@ title: "Israele bombarda l’Iran: l’ipocrisia dell’Occidente di fronte all�
 date: 2025-06-17 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/06/img_6511-1.jpg
-categories: [Cronaca, Politica Internazionale]
+category: cronaca-bianca
 tags: ["Conflitto", "crisi", "diritti", "Economia", "Etica", "Europa", "gaza", "giustizia", "guerra", "hamas", "Iran", "israele", "libert\u00e0", "mercato", "Morte", "odio", "palestina", "politica", "repressione", "resistenza", "sicurezza", "societ\u00e0", "Trump", "USA", "violenza"]
 ---
 

@@ -4,7 +4,7 @@ title: "Pasta: sì grazie!"
 date: 2023-10-24 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/logo-wpd.jpg
-categories: [Salute, societ\u00e0]
+category: scienza-tecnologia
 tags: ["cibo", "dieta", "diete", "pasta", "world pasta day"]
 ---
 

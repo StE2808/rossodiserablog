@@ -4,7 +4,7 @@ title: "Allarme ambientale: il nuovo DDL sulla caccia minaccia l'ecosistema ital
 date: 2025-05-20 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6452-1.jpg
-categories: [Cronaca, Diritti animali, Politica Nazionale, Societ\u00e0]
+category: cronaca-bianca
 tags: ["Ambiente", "caccia", "cacciatori", "ecocidio", "ecologia", "ecosistema", "ecosistemi", "Etica", "Europa", "fauna", "giustizia", "Governo", "politica", "repressione", "sicurezza", "societ\u00e0", "UE", "violenza"]
 ---
 

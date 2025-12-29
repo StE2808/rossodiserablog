@@ -4,7 +4,7 @@ title: "25 aprile 1945-2025: 80 anni dalla Liberazione dell'Italia"
 date: 2025-04-09 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6273-1.jpg
-categories: [Storia]
+category: cultura-spettacolo
 tags: ["25aprile", "80annidallaliberazione", "alleati", "armatarossa", "Europa", "giustizia", "guerra", "Liberazione", "libert\u00e0", "odio", "politica", "Russia", "societ\u00e0", "USA", "violenza"]
 ---
 

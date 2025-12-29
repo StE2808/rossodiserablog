@@ -4,7 +4,7 @@ title: "Trump: il ritorno"
 date: 2024-01-17 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4496-1.jpg
-categories: [Politica Internazionale]
+category: politica-estera
 tags: ["Biden", "caucus", "evangelici", "Haley", "Iowa", "latoinos", "MAGA", "Make America Great Again", "Never Trump", "primarie americane", "pro-vita", "Ron De Santis", "Tempesta Artica", "Trump", "tycoon", "Vivek Ramaswamy"]
 ---
 

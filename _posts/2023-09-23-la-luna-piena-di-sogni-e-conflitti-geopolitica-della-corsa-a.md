@@ -4,7 +4,7 @@ title: "“La Luna Piena” di Sogni e Conflitti: Geopolitica della Corsa alla L
 date: 2023-09-23 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/sliver_moon.png
-categories: [Mondo]
+category: politica-estera
 tags: ["Apollo", "Artemis", "Artemis Accords", "Aspirare alle stelle.", "Bene comune", "Bottino di guerra spaziale", "Chandrayaan-3", "Cina", "Diritto di rivendicare la propriet\u00e0 della Luna", "Divisioni", "Elio-3", "Europa", "Geopolitica della Corsa alla Luna", "India", "Isotopi", "Luna", "Luna-25", "Minerali rari", "NASA", "Razzi", "Robot", "Russia", "Sfruttamento delle risorse lunari", "Sogni e Conflitti", "Startup spaziali europee", "Umanit\u00e0"]
 ---
 

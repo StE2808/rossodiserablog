@@ -22,3 +22,6 @@ admin/index.html
 .idea/
 *.swp
 *.swo
+
+# Dev files (scripts, reports, etc.)
+_dev/

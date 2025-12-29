@@ -4,7 +4,7 @@ title: "LA VOCE DEGLI STUDENTI CONTRO LA SPIRALE DELLA GUERRA"
 date: 2025-03-29 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/03/img_6245-1.jpg
-categories: [Cronaca, Cultura, Cultura e Societ\u00e0, Politica Internazionale, Politica Nazionale]
+category: cronaca-bianca
 tags: ["diritti", "Etica", "Europa", "fascismo", "gaza", "Generazioni Future", "giustizia", "Governo", "guerra", "Meloni", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "Russia", "scuola", "societ\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
 

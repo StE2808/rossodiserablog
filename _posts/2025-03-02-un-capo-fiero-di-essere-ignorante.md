@@ -4,7 +4,7 @@ title: "Un capo fiero di essere ignorante"
 date: 2025-03-02 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/03/img_6161-1.jpg
-categories: [Politica Internazionale, societ\u00e0]
+category: politica-estera
 tags: ["Conflitto", "crisi", "errore", "Europa", "giustizia", "Governo", "guerra", "ignorante", "ignoranza", "odio", "Pace", "politica", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
 

@@ -4,7 +4,7 @@ title: "Regalo del governo: carcere e multe per gli attivisti del clima"
 date: 2024-01-19 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/ultima-generazione_tradimenti-1024x496-2.png
-categories: [Cronaca, Politica Nazionale, societ\u00e0]
+category: cronaca-bianca
 tags: ["Ambiente", "clima", "collasso climatico", "Fondo Riparazione", "Governo", "Meloni", "Sangiuliano", "Ultima Generazione"]
 ---
 

@@ -4,7 +4,7 @@ title: "L'Italia dei Mendicanti: Un Ritorno alle Origini"
 date: 2025-01-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_6006-1.jpg
-categories: [Cultura, Politica Nazionale]
+category: cultura-spettacolo
 tags: ["comparaggio", "diritti", "Economia", "Etica", "Europa", "giustizia", "Governo", "guerra", "lavoro", "Meloni", "Migrazione", "politica", "povert\u00e0", "sicurezza", "societ\u00e0", "USA"]
 ---
 

@@ -4,7 +4,7 @@ title: "Per una poltrona vista ponte"
 date: 2023-11-06 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/hz_0626_cropped.jpg
-categories: [Politica Locale]
+category: politica-interna
 tags: ["Governo", "Meloni", "premier", "premierato forte", "Riforma costituzionale", "Riforme", "uomo solo al comando"]
 ---
 

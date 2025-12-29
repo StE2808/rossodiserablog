@@ -4,7 +4,7 @@ title: "Fernando Botero: Un Addio al Maestro delle Forme"
 date: 2023-09-15 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/botero-la-famigliaebay.jpg
-categories: [Cronaca, Cultura]
+category: cronaca-bianca
 tags: ["Arte", "Bellezza", "Colombia", "Fernando Botero", "Forme", "Generazioni Future", "Ispirazione", "Lascito", "Lutto", "Morte"]
 ---
 

@@ -4,7 +4,7 @@ title: "Il Movimento per le Città-Stato Aziendali e il Fascismo da Fine dei Tem
 date: 2025-04-27 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6354-1.jpg
-categories: [Cultura, Mondo, Politica Internazionale]
+category: cultura-spettacolo
 tags: ["Citt\u00e0", "diritti", "Europa", "freedom cities", "giustizia", "Governo", "offshore", "politica", "seasteading", "societ\u00e0", "USA"]
 ---
 

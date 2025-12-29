@@ -4,7 +4,7 @@ title: "Fatti di Pisa: Mattarella striglia il governo"
 date: 2024-02-26 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/02/img_4626-1.jpg
-categories: [Cronaca, Politica Nazionale]
+category: cronaca-bianca
 tags: ["Firenze", "Governo", "Interno", "manganellate", "manganelli", "manganello", "Mattarella", "Ministero dell'Interno", "Ministro", "Piantedosi", "Pisa", "polizia", "polizia di stato", "Presidente della repubblica"]
 ---
 

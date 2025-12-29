@@ -4,7 +4,7 @@ title: "E’ morto il Presidente Pepe Mujica, una vita spesa per il “diritto a
 date: 2025-05-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6433-1.jpg
-categories: [Cronaca, Cultura, Politica Internazionale]
+category: cronaca-bianca
 tags: ["diritti", "Etica", "felicit\u00e0", "giustizia", "Jos\u00e9", "Mujica", "politica", "sociale", "societ\u00e0", "Solidariet\u00e0", "Uruguay"]
 ---
 

@@ -4,7 +4,7 @@ title: "Il Grande Scacchiere Globale: Big Tech, Geopolitica e la Necessaria Rina
 date: 2025-03-10 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/scacchiera.png
-categories: [Cultura e Societ\u00e0, Economia, Mondo, Politica Internazionale]
+category: opinioni-editoriali
 tags: ["autonomia europea", "Big Tech", "difesa comune", "Elon Musk", "Geopolitica", "mercati finanziari", "NATO", "Putin", "USA-Russia-Cina", "Wall Street"]
 ---
 

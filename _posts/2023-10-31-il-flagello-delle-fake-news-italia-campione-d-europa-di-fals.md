@@ -4,7 +4,7 @@ title: "Il flagello delle fake news: Italia campione d’ Europa di “falsità�
 date: 2023-10-31 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5612.webp
-categories: [Cronaca, Cultura e Societ\u00e0]
+category: cronaca-bianca
 tags: ["Collaborazione Inter-Piattaforma", "Disinformazione", "Facebook", "Fact-Checking", "Fake News", "Finti Account", "Fonti Affidabili", "Impegno degli Utenti", "Instagram", "Meta", "Social Media", "Tecnologie di Rilevamento", "Verifica dell\u2019Identit\u00e0"]
 ---
 

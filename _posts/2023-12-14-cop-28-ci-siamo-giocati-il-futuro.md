@@ -4,7 +4,7 @@ title: "COP 28: ci siamo giocati il futuro"
 date: 2023-12-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/articolo_cop28.jpg
-categories: [Ambiente, Cronaca, Economia, Mondo, Politica Internazionale]
+category: ambiente
 tags: ["ambientalisti", "climatica", "COP28", "crisi", "gas", "impatti climatici", "impatto ambientale", "metano", "nucleare", "petrolio", "sultan al jaber", "UAE"]
 ---
 

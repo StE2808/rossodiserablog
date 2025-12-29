@@ -4,7 +4,7 @@ title: "Scuola: l’Italia è pronta per la sfida globale?"
 date: 2023-11-23 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/dallc2b7e-2023-11-10-08.52.57-a-dynamic-and-symbolic-representation-of-italys-education-system-embracing-the-future.-the-image-includes-a-vibrant-classroom-filled-with-students-of.png
-categories: [Cultura, Cultura e Societ\u00e0, Politica Nazionale, Scuola e Istruzione]
+category: cultura-spettacolo
 tags: ["Debito generazionale", "Disparit\u00e0 nazionale", "eguaglianza educativa", "Eredit\u00e0 culturale italiana", "Faro di saggezza", "Formazione degli educatori", "Futuro dell'Italia", "Infrastrutture scolastiche", "Innovazione programmi di studio", "Intelligenza Artificiale", "Investimento in educazione", "Istruzione", "Materie umanistiche", "Personalizzazione dell'apprendimento", "PIL", "Ruolo degli insegnanti", "Sfida globale", "Tecnologia nell'educazione", "Trasformazione digitale", "Visione strategica"]
 ---
 

@@ -4,7 +4,7 @@ title: "Tra cielo e terra: L'affascinante viaggio degli aquiloni"
 date: 2025-03-21 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/pexels-photo-29963661.jpeg
-categories: [Arte, Cultura, Societ\u00e0, Sport]
+category: cultura-spettacolo
 tags: ["aquiloni", "aquiloni artistici", "aquiloni moderni", "arte del volo", "festival degli aquiloni", "filosofia dell'aquilone", "libert\u00e0 e vincolo", "origini cinesi", "sport con aquiloni", "storia degli aquiloni"]
 ---
 

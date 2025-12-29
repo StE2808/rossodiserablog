@@ -4,7 +4,7 @@ title: "Ops, il sogno americano è svanito"
 date: 2023-11-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/2017.03.04_pro-trump_rallies_washington_dc_usa_00417_33211325466.jpg
-categories: [Cultura, Cultura e Societ\u00e0, Economia, Mondo, societ\u00e0]
+category: cultura-spettacolo
 tags: ["America", "capitalismo", "Cina", "Europa", "India", "socialdemocrazia", "socialismo", "USA"]
 ---
 

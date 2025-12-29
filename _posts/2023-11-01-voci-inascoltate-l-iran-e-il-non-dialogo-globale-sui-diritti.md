@@ -4,7 +4,7 @@ title: "Voci Inascoltate: L’Iran e il (non) dialogo globale sui Diritti Umani"
 date: 2023-11-01 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/img_5619.webp
-categories: [Cronaca, Mondo, Politica Internazionale]
+category: cronaca-bianca
 tags: ["Ali Bahreini", "Armita Geravand", "comunit\u00e0 internazionale", "diritti umani", "Forum Sociale del Consiglio delle Nazioni Unite", "giustizia", "Iran", "Mahsa Amini", "repressione", "solidariet\u00e0 globale"]
 ---
 

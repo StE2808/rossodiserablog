@@ -4,7 +4,7 @@ title: "Parole in libertà per il 2024"
 date: 2024-01-02 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4452-1.jpg
-categories: [societ\u00e0]
+category: societa
 ---
 
 Il 2024 lo stiamo appena assaggiando e già lo sentiamo amaro: una bordata di aumenti soffocano la ripresa sbandierata ma inesistente e parimenti strangolano i cittadini di questa Italia, sempre più povera, non solo economicamente.

@@ -3,7 +3,7 @@ layout: post
 title: 'Treni: ennesima giornata di caos'
 date: 2025-12-17 11:09:00 +0100
 author: lino-rialti
-category: politica
+category: politica-interna
 tags:
   - treni
   - salvinidimettiti

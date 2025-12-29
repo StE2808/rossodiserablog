@@ -4,7 +4,7 @@ title: "Questa guerra è capitalista"
 date: 2024-01-09 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4477-1.jpg
-categories: [diritti umani, Economia, societ\u00e0]
+category: diritti-umani
 tags: ["capitale", "capitalismo", "diritti", "guerra", "Karl. Marx", "libert\u00e0", "mercati", "mercato", "politica"]
 ---
 

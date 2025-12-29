@@ -4,7 +4,7 @@ title: "Baciami. Anzi no!"
 date: 2023-09-15 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/alfred_eisenstaedt.png
-categories: [Cultura, societ\u00e0]
+category: cultura-spettacolo
 tags: ["Amore", "Bacio", "Batteri", "Emozioni", "Fotografia", "Ricerca", "Romanticismo"]
 ---
 

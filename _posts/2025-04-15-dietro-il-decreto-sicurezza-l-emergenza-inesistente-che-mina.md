@@ -4,7 +4,7 @@ title: "Dietro il Decreto Sicurezza: l'emergenza inesistente che minaccia le lib
 date: 2025-04-15 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6312-1.jpg
-categories: [Cronaca, Politica Nazionale]
+category: cronaca-bianca
 tags: ["diritti", "diritti umani", "Etica", "Europa", "fascismo", "fascista", "giustizia", "Governo", "Identit\u00e0", "immigrazione", "Meloni", "migranti", "Migrazione", "odio", "politica", "repressione", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]
 ---
 
