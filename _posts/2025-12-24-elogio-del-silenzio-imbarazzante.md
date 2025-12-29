@@ -30,7 +30,7 @@ Pensateci un attimo. Quand'è stata l'ultima volta che siete rimasti in silenzio
 
 Faccio fatica a ricordarlo anch'io.
 
-![Un finestrino di treno con gocce di pioggia](/rossodiserablog/assets/images/uploads/silenzio2.png "Il Silenzio")
+![Un finestrino di treno con gocce di pioggia](/assets/images/uploads/silenzio2.png "Il Silenzio")
 
 Viviamo immersi in un rumore di fondo costante che abbiamo smesso di percepire, come i pesci non percepiscono l'acqua. La mattina ci svegliamo e la prima cosa che facciamo è controllare il telefono — messaggi, email, notizie, qualcuno che ci parla anche se non c'è nessuno nella stanza. Sotto la doccia mettiamo musica. In macchina, la radio o Spotify. Camminando per strada, le cuffie. In palestra, il podcast. In coda al supermercato, scroll. Aspettando l'autobus, scroll. Aspettando qualsiasi cosa, scroll.
 

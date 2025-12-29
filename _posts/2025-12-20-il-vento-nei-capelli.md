@@ -24,4 +24,4 @@ Non sto dicendo di fumare – quello lasciamolo agli anni '60. Sto dicendo che o
 
 **_Il vento sa quello che fa. Fidati._**
 
-![](/rossodiserablog/assets/images/uploads/il_vento_fra_i_capelli.png)
+![](/assets/images/uploads/il_vento_fra_i_capelli.png)
