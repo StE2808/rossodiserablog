@@ -281,168 +281,127 @@ body.menu-open {
     pointer-events: none;
 }
 
-/* Albero che cresce */
+/* Albero hero */
 .hero-tree {
     position: absolute;
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    width: 600px;
+    width: 500px;
     height: auto;
     pointer-events: none;
     z-index: 1;
 }
 
-/* Tronco */
-.tree-trunk {
-    stroke-dasharray: 250;
-    stroke-dashoffset: 250;
-    animation: grow-tree 2s ease-out forwards, sway 4s ease-in-out infinite 4s;
-    transform-origin: bottom center;
+.tree-group {
+    transform-origin: 200px 450px;
+    animation: sway 4s ease-in-out 3.5s infinite;
 }
 
-/* Rami con delay crescenti */
+.tree-trunk {
+    stroke-dasharray: 200;
+    stroke-dashoffset: 200;
+    animation: grow-trunk 1.5s ease-out forwards;
+}
+
 .tree-branch {
     stroke-dasharray: 150;
     stroke-dashoffset: 150;
-    transform-origin: bottom center;
 }
 
-.tree-branch.branch-1 {
-    animation: grow-tree 1.6s ease-out 0.6s forwards, sway 4s ease-in-out infinite 4s;
+/* Rami principali */
+.branch-main-1 { animation: grow-branch 0.7s ease-out 0.6s forwards; }
+.branch-main-2 { animation: grow-branch 0.7s ease-out 0.7s forwards; }
+.branch-main-3 { animation: grow-branch 0.7s ease-out 0.8s forwards; }
+.branch-main-4 { animation: grow-branch 0.7s ease-out 0.9s forwards; }
+.branch-main-5 { animation: grow-branch 0.7s ease-out 1.0s forwards; }
+.branch-main-6 { animation: grow-branch 0.7s ease-out 1.1s forwards; }
+
+/* Rami primari */
+.branch-primary-1 { animation: grow-branch 0.5s ease-out 1.2s forwards; }
+.branch-primary-2 { animation: grow-branch 0.5s ease-out 1.25s forwards; }
+.branch-primary-3 { animation: grow-branch 0.5s ease-out 1.3s forwards; }
+.branch-primary-4 { animation: grow-branch 0.5s ease-out 1.35s forwards; }
+.branch-primary-5 { animation: grow-branch 0.5s ease-out 1.4s forwards; }
+.branch-primary-6 { animation: grow-branch 0.5s ease-out 1.45s forwards; }
+.branch-primary-7 { animation: grow-branch 0.5s ease-out 1.5s forwards; }
+.branch-primary-8 { animation: grow-branch 0.5s ease-out 1.55s forwards; }
+.branch-primary-9 { animation: grow-branch 0.5s ease-out 1.6s forwards; }
+.branch-primary-10 { animation: grow-branch 0.5s ease-out 1.65s forwards; }
+
+/* Rami secondari */
+.branch-secondary-1 { animation: grow-branch 0.4s ease-out 1.7s forwards; }
+.branch-secondary-2 { animation: grow-branch 0.4s ease-out 1.73s forwards; }
+.branch-secondary-3 { animation: grow-branch 0.4s ease-out 1.76s forwards; }
+.branch-secondary-4 { animation: grow-branch 0.4s ease-out 1.79s forwards; }
+.branch-secondary-5 { animation: grow-branch 0.4s ease-out 1.82s forwards; }
+.branch-secondary-6 { animation: grow-branch 0.4s ease-out 1.85s forwards; }
+.branch-secondary-7 { animation: grow-branch 0.4s ease-out 1.88s forwards; }
+.branch-secondary-8 { animation: grow-branch 0.4s ease-out 1.91s forwards; }
+.branch-secondary-9 { animation: grow-branch 0.4s ease-out 1.94s forwards; }
+.branch-secondary-10 { animation: grow-branch 0.4s ease-out 1.97s forwards; }
+.branch-secondary-11 { animation: grow-branch 0.4s ease-out 2.0s forwards; }
+.branch-secondary-12 { animation: grow-branch 0.4s ease-out 2.03s forwards; }
+
+/* Rametti chioma */
+.twig-1 { animation: grow-branch 0.35s ease-out 2.1s forwards; }
+.twig-2 { animation: grow-branch 0.35s ease-out 2.12s forwards; }
+.twig-3 { animation: grow-branch 0.35s ease-out 2.14s forwards; }
+.twig-4 { animation: grow-branch 0.35s ease-out 2.16s forwards; }
+.twig-5 { animation: grow-branch 0.35s ease-out 2.18s forwards; }
+.twig-6 { animation: grow-branch 0.35s ease-out 2.20s forwards; }
+.twig-7 { animation: grow-branch 0.35s ease-out 2.22s forwards; }
+.twig-8 { animation: grow-branch 0.35s ease-out 2.24s forwards; }
+.twig-9 { animation: grow-branch 0.35s ease-out 2.26s forwards; }
+.twig-10 { animation: grow-branch 0.35s ease-out 2.28s forwards; }
+.twig-11 { animation: grow-branch 0.35s ease-out 2.30s forwards; }
+.twig-12 { animation: grow-branch 0.35s ease-out 2.32s forwards; }
+.twig-13 { animation: grow-branch 0.35s ease-out 2.34s forwards; }
+.twig-14 { animation: grow-branch 0.35s ease-out 2.36s forwards; }
+.twig-15 { animation: grow-branch 0.35s ease-out 2.38s forwards; }
+.twig-16 { animation: grow-branch 0.35s ease-out 2.40s forwards; }
+.twig-17 { animation: grow-branch 0.35s ease-out 2.42s forwards; }
+.twig-18 { animation: grow-branch 0.35s ease-out 2.44s forwards; }
+.twig-19 { animation: grow-branch 0.35s ease-out 2.46s forwards; }
+.twig-20 { animation: grow-branch 0.35s ease-out 2.48s forwards; }
+.twig-21 { animation: grow-branch 0.35s ease-out 2.50s forwards; }
+.twig-22 { animation: grow-branch 0.35s ease-out 2.52s forwards; }
+.twig-23 { animation: grow-branch 0.35s ease-out 2.54s forwards; }
+.twig-24 { animation: grow-branch 0.35s ease-out 2.56s forwards; }
+.twig-25 { animation: grow-branch 0.35s ease-out 2.58s forwards; }
+.twig-26 { animation: grow-branch 0.35s ease-out 2.60s forwards; }
+.twig-27 { animation: grow-branch 0.35s ease-out 2.62s forwards; }
+.twig-28 { animation: grow-branch 0.35s ease-out 2.64s forwards; }
+.twig-29 { animation: grow-branch 0.35s ease-out 2.66s forwards; }
+.twig-30 { animation: grow-branch 0.35s ease-out 2.68s forwards; }
+.twig-31 { animation: grow-branch 0.35s ease-out 2.70s forwards; }
+.twig-32 { animation: grow-branch 0.35s ease-out 2.72s forwards; }
+.twig-33 { animation: grow-branch 0.35s ease-out 2.74s forwards; }
+.twig-34 { animation: grow-branch 0.35s ease-out 2.76s forwards; }
+.twig-35 { animation: grow-branch 0.35s ease-out 2.78s forwards; }
+.twig-36 { animation: grow-branch 0.35s ease-out 2.80s forwards; }
+.twig-37 { animation: grow-branch 0.35s ease-out 2.82s forwards; }
+.twig-38 { animation: grow-branch 0.35s ease-out 2.84s forwards; }
+.twig-39 { animation: grow-branch 0.35s ease-out 2.86s forwards; }
+.twig-40 { animation: grow-branch 0.35s ease-out 2.88s forwards; }
+.twig-41 { animation: grow-branch 0.35s ease-out 2.90s forwards; }
+.twig-42 { animation: grow-branch 0.35s ease-out 2.92s forwards; }
+.twig-43 { animation: grow-branch 0.35s ease-out 2.94s forwards; }
+.twig-44 { animation: grow-branch 0.35s ease-out 2.96s forwards; }
+.twig-45 { animation: grow-branch 0.35s ease-out 2.98s forwards; }
+
+@keyframes grow-trunk {
+    to { stroke-dashoffset: 0; }
 }
 
-.tree-branch.branch-2 {
-    animation: grow-tree 1.6s ease-out 0.8s forwards, sway 4s ease-in-out infinite 4s;
+@keyframes grow-branch {
+    to { stroke-dashoffset: 0; }
 }
 
-.tree-branch.branch-3 {
-    animation: grow-tree 2s ease-out 1.2s forwards, sway 4s ease-in-out infinite 4.2s;
-}
-
-.tree-branch.branch-4 {
-    animation: grow-tree 2s ease-out 1.4s forwards, sway 4s ease-in-out infinite 4.2s;
-}
-
-.tree-branch.branch-5 {
-    animation: grow-tree 2s ease-out 1.8s forwards, sway 4s ease-in-out infinite 4.4s;
-}
-
-.tree-branch.branch-6 {
-    animation: grow-tree 2s ease-out 2s forwards, sway 4s ease-in-out infinite 4.4s;
-}
-
-.tree-branch.branch-7 {
-    animation: grow-tree 1.2s ease-out 2.4s forwards, sway 4s ease-in-out infinite 4.6s;
-}
-
-.tree-branch.branch-8 {
-    animation: grow-tree 1.2s ease-out 2.6s forwards, sway 4s ease-in-out infinite 4.6s;
-}
-
-.tree-branch.branch-9 {
-    animation: grow-tree 1.2s ease-out 2.8s forwards, sway 4s ease-in-out infinite 4.8s;
-}
-
-.tree-branch.branch-10 {
-    animation: grow-tree 1.2s ease-out 3s forwards, sway 4s ease-in-out infinite 4.8s;
-}
-
-.tree-branch.branch-11 {
-    animation: grow-tree 2s ease-out 2.2s forwards, sway 4s ease-in-out infinite 4.5s;
-}
-
-.tree-branch.branch-12 {
-    animation: grow-tree 2s ease-out 2.4s forwards, sway 4s ease-in-out infinite 4.5s;
-}
-
-.tree-branch.branch-13 {
-    animation: grow-tree 1.6s ease-out 1.6s forwards, sway 4s ease-in-out infinite 4.3s;
-}
-
-.tree-branch.branch-14 {
-    animation: grow-tree 1.6s ease-out 1.8s forwards, sway 4s ease-in-out infinite 4.3s;
-}
-
-.tree-branch.branch-15 {
-    animation: grow-tree 2s ease-out 2.6s forwards, sway 4s ease-in-out infinite 4.7s;
-}
-
-.tree-branch.branch-16 {
-    animation: grow-tree 2s ease-out 2.8s forwards, sway 4s ease-in-out infinite 4.7s;
-}
-
-.tree-branch.branch-17 {
-    animation: grow-tree 1.2s ease-out 1s forwards, sway 4s ease-in-out infinite 4.1s;
-}
-
-.tree-branch.branch-18 {
-    animation: grow-tree 1.2s ease-out 1.2s forwards, sway 4s ease-in-out infinite 4.1s;
-}
-
-.tree-branch.branch-19 {
-    animation: grow-tree 1.5s ease-out 2s forwards, sway 4s ease-in-out infinite 4.4s;
-}
-
-.tree-branch.branch-20 {
-    animation: grow-tree 1.5s ease-out 2.1s forwards, sway 4s ease-in-out infinite 4.4s;
-}
-
-.tree-branch.branch-21 {
-    animation: grow-tree 1.5s ease-out 2.3s forwards, sway 4s ease-in-out infinite 4.5s;
-}
-
-.tree-branch.branch-22 {
-    animation: grow-tree 1.5s ease-out 2.4s forwards, sway 4s ease-in-out infinite 4.5s;
-}
-
-.tree-branch.branch-23 {
-    animation: grow-tree 1.4s ease-out 1.7s forwards, sway 4s ease-in-out infinite 4.3s;
-}
-
-.tree-branch.branch-24 {
-    animation: grow-tree 1.4s ease-out 1.8s forwards, sway 4s ease-in-out infinite 4.3s;
-}
-
-.tree-branch.branch-25 {
-    animation: grow-tree 1.3s ease-out 2.5s forwards, sway 4s ease-in-out infinite 4.6s;
-}
-
-.tree-branch.branch-26 {
-    animation: grow-tree 1.3s ease-out 2.6s forwards, sway 4s ease-in-out infinite 4.6s;
-}
-
-.tree-branch.branch-27 {
-    animation: grow-tree 1.3s ease-out 2.2s forwards, sway 4s ease-in-out infinite 4.5s;
-}
-
-.tree-branch.branch-28 {
-    animation: grow-tree 1.3s ease-out 2.3s forwards, sway 4s ease-in-out infinite 4.5s;
-}
-
-/* Animazione crescita */
-@keyframes grow-tree {
-    from {
-        stroke-dashoffset: 150;
-        opacity: 0;
-    }
-    to {
-        stroke-dashoffset: 0;
-        opacity: 1;
-    }
-}
-
-/* Animazione oscillazione */
 @keyframes sway {
-    0%, 100% {
-        transform: rotate(0deg);
-    }
-    25% {
-        transform: rotate(2.5deg);
-    }
-    75% {
-        transform: rotate(-2.5deg);
-    }
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(1deg); }
+    75% { transform: rotate(-1deg); }
 }
 
 .hero-content {
@@ -1357,7 +1316,7 @@ footer {
 
     /* Albero responsive */
     .hero-tree {
-        width: 360px;
+        width: 300px;
     }
 }
 

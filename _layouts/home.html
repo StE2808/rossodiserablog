@@ -5,137 +5,105 @@ layout: default
 <!-- HERO -->
 <section class="hero">
     <!-- Albero che cresce -->
-    <svg class="hero-tree" viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg">
-        <!-- Tronco principale -->
-        <path class="tree-trunk"
-              d="M200 600 L200 350"
-              stroke="rgba(255,255,255,0.08)" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <svg class="hero-tree" viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+    <g class="tree-group">
+        <!-- TRONCO -->
+        <path class="tree-trunk" d="M200 450 L200 270" stroke="rgba(255,255,255,0.12)" stroke-width="7" fill="none" stroke-linecap="round"/>
 
-        <!-- Ramo principale sinistro basso -->
-        <path class="tree-branch branch-1"
-              d="M200 450 Q180 420 150 380"
-              stroke="rgba(255,255,255,0.08)" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <!-- RAMI PRINCIPALI (6) -->
+        <path class="tree-branch branch-main-1" d="M200 320 Q160 280 120 230" stroke="rgba(255,255,255,0.11)" stroke-width="5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-main-2" d="M200 320 Q240 280 280 230" stroke="rgba(255,255,255,0.11)" stroke-width="5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-main-3" d="M200 290 Q170 250 140 200" stroke="rgba(255,255,255,0.11)" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-main-4" d="M200 290 Q230 250 260 200" stroke="rgba(255,255,255,0.11)" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-main-5" d="M200 270 Q200 200 200 120" stroke="rgba(255,255,255,0.11)" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-main-6" d="M200 280 Q185 220 175 160" stroke="rgba(255,255,255,0.10)" stroke-width="3.5" fill="none" stroke-linecap="round"/>
 
-        <!-- Ramo principale destro basso -->
-        <path class="tree-branch branch-2"
-              d="M200 450 Q220 420 250 380"
-              stroke="rgba(255,255,255,0.08)" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <!-- RAMI PRIMARI (10) -->
+        <path class="tree-branch branch-primary-1" d="M120 230 Q100 210 85 185" stroke="rgba(255,255,255,0.09)" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-2" d="M120 230 Q130 200 140 170" stroke="rgba(255,255,255,0.09)" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-3" d="M280 230 Q300 210 315 185" stroke="rgba(255,255,255,0.09)" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-4" d="M280 230 Q270 200 260 170" stroke="rgba(255,255,255,0.09)" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-5" d="M140 200 Q115 180 95 155" stroke="rgba(255,255,255,0.09)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-6" d="M140 200 Q150 170 160 140" stroke="rgba(255,255,255,0.09)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-7" d="M260 200 Q285 180 305 155" stroke="rgba(255,255,255,0.09)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-8" d="M260 200 Q250 170 240 140" stroke="rgba(255,255,255,0.09)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-9" d="M200 180 Q180 150 165 120" stroke="rgba(255,255,255,0.09)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-primary-10" d="M200 180 Q220 150 235 120" stroke="rgba(255,255,255,0.09)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
 
-        <!-- Ramo medio sinistro -->
-        <path class="tree-branch branch-3"
-              d="M200 400 Q175 370 140 330 M140 330 Q130 310 120 290"
-              stroke="rgba(255,255,255,0.08)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        <!-- RAMI SECONDARI (12) -->
+        <path class="tree-branch branch-secondary-1" d="M85 185 Q70 170 60 155" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-2" d="M85 185 Q90 165 100 145" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-3" d="M140 170 Q125 150 115 130" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-4" d="M160 140 Q150 115 145 95" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-5" d="M165 120 Q150 100 140 80" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-6" d="M175 160 Q165 130 160 105" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-7" d="M235 120 Q250 100 260 80" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-8" d="M225 160 Q235 130 240 105" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-9" d="M260 170 Q275 150 285 130" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-10" d="M240 140 Q250 115 255 95" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-11" d="M315 185 Q330 170 340 155" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch branch-secondary-12" d="M315 185 Q310 165 300 145" stroke="rgba(255,255,255,0.07)" stroke-width="2" fill="none" stroke-linecap="round"/>
 
-        <!-- Ramo medio destro -->
-        <path class="tree-branch branch-4"
-              d="M200 400 Q225 370 260 330 M260 330 Q270 310 280 290"
-              stroke="rgba(255,255,255,0.08)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-
-        <!-- Ramo alto sinistro -->
-        <path class="tree-branch branch-5"
-              d="M200 360 Q180 330 160 290 M160 290 Q150 270 140 240"
-              stroke="rgba(255,255,255,0.08)" stroke-width="2" fill="none" stroke-linecap="round"/>
-
-        <!-- Ramo alto destro -->
-        <path class="tree-branch branch-6"
-              d="M200 360 Q220 330 240 290 M240 290 Q250 270 260 240"
-              stroke="rgba(255,255,255,0.08)" stroke-width="2" fill="none" stroke-linecap="round"/>
-
-        <!-- Rametti finali sinistri -->
-        <path class="tree-branch branch-7"
-              d="M140 330 Q125 315 110 300"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-8"
-              d="M160 290 Q145 270 130 250"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <!-- Rametti finali destri -->
-        <path class="tree-branch branch-9"
-              d="M260 330 Q275 315 290 300"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-10"
-              d="M240 290 Q255 270 270 250"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <!-- Chioma folta - rami superiori aggiuntivi -->
-        <path class="tree-branch branch-11"
-              d="M140 240 Q120 220 100 200 M100 200 Q90 185 80 170"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-12"
-              d="M260 240 Q280 220 300 200 M300 200 Q310 185 320 170"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-13"
-              d="M200 350 Q185 320 170 280"
-              stroke="rgba(255,255,255,0.08)" stroke-width="2" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-14"
-              d="M200 350 Q215 320 230 280"
-              stroke="rgba(255,255,255,0.08)" stroke-width="2" fill="none" stroke-linecap="round"/>
-
-        <!-- Rametti molto alti -->
-        <path class="tree-branch branch-15"
-              d="M170 280 Q160 260 150 230 M150 230 Q145 210 140 190"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-16"
-              d="M230 280 Q240 260 250 230 M250 230 Q255 210 260 190"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <!-- Rametti sottili per volume -->
-        <path class="tree-branch branch-17"
-              d="M150 380 Q135 360 120 340"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-18"
-              d="M250 380 Q265 360 280 340"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <!-- Chioma folta - rami aggiuntivi -->
-        <path class="tree-branch branch-19"
-              d="M180 320 Q165 300 150 270"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-20"
-              d="M220 320 Q235 300 250 270"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-21"
-              d="M190 300 Q175 280 160 250"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-22"
-              d="M210 300 Q225 280 240 250"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-23"
-              d="M200 340 Q185 315 170 285"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-24"
-              d="M200 340 Q215 315 230 285"
-              stroke="rgba(255,255,255,0.08)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-
-        <!-- Rametti finissimi per densità -->
-        <path class="tree-branch branch-25"
-              d="M160 250 Q150 235 140 220"
-              stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-26"
-              d="M240 250 Q250 235 260 220"
-              stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-27"
-              d="M170 280 Q160 265 150 245"
-              stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
-
-        <path class="tree-branch branch-28"
-              d="M230 280 Q240 265 250 245"
-              stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
-    </svg>
+        <!-- RAMETTI FINI - CHIOMA (45) -->
+        <!-- Bordo sinistro (corti) -->
+        <path class="tree-branch twig-1" d="M60 155 Q50 145 45 135" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-2" d="M60 155 Q65 140 70 130" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-3" d="M70 165 Q55 155 45 145" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Sinistra esterna -->
+        <path class="tree-branch twig-4" d="M100 145 Q85 130 75 115" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-5" d="M100 145 Q105 125 110 110" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-6" d="M95 155 Q80 140 70 125" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Sinistra media -->
+        <path class="tree-branch twig-7" d="M115 130 Q100 115 90 100" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-8" d="M115 130 Q120 110 125 95" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-9" d="M125 140 Q110 125 100 110" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Sinistra interna -->
+        <path class="tree-branch twig-10" d="M145 95 Q135 75 130 60" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-11" d="M145 95 Q150 70 155 55" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-12" d="M140 110 Q125 90 115 75" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Centro sinistra -->
+        <path class="tree-branch twig-13" d="M140 80 Q130 60 125 45" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-14" d="M160 105 Q150 80 145 60" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-15" d="M155 90 Q145 70 140 55" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Centro -->
+        <path class="tree-branch twig-16" d="M200 120 Q200 85 200 55" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-17" d="M200 100 Q185 70 175 50" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-18" d="M200 100 Q215 70 225 50" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-19" d="M190 110 Q180 85 175 65" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-20" d="M210 110 Q220 85 225 65" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-21" d="M195 90 Q185 65 180 45" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-22" d="M205 90 Q215 65 220 45" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Centro destra -->
+        <path class="tree-branch twig-23" d="M260 80 Q270 60 275 45" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-24" d="M240 105 Q250 80 255 60" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-25" d="M245 90 Q255 70 260 55" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Destra interna -->
+        <path class="tree-branch twig-26" d="M255 95 Q265 75 270 60" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-27" d="M255 95 Q250 70 245 55" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-28" d="M260 110 Q275 90 285 75" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Destra media -->
+        <path class="tree-branch twig-29" d="M285 130 Q300 115 310 100" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-30" d="M285 130 Q280 110 275 95" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-31" d="M275 140 Q290 125 300 110" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Destra esterna -->
+        <path class="tree-branch twig-32" d="M300 145 Q315 130 325 115" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-33" d="M300 145 Q295 125 290 110" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-34" d="M305 155 Q320 140 330 125" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Bordo destro (corti) -->
+        <path class="tree-branch twig-35" d="M340 155 Q350 145 355 135" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-36" d="M340 155 Q335 140 330 130" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-37" d="M330 165 Q345 155 355 145" stroke="rgba(255,255,255,0.06)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <!-- Extra densità -->
+        <path class="tree-branch twig-38" d="M170 100 Q160 80 155 65" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-39" d="M230 100 Q240 80 245 65" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-40" d="M180 80 Q170 60 165 45" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-41" d="M220 80 Q230 60 235 45" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-42" d="M150 120 Q135 100 125 85" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-43" d="M250 120 Q265 100 275 85" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-44" d="M200 75 Q190 55 185 40" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" stroke-linecap="round"/>
+        <path class="tree-branch twig-45" d="M200 75 Q210 55 215 40" stroke="rgba(255,255,255,0.05)" stroke-width="1" fill="none" stroke-linecap="round"/>
+    </g>
+</svg>
 
     <div class="hero-content">
         <p class="hero-subtitle">Un blog di pensiero critico</p>
