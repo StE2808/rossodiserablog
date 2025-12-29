@@ -133,12 +133,12 @@ layout: default
         {% for post in site.posts limit:10 %}
         <article class="article-card">
             {% if post.image %}
-            <div class="article-image">
+            <a href="{{ post.url | relative_url }}" class="article-image">
                 <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
                 {% if post.category %}
                 <span class="article-category">{{ post.category }}</span>
                 {% endif %}
-            </div>
+            </a>
             {% endif %}
             <div class="article-content">
                 <div class="article-meta">

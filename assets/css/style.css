@@ -625,6 +625,8 @@ body.menu-open {
     position: relative;
     height: 220px;
     overflow: hidden;
+    display: block;
+    cursor: pointer;
 }
 
 .article-image img {
@@ -632,6 +634,10 @@ body.menu-open {
     height: 100%;
     object-fit: cover;
     transition: transform 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.article-image:hover img {
+    transform: scale(1.08);
 }
 
 .article-card:hover .article-image img {
