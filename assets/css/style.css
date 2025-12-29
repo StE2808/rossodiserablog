@@ -380,6 +380,46 @@ body.menu-open {
     animation: grow-tree 1.2s ease-out 1.2s forwards, sway 4s ease-in-out infinite 4.1s;
 }
 
+.tree-branch.branch-19 {
+    animation: grow-tree 1.5s ease-out 2s forwards, sway 4s ease-in-out infinite 4.4s;
+}
+
+.tree-branch.branch-20 {
+    animation: grow-tree 1.5s ease-out 2.1s forwards, sway 4s ease-in-out infinite 4.4s;
+}
+
+.tree-branch.branch-21 {
+    animation: grow-tree 1.5s ease-out 2.3s forwards, sway 4s ease-in-out infinite 4.5s;
+}
+
+.tree-branch.branch-22 {
+    animation: grow-tree 1.5s ease-out 2.4s forwards, sway 4s ease-in-out infinite 4.5s;
+}
+
+.tree-branch.branch-23 {
+    animation: grow-tree 1.4s ease-out 1.7s forwards, sway 4s ease-in-out infinite 4.3s;
+}
+
+.tree-branch.branch-24 {
+    animation: grow-tree 1.4s ease-out 1.8s forwards, sway 4s ease-in-out infinite 4.3s;
+}
+
+.tree-branch.branch-25 {
+    animation: grow-tree 1.3s ease-out 2.5s forwards, sway 4s ease-in-out infinite 4.6s;
+}
+
+.tree-branch.branch-26 {
+    animation: grow-tree 1.3s ease-out 2.6s forwards, sway 4s ease-in-out infinite 4.6s;
+}
+
+.tree-branch.branch-27 {
+    animation: grow-tree 1.3s ease-out 2.2s forwards, sway 4s ease-in-out infinite 4.5s;
+}
+
+.tree-branch.branch-28 {
+    animation: grow-tree 1.3s ease-out 2.3s forwards, sway 4s ease-in-out infinite 4.5s;
+}
+
 /* Animazione crescita */
 @keyframes grow-tree {
     from {
