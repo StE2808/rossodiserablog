@@ -12,4 +12,4 @@ Ogni membro, indipendentemente dalla propria provenienza, mette in comune la pro
 
 Se condividi i nostri valori e hai voglia di contribuire con la tua voce, la tua esperienza o semplicemente le tue idee, saremo felici di conoscerti. La nostra redazione è sempre aperta a nuovi talenti e punti di vista.
 
-**[Contattaci →](https://ste2808.github.io/rossodiserablog/contatti/)**
+**[Contattaci →](https://rossodiserablog.it/contatti/)**

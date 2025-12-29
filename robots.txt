@@ -1,11 +1,11 @@
 # Robots.txt per Rosso di Sera
-# https://ste2808.github.io/rossodiserablog/
+# https://rossodiserablog.it
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://ste2808.github.io/rossodiserablog/sitemap.xml
+Sitemap: https://rossodiserablog.it/sitemap.xml
 
 # Blocca accesso al pannello admin
 Disallow: /admin/

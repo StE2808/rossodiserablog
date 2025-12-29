@@ -119,7 +119,7 @@ Il CMS è ora configurato con:
 ### Accesso al CMS:
 
 Il CMS è già accessibile all'indirizzo:
-**https://ste2808.github.io/rossodiserablog/admin/**
+**https://rossodiserablog.it/admin/**
 
 ### Come funziona l'autenticazione:
 
