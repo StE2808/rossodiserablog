@@ -14,7 +14,7 @@ tags:
 image: /assets/images/uploads/silenzio.png
 excerpt: 'Quattro secondi di silenzio bastano a farci sentire rifiutati. Eppure, nella corsa a riempire ogni pausa con notifiche e parole, abbiamo perso qualcosa: lo spazio per pensare, ascoltare davvero, stare con noi stessi. Il silenzio non è vuoto — è presenza di tutto il resto.'
 ---
-## Quattro secondi.
+# **Quattro secondi.**
 
 È questo il tempo che ci separa dal disagio. Quattro secondi di silenzio in una conversazione, e già il cervello lancia l'allarme rosso. Non lo dico io — lo dice Namkje Koudenburg, psicologa dell'Università di Groningen, che nel 2011 ha misurato con precisione chirurgica il nostro terrore del vuoto sonoro. Quattro secondi, e ci sentiamo rifiutati, esclusi, in pericolo. Come se qualcuno ci avesse appena comunicato che non siamo più parte del gruppo, che la tribù ci ha voltato le spalle, che stanotte dormiremo fuori dalla caverna.
 
