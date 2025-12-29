@@ -260,22 +260,30 @@ body.menu-open {
 }
 
 .mobile-menu-categories {
-    display: flex;
+    display: none;
     flex-wrap: wrap;
     justify-content: center;
     gap: 0.8rem;
     max-width: 320px;
-    max-height: 0;
     overflow: hidden;
     margin-top: 0;
-    opacity: 0;
-    transition: all 0.4s ease;
 }
 
 .mobile-categories-dropdown.active .mobile-menu-categories {
-    max-height: 500px;
+    display: flex;
     margin-top: 1rem;
-    opacity: 1;
+    animation: slideDown 0.4s ease;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .mobile-menu-categories a {
