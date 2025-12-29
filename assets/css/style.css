@@ -287,7 +287,7 @@ body.menu-open {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    width: 500px;
+    width: 600px;
     height: auto;
     pointer-events: none;
     z-index: 1;
@@ -297,7 +297,7 @@ body.menu-open {
 .tree-trunk {
     stroke-dasharray: 250;
     stroke-dashoffset: 250;
-    animation: grow-tree 1s ease-out forwards, sway 4s ease-in-out infinite 3s;
+    animation: grow-tree 2s ease-out forwards, sway 4s ease-in-out infinite 4s;
     transform-origin: bottom center;
 }
 
@@ -309,75 +309,75 @@ body.menu-open {
 }
 
 .tree-branch.branch-1 {
-    animation: grow-tree 0.8s ease-out 0.3s forwards, sway 4s ease-in-out infinite 3s;
+    animation: grow-tree 1.6s ease-out 0.6s forwards, sway 4s ease-in-out infinite 4s;
 }
 
 .tree-branch.branch-2 {
-    animation: grow-tree 0.8s ease-out 0.4s forwards, sway 4s ease-in-out infinite 3s;
+    animation: grow-tree 1.6s ease-out 0.8s forwards, sway 4s ease-in-out infinite 4s;
 }
 
 .tree-branch.branch-3 {
-    animation: grow-tree 1s ease-out 0.6s forwards, sway 4s ease-in-out infinite 3.2s;
+    animation: grow-tree 2s ease-out 1.2s forwards, sway 4s ease-in-out infinite 4.2s;
 }
 
 .tree-branch.branch-4 {
-    animation: grow-tree 1s ease-out 0.7s forwards, sway 4s ease-in-out infinite 3.2s;
+    animation: grow-tree 2s ease-out 1.4s forwards, sway 4s ease-in-out infinite 4.2s;
 }
 
 .tree-branch.branch-5 {
-    animation: grow-tree 1s ease-out 0.9s forwards, sway 4s ease-in-out infinite 3.4s;
+    animation: grow-tree 2s ease-out 1.8s forwards, sway 4s ease-in-out infinite 4.4s;
 }
 
 .tree-branch.branch-6 {
-    animation: grow-tree 1s ease-out 1s forwards, sway 4s ease-in-out infinite 3.4s;
+    animation: grow-tree 2s ease-out 2s forwards, sway 4s ease-in-out infinite 4.4s;
 }
 
 .tree-branch.branch-7 {
-    animation: grow-tree 0.6s ease-out 1.2s forwards, sway 4s ease-in-out infinite 3.6s;
+    animation: grow-tree 1.2s ease-out 2.4s forwards, sway 4s ease-in-out infinite 4.6s;
 }
 
 .tree-branch.branch-8 {
-    animation: grow-tree 0.6s ease-out 1.3s forwards, sway 4s ease-in-out infinite 3.6s;
+    animation: grow-tree 1.2s ease-out 2.6s forwards, sway 4s ease-in-out infinite 4.6s;
 }
 
 .tree-branch.branch-9 {
-    animation: grow-tree 0.6s ease-out 1.4s forwards, sway 4s ease-in-out infinite 3.8s;
+    animation: grow-tree 1.2s ease-out 2.8s forwards, sway 4s ease-in-out infinite 4.8s;
 }
 
 .tree-branch.branch-10 {
-    animation: grow-tree 0.6s ease-out 1.5s forwards, sway 4s ease-in-out infinite 3.8s;
+    animation: grow-tree 1.2s ease-out 3s forwards, sway 4s ease-in-out infinite 4.8s;
 }
 
 .tree-branch.branch-11 {
-    animation: grow-tree 1s ease-out 1.1s forwards, sway 4s ease-in-out infinite 3.5s;
+    animation: grow-tree 2s ease-out 2.2s forwards, sway 4s ease-in-out infinite 4.5s;
 }
 
 .tree-branch.branch-12 {
-    animation: grow-tree 1s ease-out 1.2s forwards, sway 4s ease-in-out infinite 3.5s;
+    animation: grow-tree 2s ease-out 2.4s forwards, sway 4s ease-in-out infinite 4.5s;
 }
 
 .tree-branch.branch-13 {
-    animation: grow-tree 0.8s ease-out 0.8s forwards, sway 4s ease-in-out infinite 3.3s;
+    animation: grow-tree 1.6s ease-out 1.6s forwards, sway 4s ease-in-out infinite 4.3s;
 }
 
 .tree-branch.branch-14 {
-    animation: grow-tree 0.8s ease-out 0.9s forwards, sway 4s ease-in-out infinite 3.3s;
+    animation: grow-tree 1.6s ease-out 1.8s forwards, sway 4s ease-in-out infinite 4.3s;
 }
 
 .tree-branch.branch-15 {
-    animation: grow-tree 1s ease-out 1.3s forwards, sway 4s ease-in-out infinite 3.7s;
+    animation: grow-tree 2s ease-out 2.6s forwards, sway 4s ease-in-out infinite 4.7s;
 }
 
 .tree-branch.branch-16 {
-    animation: grow-tree 1s ease-out 1.4s forwards, sway 4s ease-in-out infinite 3.7s;
+    animation: grow-tree 2s ease-out 2.8s forwards, sway 4s ease-in-out infinite 4.7s;
 }
 
 .tree-branch.branch-17 {
-    animation: grow-tree 0.6s ease-out 0.5s forwards, sway 4s ease-in-out infinite 3.1s;
+    animation: grow-tree 1.2s ease-out 1s forwards, sway 4s ease-in-out infinite 4.1s;
 }
 
 .tree-branch.branch-18 {
-    animation: grow-tree 0.6s ease-out 0.6s forwards, sway 4s ease-in-out infinite 3.1s;
+    animation: grow-tree 1.2s ease-out 1.2s forwards, sway 4s ease-in-out infinite 4.1s;
 }
 
 /* Animazione crescita */
@@ -1317,7 +1317,7 @@ footer {
 
     /* Albero responsive */
     .hero-tree {
-        width: 300px;
+        width: 360px;
     }
 }
 
