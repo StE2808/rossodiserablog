@@ -1221,6 +1221,11 @@ footer {
     color: var(--rosso-accent);
 }
 
+/* Hide dropdown icon on desktop */
+.footer-dropdown-icon {
+    display: none;
+}
+
 .footer-bottom {
     max-width: 1400px;
     margin: 4rem auto 0;
@@ -1301,6 +1306,36 @@ footer {
     .footer-bottom {
         flex-direction: column;
         gap: 1.5rem;
+    }
+
+    /* Footer categories dropdown (mobile only) */
+    .footer-dropdown-icon {
+        display: inline-block;
+        margin-left: 0.5rem;
+        vertical-align: middle;
+        transition: transform 0.3s ease;
+    }
+
+    .footer-toggle {
+        cursor: pointer;
+        user-select: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+    }
+
+    .footer-toggle[aria-expanded="true"] .footer-dropdown-icon {
+        transform: rotate(180deg);
+    }
+
+    .footer-categories-list {
+        display: none;
+    }
+
+    .footer-categories.active .footer-categories-list {
+        display: block;
+        animation: slideDown 0.4s ease;
     }
 
     .post-single {

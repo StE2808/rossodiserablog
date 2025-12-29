@@ -99,9 +99,14 @@
                     <li><a href="{{ '/contatti' | relative_url }}">Contatti</a></li>
                 </ul>
             </div>
-            <div class="footer-section">
-                <h4>Categorie</h4>
-                <ul>
+            <div class="footer-section footer-categories">
+                <h4 class="footer-toggle" aria-expanded="false">
+                    Categorie
+                    <svg class="footer-dropdown-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M6 9l6 6 6-6"/>
+                    </svg>
+                </h4>
+                <ul class="footer-categories-list">
                     <li><a href="{{ '/categoria/ambiente' | relative_url }}">Ambiente</a></li>
                     <li><a href="{{ '/categoria/cronaca-bianca' | relative_url }}">Cronaca Bianca</a></li>
                     <li><a href="{{ '/categoria/cronaca-giudiziaria' | relative_url }}">Cronaca Giudiziaria</a></li>
@@ -187,6 +192,18 @@
                 const isExpanded = categoriesToggle.getAttribute('aria-expanded') === 'true';
                 categoriesToggle.setAttribute('aria-expanded', !isExpanded);
                 categoriesDropdown.classList.toggle('active');
+            });
+        }
+
+        // Footer categories dropdown toggle (mobile)
+        const footerToggle = document.querySelector('.footer-toggle');
+        const footerCategories = document.querySelector('.footer-categories');
+
+        if (footerToggle) {
+            footerToggle.addEventListener('click', () => {
+                const isExpanded = footerToggle.getAttribute('aria-expanded') === 'true';
+                footerToggle.setAttribute('aria-expanded', !isExpanded);
+                footerCategories.classList.toggle('active');
             });
         }
     </script>
