@@ -134,7 +134,9 @@ layout: default
         <article class="article-card">
             {% if post.image %}
             <div class="article-image">
-                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                <a href="{{ post.url | relative_url }}" class="image-link">
+                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                </a>
                 {% if post.category %}
                 <span class="article-category">{{ post.category }}</span>
                 {% endif %}

@@ -627,6 +627,12 @@ body.menu-open {
     overflow: hidden;
 }
 
+.article-image .image-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
 .article-image img {
     width: 100%;
     height: 100%;
