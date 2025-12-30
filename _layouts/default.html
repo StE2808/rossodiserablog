@@ -13,10 +13,10 @@
     <meta name="description" content="{{ page.description | default: page.excerpt | strip_html | truncate: 160 }}">
 
     <!-- SEO -->
-    {% seo %}
+    {% seo title=false %}
 
-    <!-- Open Graph overrides -->
-    <meta property="og:title" content="{{ effective_title | default: page.title }}">
+    <!-- Custom title with seo_title support -->
+    <meta property="og:title" content="{{ effective_title }}">
     {% if page.image_alt %}
     <meta property="og:image:alt" content="{{ page.image_alt }}">
     {% elsif page.title %}
