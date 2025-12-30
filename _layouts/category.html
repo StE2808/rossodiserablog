@@ -18,7 +18,7 @@ layout: default
         <article class="article-card">
             {% if post.image %}
             <div class="article-image">
-                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}">
                 <span class="article-category">{{ post.category | replace: "-", " " | capitalize }}</span>
             </div>
             {% endif %}

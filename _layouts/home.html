@@ -135,7 +135,7 @@ layout: default
             {% if post.image %}
             <div class="article-image">
                 <a href="{{ post.url | relative_url }}" class="image-link">
-                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                    <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}">
                 </a>
                 {% if post.category %}
                 <span class="article-category">{{ post.category }}</span>
