@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Antipatico e’ bello"
+title: "Antipatico e' bello"
 date: 2024-04-17 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/04/img_4811-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "L’Antipatia nella Amministrazione del Governo: Il Ruolo di un Pensiero Lungimirante e Non Populista Nella complessa danza della politica, l'antipatia è..."
+description: "L'Antipatia nella Amministrazione del Governo: Il Ruolo di un Pensiero Lungimirante e Non Populista Nella complessa danza della politica, l'antipatia è..."
 tags: ["antipatia", "diritti", "Etica", "Governo", "odio", "politica", "societ\u00e0", "Solidariet\u00e0", "Umanit\u00e0"]
 ---
-L’Antipatia nella Amministrazione del Governo: Il Ruolo di un Pensiero Lungimirante e Non Populista
+L'Antipatia nella Amministrazione del Governo: Il Ruolo di un Pensiero Lungimirante e Non Populista
 
 Nella complessa danza della politica, l'antipatia è spesso considerata una nota stonata da evitare. Siamo guidati da populisti che cercano sempre di più la complicità e sono spaventati da un pensiero dirompente di rottura.
 
-Tuttavia, una riflessione più profonda rivela che questa emozione, l’antipatia appunto, apparentemente negativa, può svolgere un ruolo cruciale nell'efficace gestione del governo, soprattutto in presenza di pensiero profondo, di programmi politici accurati.
+Tuttavia, una riflessione più profonda rivela che questa emozione, l'antipatia appunto, apparentemente negativa, può svolgere un ruolo cruciale nell'efficace gestione del governo, soprattutto in presenza di pensiero profondo, di programmi politici accurati.
 
 Così dirompe l'importanza di un pensiero lungimirante e non populista nella sfera politica, considerando il contributo positivo che l'antipatia può apportare in questo contesto.
 

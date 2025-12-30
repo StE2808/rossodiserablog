@@ -5,13 +5,13 @@ date: 2024-02-24 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/02/img_4628-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Studenti manifestano per la pace in Palestina e vengono manganellati. E’ successo in Italia, in varie piazze"
+description: "Studenti manifestano per la pace in Palestina e vengono manganellati. E' successo in Italia, in varie piazze"
 category: cronaca-bianca
 tags: ["Cultura", "diritti", "diritti umani", "Etica", "Firenze", "giustizia", "Governo", "manifestazioni", "Meloni", "odio", "Pace", "palestina", "Pisa", "politica", "repressione", "resistenza", "sicurezza", "sociale", "Solidariet\u00e0", "studenti", "violenza"]
 ---
-Studenti manifestano per la pace in Palestina e vengono manganellati. E’ successo in Italia, in varie piazze. Ieri a Firenze ed a Pisa.
+Studenti manifestano per la pace in Palestina e vengono manganellati. E' successo in Italia, in varie piazze. Ieri a Firenze ed a Pisa.
 
-Non e’ tollerabile. Questi episodi di violenza però non sono frutto di singoli comportamenti di agenti o di reparti che non rispettano ordini, bensì, questi inaccettabili comportamenti violenti, fanno parte di una nuova politica, la politica neofascista meloniana.
+Non e' tollerabile. Questi episodi di violenza però non sono frutto di singoli comportamenti di agenti o di reparti che non rispettano ordini, bensì, questi inaccettabili comportamenti violenti, fanno parte di una nuova politica, la politica neofascista meloniana.
 
     
 ![](images/2024/02/img_4628-1.webp)

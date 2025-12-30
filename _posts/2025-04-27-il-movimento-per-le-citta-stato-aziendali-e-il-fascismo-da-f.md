@@ -5,11 +5,11 @@ date: 2025-04-27 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6354-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "C’è una novita’ preoccupante all’orizzonte. Una nuova forma amministrativa mai sperimentata prima: le città-stato aziendali"
+description: "C'è una novita' preoccupante all'orizzonte. Una nuova forma amministrativa mai sperimentata prima: le città-stato aziendali"
 category: cultura-spettacolo
 tags: ["Citt\u00e0", "diritti", "Europa", "freedom cities", "giustizia", "Governo", "offshore", "politica", "seasteading", "societ\u00e0", "USA"]
 ---
-C’è una novita’ preoccupante all’orizzonte. Una nuova forma amministrativa mai sperimentata prima: le città-stato aziendali.
+C'è una novita' preoccupante all'orizzonte. Una nuova forma amministrativa mai sperimentata prima: le città-stato aziendali.
 
 Il movimento per la creazione di città-stato aziendali, inizialmente considerato marginale con progetti come le "seasteading" in acque internazionali o le "freedom cities" come Próspera in Honduras, ha ora trovato un'inaspettata accoglienza nel cuore del potere globale con l'amministrazione Trump, che ha promesso di creare 10 "città della libertà" su terreni federali.
 
@@ -21,4 +21,4 @@ Questa ideologia è evidente nelle politiche dell'amministrazione Trump, nell'os
 
 Per contrastare questo movimento apocalittico, si dovrebbe costruire un'alleanza ampia basata sull'interdipendenza e sull'appartenenza, non sulla separazione e supremazia, rimanendo fedeli alla realtà terrena invece di cercare rifugi esclusivi o mondi virtuali. Insomma un concetto universale di "hereness" (l'essere qui) - il diritto di vivere con dignità ovunque sul pianeta, radicato nella solidarietà e libero da nazionalismo.​​​​​​​​​​​​​​​​
 
-Veramente è giunto il momento di suonare la sveglia, iniziando con l’andare a votare al prossimo appuntamento referendario, prima che sia troppo tardi. Un messaggio chiaro di dissenso a questo governo serve urgentemente. Per poi realizzare un cambio di rotta in Europa con la realizzazione dí una federazione di Stati, gli Stati Uniti d’Europa, utile se non necessario, per contrastare il turbocapitalismo a stelle e strisce e sperare di fermare la realizzazione progetti come questi.
+Veramente è giunto il momento di suonare la sveglia, iniziando con l'andare a votare al prossimo appuntamento referendario, prima che sia troppo tardi. Un messaggio chiaro di dissenso a questo governo serve urgentemente. Per poi realizzare un cambio di rotta in Europa con la realizzazione dí una federazione di Stati, gli Stati Uniti d'Europa, utile se non necessario, per contrastare il turbocapitalismo a stelle e strisce e sperare di fermare la realizzazione progetti come questi.

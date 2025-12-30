@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“La Luna Piena” di Sogni e Conflitti: Geopolitica della Corsa alla Luna"
+title: ""La Luna Piena" di Sogni e Conflitti: Geopolitica della Corsa alla Luna"
 date: 2023-09-23 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/sliver_moon.webp

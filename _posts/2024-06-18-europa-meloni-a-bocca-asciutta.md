@@ -5,10 +5,10 @@ date: 2024-06-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/06/img_5072-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Era partita con la lancia in resta, era tutta galvanizzata ed era sicura di fare “un figurone”. Aveva fatto i conti dell’oste ma non quelli della politica"
+description: "Era partita con la lancia in resta, era tutta galvanizzata ed era sicura di fare "un figurone". Aveva fatto i conti dell'oste ma non quelli della politica"
 category: politica-estera
 ---
-Era partita con la lancia in resta, era tutta galvanizzata ed era sicura di fare “un figurone”. Aveva fatto i conti dell’oste ma non quelli della politica. E così è stata fatta fuori. La destra non entra nel consesso europeo, almeno tra i banchi del potere.
+Era partita con la lancia in resta, era tutta galvanizzata ed era sicura di fare "un figurone". Aveva fatto i conti dell'oste ma non quelli della politica. E così è stata fatta fuori. La destra non entra nel consesso europeo, almeno tra i banchi del potere.
 
 Ed allora dobbiamo dar ragione a Romano Prodi, che, infatti, aveva descritto la situazione meglio di chiunque altro. A proposito della posizione di Giorgia Meloni in Europa, Prodi aveva detto: "Meloni non è solo di destra, è ambidestra. Si comporta da destra con Von der Leyen, ma poi si allea con una destra ancora più estrema".
 

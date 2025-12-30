@@ -5,10 +5,10 @@ date: 2025-05-01 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6363-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "L’articolo 1 della Carta è chiarissimo, la Repubblica democratica è fondata sul lavoro. È il lavoro, per la Costituzione, il valore di base..."
+description: "L'articolo 1 della Carta è chiarissimo, la Repubblica democratica è fondata sul lavoro. È il lavoro, per la Costituzione, il valore di base..."
 tags: ["crisi", "diritti", "Economia", "Europa", "giovent\u00f9", "giustizia", "Governo", "lavoratori", "lavoro", "mercato", "politica", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE"]
 ---
-L’articolo 1 della Carta è chiarissimo, la Repubblica democratica è fondata sul lavoro.
+L'articolo 1 della Carta è chiarissimo, la Repubblica democratica è fondata sul lavoro.
 È il lavoro, per la Costituzione, il valore di base dell'Ordinamento nazionale.
 Né il lavoratore né l'imprenditore, ma il lavoro, elevato al rango di diritto sociale in quanto fonte del sostentamento per l'individuo e strumento con il quale il singolo afferma la sua indipendenza e sviluppa la sua persona, è il diritto principe che garantisce a tutti la libertà.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scuola: l’Italia è pronta per la sfida globale?"
+title: "Scuola: l'Italia è pronta per la sfida globale?"
 date: 2023-11-23 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/dallc2b7e-2023-11-10-08.52.57-a-dynamic-and-symbolic-representation-of-italys-education-system-embracing-the-future.-the-image-includes-a-vibrant-classroom-filled-with-students-of.webp
@@ -10,9 +10,9 @@ category: cultura-spettacolo
 tags: ["Debito generazionale", "Disparit\u00e0 nazionale", "eguaglianza educativa", "Eredit\u00e0 culturale italiana", "Faro di saggezza", "Formazione degli educatori", "Futuro dell'Italia", "Infrastrutture scolastiche", "Innovazione programmi di studio", "Intelligenza Artificiale", "Investimento in educazione", "Istruzione", "Materie umanistiche", "Personalizzazione dell'apprendimento", "PIL", "Ruolo degli insegnanti", "Sfida globale", "Tecnologia nell'educazione", "Trasformazione digitale", "Visione strategica"]
 ---
 ![](images/2023/11/dallc2b7e-2023-11-10-08.52.57-a-dynamic-and-symbolic-representation-of-italys-education-system-embracing-the-future.-the-image-includes-a-vibrant-classroom-filled-with-students-of.webp)
-In un mondo in rapida trasformazione, dove le frontiere digitali si dissolvono sotto i clic impazienti dei nostri dispositivi, l’istruzione emerge come un faro di saggezza in un mare di incertezza. Ma, in questa epoca di cambiamenti tumultuosi, la luce del sapere brilla in modo disomogeneo da una nazione all'altra. L’Italia, con la sua ricca eredità culturale e storica, si trova ad un bivio cruciale: sarà in grado di avanzare con decisione verso il futuro, investendo in modo significativo nell’istruzione, quella chiave dorata che apre le porte alla modernità e al progresso?
+In un mondo in rapida trasformazione, dove le frontiere digitali si dissolvono sotto i clic impazienti dei nostri dispositivi, l'istruzione emerge come un faro di saggezza in un mare di incertezza. Ma, in questa epoca di cambiamenti tumultuosi, la luce del sapere brilla in modo disomogeneo da una nazione all'altra. L'Italia, con la sua ricca eredità culturale e storica, si trova ad un bivio cruciale: sarà in grado di avanzare con decisione verso il futuro, investendo in modo significativo nell'istruzione, quella chiave dorata che apre le porte alla modernità e al progresso?
 
-Mentre nazioni come la Svezia e la Danimarca hanno investito generosamente nell'educazione, dedicando oltre il 6% del loro PIL, l’Italia sembra indugiare, dedicando solo il 3,9% del suo PIL in queste fondamentali acque della conoscenza nel 2019, e nel 2023 la situazione non mostra segni di cambiamento radicale. Queste cifre, freddi numeri sulla carta, nascondono però le storie di giovani menti, assetate di sapere e di opportunità.
+Mentre nazioni come la Svezia e la Danimarca hanno investito generosamente nell'educazione, dedicando oltre il 6% del loro PIL, l'Italia sembra indugiare, dedicando solo il 3,9% del suo PIL in queste fondamentali acque della conoscenza nel 2019, e nel 2023 la situazione non mostra segni di cambiamento radicale. Queste cifre, freddi numeri sulla carta, nascondono però le storie di giovani menti, assetate di sapere e di opportunità.
 
     È tempo di un risveglio, che deve iniziare con un rinnovamento radicale delle infrastrutture scolastiche e una rivisitazione moderna dei programmi di studio, in modo da rispecchiare le sfide e le opportunità del nostro tempo. L'istruzione non può più rimanere confinata tra le quattro mura di un'aula; deve diventare un ponte verso il vasto mondo delle possibilità.
 

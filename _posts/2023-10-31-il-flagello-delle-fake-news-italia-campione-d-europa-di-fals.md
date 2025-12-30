@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Il flagello delle fake news: Italia campione d’ Europa di “falsità”"
+title: "Il flagello delle fake news: Italia campione d' Europa di "falsità""
 date: 2023-10-31 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5612.webp
@@ -33,9 +33,9 @@ Anche combattere i finti account è una sfida cruciale nella lotta contro le fak
 
     
 ![](images/2023/10/img_5613.webp)
-    1. Verifica dell’Identità: Le piattaforme potrebbero richiedere una verifica dell’identità più rigorosa per la creazione di account.
+    1. Verifica dell'Identità: Le piattaforme potrebbero richiedere una verifica dell'identità più rigorosa per la creazione di account.
 
-    2. Tecnologie di rilevamento: L’adozione di tecnologie avanzate per identificare e rimuovere automaticamente i finti account.
+    2. Tecnologie di rilevamento: L'adozione di tecnologie avanzate per identificare e rimuovere automaticamente i finti account.
 
     3. Educazione degli utenti: Informare gli utenti su come riconoscere e segnalare i finti account.
 

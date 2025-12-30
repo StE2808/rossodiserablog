@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L’odore del ricordo"
+title: "L'odore del ricordo"
 date: 2023-10-23 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/img_4182-1.webp
@@ -16,13 +16,13 @@ Inizio col dire che mia nonna Mimma era una donna straordinaria nella sua normal
 
 La storia legata ad una mia Madeleine ebbe un infausto inizio, una triste perdita, quando suo marito, mio nonno, uscito per lavoro, morì improvvisamente. Quel giorno, un pezzo del suo cuore se ne andò con lui, ma la  determinazione di mia nonna, a conservare il ricordo dell'uomo che aveva amato per tutta la vita, rimase forte.
 
-Nonna Mimma aveva, sicuramente più di un modo per preservare il ricordo del nonno ma ne possedeva una speciale che mi coinvolgeva in una specie di rito che solo dopo un po’, più avanti, ho compreso. Non ne abbiamo mai parlato ne tra di noi ne con nessuno, almeno al tempo, insomma era un nostro piccolo segreto: per mantenere viva la sua presenza usava un dolce stratagemma che coivolgeva diversi sensi ed uno in particolare, quello dell'olfatto.
+Nonna Mimma aveva, sicuramente più di un modo per preservare il ricordo del nonno ma ne possedeva una speciale che mi coinvolgeva in una specie di rito che solo dopo un po', più avanti, ho compreso. Non ne abbiamo mai parlato ne tra di noi ne con nessuno, almeno al tempo, insomma era un nostro piccolo segreto: per mantenere viva la sua presenza usava un dolce stratagemma che coivolgeva diversi sensi ed uno in particolare, quello dell'olfatto.
 
 La nonna custodiva nello sportello dello specchio del bagno una piccola bottiglia di acqua di colonia, il profumo preferito di mio nonno, che lei teneva gelosamente e ripoveva in alto lontano da occhi o mani indiscrete. 
 
 La mattina, dopo le mie abluzioni, dopo essermi vestito, mia nonna entrava in bagno e mi pettinava i capelli accarezzandoli, dopo poco, apriva lo sportello del mobiletto blu, prendeva quella bottiglietta e cospargeva alcune gocce sui miei capelli di bambino. 
 
-Mentre mi pettinava con le sue mani gentili, l'odore della colonia si diffondeva nell'aria. Lei, in piedi, sicuramente era pervasa da quell'odore e, per un attimo, quell’attimo, poteva quasi sentire la presenza del nonno, quasi da farmela percepire anche accanto a me. Era come se quei capelli cullati dalla sua fragranza fossero un ponte tra passato e presente.
+Mentre mi pettinava con le sue mani gentili, l'odore della colonia si diffondeva nell'aria. Lei, in piedi, sicuramente era pervasa da quell'odore e, per un attimo, quell'attimo, poteva quasi sentire la presenza del nonno, quasi da farmela percepire anche accanto a me. Era come se quei capelli cullati dalla sua fragranza fossero un ponte tra passato e presente.
 
 Quella Madeleine materializzata dall'odore dell'acqua di colonia che legava nonna Mimma ai ricordi del nonno era determinante per superare la perdita di una figura di riferimento che aveva lasciato smarrita ed atterrita nell'animo una donna così sensibile e gentile.
 

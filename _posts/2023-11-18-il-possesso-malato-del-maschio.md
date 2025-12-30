@@ -5,13 +5,13 @@ date: 2023-11-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4282-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Un nuovo femminicidio: relazioni abusive ed il possesso patologico, di questo si tratta. E’ stato ritrovato il corpo di Giulia Cecchettin, la ragazza..."
+description: "Un nuovo femminicidio: relazioni abusive ed il possesso patologico, di questo si tratta. E' stato ritrovato il corpo di Giulia Cecchettin, la ragazza..."
 category: societa
 tags: ["amore malato", "femminicidio", "Filippo Turetta", "Giulia Cecchettin", "patologia", "possesso"]
 ---
 Un nuovo femminicidio:  relazioni abusive ed il possesso patologico, di questo si tratta. 
 
-E’ stato ritrovato il corpo di Giulia Cecchettin, la ragazza scomparsa assieme al fidanzato Filippo Turretta, oramai una settimana fa. 
+E' stato ritrovato il corpo di Giulia Cecchettin, la ragazza scomparsa assieme al fidanzato Filippo Turretta, oramai una settimana fa. 
 
 E quindi siamo di fronte a quello che non volevamo fosse ma che tutti temevamo: un  femminicidio. 
 
@@ -23,4 +23,4 @@ Affrontare il femminicidio richiede un impegno diffuso per cambiare le mentalit�
 
     È essenziale sfidare e cambiare le norme culturali dannose che alimentano il senso di possesso e la dominanza maschile, contribuendo così a creare società più sicure ed equilibrate.
 
-Queste politiche non si attuano peggiorando le punizioni, il colpevole è disposto anche a perdere la propria vita , figuriamoci cosa cambia una minaccia di inasprire una pena. Di converso, l’educazione, a partire dall’adozione nelle scuole di materie specifiche ed argomenti trattati interdisciplinarmente, sono l’unica cura per questa tremenda piaga.
+Queste politiche non si attuano peggiorando le punizioni, il colpevole è disposto anche a perdere la propria vita , figuriamoci cosa cambia una minaccia di inasprire una pena. Di converso, l'educazione, a partire dall'adozione nelle scuole di materie specifiche ed argomenti trattati interdisciplinarmente, sono l'unica cura per questa tremenda piaga.

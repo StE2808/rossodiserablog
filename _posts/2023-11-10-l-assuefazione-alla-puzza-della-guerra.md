@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L’ assuefazione alla puzza  della guerra"
+title: "L' assuefazione alla puzza  della guerra"
 date: 2023-11-10 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4245-1.webp

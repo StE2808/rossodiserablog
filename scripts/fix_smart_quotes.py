@@ -10,11 +10,11 @@ import re
 def fix_smart_quotes(content):
     """Replace smart quotes with straight quotes"""
     # Replace smart double quotes
-    content = content.replace('"', '"')
-    content = content.replace('"', '"')
+    content = content.replace('\u201c', '"')  # LEFT DOUBLE QUOTATION MARK
+    content = content.replace('\u201d', '"')  # RIGHT DOUBLE QUOTATION MARK
     # Replace smart single quotes/apostrophes
-    content = content.replace(''', "'")
-    content = content.replace(''', "'")
+    content = content.replace('\u2018', "'")  # LEFT SINGLE QUOTATION MARK
+    content = content.replace('\u2019', "'")  # RIGHT SINGLE QUOTATION MARK
     return content
 
 def process_file(filepath):
@@ -30,7 +30,7 @@ def process_file(filepath):
     front_matter = content[:front_matter_end + 3]
 
     # Check if smart quotes exist
-    has_smart_quotes = any(c in front_matter for c in ['"', '"', ''', '''])
+    has_smart_quotes = any(c in front_matter for c in ['\u201c', '\u201d', '\u2018', '\u2019'])
 
     if has_smart_quotes:
         # Fix the content
