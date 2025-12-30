@@ -39,7 +39,7 @@ Gli anni non si misurano in obiettivi raggiunti. Si misurano in **momenti abita
 
 ## Un augurio imperfetto
 
-Non ti auguro un anno migliore, perché non so cosa significhi. Ti auguro un anno **presente**. Momenti in cui ti accorgi di esserci mentre accadono, non solo quando li ricordi.
+Non ti auguro un anno migliore, perché non so cosa significhi. Ti auguro un anno **presente**. Momenti che riconosci al volo, non solo col senno di poi.
 
 Il tempo passerà comunque, con o senza il tuo consenso. L'unica scelta che hai è se attraversarlo distratto o sveglio.
 
