@@ -92,6 +92,7 @@ collections:
         name: "excerpt"
         widget: "text"
         required: true
+        hint: "Anteprima che appare nelle card del sito e nel feed RSS. Può essere più lungo della Meta Description."
       - label: "Parola Chiave Principale (promemoria)"
         name: "focus_keyword"
         widget: "string"
