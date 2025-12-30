@@ -9,3 +9,4 @@ Sitemap: https://rossodiserablog.it/sitemap.xml
 
 # Blocca accesso al pannello admin
 Disallow: /admin/
+Disallow: /guida-autori/
