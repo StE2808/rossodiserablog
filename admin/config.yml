@@ -31,6 +31,17 @@ collections:
         name: "title"
         widget: "string"
         required: true
+        hint: "Titolo editoriale dell'articolo. Può essere creativo."
+      - label: "Titolo SEO (opzionale)"
+        name: "seo_title"
+        widget: "string"
+        required: false
+        hint: "Max 60 caratteri. Se vuoto, usa il titolo normale. Scrivi quello che l'utente cercherebbe su Google."
+      - label: "Meta Description"
+        name: "description"
+        widget: "text"
+        required: false
+        hint: "120-155 caratteri. Riassumi l'articolo con una frase che invogli al click. Includi la parola chiave principale."
       - label: "Data pubblicazione"
         name: "date"
         widget: "datetime"
@@ -71,10 +82,21 @@ collections:
         name: "image"
         widget: "image"
         required: false
+        hint: "Immagine principale. Dimensioni ideali: 1200x630px per social sharing."
+      - label: "Alt Text Immagine"
+        name: "image_alt"
+        widget: "string"
+        required: false
+        hint: "Descrivi l'immagine per non vedenti e motori di ricerca. Non ripetere il titolo, descrivi cosa si VEDE."
       - label: "Sunto"
         name: "excerpt"
         widget: "text"
         required: true
+      - label: "Parola Chiave Principale (promemoria)"
+        name: "focus_keyword"
+        widget: "string"
+        required: false
+        hint: "Per quale ricerca vuoi posizionarti? Usala in: titolo SEO, description, primo paragrafo, almeno un H2."
       - label: "Contenuto"
         name: "body"
         widget: "markdown"
