@@ -35,7 +35,7 @@ Eppure qualcosa succede. Non nei proclami solenni, ma nei dettagli che non avevi
 
 Quell'amico ritrovato per caso. Una conversazione che ti ha cambiato idea su qualcosa. Un libro aperto al momento giusto. Il silenzio di una mattina d'estate. La scoperta che sai fare qualcosa che credevi impossibile.
 
-Gli anni non si misurano in obiettivi raggiunti. Si misurano in **momenti abitati** — quelli in cui c'eri davvero, non con il telefono in mano a documentare per qualcun altro.
+Gli anni non si misurano in obiettivi raggiunti. Si misurano in **momenti abitati** — quelli in cui c'eri davvero, non con lo sguardo sul display mentre la vita succedeva altrove.
 
 ## Un augurio imperfetto
 
