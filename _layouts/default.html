@@ -1,13 +1,27 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
+    {% if page.seo_title and page.seo_title != "" %}
+      {% assign effective_title = page.seo_title %}
+    {% else %}
+      {% assign effective_title = page.title %}
+    {% endif %}
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% if page.title %}{{ page.title }} | {% endif %}Rosso di Sera</title>
-    <meta name="description" content="{% if page.description and page.description != '' %}{{ page.description }}{% else %}{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}{% endif %}">
+    <title>{% if effective_title %}{{ effective_title }} | {% endif %}Rosso di Sera</title>
+    <meta name="description" content="{{ page.description | default: page.excerpt | strip_html | truncate: 160 }}">
 
     <!-- SEO -->
     {% seo %}
+
+    <!-- Open Graph overrides -->
+    <meta property="og:title" content="{{ effective_title | default: page.title }}">
+    {% if page.image_alt %}
+    <meta property="og:image:alt" content="{{ page.image_alt }}">
+    {% elsif page.title %}
+    <meta property="og:image:alt" content="{{ page.title }}">
+    {% endif %}
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
