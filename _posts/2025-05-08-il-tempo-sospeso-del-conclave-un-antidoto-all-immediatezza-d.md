@@ -5,7 +5,7 @@ date: 2025-05-08 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/05/img_8936.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Viviamo in un'epoca satura di "dirette", dove lo scorrere incessante dei feed social trasforma ogni evento in un'esperienza condivisa in tempo reale..."
+description: "Viviamo in un'epoca satura di 'dirette', dove lo scorrere incessante dei feed social trasforma ogni evento in un'esperienza condivisa in tempo reale..."
 category: cronaca-bianca
 tags: ["Attesa", "Conclave", "Fumata Bianca", "Habemus Papam", "Immediatezza", "Notizie in Diretta", "Riflessione", "Ritmi Umani", "Social Media", "Tecnologia", "Tempo", "vaticano"]
 ---

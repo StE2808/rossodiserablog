@@ -5,7 +5,7 @@ date: 2023-09-07 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_3995.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "È certo più facile governare per slogan: salvo poi scontrarsi con la realtà. Dichiarare guerra ai migranti, pretendere il "blocco navale" e poi scoprire..."
+description: "È certo più facile governare per slogan: salvo poi scontrarsi con la realtà. Dichiarare guerra ai migranti, pretendere il 'blocco navale' e poi scoprire..."
 category: politica-interna
 tags: ["diritti", "guerra", "lavoro", "Meloni", "politica", "reddito", "sociale"]
 ---

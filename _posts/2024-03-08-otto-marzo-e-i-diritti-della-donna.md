@@ -5,7 +5,7 @@ date: 2024-03-08 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/03/25301279295_58a4cc9960_c.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Quest'anno ci ha pensato la seconda carica istituzionale in Italia, Ignazio Benito Maria La Russa a celebrare "degnamente" La Giornata internazionale..."
+description: "Quest'anno ci ha pensato la seconda carica istituzionale in Italia, Ignazio Benito Maria La Russa a celebrare 'degnamente' La Giornata internazionale..."
 category: opinioni-editoriali
 tags: ["8 marzo", "diritti", "diritti delle donne", "festa della donna", "giornata internazionale della donna", "marzo 8", "otto", "ottomarzo"]
 ---

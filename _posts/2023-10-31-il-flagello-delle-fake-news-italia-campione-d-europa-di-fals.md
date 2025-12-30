@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Il flagello delle fake news: Italia campione d' Europa di "falsità""
+title: "Il flagello delle fake news: Italia campione d' Europa di 'falsità'"
 date: 2023-10-31 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5612.webp

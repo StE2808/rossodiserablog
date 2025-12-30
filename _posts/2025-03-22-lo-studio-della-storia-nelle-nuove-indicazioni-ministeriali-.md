@@ -5,7 +5,7 @@ date: 2025-03-22 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/storia.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Il recente documento "Nuove Indicazioni 2025 - Scuola dell'infanzia e Primo ciclo di istruzione - Materiali per il dibattito pubblico" diffuso dal..."
+description: "Il recente documento 'Nuove Indicazioni 2025 - Scuola dell'infanzia e Primo ciclo di istruzione - Materiali per il dibattito pubblico' diffuso dal..."
 category: cultura-spettacolo
 tags: ["#DibattitoPubblico", "#DidatticaInnovativa", "#EducazioneCivica", "#Eurocentrismo", "#FakeNews", "#InsegnamentoStoria", "#MetodoStorico", "#MIUR", "#NuoveIndicazioni2025", "#PensieroCritico", "#RiformaScuola", "#ScuolaPrimaria"]
 ---

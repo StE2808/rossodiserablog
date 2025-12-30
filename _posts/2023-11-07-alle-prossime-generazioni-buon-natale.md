@@ -5,7 +5,7 @@ date: 2023-11-07 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/img_5671.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Nella quiete serena dei nostri "Buon Natale" sussurrati, dove l'eco delle nostre voci si perde tra le pieghe di un tempo che sembra correre troppo in..."
+description: "Nella quiete serena dei nostri 'Buon Natale' sussurrati, dove l'eco delle nostre voci si perde tra le pieghe di un tempo che sembra correre troppo in..."
 category: ambiente
 tags: ["Amore", "cambiamenti climatici", "consapevolezza", "coraggio", "eredit\u00e0", "eroi", "futuro migliore", "Generazioni Future", "impegno", "Lake Street Dive", "lotta", "Natale", "promesse", "realt\u00e0", "responsabilit\u00e0", "sostenibilit\u00e0", "speranza"]
 ---

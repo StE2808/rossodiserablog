@@ -5,7 +5,7 @@ date: 2025-01-21 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_6007-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: ""Una azione sfuggita al controllo di un autistico": così Andrea Stroppa, il referente in Italia di Elon Musk, vorrebbe far passare il saluto romano..."
+description: "'Una azione sfuggita al controllo di un autistico': così Andrea Stroppa, il referente in Italia di Elon Musk, vorrebbe far passare il saluto romano..."
 category: opinioni-editoriali
 tags: ["Governo", "Meloni", "Musk", "politica", "societ\u00e0", "Trump", "USA"]
 ---

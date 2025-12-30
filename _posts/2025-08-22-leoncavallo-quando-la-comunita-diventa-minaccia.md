@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leoncavallo: quando la comunità diventa "minaccia""
+title: "Leoncavallo: quando la comunità diventa 'minaccia'"
 date: 2025-08-22 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/08/img_6714.webp

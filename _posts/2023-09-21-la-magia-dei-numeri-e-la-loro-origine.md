@@ -5,7 +5,7 @@ date: 2023-09-21 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/ste_spi_roman_and_indian_numerals_95ebf0a4-d144-4d97-b4cb-ff6927f2216c.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Mia figlia mi ha fatto una domanda interessante: "Ma il cinque perché è fatto così. Perché i romani scrivevano, invece, il 5 con un il simbolo V?""
+description: "Mia figlia mi ha fatto una domanda interessante: 'Ma il cinque perché è fatto così. Perché i romani scrivevano, invece, il 5 con un il simbolo V?'"
 category: societa
 ---
 Mia figlia mi ha fatto una domanda interessante: "Ma il cinque perché è fatto così? Perché i romani scrivevano, invece, il 5 con un il simbolo V?". 
