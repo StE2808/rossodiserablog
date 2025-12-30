@@ -26,33 +26,38 @@ sitemap: false
 
 <h2>La regola d'oro</h2>
 
-<p>La <strong>parola chiave</strong> deve apparire in:</p>
-<ul>
-<li>Titolo SEO</li>
-<li>Meta Description</li>
-<li>Primo paragrafo</li>
-<li>Almeno un sottotitolo (H2)</li>
-</ul>
+<p>La <strong>parola chiave</strong> deve apparire in questi punti:</p>
+
+<table>
+<tr><th>Dove</th><th>Obbligatorio?</th></tr>
+<tr><td>Titolo SEO</td><td>✓ Sì</td></tr>
+<tr><td>Meta Description</td><td>✓ Sì</td></tr>
+<tr><td>Primo paragrafo (prime 100 parole)</td><td>✓ Sì</td></tr>
+<tr><td>Almeno un sottotitolo H2</td><td>✓ Sì</td></tr>
+</table>
 
 <h2>Esempio pratico</h2>
 
 <p><strong>Parola chiave:</strong> <code>riforma pensioni 2025</code></p>
 
-<ul>
-<li><strong>Titolo SEO:</strong> "Riforma pensioni 2025: cosa cambia e per chi"</li>
-<li><strong>Description:</strong> "La riforma pensioni 2025 introduce nuove regole per l'uscita anticipata. Ecco chi può accedere e come fare domanda."</li>
-<li><strong>Alt text:</strong> "Anziano che legge documenti con calcolatrice sul tavolo"</li>
-</ul>
+<table>
+<tr><th>Campo</th><th>Cosa scrivere</th></tr>
+<tr><td><strong>Titolo SEO</strong></td><td>Riforma pensioni 2025: cosa cambia e per chi</td></tr>
+<tr><td><strong>Meta Description</strong></td><td>La riforma pensioni 2025 introduce nuove regole per l'uscita anticipata. Ecco chi può accedere e come fare domanda.</td></tr>
+<tr><td><strong>Alt Text</strong></td><td>Anziano che legge documenti con calcolatrice sul tavolo</td></tr>
+<tr><td><strong>Primo paragrafo</strong></td><td>La <strong>riforma pensioni 2025</strong> cambia le regole del gioco per migliaia di lavoratori...</td></tr>
+</table>
 
-<h2>Checklist veloce</h2>
+<h2>Checklist pre-pubblicazione</h2>
 
-<p>Prima di pubblicare:</p>
-<ul>
-<li>☐ Description scritta (non lasciare vuoto!)</li>
-<li>☐ Alt text dell'immagine compilato</li>
-<li>☐ Parola chiave nel primo paragrafo</li>
-<li>☐ Almeno un link ad altro articolo del blog</li>
-</ul>
+<table>
+<tr><th>✓</th><th>Controllo</th><th>Perché è importante</th></tr>
+<tr><td>☐</td><td>Description compilata</td><td>Google la usa nei risultati di ricerca</td></tr>
+<tr><td>☐</td><td>Alt text immagine</td><td>Accessibilità + SEO immagini</td></tr>
+<tr><td>☐</td><td>Parola chiave nel primo paragrafo</td><td>Google capisce subito il tema</td></tr>
+<tr><td>☐</td><td>Almeno 1 link interno</td><td>Aiuta gli utenti a navigare il blog</td></tr>
+<tr><td>☐</td><td>Immagine almeno 1200x630px</td><td>Anteprima perfetta sui social</td></tr>
+</table>
 
         </div>
     </div>
