@@ -4,10 +4,11 @@ title: "La resistenza accademica in USA: tutti contro Trump"
 date: 2025-04-16 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6314-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Le principali università americane si sono unite in una risposta decisa contro i recenti tentativi dell'amministrazione Trump di interferire nella loro..."
 category: politica-estera
 tags: ["Cultura", "emigranti", "fascismo", "giustizia", "Governo", "immigrazione", "istituzioni", "Istruzione", "migranti", "polarizzazione", "politica", "repressione", "scolastiche", "scuola", "sociale", "societ\u00e0", "Trump", "universita\u2019", "USA"]
 ---
-
 Le principali università americane si sono unite in una risposta decisa contro i recenti tentativi dell'amministrazione Trump di interferire nella loro autonomia. In seguito alle proteste studentesche pro-Palestina scoppiate nei campus a inizio aprile 2025, diverse università hanno affrontato crescenti pressioni federali.
 
 La scorsa settimana, quando il Dipartimento dell'Istruzione ha minacciato di tagliare i finanziamenti federali a Columbia University per non aver "adeguatamente contenuto" le manifestazioni, la presidente Minouche Shafik ha risposto pubblicamente difendendo il diritto di protesta pacifica degli studenti, rifiutando categoricamente l'ultimatum governativo.

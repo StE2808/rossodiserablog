@@ -4,10 +4,11 @@ title: "Islanda: donne in sciopero per le donne"
 date: 2023-10-24 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/1447231.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Oggi è un giorno particolare in Islanda, un giorno in cui solo le donne scioperano per le donne. Infatti in tutto lo Stato le donne si stanno astenendo..."
 category: cronaca-bianca
 tags: ["donne", "Kallar\u00f0u \u00feetta jafnr\u00e9tti", "sciopero"]
 ---
-
 Oggi è un giorno particolare in Islanda, un giorno in cui solo le donne scioperano per le donne. 
 
 Infatti in tutto lo Stato le donne si stanno astenendo dall'espletare tutto, ma proprio tutto, sia i lavori tradizionalmente riconosciuti e quindi retribuiti che quelli che normalmente fanno in casa.

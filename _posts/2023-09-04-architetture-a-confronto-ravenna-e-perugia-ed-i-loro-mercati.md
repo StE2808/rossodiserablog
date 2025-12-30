@@ -4,9 +4,10 @@ title: "Architetture a confronto: Ravenna e Perugia ed i loro Mercati Coperti"
 date: 2023-09-04 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_3980.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Passeggiando per il centro cittadino di Ravenna, ci si imbatte in una struttura interessante: il mercato coperto. Struttura duecentesca, dedicata già al..."
 tags: ["architettura", "mercato", "mercato coperto", "Perugia", "Ravenna"]
 ---
-
 Passeggiando per il centro cittadino di Ravenna, ci si imbatte in una struttura interessante: il mercato coperto. 
 
 Struttura duecentesca, dedicata già al mercato del pesce, subisce una trasformazione nei primi del settecento. Nel 1869 la struttura viene profondamente ristrutturata ma resta luogo di mercato per il pescato e mantiene la sua destinazione fino al 1915 quando viene abbattuta per rinascere come Mercato Generale Coperto nel 1922. 

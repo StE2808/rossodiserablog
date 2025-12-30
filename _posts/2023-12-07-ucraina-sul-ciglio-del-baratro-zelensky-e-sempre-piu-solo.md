@@ -4,10 +4,11 @@ title: "Ucraina sul ciglio del baratro: Zelensky è sempre più solo"
 date: 2023-12-07 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/women-fight-too-so-stop-ignoring-them-in-peacebuilding_940px.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Chi conosce e segue il professor Alessandro Orsini lo sapeva che sarebbe andata così. Chi ha potuto raccogliere informazioni, minimamente obiettive..."
 category: politica-estera
 tags: ["Biden", "debito", "Economia", "FMI", "guerra", "inquinamento", "Ucraina", "USA", "Zelensky"]
 ---
-
 Chi conosce e segue il professor Alessandro Orsini lo sapeva che sarebbe andata così. Chi ha potuto raccogliere informazioni, minimamente obiettive, sapeva da subito che appoggiare questo conflitto, invece di mobilitarsi per azioni pacificatorie, avrebbe solo portato lutti immani e guasti tremendi e difficilissimi da riparare.
 
 Secondo uno studio commissionato dalla UE, al 18 luglio 2023, in Ucraina si registrano “2.317 segnalazioni verificate di azioni militari con un effetto ambientale diretto” sulla natura, anche se le denunce sono di più (2.450). Le stime basate sulle ispezioni ambientali dell’Ucraina mostrano che l’invasione della Russia fin qui “ha causato danni ambientali per circa 52,4 miliardi di euro” tra impatti negativi sull’aria (27 miliardi), per l’acqua (1,5 miliardi), al suolo (0,3 miliardi), e inquinamento da rifiuti (23,6 miliardi).

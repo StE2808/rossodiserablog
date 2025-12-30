@@ -4,10 +4,11 @@ title: "Un leone fugge dal circo: basta spettacoli con gli “animali”"
 date: 2023-11-12 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4250-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Un leone gira per le strade di un paesone vicino Roma, Ladispoli. E’ fuggito da un circo ovviamente in cerca disperata di quella libertà che ha d’istinto"
 category: societa
 tags: ["basta circhi con animali", "circo", "circo con animali", "fugge", "ladispoli", "leone", "Roma"]
 ---
-
 Un leone gira per le strade di un paesone vicino Roma, Ladispoli. E’ fuggito da un circo ovviamente in cerca disperata di quella libertà che ha d’istinto. 
 
 Tutto è successo in un’ora: fuga dalla gabbia per guadagnare la  libertà, poter sniffare qualche odore interessante, spaesato  certamente e quindi facilmente catturato tramite sedazione sicuramente massiccia e non senza inconvenienti, quindi nuovamente rinchiuso.

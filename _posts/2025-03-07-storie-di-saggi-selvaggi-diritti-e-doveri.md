@@ -4,10 +4,11 @@ title: "Storie di saggi, selvaggi, diritti e doveri"
 date: 2025-03-07 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/03/img_6180-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "C'era una volta, in un regno chiamato Europa, un grande consiglio di saggi che si riuniva per decidere come proteggere tutti i villaggi. Un giorno, mentre..."
 category: cultura-spettacolo
 tags: ["Cina", "crisi", "diritti", "diritti umani", "Economia", "emigranti", "Etica", "Europa", "giustizia", "Governo", "guerra", "Meloni", "mercato", "migranti", "odio", "Orban", "Pace", "politica", "Russia", "salvini", "Schlein", "sicurezza", "societ\u00e0", "Solidariet\u00e0", "trogloditi", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
-
 C'era una volta, in un regno chiamato Europa, un grande consiglio di saggi che si riuniva per decidere come proteggere tutti i villaggi. Un giorno, mentre discutevano animatamente, notarono che uno dei saggi, il Saggio Orban dell'Isola Solitaria, si era isolato in un angolo e rifiutava di aiutare il villaggio di Kiev che era in pericolo.
 
 Due donne, una certa Meloni della Garbatella e l’altra chiamata con un nome difficile,Schlein, pur essendo spesso in disaccordo, questa volta concordavano su una cosa importante: i tesori destinati a costruire ponti e strade non dovevano essere usati per comprare spade e scudi. Schlein suggerì: "Perché non uniamo prima tutti i nostri guardiani in un'unica grande squadra? Solo dopo decideremo se servono più monete d'oro per proteggerci."

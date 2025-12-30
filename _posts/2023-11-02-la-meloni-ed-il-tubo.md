@@ -4,10 +4,11 @@ title: "La Meloni ed il tubo"
 date: 2023-11-02 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4211-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Per governare c’è bisogno di capacità specifiche: le chiamiamo oggi soft skills. Servono a poter programmare, pianificare, stabilire priorità per..."
 category: politica-interna
 tags: ["Etica", "Governo", "guerra", "Meloni", "politica", "Russia", "sicurezza", "trogloditi", "Ucraina"]
 ---
-
 Per governare c’è bisogno di capacità specifiche: le chiamiamo oggi soft skills. Servono a poter programmare, pianificare, stabilire priorità per raggiungere obiettivi che ci si è prefissati, insomma, in altre parole, governare un Paese.
 
 Nella foto possiamo osservare vaso d’espansione di piombo (I secolo d.C., trovato a Pompei in Villa Arianna, alla quale veniva fornita acqua tramite un unico tubo e da lì diretta verso diverse parti della casa attraverso altre due tubazioni, la cui capacità poteva essere regolata utilizzando valvole), insomma un piccolo capolavoro di ingegneria idraulica.

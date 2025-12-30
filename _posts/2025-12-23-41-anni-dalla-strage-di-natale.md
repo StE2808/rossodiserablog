@@ -7,6 +7,8 @@ category: politica-interna
 tags:
   - '#stragedinatale #rapido904 #camorra'
 image: /assets/images/uploads/IMG_6995.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "|-"
 excerpt: |-
   23 dicembre 1984: Strage del treno 904
   Sedici vite innocenti spezzate in un tunnel del Salernitano. Passeggeri diretti a casa per Natale, uccisi da una bomba della camorra. Un crimine vigliacco che colpì lo Stato e cittadini inermi.

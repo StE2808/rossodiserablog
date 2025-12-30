@@ -4,10 +4,11 @@ title: "Caso Vannacci: il mondo va veramente al contrario"
 date: 2023-12-04 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/vannacci_ok_wikipedia-2.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Oramai non c'è da stupirsi più di nulla, ma indignarsi sì. Se un generale dell'esercito italiano esprime ed argomenta profusamente, in un libro, contenuti..."
 category: cronaca-bianca
 tags: ["Comfoter", "Crosetto", "difesa", "il mondo al contrario", "Meloni", "Ministro", "patriarcalismo", "patriarcato", "Vannacci", "violenza", "violenza di genere"]
 ---
-
 Oramai non c'è da stupirsi più di nulla, ma indignarsi sì. Se un generale dell'esercito italiano esprime ed argomenta profusamente, in un libro, contenuti retrogradi, sessisti, omofobi e, perfino razzisti, perché non promuoverlo? Certamente, è andata proprio così. 
 
 Roberto Vannacci, l'autore del libro “Il mondo al contrario“, divenuto un best seller in un battibaleno,  era stato rimosso dall'incarico a lui assegnato, dopo lo sdegno per le affermazioni lì contenute, dallo Stato Maggiore dell’Esercito.

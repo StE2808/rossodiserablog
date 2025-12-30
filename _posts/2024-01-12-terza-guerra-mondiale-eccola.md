@@ -4,10 +4,11 @@ title: "Terza guerra mondiale? Eccola"
 date: 2024-01-12 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/cznmcy1wcml2yxrll3jhd3bpegvsx2ltywdlcy93zwjzaxrlx2nvbnrlbnqvbhivchg2ndyxmzgtaw1hz2uta3d2eg1szgquanbn.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Tanto tuonò che alla fine piovve. Lo aveva annunciato da anni Papa Francesco definendola Terza Guerra Mondiale a pezzi"
 category: politica-estera
 tags: ["attacco", "Eserciti", "gaza", "Gran Bretagna", "guerra", "hamas", "Houthi", "israele", "Mar Rosso", "terza guerra mondiale", "USA", "yemen"]
 ---
-
 Tanto tuonò che alla fine piovve. Lo aveva annunciato da anni Papa Francesco definendola Terza Guerra Mondiale a pezzi. E così, l'America e la Gran Bretagna sono entrate attivamente in una sorta di "operazione speciale", se vogliamo utilizzare un eufemismo putiniano, per carità, non in guerra, ma stanotte una coalizione con a capo loro due ha bombardato i territori yemeniti.
 
     

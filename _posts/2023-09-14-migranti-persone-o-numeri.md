@@ -4,10 +4,11 @@ title: "Migranti: persone o numeri?"
 date: 2023-09-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/migranti_2.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Mentre Lampedusa è allo stremo per il numero impressionante di migranti che vi stanno sbarcando, complici il mare piatto e l'assenza di vento e di onde..."
 category: cronaca-bianca
 tags: ["fame", "Governo", "lampedusa", "Meloni", "migranti", "Migrazione", "odio", "pompiere", "salvini", "Solidariet\u00e0"]
 ---
-
 Mentre Lampedusa è allo stremo per il numero impressionante di migranti che vi stanno sbarcando, complici il mare piatto e l'assenza di vento e di onde, il nostro Governo ha perso quel poco di bussola che sembrava mantenere. 
 
 Secondo Salvini le ondate di migranti sarebbero da paragonare a bordate di obice o lanci di missili verso il nostro territorio, tanto da rappresentare un vero e proprio "atto di guerra diretto al Governo, dietro c'è una regia". Ma se c'è una regia chi sarebbe il regista? Chi avrebbe dichiarato guerra all'Italia ed al suo Governo attraverso l'invio in massa di disperati? Salvini non lo dice.  Le cose sono due: o Salvini lo sa e ce lo nasconde (e sarebbe una mossa doppiamente perdente) o invece è frutto dell'ennesima sparata a zero. A voi la scelta.

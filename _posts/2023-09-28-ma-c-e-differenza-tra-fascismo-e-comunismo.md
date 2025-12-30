@@ -4,9 +4,10 @@ title: "Ma c’è differenza tra Fascismo e Comunismo?"
 date: 2023-09-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_4065-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Attorno agli anni ‘20 del secolo scorso si sono affacciate, in Germania ed in Italia, due ideologie molto polarizzanti, parliamo di Nazismo e Fascismo. Il..."
 category: societa
 ---
-
 Attorno agli anni ‘20 del secolo scorso si sono affacciate, in Germania ed in Italia, due ideologie molto polarizzanti, parliamo di Nazismo e Fascismo. 
 Il Nazismo, nato in Germania vent'anni dopo era finito. Attorno al 1945 i capi nazisti erano morti o erano fuggiti soprattutto in Sud America e chiunque era stato nazista si sperticò pur di  rinnegare di aver mai preso parte a cotale delirio delinquenziale. Insomma, tranne poche ed insignificanti sacche, il nazional-socialismo è finito lì. 
 

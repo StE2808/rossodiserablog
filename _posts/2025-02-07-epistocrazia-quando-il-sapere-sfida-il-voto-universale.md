@@ -4,10 +4,11 @@ title: "Epistocrazia: Quando il Sapere Sfida il Voto Universale"
 date: 2025-02-07 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/02/img_6082-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "No-vax, negazionisti climatici, razzisti, fascisti e nazisti: un vento bollente pare attraversare ogni angolo del cosiddetto occidente. L’ignoranza alla..."
 category: cultura-spettacolo
 tags: ["diritti", "epistocrazia", "Etica", "fascismo", "Generazioni Future", "Governo", "politica", "societ\u00e0"]
 ---
-
 No-vax, negazionisti climatici, razzisti, fascisti e nazisti: un vento bollente pare attraversare ogni angolo del cosiddetto occidente. L’ignoranza alla ribalta.
 
 Pare proprio che il mondo stia virando a destra, una destra estrema: un mondo smarrito, confuso dalle post verità profuse a piene mani dai detentori del capitale, dai lobbisti. Un mondo occidentale dove si fa strada un pensiero: e se non tutti fossero in grado di votare? E se per esprimere il voto venisse richiesta una minima capacità cognitiva, di elaborazione, di comprensione? 

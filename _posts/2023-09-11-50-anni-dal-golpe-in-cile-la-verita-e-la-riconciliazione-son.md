@@ -4,10 +4,11 @@ title: "50 anni dal golpe in Cile: la verità e la riconciliazione sono lontane"
 date: 2023-09-11 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/golpe-pinochet.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Era proprio l'11 settembre 1973, cinquant'anni fa esatti e nel piccolo Paese sud-americano viene messo in scena un golpe, il Governo socialista viene..."
 category: societa
 tags: ["Cile", "Desaparecidos", "Golpe", "Moneda", "Pinochet", "Santiago", "USA"]
 ---
-
 Era proprio l'11 settembre 1973, cinquant'anni fa esatti e nel piccolo Paese sud-americano viene messo in scena un golpe, il Governo socialista viene rovesciato e iniziano i primi omicidi, i primi rapimenti, le prime sparizioni.
 
 Tutto inizia col bombardamento aereo del Palacio de La Moneda, da parte di caccia militari appoggiati dall'ingresso immediatamente successivo di carri armati per le strade della città di Santiago.

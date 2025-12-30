@@ -4,10 +4,11 @@ title: "Marattin-Costa: poltronificio cercasi"
 date: 2023-09-19 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_4035.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Fisco e Giustizia visti dai Liberali: con questo titolo si è svolta, ieri sera a Perugia, la seconda tappa del tour nazionale di Luigi Marattin ed Enrico..."
 category: cronaca-bianca
 tags: ["Azione", "Calenda", "Costa", "Italia Viva", "Marattin", "Renzi", "Terzo Polo"]
 ---
-
 Fisco e Giustizia visti dai Liberali: con questo titolo si è svolta, ieri sera a Perugia, la seconda tappa del tour nazionale di Luigi Marattin ed Enrico Costa, deputati rispettivamente di Italia Viva e Azione. I due, già firmatari di una  lettera rivolta ai due leader del Terzo Polo Carlo Calenda e Matteo Renzi, nella quale chiedevano loro di non continuare a dividere «il campo del riformismo liberale», provando a ricucire uno strappo che ha causato un «danno di immagine» e dalle «modalità traumatiche», si sono incontrati con un manipolo di vecchie glorie, si fa per dire, della politica locale e con "orfani" in cerca di una casa.
 
     

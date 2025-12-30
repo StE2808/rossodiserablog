@@ -4,10 +4,11 @@ title: "Bernie Sanders e AOC | Fighting Oligarchy Tour: L'Esempio che Manca alla
 date: 2025-03-29 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/foto.png.webp
+image_alt: "Immagine di copertina dell'articolo"
+description: "Avete mai osservato un fiume che scorre con determinazione, superando ogni ostacolo sul suo cammino. È l'immagine che mi viene in mente guardando Bernie..."
 category: diritti-umani
 tags: ["AlexandriaOcasioCortez", "AttivismoIntergenerazionale", "BernieSanders", "DemocraziaSana", "FightingOligarchy", "MobilitazionePolitica", "OpposizioneItaliana", "PoliticaProgressista", "RinnovamentoPolitico", "VisioneAlternativa"]
 ---
-
 Avete mai osservato un fiume che scorre con determinazione, superando ogni ostacolo sul suo cammino? È l'immagine che mi viene in mente guardando **Bernie Sanders** e **Alexandria Ocasio-Cortez** nel loro "**Fighting Oligarchy**" tour. Da una parte un ottuagenario con l'energia di un ventenne, dall'altra una millennial che trasforma le parole in azioni concrete. E noi, qui in Italia? La nostra **opposizione politica** sembra un ruscello che si perde tra le pietre prima di raggiungere il mare.
 
     

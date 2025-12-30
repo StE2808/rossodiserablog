@@ -4,10 +4,11 @@ title: "Violenza di genere: conoscere per cambiare"
 date: 2023-11-24 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/jina.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "L'italiano è una lingua androcentrica e sessista. Partendo da questo assunto, già teorizzato negli anni 80 del secolo scorso, da personaggi del calibro di..."
 category: cultura-spettacolo
 tags: ["Educazione", "femminicidio", "gender", "possesso", "ReatiSessuali", "violenza", "violenza di genere", "ViolenzaSessuale"]
 ---
-
 L'italiano è una lingua androcentrica e sessista. Partendo da questo assunto, già teorizzato negli anni 80 del secolo scorso, da personaggi del calibro di Alma Sabatini (docente di lingua italiana ed inglese ma soprattutto attivista nel movimento femminista), non possiamo che lavorare ad un progetto rivoluzionario che restituisca al genere femminile quanto da secoli, se non millenni, abbiamo tolto alla donna. Ovviamente, purtroppo, non è solamente un problema italiano ma è anzi generalizzato e diffuso, purtroppo in tutto il mondo.   
 
 Comunque parlo al plurale, quale rappresentante di un intero genere, quello maschile che ha anche nella lingua, soverchiato il genere femminile, in ogni lingua scritta è così. Grammaticalmente, in italiano, se ad esempio, si dovesse parlare di un gruppo di persone, maschi e femmine, allora la "corretta" versione della frase dovrebbe contemplare esclusivamente il plurale maschile. Riflettiamoci ma è la triste verità. 

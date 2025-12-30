@@ -4,10 +4,11 @@ title: "Dieta mediterranea: il trattorista ed il contadino"
 date: 2024-02-12 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/02/grano-1024x577-1.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Mentre i trattoristi europei, emissari e rappresentanti di lobby potentissime, sfilano attraendo schiere di politici populisti in cerca dei voti per le..."
 category: ambiente
 tags: ["carne", "cereali", "contadini", "dieta", "imprenditori agricoli", "land grabbing", "latte", "latticini", "obesit\u00e0", "PAC", "PIL", "proteste", "Salute", "trattoristi"]
 ---
-
 Mentre i trattoristi europei, emissari e rappresentanti di lobby potentissime, sfilano attraendo schiere di politici populisti in cerca dei voti per le prossime elezioni, i contadini stanno scomparendo nel silenzio.
 
 Il fenomeno del Land Grabbing, l'accaparramento del suolo da parte di aziende medie e grandi ma anche multinazionali, è un fenomeno sempre più frequente, il piccolo sparisce per lasciar posto ad aziende sempre più grandi, dove il profitto è l'unica cosa che conta. Se ne sono accorte anche le associazioni malavitose, accorse al desco per partecipare al banchetto per la spartizione dei fondi europei tra i quali anche quelli PAC.

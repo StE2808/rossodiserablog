@@ -4,10 +4,11 @@ title: "Regalo del governo: carcere e multe per gli attivisti del clima"
 date: 2024-01-19 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/ultima-generazione_tradimenti-1024x496-2.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Garantisti a corrente alternata: questi sono i nostri governanti. Vogliono eliminare il reato di abuso d'ufficio ed indebolire la repressione nei..."
 category: cronaca-bianca
 tags: ["Ambiente", "clima", "collasso climatico", "Fondo Riparazione", "Governo", "Meloni", "Sangiuliano", "Ultima Generazione"]
 ---
-
 Garantisti a corrente alternata: questi sono i nostri governanti. Vogliono eliminare il reato di abuso d'ufficio ed indebolire la repressione nei confronti di corrotti e corruttori e limitare l'azione penale nei confronti dei reati tipici dei colletti bianchi, ma quando si tratta di immigrazione e difesa del clima, sono inflessibili.
 
 Infatti la Camera ha approvato con 138 voti a favore, 92 contrari e 10 astenuti il disegno di legge, proposto dal ministro della cultura Gennaro Sangiuliano, riguardante "Disposizioni sanzionatorie in materia di distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paesaggistici".

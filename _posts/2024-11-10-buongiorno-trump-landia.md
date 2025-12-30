@@ -4,10 +4,11 @@ title: "Buongiorno Trump-landia"
 date: 2024-11-10 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/11/img_5655-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: ""Buongiorno America. O dovrei dire, buongiorno Trump-landia"
 category: politica-estera
 tags: ["Biden", "Conflitto", "Cultura", "Europa", "Generazioni Future", "Governo", "guerra", "migranti", "Migrazione", "odio", "politica", "Russia", "sociale", "societ\u00e0", "Ucraina", "UE", "USA", "violenza"]
 ---
-
 "Buongiorno America! O dovrei dire, buongiorno Trump-landia? Mentre l'Italia si sveglia, New York va a nanna con un nuovo incubo: il ritorno del parrucchino presidenziale!
 
 I Democratici hanno fatto un faccia a faccia con la realtà, e la realtà ha vinto per KO tecnico. Pare che ripetere 'l'economia va benissimo!' mentre la gente conta gli spiccioli per la spesa non sia stata una strategia vincente. Chi l'avrebbe mai detto?

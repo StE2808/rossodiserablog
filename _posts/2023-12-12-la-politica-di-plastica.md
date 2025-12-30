@@ -4,10 +4,11 @@ title: "La politica di plastica"
 date: 2023-12-12 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/madrid_-_ministerio_de_sanidad_politica_social_e_igualdad_2.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Viviamo assediati dalla plastica, lo sappiamo ma continuiamo ad utilizzarla, anche dove potremmo certamente farne a meno. Se di plastica ne consumiamo a..."
 category: politica-interna
 tags: ["Bestia", "doctor", "Facebook", "Green Deal", "like", "Matteo Salvini", "Meloni", "Morisi", "Mussolini", "Nutella", "plastica", "politica di plastica", "salvini", "spin", "twitter", "VinciSalvini", "x"]
 ---
-
 Viviamo assediati dalla plastica, lo sappiamo ma continuiamo ad utilizzarla, anche dove potremmo certamente farne a meno. Se di plastica ne consumiamo a testa oltre 100 kg l'anno, a questa conta, dovremmo aggiungere anche una plastica più insidiosa, perché intangibile: la politica attuale. Sì, la politica 2.0, quella di Salvini ma anche di Meloni, che è poi la quella inventata da Berlusconi, è una politica completamente artificiale, di plastica, appunto.
 
     

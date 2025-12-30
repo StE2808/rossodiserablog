@@ -4,10 +4,11 @@ title: "Meloni: il viaggio delle promesse"
 date: 2025-07-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6663.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Nel caldo torrido dell’Etiopia, mentre il sole picchiava sui terreni aridi e le dune avanzavano inesorabili verso i campi coltivati, arrivò Giorgia Meloni..."
 category: politica-estera
 tags: ["Africa", "agricoltura", "Ambiente", "cambiamento climatico", "desertificazione", "diritti", "Economia", "Etiopia", "Europa", "fascismo", "Generazioni Future", "Governo", "Meloni", "mercato", "migranti", "politica", "Solidariet\u00e0", "UE"]
 ---
-
 Nel caldo torrido dell’Etiopia, mentre il sole picchiava sui terreni aridi e le dune avanzavano inesorabili verso i campi coltivati, arrivò Giorgia Meloni con la sua delegazione. Venivano per parlare di sistemi alimentari, di lotta al cambiamento climatico, di cooperazione internazionale.
 La Premier aprì il suo discorso citando Cicerone e il suo Cato Maior, parlando della nobiltà del lavoro agricolo come se fosse la prima a scoprire che la terra nutre l’uomo. Le parole scivolavano melodiose nell’aria polverosa, mentre i contadini locali continuavano la loro battaglia quotidiana contro il deserto che non conosce retorica.
 “La bellezza dei lavori agricoli,” declamava, “dove si lotta contro l’avanzata delle sabbie…” Ma le sue parole sembravano echi di un passato che aveva sognato imperi dove il sole non tramontava mai, imperi costruiti con la forza e mai davvero realizzati.

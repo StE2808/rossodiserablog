@@ -4,10 +4,11 @@ title: "L’ironia tragica della violenza MAGA"
 date: 2025-09-13 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/09/img_6766.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La morte di Charlie Kirk rappresenta un momento di drammatica ironia per il movimento MAGA americano. Il noto attivista conservatore di 31 anni, stretto..."
 category: cronaca-bianca
 tags: ["America", "charliekirk", "Conflitto", "crisi", "diritti", "emigranti", "giustizia", "Governo", "immigrazione", "MAGA", "odio", "polarizzazione", "politica", "sicurezza", "sociale", "societ\u00e0", "Trump", "tylerrobinson", "USA"]
 ---
-
 La morte di Charlie Kirk rappresenta un momento di drammatica ironia per il movimento MAGA americano.
 
 Il noto attivista conservatore di 31 anni, stretto alleato di Trump e fondatore di Turning Point USA, è stato ucciso mercoledì durante un evento all’Utah Valley University da Tyler Robinson, 22 anni, un giovane cresciuto in quello stesso ambiente conservatore che Kirk rappresentava.

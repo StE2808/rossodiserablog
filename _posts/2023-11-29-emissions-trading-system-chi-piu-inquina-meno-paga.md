@@ -4,10 +4,11 @@ title: "Emissions Trading System: chi più inquina meno paga."
 date: 2023-11-29 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/ciminiere.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "L’Unione Europea affronta un complesso dibattito sull’Emissions Trading System (EU ETS), un meccanismo progettato per ridurre le emissioni di gas serra..."
 category: ambiente
 tags: ["ArcelorMittal", "\u00e9lite emissioni", "chi inquina paga", "contributo lotta cambiamento climatico", "costi ambientali e sociali", "disincentivo innovazione", "efficienza cambiamento climatico", "Emissions Trading System", "ENEL", "Eni", "EU ETS", "fondi per sostenibilit\u00e0", "futuro sostenibile", "grandi aziende inquinanti", "impatto ambientale", "importanza economica", "inquinamento", "inquinatori", "licenze emissioni gas serra", "limitazione efficacia EU ETS", "mitigazione impatto climatico", "normative ambientali", "permessi gratuiti", "piccole e medie imprese", "pratiche sostenibili", "responsabilit\u00e0 inquinatori", "riduzione emissioni", "riduzione emissioni gas serra", "riforma EU ETS", "RWE", "spostamento produzione", "supporto famiglie", "sviluppo tecnologie pulite", "Unione Europea"]
 ---
-
 L’Unione Europea affronta un complesso dibattito sull’Emissions Trading System (EU ETS), un meccanismo progettato per ridurre le emissioni di gas serra. Tuttavia, emerge una problematica significativa: l’assegnazione di “permessi gratuiti” alle grandi aziende inquinanti, una pratica che solleva dubbi sulla sua efficienza nel contrastare il cambiamento climatico e sulla conformità al principio fondamentale del “chi inquina paga”.
 
 I permessi gratuiti nell’ambito dell’EU ETS sono sostanzialmente delle licenze che permettono alle aziende di emettere una certa quantità di gas serra senza alcun costo. Questi permessi sono assegnati alle aziende in base a vari criteri, tra cui la loro storia di emissioni e l’importanza economica. Tali permessi intendono prevenire lo spostamento della produzione verso Paesi con normative ambientali meno severe, ma possono anche creare un disincentivo all’innovazione e alla riduzione delle emissioni.

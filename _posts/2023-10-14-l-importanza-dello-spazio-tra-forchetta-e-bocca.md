@@ -4,10 +4,11 @@ title: "L’importanza dello spazio tra forchetta e bocca"
 date: 2023-10-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/img_4164-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "A proposito di alimentazione , stili di vita ma anche approccio alla vita. La vita , tutte le vite hanno diritto di essere"
 category: scienza-tecnologia
 tags: ["Ambiente", "armi", "caccia", "cacciatori", "Etica", "fucili", "lobbismo", "lobby", "mentale", "morale", "preda", "pubblica", "vegan", "vegano", "vegetariano"]
 ---
-
 A proposito di alimentazione , stili di vita ma anche approccio alla vita. La vita , tutte le vite hanno diritto di essere.
 
 Questa affermazione solleva, indubbiamente, importanti questioni che non possono essere ignorate. 

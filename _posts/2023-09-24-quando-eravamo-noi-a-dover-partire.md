@@ -4,10 +4,11 @@ title: "Quando eravamo noi a dover partire"
 date: 2023-09-24 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_4051.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La Meloni è insoddisfatta dei suoi risultati sulla immigrazione. L'altra sera la nostra premier, al TG1, nel tirare le somme vittoriose del primo anno di..."
 category: opinioni-editoriali
 tags: ["Africa", "Cutro", "decrerto", "emigranti", "Governo", "leggi del mare", "migranti", "ONG", "Salvataggio in mare"]
 ---
-
 La Meloni è insoddisfatta dei suoi risultati sulla immigrazione. L'altra sera la nostra premier, al TG1, nel tirare le somme vittoriose del primo anno di governo, ha, però, “ammesso” di essere non felice su quanto fatto per “fermare” gli immigrati. 
 
 La Meloni di oggi  sembra essere la brutta copia di quella che era all'opposizione, dapprima sbraitava, si sperticava, rivendicava il "blocco navale" salvo poi accorgersi che non è possibile farlo. Malediva l'incapacità della gestione dei flussi, salvo poi trovarsi il 300% di arrivi in più. Urlava all'invasione ed ora quello che riesce ad inventarsi è una reclusione fino a 18 mesi nei centri di identificazione e rimpatrio, salvo poter pagare circa 5mila euro di cauzione.

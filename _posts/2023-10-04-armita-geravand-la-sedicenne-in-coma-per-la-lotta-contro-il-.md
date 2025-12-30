@@ -4,10 +4,11 @@ title: "Armita Geravand: la sedicenne in coma per la lotta contro il velo in Ira
 date: 2023-10-04 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5287.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "![](images/2023/10/img_5287.jpeg) In un mondo in cui l’espressione personale dovrebbe essere un diritto inalienabile, ci sono ancora luoghi in cui il..."
 category: cronaca-bianca
 tags: ["Armita Geravand", "Cultura", "diritti delle donne", "giovani donne iraniane", "giustizia", "libert\u00e0 di espressione", "lotta per i diritti", "Mahsa Amini", "polizia morale", "repressione", "Repubblica Islamica dell\u2019Iran", "resistenza", "Solidariet\u00e0", "Tehran"]
 ---
-
 ![](images/2023/10/img_5287.jpeg)
 In un mondo in cui l’espressione personale dovrebbe essere un diritto inalienabile, ci sono ancora luoghi in cui il semplice atto di mostrare i propri capelli può portare a conseguenze tragiche. Questa è la storia di Armita Geravand, una giovane iraniana di 16 anni, che ha recentemente vissuto la crudele realtà della repressione culturale e religiosa nel suo paese.
 

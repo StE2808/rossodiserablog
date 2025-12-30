@@ -4,10 +4,11 @@ title: "Habemus Papam: un Leone tra i leoni del mondo"
 date: 2025-05-09 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6397-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Il cardinale statunitense Robert Francis Prevost è stato eletto come 267° papa della Chiesa cattolica, assumendo il nome di Leone XIV. L'annuncio è stato..."
 category: cronaca-bianca
 tags: ["americano", "chiesa", "Governo", "leone", "Pace", "Papa", "politica", "Trump", "USA", "vaticano", "XIV"]
 ---
-
 Il cardinale statunitense Robert Francis Prevost è stato eletto come 267° papa della Chiesa cattolica, assumendo il nome di Leone XIV.
 
 L'annuncio è stato dato ieri sera dalla loggia di San Pietro dal cardinale Mamberti. La scelta del nome, che richiama Leone XIII autore della "Rerum novarum", suggerisce un'attenzione alle questioni sociali.

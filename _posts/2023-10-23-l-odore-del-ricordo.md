@@ -4,9 +4,10 @@ title: "L’odore del ricordo"
 date: 2023-10-23 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/img_4182-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "A volte un odore ti rapisce e ti porta lontano. Esiste un termine francese che ne tenta di descrive il fenomeno: Madeleine de Proust"
 tags: ["Anni \u201960", "Forme", "giovent\u00f9", "giovinezza", "Lutto", "Madeleine", "Morte", "nonna", "nonno", "Proust", "ragazzi", "ricordo", "societ\u00e0", "Solidariet\u00e0"]
 ---
-
 A volte un odore ti rapisce e ti porta lontano. Esiste un termine francese che ne tenta di descrive il fenomeno: Madeleine de Proust. 
 
 E come a tutti,  è successo anche a me, diverse volte, sempre troppo poche. Chiarisco subito che si tratta di sensazioni dell'infanzia e della prima giovinezza e che qui narro brevemente ma che potrebbero, egoisticamente, riempire pagine se non capitoli. 

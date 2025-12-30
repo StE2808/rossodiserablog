@@ -4,10 +4,11 @@ title: "Trattori e proteste"
 date: 2024-02-01 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/02/img_4545-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "E se i trattoristi in rivolta fossero strumentalizzati. Sembra molto verosimile"
 category: ambiente
 tags: ["blocchi", "cambiamento climatico", "clima", "climatica", "diritti", "Economia", "Europa", "Generazioni Future", "giustizia", "Governo", "impatti climatici", "impatto ambientale", "inquinamento", "lavoro", "manifestazioni", "Meloni", "mercato", "politica", "repressione", "salvini", "sicurezza", "societ\u00e0", "strada", "stradali", "strade trattori", "UE", "violenza"]
 ---
-
 E se i trattoristi in rivolta fossero strumentalizzati? Sembra molto verosimile.
 
 Le proteste dei “nostri” agricoltori, molto vicini a Lollobrigida e Meloni, ufficialmente sono organizzate per contrastare le politiche agricole UE giudicate troppo restrittive e contro le organizzazioni del settore che non farebbero abbastanza.

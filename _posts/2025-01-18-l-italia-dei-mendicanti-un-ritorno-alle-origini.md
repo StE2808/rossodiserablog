@@ -4,10 +4,11 @@ title: "L'Italia dei Mendicanti: Un Ritorno alle Origini"
 date: 2025-01-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_6006-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "C'era una volta l'Italia del miracolo economico, della dignità ritrovata, dell'orgoglio di una nazione che si era rialzata dalle macerie della guerra..."
 category: cultura-spettacolo
 tags: ["comparaggio", "diritti", "Economia", "Etica", "Europa", "giustizia", "Governo", "guerra", "lavoro", "Meloni", "Migrazione", "politica", "povert\u00e0", "sicurezza", "societ\u00e0", "USA"]
 ---
-
 C'era una volta l'Italia del miracolo economico, della dignità ritrovata, dell'orgoglio di una nazione che si era rialzata dalle macerie della guerra. Quell'Italia sembra oggi un ricordo sbiadito, sostituita da un nuovo medioevo sociale dove il "cappello in mano" è tornato a essere la postura nazionale prediletta.
 
 La  metamorfosi è tanto sottile quanto profonda. Non vediamo più i mendicanti con il piattino per le elemosine agli angoli delle strade - o almeno, non solo quelli. La mendicità contemporanea italiana ha assunto forme più sofisticate, ma non per questo meno umilianti. Si manifesta nelle anticamere del potere, nelle trattative di corridoio, nelle concessioni elargite come favori regali.

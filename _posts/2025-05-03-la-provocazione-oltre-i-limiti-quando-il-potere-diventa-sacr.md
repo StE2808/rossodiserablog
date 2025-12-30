@@ -4,10 +4,11 @@ title: "La Provocazione Oltre i Limiti: Quando il Potere Diventa Sacrilegio"
 date: 2025-05-03 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6380-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "L'immagine è apparsa all'improvviso, scioccante nella sua arroganza: Donald Trump vestito da Pontefice. Non un meme anonimo circolato nei meandri dei..."
 category: cultura-spettacolo
 tags: ["diritti", "Economia", "Etica", "giustizia", "Governo", "mercato", "odio", "Pace", "Papa", "politica", "repressione", "sociale", "societ\u00e0", "Trump", "USA", "vaticano", "violenza"]
 ---
-
 L'immagine è apparsa all'improvviso, scioccante nella sua arroganza: Donald Trump vestito da Pontefice. Non un meme anonimo circolato nei meandri dei social, ma un contenuto ufficialmente pubblicato sulla pagina della Casa Bianca e sull'account personale del Presidente.
 
     È il culmine di una dichiarazione che solo 24 ore prima aveva già sollevato onde di indignazione: "Vorrei diventare Papa. Sarebbe la mia prima scelta. Penso che sarei un grande Papa. Nessuno lo farebbe meglio di me". Parole che, in bocca a qualsiasi altro leader mondiale, avrebbero provocato una crisi diplomatica immediata.

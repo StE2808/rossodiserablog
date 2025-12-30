@@ -4,10 +4,11 @@ title: "Meloni ed il progetto segreto"
 date: 2024-01-23 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4506-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Cambiare idea, normalmente, è sintomo di capacità di adattamento, dimostra disponibilità a rivedere le proprie posizioni, quando altre appaiono..."
 category: politica-interna
 tags: ["antiparlamentare", "antiparlamentarismo", "Costituzione", "Governo", "Meloni", "Padri Costituenti", "parlamento", "politica", "Riforme", "Riforme istituzionali"]
 ---
-
 Cambiare idea, normalmente, è sintomo di capacità di adattamento, dimostra disponibilità a rivedere le proprie posizioni, quando altre appaiono all'orizzonte e si dimostrano migliori. Ma questa maggioranza ha cambiato idea su tutto: tutti i punti del programma elettorale sono stati disattesi, tutte le promesse sono saltate e persino il ponte sullo Stretto, prima inviso a Salvini, ora ha cambiato nome in "Ponte degli Italiani" e Salvini lo osanna annunciando ondivagamente 40, 45, 60, 80, 100, 120 mila posti di lavoro, ma, "posti di lavoro veri", tiene a precisare, anche se sembrano più numeri buoni per giocarli al lotto che dati scientifici.
 
 Avevano anche proclamato, in campagna elettorale, l’assoluta urgenza di convertire la democrazia parlamentare in un sistema presidenziale. Insomma: elezione diretta del presidente della Repubblica. Era apparso un tema importantissimo, tanto da diventare una bandiera, era diventato un tema identitario. Poi la vittoria, la formazione della compagine governativa e l'insediamento del Governo che, non trovando la quadra su tantissimi aspetti ed anche su di un tema così spinoso,  ha trasformato il presidenzialismo in elezione diretta del presidente del consiglio.

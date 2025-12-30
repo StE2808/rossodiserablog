@@ -4,10 +4,11 @@ title: "Il flagello delle fake news: Italia campione d’ Europa di “falsità�
 date: 2023-10-31 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5612.webp
+image_alt: "Immagine di copertina dell'articolo"
+description: "In un'epoca dominata dall'informazione digitale, l'Italia si trova a fronteggiare un nemico insidioso e pervasivo: le fake news. Recentemente, il Paese ha..."
 category: cronaca-bianca
 tags: ["Collaborazione Inter-Piattaforma", "Disinformazione", "Facebook", "Fact-Checking", "Fake News", "Finti Account", "Fonti Affidabili", "Impegno degli Utenti", "Instagram", "Meta", "Social Media", "Tecnologie di Rilevamento", "Verifica dell\u2019Identit\u00e0"]
 ---
-
 In un'epoca dominata dall'informazione digitale, l'Italia si trova a fronteggiare un nemico insidioso e pervasivo: le fake news. Recentemente, il Paese ha guadagnato l'infausto primato in Europa per il numero di contenuti falsi rimossi da Facebook e Instagram nel primo semestre del 2023, con un totale di 45.000 post su Facebook e 1.900 su Instagram eliminati da Meta, la società madre delle suddette piattaforme.
 
     

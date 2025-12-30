@@ -4,10 +4,11 @@ title: "L’etica del viandante: ci potrà salvare?"
 date: 2025-02-15 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/02/viandante2.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "C’è un’antica figura che attraversa il tempo con passo leggero e sguardo attento: il viandante. Non è un turista, non è un pellegrino, non è un semplice..."
 category: ambiente
 tags: ["Armonia con la natura", "Ascolto", "Cambiamento", "consapevolezza", "diritti", "Economia circolare", "Etica", "Filosofia", "futuro sostenibile", "giustizia", "politica", "societ\u00e0", "sostenibilit\u00e0", "Spiritualit\u00e0", "Viaggio", "Viandante"]
 ---
-
 C’è un’antica figura che attraversa il tempo con passo leggero e sguardo attento: il viandante. Non è un turista, non è un pellegrino, non è un semplice camminatore. È qualcosa di più: un individuo che sceglie di muoversi nel mondo senza possederlo, che vive il viaggio come forma di ascolto e trasformazione. E se fosse proprio la sua etica a offrirci una via d’uscita dal caos moderno?
 
     **Chi è il viandante?**

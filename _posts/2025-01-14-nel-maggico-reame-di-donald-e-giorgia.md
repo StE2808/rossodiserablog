@@ -4,10 +4,11 @@ title: "Nel maggico reame di Donald e Giorgia"
 date: 2025-01-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_5993-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Accadde oggi… Oh, che meraviglia. Nel regno incantato della giustizia selettiva, il voto popolare è la bacchetta magica che fa sparire 34 capi..."
 category: politica-estera
 tags: ["Cina", "Economia", "Europa", "fascismo", "fascista", "gaza", "giustizia", "Governo", "guerra", "Meloni", "mercato", "Pace", "palestina", "politica", "repressione", "Russia", "sicurezza", "societ\u00e0", "Ucraina", "UE", "USA"]
 ---
-
 Accadde oggi…
 
 Oh, che meraviglia! Nel regno incantato della giustizia selettiva, il voto popolare è la bacchetta magica che fa sparire 34 capi d'imputazione come per magia! Perché preoccuparsi di dettagli come "prove" o "tentato colpo di stato" quando hai milioni di follower sul social Truth? Ovviamente non due pesi e due misure ma tanti pesi e tantissime misure per vestire a pennello i potenti e spavaldi.

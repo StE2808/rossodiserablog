@@ -4,10 +4,11 @@ title: "Meloni contro i diritti dei lavoratori"
 date: 2025-07-21 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6622-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La scusa è il cosiddetto decreto Ilva. Ma quello che sta accadendo è uno scandalo di proporzioni inaudite"
 category: politica-interna
 tags: ["decreto", "diritti", "Economia", "giustizia", "Governo", "Ilva", "lavoratori", "lavoro", "Meloni", "politica", "sociale"]
 ---
-
 La scusa è il cosiddetto decreto Ilva. Ma quello che sta accadendo è uno scandalo di proporzioni inaudite. Il governo Meloni, con la complicità di Fratelli d’Italia, sta perpetrando il più feroce attacco ai diritti fondamentali dei lavoratori degli ultimi decenni, proprio nascondendosi dietro un emendamento subdolamente inserito nel decreto Ilva.
 
 Questa operazione rappresenta un tradimento totale delle promesse elettorali e dei principi costituzionali che dovrebbero tutelare chi lavora. Mentre Giorgia Meloni si proclama ipocritamente “donna del popolo”, il suo governo sta sferrando un colpo mortale a milioni di lavoratori italiani attraverso misure di una gravità inaccettabile.

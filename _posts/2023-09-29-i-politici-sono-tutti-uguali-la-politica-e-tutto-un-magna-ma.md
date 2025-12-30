@@ -4,10 +4,11 @@ title: "I politici sono tutti uguali?La politica e’ tutto un magna-magna? O è
 date: 2023-09-29 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_4068.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La politica, da quando l’uomo si è evoluto, è uscito dalla caverna, si è organizzato per vivere in gruppi, la politica, dicevo, ha reso possibile la..."
 category: politica-interna
 tags: ["giustizia", "Governo", "polarizzazione", "politica", "politici", "tutti uguali"]
 ---
-
 La politica, da quando l’uomo si è evoluto, è uscito dalla caverna, si è organizzato per vivere in gruppi, la politica, dicevo, ha reso possibile la convivenza ed ha permesso il progresso e l’evoluzione ma anche il miglioramento costante della nostra qualità della vita. La politica è una cosa pulita ed è importante per tutti noi e vediamo per quali motivi.
 
 La politica, checche ci voglia far pensare, proprio una parte degli stessi politici, è una delle attività fondamentali dell'essere umano, si occupa della gestione del potere, delle risorse e delle decisioni che influenzano la vita di ogni individuo che componga una società. 

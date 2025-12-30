@@ -4,10 +4,11 @@ title: "La Guerra dei 12 Giorni (che in realtà erano 14, ma chi conta?)"
 date: 2025-06-25 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/06/img_6531-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Ah, la famosa “guerra dei 12 giorni”. Peccato che di giorni ce ne siano stati 14, ma evidentemente quando si tratta di conflitti internazionali, la..."
 category: cronaca-bianca
 tags: ["Conflitto", "crisi", "Cultura", "gaza", "giustizia", "Governo", "guerra", "hamas", "Iran", "israele", "libert\u00e0", "Meloni", "odio", "Pace", "palestina", "politica", "repressione", "resistenza", "societ\u00e0", "Trump", "UE", "Umanit\u00e0", "USA", "violenza"]
 ---
-
 Ah, la famosa “guerra dei 12 giorni”! Peccato che di giorni ce ne siano stati 14, ma evidentemente quando si tratta di conflitti internazionali, la matematica diventa un optional. D’altronde, chi ha tempo di contare quando c’è da dichiarare vittoria?
 
 E parlando di vittorie, che spettacolo vedere “tutti”che rivendicano il merito del cessate il fuoco! L’Iran festeggia, Israele pure, Trump si prende i complimenti per una telefonata (probabilmente la più costosa della storia, considerando che ha fermato una guerra… o almeno così dice lui). È come quando tre persone si contendono il merito di aver acceso una lampadina: tutti hanno premuto l’interruttore, ma solo uno aveva la corrente attaccata.

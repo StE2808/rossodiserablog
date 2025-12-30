@@ -4,10 +4,11 @@ title: "L'Importanza della Conservazione dei Mari e degli Oceani"
 date: 2023-10-13 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/mare.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "![](images/2023/10/mare.png) I mari e gli oceani: custodi del nostro pianeta I mari e gli oceani costituiscono il 71% della superficie terrestre, e..."
 category: ambiente
 tags: ["biodiversit\u00e0 marina", "cambiamento climatico", "ciclo del carbonio", "conservazione marina", "inquinamento dei mari", "Mari", "oceani", "sostenibilit\u00e0 marina"]
 ---
-
 ![](images/2023/10/mare.png)
     **I mari e gli oceani: custodi del nostro pianeta**
 

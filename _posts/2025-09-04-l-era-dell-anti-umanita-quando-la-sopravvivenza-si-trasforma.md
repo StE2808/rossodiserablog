@@ -4,9 +4,10 @@ title: "L’Era dell’Anti-Umanità: Quando la Sopravvivenza si Trasforma in Au
 date: 2025-09-04 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/09/img_6742.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Viviamo in un paradosso evolutivo che il grande etologo austriaco Konrad Lorenz aveva già intuito nelle sue riflessioni sulla natura umana. Secondo..."
 tags: ["diritti", "diritti umani", "Economia", "Etica", "Generazioni Future", "giustizia", "Governo", "guerra", "Identit\u00e0", "Istruzione", "mercato", "odio", "Pace", "politica", "resistenza", "Riforme", "sociale", "societ\u00e0", "Solidariet\u00e0", "trogloditi", "Umanit\u00e0", "violenza"]
 ---
-
 Viviamo in un paradosso evolutivo che il grande etologo austriaco Konrad Lorenz aveva già intuito nelle sue riflessioni sulla natura umana. Secondo Lorenz, l’uomo ha raggiunto un punto di svolta cruciale nella propria storia evolutiva: per la prima volta in centinaia di migliaia di anni, non ha più nemici naturali esterni contro cui lottare per la sopravvivenza.
 Circa diecimila anni fa, i nostri antenati hanno definitivamente sconfitto gli ultimi grandi predatori che minacciavano la specie. L’orso delle caverne, il leone marsupiale, i grandi felini dai denti a sciabola: tutti eliminati dalla combinazione letale di intelligenza umana, organizzazione sociale e tecnologia primitiva ma efficace. Le lance, le frecce, e successivamente le prime armi da fuoco, hanno reso l’homo sapiens il predatore definitivo, colui che non teme più alcuna bestia feroce.
 Ma la natura, come sosteneva lo stesso Lorenz, ha dotato ogni essere vivente di meccanismi di aggressività e competizione che non possono semplicemente svanire nel nulla. Quando il nemico esterno scompare, l’istinto di sopraffazione si rivolge inevitabilmente verso l’interno della propria specie. È iniziata così quella che potremmo chiamare “la scalata intraspecifica”: una lotta senza quartiere non più per la sopravvivenza fisica, ma per il dominio sociale, economico e politico.

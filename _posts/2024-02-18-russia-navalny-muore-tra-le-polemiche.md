@@ -4,10 +4,11 @@ title: "Russia: Navalny muore tra le polemiche"
 date: 2024-02-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/02/img_4612-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Scampo’ a vari attentati ed avvelenamenti. Anti corruzione, cosa scomoda visto che in Russia dilaga"
 category: politica-estera
 tags: ["Cultura", "Economia", "Europa", "giustizia", "Governo", "guerra", "lega", "Morte", "Navalny", "odio", "omicidio", "politica", "Russia", "salvini", "Ucraina", "violenza"]
 ---
-
 Scampo’ a vari attentati ed avvelenamenti. Anti corruzione, cosa scomoda visto che in Russia dilaga. Finalmente lo Zar Putin è riuscito a fermare il suo cuore definitivamente, durante una passeggiata nell’ora d’aria, una embolia o un aneurisma o qualcosa del genere… Difficile verificare dalla Siberia e soprattutto dall’interno di un carcere di massima sicurezza. Intanto monta il caso internazionale sulla sua morte e inizia il balletto per la restituzione del corpo. Nel coro planetario di condanna spunta l’assenza dalle voci della Lega: strano… nemmeno una voce bianca, nemmeno un eunuco leghista si è fatto sentire.
 
 Alexei Navalny, nazionalista e rappresentante di un movimento trasversale ma che volge lo sguardo a destra, era a favore della riunione di vari territori tra i quali anche l’Ucraina con la Grande Madre. 

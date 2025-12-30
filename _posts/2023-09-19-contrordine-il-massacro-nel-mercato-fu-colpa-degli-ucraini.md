@@ -4,10 +4,11 @@ title: "Contrordine: il massacro nel mercato fu colpa degli ucraini"
 date: 2023-09-19 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/ste_spi_un_missile_militare_sfreccia_nel_cielo_quali_sono_le_im_636ca4a0-999e-46b3-9ee1-6b97463abcfc.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "L'attacco a colpi di missile sul mercato nel Donetsk fu un errore di Kiev: questa la notizia battura stamattina alle 10:42 dall'ANSA. E così si scopre che..."
 category: cronaca-bianca
 tags: ["Donetsk", "Kiev.", "Kostiantynivka", "mercato", "Missile", "Putin", "Russia", "Ucraina", "Zelensky"]
 ---
-
 L'attacco a colpi di missile sul mercato nel Donetsk fu un errore di Kiev: questa la notizia battura stamattina alle 10:42 dall'ANSA. 
 
 E così si scopre che l'attacco missilistico del 6 settembre su un mercato della città di Kostiantynivka, nella regione del Donetsk, che aveva causato almeno 16 morti e decine di feriti e mutilati, non è colpa dei russi, come si affrettarono subito  ad affermare tutti i media, ma si tratta invece invece un errore dell'esercito Ucraino. Un tragico e tremendo errore che ha fatto partire un missile da un territorio sotto il controllo di Kiev che è caduto su un mercato durante un'ora di estrema affluenza.

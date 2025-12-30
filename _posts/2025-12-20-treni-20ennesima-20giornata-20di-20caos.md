@@ -10,6 +10,8 @@ tags:
   - ritardi
   - trenitalia
 image: /assets/images/uploads/IMG_6989.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Treni: ennesima giornata di caos"
 excerpt: 'Treni: ennesima giornata di caos'
 ---
 Guardate questo tabellone: una sfilza di treni in ritardo. Qusta era, stamattina, Santa Maria  Novella, Firenze, ma è un problema diffuso in ogni stazione italiana.

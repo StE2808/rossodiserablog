@@ -4,10 +4,11 @@ title: "Voci Inascoltate: L’Iran e il (non) dialogo globale sui Diritti Umani"
 date: 2023-11-01 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/img_5619.webp
+image_alt: "Immagine di copertina dell'articolo"
+description: "In un’era di globalizzazione e interconnessione, le ingiustizie perpetrate in un angolo del mondo risuonano attraverso i continenti, risvegliando le..."
 category: cronaca-bianca
 tags: ["Ali Bahreini", "Armita Geravand", "comunit\u00e0 internazionale", "diritti umani", "Forum Sociale del Consiglio delle Nazioni Unite", "giustizia", "Iran", "Mahsa Amini", "repressione", "solidariet\u00e0 globale"]
 ---
-
 In un’era di globalizzazione e interconnessione, le ingiustizie perpetrate in un angolo del mondo risuonano attraverso i continenti, risvegliando le coscienze e catalizzando il dialogo sui diritti umani. L’Iran, con la sua ricca tapezzeria culturale e politica, si trova spesso al centro di tali dialoghi, rappresentando un microcosmo delle sfide globali nella promozione dei diritti umani e della dignità.
 
     

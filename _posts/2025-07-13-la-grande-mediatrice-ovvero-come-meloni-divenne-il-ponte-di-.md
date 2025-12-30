@@ -4,10 +4,11 @@ title: "La Grande Mediatrice: Ovvero Come Meloni Divenne il Ponte di Carta"
 date: 2025-07-13 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6611-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Una riflessione amara sul fallimento della diplomazia italiana nell’era Trump Giorgia. La donna che doveva essere il ponte tra due mondi, la mediatrice..."
 category: societa
 tags: ["dazi", "Europa", "Governo", "Meloni", "politica", "tariffs", "USA"]
 ---
-
 Una riflessione amara sul fallimento della diplomazia italiana nell’era Trump
 
 Giorgia! La donna che doveva essere il ponte tra due mondi, la mediatrice suprema, la tessitrice di relazioni internazionali. Quella che, con il suo carisma da leader post-ideologica e la sua presunta capacità di parlare tanto ai sovranisti quanto agli europeisti, avrebbe dovuto trasformare l’Italia nel fulcro diplomatico del mondo occidentale.

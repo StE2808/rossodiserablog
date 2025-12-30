@@ -4,9 +4,10 @@ title: "Il Reddito Universale: una soluzione sconfiggere la disuguaglianza econo
 date: 2024-05-30 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/05/image.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Il reddito universale, spesso chiamato reddito di base incondizionato (UNI), è un concetto che sta guadagnando sempre più attenzione nel dibattito..."
 tags: ["Ambiente", "Cultura", "Economia", "Etica", "Europa", "giustizia", "Governo", "lavoro", "mercato", "migranti", "politica", "reddito universale", "Salute", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]
 ---
-
 Il reddito universale, spesso chiamato reddito di base incondizionato (UNI), è un concetto che sta guadagnando sempre più attenzione nel dibattito pubblico ed  economico globale.
 
 Ma quali sono i principali fattori che influenzano il reddito universale? Come può contribuire a vincere la povertà e promuovere l’educazione universale? 

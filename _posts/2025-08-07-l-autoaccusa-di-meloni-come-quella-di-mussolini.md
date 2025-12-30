@@ -4,10 +4,11 @@ title: "L’autoaccusa di Meloni come quella di Mussolini"
 date: 2025-08-07 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/08/img_6680.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "E’ proprio vero che la storia si nutre di corsi e ricorsi come diceva un certo Giambattista Vico. Infatti si può tracciare un parallelo significativo tra..."
 category: cronaca-bianca
 tags: ["Almasri", "diritti", "Etica", "Europa", "fascismo", "Giorgia Meloni", "giustizia", "Governo", "Identit\u00e0", "Meloni", "Mussolini", "odio", "politica", "repressione", "sicurezza", "sociale", "violenza"]
 ---
-
 E’ proprio vero che la storia si nutre di corsi e ricorsi come diceva un certo Giambattista Vico.
 
 Infatti si può tracciare un parallelo significativo tra il discorso di Giorgia Meloni sul caso Almasri e il celebre discorso di Mussolini del 3 gennaio 1925 sul delitto Matteotti.

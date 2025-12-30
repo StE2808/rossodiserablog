@@ -4,10 +4,11 @@ title: "Fortezza Europa"
 date: 2023-12-21 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/progetto-senza-titolo-1.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Quando il qualunquismo vince su tutto, quando lo spirito dei Padri Fondatori della nostra Europa appare sempre più sbiadito, quando il principio fondante..."
 category: cronaca-bianca
 tags: ["Charles", "diritti", "diritti umani", "emigranti", "Europa", "Fortezza", "Le Pen", "Metsola", "Michel", "migranti", "migratorie", "Migrazione", "Orban", "politica", "politiche", "Roberta", "UE", "Ursula", "von der Leyen"]
 ---
-
 Quando il qualunquismo vince su tutto, quando lo spirito dei Padri Fondatori della nostra Europa appare sempre più sbiadito, quando il principio fondante di Solidarietà in Europa è buttato nel cesso, allora la nostra premier, Giorgia Meloni, appare soddisfatta e lo ha dichiarato, per bocca del ministro Piantedosi, alla sua maniera, sui "suoi" social, prontamente "l'approvazione di questo Patto è un successo".
 
 Stanotte è stato raggiunto l'accordo tra Europarlamento e Consiglio Ue sulle modifiche da apportare al Patto immigrazione e asilo. Nella sostanza nulla cambia se non in peggio a partire dal regolamento di Dublino che non viene modificato nella sostanza lasciando ai paesi di primo approdo l'onere dell'accoglienza e dell'identificazione, ora divenuta obbligatoriamente più stringente con la raccolta dei dati biometrici a partire dai bimbi di sei anni di età.

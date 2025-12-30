@@ -4,10 +4,11 @@ title: "Cambiamento Climatico e Aumento dei Prezzi Alimentari: Una Tendenza Preo
 date: 2023-09-16 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/climate_change_food.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Il cambiamento climatico non è solo una minaccia per il pianeta, ma sta colpendo direttamente il nostro budget e la tavola italiana. Dall'amato caffè alle..."
 category: ambiente
 tags: ["Argentina", "aumento dei prezzi alimentari", "Brasile", "caff\u00e8", "cambiamento climatico", "Colombia", "Costa d'Avorio", "cultura tradizionale", "Ecuador", "impatti climatici", "India", "investimenti per il clima", "paesi vulnerabili", "stile di vita", "tonno", "Uganda", "Vietnam"]
 ---
-
 **Il cambiamento climatico** non è solo una minaccia per il pianeta, ma sta colpendo direttamente il nostro budget e la tavola italiana. **Dall'amato caffè alle deliziose banane, dal tonno in scatola al cioccolato,** il 23% dei nostri cibi preferiti è destinato a costarci di più. La ragione? Paesi in via di sviluppo, da cui provengono molti dei nostri prodotti, stanno subendo le conseguenze disastrose della siccità, del caldo e delle inondazioni causate dal cambiamento climatico. Brasile, Vietnam, Ecuador, India, Argentina, Uganda e Colombia, sette dei nostri principali partner commerciali, sono tra i più colpiti.
 
 Un esempio lampante è il **caffè dal Brasile**. I prezzi del caffè sono schizzati verso l'alto a causa di una combinazione letale di siccità e gelate, riconducibili al cambiamento climatico. Questo ha fatto scendere le riserve globali di caffè ai minimi storici degli ultimi vent'anni.

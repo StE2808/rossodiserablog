@@ -4,10 +4,11 @@ title: "La Grande Visita alla Tana del Leone"
 date: 2025-04-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6322-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Da 12 ore gli scarafaggi leccapiatti e i pavoni scodinzolanti della savana, le iene urlatrici del regime, gli "sciacalli reporter", i babbuini..."
 category: politica-estera
 tags: ["Cina", "diritti", "emigranti", "Etica", "Europa", "giustizia", "Governo", "guerra", "Identit\u00e0", "Meloni", "mercato", "Morte", "odio", "Pace", "politica", "Russia", "societ\u00e0", "Trump", "Ucraina", "UE", "USA", "Viaggio"]
 ---
-
 Da 12 ore gli scarafaggi leccapiatti e i pavoni scodinzolanti della savana, le iene urlatrici del regime, gli "sciacalli reporter", i babbuini commentatori, persino vecchi leoni declassati folgorati sulla via del formichiere, ci stanno gracchiando a giungle unificate che il viaggio alla Grande Roccia del Leone della cameriera bionda è stato un "trionfo nella catena alimentare", addirittura un "capolavoro di diplomazia felina" della piccola servetta.
 
 Bene.

@@ -4,9 +4,10 @@ title: "La deriva autoritaria e la normalizzazione dell'aggressività"
 date: 2025-05-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6443-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Nel panorama politico mondiale attuale assistiamo a un fenomeno preoccupante: l'ascesa di movimenti di destra che hanno progressivamente normalizzato..."
 tags: ["Cultura", "diritti", "Etica", "Europa", "giustizia", "Governo", "Meloni", "odio", "Pace", "politica", "Russia", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
-
 Nel panorama politico mondiale attuale assistiamo a un fenomeno preoccupante: l'ascesa di movimenti di destra che hanno progressivamente normalizzato comportamenti e retoriche un tempo considerati inaccettabili. Questa tendenza ha portato a una sistematica delegittimazione dei valori di rispetto, inclusione e tutela delle fasce più vulnerabili della società.
 
 Il linguaggio aggressivo è diventato strumento politico legittimo, mentre la lotta contro il "politically correct" viene presentata come battaglia per la libertà di espressione, mascherando spesso attacchi a minoranze e gruppi marginalizzati. La gentilezza e l'educazione nel dibattito pubblico sono oggi bollate come debolezze, in favore di uno stile comunicativo provocatorio e divisivo.

@@ -4,10 +4,11 @@ title: "Grafene e nanoparticelle, i misteri degli ignoranti"
 date: 2023-09-04 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/black-eyed-kids-legend.webp
+image_alt: "Immagine di copertina dell'articolo"
+description: "In principio c'era solo la scia chimica, poi arrivò a darle manforte il grafene. Infatti era circolata, insistente, la voce che sosteneva che i vaccini..."
 category: scienza-tecnologia
 tags: ["5G", "balck", "children", "covid", "eyed", "grafene", "malattia", "nanoparticelle", "sociale"]
 ---
-
 In principio c'era solo la scia chimica, poi arrivò a darle manforte il grafene. 
 
 Infatti era circolata, insistente, la voce che sosteneva che i vaccini contro il nuovo Coronavirus avrebbero contenuto, tra le altre cose anche grafene. 

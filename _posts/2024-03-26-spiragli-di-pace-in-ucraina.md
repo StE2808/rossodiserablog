@@ -4,10 +4,11 @@ title: "Spiragli di pace in Ucraina"
 date: 2024-03-26 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/03/crocus_hall_2024.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "E' ora di dire basta. Dopo l'ecatombe in Ucraina, dove il sangue umano è stato sparso, su entrambe i fronti, con estrema profusione, dopo il disastro..."
 category: politica-estera
 tags: ["Alitalia", "America", "Attentato", "CIA", "Cricus Cyty Hall", "Crimea", "Donbass", "ECFR", "Europa", "Francia", "FSB", "Germania", "guerra", "ISIS", "Korasan", "Macron", "Pace", "Russia", "Ucraina", "USA", "Zelensky"]
 ---
-
 E' ora di dire basta. Dopo l'ecatombe in Ucraina, dove il sangue umano è stato sparso, su entrambe i fronti, con estrema profusione, dopo il disastro economico in cui è sprofondata l'Europa grazie alla difficoltà di approvvigionamento energetico, alle sanzioni, all'annullamento dei contratti commerciali in corso con la Russia, all'affossamento di miliardi e miliardi di euro in armamenti, siamo sempre più consapevoli e convinti che la guerra deve finire.
 
 Oggi esiste ancora una integrità del territorio ucraino ed ancora si è in tempo per fermare la machina russa, ancora i quattro quinti del territorio sono ucraini, ma con l'America che si è tirata in dietro, con le titubanze europee, anche giustificate dalle estreme difficoltà economiche che attanagliano le casse UE,  con la scarsità di armamenti a disposizione per Kiev, è giunto il momento di trattare. Trattare per la pace non significa trattare una resa, anche se dovranno essere concessi territori che poi Putin rivendicava dal 2014 e che aveva di fatto annesso, quindi sarebbe una concessione più che accettabile ed eviterebbe una capitolazione ben più grave.

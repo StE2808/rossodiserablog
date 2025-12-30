@@ -4,10 +4,11 @@ title: "Baciami. Anzi no!"
 date: 2023-09-15 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/alfred_eisenstaedt.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Il bacio alla francese è presente nel 90% delle culture. E il 10% delle culture che non si baciano, quali altri gesti romantici usano al posto del bacio"
 category: cultura-spettacolo
 tags: ["Amore", "Bacio", "Batteri", "Emozioni", "Fotografia", "Ricerca", "Romanticismo"]
 ---
-
 Il bacio alla francese è presente nel 90% delle culture. E il 10% delle culture che non si baciano, quali altri gesti romantici usano al posto del bacio? Una carezza? Si toccano il naso? Si strizzano l'occhio ritmicamente e a tempo? Devo assolutamente scoprirlo. Così comincia la mia ricerca sul web, ma non trovo molto. Trovo un'altra ricerca che dice che su 168 culture, solo il 46% usa il bacio per comunicare amore e passione. Quindi, i surrogati romantici del bacio non sono da imputare al 10%, ma al 54% delle culture. Continuo a cercare, ma mi lascio distrarre da altri baci, baci famosi.
 
 Il bacio dell'Hotel de Ville, una foto scattata nel 1950 di **Robert Doisneau** per Life, mostra due giovani che si baciano mentre la vita di Parigi scorre accanto a loro. Tutti sono presi dal tran tran quotidiano, mentre i due amanti sembrano essere lì solo per baciarsi e amarsi. La foto di Doisneau li sottrae al fluire del tempo, rendendo quell'attimo eterno. Curiosamente, nel 1992 una coppia reclamò i diritti di quella immagine, sostenendo di essere i protagonisti; in realtà, erano due impostori. La storia di questo bacio è che Doisneau incontrò una coppia di innamorati che si baciavano in un bar e gli chiese di ripetere il gesto in strada per una foto. Li ringraziò, regalandogli una stampa della foto autografata che nel 2005 fu battuta all'asta per circa 200.000 euro. 

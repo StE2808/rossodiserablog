@@ -4,10 +4,11 @@ title: "2024? Odio, paura, rancore, violenza ma niente fascismo"
 date: 2024-01-03 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/5900204512_2bfc43bae9_w.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La conta in Palestina è arrivata a 22 mila morti tra i civili ed Israele ha dichiarato di non volersi fermare: sentimento che riassume la situazione. odio"
 category: societa
 tags: ["fascismo", "Governo", "Meloni", "odio", "paura", "rancore", "violenza"]
 ---
-
 **La conta in Palestina è arrivata a 22 mila morti** tra i civili ed Israele ha dichiarato di non volersi fermare: sentimento che riassume la situazione? odio. Putin alza il tiro e spinge a fondo la guerra in Ucraina, un Paese distrutto con un quarto della popolazione fuggita anche per non arruolarsi. Non c'è più nulla in piedi se non un abbozzo di industria bellica. Il freddo e la fame sono di casa e non c'è futuro in quel che resta di quel posto. Come si potrebbe definire questa situazione se non di estrema paura, incertezza. Ha un volto ed un nome l'autore della strage dell'Università di Praga: si chiamava David Kozak, 24 anni. Ha ucciso 15 persone e ne ha ferite gravemente 25 prima di togliersi la vita. Aveva già ucciso un padre a spasso per un bosco con la figlioletta la settimana precedente e poco prima della strage, aveva ammazzato suo padre. Si chiama rancore il sentimento che ha guidato la sua mano pluri-omicida.
 
     **In questo clima sociale impazzito**, la crisi climatica, il collasso climatico che ci ha fatto passare le festività natalizie a quasi venti gradi, purtroppo quasi scompare se non fosse per i ragazzi di Ultima Generazione che disperatamente tentano di ricordare all'opinione pubblica ed alla politica che stiamo segando il ramo sul quale siamo seduti.

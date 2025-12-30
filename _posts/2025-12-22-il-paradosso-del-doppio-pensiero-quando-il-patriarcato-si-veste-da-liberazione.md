@@ -8,6 +8,8 @@ tags:
   - '#doppiopensiero #patriarcato #maschio #maschilismo #femminismo #Marketing'
   - '#corpofemminile #bodypositivity #empowerment #capitalismo #sfruttamento #standardestetici #femminismo #controllosociale #oggettificazione #consumismo'
 image: /assets/images/uploads/IMG_6993.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Il doppio pensiero del marketing moderno si manifesta nella sua forma più tossica nel controllo del corpo femminile. Il patriarcato contemporaneo ha..."
 excerpt: Il doppio pensiero del marketing moderno si manifesta nella sua forma più tossica nel controllo del corpo femminile. Il patriarcato contemporaneo ha trasformato l’oppressione in consumo, vendendo standard estetici irraggiungibili mascherati da empowerment femminile. Le donne investono tempo, denaro ed energia in un lavoro estetico non retribuito per conformarsi a ideali creati artificialmente, mentre il sistema le convince che sia una libera scelta. Il marketing crea bisogni inesistenti (cellulite, pori dilatati, segni dell’età) e poi vende soluzioni, mantenendo il corpo femminile in uno stato perpetuo di inadeguatezza. Lo stesso brand vende body positivity e prodotti dimagranti, femminismo e oggettificazione. La vera rivoluzione sarebbe rifiutare questo sistema di controllo patriarcale-capitalista, riconoscendo come “scelte personali” siano in realtà condizionamenti profondi che servono a mantenere le donne in una condizione di subordinazione camuffata da libertà.
 ---
 Viviamo in un’epoca straordinaria di contraddizioni programmate. Scorri il feed: un post ti dice “ama il tuo corpo così com’è”, quello subito dopo ti vende un integratore per “finalmente raggiungere il tuo corpo ideale”. Benvenuti nell’era del doppio pensiero commerciale.

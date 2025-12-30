@@ -4,10 +4,11 @@ title: "Uccisi tutti i mufloni del Giglio"
 date: 2023-12-12 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/img_4370-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "I 35 mufloni rimasti all'Isola del Giglio non ci sono più: sono stati sterminati tutti, eradicati, per usare il linguaggio dei responsabili del Parco..."
 category: societa
 tags: ["35", "giglio", "isola", "mufloni", "sterminio", "uccisione"]
 ---
-
 I 35 mufloni rimasti all'Isola del Giglio non ci sono più: sono stati sterminati tutti, eradicati, per usare il linguaggio dei responsabili del Parco dell'Arcipelago Toscano, in quanto specie non autoctona del luogo, con un grande dispiegamento di fucili, trappole, cani e forze dell'ordine.
 
 Cadapa (Comitato Antispecista Difesa Animale Protezione Ambiente) esprime il proprio sdegno contro l'attuazione di questa direttiva europea, considerandola sbagliata, oltre che crudele, in quanto i mufloni dell'Isola del Giglio, portati in loco negli anni '50, costituivano ormai una specie unica, con un proprio patrimonio genetico.

@@ -4,10 +4,11 @@ title: "Lo studio della storia nelle nuove indicazioni ministeriali: eurocentris
 date: 2025-03-22 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/storia.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Il recente documento "Nuove Indicazioni 2025 - Scuola dell'infanzia e Primo ciclo di istruzione - Materiali per il dibattito pubblico" diffuso dal..."
 category: cultura-spettacolo
 tags: ["#DibattitoPubblico", "#DidatticaInnovativa", "#EducazioneCivica", "#Eurocentrismo", "#FakeNews", "#InsegnamentoStoria", "#MetodoStorico", "#MIUR", "#NuoveIndicazioni2025", "#PensieroCritico", "#RiformaScuola", "#ScuolaPrimaria"]
 ---
-
 Il recente documento "Nuove Indicazioni 2025 - Scuola dell'infanzia e Primo ciclo di istruzione - Materiali per il dibattito pubblico" diffuso dal Ministero dell'Istruzione rappresenta un'opportunità importante per riflettere criticamente sul modo in cui diverse discipline vengono concepite e insegnate alle nuove generazioni. In questa analisi ci concentreremo specificamente sulla sezione dedicata all'insegnamento della storia (pagine 68-77 del documento), che presenta alcune problematiche sostanziali meritevoli di discussione, soprattutto in questa fase in cui il documento è ancora oggetto di dibattito pubblico.
 
     

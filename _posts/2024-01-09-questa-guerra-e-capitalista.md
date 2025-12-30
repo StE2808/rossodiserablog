@@ -4,10 +4,11 @@ title: "Questa guerra è capitalista"
 date: 2024-01-09 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4477-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La guerra è tornata di moda. Anzi, per dire il vero, non è mai passata la smania di farsi la guerra"
 category: diritti-umani
 tags: ["capitale", "capitalismo", "diritti", "guerra", "Karl. Marx", "libert\u00e0", "mercati", "mercato", "politica"]
 ---
-
 La guerra è tornata di moda. Anzi, per dire il vero, non è mai passata la smania di farsi la guerra. Forse sono cambiati gli equilibri, gli schieramenti, i contesti, i mezzi e, financo, le ragioni di prendersi a cannonate, ergere barriere, spendere fortune per arrecare danni che costano altre fortune riparare. Si potrebbero spendere questi denari per frenare il collasso climatico, finanziare la ricerca, trovare soluzioni per debellare malattie e povertà, invece ci si scervella sul come inventare un ordigno più distruttivo possibile, ma che non ci annienti, ci cancelli definitivamente: questo errore era stato fatto da entrambe gli schieramenti, i blocchi, con la corsa al nucleare, salvo poi capire che non si potrebbe combattere a suon di testate nucleari nessuna guerra, non rimarrebbe vivo alcun contendente .
 
     

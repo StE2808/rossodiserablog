@@ -4,10 +4,11 @@ title: "Immigrazione: paura e nemici"
 date: 2024-03-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/03/download-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Che questo Governo abbia sempre bisogno di stimolare nuove e vecchie paure e di trovare vecchi e nuovi nemici è oramai assodato. Ora tocca all'immigrazione"
 category: politica-interna
 tags: ["diritti", "Economia", "emigranti", "Europa", "Governo", "Identit\u00e0", "immigrazione", "lavoro", "Meloni", "mercato", "migranti", "Migrazione", "odio", "politica", "sociale", "societ\u00e0", "Solidariet\u00e0"]
 ---
-
 Che questo Governo abbia sempre bisogno di stimolare nuove e vecchie paure e di trovare vecchi e nuovi nemici è oramai assodato. Ora tocca all'immigrazione.
 
 D'altronde, la destra in Italia, non è sola ma in ottima compagnia in tutt'Europa e poi anche negli USA dove sull'immigrazione i Repubblicani con Trump ma anche i Dem di Biden non fanno sconti da anni.

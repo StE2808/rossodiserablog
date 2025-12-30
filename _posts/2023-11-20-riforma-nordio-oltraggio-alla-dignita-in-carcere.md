@@ -4,9 +4,10 @@ title: "Riforma Nordio: oltraggio alla dignità in carcere"
 date: 2023-11-20 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4302-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Certe riforme escono dalla finestra di Piazzale Loreto e rientrano dalla porta spalancata da questo Governo. Parliamo del Pacchetto Sicurezza voluto a..."
 category: societa
 ---
-
 Certe riforme escono dalla finestra di Piazzale Loreto e rientrano dalla porta spalancata da questo Governo. Parliamo del Pacchetto Sicurezza voluto a tutti i costi dal ministro della Giustizia Carlo Nordio ancora non approvata ma in fase molto avanzata. 
 
 E' nato in questo modo, così,  un nuovo delitto: il reato di rivolta nelle carceri. Insomma una nuova fattispecie giuridica  di “rivolta in sistema penitenziario”, pena da due ad otto anni di carcere.

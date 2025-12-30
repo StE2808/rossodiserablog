@@ -4,10 +4,11 @@ title: "Otto marzo e i diritti della donna"
 date: 2024-03-08 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/03/25301279295_58a4cc9960_c.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Quest'anno ci ha pensato la seconda carica istituzionale in Italia, Ignazio Benito Maria La Russa a celebrare "degnamente" La Giornata internazionale..."
 category: opinioni-editoriali
 tags: ["8 marzo", "diritti", "diritti delle donne", "festa della donna", "giornata internazionale della donna", "marzo 8", "otto", "ottomarzo"]
 ---
-
 Quest'anno ci ha pensato la seconda carica istituzionale in Italia, Ignazio Benito Maria La Russa a celebrare "degnamente" La Giornata internazionale della donna,  l’8 marzo: nei giorni scorsi si è incartato in un goffissimo sproloquio pubblico, in Senato, dove ha invitato le senatrici ad un drink, insomma le ha invitate a bere qualcosa. 
 
 Questo è il modo di come questa destra pensa di celebrare degnamente un giorno in cui si dovrebbero, invece, ricordare l’importanza dei diritti delle donne e le conquiste sociali, politiche ed economiche ottenute,  ma soprattutto si dovrebbe richiamare l’attenzione sulle disuguaglianze di genere ancora esistenti, sugli stereotipi e le discriminazioni, sulla violenza, sui carenti diritti riproduttivi, sulle disparità salariali e sulle diverse occasioni che si danno, a parità di preparazione, a uomini e donne.

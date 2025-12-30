@@ -4,9 +4,10 @@ title: "Chico: la vera storia di un personaggio finto"
 date: 2024-05-24 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/05/img_4987-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Enrico "Chico" Forti era un uomo di molti talenti, sebbene nessuno di questi fosse mai stato particolarmente utile. Campione di surf, produttore..."
 tags: ["Chico forti", "diritti", "Etica", "giustizia", "Governo", "Meloni", "politica", "societ\u00e0", "UE", "USA"]
 ---
-
 Enrico "Chico" Forti era un uomo di molti talenti, sebbene nessuno di questi fosse mai stato particolarmente utile. Campione di surf, produttore televisivo, truffatore e, infine, condannato per omicidio, la sua vita era una strana mistura di successi mediocri e fallimenti eclatanti. Dopo essere stato condannato all'ergastolo negli Stati Uniti per l'omicidio di Dale Pike, il figlio dell'albergatore Anthony Pike, Chico aveva accettato il suo destino con la stessa filosofia con cui aveva affrontato le onde: una risata e una spallata, infatti non si era mai riconosciuto colpevole.
 
 Ma la storia di Chico non finiva lì. Dopo anni di battaglie legali e diplomatiche, l'Italia è riuscita incredibilmente a ottenere la sua estradizione. Chico tornava in patria come una sorta di eroe maledetto, accolto con bandiere e applausi all'aeroporto di Fiumicino. Il primo ministro in persona lo attendeva, con un sorriso che sembrava dire: "Benvenuto a casa, Chico! Sei un prodotto tutto italiano, e siamo fieri di te!"

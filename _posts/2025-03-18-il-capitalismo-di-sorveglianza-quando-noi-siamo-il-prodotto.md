@@ -4,10 +4,11 @@ title: "Il Capitalismo di Sorveglianza: Quando Noi Siamo il Prodotto"
 date: 2025-03-18 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/capitalismo_di_sorveglianza.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Introduzione Nel silenzio della nostra quotidianità digitale, mentre scorriamo feed, cerchiamo informazioni o facciamo acquisti online, un sofisticato..."
 category: opinioni-editoriali
 tags: ["algoritmi", "asimmetria informativa", "Cambridge Analytica", "dati personali", "democrazia digitale", "design persuasivo", "economia dell'attenzione", "Facebook", "GDPR", "Google", "manipolazione comportamentale", "monetizzazione dei dati", "polarizzazione", "pregiudizi algoritmi", "privacy digitale", "prodotti predittivi", "Shoshana Zuboff", "tecnologia e societ\u00e0"]
 ---
-
 ## Introduzione
 Nel silenzio della nostra quotidianità digitale, mentre scorriamo feed, cerchiamo informazioni o facciamo acquisti online, un sofisticato sistema economico raccoglie, analizza e monetizza ogni nostra interazione. Benvenuti nell'era del **Capitalismo di Sorveglianza**, un modello economico che ha trasformato l'esperienza umana in materia prima gratuita per pratiche commerciali nascoste. Coniato dalla professoressa di Harvard Shoshana Zuboff nel suo influente libro "The Age of Surveillance Capitalism", questo termine descrive una realtà che ci circonda ma che spesso sfugge alla nostra percezione.
 

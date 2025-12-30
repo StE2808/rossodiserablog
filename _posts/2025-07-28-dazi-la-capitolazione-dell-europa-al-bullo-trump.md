@@ -4,10 +4,11 @@ title: "Dazi: la capitolazione dell’Europa al bullo Trump"
 date: 2025-07-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6662.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Dopo mesi di tensioni e minacce, l’accordo raggiunto tra Stati Uniti e Unione Europea rappresenta una resa senza condizioni dell’Europa di fronte al..."
 category: economia-finanza
 tags: ["capitolazione", "crisi", "dazi", "Europa", "Governo", "guerra", "Meloni", "mercato", "politica", "salvini", "sociale", "tajani", "Trump", "UE", "USA"]
 ---
-
 Dopo mesi di tensioni e minacce, l’accordo raggiunto tra Stati Uniti e Unione Europea rappresenta una resa senza condizioni dell’Europa di fronte al protezionismo aggressivo di Trump.
 
 Il cosiddetto “dazio reciproco” del 15% sulle merci europee ha di reciproco solo il nome: mentre Washington impone barriere commerciali punitive, l’UE ha scelto la via della capitolazione, rinunciando a qualsiasi misura di ritorsione sui 93 miliardi di euro di beni americani e sui servizi USA in Europa.

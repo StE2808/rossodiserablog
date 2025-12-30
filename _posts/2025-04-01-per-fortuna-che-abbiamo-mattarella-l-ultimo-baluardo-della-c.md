@@ -4,10 +4,11 @@ title: "Per fortuna che abbiamo Mattarella: l’ultimo baluardo della Costituzio
 date: 2025-04-01 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6248-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Per fortuna che abbiamo Mattarella. Sì, sembra quasi un ritornello ormai, ma mai come in questi giorni appare evidente quanto sia fondamentale la presenza..."
 category: politica-interna
 tags: ["crisi", "diritti", "fascista", "Generazioni Future", "giustizia", "Governo", "libert\u00e0", "Mattarella", "Meloni", "politica", "presidente", "repressione", "resistenza", "Riforme", "sicurezza", "sociale", "societ\u00e0"]
 ---
-
 Per fortuna che abbiamo Mattarella.
 Sì, sembra quasi un ritornello ormai, ma mai come in questi giorni appare evidente quanto sia fondamentale la presenza al Quirinale di un uomo che antepone il rispetto della Costituzione a qualsiasi altro interesse.
 

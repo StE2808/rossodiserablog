@@ -4,10 +4,11 @@ title: "Gaza: assuefazione alla morte"
 date: 2023-12-13 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/img_4371-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Ma ci si può assuefare alle stragi di bambini. Ci possiamo abituare a fatti così tremendi"
 category: cronaca-bianca
 tags: ["children", "diritti", "Economia", "gaza", "guerra", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "resistenza", "sicurezza", "sociale", "Solidariet\u00e0", "Umanit\u00e0", "USA", "violenza"]
 ---
-
 Ma ci si può assuefare alle stragi di bambini? Ci possiamo abituare a fatti così tremendi? Le immagini così crude, non fanno più presa sulle nostre coscienze così indurite? Possiamo  permetterci di cominciare a pensare come normale, quello che sta accadendo a Gaza? E poi, di contro, che ne sarà dei bambini di Gaza, orfani a migliaia, che vagano oggi, soli, per una terra martoriata e quindi inospitale per adulti organizzati, figuriamoci per queste creature innocenti? 
 
 Se è vero, come è vero, che metà degli abitanti della Striscia di Gaza sono bambini, allora questi sono i più colpiti dalla guerra. Ed infatti, secondo l'Organizzazione Mondiale della Sanità (OMS), ogni giorno nella Striscia di Gaza vengono uccisi o feriti, in media, 420 bambini. 

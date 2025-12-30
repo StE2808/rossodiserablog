@@ -12,6 +12,8 @@ tags:
   - tecnologia
   - riflessioni
 image: /assets/images/uploads/silenzio.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Quattro secondi di silenzio bastano a farci sentire rifiutati. Eppure, nella corsa a riempire ogni pausa con notifiche e parole, abbiamo perso qualcosa..."
 excerpt: 'Quattro secondi di silenzio bastano a farci sentire rifiutati. Eppure, nella corsa a riempire ogni pausa con notifiche e parole, abbiamo perso qualcosa: lo spazio per pensare, ascoltare davvero, stare con noi stessi. Il silenzio non è vuoto — è presenza di tutto il resto.'
 ---
 **Quattro secondi.**

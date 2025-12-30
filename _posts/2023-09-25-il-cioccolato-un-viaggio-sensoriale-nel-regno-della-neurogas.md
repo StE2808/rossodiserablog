@@ -4,10 +4,11 @@ title: "Il Cioccolato: Un Viaggio Sensoriale nel Regno della Neurogastronomia"
 date: 2023-09-25 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/pexels-photo-7538069.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Immagina un istante di pura estasi, un'esperienza che coinvolge ogni fibra del tuo essere e ti catapulta in un universo parallelo di sensazioni. No, non..."
 category: lifestyle-moda
 tags: ["amarezza", "antiossidanti", "aromi", "cioccolato", "declino cognitivo", "dolcezza", "endorfine", "enzima", "esperienza sensoriale", "flavonoidi", "funzioni cognitive", "memoria", "mindfulness", "ormoni della felicit\u00e0", "piacere", "stress", "stress ossidativo"]
 ---
-
 Immagina un istante di pura estasi, un'esperienza che coinvolge ogni fibra del tuo essere e ti catapulta in un universo parallelo di sensazioni. No, non stiamo discutendo di un'avventura esotica o di un viaggio mozzafiato, ma di un piacere molto più accessibile e altrettanto incantevole: il cioccolato. Questo alimento dolce, spesso considerato un semplice "peccato di gola", è in realtà un elisir per la mente, un autentico nutrimento per il cervello con il potere di contrastare il deficit cognitivo.
 
     

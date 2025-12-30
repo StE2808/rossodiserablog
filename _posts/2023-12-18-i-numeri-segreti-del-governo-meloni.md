@@ -4,10 +4,11 @@ title: "I numeri segreti del governo Meloni"
 date: 2023-12-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/image-from-rawpixel-id-3373446-original.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Ogni tre giorni viene commesso un femminicidio, oramai questa conta la conosciamo tristemente fin troppo bene. Ma ce n'è un'altra di cui si parla sempre..."
 category: opinioni-editoriali
 tags: ["carcerati", "carcere", "femminicidi", "Governo", "Meloni", "migranti", "Migrazione", "politica", "prigione", "ristretti", "suicidi", "suicidio"]
 ---
-
 Ogni tre giorni viene commesso un femminicidio, oramai questa conta la conosciamo tristemente fin troppo bene. Ma ce n'è un'altra di cui si parla sempre troppo poco: ogni cinque giorni si suicida un detenuto all’interno delle carceri italiane. E, che dire, ogni giorno muoiono sei migranti nel tentativo di raggiungere le coste italiane.
 
     

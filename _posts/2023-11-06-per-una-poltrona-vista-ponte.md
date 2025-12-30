@@ -4,10 +4,11 @@ title: "Per una poltrona vista ponte"
 date: 2023-11-06 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/hz_0626_cropped.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Una riforma costituzionale ed un ponte: queste sono le priorità del governo Meloni. Se il ponte sullo Stretto non ce lo possiamo permettere, non starebbe..."
 category: politica-interna
 tags: ["Governo", "Meloni", "premier", "premierato forte", "Riforma costituzionale", "Riforme", "uomo solo al comando"]
 ---
-
 Una riforma costituzionale ed un ponte: queste sono le priorità del governo Meloni. Se il ponte sullo Stretto non ce lo possiamo permettere, non starebbe letteralmente in piedi (verrebbe giù da solo o, al massimo, con la prima scossetta di terremoto) tant'è che se ne era anche accorto Salvini nel 2018 e, questo la direbbe lunga.
 
 Ma poi, se si chiede in giro, infatti il nostro popolo non chiede altro, o no? Ma visto che a questo Governo non riesce niente di buono, soprattutto dopo la luna di miele dei primi 100 giorni, anche per tentare di coprire magagne e figuracce, gaffes ed abbocchi, allora ci si butta su armi di distrazione di massa: ora è il momento del ponte sullo Stretto e intanto briga sulla "Riforma delle Riforme", la riforma costituzionale per l'elezione diretta del premier. 

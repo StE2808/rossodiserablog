@@ -4,10 +4,11 @@ title: "L’Uomo-Ombra: Andrea Pignataro ricchissimo e sconosciuto"
 date: 2025-07-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6664.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Nel mondo della finanza globale, dove i riflettori illuminano spesso i volti più noti degli imprenditori di successo, esiste un uomo che ha fatto della..."
 category: economia-finanza
 tags: ["agenzia entrate", "Andrea", "Pignataro", "ricchezza", "ricco", "tasse"]
 ---
-
 Nel mondo della finanza globale, dove i riflettori illuminano spesso i volti più noti degli imprenditori di successo, esiste un uomo che ha fatto della riservatezza la sua firma distintiva. Andrea Pignataro, nato a Bologna nel 1970, è secondo solo a Giovanni Ferrero nella classifica degli uomini più ricchi d’Italia, eppure il suo nome rimane pressoché sconosciuto al grande pubblico.
 
     

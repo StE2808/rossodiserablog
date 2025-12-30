@@ -4,9 +4,10 @@ title: "ITA Airways: pronti al fallimento"
 date: 2023-09-17 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_5042.jpeg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Penso che ci dovremmo mettere l’anima in pace: i tedeschi di Lufthansa non compreranno Ita. È un rumor, ancora una notizia non ufficiale ma pare certo che..."
 category: societa
 ---
-
 Penso che ci dovremmo mettere l’anima in pace: i tedeschi di Lufthansa non compreranno Ita. 
 È un rumor, ancora una notizia non ufficiale ma pare certo che la Cancelleria federale abbia perso quel poco di interesse per la nostra compagna di bandiera… Il motivo risiederebbe nel piano industriale di Lufthansa che per Ita Airways prevedrebbe una forte cura dimagrante che però al ministero dell’Economia e delle Finanze non piacerebbe nemmeno un po’.
 

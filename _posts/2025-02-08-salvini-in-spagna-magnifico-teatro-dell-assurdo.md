@@ -4,10 +4,11 @@ title: "Salvini in Spagna: magnifico Teatro dell'Assurdo"
 date: 2025-02-08 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/02/img_6095-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Ladies and gentlemen, ecco a voi il grande trasformista italiano, che si presenta come "patriota" (della Repubblica di TikTok, presumibilmente). Il nostro..."
 category: politica-estera
 tags: ["GovernoMeloni", "LePen", "Orban", "patrioti", "politica", "salvini", "sovranisti", "Wilders"]
 ---
-
 Ladies and gentlemen, ecco a voi il grande trasformista italiano, che si presenta come "patriota" (della Repubblica di TikTok, presumibilmente). Il nostro eroe, armato di un foglio e di uno spagnolo degno di una pizzeria turistica a Rimini, ha deliziato il pubblico con il suo one-man-show "Come salvare l'Italia distruggendo tutto ciò che la sostiene".
 
 Nel suo repertorio, l'artista ha magistralmente eseguito tutti i suoi più grandi successi: dalla hit "L'UE ci opprime" (mentre incassa fondi europei), al classico "No ai migranti" (mentre l'economia implora manodopera), fino alla ballata "Viva Trump" (che nel frattempo progetta di far pagare dazi astronomici proprio ai suoi fan europei).

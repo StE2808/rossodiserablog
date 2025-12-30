@@ -4,10 +4,11 @@ title: "La Cina sta lanciando aiuti umanitari su Gaza: il paradosso di quando i 
 date: 2025-05-13 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6425-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "In un bizzarro capovolgimento della narrativa a cui siamo abituati, la Cina - quella che comunemente viene dipinta come la "cattiva" della situazione..."
 category: diritti-umani
 tags: ["aiuti", "Cina", "diritti", "Etica", "Europa", "gaza", "giustizia", "Governo", "guerra", "israele", "politica", "Solidariet\u00e0", "UE", "umanitari", "USA"]
 ---
-
 In un bizzarro capovolgimento della narrativa a cui siamo abituati, la Cina - quella che comunemente viene dipinta come la "cattiva" della situazione geopolitica mondiale - ha recentemente inviato aiuti umanitari a Gaza.
 
     

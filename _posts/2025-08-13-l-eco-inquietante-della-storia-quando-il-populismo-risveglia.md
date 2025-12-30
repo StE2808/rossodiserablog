@@ -4,10 +4,11 @@ title: "L’eco inquietante della storia: quando il populismo risveglia gli spet
 date: 2025-08-13 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/08/img_6699.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Milano - La tragica morte di Cecilia De Astis, la settantunenne milanese investita e uccisa da quattro bambini rom di età compresa tra gli 11 e i 13 anni..."
 category: diritti-umani
 tags: ["Astis", "auto", "bambini", "Cecilia", "de", "giustizia", "Governo", "incidente", "investimento", "nazismo", "nazisti", "pirata", "politica", "razzismo", "razzisti", "rom", "salvini", "Vannacci"]
 ---
-
 Milano - La tragica morte di Cecilia De Astis, la settantunenne milanese investita e uccisa da quattro bambini rom di età compresa tra gli 11 e i 13 anni a bordo di un’auto rubata, ha scatenato una reazione politica che dovrebbe far riflettere ogni cittadino europeo consapevole della propria storia.
 
 Le dichiarazioni di Matteo Salvini, che ha chiesto di “radere al suolo il campo rom”, e di Roberto Vannacci, che ha parlato di “responsabilità morale del sindaco”, non sono semplicemente espressioni di indignazione comprensibile di fronte a una tragedia. Rappresentano invece un pericoloso scivolamento verso una retorica che la storia europea ha già conosciuto, con conseguenze devastanti.

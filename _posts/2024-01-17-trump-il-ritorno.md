@@ -4,10 +4,11 @@ title: "Trump: il ritorno"
 date: 2024-01-17 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4496-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Un fantasma si aggira per gli Stati Uniti: ha l'acconciatura più improbabile della storia, lo sguardo da ebete arrabbiato, sputa veleno ad ogni piè..."
 category: politica-estera
 tags: ["Biden", "caucus", "evangelici", "Haley", "Iowa", "latoinos", "MAGA", "Make America Great Again", "Never Trump", "primarie americane", "pro-vita", "Ron De Santis", "Tempesta Artica", "Trump", "tycoon", "Vivek Ramaswamy"]
 ---
-
 Un fantasma si aggira per gli Stati Uniti: ha l'acconciatura più improbabile della storia, lo sguardo da ebete arrabbiato, sputa veleno ad ogni piè sospinto, ne ha fatte di ogni, compreso istigare alla sommossa generando una rivolta che si è spinta fino alla massima istituzione americana. Questo fantasma, Donald Trump, invece di venire schiacciato dalle sue responsabilità civili, penali, politiche e morali sembra avere nove vite ed alle primarie repubblicane dell’Iowa ha vinto.
 
 Ma non ha solamente vinto, no, ha stravinto: si è accaparrato oltre il 50% dei consensi e, in più, ha distaccato di 30 punti Ron De Santis, una figura quasi clonata di Trump, una sua controfigura potemmo dire, che lo aveva provato, senza successo, a superare da destra, se possibile. Ha poi stracciato la sua concorrente, Nikki Haley, ex governatrice del South Carolina ed ex ambasciatrice Usa alle Nazioni Unite .

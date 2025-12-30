@@ -4,10 +4,11 @@ title: "La meravigliosa cronaca del nostro fulgido presente! Ovvero Giorgia Melo
 date: 2025-01-10 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_5982-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Ah, la nostra adorata Giorgia. Che spettacolo teatrale ci regala ad ogni conferenza stampa"
 category: politica-interna
 tags: ["clima", "Economia", "Europa", "fascismo", "Governo", "guerra", "Identit\u00e0", "immigrazione", "Meloni", "mercato", "Migrazione", "politica", "repressione", "Salute", "satelliti", "sicurezza", "Social Media", "societ\u00e0", "UE", "USA"]
 ---
-
 Ah, la nostra adorata Giorgia! Che spettacolo teatrale ci regala ad ogni conferenza stampa! Peccato che da due anni e mezzo questi indimenticabili incontri si contino sulle dita di una mano e con l’avanzo!
 
 Un repertorio di espressioni facciali degno della Commedia dell'Arte - dalle smorfie olimpiche al celebre "oddio-che-devo-sentire" che farebbe impallidire Totò. Chi ha bisogno di Netflix quando abbiamo questi show in diretta da Palazzo Chigi?

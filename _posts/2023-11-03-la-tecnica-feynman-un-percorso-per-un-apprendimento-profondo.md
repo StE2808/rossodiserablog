@@ -4,10 +4,11 @@ title: "La Tecnica Feynman: Un Percorso per un Apprendimento Profondo e Autonomo
 date: 2023-11-03 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/richard_feynman_1959.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "![](images/2023/11/richard_feynman_1959.png) Se stai cercando un modo per rivoluzionare il tuo approccio all'apprendimento e alla comprensione dei..."
 category: opinioni-editoriali
 tags: ["Apprendimento Profondo", "Autonomia nell'Apprendimento", "Autovalutazione", "Competenze Trasversali", "Comunicazione Efficace", "Connettivit\u00e0 del Sapere", "Empatia nell'Insegnamento", "Insegnamento Semplificato", "Memoria a Lungo Termine", "Metodologie di Studio", "Pensiero Critico", "Richard Feynman", "Tecnica Feynman"]
 ---
-
 ![](images/2023/11/richard_feynman_1959.png)
 Se stai cercando un modo per rivoluzionare il tuo approccio all'apprendimento e alla comprensione dei concetti, la Tecnica Feynman fa al caso tuo. Sviluppata dal geniale fisico Richard Feynman, Premio Nobel per la Fisica nel 1965, questa tecnica offre un quadro strutturato in quattro fasi per assimilare, elaborare e comunicare conoscenze in modo più efficace e duraturo. Non solo migliorerà il tuo modo di studiare, ma potrà anche arricchire il tuo modo di pensare e le tue competenze trasversali, dal pensiero critico all'autovalutazione. Scopriamo insieme come funziona.
 

@@ -4,9 +4,10 @@ title: "Quando avevo tredici anni"
 date: 2024-03-06 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/03/img_4687-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Quando avevo tredici anni ero anarchico e me lo dicevo per convincermi. A tredici anni e’ inutile, ineluttabile, te lo dicono e, quasi quasi ci credi, che..."
 tags: ["Ambiente", "Amore", "anarchia", "anni 70", "anni 80", "diritti", "Economia", "Etica", "Generazioni Future", "giovani", "giovent\u00f9", "giustizia", "Governo", "guerra", "Identit\u00e0", "odio", "partito", "politica", "repressione", "sociale", "societ\u00e0", "Solidariet\u00e0", "Umanit\u00e0"]
 ---
-
 Quando avevo tredici anni ero anarchico e me lo dicevo per convincermi.
 A tredici anni e’ inutile, ineluttabile, te lo dicono e, quasi quasi ci credi, che non capisci niente e quasi quasi sei convinto di non sapere come funziona il mondo e allora devi lavorare su te stesso.
 

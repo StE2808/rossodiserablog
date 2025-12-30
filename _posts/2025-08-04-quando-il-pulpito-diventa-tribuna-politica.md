@@ -4,10 +4,11 @@ title: "Quando il pulpito diventa tribuna politica"
 date: 2025-08-04 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/08/img_6676.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Le parole pronunciate ieri da don Nuccio Cannizzaro durante l’omelia alla kermesse di Forza Italia a Reggio Calabria rappresentano un preoccupante..."
 category: cronaca-bianca
 tags: ["associazione", "Cannizzaro", "concorso", "diritti", "don. Lucio", "esterno", "Etica", "Forza italia", "giustizia", "Governo", "mafia", "mafiosa", "malaffare", "Meloni", "politica", "societ\u00e0", "Solidariet\u00e0", "Stati Generali sud"]
 ---
-
 Le parole pronunciate ieri da don Nuccio Cannizzaro durante l’omelia alla kermesse di Forza Italia a Reggio Calabria rappresentano un preoccupante scivolamento della funzione religiosa verso la propaganda politica.
 
 Il sacerdote, già processato e poi assolto per aver presuntamente coperto un boss di ‘ndrangheta, ha trasformato l’altare in un palco elettorale, tuonando contro la “cultura della legalità” e invocando la supremazia del “potere scelto con il voto” sulla magistratura.

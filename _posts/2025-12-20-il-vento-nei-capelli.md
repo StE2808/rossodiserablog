@@ -10,6 +10,8 @@ tags:
   - libertà
   - stile
 image: /assets/images/uploads/il_vento_fra_i_capelli.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "C'è qualcosa di irresistibilmente libero in chi lascia che il vento faccia quello che vuole. Un piccolo elogio del caos controllato."
 excerpt: C'è qualcosa di irresistibilmente libero in chi lascia che il vento faccia quello che vuole. Un piccolo elogio del caos controllato.
 ---
 C'è un momento preciso in cui smetti di sistemarti i capelli e decidi che il vento può fare quello che gli pare. Non è rassegnazione, è una dichiarazione d'indipendenza.

@@ -4,9 +4,10 @@ title: "Meloni, parola d'ordine: fare la vittima"
 date: 2023-11-29 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4338-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Quando tutti gli eventi ti danno contro, c'è poco da fare; quando tutti ce l'hanno con te, tu poco puoi. Ecco, questo è il sentiment, l'opinione generale..."
 tags: ["diritti", "Governo", "Identit\u00e0", "lavoro", "Meloni", "mercato", "migranti", "politica", "Russia", "sociale", "societ\u00e0", "vittima"]
 ---
-
 Quando tutti gli eventi ti danno contro, c'è poco da fare; quando tutti ce l'hanno con te, tu poco puoi. Ecco, questo è il sentiment, l'opinione generale,  che vuol essere ingenerata nel popolo dal governo di Giorgia Meloni.
 
 Oops, ci siamo persi l'Expo 2030… tutta colpa di Riad che ha tramato alle nostre spalle, mica perché non siamo stati bravi a presentarci ed a fare squadra, a cercare alleanze , a farci vedere pronti, preparati ed efficienti, certo che no, sono loro che ce l'hanno con noi.

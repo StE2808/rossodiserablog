@@ -4,10 +4,11 @@ title: "Dietro il Decreto Sicurezza: l'emergenza inesistente che minaccia le lib
 date: 2025-04-15 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6312-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "L'intervento dell'ONU contro il recente Decreto Sicurezza del governo Meloni rappresenta solo l'ultimo segnale d'allarme su un provvedimento che bypassa..."
 category: cronaca-bianca
 tags: ["diritti", "diritti umani", "Etica", "Europa", "fascismo", "fascista", "giustizia", "Governo", "Identit\u00e0", "immigrazione", "Meloni", "migranti", "Migrazione", "odio", "politica", "repressione", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]
 ---
-
 L'intervento dell'ONU contro il recente Decreto Sicurezza del governo Meloni rappresenta solo l'ultimo segnale d'allarme su un provvedimento che bypassa le normali procedure democratiche per imporre misure restrittive in assenza di una reale emergenza. Analizzando i dati sulla criminalità in Italia, emerge un quadro ben diverso da quello rappresentato dall'esecutivo per giustificare l'urgenza del decreto.
 
     

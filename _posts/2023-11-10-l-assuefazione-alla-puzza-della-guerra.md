@@ -4,10 +4,11 @@ title: "L’ assuefazione alla puzza  della guerra"
 date: 2023-11-10 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4245-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "L'attuale maledetta assuefazione alla guerra ha gettato un velo di oscurità sulla nostra umanità. In questo teatro sanguinario, l'odore pestilenziale..."
 category: diritti-umani
 tags: ["due popoli due stati", "gaza", "Governo", "guerra", "odio", "Pace", "palestina", "politica"]
 ---
-
 L'attuale maledetta assuefazione alla guerra ha gettato un velo di oscurità sulla nostra umanità. In questo teatro sanguinario, l'odore pestilenziale della guerra, partendo da Gaza, avvolge ogni angolo del nostro mondo, penetrando nelle vite di coloro che ne sono vittime e avvelenando le coscienze di chi la perpetua.
 
     È giunto il momento di rompere questo ciclo nefasto, di spezzare le catene dell'assuefazione che ci tengono prigionieri della violenza. Il bisogno di pace è un grido disperato proveniente dalle voci soffocate dalla guerra, un richiamo alla nostra compassione e all'umanità che condividiamo.

@@ -4,10 +4,11 @@ title: "Felice Natale torrido a tutti"
 date: 2023-12-27 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/img_4426-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Bianco assolutamente no, anzi verde, di un colore e calore inaspettatamente primaverili: questo è il Natale 2023, dannatamente simile a quello 2022..."
 category: ambiente
 tags: ["arabi", "cambiamento climatico", "clima", "climatica", "COP28", "crisi", "diritti", "Emirati", "Etica", "Europa", "giustizia", "inquinamento", "Natale", "plastica", "politica", "Russia", "societ\u00e0", "Solidariet\u00e0", "torrido", "UAE", "UE", "Uniti", "USA"]
 ---
-
 Bianco assolutamente no, anzi verde, di un colore e calore inaspettatamente primaverili: questo è il Natale 2023, dannatamente simile a quello 2022. Eppure sembra tutto sia normale, pochi ne parlano se non per compiacersi del tepore. Nelle TV di regime le notizie sulla crisi climatica sono bandite, soprattutto per le Feste, non dobbiamo disturbare i manovratori mentre guidano il Paese. Poi, i consumi natalizi vanno salvaguardati a tutti i costi ed allora via alle canzoncine e alle atmosfere tutte sdolcinate dei mercatini dove tutto è in vendita, in primis il buon senso. Comunque nessuno sembra preoccupato, anche se stride con la memoria collettiva, dove la fredda luce di Natale creava atmosfere, oramai, solo nei ricordi.
 
     

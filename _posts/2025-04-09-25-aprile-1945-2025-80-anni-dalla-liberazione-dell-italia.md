@@ -4,10 +4,11 @@ title: "25 aprile 1945-2025: 80 anni dalla Liberazione dell'Italia"
 date: 2025-04-09 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/04/img_6273-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La Resistenza partigiana: cuore della lotta di Liberazione Il prossimo 25 aprile segnerà un importante anniversario per l'Italia: gli 80 anni dalla..."
 category: cultura-spettacolo
 tags: ["25aprile", "80annidallaliberazione", "alleati", "armatarossa", "Europa", "giustizia", "guerra", "Liberazione", "libert\u00e0", "odio", "politica", "Russia", "societ\u00e0", "USA", "violenza"]
 ---
-
 La Resistenza partigiana: cuore della lotta di Liberazione
 
 Il prossimo 25 aprile segnerà un importante anniversario per l'Italia: gli 80 anni dalla Liberazione dal nazifascismo. Questa ricorrenza rappresenta non solo un momento di commemorazione, ma un'occasione per riflettere sul valore della libertà riconquistata e sul contributo di coloro che hanno lottato per ottenerla.

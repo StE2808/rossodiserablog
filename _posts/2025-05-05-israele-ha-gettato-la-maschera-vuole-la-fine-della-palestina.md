@@ -4,10 +4,11 @@ title: "Israele ha gettato la maschera: vuole la fine della Palestina."
 date: 2025-05-05 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6384-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La questione palestinese è una lunga storia di occupazione. Ma ora è ufficiale: il governo Netanyahu ha votato per l'occupazione militare totale della..."
 category: cronaca-bianca
 tags: ["Conflitto", "crisi", "diritti", "diritti umani", "Etica", "Europa", "gaza", "genocidio", "giustizia", "Governo", "guerra", "hamas", "Identit\u00e0", "israele", "libert\u00e0", "massacro", "Meloni", "Nethanyahu", "Pace", "palestina", "palestinese", "politica", "popolo", "repressione", "sicurezza", "societ\u00e0", "UE", "Umanit\u00e0", "USA", "violenza"]
 ---
-
 La questione palestinese è una lunga storia di occupazione. Ma ora è ufficiale: il governo Netanyahu ha votato per l'occupazione militare totale della Striscia di Gaza, confermando una linea politica che si inserisce in un contesto storico ben più ampio.
 
 La questione palestinese ha radici profonde che risalgono al 1948, quando la creazione dello Stato di Israele portò al primo grande esodo forzato (la "Nakba", o catastrofe) di circa 700.000 palestinesi dalle loro terre. A seguito della guerra dei Sei Giorni nel 1967, Israele occupò militarmente la Cisgiordania, Gaza, Gerusalemme Est e le Alture del Golan, dando inizio a un'occupazione che dura da oltre cinquant'anni.

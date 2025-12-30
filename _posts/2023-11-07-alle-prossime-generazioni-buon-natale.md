@@ -4,10 +4,11 @@ title: "Alle prossime generazioni: Buon Natale"
 date: 2023-11-07 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/img_5671.webp
+image_alt: "Immagine di copertina dell'articolo"
+description: "Nella quiete serena dei nostri “Buon Natale” sussurrati, dove l’eco delle nostre voci si perde tra le pieghe di un tempo che sembra correre troppo in..."
 category: ambiente
 tags: ["Amore", "cambiamenti climatici", "consapevolezza", "coraggio", "eredit\u00e0", "eroi", "futuro migliore", "Generazioni Future", "impegno", "Lake Street Dive", "lotta", "Natale", "promesse", "realt\u00e0", "responsabilit\u00e0", "sostenibilit\u00e0", "speranza"]
 ---
-
 Nella quiete serena dei nostri “Buon Natale” sussurrati, dove l’eco delle nostre voci si perde tra le pieghe di un tempo che sembra correre troppo in fretta, ci ritroviamo a chiederci: ma cosa stiamo davvero lasciando in eredità alle nuove generazioni? Non una semplice festa imbandita di luci e colori, ma un domani dai contorni incerti.
 
 La voce dei [Lake Street Dive](https://youtu.be/bs4dR4YjGPg?si=IbjwirvOahb_6Gc_) si leva in un coro che non intona canti natalizi ma verità scomode. “[Making Do](https://youtu.be/bs4dR4YjGPg?si=IbjwirvOahb_6Gc_)” è il loro biglietto d’auguri, scritto con l’inchiostro della realtà e decorato con la malinconia del presente. Un caffè amaro, che non nasconde la sua qualità scadente, a causa delle temperature troppo alte in Kenya e Colombia, dietro a zuccheri e aromi artificiali, diventa simbolo di una Terra che si consuma sotto il peso dei nostri passi incerti.

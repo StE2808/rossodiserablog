@@ -4,10 +4,11 @@ title: "L’ITALIA DELLA VERGOGNA"
 date: 2025-07-19 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/07/img_6617-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Mentre l’Europa si risveglia dal torpore e costruisce alleanze per difendere la civiltà dall’barbarie, l’Italia di Meloni sceglie la complicità con i..."
 category: politica-interna
 tags: ["Etica", "Europa", "giustizia", "Governo", "guerra", "hamas", "israele", "La Russa", "Meloni", "Netanyahu", "odio", "politica", "Russia", "sociale", "Solidariet\u00e0", "UE", "USA", "violenza"]
 ---
-
 Mentre l’Europa si risveglia dal torpore e costruisce alleanze per difendere la civiltà dall’barbarie, l’Italia di Meloni sceglie la complicità con i carnefici. Il governo italiano ha votato contro ogni sanzione a Israele, benedetto i massacri di Gaza, chiuso gli occhi davanti al sangue innocente che bagna le chiese cristiane colpite “per errore” - due volte, sempre per caso, sempre contro i cattolici.
 
 Non esistono errori quando si spara contro ospedali, scuole e luoghi di culto. Esiste solo la complicità di chi fornisce copertura politica agli assassini. Meloni ha scelto: non la pace, non il diritto, non la pietà cristiana che tanto millanta, ma l’alleanza con chi uccide bambini e bombarda chiese.

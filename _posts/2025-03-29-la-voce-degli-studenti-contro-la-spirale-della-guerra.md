@@ -4,10 +4,11 @@ title: "LA VOCE DEGLI STUDENTI CONTRO LA SPIRALE DELLA GUERRA"
 date: 2025-03-29 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/03/img_6245-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "In un'epoca in cui i venti di guerra soffiano con forza crescente alle porte dell'Europa e nel Medio Oriente, gli studenti del liceo Minghetti hanno..."
 category: cronaca-bianca
 tags: ["diritti", "Etica", "Europa", "fascismo", "gaza", "Generazioni Future", "giustizia", "Governo", "guerra", "Meloni", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "Russia", "scuola", "societ\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
-
 In un'epoca in cui i venti di guerra soffiano con forza crescente alle porte dell'Europa e nel Medio Oriente, gli studenti del liceo Minghetti hanno scelto di alzare la voce. La loro protesta pacifica, culminata nell'occupazione dell'istituto, rappresenta un raro barlume di speranza in un panorama internazionale sempre più cupo.
 
 Mentre i potenti del mondo continuano a muovere le loro pedine sullo scacchiere geopolitico – dalla devastante offensiva a Gaza all'escalation del conflitto russo-ucraino – sono i più giovani a ricordarci che la guerra non è mai inevitabile, ma una scelta. Una scelta che qualcuno compie in nome di tutti, spesso senza consultare coloro che ne pagheranno il prezzo più alto.

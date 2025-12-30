@@ -4,10 +4,11 @@ title: "Fatti di Pisa: Mattarella striglia il governo"
 date: 2024-02-26 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/02/img_4626-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Sergio Mattarella non è solito entrare nelle vicende quotidiane e soprattutto è molto attento a non interferire sulle scelte politiche dei governi che si..."
 category: cronaca-bianca
 tags: ["Firenze", "Governo", "Interno", "manganellate", "manganelli", "manganello", "Mattarella", "Ministero dell'Interno", "Ministro", "Piantedosi", "Pisa", "polizia", "polizia di stato", "Presidente della repubblica"]
 ---
-
 Sergio Mattarella non è solito entrare nelle vicende quotidiane e soprattutto è molto attento a non interferire sulle scelte politiche dei governi che si sono avvicendati nel corso dei suoi due mandati da Presidente di questa Repubblica che però ora sembra arrivata pericolosamente al capolinea.
 
 Certamente, essendo al secondo mandato, Mattarella sembra sentirsi più libero di esprimersi e così non è la prima volta che chiama un ministro (Piantedosi) o che si raccomanda di fare o non fare qualcosa. Ma solitamente lo fa in modo molto pacato e soprattutto riservato.

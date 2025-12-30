@@ -4,10 +4,11 @@ title: "SOS AUTORITARISMO"
 date: 2025-03-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/03/img_6202-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Stiamo vivendo, testimoni e spettatori, tendenze autoritarie a livello globale, proprio come nel periodo interbellico successe col fascismo del fascio..."
 category: cultura-spettacolo
 tags: ["autoritario", "autoritarismo", "Cina", "diritti", "diritti umani", "dittatore", "dittatura", "Economia", "Etica", "Europa", "fascismo", "fascista", "gaza", "giustizia", "Governo", "guerra", "mercato", "migranti", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "Russia", "Salute", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza"]
 ---
-
 Stiamo vivendo, testimoni e spettatori, tendenze autoritarie a livello globale, proprio come nel periodo interbellico successe col fascismo del fascio littorio.
 
 E’ evidente un preoccupante pattern di politiche repressive che coinvolge simultaneamente gli Stati Uniti ed l’Europa. Non passa giorno senza nuove normative volte a reprimere il dissenso, deportare oppositori, impedire i soccorsi ai migranti ai confini e facilitare respingimenti anche di chi aveva già ottenuto diritti di permanenza. I parallelismi sono estremamente facili, purtroppo.

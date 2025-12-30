@@ -4,10 +4,11 @@ title: "La lezione di grammatica che Harvard non aveva previsto di impartire"
 date: 2025-05-08 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/1c04ce84-2392-4051-b7fd-a3c740da0921-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Ma che splendido esempio di alta formazione governativa ci ha regalato la segretaria all'Istruzione Linda McMahon. Quando ha deciso di minacciare Harvard..."
 category: cultura-spettacolo
 tags: ["Etica", "federale", "Governo", "grammatica", "ignoranza", "politica", "societ\u00e0", "Stati", "Trump", "Uniti", "USA"]
 ---
-
 Ma che splendido esempio di alta formazione governativa ci ha regalato la segretaria all'Istruzione Linda McMahon! Quando ha deciso di minacciare Harvard con la sospensione dei fondi federali, evidentemente non immaginava che la sua missiva sarebbe diventata essa stessa oggetto di una lezione – non di diritto costituzionale o di autonomia accademica, ma di grammatica elementare.
 
 Il presidente di Harvard Alan Garber deve aver guardato con incredulo divertimento la lettera intimidatoria ricevuta dalla rappresentante dell'amministrazione che, ironia della sorte, dovrebbe sovrintendere all'istruzione nazionale. Poiché nulla insegna meglio dell'esempio, Garber ha trasformato la minaccia in un'opportunità didattica, restituendo il documento corretto in rosso come farebbe un insegnante di scuola media con il compito di un alunno particolarmente distratto.

@@ -4,10 +4,11 @@ title: "Trump e Musk: Costruttori di un Nuovo Stato Autoritario Tecnologico"
 date: 2025-02-22 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/02/image.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "![](images/2025/02/image.jpg) Negli ultimi anni, due figure si sono distinte nel panorama globale non solo per la loro influenza economica e politica, ma..."
 category: opinioni-editoriali
 tags: ["Autoritarismo tecnologico", "Controllo digitale", "Distopia moderna", "Intelligenza Artificiale", "Libert\u00e0 individuale", "Populismo politico", "Resistenza civile", "Reti decentralizzate", "Sorveglianza globale"]
 ---
-
 ![](images/2025/02/image.jpg)
 Negli ultimi anni, due figure si sono distinte nel panorama globale non solo per la loro influenza economica e politica, ma anche per la loro capacità di plasmare la narrativa del futuro: Donald Trump ed Elon Musk. A differenza di ciò che sostengono alcuni critici, il loro obiettivo non è distruggere lo Stato, bensì trasformarlo in un'entità autoritaria, fondata su un controllo capillare reso possibile dalle tecnologie avanzate. Tuttavia, il sistema che sembrava invincibile mostra oggi crepe sempre più evidenti. Queste fratture potrebbero aprire la strada a un crollo dell'ordine distopico o a una diserzione di massa, aprendo quella che potremmo definire una "finestra quantistica" per il cambiamento.
 

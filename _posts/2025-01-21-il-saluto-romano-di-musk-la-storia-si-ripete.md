@@ -4,10 +4,11 @@ title: "Il saluto romano di Musk: la storia si ripete"
 date: 2025-01-21 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_6007-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "“Una azione sfuggita al controllo di un autistico“: così Andrea Stroppa, il referente in Italia di Elon Musk, vorrebbe far passare il saluto romano..."
 category: opinioni-editoriali
 tags: ["Governo", "Meloni", "Musk", "politica", "societ\u00e0", "Trump", "USA"]
 ---
-
 “Una azione sfuggita al controllo di un autistico“: così Andrea Stroppa, il referente in Italia di Elon Musk, vorrebbe far passare il saluto romano, ripetuto due volte durante la sua arringa per la cerimonia di insediamento di Trump. Invece no, non è un'azione sfuggita al controllo di qualcuno incapace di dominare i propri sentimenti, come vorrebbero far credere anche gli altri suoi seguaci e servitori.
 
 Il comportamento di Elon Musk rappresenta la messa in scena deliberata e terribilmente razionale di un'atrocità che, dopo otto decenni, è diventato nuovamente pensabile esibire di fronte a una folla in estasi.

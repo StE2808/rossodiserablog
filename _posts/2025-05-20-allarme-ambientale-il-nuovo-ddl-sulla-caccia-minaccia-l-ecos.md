@@ -4,10 +4,11 @@ title: "Allarme ambientale: il nuovo DDL sulla caccia minaccia l'ecosistema ital
 date: 2025-05-20 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6452-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Un controverso disegno di legge proposto dal Ministro dell'Agricoltura Francesco Lollobrigida, e fortemente sostenuto dalla Lega, rischia di cancellare..."
 category: cronaca-bianca
 tags: ["Ambiente", "caccia", "cacciatori", "ecocidio", "ecologia", "ecosistema", "ecosistemi", "Etica", "Europa", "fauna", "giustizia", "Governo", "politica", "repressione", "sicurezza", "societ\u00e0", "UE", "violenza"]
 ---
-
 Un controverso disegno di legge proposto dal Ministro dell'Agricoltura Francesco Lollobrigida, e fortemente sostenuto dalla Lega, rischia di cancellare decenni di progressi nella tutela ambientale e faunistica in Italia, trasformando il paese in un "Far West" del bracconaggio legalizzato.
 
 Si tratta di una riforma radicale e preoccupante.

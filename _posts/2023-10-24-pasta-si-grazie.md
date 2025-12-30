@@ -4,10 +4,11 @@ title: "Pasta: sì grazie!"
 date: 2023-10-24 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/logo-wpd.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "La pasta è l'indiscussa regina della tavola italiana seguita dalla pizza e dal pane in ogni sua forma. Domani, 25 ottobre, si celebra il World Pasta Day..."
 category: scienza-tecnologia
 tags: ["cibo", "dieta", "diete", "pasta", "world pasta day"]
 ---
-
 La pasta è l'indiscussa regina della tavola italiana seguita dalla pizza e dal pane in ogni sua forma.
 Domani, 25 ottobre, si celebra il World Pasta Day ed allora ci si sta chiedendo se questo alimento sia un nostro amico e soprattutto debba restare a far parte della nostra dieta oppure debba essere limitato grandemente o addirittura eliminato del tutto come per i fautore delle diete paleo o Keto.
 

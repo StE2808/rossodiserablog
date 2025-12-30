@@ -4,10 +4,11 @@ title: "Il possesso malato del maschio"
 date: 2023-11-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4282-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Un nuovo femminicidio: relazioni abusive ed il possesso patologico, di questo si tratta. E’ stato ritrovato il corpo di Giulia Cecchettin, la ragazza..."
 category: societa
 tags: ["amore malato", "femminicidio", "Filippo Turetta", "Giulia Cecchettin", "patologia", "possesso"]
 ---
-
 Un nuovo femminicidio:  relazioni abusive ed il possesso patologico, di questo si tratta. 
 
 E’ stato ritrovato il corpo di Giulia Cecchettin, la ragazza scomparsa assieme al fidanzato Filippo Turretta, oramai una settimana fa. 

@@ -4,10 +4,11 @@ title: "La destra in cerca di identità culturale ruba Tolkien"
 date: 2023-11-20 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/foto-tolkien-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "L'autore preferito della nostra presidentissima, Giorgia Meloni, viene rubato. Tolkien viene esposto ed anche messo in mostra"
 category: cultura-spettacolo
 tags: ["culturale", "destra", "fascismo", "Identit\u00e0", "il signore degli anelli", "nazionalismo", "sinistra", "Tolkien"]
 ---
-
 L'autore preferito della nostra presidentissima, Giorgia Meloni, viene rubato. Tolkien viene esposto ed anche messo in mostra. 
 
 Gli viene, infatti, organizzata una mostra alla Galleria Nazionale di Roma che dal 16 novembre sarà visitabile fino all'11 febbraio 2024. E così, forse non di furto ma certamente appropriazione indebita: questa, probabilmente, la qualificazione giuridica più corretta. 

@@ -4,10 +4,11 @@ title: "COP 28: ci siamo giocati il futuro"
 date: 2023-12-14 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/12/articolo_cop28.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Con questa COP ci siamo, probabilmente, giocati il futuro. No, non è una bella notizia"
 category: ambiente
 tags: ["ambientalisti", "climatica", "COP28", "crisi", "gas", "impatti climatici", "impatto ambientale", "metano", "nucleare", "petrolio", "sultan al jaber", "UAE"]
 ---
-
 Con questa COP ci siamo, probabilmente, giocati il futuro. No, non è una bella notizia. E' stata persino trovata la quadra tra tutti i partecipanti per la risoluzione conclusiva che è stata approvata con un giorno d'anticipo.
 
 Cosa dice il documento finale? Ammette, per la prima volta, la responsabilità dei combustibili fossili sull'effetto serra: dovrebbe essere un fatto più che assodato ma, tra portatori di interessi enormi, come gli emiratini, gli americani, i russi, gli iraniani (tutti produttori primari di combustibili fossili), non è stato facile trovare l'accordo anche su parole, aggettivi, verbi. 

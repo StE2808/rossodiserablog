@@ -4,10 +4,11 @@ title: "Un capo fiero di essere ignorante"
 date: 2025-03-02 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2025/03/img_6161-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Lui, con i palmi spalancati che si muovono solo orizzontalmente, poi col dito puntato e poi con la bocca a culo di gallina che usa quando deve sputare..."
 category: politica-estera
 tags: ["Conflitto", "crisi", "errore", "Europa", "giustizia", "Governo", "guerra", "ignorante", "ignoranza", "odio", "Pace", "politica", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
-
 Lui, con i palmi spalancati che si muovono solo orizzontalmente, poi col dito puntato e poi con la bocca a culo di gallina che usa quando deve sputare sentenza. L’altro, appena arrivato, dopo un lungo viaggio, in tuta da ginnastica nera, col suo inglese stentato quanto quello che rimane delle sue idee.
 
 Lui aveva preparato l’imboscata, l’altro c’è caduto con tutto quello che rimane della sua nazione.

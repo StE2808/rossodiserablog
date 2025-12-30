@@ -4,10 +4,11 @@ title: "Tremate, tremate gli scoreggioni son tornati"
 date: 2024-01-16 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4495-1.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Ieri l'altro sono inciampato in un post di un piccolo personaggio di provincia che esortava le donne a figliare. Aveva fotografato una giostra, una..."
 category: cultura-spettacolo
 tags: ["cancelculture", "diritti", "fascismo", "fascisti", "LGBTQ+", "Meloni", "Noam Chomsky", "politica", "social", "Social Media", "sociale", "sociologia", "sociologo", "solidale", "Solidariet\u00e0", "sottofascismo"]
 ---
-
 Ieri l'altro sono inciampato in un post di un piccolo personaggio di provincia che esortava le donne a figliare.
 
 Aveva fotografato una giostra, una replica di quelle coi cavalli di legno, chiusa e posta al centro di una piazza medioevale, di una cittadina deserta. Aveva condito quella foto con poche righe di commento, le prime architettate per far notare la sua conoscenza storica delle origini della piazza, così da ammantarsi di autorevolezza, per poi lanciarsi in un auspicio, una esortazione che suonava così: "Che le nostre donne si riapproprino della loro vocazione alla creatività, nel senso di fare sempre più figli. E si spera anche 'legittimi'. Con l'augurio di un provvido anno nuovo.".

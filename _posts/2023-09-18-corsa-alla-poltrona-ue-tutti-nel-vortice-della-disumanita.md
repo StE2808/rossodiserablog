@@ -4,10 +4,11 @@ title: "Corsa alla poltrona UE: tutti nel vortice della disumanità"
 date: 2023-09-18 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/09/porta_deuropa.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Giorgia Meloni è in costante campagna elettorale da quando è stata eletta, quindi da sempre, insomma, e prosegue ad oltranza. E così dopo essersi spostata..."
 category: cronaca-bianca
 tags: ["barconi", "Borrel. Gentiloni", "Francia", "Germania", "Governo", "immigrazione", "lampedusa", "Libia", "Meloni", "migranti", "Saied", "Tunisia", "UE"]
 ---
-
 Giorgia Meloni è in costante campagna elettorale da quando è stata eletta, quindi da sempre, insomma, e prosegue ad oltranza. 
 
 E così dopo essersi spostata in Ungheria per "difendere Dio e la nostra civiltà" abbracciando e sbaciucchiandosi con Viktor Orbán, ci ha tenuto a rialzare i toni, tra l'altro mai smorzati, per ricordare a tutti che lei c'è e che non scherza e che a giugno vuole vincere costi quel che costi.

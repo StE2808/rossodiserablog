@@ -4,9 +4,10 @@ title: "Il Fattore Determinante per una Vita Appagante"
 date: 2023-10-09 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/ste_spi_impactful_image_quantum_physics_and_love_df253174-69c5-4670-a9d9-cff952b7e7cf.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Inevitabilmente, tutti noi ci facciamo delle domande, del tipo: chi o cosa ci ha creati. Che c’era prima del big bang"
 category: societa
 ---
-
 Inevitabilmente, tutti noi ci facciamo delle domande, del tipo: chi o cosa ci ha creati? Che c’era prima del big bang? Domande che di solito ci rivolgiamo l’uno all’altro durante le cene con gli amici, e soprattutto quando il vino è buono. Ma c’è una domanda che forse non abbiamo affrontato abbastanza seriamente: quale è il segreto per avere una vita felice?
 
     

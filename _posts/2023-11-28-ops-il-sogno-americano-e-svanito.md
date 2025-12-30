@@ -4,10 +4,11 @@ title: "Ops, il sogno americano è svanito"
 date: 2023-11-28 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/11/2017.03.04_pro-trump_rallies_washington_dc_usa_00417_33211325466.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Lo si nota oramai in ogni angolo del pianeta ma soprattutto ci si fa caso quando accade negli USA: il capitalismo è in profonda crisi. Ovviamente siamo..."
 category: cultura-spettacolo
 tags: ["America", "capitalismo", "Cina", "Europa", "India", "socialdemocrazia", "socialismo", "USA"]
 ---
-
 Lo si nota oramai in ogni angolo del pianeta ma soprattutto ci si fa caso quando accade negli USA: il capitalismo è in profonda crisi.
 
      Ovviamente siamo portati a pensare che in America il socialismo sia considerato universalmente un male e che invece il capitalismo sia l’unica via. Siamo abituati a pensare* la terra dove tutto è possibile* come immune da difetti permanenti o da crisi sistemiche, i poveri  non come un problema ma come *momentaneamente non ricchi* e non come gente sfruttata e messa ai margini, rifiuto del processo produttivo, proletariato moderno. 

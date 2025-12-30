@@ -4,10 +4,11 @@ title: "25 aprile: pace e Liberazione"
 date: 2024-04-04 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2024/04/salvini_berlusconi_meloni_2018_collage.png
+image_alt: "Immagine di copertina dell'articolo"
+description: "Il 25 aprile si avvicina. Quest'anno la Festa della Liberazione appare più importante che mai"
 category: cultura-spettacolo
 tags: ["25 aprile", "Berlusconi", "Biden", "Conflitto", "fascismo", "fascista", "Fini", "Governo", "guerra", "Guerra Mondiale", "Liberazione", "Meloni", "Neofascismo", "neofascista", "Pace", "salvini", "Sangiuliano", "Zelensky"]
 ---
-
 Il 25 aprile si avvicina. Quest'anno la Festa della Liberazione appare più importante che mai. E' importante perché resta lì, ogni anno ed ogni anno ci ricorda che la Liberazione è affar nostro, che siamo noi i fautori, gli artefici del nostro destino. Una ciclica chiamata alle armi, insomma, una annuale suonata di tromba per esortare alla lotta anche se il richiamo del 25 aprile è pacifico e pacificatore. La lotta di oggi deve servire per mettere fine alle guerre in corso e per scongiurare un allargamento dei conflitti ed evitare, così, la necessità del ricorso alla violenza della guerra.
 
     

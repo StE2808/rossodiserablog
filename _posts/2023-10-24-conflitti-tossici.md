@@ -4,10 +4,11 @@ title: "Conflitti tossici"
 date: 2023-10-24 00:00:00 +0100
 author: lino-rialti
 image: /assets/images/2023/10/giorgia_meloni_quirinale_2019.jpg
+image_alt: "Immagine di copertina dell'articolo"
+description: "Storie d'amore che vanno, che finiscono, come decine di migliaia ogni anno in Italia, che si aggiungono ai circa 70mila divorzi che si ufficializzano nei..."
 category: politica-interna
 tags: ["Berlusconi", "conflitto d'interessi", "Forza italia", "Fratelli d'Italia", "fuorionda", "Giambruno", "Meloni"]
 ---
-
 Storie d'amore che vanno, che finiscono, come decine di migliaia ogni anno in Italia, che si aggiungono ai circa 70mila divorzi che si ufficializzano nei tribunali. Ma chi decide di farlo, stavolta pubblicamente, non è la parrucchiera sotto casa o la massaia di Voghera di turno, no, questa volta la donna che stabilisce di troncare pubblicamente, attraverso i social, la relazione con il compagno è la premier italiana, la prima donna a ricoprire questa carica. Questa donna lascia un compagno, che lei stessa aveva pubblicamente ed impropriamente definito marito. Questo signore, il giornalista e conduttore TV, Andrea Giambruno, si era reso protagonista di raccapriccianti episodi nei quali si pavoneggiava con delle sue collaboratrici alle quali proponeva serate piccanti, magari con fare scherzoso ma inequivoco, anche carezzando la testa, della malcapitata di turno alla quale faceva notare un "pacco", parole sue, che si toccava.
 
 Bene, questi episodi, registrati perché avvenuti in uno studio televisivo e durante le pause delle riprese, definiti col termine "fuorionda", sono stati trasmessi dal più grande gruppo televisivo privato italiano. Quindi sono divenuti un fatto di dominio pubblico.
