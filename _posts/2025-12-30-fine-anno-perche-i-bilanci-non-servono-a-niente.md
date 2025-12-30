@@ -5,7 +5,7 @@ seo_title: 'Fine anno: perché i bilanci non servono a niente'
 description: La fine anno ci spinge a fare bilanci e propositi. Ma il tempo non aspetta le nostre liste. Scopri cosa conta davvero.
 date: 2025-12-30 19:14:00 +0100
 author: stefano-vozzi
-category: opinioni-editoriali
+category: societa
 tags:
   - fine anno
   - riflessioni
