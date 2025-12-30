@@ -25,3 +25,7 @@ admin/index.html
 
 # Dev files (scripts, reports, etc.)
 _dev/
+
+# Claude Code documentation (internal only)
+CLAUDE.md
+claude.md
