@@ -5,13 +5,32 @@ permalink: /guida-autori/
 sitemap: false
 ---
 
+<style>
+.guida-autori-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.guida-autori-container table {
+    width: 100%;
+    margin: 1.5rem 0;
+}
+
+.guida-autori-container th,
+.guida-autori-container td {
+    padding: 1rem;
+    text-align: left;
+}
+</style>
+
 <section class="contact-section">
     <header class="section-header">
         <span class="section-label">Documenti interni</span>
         <h1 class="section-title">Guida Rapida SEO</h1>
     </header>
 
-    <div class="contact-container">
+    <div class="guida-autori-container">
         <div class="chi-siamo-content">
 
 <h2>I 4 campi che contano</h2>
