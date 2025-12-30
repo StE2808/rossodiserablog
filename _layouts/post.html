@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if page.seo_title and page.seo_title != "" %}
+  {% assign effective_title = page.seo_title %}
+{% else %}
+  {% assign effective_title = page.title %}
+{% endif %}
+
 {% assign words = content | strip_html | number_of_words %}
 {% assign minutes = words | divided_by: 200 %}
 {% if minutes < 1 %}{% assign minutes = 1 %}{% endif %}
@@ -18,6 +24,7 @@ layout: default
     "@type": "Person",
     "name": {% if page.author == "stefano-vozzi" %}"Stefano Vozzi"{% elsif page.author == "lino-rialti" %}"Lino Rialti"{% else %}{{ page.author | replace: "-", " " | capitalize | jsonify }}{% endif %}
   },
+  "keywords": "{{ page.focus_keyword | default: page.category }}",
   "publisher": {
     "@type": "Organization",
     "name": "Rosso di Sera",
@@ -74,7 +81,7 @@ layout: default
 
     {% if page.image %}
     <div class="post-featured-image">
-        <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}" loading="lazy">
     </div>
     {% endif %}
 
