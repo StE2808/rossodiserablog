@@ -3,7 +3,7 @@ layout: post
 title: "Architetture a confronto: Ravenna e Perugia ed i loro Mercati Coperti"
 date: 2023-09-04 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/img_3980.jpg
+image: /assets/images/2023/09/img_3980.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Passeggiando per il centro cittadino di Ravenna, ci si imbatte in una struttura interessante: il mercato coperto. Struttura duecentesca, dedicata già al..."
 tags: ["architettura", "mercato", "mercato coperto", "Perugia", "Ravenna"]
@@ -31,6 +31,6 @@ Di contro Ravenna ed il suo Mercato Coperto: giudicate voi. Non servono altre al
     
 ## Mercato #mercatocoperto #perugia #ravenna
     
-![](images/2023/09/img_3980.jpg)
+![](images/2023/09/img_3980.webp)
     
-![](images/2023/09/img_3979.jpg)
+![](images/2023/09/img_3979.webp)

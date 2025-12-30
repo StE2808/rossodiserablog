@@ -3,7 +3,7 @@ layout: post
 title: "L’Uomo-Ombra: Andrea Pignataro ricchissimo e sconosciuto"
 date: 2025-07-28 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/07/img_6664.jpg
+image: /assets/images/2025/07/img_6664.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Nel mondo della finanza globale, dove i riflettori illuminano spesso i volti più noti degli imprenditori di successo, esiste un uomo che ha fatto della..."
 category: economia-finanza

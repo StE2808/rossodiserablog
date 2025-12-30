@@ -3,13 +3,13 @@ layout: post
 title: "Jefferson Airplane: La Rivoluzione Psichedelica in Musica"
 date: 2023-10-04 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2023/10/img_4886.jpeg
+image: /assets/images/2023/10/img_4886.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "![](images/2023/10/img_4886.jpeg) Origini e Formazione Jefferson Airplane è nato a San Francisco nel 1965, quando la cantante Marty Balin ha deciso di..."
+description: "![](images/2023/10/img_4886.webp) Origini e Formazione Jefferson Airplane è nato a San Francisco nel 1965, quando la cantante Marty Balin ha deciso di..."
 category: cultura-spettacolo
 tags: ["Anni \u201960", "Controcultura", "Controcultura americana", "Grace Slick", "Hippie", "Jefferson Airplane", "Musica degli anni \u201960", "Musica rock", "Paul Kantner", "Rivoluzione culturale", "Rock psichedelico", "San Francisco", "White Rabbit"]
 ---
-![](images/2023/10/img_4886.jpeg)
+![](images/2023/10/img_4886.webp)
     **Origini e Formazione**
 
 Jefferson Airplane è nato a San Francisco nel 1965, quando la cantante Marty Balin ha deciso di unire le forze con il chitarrista Paul Kantner. Si sono presto uniti alla band il chitarrista Jorma Kaukonen, il bassista Jack Casady, la cantante Grace Slick e il batterista Spencer Dryden. Questa formazione sarebbe diventata il cuore pulsante del suono psichedelico di San Francisco.
@@ -35,7 +35,7 @@ I Jefferson Airplane sono stati molto più di una semplice rock band. Sono stati
     **White Rabbit**
 
     
-![](images/2023/10/grace_slick_ca._1967.jpeg)
+![](images/2023/10/grace_slick_ca._1967.webp)
 Un classico del rock, White Rabbit dei Jefferson Airplane è un viaggio acido e psichedelico scritto dalla cantante della band Grace Slick e ispirato al racconto di Lewis Carroll di "Alice nel Paese delle Meraviglie".
 
      Slick scrisse infatti la canzone mentre, sotto effetto di acidi, si mise ad ascoltare 'Sketches Of Spain' di Miles Davis per 24 ore consecutive. E' da lì che arriva l'ispirazione per il ritmo della canzone, così come dal Bolero di Maurice Ravel.

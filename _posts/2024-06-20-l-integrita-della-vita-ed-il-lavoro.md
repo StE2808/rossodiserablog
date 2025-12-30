@@ -3,7 +3,7 @@ layout: post
 title: "L’integrità della vita ed il lavoro"
 date: 2024-06-20 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/06/img_5078-1.jpg
+image: /assets/images/2024/06/img_5078-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'importanza dell'integrità della vita umana e della morale emerge tragicamente nella recente vicenda di un giovane bracciante agricolo indiano. Il..."
 category: diritti-umani

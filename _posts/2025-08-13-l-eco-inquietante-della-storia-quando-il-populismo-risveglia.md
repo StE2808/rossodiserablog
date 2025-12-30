@@ -3,7 +3,7 @@ layout: post
 title: "L’eco inquietante della storia: quando il populismo risveglia gli spettri del passato"
 date: 2025-08-13 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/08/img_6699.jpg
+image: /assets/images/2025/08/img_6699.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Milano - La tragica morte di Cecilia De Astis, la settantunenne milanese investita e uccisa da quattro bambini rom di età compresa tra gli 11 e i 13 anni..."
 category: diritti-umani

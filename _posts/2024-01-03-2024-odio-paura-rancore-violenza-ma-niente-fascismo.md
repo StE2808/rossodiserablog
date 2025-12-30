@@ -3,7 +3,7 @@ layout: post
 title: "2024? Odio, paura, rancore, violenza ma niente fascismo"
 date: 2024-01-03 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/01/5900204512_2bfc43bae9_w.jpg
+image: /assets/images/2024/01/5900204512_2bfc43bae9_w.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La conta in Palestina è arrivata a 22 mila morti tra i civili ed Israele ha dichiarato di non volersi fermare: sentimento che riassume la situazione. odio"
 category: societa

@@ -3,7 +3,7 @@ layout: post
 title: "Per una poltrona vista ponte"
 date: 2023-11-06 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/hz_0626_cropped.jpg
+image: /assets/images/2023/11/hz_0626_cropped.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Una riforma costituzionale ed un ponte: queste sono le priorità del governo Meloni. Se il ponte sullo Stretto non ce lo possiamo permettere, non starebbe..."
 category: politica-interna

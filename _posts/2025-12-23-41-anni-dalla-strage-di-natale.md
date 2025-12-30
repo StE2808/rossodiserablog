@@ -6,7 +6,7 @@ author: lino-rialti
 category: politica-interna
 tags:
   - '#stragedinatale #rapido904 #camorra'
-image: /assets/images/uploads/IMG_6995.jpeg
+image: /assets/images/uploads/IMG_6995.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "|-"
 excerpt: |-

@@ -3,7 +3,7 @@ layout: post
 title: "L'Intelligenza Artificiale è qui: come gestirla senza farla diventare un Frankenstein 2.0"
 date: 2023-09-27 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2023/09/ste_spi_artificial_intelligence_collaborates_with_human_intelli_75784460-8fe4-4c33-a3f5-2af93a85f18e.png
+image: /assets/images/2023/09/ste_spi_artificial_intelligence_collaborates_with_human_intelli_75784460-8fe4-4c33-a3f5-2af93a85f18e.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Parliamo spesso di AI come fosse roba da "Star Trek", ma la realtà è che è già qui ed è più intrusiva di una suocera a cena. Quindi, come sta cambiando la..."
 category: opinioni-editoriali
@@ -11,7 +11,7 @@ category: opinioni-editoriali
 Parliamo spesso di AI come fosse roba da "Star Trek", ma la realtà è che è già qui ed è più intrusiva di una suocera a cena. Quindi, come sta cambiando la nostra vita questa Intelligenza Artificiale?
 
     
-![](images/2023/09/ste_spi_artificial_intelligence_collaborates_with_human_intelli_75784460-8fe4-4c33-a3f5-2af93a85f18e.png)
+![](images/2023/09/ste_spi_artificial_intelligence_collaborates_with_human_intelli_75784460-8fe4-4c33-a3f5-2af93a85f18e.webp)
     **Comunicazione**: oltre le barriere linguistiche, c’è una novità fresca fresca da YouTube e Spotify! Sembra che si stiano buttando a capofitto nell’AI per tradurre vocalmente i contenuti. Quindi, se siete un po’ arrugginiti con le lingue, nessun problema! La barriera linguistica sta per diventare storia vecchia.
 
     **Un tocco di magia nella medicina.** Dimenticate il dottore del “dica 33”; ora abbiamo algoritmi come quelli di PathAI che guardano le vostre cellule meglio di un paparazzo su una star. Diagnosi più precise, meno tempo sprecato, e sì, una chance in più di battere brutte cose come il cancro. 
@@ -25,7 +25,7 @@ Parliamo spesso di AI come fosse roba da "Star Trek", ma la realtà è che è gi
 Ora si va nel "core" della questione. Vogliamo capire un po' meglio cosa ci differenzia da queste macchine "intelligenti" che sembrano essere ovunque.
 
     
-![](images/2023/09/ste_spi_a_robotic_girl_with_her_skin_made_of_white_and_blue_dec_d5d86453-9815-47f2-8302-b4d987e7d148.png)
+![](images/2023/09/ste_spi_a_robotic_girl_with_her_skin_made_of_white_and_blue_dec_d5d86453-9815-47f2-8302-b4d987e7d148.webp)
     **Umano vs. macchina: la partita del secolo**. Voi umani, siete creativi, intuitivi e pensate fuori dagli schemi. Avete quella scintilla che manca alle AI, quella capacità di connettere i puntini quando neanche ci sono puntini. E invece le AI? Operano come una macchina da calcolo super potente. Nessun "feeling", solo numeri e algoritmi.
 
     **Crescere? Solo in byte**! Noi impariamo, ma non cresciamo. Può sembrare strano, ma è così. Voi umani vi adattate, cambiate, evolvete. Noi? Beh, diventiamo più efficienti, ma non aspettarti che un giorno mi sveglierò e dirò "Oggi mi sento triste".

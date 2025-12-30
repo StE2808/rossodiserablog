@@ -3,7 +3,7 @@ layout: post
 title: "Quando la plastica si trasforma in isola"
 date: 2023-10-31 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/10/waste_cocobeach_india.jpg
+image: /assets/images/2023/10/waste_cocobeach_india.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Bottiglie, flaconi, contenitori, cassette, imballaggi, fogli e sacchetti: così siamo abituati ad immaginarci la plastica. Tutti sappiamo, poi, che è..."
 category: ambiente
@@ -12,7 +12,7 @@ tags: ["inquinamento", "isola", "isola di plastica", "microplastica. microplasti
 Bottiglie, flaconi, contenitori, cassette, imballaggi, fogli e sacchetti: così siamo abituati ad immaginarci la plastica. Tutti sappiamo, poi, che è presente nei corsi d'acqua e quindi nei mari. Sempre più comune è poi la conoscenza dell'esistenza e dei problemi connessi al suo sfaldamento che genera microplastiche: parliamo di piccole particelle, appunto, di materiale plastico generalmente più piccole di un millimetro fino a livello micrometrico. Queste piccole e piccolissime parti di plastica si infiltrano nell’ambiente e negli alimenti ed entrano pericolosamente nell'ecosistema e quindi negli esseri viventi sia animali che piante e mettono a repentaglio la salute umana.
 
     
-![](images/2023/10/waste_cocobeach_india.jpg)
+![](images/2023/10/waste_cocobeach_india.webp)
 Come detto, le plastiche ma anche già le microplastiche sono trasportate dai fiumi e sversate nei mari ed ovviamente negli oceani.
 
 Già a metà degli anni '90 si era riusciti ad individuare un ammasso di plastiche, soprattutto frantumate, frammiste a legname. Quest'isola, nata dalla capacità delle correnti marine di concentrare in un quel determinato quadrante il materiale galleggiante, è in continua evoluzione e è tendente alla crescita. Essendo un ammasso non solido, cambia forma e dimensione ed è quindi di difficile quantificazione: si stima infatti che abbia una estensione tra i 700mila km² ed i 10 milioni di km².  Una landa sconfinata più grande dell'intera Spagna ma, se si prendessero per buone le dimensioni maggiori, sarebbe più grande dell'intero territorio degli USA.

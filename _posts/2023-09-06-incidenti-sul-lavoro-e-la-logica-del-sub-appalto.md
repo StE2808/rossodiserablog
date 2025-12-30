@@ -3,7 +3,7 @@ layout: post
 title: "Incidenti sul lavoro e la logica del sub-appalto"
 date: 2023-09-06 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/incidente-ferroviario-brandizzo-strage-cosa-e-successo-prassi.jpg
+image: /assets/images/2023/09/incidente-ferroviario-brandizzo-strage-cosa-e-successo-prassi.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "È una strage che non doveva accadere quella di Brandizzo. Sono morti cinque operai, cinque persone, cinque lavoratori mentre erano intenti ad effettuare..."
 category: cronaca-bianca
@@ -12,7 +12,7 @@ tags: ["Brandizzo", "Ferrovia RFI", "lavoro", "morti bianche", "sicurezza"]
 È una strage che non doveva accadere quella di Brandizzo. Sono morti cinque operai, cinque persone, cinque lavoratori mentre erano intenti ad effettuare una manutenzione ordinaria e notturna sulla linea ferroviaria Milano-Torino.
 
     
-![](images/2023/09/incidente-ferroviario-brandizzo-strage-cosa-e-successo-prassi.jpg)
+![](images/2023/09/incidente-ferroviario-brandizzo-strage-cosa-e-successo-prassi.webp)
 E' inconcepibile e figlio del sistema dei subappalti e degli appalti per far risparmiare le imprese, per massimizzare i profitti infischiandosene della salute e della vita dei lavoratori e delle lavoratrici. 
 
 Lavori effettuati senza rispettare lo stop del traffico per evitare di ritardare la consegna del lavoro visto che avrebbe causato l'applicazione di costose penali, ma a che prezzo? E' inconcepibile che cinque persone escano di casa per lavorare e non vi facciano mai più rientro per logiche economiche.

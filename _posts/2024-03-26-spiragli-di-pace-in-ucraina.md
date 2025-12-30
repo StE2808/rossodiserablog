@@ -3,7 +3,7 @@ layout: post
 title: "Spiragli di pace in Ucraina"
 date: 2024-03-26 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/03/crocus_hall_2024.jpg
+image: /assets/images/2024/03/crocus_hall_2024.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E' ora di dire basta. Dopo l'ecatombe in Ucraina, dove il sangue umano è stato sparso, su entrambe i fronti, con estrema profusione, dopo il disastro..."
 category: politica-estera
@@ -14,11 +14,11 @@ E' ora di dire basta. Dopo l'ecatombe in Ucraina, dove il sangue umano è stato 
 Oggi esiste ancora una integrità del territorio ucraino ed ancora si è in tempo per fermare la machina russa, ancora i quattro quinti del territorio sono ucraini, ma con l'America che si è tirata in dietro, con le titubanze europee, anche giustificate dalle estreme difficoltà economiche che attanagliano le casse UE,  con la scarsità di armamenti a disposizione per Kiev, è giunto il momento di trattare. Trattare per la pace non significa trattare una resa, anche se dovranno essere concessi territori che poi Putin rivendicava dal 2014 e che aveva di fatto annesso, quindi sarebbe una concessione più che accettabile ed eviterebbe una capitolazione ben più grave.
 
     
-![](images/2024/03/crocus_hall_2024.jpg)
+![](images/2024/03/crocus_hall_2024.webp)
 Alla luce di quanto accaduto al Crocus City Hall di Mosca, poi, la saggezza dovrebbe portarci verso una de-escalation, una riduzione degli attriti. Oggi più che mai Putin, dopo questo sanguinoso attentato terroristico, è pronto a tutto, o quasi, pur di ristabilire la credibilità, quella credibilità in parte perduta, vaporizzata dalla falla informativa dei suoi Servizi di intelligence,  il FSB, che ha completamente bucato i preparativi e tutte le fasi dell'attentato nonostante gli avvertimenti della CIA delle scorse settimane. E così 137 morti e 180 feriti di cui molti gravi che potrebbero far salire la conta delle vittime nelle prossime ore e questo pone Putin in un angolo da dove sta uscendo a suon di bombardamenti anche sulla capitale ucraina.
 
     
-![](images/2024/03/download.png)
+![](images/2024/03/download.webp)
 Dal 24 febbraio 2022, giorno dell'inizio della cosiddetta Operazione Speciale, di cose ne sono cambiate, il clima è cambiato, infatti un sondaggio dell’Ecfr (European Council on Foreign Relations) ci dice che soltanto il 10% dei cittadini europei è convinta che l'Ucraina sia ancora in grado di vincere la guerra. Ovviamente se non si considera la sciagurata ipotesi di un allargamento del conflitto alla NATO ed al pericolo di trasformare questa guerra in uno scontro nucleare globale.
 
     
@@ -33,7 +33,7 @@ La nostra Europa non si può permettere moralmente di continuare a sostenere la 
 Una negoziazione in Ucraina ed una uscita dal conflitto oggi rappresenterebbe, già di per se, una vittoria del fronte antiputiniano: Putin non è riuscito a prendere Kiev e ad instaurare un governo amico, continua ad essere oggetto di quell'accerchiamento che aveva scatenato il conflitto visto l'ingresso nella NATO di Svezia e Finlandia, otterrebbe il mantenimento dei territori di Crimea e Donbass che comunque aveva già da anni. Insomma una operazione disastrosa per Putin ma che ora sarebbe possibile chiudere vista anche la sua recente rielezione. 
 
     
-![](images/2024/03/fl35323529193-image-kpwalbfa-1.jpeg)
+![](images/2024/03/fl35323529193-image-kpwalbfa-1.webp)
     
 La pace è necessaria vista la fattuale disfatta di Zelenski che ha dovuto, alla fine, ammettere il fallimento della controffensiva ucraina nonostante la grancassa dei media occidentali che hanno fatto sperare inutilmente troppi disinformati. Sul campo, addirittura, si stanno predisponendo delle ritirate da "avanposti" ucraini, anche di media importanza, come Kharkiv. 
 

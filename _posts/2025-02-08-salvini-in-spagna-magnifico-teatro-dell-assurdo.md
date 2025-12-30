@@ -3,7 +3,7 @@ layout: post
 title: "Salvini in Spagna: magnifico Teatro dell'Assurdo"
 date: 2025-02-08 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/02/img_6095-1.jpg
+image: /assets/images/2025/02/img_6095-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ladies and gentlemen, ecco a voi il grande trasformista italiano, che si presenta come "patriota" (della Repubblica di TikTok, presumibilmente). Il nostro..."
 category: politica-estera

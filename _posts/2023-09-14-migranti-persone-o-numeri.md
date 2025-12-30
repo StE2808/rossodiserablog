@@ -3,7 +3,7 @@ layout: post
 title: "Migranti: persone o numeri?"
 date: 2023-09-14 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/migranti_2.png
+image: /assets/images/2023/09/migranti_2.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mentre Lampedusa è allo stremo per il numero impressionante di migranti che vi stanno sbarcando, complici il mare piatto e l'assenza di vento e di onde..."
 category: cronaca-bianca

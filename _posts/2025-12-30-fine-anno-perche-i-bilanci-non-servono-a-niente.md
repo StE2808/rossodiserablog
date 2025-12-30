@@ -12,7 +12,7 @@ tags:
   - tempo
   - capodanno
   - cambiamento
-image: /assets/images/uploads/fine-anno-tempo-riflessioni.jpg.png
+image: /assets/images/uploads/fine-anno-tempo-riflessioni.jpg.webp
 image_alt: Clessidra rovesciata su un tavolo di legno con luce calda del tramonto
 excerpt: "Il 31 dicembre ci sorprende sempre impreparati. Facciamo bilanci, stiliamo propositi, contiamo successi e fallimenti. Ma il tempo non si lascia mettere in colonna: scorre, e noi con lui. Forse l'unico augurio sensato è attraversare l'anno svegli, presenti — non a documentare, ma ad abitare i momenti."
 focus_keyword: fine anno

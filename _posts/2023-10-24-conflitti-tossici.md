@@ -3,7 +3,7 @@ layout: post
 title: "Conflitti tossici"
 date: 2023-10-24 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/10/giorgia_meloni_quirinale_2019.jpg
+image: /assets/images/2023/10/giorgia_meloni_quirinale_2019.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Storie d'amore che vanno, che finiscono, come decine di migliaia ogni anno in Italia, che si aggiungono ai circa 70mila divorzi che si ufficializzano nei..."
 category: politica-interna

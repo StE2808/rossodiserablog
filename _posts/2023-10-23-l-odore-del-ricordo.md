@@ -3,7 +3,7 @@ layout: post
 title: "L’odore del ricordo"
 date: 2023-10-23 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/10/img_4182-1.jpg
+image: /assets/images/2023/10/img_4182-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "A volte un odore ti rapisce e ti porta lontano. Esiste un termine francese che ne tenta di descrive il fenomeno: Madeleine de Proust"
 tags: ["Anni \u201960", "Forme", "giovent\u00f9", "giovinezza", "Lutto", "Madeleine", "Morte", "nonna", "nonno", "Proust", "ragazzi", "ricordo", "societ\u00e0", "Solidariet\u00e0"]
@@ -31,8 +31,8 @@ Ma c'era anche il torcolo, un ciambellone che preparava con una dedizione partic
 E così, come i dolcetti Madeleine di Proust, quegli odori, quei sapori e quei gesti gentili di nonna Mimma sono diventati le mie Madeleine personali, i catalizzatori di ricordi preziosi. Ogni volta che sento un profumo simile o assaporo qualcosa di simile a quel torcolo, sono trasportato indietro nel tempo, in un abbraccio caloroso tra mia nonna e mio nonno, in un luogo dove l'amore e i ricordi perdurano per sempre.
 
     
-![](images/2023/10/img_4182-1.jpg)
+![](images/2023/10/img_4182-1.webp)
     
-![](images/2023/10/img_4183-2-1.jpg)
+![](images/2023/10/img_4183-2-1.webp)
     
-![](images/2023/10/img_4183-1.jpg)
+![](images/2023/10/img_4183-1.webp)

@@ -3,7 +3,7 @@ layout: post
 title: "LA VOCE DEGLI STUDENTI CONTRO LA SPIRALE DELLA GUERRA"
 date: 2025-03-29 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/03/img_6245-1.jpg
+image: /assets/images/2025/03/img_6245-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "In un'epoca in cui i venti di guerra soffiano con forza crescente alle porte dell'Europa e nel Medio Oriente, gli studenti del liceo Minghetti hanno..."
 category: cronaca-bianca

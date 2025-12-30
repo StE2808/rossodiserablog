@@ -3,7 +3,7 @@ layout: post
 title: "Il caso Venezia: siamo un popolo di camerieri"
 date: 2023-09-12 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/venezia-invasa-dai-turisti.jpg
+image: /assets/images/2023/09/venezia-invasa-dai-turisti.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La notizia era attesa ed è arrivata: a Venezia i posti letto destinati ai turisti hanno superato quelli per i residenti. Infatti i residenti sono 49.304..."
 category: lifestyle-moda

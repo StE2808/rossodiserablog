@@ -3,7 +3,7 @@ layout: post
 title: "Lo scippatore e la clava"
 date: 2023-09-10 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/img_4013.jpg
+image: /assets/images/2023/09/img_4013.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Lo scippatore e la clava Non so a voi, ma a me sono venuti i brividi. Brividi e senso di nausea nel vedere quelle immagini che purtroppo ho ricevuto..."
 tags: ["diritti", "giustizia", "Meloni", "odio", "politica", "scippatore", "sicurezza", "sociale", "societ\u00e0", "trogloditi", "violenza"]
@@ -29,4 +29,4 @@ L'Italia è tra i paesi più sicuri d'Europa: parlano i numeri e le statistiche.
     
 # 
     
-![](images/2023/09/img_4013.jpg)
+![](images/2023/09/img_4013.webp)

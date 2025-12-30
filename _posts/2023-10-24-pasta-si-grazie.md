@@ -3,7 +3,7 @@ layout: post
 title: "Pasta: sì grazie!"
 date: 2023-10-24 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/10/logo-wpd.jpg
+image: /assets/images/2023/10/logo-wpd.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La pasta è l'indiscussa regina della tavola italiana seguita dalla pizza e dal pane in ogni sua forma. Domani, 25 ottobre, si celebra il World Pasta Day..."
 category: scienza-tecnologia

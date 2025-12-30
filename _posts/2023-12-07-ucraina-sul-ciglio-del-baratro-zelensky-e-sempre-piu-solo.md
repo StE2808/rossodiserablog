@@ -3,7 +3,7 @@ layout: post
 title: "Ucraina sul ciglio del baratro: Zelensky è sempre più solo"
 date: 2023-12-07 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/12/women-fight-too-so-stop-ignoring-them-in-peacebuilding_940px.jpeg
+image: /assets/images/2023/12/women-fight-too-so-stop-ignoring-them-in-peacebuilding_940px.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Chi conosce e segue il professor Alessandro Orsini lo sapeva che sarebbe andata così. Chi ha potuto raccogliere informazioni, minimamente obiettive..."
 category: politica-estera

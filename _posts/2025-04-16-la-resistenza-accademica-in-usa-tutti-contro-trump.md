@@ -3,7 +3,7 @@ layout: post
 title: "La resistenza accademica in USA: tutti contro Trump"
 date: 2025-04-16 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/04/img_6314-1.jpg
+image: /assets/images/2025/04/img_6314-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Le principali università americane si sono unite in una risposta decisa contro i recenti tentativi dell'amministrazione Trump di interferire nella loro..."
 category: politica-estera

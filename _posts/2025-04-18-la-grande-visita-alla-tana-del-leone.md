@@ -3,7 +3,7 @@ layout: post
 title: "La Grande Visita alla Tana del Leone"
 date: 2025-04-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/04/img_6322-1.jpg
+image: /assets/images/2025/04/img_6322-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Da 12 ore gli scarafaggi leccapiatti e i pavoni scodinzolanti della savana, le iene urlatrici del regime, gli "sciacalli reporter", i babbuini..."
 category: politica-estera

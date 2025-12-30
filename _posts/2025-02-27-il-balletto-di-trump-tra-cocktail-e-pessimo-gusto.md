@@ -3,7 +3,7 @@ layout: post
 title: "Il Balletto di Trump: tra cocktail e pessimo gusto"
 date: 2025-02-27 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/02/img_6149-1.jpg
+image: /assets/images/2025/02/img_6149-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La Magnifica Vulgarità di Sir Trump è pura arte drammatica. Annunciando dazi del 25%, il nostro poeta ha declamato che l'Unione Europea "si è formata per..."
 category: politica-estera

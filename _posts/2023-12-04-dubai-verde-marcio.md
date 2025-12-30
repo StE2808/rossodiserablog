@@ -3,7 +3,7 @@ layout: post
 title: "Dubai: verde marcio"
 date: 2023-12-04 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/12/immagine-inquinamento.jpeg
+image: /assets/images/2023/12/immagine-inquinamento.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: ""Triplicare l'energia nucleare entro il 2050": questo il motto del terzo giorno della COP 28 a Dubai. Entra nel vivo l'incontro sul clima, infatti, se..."
 category: ambiente

@@ -3,7 +3,7 @@ layout: post
 title: "La Volpe d'Oro e l'Uccellino Azzurro"
 date: 2025-02-28 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/02/img_6159-1.jpg
+image: /assets/images/2025/02/img_6159-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Oggi vi racconto una storia: C'era una volta, nella Grande Foresta del Mondo, una possente Volpe dal pelo dorato che regnava sulla più vasta tana mai..."
 category: cronaca-bianca

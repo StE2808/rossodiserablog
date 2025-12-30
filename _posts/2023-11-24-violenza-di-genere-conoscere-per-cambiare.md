@@ -3,7 +3,7 @@ layout: post
 title: "Violenza di genere: conoscere per cambiare"
 date: 2023-11-24 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/jina.jpeg
+image: /assets/images/2023/11/jina.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'italiano è una lingua androcentrica e sessista. Partendo da questo assunto, già teorizzato negli anni 80 del secolo scorso, da personaggi del calibro di..."
 category: cultura-spettacolo

@@ -3,7 +3,7 @@ layout: post
 title: "I politici sono tutti uguali?La politica e’ tutto un magna-magna? O è la polarizzazione?"
 date: 2023-09-29 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/img_4068.jpg
+image: /assets/images/2023/09/img_4068.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La politica, da quando l’uomo si è evoluto, è uscito dalla caverna, si è organizzato per vivere in gruppi, la politica, dicevo, ha reso possibile la..."
 category: politica-interna
@@ -38,4 +38,4 @@ La polarizzazione rende difficile affrontare le sfide complesse che richiedono s
 Se avete trovato delle similitudini tra la situazione politica attuale e quanto teorizzato sopra, allora la soluzione può essere individuata solo nella promozione della conoscenza, nella partecipazione attiva alla vita civile e sociale del Paese. Questo per evolversi e tornare ad essere cittadini e non sudditi.
 
     
-![](images/2023/09/img_4068.jpg)
+![](images/2023/09/img_4068.webp)

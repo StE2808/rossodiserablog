@@ -3,7 +3,7 @@ layout: post
 title: "I numeri segreti del governo Meloni"
 date: 2023-12-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/12/image-from-rawpixel-id-3373446-original.jpg
+image: /assets/images/2023/12/image-from-rawpixel-id-3373446-original.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ogni tre giorni viene commesso un femminicidio, oramai questa conta la conosciamo tristemente fin troppo bene. Ma ce n'è un'altra di cui si parla sempre..."
 category: opinioni-editoriali
@@ -12,7 +12,7 @@ tags: ["carcerati", "carcere", "femminicidi", "Governo", "Meloni", "migranti", "
 Ogni tre giorni viene commesso un femminicidio, oramai questa conta la conosciamo tristemente fin troppo bene. Ma ce n'è un'altra di cui si parla sempre troppo poco: ogni cinque giorni si suicida un detenuto all’interno delle carceri italiane. E, che dire, ogni giorno muoiono sei migranti nel tentativo di raggiungere le coste italiane.
 
     
-![](images/2023/12/image-from-rawpixel-id-3373446-original.jpg)
+![](images/2023/12/image-from-rawpixel-id-3373446-original.webp)
 Certo, in un periodo storico come quello attuale dove i politici aizzano alla galera, alla forca la popolazione che già ha risentimento, odio represso, frustrazioni di vario genere ed è presa per il collo dalla povertà, questo discorso, questa conta scomoda, ha poco seguito, non porta voti ed anzi attira sarcasmo, critiche e disappunto. 
 
 Ed allora via libera, sdoganato il pensiero trogloditico: in carcere ci devono marcire questi detenuti ed assieme mettiamoci anche i migranti, tutti, compresi i bambini, rei di tentare di sfuggire alla miseria mortifera. E certamente in galera a pane ed acqua:  ma non i corruttori, i concussori, i corrotti ed i corruttori ed assolutamente invece vanno beatificati gli evasori fiscali, loro sì che sono costretti da questo Stato canaglia ad evadere per sopravvivere, scappano dal "pizzo di Stato" come la Meloni definisce le tasse. 
@@ -36,7 +36,7 @@ E poi ancora Ibrahim Ndiagne, Rodolfo Hilic, Davide Bartoli, G.Z., F.A., C.S. e 
 Ed allora, di chi è la colpa? Certamente delle politiche di gestione carceraria di questo governo, tutte volte al risparmio economico, quando, invece sarebbe necessaria una modernizzazione della vita carceraria aprendo al contributo esterno di volontari, associazioni, cooperative, scuole e università, regalando professionalità, istruzione, speranza a chi sta dietro alle sbarre. Ovviamente come si fa? Assumendo tanti giovani operatori, non volontari ma professionisti,  che prendano per mano queste persone e le guidino fuori dal guado dei loro problemi e dei loro fallimenti.
 
     
-![](images/2023/12/banner_refugees-720x373-1.jpg)
+![](images/2023/12/banner_refugees-720x373-1.webp)
 Discorso ancora peggiore quello dei migranti: 153.000 sbarchi nel 2023, in Italia, oltre 2.100 i morti accertati. Ma molti, tanti, troppi quelli di cui non si sa nulla, nemmeno se siano vivi o morti in mare. Vivi senza valore e morti di terza serie, di loro non ci interessa niente. Veramente solo numeri crudi, senza diritto alla dignità, senza  valore. Oggetto di scambio commerciale al margine di accordi per l'acquisto di gas o petrolio come nel "Piano Mattei". Moderni schiavi: schiavi nei paesi di partenza per lavori tremendi, schiavi del sesso nelle carceri libiche, schiavi in Italia ed in Europa perché senza carte e permessi e quindi senza diritti. Lasciati affogare vietando alle navi delle ONG di andarli a salvare per evitare il famigerato "pull factor", un fattore trainante che invoglierebbe a salire su un guscio di noce, mettersi in mare magari con dei figli in fasce, rischiando seriamente la vita, nella speranza dell'arrivo di una nave di una ONG. 
 
 Agli occhi spietati di questo Governo, invece lasciandoli affogare si hanno due fatti positivi: i migranti muoiono quindi non arrivano e scoraggerebbero quanti vorrebbero partire che, spaventati, non partirebbero. Cinici e bari, i nostri governanti, cinici è ovvio e bari perché non funziona così, loro lo sanno, i numeri degli sbarchi, con un +115,18%, rispetto all'anno prima, sono lì a ricordarglielo, ma loro barano e negano. Comunque, invece, chi è nelle condizioni di partire dalle coste libiche o magrebine non ha alternative migliori e anche la morte è vista come una fatalità non peggiore di quanto si sta cercando di lasciare. La disperazione e la speranza accecano. 
@@ -44,4 +44,4 @@ Agli occhi spietati di questo Governo, invece lasciandoli affogare si hanno due 
 Unica soluzione sarebbe la istituzione di corridoi umanitari stabili, sull'esempio di quelli organizzati, con le poche risorse loro disponibili, dalla Comunità di Sant'Egidio e dalla Chiesa Evangelica italiana. Gestire i flussi di questi giovani, visto il generalizzato inverno demografico europeo, garantirebbe forza lavoro ed, inevitabilmente, nuovi introiti per il nostro sistema pensionistico.
 
     
-![](images/2023/12/fl15359245204-image-kpqoitcg.jpg)
+![](images/2023/12/fl15359245204-image-kpqoitcg.webp)

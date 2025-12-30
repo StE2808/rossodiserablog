@@ -3,7 +3,7 @@ layout: post
 title: "La magia dei numeri e la loro origine"
 date: 2023-09-21 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/ste_spi_roman_and_indian_numerals_95ebf0a4-d144-4d97-b4cb-ff6927f2216c.png
+image: /assets/images/2023/09/ste_spi_roman_and_indian_numerals_95ebf0a4-d144-4d97-b4cb-ff6927f2216c.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mia figlia mi ha fatto una domanda interessante: “Ma il cinque perché è fatto così. Perché i romani scrivevano, invece, il 5 con un il simbolo V?”"
 category: societa
@@ -25,7 +25,7 @@ Rivoluzionaria fu inoltre l’introduzione dello zero e della numerazione posizi
 E sin qui tutto bene: ma c'era un problema quasi insormontabile. Questo sistema era arabo, quindi non cristiano e quindi infedele, quindi considerato pericoloso. Era visto da molti dotti e soprattutto religiosi con sospetto rappresentando un potenziale pericolo per la Cristianità. 
 
     
-![](images/2023/09/ste_spi_roman_and_indian_numerals_95ebf0a4-d144-4d97-b4cb-ff6927f2216c.png)
+![](images/2023/09/ste_spi_roman_and_indian_numerals_95ebf0a4-d144-4d97-b4cb-ff6927f2216c.webp)
 Come in tutte le epoche dove avvengono rivoluzioni gli scettici, i negazionisti i no-numero arabo cominciarono a rumoreggiare e ad obiettare che visto che avevano anche numeri aperti e forme tondeggianti, sarebbero stati facile preda di disonesti e truffatori che li avrebbero potuti trasformare modificando il numero delle merci o peggio direttamente il valore magari degli accordi commerciali. Proprio come il grafene coi no-vax.
 
 I numeri arabi quindi stentarono la loro diffusione fino al 1200, precisamente fino al 1202 anno della stampa di un manuale ad opera del matematico italiano Leonardo Fibonacci che col suo Libro dell’abbaco, giudicato unanimemente il più raffinato saggio di aritmetica dell’intero Medioevo, impose i numeri arabi decretando l'inizio del declino, soprattutto fra i matematici e gli studiosi, ma non  nell'uso comune, dei numeri romani. Tra la gente, il popolo continuò ad usare i numeri romani.

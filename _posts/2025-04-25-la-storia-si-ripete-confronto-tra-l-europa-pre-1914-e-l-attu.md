@@ -3,7 +3,7 @@ layout: post
 title: "La Storia si Ripete? Confronto tra l'Europa pre-1914 e l'Attualità"
 date: 2025-04-25 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/04/img_6345-1.jpg
+image: /assets/images/2025/04/img_6345-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Nel silenzio inquieto che precede le tempeste storiche, si possono cogliere echi e parallelismi che attraversano il tempo. Le similitudini tra il periodo..."
 category: cultura-spettacolo

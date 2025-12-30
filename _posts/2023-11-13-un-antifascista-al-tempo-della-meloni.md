@@ -3,7 +3,7 @@ layout: post
 title: "Un antifascista al tempo della Meloni"
 date: 2023-11-13 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/img_4251-1.jpg
+image: /assets/images/2023/11/img_4251-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Troppi rigurgiti neri, troppe incertezze, titubanze, ammiccamenti e per ultimo tutte le falsità contenute nell’ultimo libro di Bruno Vespa, hanno..."
 tags: ["Ambiente", "antifascismo", "antifascista", "diritti", "Economia", "ecosistema", "fascismo", "fascista", "lavoro", "socialismo", "societ\u00e0"]

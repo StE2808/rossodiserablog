@@ -9,7 +9,7 @@ tags:
   - salvinidimettiti
   - ritardi
   - trenitalia
-image: /assets/images/uploads/IMG_6989.jpeg
+image: /assets/images/uploads/IMG_6989.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Treni: ennesima giornata di caos"
 excerpt: 'Treni: ennesima giornata di caos'

@@ -3,13 +3,13 @@ layout: post
 title: "Trump e Musk: Costruttori di un Nuovo Stato Autoritario Tecnologico"
 date: 2025-02-22 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2025/02/image.jpg
+image: /assets/images/2025/02/image.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "![](images/2025/02/image.jpg) Negli ultimi anni, due figure si sono distinte nel panorama globale non solo per la loro influenza economica e politica, ma..."
+description: "![](images/2025/02/image.webp) Negli ultimi anni, due figure si sono distinte nel panorama globale non solo per la loro influenza economica e politica, ma..."
 category: opinioni-editoriali
 tags: ["Autoritarismo tecnologico", "Controllo digitale", "Distopia moderna", "Intelligenza Artificiale", "Libert\u00e0 individuale", "Populismo politico", "Resistenza civile", "Reti decentralizzate", "Sorveglianza globale"]
 ---
-![](images/2025/02/image.jpg)
+![](images/2025/02/image.webp)
 Negli ultimi anni, due figure si sono distinte nel panorama globale non solo per la loro influenza economica e politica, ma anche per la loro capacità di plasmare la narrativa del futuro: Donald Trump ed Elon Musk. A differenza di ciò che sostengono alcuni critici, il loro obiettivo non è distruggere lo Stato, bensì trasformarlo in un'entità autoritaria, fondata su un controllo capillare reso possibile dalle tecnologie avanzate. Tuttavia, il sistema che sembrava invincibile mostra oggi crepe sempre più evidenti. Queste fratture potrebbero aprire la strada a un crollo dell'ordine distopico o a una diserzione di massa, aprendo quella che potremmo definire una "finestra quantistica" per il cambiamento.
 
     <h4 class="wp-block-heading">**La Visione Autoritaria Mediata dalla Tecnologia**</h4>    L’idea di uno Stato autoritario che sfrutta la tecnologia non è nuova, ma Trump e Musk la reinterpretano in chiave contemporanea. Da un lato, Trump rappresenta il volto della politica populista che mira a concentrare il potere nelle mani di pochi, mascherandolo dietro il consenso delle masse. Dall’altro, Musk incarna il lato tecnologico di questo progetto, con le sue aziende come Tesla, SpaceX, Neuralink e Starlink, che non solo dominano i rispettivi settori, ma offrono strumenti di controllo e sorveglianza mai visti prima.

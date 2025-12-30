@@ -3,7 +3,7 @@ layout: post
 title: "L’ assuefazione alla puzza  della guerra"
 date: 2023-11-10 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/img_4245-1.jpg
+image: /assets/images/2023/11/img_4245-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'attuale maledetta assuefazione alla guerra ha gettato un velo di oscurità sulla nostra umanità. In questo teatro sanguinario, l'odore pestilenziale..."
 category: diritti-umani
@@ -22,4 +22,4 @@ Siamo chiamati a rompere le catene dell'assuefazione, a respingere l'odore pesti
 Due popoli, due Stati. Via gli occupanti dalle colonie illegali. Riconoscimento immediato dello Stato palestinese. La pace così sarà possibile e possibilmente duratura. 
 
     
-![](images/2023/11/img_4245-1.jpg)
+![](images/2023/11/img_4245-1.webp)

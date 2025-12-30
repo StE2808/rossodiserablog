@@ -3,7 +3,7 @@ layout: post
 title: "Odio: la malattia sociale del nostro tempo"
 date: 2023-09-04 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/img_3989.jpg
+image: /assets/images/2023/09/img_3989.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Lascia veramente pensare quanto odio sia stato seminato tra la gente e nel popolo. Ci hanno voluti, per progetto, gli uni contro gli altri e ci sono..."
 tags: ["malattia", "odio", "politica", "sociale", "societ\u00e0"]
@@ -21,4 +21,4 @@ Siamo in mano a manipolatori particolarmente bravi. Poveri noi.
     
 
     
-![](images/2023/09/img_3989.jpg)
+![](images/2023/09/img_3989.webp)

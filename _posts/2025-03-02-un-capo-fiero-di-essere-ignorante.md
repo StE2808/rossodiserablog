@@ -3,7 +3,7 @@ layout: post
 title: "Un capo fiero di essere ignorante"
 date: 2025-03-02 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/03/img_6161-1.jpg
+image: /assets/images/2025/03/img_6161-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Lui, con i palmi spalancati che si muovono solo orizzontalmente, poi col dito puntato e poi con la bocca a culo di gallina che usa quando deve sputare..."
 category: politica-estera

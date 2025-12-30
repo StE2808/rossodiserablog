@@ -3,7 +3,7 @@ layout: post
 title: "Albania: il Cpr sarà anche carcere"
 date: 2023-12-06 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/12/cie.jpg
+image: /assets/images/2023/12/cie.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E alla fine hanno gettato la maschera: il Centro di permanenza per il rimpatrio (Cpr) che il governo Meloni vorrebbe realizzare in Albania, ospiterà anche..."
 category: cronaca-bianca

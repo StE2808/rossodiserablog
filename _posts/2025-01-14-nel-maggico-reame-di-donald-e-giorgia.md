@@ -3,7 +3,7 @@ layout: post
 title: "Nel maggico reame di Donald e Giorgia"
 date: 2025-01-14 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/01/img_5993-1.jpg
+image: /assets/images/2025/01/img_5993-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Accadde oggi… Oh, che meraviglia. Nel regno incantato della giustizia selettiva, il voto popolare è la bacchetta magica che fa sparire 34 capi..."
 category: politica-estera
@@ -14,7 +14,7 @@ Accadde oggi…
 Oh, che meraviglia! Nel regno incantato della giustizia selettiva, il voto popolare è la bacchetta magica che fa sparire 34 capi d'imputazione come per magia! Perché preoccuparsi di dettagli come "prove" o "tentato colpo di stato" quando hai milioni di follower sul social Truth? Ovviamente non due pesi e due misure ma tanti pesi e tantissime misure per vestire a pennello i potenti e spavaldi.
 
     
-![](images/2025/01/img_5993-1.jpg)
+![](images/2025/01/img_5993-1.webp)
 E in Italia? Ma che spettacolo! I nostri governanti stanno studiando uno per scudo magico per permettere alle divise di farla franca anche se commettano abusi, tipo inseguire diciannovenni in moto fino alla morte. Insomma permettere l’applicazione della pena di morte senza nemmeno passare per un processo. Infatti
 non fermarsi all'alt praticamente verrebbe a rappresentare un crimine contro l'umanità da punire con il massimo sacrificio.
 

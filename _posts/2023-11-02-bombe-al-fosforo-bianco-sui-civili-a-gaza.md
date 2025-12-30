@@ -3,7 +3,7 @@ layout: post
 title: "Bombe al fosforo bianco sui civili a Gaza"
 date: 2023-11-02 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/img_4212-1.jpg
+image: /assets/images/2023/11/img_4212-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Operazione a tenaglia di Israele a Gaza. Tre lati sotto attacco"
 category: societa
@@ -30,4 +30,4 @@ Queste deflagrazioni sono in grado di provocare nelle vittime ustioni gravi e mo
 L'utilizzo delle bombe al fosforo bianco sono state largamente utilizzate dalla prima guerra mondiale in poi, nelle guerre coloniali in Africa, ma più recentemente in Siria ed in Ucraina, Questa volta, però, il loro uso coinvolge principalmente la popolazione civile. Un crimine nel crimine.
 
     
-![](images/2023/11/img_4212-1.jpg)
+![](images/2023/11/img_4212-1.webp)

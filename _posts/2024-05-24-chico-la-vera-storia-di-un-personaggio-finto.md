@@ -3,7 +3,7 @@ layout: post
 title: "Chico: la vera storia di un personaggio finto"
 date: 2024-05-24 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/05/img_4987-1.jpg
+image: /assets/images/2024/05/img_4987-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Enrico "Chico" Forti era un uomo di molti talenti, sebbene nessuno di questi fosse mai stato particolarmente utile. Campione di surf, produttore..."
 tags: ["Chico forti", "diritti", "Etica", "giustizia", "Governo", "Meloni", "politica", "societ\u00e0", "UE", "USA"]
@@ -25,4 +25,4 @@ Nella realtà della cella italiana, intanto, in un angolo remoto del suo cervell
 E così, tra applausi e pacche sulle spalle, Enrico "Chico" Forti continuava a vivere la sua vita straordinariamente mediocre, con un sorriso sornione e una risata sempre pronta, sapendo che, a volte, la realtà può essere più assurda della finzione.
 
     
-![](images/2024/05/img_4987-1.jpg)
+![](images/2024/05/img_4987-1.webp)

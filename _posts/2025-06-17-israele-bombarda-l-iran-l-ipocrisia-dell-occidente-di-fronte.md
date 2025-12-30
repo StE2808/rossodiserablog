@@ -3,7 +3,7 @@ layout: post
 title: "Israele bombarda l’Iran: l’ipocrisia dell’Occidente di fronte all’ennesima aggressione"
 date: 2025-06-17 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/06/img_6511-1.jpg
+image: /assets/images/2025/06/img_6511-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mentre l’Italia ospitava i negoziati sul nucleare iraniano rassicurando sull’assenza di minacce immediate, Israele ha lanciato il suo attacco devastante..."
 category: cronaca-bianca

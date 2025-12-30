@@ -3,7 +3,7 @@ layout: post
 title: "Antipatico e’ bello"
 date: 2024-04-17 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/04/img_4811-1.png
+image: /assets/images/2024/04/img_4811-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L’Antipatia nella Amministrazione del Governo: Il Ruolo di un Pensiero Lungimirante e Non Populista Nella complessa danza della politica, l'antipatia è..."
 tags: ["antipatia", "diritti", "Etica", "Governo", "odio", "politica", "societ\u00e0", "Solidariet\u00e0", "Umanit\u00e0"]

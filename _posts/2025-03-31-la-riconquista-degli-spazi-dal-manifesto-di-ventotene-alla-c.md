@@ -3,7 +3,7 @@ layout: post
 title: "La riconquista degli spazi: dal Manifesto di Ventotene alla Costituzione italiana"
 date: 2025-03-31 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/03/img_6247-1.jpg
+image: /assets/images/2025/03/img_6247-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La riconquista degli spazi collettivi rappresenta oggi una necessità imprescindibile, radicata in una tradizione di pensiero che attraversa la storia..."
 tags: ["Ambiente", "anni 70", "Anni \u201960", "colorni", "diritti", "diritti umani", "Economia", "Etica", "Europa", "Generazioni Future", "giustizia", "Governo", "Identit\u00e0", "Istruzione", "lavoro", "Meloni", "mercato", "Pace", "polarizzazione", "politica", "Riforme", "Rossi", "sociale", "societ\u00e0", "Solidariet\u00e0", "spinelli", "UE"]

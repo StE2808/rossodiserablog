@@ -3,7 +3,7 @@ layout: post
 title: "La pace a brandelli"
 date: 2024-04-09 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/04/img_4757.jpg
+image: /assets/images/2024/04/img_4757.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La pace ridotta ad un ideale, dovrebbe unire le nazioni in una ricerca comune di armonia e stabilità, è, invece, stata fatta a brandelli dall'orrore della..."
 category: diritti-umani

@@ -3,7 +3,7 @@ layout: post
 title: "L’importanza dello spazio tra forchetta e bocca"
 date: 2023-10-14 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/10/img_4164-1.jpg
+image: /assets/images/2023/10/img_4164-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "A proposito di alimentazione , stili di vita ma anche approccio alla vita. La vita , tutte le vite hanno diritto di essere"
 category: scienza-tecnologia
@@ -32,5 +32,5 @@ In definitiva, e’ certamente giunta l’ora di strutturare una riflessione pi�
 Il nostro approccio alla vita, incluso ciò che mettiamo nel nostro piatto, ha un impatto sul mondo che parte dello spazio tra forchetta e bocca. 
 
     
-![](images/2023/10/img_4164-1.jpg)
+![](images/2023/10/img_4164-1.webp)
     <img alt="" />

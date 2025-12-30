@@ -3,7 +3,7 @@ layout: post
 title: "L’ironia tragica della violenza MAGA"
 date: 2025-09-13 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/09/img_6766.jpg
+image: /assets/images/2025/09/img_6766.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La morte di Charlie Kirk rappresenta un momento di drammatica ironia per il movimento MAGA americano. Il noto attivista conservatore di 31 anni, stretto..."
 category: cronaca-bianca

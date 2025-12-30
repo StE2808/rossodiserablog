@@ -3,7 +3,7 @@ layout: post
 title: "La lezione di grammatica che Harvard non aveva previsto di impartire"
 date: 2025-05-08 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/05/1c04ce84-2392-4051-b7fd-a3c740da0921-1.jpg
+image: /assets/images/2025/05/1c04ce84-2392-4051-b7fd-a3c740da0921-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ma che splendido esempio di alta formazione governativa ci ha regalato la segretaria all'Istruzione Linda McMahon. Quando ha deciso di minacciare Harvard..."
 category: cultura-spettacolo

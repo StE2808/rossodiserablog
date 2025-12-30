@@ -3,7 +3,7 @@ layout: post
 title: "L’Era dell’Anti-Umanità: Quando la Sopravvivenza si Trasforma in Autodistruzione"
 date: 2025-09-04 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/09/img_6742.jpg
+image: /assets/images/2025/09/img_6742.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Viviamo in un paradosso evolutivo che il grande etologo austriaco Konrad Lorenz aveva già intuito nelle sue riflessioni sulla natura umana. Secondo..."
 tags: ["diritti", "diritti umani", "Economia", "Etica", "Generazioni Future", "giustizia", "Governo", "guerra", "Identit\u00e0", "Istruzione", "mercato", "odio", "Pace", "politica", "resistenza", "Riforme", "sociale", "societ\u00e0", "Solidariet\u00e0", "trogloditi", "Umanit\u00e0", "violenza"]

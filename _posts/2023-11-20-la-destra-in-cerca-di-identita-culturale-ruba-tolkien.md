@@ -3,7 +3,7 @@ layout: post
 title: "La destra in cerca di identità culturale ruba Tolkien"
 date: 2023-11-20 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/foto-tolkien-1.jpg
+image: /assets/images/2023/11/foto-tolkien-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'autore preferito della nostra presidentissima, Giorgia Meloni, viene rubato. Tolkien viene esposto ed anche messo in mostra"
 category: cultura-spettacolo
@@ -14,7 +14,7 @@ L'autore preferito della nostra presidentissima, Giorgia Meloni, viene rubato. T
 Gli viene, infatti, organizzata una mostra alla Galleria Nazionale di Roma che dal 16 novembre sarà visitabile fino all'11 febbraio 2024. E così, forse non di furto ma certamente appropriazione indebita: questa, probabilmente, la qualificazione giuridica più corretta. 
 
     
-![](images/2023/11/foto-tolkien-1.jpg)
+![](images/2023/11/foto-tolkien-1.webp)
 La colpa di Tolkien? Essere l'autore preferito da Giorgia e narratore di mondi immaginari dove prendono forma razze umane immaginarie che combattono guerre immaginarie. Una presunta fierezza nordica col retrogusto religioso. Tutto qui. Non c'è altro.
 
 Questa destra, ovviamente ignorante e priva di autori, è a caccia costantemente di una identità culturale. Cerca qualcuno che le permetta di superare l'abisso, l'enorme divario che la divide dalla sinistra. Questo fortissimo complesso di inferiorità è talmente grande che brucia costantemente e suona come una ingiusta punizione, d'altra parte come poter accettare, questa maledetta sinistra, sempre ricca di produzioni e autori riconosciuti a livello planetario, forieri di cultura. Questi maledetti fortunati non hanno che l'imbarazzo della scelta. Una vera ingiustizia.

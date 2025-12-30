@@ -3,7 +3,7 @@ layout: post
 title: "Leoncavallo: quando la comunità diventa “minaccia”"
 date: 2025-08-22 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/08/img_6714.jpg
+image: /assets/images/2025/08/img_6714.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Lo sgombero del centro sociale Leoncavallo rappresenta l’ennesimo capitolo di una strategia che considera ogni forma di aggregazione dal basso come un..."
 category: cronaca-bianca

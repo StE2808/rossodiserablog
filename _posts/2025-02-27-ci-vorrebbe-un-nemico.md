@@ -3,7 +3,7 @@ layout: post
 title: "Ci vorrebbe un nemico…"
 date: 2025-02-27 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/02/img_6155-1.jpg
+image: /assets/images/2025/02/img_6155-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Giocare con le parole è una competenza oramai non comune. Appare una delle azioni impossibili ad una grossa fetta della popolazione"
 tags: ["diritti", "Economia", "Etica", "Europa", "fascismo", "giustizia", "Governo", "guerra", "immigrazione", "Meloni", "migranti", "Migrazione", "Morte", "Musk", "nemici", "nemico", "odio", "Pace", "palestina", "politica", "Russia", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]

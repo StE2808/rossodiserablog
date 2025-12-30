@@ -3,7 +3,7 @@ layout: post
 title: "SOS AUTORITARISMO"
 date: 2025-03-14 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/03/img_6202-1.jpg
+image: /assets/images/2025/03/img_6202-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Stiamo vivendo, testimoni e spettatori, tendenze autoritarie a livello globale, proprio come nel periodo interbellico successe col fascismo del fascio..."
 category: cultura-spettacolo

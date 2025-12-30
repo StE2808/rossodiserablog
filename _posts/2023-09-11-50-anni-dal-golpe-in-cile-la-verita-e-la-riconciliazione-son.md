@@ -3,7 +3,7 @@ layout: post
 title: "50 anni dal golpe in Cile: la verità e la riconciliazione sono lontane"
 date: 2023-09-11 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/golpe-pinochet.jpg
+image: /assets/images/2023/09/golpe-pinochet.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Era proprio l'11 settembre 1973, cinquant'anni fa esatti e nel piccolo Paese sud-americano viene messo in scena un golpe, il Governo socialista viene..."
 category: societa

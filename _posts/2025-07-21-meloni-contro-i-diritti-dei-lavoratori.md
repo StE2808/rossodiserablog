@@ -3,7 +3,7 @@ layout: post
 title: "Meloni contro i diritti dei lavoratori"
 date: 2025-07-21 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/07/img_6622-1.jpg
+image: /assets/images/2025/07/img_6622-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La scusa è il cosiddetto decreto Ilva. Ma quello che sta accadendo è uno scandalo di proporzioni inaudite"
 category: politica-interna

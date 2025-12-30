@@ -3,13 +3,13 @@ layout: post
 title: "Come le luci disegnano l’essenza di una città"
 date: 2023-10-28 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2023/10/img_5609.jpeg
+image: /assets/images/2023/10/img_5609.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "![](images/2023/10/img_5609.jpeg) Le città, troppo spesso viste come labirinti di calcestruzzo e traffico caotico, rivelano un altro volto quando il sole..."
+description: "![](images/2023/10/img_5609.webp) Le città, troppo spesso viste come labirinti di calcestruzzo e traffico caotico, rivelano un altro volto quando il sole..."
 category: cultura-spettacolo
 tags: ["Atmosfera", "Benessere", "Citt\u00e0", "Comportamento", "Comunit\u00e0", "Crepuscolo", "Grattacielo", "Identit\u00e0", "Illuminazione urbana", "Lampioni", "Luci", "Metropoli", "Neon", "Roma", "Stato d'animo", "Storia", "Tokyo", "Trastevere"]
 ---
-![](images/2023/10/img_5609.jpeg)
+![](images/2023/10/img_5609.webp)
 Le città, troppo spesso viste come labirinti di calcestruzzo e traffico caotico, rivelano un altro volto quando il sole cede il palcoscenico alla notte. Ecco che entrano in scena lampioni e neon, che fanno molto più che disperdere le ombre: plasmano l’anima e il mood della città e di chi la abita.
 
 Non si tratta solo di fare luce. L’illuminazione urbana è quasi come un ritratto psicologico della città stessa, un’immagine del suo stato d’animo collettivo. Luci fredde e taglienti suggeriscono un’atmosfera di efficienza e innovazione, mentre toni caldi e soffusi evocano una sensazione di accoglienza e calore umano.

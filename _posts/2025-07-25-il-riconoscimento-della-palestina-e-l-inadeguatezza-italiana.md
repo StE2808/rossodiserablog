@@ -3,7 +3,7 @@ layout: post
 title: "Il riconoscimento della Palestina e l’inadeguatezza italiana"
 date: 2025-07-25 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/07/img_6654.jpg
+image: /assets/images/2025/07/img_6654.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mentre l’Europa si muove con coraggio e coerenza, l’Italia resta immobile in una posizione di imbarazzante inadeguatezza. La Francia ha riconosciuto la..."
 category: politica-estera

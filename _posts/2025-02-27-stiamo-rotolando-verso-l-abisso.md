@@ -3,7 +3,7 @@ layout: post
 title: "Stiamo rotolando verso l’abisso"
 date: 2025-02-27 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/02/img_6154-1.jpg
+image: /assets/images/2025/02/img_6154-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Il saluto romano appare contagioso: oggi, l’ideologo di Donald Trump, Steve Bannon si è esibito in un saluto fascista o nazista, che dir si voglia, al..."
 category: politica-estera

@@ -3,7 +3,7 @@ layout: post
 title: "Il possesso malato del maschio"
 date: 2023-11-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/img_4282-1.jpg
+image: /assets/images/2023/11/img_4282-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Un nuovo femminicidio: relazioni abusive ed il possesso patologico, di questo si tratta. E’ stato ritrovato il corpo di Giulia Cecchettin, la ragazza..."
 category: societa

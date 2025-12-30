@@ -3,7 +3,7 @@ layout: post
 title: "Meloni: il viaggio delle promesse"
 date: 2025-07-28 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/07/img_6663.jpg
+image: /assets/images/2025/07/img_6663.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Nel caldo torrido dell’Etiopia, mentre il sole picchiava sui terreni aridi e le dune avanzavano inesorabili verso i campi coltivati, arrivò Giorgia Meloni..."
 category: politica-estera

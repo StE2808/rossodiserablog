@@ -3,7 +3,7 @@ layout: post
 title: "Spagna: il Mar de Plastico cresce e cambia il clima"
 date: 2023-10-30 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/10/mar-de-plastico.jpg
+image: /assets/images/2023/10/mar-de-plastico.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Immaginate di guardare la terra dallo spazio e di scoprire un triangolo bianco enorme. Si tratta di un triangolo, in verità dai contorni irregolari, di..."
 category: ambiente

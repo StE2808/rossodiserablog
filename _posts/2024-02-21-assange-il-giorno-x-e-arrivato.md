@@ -3,7 +3,7 @@ layout: post
 title: "Assange: il giorno X e’ arrivato"
 date: 2024-02-21 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/02/img_4624-1.jpg
+image: /assets/images/2024/02/img_4624-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Perché è essenziale sapere cosa è il Day X Il DAY X fissato dall’Alta corte di Londra per il 20-21 febbraio 2024, vi sarà il pronunciamento in merito..."
 category: societa

@@ -3,7 +3,7 @@ layout: post
 title: "La Nuova Geometria del Disordine Globale"
 date: 2025-06-23 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/06/img_6520-1.jpg
+image: /assets/images/2025/06/img_6520-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Un’analisi del panorama geopolitico contemporaneo L’Erosione dell’Ordine Westfaliano Il “martello di mezzanotte” dell’amministrazione Trump rappresenta..."
 category: politica-estera
@@ -41,7 +41,7 @@ Il caso Condotte d’Acqua illumina un aspetto spesso trascurato delle crisi con
 Questi meccanismi rivelano come il neoliberismo abbia creato una classe di rentiers che prospera sulle macerie delle crisi. Non sono più capitalisti nel senso classico del termine, ma estrattori di valore che si arricchiscono sulla disperazione altrui.
 
     
-![](images/2025/06/img_6520-1.jpg)
+![](images/2025/06/img_6520-1.webp)
     
 ### La Cultura come Resistenza
 Il fenomeno Bogliasco nella musica italiana contemporanea suggerisce come la creatività possa emergere dai margini geografici ed economici. Un piccolo paese ligure che produce una generazione di artisti innovativi dimostra che l’egemonia culturale non appartiene necessariamente ai centri di potere tradizionali.

@@ -9,7 +9,7 @@ tags:
   - riflessioni
   - libertà
   - stile
-image: /assets/images/uploads/il_vento_fra_i_capelli.png
+image: /assets/images/uploads/il_vento_fra_i_capelli.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "C'è qualcosa di irresistibilmente libero in chi lascia che il vento faccia quello che vuole. Un piccolo elogio del caos controllato."
 excerpt: C'è qualcosa di irresistibilmente libero in chi lascia che il vento faccia quello che vuole. Un piccolo elogio del caos controllato.
@@ -26,4 +26,4 @@ Non sto dicendo di fumare – quello lasciamolo agli anni '60. Sto dicendo che o
 
 **_Il vento sa quello che fa. Fidati._**
 
-![](/assets/images/uploads/il_vento_fra_i_capelli.png)
+![](/assets/images/uploads/il_vento_fra_i_capelli.webp)

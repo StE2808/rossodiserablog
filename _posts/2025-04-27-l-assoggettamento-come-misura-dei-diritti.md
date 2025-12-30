@@ -3,7 +3,7 @@ layout: post
 title: "L'assoggettamento come misura dei diritti"
 date: 2025-04-27 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/04/img_6353-1.jpg
+image: /assets/images/2025/04/img_6353-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'umanità ha sviluppato un peculiare rapporto con gli animali, strutturato secondo una gerarchia di considerazione morale che sembra inversamente..."
 category: cultura-spettacolo

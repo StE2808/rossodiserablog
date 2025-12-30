@@ -3,7 +3,7 @@ layout: post
 title: "Corsa alla poltrona UE: tutti nel vortice della disumanità"
 date: 2023-09-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/porta_deuropa.jpg
+image: /assets/images/2023/09/porta_deuropa.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Giorgia Meloni è in costante campagna elettorale da quando è stata eletta, quindi da sempre, insomma, e prosegue ad oltranza. E così dopo essersi spostata..."
 category: cronaca-bianca

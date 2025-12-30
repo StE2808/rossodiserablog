@@ -3,7 +3,7 @@ layout: post
 title: "Ma c’è differenza tra Fascismo e Comunismo?"
 date: 2023-09-28 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/img_4065-1.jpg
+image: /assets/images/2023/09/img_4065-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Attorno agli anni ‘20 del secolo scorso si sono affacciate, in Germania ed in Italia, due ideologie molto polarizzanti, parliamo di Nazismo e Fascismo. Il..."
 category: societa
@@ -24,4 +24,4 @@ Una riflessione va aperta sui partiti comunisti che sono andati al potere: prima
 Ma ho parlato di partiti comunisti… ma il comunismo era quello o è altro? Pensiamo ai lavoratori trucidati durante gli scioperi nell'Italia appena unita di Vittorio Emanuele II. Oppure ai comunisti morti nei campi di concentramento. Ma anche ai sindacalisti che si sono fatti ammazzare in tanti Paesi. O chi è stato ucciso lottando contro il colonialismo pensando che il comunismo fosse una cosa meravigliosa. Tutti questi erano dei poveri illusi? Forse. Sui principi fondanti e fondamentali delle ideologie però c’è la certezza che mentre da un lato vi è sempre stata la volontà di prevalere, prevaricare, escludere, nell’ideologia comunista è chiara la volontà egualitaria, il rispetto altrui ed il bene comune. 
 
     
-![](images/2023/09/img_4065-1.jpg)
+![](images/2023/09/img_4065-1.webp)

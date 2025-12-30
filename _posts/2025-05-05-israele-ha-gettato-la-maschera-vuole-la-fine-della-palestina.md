@@ -3,7 +3,7 @@ layout: post
 title: "Israele ha gettato la maschera: vuole la fine della Palestina."
 date: 2025-05-05 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/05/img_6384-1.jpg
+image: /assets/images/2025/05/img_6384-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La questione palestinese è una lunga storia di occupazione. Ma ora è ufficiale: il governo Netanyahu ha votato per l'occupazione militare totale della..."
 category: cronaca-bianca

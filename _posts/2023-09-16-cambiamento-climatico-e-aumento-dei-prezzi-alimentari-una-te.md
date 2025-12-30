@@ -3,7 +3,7 @@ layout: post
 title: "Cambiamento Climatico e Aumento dei Prezzi Alimentari: Una Tendenza Preoccupante"
 date: 2023-09-16 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2023/09/climate_change_food.png
+image: /assets/images/2023/09/climate_change_food.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Il cambiamento climatico non è solo una minaccia per il pianeta, ma sta colpendo direttamente il nostro budget e la tavola italiana. Dall'amato caffè alle..."
 category: ambiente

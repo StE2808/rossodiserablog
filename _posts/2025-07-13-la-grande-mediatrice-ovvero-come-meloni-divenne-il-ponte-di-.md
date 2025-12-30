@@ -3,7 +3,7 @@ layout: post
 title: "La Grande Mediatrice: Ovvero Come Meloni Divenne il Ponte di Carta"
 date: 2025-07-13 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/07/img_6611-1.jpg
+image: /assets/images/2025/07/img_6611-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Una riflessione amara sul fallimento della diplomazia italiana nell’era Trump Giorgia. La donna che doveva essere il ponte tra due mondi, la mediatrice..."
 category: societa

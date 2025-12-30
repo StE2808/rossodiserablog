@@ -3,7 +3,7 @@ layout: post
 title: "Laura Santi: La Libertà Come Ultimo Atto d’Amore"
 date: 2025-07-22 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/07/img_6629-1.jpg
+image: /assets/images/2025/07/img_6629-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L’ho conosciuta forte e determinata da sempre, con quella capacità unica che hanno i giornalisti di trasformare le parole in ponti tra le persone. Eppure..."
 category: diritti-umani

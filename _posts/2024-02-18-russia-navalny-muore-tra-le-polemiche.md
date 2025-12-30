@@ -3,7 +3,7 @@ layout: post
 title: "Russia: Navalny muore tra le polemiche"
 date: 2024-02-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/02/img_4612-1.jpg
+image: /assets/images/2024/02/img_4612-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Scampo’ a vari attentati ed avvelenamenti. Anti corruzione, cosa scomoda visto che in Russia dilaga"
 category: politica-estera

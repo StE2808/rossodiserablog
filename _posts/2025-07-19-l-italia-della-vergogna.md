@@ -3,7 +3,7 @@ layout: post
 title: "L’ITALIA DELLA VERGOGNA"
 date: 2025-07-19 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/07/img_6617-1.jpg
+image: /assets/images/2025/07/img_6617-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mentre l’Europa si risveglia dal torpore e costruisce alleanze per difendere la civiltà dall’barbarie, l’Italia di Meloni sceglie la complicità con i..."
 category: politica-interna

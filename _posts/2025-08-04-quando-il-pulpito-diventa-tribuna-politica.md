@@ -3,7 +3,7 @@ layout: post
 title: "Quando il pulpito diventa tribuna politica"
 date: 2025-08-04 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/08/img_6676.jpg
+image: /assets/images/2025/08/img_6676.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Le parole pronunciate ieri da don Nuccio Cannizzaro durante l’omelia alla kermesse di Forza Italia a Reggio Calabria rappresentano un preoccupante..."
 category: cronaca-bianca

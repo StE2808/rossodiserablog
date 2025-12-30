@@ -3,7 +3,7 @@ layout: post
 title: "Il Reddito Universale: una soluzione sconfiggere la disuguaglianza economica"
 date: 2024-05-30 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/05/image.png
+image: /assets/images/2024/05/image.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Il reddito universale, spesso chiamato reddito di base incondizionato (UNI), è un concetto che sta guadagnando sempre più attenzione nel dibattito..."
 tags: ["Ambiente", "Cultura", "Economia", "Etica", "Europa", "giustizia", "Governo", "lavoro", "mercato", "migranti", "politica", "reddito universale", "Salute", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]

@@ -3,7 +3,7 @@ layout: post
 title: "Dietro il Decreto Sicurezza: l'emergenza inesistente che minaccia le libertà fondamentali"
 date: 2025-04-15 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/04/img_6312-1.jpg
+image: /assets/images/2025/04/img_6312-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'intervento dell'ONU contro il recente Decreto Sicurezza del governo Meloni rappresenta solo l'ultimo segnale d'allarme su un provvedimento che bypassa..."
 category: cronaca-bianca

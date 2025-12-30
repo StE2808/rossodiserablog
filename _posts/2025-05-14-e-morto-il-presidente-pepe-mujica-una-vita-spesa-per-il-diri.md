@@ -3,7 +3,7 @@ layout: post
 title: "E’ morto il Presidente Pepe Mujica, una vita spesa per il “diritto ad essere felici”"
 date: 2025-05-14 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/05/img_6433-1.jpg
+image: /assets/images/2025/05/img_6433-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E’ rimbalzata sui social la notizia della scomparsa del Presidente José "Pepe" Mujica, figura straordinaria che ha lasciato un'impronta indelebile nella..."
 category: cronaca-bianca

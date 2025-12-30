@@ -3,7 +3,7 @@ layout: post
 title: "La Guerra dei 12 Giorni (che in realtà erano 14, ma chi conta?)"
 date: 2025-06-25 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/06/img_6531-1.jpg
+image: /assets/images/2025/06/img_6531-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ah, la famosa “guerra dei 12 giorni”. Peccato che di giorni ce ne siano stati 14, ma evidentemente quando si tratta di conflitti internazionali, la..."
 category: cronaca-bianca

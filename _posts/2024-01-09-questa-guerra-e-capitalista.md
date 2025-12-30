@@ -3,7 +3,7 @@ layout: post
 title: "Questa guerra è capitalista"
 date: 2024-01-09 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/01/img_4477-1.jpg
+image: /assets/images/2024/01/img_4477-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La guerra è tornata di moda. Anzi, per dire il vero, non è mai passata la smania di farsi la guerra"
 category: diritti-umani
@@ -12,17 +12,17 @@ tags: ["capitale", "capitalismo", "diritti", "guerra", "Karl. Marx", "libert\u00
 La guerra è tornata di moda. Anzi, per dire il vero, non è mai passata la smania di farsi la guerra. Forse sono cambiati gli equilibri, gli schieramenti, i contesti, i mezzi e, financo, le ragioni di prendersi a cannonate, ergere barriere, spendere fortune per arrecare danni che costano altre fortune riparare. Si potrebbero spendere questi denari per frenare il collasso climatico, finanziare la ricerca, trovare soluzioni per debellare malattie e povertà, invece ci si scervella sul come inventare un ordigno più distruttivo possibile, ma che non ci annienti, ci cancelli definitivamente: questo errore era stato fatto da entrambe gli schieramenti, i blocchi, con la corsa al nucleare, salvo poi capire che non si potrebbe combattere a suon di testate nucleari nessuna guerra, non rimarrebbe vivo alcun contendente .
 
     
-![](images/2024/01/img_4477-1.jpg)
+![](images/2024/01/img_4477-1.webp)
 Ed allora?  Tornano in mente reminiscenze marxiane che soccorrono ed aiutano a comprendere i motivi della necessità di farsi guerra. Tutto ricade sulla tendenza capitalistica di concentrare i capitali. La centralizzazione del capitale è quel fenomeno per cui vi è una ineluttabile tendenza a far convogliare la ricchezza in poche, pochissime mani. E siamo oggi a buon punto, se è vero, come è vero, che l'80% del capitale azionario mondiale è posseduto da menome del 2% della popolazione.
 
     
-![](images/2024/01/img_4475-1.jpg)
+![](images/2024/01/img_4475-1.webp)
 Questo fenomeno, se da un lato porta inevitabili guasti nella distribuzione, non uniforme, della ricchezza, con tutti i problemi sociali connessi, scatena una guerra per l'accaparramento dei beni e della ricchezza come modernamente la conosciamo, ossia sui mercati azionari. Da tempo stiamo assistendo, sulle piazze borsistiche, alla fagocitosi che i grandi investitori fanno di altri, magari di più piccole dimensioni, provocando inevitabilmente la crescita di chi mangia a scapito del mangiato che soccombe. Si ha così una diminuzione graduale degli operatori che si scontrano quotidianamente sui mercati.  Questa lotta, senza esclusione di colpi, non termina con la conflittualità sui mercati disponibili. Visto che i mercati sono malati di crescita, appare sempre più pressante l'apertura a nuovi mercati da conquistare e qui entra in gioco la guerra, quella vera, quella con eserciti ed armi, morti e distruzioni. 
 
     
-![](images/2024/01/img_4479-1.jpg)
+![](images/2024/01/img_4479-1.webp)
 Insomma la guerra moderna si fa, non tanto per conquistare un territorio, bensì per conquistare il mercato di riferimento di quel territorio. Per esempio, per questo motivo, a Putin basta aver conquistato il 20% del territorio ucraino, non è necessario il resto, comunque un ammasso di rottami fumanti, è sufficiente quella porzione strategica per controllare anche il mercato di quell'area e questo a lui interessa. Questa peculiare tipologia di conflitto, dove il capitale è al centro di tutto, è quella che Marx avrebbe definito "guerra imperialista".
 
     
-![](images/2024/01/img_4474-1.jpg)
+![](images/2024/01/img_4474-1.webp)
 Ma in molte aree si è potuto raggiungere lo stesso risultato anche in maniera non apertamente cruenta: comunque sia andata , il passo successivo alla conquista economica di un territorio, è quello della concentrazione politica dei poteri di quella stessa area. Questo per garantire al sistema economico la tanto agognata stabilità che poi non è altro che affidabilità verso certi principi capitalistici di sfruttamento delle masse così da permettere l'arricchimento dei cosiddetti "concentratori". Qui si spiega un'altra tendenza moderna, ossia la de-democratizzazione di molti territori, molti Stati stanno gradualmente perdendo i principi della libertà. E così stiamo assistendo, per esempio in Italia, all'indebolimento delle libertà civili che tutelano la persona nella libertà di agire e delle libertà politiche, del diritto ad una vita dignitosa e all'integrità fisica, alla libertà di pensiero, di religione (le neo-crociate anti islam ne sono un esempio, il finanziamento dei comitati pro-vita, i crocefissi nelle scuole, i presepi), di espressione (non si è liberi di affermare "viva l'Italia libera ed antifascista" senza essere identificati dalla polizia politica), di stampa (assalto alla RAI e leggi bavaglio, siamo al 41° posto nel mondo per libertà ed indipendenza della stampa). Ma la libertà, che diamo per scontata, è in pericolo, qui da noi, come non mai proprio ora grazie all'avvio di riforme istituzionali, come quella in nuce in Italia, che togliendo poteri al parlamento e ai garanti, come il Presidente della Repubblica, accentrandolo su poche figure. Di questo compito sporco si è incaricata la destra identitaria, sia in Italia che in tutti gli altri scenari, da sempre sensibile ai mercati ed alle lobby che lo gestiscono oltre ad essere da sempre più propensa all'interventismo militare, soprattutto per motivi lontani da quelli di restituire libertà agli oppressi, bensì per schiacciare il popolo azzerandone i diritti. Oggi, chi tira le fila di questo progetto,  lo sta facendo molto bene, una bella fetta del popolo, già oppresso, impoverito e spaventato a dovere, presta la manovalanza per scavarci la fossa ed infatti appare felice di essere sfruttato mentre prepara e mette a punto la macchina che a breve lo stritolerà. Auguri a tutti noi.

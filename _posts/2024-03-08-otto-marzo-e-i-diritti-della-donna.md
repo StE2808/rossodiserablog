@@ -3,7 +3,7 @@ layout: post
 title: "Otto marzo e i diritti della donna"
 date: 2024-03-08 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/03/25301279295_58a4cc9960_c.jpg
+image: /assets/images/2024/03/25301279295_58a4cc9960_c.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Quest'anno ci ha pensato la seconda carica istituzionale in Italia, Ignazio Benito Maria La Russa a celebrare "degnamente" La Giornata internazionale..."
 category: opinioni-editoriali

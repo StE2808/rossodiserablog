@@ -3,7 +3,7 @@ layout: post
 title: "1° Maggio: festa del lavoro"
 date: 2025-05-01 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/05/img_6363-1.jpg
+image: /assets/images/2025/05/img_6363-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L’articolo 1 della Carta è chiarissimo, la Repubblica democratica è fondata sul lavoro. È il lavoro, per la Costituzione, il valore di base..."
 tags: ["crisi", "diritti", "Economia", "Europa", "giovent\u00f9", "giustizia", "Governo", "lavoratori", "lavoro", "mercato", "politica", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE"]

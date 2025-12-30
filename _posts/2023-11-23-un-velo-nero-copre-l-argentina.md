@@ -3,7 +3,7 @@ layout: post
 title: "Un velo nero copre l'Argentina"
 date: 2023-11-23 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/img_4312.jpg
+image: /assets/images/2023/11/img_4312.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Il populismo ha vinto. La rabbia popolare guidata contro la "casta" ha scardinato ogni possibile equilibrio ed ha fatto assurgere il guastatore Milei"
 category: cronaca-bianca
@@ -32,4 +32,4 @@ Purtroppo quella situazione sembra essere, oggi, profondamente modificata, Milei
 Ovviamente appare sempre più isolato il presidente brasiliano Lula e le sue recenti decisioni di cambiamenti nella sfera governativa per cercare di ottenere l’appoggio del cosiddetto Centrão alla riforma tributaria. Ma nulla in confronto all'eterno isolamento sempre più marcato ed asfissiante del  governo socialista cubano al quale Biden sta inasprendo sempre di più le sanzioni economiche che stanno sfinendo la già martoriata economia cubana.
 
     
-![](images/2023/11/img_4312.jpg)
+![](images/2023/11/img_4312.webp)

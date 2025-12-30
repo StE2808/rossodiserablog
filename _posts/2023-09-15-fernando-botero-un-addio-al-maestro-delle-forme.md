@@ -3,7 +3,7 @@ layout: post
 title: "Fernando Botero: Un Addio al Maestro delle Forme"
 date: 2023-09-15 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2023/09/botero-la-famigliaebay.jpg
+image: /assets/images/2023/09/botero-la-famigliaebay.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Oggi, 15 settembre 2023, il mondo dell'arte ha perso una delle sue figure più iconiche. Fernando Botero, l'artista colombiano noto per le sue..."
 category: cronaca-bianca

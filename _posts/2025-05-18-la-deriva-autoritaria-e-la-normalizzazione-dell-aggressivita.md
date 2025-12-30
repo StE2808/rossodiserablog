@@ -3,7 +3,7 @@ layout: post
 title: "La deriva autoritaria e la normalizzazione dell'aggressività"
 date: 2025-05-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/05/img_6443-1.jpg
+image: /assets/images/2025/05/img_6443-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Nel panorama politico mondiale attuale assistiamo a un fenomeno preoccupante: l'ascesa di movimenti di destra che hanno progressivamente normalizzato..."
 tags: ["Cultura", "diritti", "Etica", "Europa", "giustizia", "Governo", "Meloni", "odio", "Pace", "politica", "Russia", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]

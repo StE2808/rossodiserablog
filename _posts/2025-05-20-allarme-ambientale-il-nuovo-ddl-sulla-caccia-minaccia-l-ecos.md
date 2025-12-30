@@ -3,7 +3,7 @@ layout: post
 title: "Allarme ambientale: il nuovo DDL sulla caccia minaccia l'ecosistema italiano"
 date: 2025-05-20 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/05/img_6452-1.jpg
+image: /assets/images/2025/05/img_6452-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Un controverso disegno di legge proposto dal Ministro dell'Agricoltura Francesco Lollobrigida, e fortemente sostenuto dalla Lega, rischia di cancellare..."
 category: cronaca-bianca

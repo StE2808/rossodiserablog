@@ -3,7 +3,7 @@ layout: post
 title: "25 aprile 1945-2025: 80 anni dalla Liberazione dell'Italia"
 date: 2025-04-09 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/04/img_6273-1.jpg
+image: /assets/images/2025/04/img_6273-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La Resistenza partigiana: cuore della lotta di Liberazione Il prossimo 25 aprile segnerà un importante anniversario per l'Italia: gli 80 anni dalla..."
 category: cultura-spettacolo

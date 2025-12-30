@@ -3,7 +3,7 @@ layout: post
 title: "L'ombra del ricatto digitale: Elon Musk e la sicurezza nazionale in ostaggio"
 date: 2025-03-10 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/03/img_6184-1.jpg
+image: /assets/images/2025/03/img_6184-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Stiamo per affidare la sicurezza nazionale ad un pazzo criminale. Potrebbe succedere domani a noi, oggi lo sta provando l’Ucraina, nazione sotto ricatto"
 category: opinioni-editoriali

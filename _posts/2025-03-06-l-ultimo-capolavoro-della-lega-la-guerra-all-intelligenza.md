@@ -3,7 +3,7 @@ layout: post
 title: "L'ULTIMO CAPOLAVORO DELLA LEGA: LA GUERRA ALL'INTELLIGENZA!"
 date: 2025-03-06 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/03/img_6174-1.jpg
+image: /assets/images/2025/03/img_6174-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Oh, ma che splendida notizia ci giunge dal Piemonte. Parliamo di intelligenza, no, non quella artificiale"
 category: politica-interna

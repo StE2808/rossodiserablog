@@ -3,7 +3,7 @@ layout: post
 title: "La Provocazione Oltre i Limiti: Quando il Potere Diventa Sacrilegio"
 date: 2025-05-03 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/05/img_6380-1.jpg
+image: /assets/images/2025/05/img_6380-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'immagine è apparsa all'improvviso, scioccante nella sua arroganza: Donald Trump vestito da Pontefice. Non un meme anonimo circolato nei meandri dei..."
 category: cultura-spettacolo

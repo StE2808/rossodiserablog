@@ -3,7 +3,7 @@ layout: post
 title: "Ops, il sogno americano è svanito"
 date: 2023-11-28 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/11/2017.03.04_pro-trump_rallies_washington_dc_usa_00417_33211325466.jpg
+image: /assets/images/2023/11/2017.03.04_pro-trump_rallies_washington_dc_usa_00417_33211325466.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Lo si nota oramai in ogni angolo del pianeta ma soprattutto ci si fa caso quando accade negli USA: il capitalismo è in profonda crisi. Ovviamente siamo..."
 category: cultura-spettacolo

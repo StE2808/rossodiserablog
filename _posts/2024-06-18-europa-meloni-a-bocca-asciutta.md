@@ -3,7 +3,7 @@ layout: post
 title: "Europa: Meloni a bocca asciutta"
 date: 2024-06-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/06/img_5072-1.jpg
+image: /assets/images/2024/06/img_5072-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Era partita con la lancia in resta, era tutta galvanizzata ed era sicura di fare “un figurone”. Aveva fatto i conti dell’oste ma non quelli della politica"
 category: politica-estera

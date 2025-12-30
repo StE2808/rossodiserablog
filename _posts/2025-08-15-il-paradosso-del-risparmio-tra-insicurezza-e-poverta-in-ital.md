@@ -3,7 +3,7 @@ layout: post
 title: "Il Paradosso del Risparmio tra Insicurezza e Povertà in Italia"
 date: 2025-08-15 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/08/img_6701.jpg
+image: /assets/images/2025/08/img_6701.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La relazione inversa tra sicurezza sociale e propensione al risparmio rappresenta uno dei paradossi più significativi dell’economia comportamentale..."
 category: cronaca-bianca

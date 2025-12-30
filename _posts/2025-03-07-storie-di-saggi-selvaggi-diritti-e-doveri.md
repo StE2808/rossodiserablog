@@ -3,7 +3,7 @@ layout: post
 title: "Storie di saggi, selvaggi, diritti e doveri"
 date: 2025-03-07 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/03/img_6180-1.jpg
+image: /assets/images/2025/03/img_6180-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "C'era una volta, in un regno chiamato Europa, un grande consiglio di saggi che si riuniva per decidere come proteggere tutti i villaggi. Un giorno, mentre..."
 category: cultura-spettacolo

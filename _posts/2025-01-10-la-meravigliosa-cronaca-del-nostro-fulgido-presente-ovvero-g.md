@@ -3,7 +3,7 @@ layout: post
 title: "La meravigliosa cronaca del nostro fulgido presente! Ovvero Giorgia Meloni che si concede ai giornalisti."
 date: 2025-01-10 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/01/img_5982-1.jpg
+image: /assets/images/2025/01/img_5982-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ah, la nostra adorata Giorgia. Che spettacolo teatrale ci regala ad ogni conferenza stampa"
 category: politica-interna
@@ -28,8 +28,8 @@ Ma hey, solo il 72% degli italiani pensa che stiamo andando nella direzione sbag
     
 # #GovernoMeloni #parlamentoitaliano #GiorgiaMeloni #melonidimettiti
     
-![](images/2025/01/img_5982-1.jpg)
+![](images/2025/01/img_5982-1.webp)
     
-![](images/2025/01/img_5979-1.jpg)
+![](images/2025/01/img_5979-1.webp)
     
-![](images/2025/01/img_5981-1.jpg)
+![](images/2025/01/img_5981-1.webp)

@@ -3,7 +3,7 @@ layout: post
 title: "Ucraina, l'inizio della fine: la Polonia si sfila"
 date: 2023-09-22 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/finta_infografica.png
+image: /assets/images/2023/09/finta_infografica.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E noi continuiamo ad armarli e a illuderli. Intanto, la controffensiva militare ucraina è al palo e l'esercito russo devasta a distanza, senza perdite, ma..."
 category: politica-estera

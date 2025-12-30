@@ -3,7 +3,7 @@ layout: post
 title: "Il Grande Scacchiere Globale: Big Tech, Geopolitica e la Necessaria Rinascita Europea"
 date: 2025-03-10 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2025/03/scacchiera.png
+image: /assets/images/2025/03/scacchiera.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Stiamo assistendo a una riconfigurazione globale del potere senza precedenti nella storia moderna. Le grandi aziende tecnologiche – Apple, Google, Meta..."
 category: opinioni-editoriali
@@ -20,7 +20,7 @@ Il caso delle ultime elezioni americane è emblematico: l'alleanza tra Trump ed 
 Questa capacità di influenza diretta rappresenta un cambiamento epocale: le Big Tech non sono più supplicanti che chiedono favori ai politici, ma kingmaker che possono determinare chi siederà nelle stanze del potere.
 
     
-![](images/2025/03/scacchiera.png)
+![](images/2025/03/scacchiera.webp)
     
 ## L'Efficienza del Modello Autoritario
 La strategia che sembra emergere da parte delle Big Tech è puramente utilitaristica. Un sistema globale con pochi, potenti interlocutori risulta estremamente più "efficiente" dal punto di vista negoziale rispetto a un mondo frammentato in decine di democrazie con processi decisionali complessi.

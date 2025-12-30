@@ -3,7 +3,7 @@ layout: post
 title: "Immigrazione: paura e nemici"
 date: 2024-03-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/03/download-1.jpg
+image: /assets/images/2024/03/download-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Che questo Governo abbia sempre bisogno di stimolare nuove e vecchie paure e di trovare vecchi e nuovi nemici è oramai assodato. Ora tocca all'immigrazione"
 category: politica-interna
@@ -18,7 +18,7 @@ Ed allora perché dovremmo stupirci se Giorgia Meloni vola in Egitto e stringe p
 Intanto,  il terrore collettivo, pompato da chi ci governa, sul fenomeno migratorio,  ha portato ad una inesorabile riduzione dei canali e dei numeri degli ingressi regolari, senza riuscire a ridurre, però, l'effettiva presenza di quelli che così sono costretti nella clandestinità. Lo mette nero su bianco l'indice DEMIG, l’International Migration Institute di Amsterdam, che fa presente che dal 2008, dei 36 paesi appartenenti all’Ocse ben 32 hanno irrigidito le procedure di immigrazione legale: tra questi c’è l’Italia, seguita da Francia, Germania, Regno Unito, Stati Uniti.
 
     
-![](images/2024/03/download-1.jpg)
+![](images/2024/03/download-1.webp)
 Ed a forza di insistere con proclami, strillare all'invasione, alla perdita di una identità culturale, tra l'altro oramai indefinita e quindi inesistente, anche le classi sociali solitamente più solidali hanno ceduto alla lusinga dell'individuazione del nemico ed anche loro lo hanno trovato nell'immigrato. I lavoratori nativi ora diffidano dei colleghi immigrati e li guardano con sospetto individuando in loro la responsabilità dei loro problemi. Infatti quando la paga è bassa, quando le tutele scompaiono, invece di lottare per i propri diritti magari tutti assieme, si preferisce ascoltare le sirene governative di questa destra populista e scagliarsi non contro il carnefice, l’affamatore o il suo protettore governante ma bensì verso l'anello più debole della catena, i colleghi arrivati da poco, gli immigrati.
 
 La responsabilità di questo gran successo delle destre è però, almeno in parte imputabile, non alla loro “bravura” nel manipolare la realtà, almeno non del tutto: diamo a Cesare quel che è di Cesare. La responsabilità è da individuare,  bensì, nel vuoto spinto della sinistra, nella cialtroneria, nel nullismo prodotto da questa sinistra litigiosa quanto inconcludente ed incapace fino ad oggi di tornare a parlare alle masse. 

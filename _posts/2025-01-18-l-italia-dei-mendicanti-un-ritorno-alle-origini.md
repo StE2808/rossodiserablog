@@ -3,7 +3,7 @@ layout: post
 title: "L'Italia dei Mendicanti: Un Ritorno alle Origini"
 date: 2025-01-18 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/01/img_6006-1.jpg
+image: /assets/images/2025/01/img_6006-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "C'era una volta l'Italia del miracolo economico, della dignità ritrovata, dell'orgoglio di una nazione che si era rialzata dalle macerie della guerra..."
 category: cultura-spettacolo

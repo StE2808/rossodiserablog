@@ -3,7 +3,7 @@ layout: post
 title: "Il Movimento per le Città-Stato Aziendali e il Fascismo da Fine dei Tempi"
 date: 2025-04-27 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/04/img_6354-1.jpg
+image: /assets/images/2025/04/img_6354-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "C’è una novita’ preoccupante all’orizzonte. Una nuova forma amministrativa mai sperimentata prima: le città-stato aziendali"
 category: cultura-spettacolo

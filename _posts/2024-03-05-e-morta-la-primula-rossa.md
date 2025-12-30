@@ -20,7 +20,7 @@ Successivamente all'arresto  si era dedicata alla scrittura. Aveva composto sett
 Barbara Balzerani ha sempre parlato mal volentieri della sua esperienza lunga 13 anni nelle Brigate Rosse. Si arruolò nel 1975 e concluse la sua parabola con l’arresto nel 1985 ma solo nel 1988, assieme a **Renato Curcio e Mario Moretti **rese una dichiarazione pubblica in cui dichiarava   conclusa l’esperienza della lotta armata in Italia avviando, di fatto, una "soluzione politica" ai problemi sociali.
 
     
-![](images/2024/03/barbara_balzerani_sara_brigate_rosse-1.jpg)
+![](images/2024/03/barbara_balzerani_sara_brigate_rosse-1.webp)
 Ma la compagna Sara, morta il 4 marzo, all'età di 75 anni per un tumore, non rinnegò mai il suo passato e le sue lotte, alle quali tenne e che protesse non raccontandone i particolari. Rimase latitante per ben 4 anni dopo l'arresto del compagno, anche di vita, Mario Moretti non con poche difficoltà ma senza compromessi.
 
 Sara rifiutava l'appellativo di terrorista ed invece amava quello di rivoluzionaria comunista. Barbara aveva, dalla fine degli anni 80, dopo l'arresto, ripreso il sopravvento su Sara. Infatti in questo dualismo Barbara aveva lasciato, prima, a Sara la conduzione della quotidianità, una quotidianità straordinaria, durata 13 anni. Poi Barbara aveva ripreso il timone. Barbara era pienamente in accordo con Sara e per questo, per rispettare Sara, Barbara non ha, poi, mai raccontato il quotidiano straordinario, anche per non essere fraintesa, strumentalizzata, usata.
@@ -34,7 +34,7 @@ Barbara si iscrisse alla facoltà di Filosofia e si laureò nel 1974. Per manten
 Rimase coinvolta in diverse vicende di sangue, le vennero imputati diversi omicidi attribuiti alle Br, tra cui quello di **Girolamo Minervini **e la partecipazione al **sequestro Moro**,  partecipò anche al sequestro del generale della NATO** James Lee Dozier**. 
 
     
-![](images/2024/03/morucci_fiore_gallinari_bonisoli_brigate_rosse.jpg)
+![](images/2024/03/morucci_fiore_gallinari_bonisoli_brigate_rosse.webp)
 Fu arrestata nel 1985, tre anni dopo l'arresto del suo compagno di vita e di battaglie Mario Moretti. Da latitante passò quattro anni a capo delle Brigate Rosse – Partito Comunista Combattente ed aveva tentato inutilmente di mantenere la linea politica storica, le disparità di vedute, di politica, di tattica portarono l'organizzazione però alla scissione. 
 
 In aula, durante un processo, da dietro alle sbarre, rivendicò l’omicidio dell’ex sindaco di Firenze Lando Conti, perpetrato dalle Br, venne poi condannata all’ergastolo. Non si dissociò mai anche se espresse rimorso per le conseguenze causate dall'attività delle Br. Nel 2003 criticò apertamente l’attività delle Nuove Br. Nel 2006 le fu concessa la libertà condizionale e venne scarcerata, estinse la pena nel  2011.

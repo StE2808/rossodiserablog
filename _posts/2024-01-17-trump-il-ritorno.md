@@ -3,7 +3,7 @@ layout: post
 title: "Trump: il ritorno"
 date: 2024-01-17 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/01/img_4496-1.jpg
+image: /assets/images/2024/01/img_4496-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Un fantasma si aggira per gli Stati Uniti: ha l'acconciatura più improbabile della storia, lo sguardo da ebete arrabbiato, sputa veleno ad ogni piè..."
 category: politica-estera

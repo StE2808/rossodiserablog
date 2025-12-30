@@ -3,7 +3,7 @@ layout: post
 title: "Populisti, popolani, popolari: parola d’ordine, dichiarare guerra a tutto e tutti"
 date: 2023-09-07 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2023/09/img_3995.jpg
+image: /assets/images/2023/09/img_3995.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "È certo più facile governare per slogan: salvo poi scontrarsi con la realtà. Dichiarare guerra ai migranti, pretendere il “blocco navale” e poi scoprire..."
 category: politica-interna
@@ -28,4 +28,4 @@ Hanno demolito la radio-televisione di Stato, la RAI che hanno occupato in toto,
 C’è un tizio, qualche anno fa che aveva fatto una affermazione che ancora oggi è più che mai attuale: “Per abbattere i padroni, prima bisogna eliminare i loro servi, cioè quella massa di gente senza idee e senza principi”. Ecco, per poter mettere in pratica questo principio basterebbe dichiarare guerra all’ignoranza, voler elevare la media della consapevolezza tra la gente, rendere la fruizione della cultura popolare (da non confondere con la popolarizzazione, lo svilimento della cultura che è l’opposto ed è proprio quello che è accaduto). Solo così si potrà riuscire a ritrovare una coesione sociale che porti frutti per tutti.
 
     
-![](images/2023/09/img_3995.jpg)
+![](images/2023/09/img_3995.webp)

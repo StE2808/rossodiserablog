@@ -3,7 +3,7 @@ layout: post
 title: "Per fortuna che abbiamo Mattarella: l’ultimo baluardo della Costituzione"
 date: 2025-04-01 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2025/04/img_6248-1.jpg
+image: /assets/images/2025/04/img_6248-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Per fortuna che abbiamo Mattarella. Sì, sembra quasi un ritornello ormai, ma mai come in questi giorni appare evidente quanto sia fondamentale la presenza..."
 category: politica-interna

@@ -3,7 +3,7 @@ layout: post
 title: "Trattori e proteste"
 date: 2024-02-01 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/02/img_4545-1.jpg
+image: /assets/images/2024/02/img_4545-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E se i trattoristi in rivolta fossero strumentalizzati. Sembra molto verosimile"
 category: ambiente
@@ -18,4 +18,4 @@ I nostri cosa chiedono? Vorrebbero poter concimare chimicamente senza restrizion
 Non sembra abbiano chiaro che continuando così fanno il gioco delle multinazionali che dicono di voler contrastare. Dovrebbero invece puntare sulla qualità, sui prodotti di nicchia, sul bio. Tutte cose che non temono rivalità, invece…
 
     
-![](images/2024/02/img_4545-1.jpg)
+![](images/2024/02/img_4545-1.webp)

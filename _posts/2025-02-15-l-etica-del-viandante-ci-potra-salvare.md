@@ -3,7 +3,7 @@ layout: post
 title: "L’etica del viandante: ci potrà salvare?"
 date: 2025-02-15 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2025/02/viandante2.png
+image: /assets/images/2025/02/viandante2.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "C’è un’antica figura che attraversa il tempo con passo leggero e sguardo attento: il viandante. Non è un turista, non è un pellegrino, non è un semplice..."
 category: ambiente

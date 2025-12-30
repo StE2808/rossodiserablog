@@ -3,7 +3,7 @@ layout: post
 title: "Buongiorno Trump-landia"
 date: 2024-11-10 00:00:00 +0100
 author: lino-rialti
-image: /assets/images/2024/11/img_5655-1.jpg
+image: /assets/images/2024/11/img_5655-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: ""Buongiorno America. O dovrei dire, buongiorno Trump-landia"
 category: politica-estera
