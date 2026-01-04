@@ -20,7 +20,7 @@ focus_keyword: ''
 ---
 Alle due di notte del 3 gennaio, mentre qui in Italia sognavamo qualcosa che non ricorderemo, dall'altra parte dell'oceano succedeva una cosa che invece ricorderemo a lungo. Il cielo di Caracas si illuminava di esplosioni, elicotteri della Delta Force atterravano nel buio, e il presidente del Venezuela veniva prelevato dal suo letto come un pacco da spedire oltreoceano.
 
-Nicolás Maduro ora è in una cella di Brooklyn. Nello stesso carcere di El Chapo, per intenderci.
+**Nicolás Maduro** ora è in una cella di Brooklyn. Nello stesso carcere di El Chapo, per intenderci.
 
 La notizia l'ho letta al mattino, con il caffè in mano, e ho dovuto rileggerla due volte. Non perché fosse incredibile — di questi tempi nulla lo è più — ma perché mi sembrava di aver saltato un passaggio. Tipo quando arrivi a metà di un film e non capisci perché il protagonista sta scappando.
 
