@@ -64,15 +64,15 @@ L'Europa ha fatto quello che sa fare meglio: ha espresso preoccupazione. Ha chie
 
 Solo il **premier spagnolo Sánchez** ha avuto il coraggio di chiamare le cose con il loro nome, dicendo che la Spagna non riconoscerà la legittimità di "un intervento che vìola la legge internazionale".
 
-** L'Italia,** invece, ha dichiarato che "l'azione militare esterna non è la strada da percorrere" — formulazione che non offende nessuno e non significa nulla.
+** L'Italia**, invece, ha dichiarato che "l'azione militare esterna non è la strada da percorrere" — formulazione che non offende nessuno e non significa nulla.
 
 **C'è un termine tecnico per questo atteggiamento**: vassallaggio. Quando dipendi da qualcuno al punto da non poter dire che sta sbagliando, anche quando sta sbagliando in modo clamoroso.
 
 ---
 
-La cosa che mi inquieta di più, però, non sono le bombe su Caracas.** È quello che viene dopo.**
+La cosa che mi inquieta di più, però, non sono le bombe su Caracas. **È quello che viene dopo.**
 
-Se gli Stati Uniti possono fare questo al Venezuela, cosa impedisce alla Russia di fare lo stesso con un vicino scomodo? Cosa impedisce alla Cina? Cosa impedisce a chiunque abbia abbastanza missili e abbastanza faccia tosta?
+Se gli Stati Uniti possono fare questo al Venezuela, cosa impedisce alla Russia di fare lo stesso con un altro  vicino scomodo? Cosa impedisce alla Cina? Cosa impedisce ad Israele? Cosa impedisce a chiunque abbia abbastanza missili e abbastanza faccia tosta?
 
 **Viviamo ancora in un mondo pieno di testate nucleari**. L'equilibrio del terrore, quella cosa che ci ha tenuto vivi durante la Guerra Fredda, si basava su un presupposto: che tutti rispettassero almeno alcune regole fondamentali. Quando quelle regole vengono stracciate pubblicamente, con video dell'attacco postati su Truth Social con la musica dei Creedence Clearwater Revival in sottofondo, il messaggio è chiaro. Le regole non valgono più. Vale solo chi è più forte.
 
@@ -88,6 +88,6 @@ Forse era un'illusione anche prima. Forse le regole sono sempre state solo per i
 
 Adesso non c'è più neanche quella.
 
-Spoiler:  Trump annetterà l'Islanda. 
+Spoiler:  Trump annetterà l'Islanda.
 
 La nostra premier sosterrà che si difendeva solo da un attacco ibrido a base di aria fredda?
