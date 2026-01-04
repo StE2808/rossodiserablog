@@ -64,7 +64,7 @@ L'Europa ha fatto quello che sa fare meglio: ha espresso preoccupazione. Ha chie
 
 Solo il **premier spagnolo Sánchez** ha avuto il coraggio di chiamare le cose con il loro nome, dicendo che la Spagna non riconoscerà la legittimità di "un intervento che vìola la legge internazionale".
 
-** L'Italia**, invece, ha dichiarato che "l'azione militare esterna non è la strada da percorrere" — formulazione che non offende nessuno e non significa nulla.
+**L'Italia**, invece, ha dichiarato che "l'azione militare esterna non è la strada da percorrere" — formulazione che non offende nessuno e non significa nulla.
 
 **C'è un termine tecnico per questo atteggiamento**: vassallaggio. Quando dipendi da qualcuno al punto da non poter dire che sta sbagliando, anche quando sta sbagliando in modo clamoroso.
 
