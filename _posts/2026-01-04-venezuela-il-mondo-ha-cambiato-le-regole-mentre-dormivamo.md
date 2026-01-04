@@ -88,6 +88,6 @@ Forse era un'illusione anche prima. Forse le regole sono sempre state solo per i
 
 Adesso non c'è più neanche quella.
 
-Spoiler:  Trump annetterà l'Islanda.
+Spoiler:  Trump annetterà la Groenlandia.
 
 La nostra premier sosterrà che si difendeva solo da un attacco ibrido a base di aria fredda?
