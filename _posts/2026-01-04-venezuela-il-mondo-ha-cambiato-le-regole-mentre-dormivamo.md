@@ -3,7 +3,7 @@ layout: post
 title: 'Venezuela: il mondo ha cambiato le regole mentre dormivamo'
 seo_title: 'Venezuela: il mondo ha cambiato le regole mentre dormivamo'
 description: Mentre dormivamo, gli USA hanno bombardato Caracas e rapito Maduro. Cosa significa per il diritto internazionale? E per tutti noi?
-date: 2026-01-04 22:19:00 +0100
+date: 2026-01-04 23:02:00 +0100
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:
