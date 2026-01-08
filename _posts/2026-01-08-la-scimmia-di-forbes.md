@@ -7,7 +7,12 @@ date: 2026-01-08 20:25:00 +0100
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:
-  - disuguaglianza, economia, natura umana, riflessioni, società, entropia
+  - disuguaglianza
+  - economia
+  - natura umana
+  - riflessioni
+  - società
+  - entropia
 image: /assets/images/uploads/scimmia-forbes-accumulo.png
 image_alt: Illustrazione di scimmia in abito elegante circondata da banane, metafora dell'accumulo patologico
 excerpt: Se una scimmia accumulasse tutte le banane impedendo alle altre di mangiarle, i biologi la studierebbero come anomalia. Se lo fa un uomo, finisce sulla copertina di Forbes. Una riflessione su accumulo, entropia e sul perché la redistribuzione non è ideologia, ma fisica.
