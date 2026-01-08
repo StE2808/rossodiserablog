@@ -19,7 +19,7 @@ Un famoso sociologo brasiliano — forse Eduardo Galeano, forse Darcy Ribeiro, p
 
 Ecco. Fine. Potrei chiudere qui l'articolo e avrei già detto tutto.
 
-Ma siccome sono fatto così — e voi che leggete lo sapete — non resisto alla tentazione di scavare un po' più a fondo.
+Ma siccome sono fatto così, non resisto alla tentazione di scavare un po' più a fondo.
 
 **Il ribaltamento**
 
