@@ -135,4 +135,29 @@ layout: default
         </a>
         {% endif %}
     </nav>
+
+    <!-- Sezione Leggi anche -->
+    {% assign related_posts = site.posts | where: "category", page.category | where_exp: "post", "post.url != page.url" | sort: "date" | reverse | limit: 3 %}
+    {% if related_posts.size > 0 %}
+    <section class="related-posts">
+        <h3 class="related-title">Leggi anche</h3>
+        <div class="related-grid">
+            {% for post in related_posts %}
+            <article class="related-card">
+                {% if post.image %}
+                <a href="{{ post.url | relative_url }}" class="related-image-link">
+                    <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">
+                </a>
+                {% endif %}
+                <div class="related-content">
+                    <h4 class="related-card-title">
+                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    </h4>
+                    <span class="related-date">{{ post.date | date: "%d %B %Y" }}</span>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
 </article>
