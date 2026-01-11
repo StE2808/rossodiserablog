@@ -137,12 +137,12 @@ layout: default
     </nav>
 
     <!-- Sezione Leggi anche -->
-    {% assign related_posts = site.posts | where: "category", page.category | where_exp: "post", "post.url != page.url" | sort: "date" | reverse | limit: 3 %}
+    {% assign related_posts = site.posts | where: "category", page.category | where_exp: "post", "post.url != page.url" | sort: "date" | reverse %}
     {% if related_posts.size > 0 %}
     <section class="related-posts">
         <h3 class="related-title">Leggi anche</h3>
         <div class="related-grid">
-            {% for post in related_posts %}
+            {% for post in related_posts limit:3 %}
             <article class="related-card">
                 {% if post.image %}
                 <a href="{{ post.url | relative_url }}" class="related-image-link">
