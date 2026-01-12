@@ -80,9 +80,12 @@ layout: default
     </header>
 
     {% if page.image %}
-    <div class="post-featured-image">
+    <figure class="post-featured-image">
         <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}" loading="lazy">
-    </div>
+        {% if page.image_caption %}
+        <figcaption>{{ page.image_caption }}</figcaption>
+        {% endif %}
+    </figure>
     {% endif %}
 
     <div class="post-content">

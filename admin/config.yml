@@ -83,6 +83,11 @@ collections:
         widget: "image"
         required: false
         hint: "Immagine principale. Dimensioni ideali: 1200x630px per social sharing."
+      - label: "Didascalia immagine"
+        name: "image_caption"
+        widget: "string"
+        required: false
+        hint: "Testo che appare sotto l'immagine (opzionale)"
       - label: "Alt Text Immagine"
         name: "image_alt"
         widget: "string"

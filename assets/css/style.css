@@ -859,6 +859,14 @@ body.menu-open {
     height: auto;
 }
 
+.post-featured-image figcaption {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--testo-chiaro);
+    font-style: italic;
+    margin-top: 0.8rem;
+}
+
 .post-content {
     font-size: 1.1rem;
     line-height: 1.9;
