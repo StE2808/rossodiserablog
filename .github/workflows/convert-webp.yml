@@ -8,36 +8,35 @@ on:
 jobs:
   convert:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Install WebP tools
         run: sudo apt-get install -y webp
-      
+
       - name: Convert new images to WebP
         run: |
-          for img in assets/images/uploads/*.{jpg,jpeg,png,JPG,JPEG,PNG}; do
-            if [ -f "$img" ]; then
-              webp_file="${img%.*}.webp"
-              if [ ! -f "$webp_file" ]; then
-                cwebp -q 80 "$img" -o "$webp_file"
-                echo "Converted: $img → $webp_file"
-              fi
+          find assets/images/uploads -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) | while read img; do
+            webp_file="${img%.*}.webp"
+            if [ ! -f "$webp_file" ]; then
+              cwebp -q 80 "$img" -o "$webp_file"
+              echo "Converted: $img → $webp_file"
             fi
-          done
-      
+          done || true
+
       - name: Remove original images
         run: |
-          for img in assets/images/uploads/*.{jpg,jpeg,png,JPG,JPEG,PNG}; do
-            if [ -f "$img" ]; then
-              webp_file="${img%.*}.webp"
-              if [ -f "$webp_file" ]; then
-                rm "$img"
-                echo "Removed: $img"
-              fi
+          find assets/images/uploads -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) | while read img; do
+            webp_file="${img%.*}.webp"
+            if [ -f "$webp_file" ]; then
+              rm "$img"
+              echo "Removed: $img"
             fi
-          done
-      
+          done || true
+
       - name: Commit WebP images
         run: |
           git config user.name "github-actions[bot]"
