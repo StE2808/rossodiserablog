@@ -37,7 +37,7 @@ tags:
   - ∙	Finanziamenti USA estremismo destra
   - ∙	Documenti declassificati Gladio
   - ∙	Verità anni di piombo
-image: /assets/images/uploads/IMG_7036.jpeg
+image: /assets/images/uploads/IMG_7036.webp
 image_caption: Manifesto di propaganda anticomunista
 image_alt: Rappresentato un manifesto di propaganda anticomunista
 excerpt: |-
