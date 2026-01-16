@@ -43,15 +43,15 @@ E Trump? Nell'ottobre 2024 ha chiamato i democratici "enemy from within" — pi�
 
 Se mettiamo in fila questi pezzi, emerge una grammatica comune. Un vocabolario condiviso che attraversa oceani e parlamenti.
 
-Prima viene la \*\*ridefinizione linguistica\*\*: la protesta diventa disordine, il disordine diventa terrorismo. Gli ambientalisti sono "eco-terroristi", i giudici che applicano il diritto europeo sono "toghe rosse", chi dissente è un "professionista del dissenso" — come se manifestare fosse una carriera, e pure ben pagata.
+Prima viene la **ridefinizione linguistica**: la protesta diventa disordine, il disordine diventa terrorismo. Gli ambientalisti sono "eco-terroristi", i giudici che applicano il diritto europeo sono "toghe rosse", chi dissente è un "professionista del dissenso" — come se manifestare fosse una carriera, e pure ben pagata.
 
-Poi arriva la \*\*criminalizzazione preventiva\*\*: non ti punisco per quello che hai fatto, ti fermo prima che tu possa farlo. Fogli di via, ordini restrittivi, divieti di avvicinamento. La democrazia che si difende dalla democrazia.
+Poi arriva la **criminalizzazione preventiva**: non ti punisco per quello che hai fatto, ti fermo prima che tu possa farlo. Fogli di via, ordini restrittivi, divieti di avvicinamento. La democrazia che si difende dalla democrazia.
 
-Quindi la \*\*delegittimazione\*\*: non sei un cittadino che protesta, sei un infiltrato, un estremista, un elemento estraneo al corpo sociale. Non meriti ascolto, meriti contenimento.
+Quindi la **delegittimazione**: non sei un cittadino che protesta, sei un infiltrato, un estremista, un elemento estraneo al corpo sociale. Non meriti ascolto, meriti contenimento.
 
-Infine, la \*\*sproporzione punitiva\*\*: sei anni per un rave, cinque per una Zoom call, il carcere per esserti seduto in strada. Pene così alte che il messaggio non è "ti punisco", è "ti avverto".
+Infine, la **sproporzione punitiva**: sei anni per un rave, cinque per una Zoom call, il carcere per esserti seduto in strada. Pene così alte che il messaggio non è "ti punisco", è "ti avverto".
 
-E sotto tutto questo, sempre, il \*\*nemico interno\*\*. Perché ogni sistema ha bisogno di un "loro" per definire il "noi". Solo che quando il "loro" diventa il ragazzo seduto in strada, la giudice che applica una sentenza europea, lo studente con la kefiah — beh, il "noi" si restringe parecchio.
+E sotto tutto questo, sempre, il **nemico interno**. Perché ogni sistema ha bisogno di un "loro" per definire il "noi". Solo che quando il "loro" diventa il ragazzo seduto in strada, la giudice che applica una sentenza europea, lo studente con la kefiah — beh, il "noi" si restringe parecchio.
 
 ---
 
