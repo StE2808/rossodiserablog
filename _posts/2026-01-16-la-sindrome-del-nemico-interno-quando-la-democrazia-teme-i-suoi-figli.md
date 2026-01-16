@@ -13,7 +13,7 @@ tags:
   - diritti civili
   - Europa
   - Trump
-image: /assets/images/uploads/sindrome-nemico-interno-democrazia.png
+image: /assets/images/uploads/sindrome-nemico-interno-democrazia.webp
 image_caption: ''
 image_alt: Figura solitaria di fronte a uno specchio incrinato che riflette una folla, metafora della democrazia che teme i propri cittadini
 excerpt: 'Da Pisa a Washington, le democrazie occidentali hanno sviluppato una strana sindrome: vedere nemici nei propri cittadini. Studenti manganellati, attivisti incriminati, giudici delegittimati. La chiamiamo sindrome del nemico interno: quando chi protesta diventa il pericolo, e il dissenso una malattia da curare.'
