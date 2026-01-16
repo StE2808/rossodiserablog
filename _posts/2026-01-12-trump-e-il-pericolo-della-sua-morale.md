@@ -24,7 +24,8 @@ tags:
   - ∙	Regole Condivise
   - ∙	Etica e Politica
   - ∙	Società Pluralista
-image: /assets/images/uploads/IMG_7028.jpeg
+image: /assets/images/uploads/IMG_7028.webp
+image_caption: ''
 image_alt: Donald Trump, 45esimo e 47esimo presidente degli USA
 excerpt: |-
   Governare secondo la propria morale significa dividere la società in vincitori e vinti, creando le premesse della guerra civile. La morale è personale e assoluta: ciò che è giusto per me può essere inaccettabile per te.
