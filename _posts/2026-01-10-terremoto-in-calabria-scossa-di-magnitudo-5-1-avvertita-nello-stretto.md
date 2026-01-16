@@ -13,7 +13,8 @@ tags:
   - Protezione Civile
   - INGV
   - Cronaca
-image: /assets/images/uploads/Mappa dell'epicentro del terremoto sulla costa calabra sud-orientale - 10 gennaio 2026.png
+image: /assets/images/uploads/Mappa dell'epicentro del terremoto sulla costa calabra sud-orientale - 10 gennaio 2026.webp
+image_caption: ''
 image_alt: Mappa epicentro terremoto costa calabra sud-orientale 10 gennaio 2026.
 excerpt: Un sisma di magnitudo 5.1 ha colpito la costa calabra alle 05:53. L'epicentro a 65 km di profondità ha evitato danni, ma la scossa è stata distintamente avvertita tra Reggio, Messina e Catania. La Protezione Civile conferma l'assenza di criticità. Rapido il tam-tam sui social.
 focus_keyword: terremoto Calabria oggi, scossa Reggio Calabria, terremoto Messina oggi, INGV magnitudo 5.1.
