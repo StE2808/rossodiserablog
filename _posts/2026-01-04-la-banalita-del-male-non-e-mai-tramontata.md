@@ -40,7 +40,8 @@ tags:
   - '#CoscienzaCritica'
   - 'Hashtag per social media (formato breve):'
   - '#Arendt #Gaza #Venezuela #filosofia #etica #dirittiumani #pensierocritico #giustizia #pace #politica​​​​​​​​​​​​​​​​'
-image: /assets/images/uploads/IMG_7010.jpeg
+image: /assets/images/uploads/IMG_7036.webp
+image_caption: ''
 image_alt: Attacco americano in varie città venezuelane. Bombardati obiettivi militari ma non solo.
 excerpt: 'Hannah Arendt coniò “banalità del male” osservando Eichmann: il male non necessita mostri, ma burocrati obbedienti. Oggi questo meccanismo persiste nelle sanzioni USA al Venezuela e nei bombardamenti israeliani su Gaza. Funzionari ordinari, nascosti dietro procedure e linguaggio tecnico, partecipano a violenze di massa presentate come “operazioni necessarie”. Le vittime diventano statistiche, la responsabilità si frantuma. La lezione di Arendt rimane cruciale: il male più pericoloso nasce quando smettiamo di pensare criticamente e rinunciamo al giudizio morale.​​​​​​​​​​​​​​​​'
 focus_keyword: Attacco USA in Venezuela, la banalità del male
