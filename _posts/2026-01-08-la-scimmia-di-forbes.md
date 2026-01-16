@@ -13,7 +13,8 @@ tags:
   - riflessioni
   - società
   - entropia
-image: /assets/images/uploads/scimmia-forbes-accumulo.png
+image: /assets/images/uploads/scimmia-forbes-accumulo.webp
+image_caption: ''
 image_alt: Illustrazione di scimmia in abito elegante circondata da banane, metafora dell'accumulo patologico
 excerpt: Se una scimmia accumulasse tutte le banane impedendo alle altre di mangiarle, i biologi la studierebbero come anomalia. Se lo fa un uomo, finisce sulla copertina di Forbes. Una riflessione su accumulo, entropia e sul perché la redistribuzione non è ideologia, ma fisica.
 focus_keyword: disuguaglianza economica natura
