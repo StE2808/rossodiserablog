@@ -19,11 +19,13 @@ jobs:
 
       - name: Convert new images to WebP
         run: |
+          > converted_images.txt
           find assets/images/uploads -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) | while read img; do
             webp_file="${img%.*}.webp"
             if [ ! -f "$webp_file" ]; then
               cwebp -q 80 "$img" -o "$webp_file"
               echo "Converted: $img → $webp_file"
+              basename "$img" >> converted_images.txt
             fi
           done || true
 
@@ -37,10 +39,106 @@ jobs:
             fi
           done || true
 
-      - name: Commit WebP images
+      - name: Update image references in posts
+        run: |
+          if [ ! -s converted_images.txt ]; then
+            echo "No images converted, skipping reference updates"
+            exit 0
+          fi
+
+          python3 << 'PYTHON_SCRIPT'
+          import os
+          import re
+
+          # Leggi lista immagini convertite
+          with open('converted_images.txt', 'r') as f:
+              converted_images = [line.strip() for line in f if line.strip()]
+
+          if not converted_images:
+              print("No converted images found")
+              exit()
+
+          # Crea pattern regex per ogni estensione
+          extensions = ['jpg', 'jpeg', 'png', 'JPG', 'JPEG', 'PNG']
+
+          # Pattern per trovare riferimenti immagini (case-insensitive)
+          # 1. Front matter: image: /path/file.jpg
+          # 2. Markdown: ![alt](/path/file.jpg) o ![alt](file.jpg)
+          # 3. HTML: <img src="/path/file.jpg"> o <img src="file.jpg">
+
+          posts_dir = '_posts'
+          updated_files = []
+
+          for filename in os.listdir(posts_dir):
+              if not filename.endswith('.md'):
+                  continue
+
+              filepath = os.path.join(posts_dir, filename)
+              with open(filepath, 'r', encoding='utf-8') as f:
+                  content = f.read()
+
+              original_content = content
+
+              # Per ogni immagine convertita, sostituisci tutti i riferimenti
+              for img_name in converted_images:
+                  # Rimuovi estensione dal nome immagine
+                  img_base = os.path.splitext(img_name)[0]
+
+                  # Pattern che matcha il nome base + qualsiasi estensione jpg/png/jpeg
+                  # Usa word boundary per evitare sostituzioni parziali
+                  for ext in extensions:
+                      # Pattern 1: Front matter (image: /path/file.ext)
+                      pattern1 = re.compile(
+                          rf'(image:\s+["\']?[^\s"\']*/{re.escape(img_base)})\.{ext}(["\']?)',
+                          re.IGNORECASE
+                      )
+                      content = pattern1.sub(r'\1.webp\2', content)
+
+                      # Pattern 2: Markdown image (![alt](path/file.ext))
+                      pattern2 = re.compile(
+                          rf'(\!\[.*?\]\([^\)]*/{re.escape(img_base)})\.{ext}(\))',
+                          re.IGNORECASE
+                      )
+                      content = pattern2.sub(r'\1.webp\2', content)
+
+                      # Pattern 3: HTML img tag (<img src="path/file.ext">)
+                      pattern3 = re.compile(
+                          rf'(<img[^>]+src=["\'][^\'"]*/{re.escape(img_base)})\.{ext}(["\'][^>]*>)',
+                          re.IGNORECASE
+                      )
+                      content = pattern3.sub(r'\1.webp\2', content)
+
+                      # Pattern 4: Versioni senza path assoluto (solo nome file)
+                      # Front matter senza slash iniziale
+                      pattern4 = re.compile(
+                          rf'(image:\s+["\']?)({re.escape(img_base)})\.{ext}(["\']?\s*$)',
+                          re.IGNORECASE | re.MULTILINE
+                      )
+                      content = pattern4.sub(r'\1\2.webp\3', content)
+
+              # Salva solo se ci sono state modifiche
+              if content != original_content:
+                  with open(filepath, 'w', encoding='utf-8') as f:
+                      f.write(content)
+                  updated_files.append(filename)
+                  print(f"Updated: {filename}")
+
+          if updated_files:
+              print(f"\nTotal files updated: {len(updated_files)}")
+          else:
+              print("No post references needed updating")
+
+          PYTHON_SCRIPT
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A assets/images/uploads/
-          git diff --staged --quiet || git commit -m "🖼️ Convert images to WebP"
+          git add _posts/*.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "🖼️ Convert images to WebP and update references"
           git push
