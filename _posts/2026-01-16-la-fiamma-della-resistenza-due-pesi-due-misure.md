@@ -27,7 +27,7 @@ tags:
   - ∙	Due pesi due misure
   - ∙	Ipocrisia mediatica
   - ∙	Solidarietà selettiva
-image: /assets/images/uploads/IMG_7041.jpeg
+image: /assets/images/uploads/IMG_7041.webp
 image_caption: Una giovane donna iraniana si accende una sigaretta bruciando una foto di Khomeini
 image_alt: a iraniana si accende una sigaretta bruciando una foto di Khomeini
 excerpt: |-
