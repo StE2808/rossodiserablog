@@ -8,7 +8,8 @@ author: lino-rialti
 category: politica-estera
 tags:
   - '#Groenlandia #USA #Trump #Imperialismo #Neocolonialismo #Sovranità #Danimarca #Europa #PoliticaEstera #Artico #Dirittointernazionale #Autodeterminazione #GeopoliticaArtica #CrisaDiplomatica #AlleanzaAtlantica'
-image: /assets/images/uploads/IMG_7018.jpeg
+image: /assets/images/uploads/IMG_7018.webp
+image_caption: ''
 image_alt: Trump prende in giro un sollevatore di pesi transgender
 excerpt: Washington sta attivamente perseguendo l’acquisizione della Groenlandia attraverso pressioni diplomatiche, operazioni di influenza segrete e minacce velate, ignorando la volontà dell’85% della popolazione locale. Questa deriva neocoloniale, mascherata da necessità strategiche ma motivata da interessi economici e militari, rappresenta un attacco frontale ai principi di autodeterminazione e sovranità, costringendo l’Europa a reagire e sollevando interrogativi devastanti sul futuro dell’ordine internazionale basato sulle regole.
 focus_keyword: Description
