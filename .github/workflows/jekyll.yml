@@ -52,6 +52,7 @@
             python3 << 'PYTHON_SCRIPT'
             import os
             import re
+            from urllib.parse import quote
 
             # Leggi lista immagini convertite
             with open('converted_images.txt', 'r') as f:
@@ -77,8 +78,11 @@
 
                 for img_name in converted_images:
                     img_base = os.path.splitext(img_name)[0]
+                    # Crea anche versione URL-encoded per nomi con spazi
+                    img_base_encoded = quote(img_base)
 
                     for ext in extensions:
+                        # Pattern per nome file normale (con spazi)
                         # Pattern 1: Front matter (image: /path/file.ext)
                         pattern1 = re.compile(
                             rf'(image:\s+["\']?[^\s"\']*/{re.escape(img_base)})\.{ext}(["\']?)',
@@ -88,7 +92,7 @@
 
                         # Pattern 2: Markdown image (![alt](path/file.ext))
                         pattern2 = re.compile(
-                            rf'(\!\[.*?\]\([^\)]*/{re.escape(img_base)})\.{ext}(\))',
+                            rf'(\!\[.*?\]\([^\)]*/{re.escape(img_base)})\.{ext}(\s*(?:"[^"]*")?\))',
                             re.IGNORECASE
                         )
                         content = pattern2.sub(r'\1.webp\2', content)
@@ -106,6 +110,29 @@
                             re.IGNORECASE | re.MULTILINE
                         )
                         content = pattern4.sub(r'\1\2.webp\3', content)
+
+                        # Pattern per nome file URL-encoded (se diverso dal normale)
+                        if img_base_encoded != img_base:
+                            # Pattern 5: Front matter URL-encoded
+                            pattern5 = re.compile(
+                                rf'(image:\s+["\']?[^\s"\']*/{re.escape(img_base_encoded)})\.{ext}(["\']?)',
+                                re.IGNORECASE
+                            )
+                            content = pattern5.sub(r'\1.webp\2', content)
+
+                            # Pattern 6: Markdown image URL-encoded
+                            pattern6 = re.compile(
+                                rf'(\!\[.*?\]\([^\)]*/{re.escape(img_base_encoded)})\.{ext}(\s*(?:"[^"]*")?\))',
+                                re.IGNORECASE
+                            )
+                            content = pattern6.sub(r'\1.webp\2', content)
+
+                            # Pattern 7: HTML img URL-encoded
+                            pattern7 = re.compile(
+                                rf'(<img[^>]+src=["\'][^\'"]*/{re.escape(img_base_encoded)})\.{ext}(["\'][^>]*>)',
+                                re.IGNORECASE
+                            )
+                            content = pattern7.sub(r'\1.webp\2', content)
 
                 if content != original_content:
                     with open(filepath, 'w', encoding='utf-8') as f:
