@@ -7,7 +7,21 @@ date: 2026-01-08 07:55:00 +0100
 author: lino-rialti
 category: politica-estera
 tags:
-  - '#Groenlandia #USA #Trump #Imperialismo #Neocolonialismo #Sovranità #Danimarca #Europa #PoliticaEstera #Artico #Dirittointernazionale #Autodeterminazione #GeopoliticaArtica #CrisaDiplomatica #AlleanzaAtlantica'
+  - Groenlandia
+  - USA
+  - Trump
+  - Imperialismo
+  - Neo colonialismo
+  - Sovranità
+  - Danimarca
+  - Europa
+  - PoliticaEstera
+  - Artico
+  - Dirittointernazionale
+  - Autodeterminazione
+  - GeopoliticaArtica
+  - CrisaDiplomatica
+  - AlleanzaAtlantica
 image: /assets/images/uploads/IMG_7018.webp
 image_caption: ''
 image_alt: Trump prende in giro un sollevatore di pesi transgender
