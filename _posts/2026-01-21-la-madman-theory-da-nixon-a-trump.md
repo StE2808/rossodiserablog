@@ -32,7 +32,7 @@ tags:
   - ∙	Presidente imprevedibile
   - ∙	Armi nucleari
   - ∙	Pericolosità politica
-image: /assets/images/uploads/IMG_7050.jpeg
+image: /assets/images/uploads/IMG_7050.webp
 image_caption: Trump
 image_alt: Trump
 excerpt: |-
