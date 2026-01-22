@@ -1,21 +1,33 @@
 ---
 layout: post
-title: "Baciami. Anzi no!"
+title: Baciami. Anzi no!
+seo_title: ''
+description: Il bacio alla francese è presente nel 90% delle culture. E il 10% delle culture che non si baciano, quali altri gesti romantici usano al posto del bacio
 date: 2023-09-15 00:00:00 +0100
 author: stefano-vozzi
-image: /assets/images/2023/09/alfred_eisenstaedt.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: "Il bacio alla francese è presente nel 90% delle culture. E il 10% delle culture che non si baciano, quali altri gesti romantici usano al posto del bacio"
 category: cultura-spettacolo
-tags: ["Amore", "Bacio", "Batteri", "Emozioni", "Fotografia", "Ricerca", "Romanticismo"]
+tags:
+  - Amore
+  - Bacio
+  - Batteri
+  - Emozioni
+  - Fotografia
+  - Ricerca
+  - Romanticismo
+image: /assets/images/2023/09/alfred_eisenstaedt.webp
+image_caption: ''
+image_alt: Immagine di copertina dell'articolo
+excerpt: 'Riflessione ironica sul bacio: gesto universale ma non globale, tra ricerche antropologiche, baci iconici nella storia e nel cinema, fino a uno studio scientifico sui batteri scambiati. Tra curiosità, distrazioni e umorismo, il bacio resta simbolo potente… meglio non pensarci troppo, magari con un buon Chiant'
+focus_keyword: ''
 ---
+
 Il bacio alla francese è presente nel 90% delle culture. E il 10% delle culture che non si baciano, quali altri gesti romantici usano al posto del bacio? Una carezza? Si toccano il naso? Si strizzano l'occhio ritmicamente e a tempo? Devo assolutamente scoprirlo. Così comincia la mia ricerca sul web, ma non trovo molto. Trovo un'altra ricerca che dice che su 168 culture, solo il 46% usa il bacio per comunicare amore e passione. Quindi, i surrogati romantici del bacio non sono da imputare al 10%, ma al 54% delle culture. Continuo a cercare, ma mi lascio distrarre da altri baci, baci famosi.
 
-Il bacio dell'Hotel de Ville, una foto scattata nel 1950 di **Robert Doisneau** per Life, mostra due giovani che si baciano mentre la vita di Parigi scorre accanto a loro. Tutti sono presi dal tran tran quotidiano, mentre i due amanti sembrano essere lì solo per baciarsi e amarsi. La foto di Doisneau li sottrae al fluire del tempo, rendendo quell'attimo eterno. Curiosamente, nel 1992 una coppia reclamò i diritti di quella immagine, sostenendo di essere i protagonisti; in realtà, erano due impostori. La storia di questo bacio è che Doisneau incontrò una coppia di innamorati che si baciavano in un bar e gli chiese di ripetere il gesto in strada per una foto. Li ringraziò, regalandogli una stampa della foto autografata che nel 2005 fu battuta all'asta per circa 200.000 euro. 
+Il bacio dell'Hotel de Ville, una foto scattata nel 1950 di **Robert Doisneau** per Life, mostra due giovani che si baciano mentre la vita di Parigi scorre accanto a loro. Tutti sono presi dal tran tran quotidiano, mentre i due amanti sembrano essere lì solo per baciarsi e amarsi. La foto di Doisneau li sottrae al fluire del tempo, rendendo quell'attimo eterno. Curiosamente, nel 1992 una coppia reclamò i diritti di quella immagine, sostenendo di essere i protagonisti; in realtà, erano due impostori. La storia di questo bacio è che Doisneau incontrò una coppia di innamorati che si baciavano in un bar e gli chiese di ripetere il gesto in strada per una foto. Li ringraziò, regalandogli una stampa della foto autografata che nel 2005 fu battuta all'asta per circa 200.000 euro.
 
 Mi domando se Doisneau si fosse ispirato ad un altro famosissimo bacio avvenuto solo qualche anno prima, nel 1945, a Times Square durante i festeggiamenti per la fine del conflitto tra USA e Giappone.
 
-Il marinaio e la crocerossina, durante i festeggiamenti per la fine del conflitto, si baciano. Il fotografo **Alfred Eisenstaedt **è anche lui in strada per documentare l'evento e gli scatta una foto in bianco e nero che divenne il simbolo della fine delle ostilità tra USA e Giappone. Tendiamo a pensare che l'estetica sia tutto nella fotografia, invece le foto che passano alla storia non sono esteticamente belle, ma raccontano storie memorabili, come contrapporre un bacio alla guerra, che è davvero memorabile.
+Il marinaio e la crocerossina, durante i festeggiamenti per la fine del conflitto, si baciano. Il fotografo \*\*Alfred Eisenstaedt\*\* è anche lui in strada per documentare l'evento e gli scatta una foto in bianco e nero che divenne il simbolo della fine delle ostilità tra USA e Giappone. Tendiamo a pensare che l'estetica sia tutto nella fotografia, invece le foto che passano alla storia non sono esteticamente belle, ma raccontano storie memorabili, come contrapporre un bacio alla guerra, che è davvero memorabile.
 
 Ricordate quella campagna contro le sigarette? "Se ti viene voglia di fumare, dalle un bacio". Ecco, se ti viene voglia di lanciare due bombe atomiche, coprila di baci.
 
