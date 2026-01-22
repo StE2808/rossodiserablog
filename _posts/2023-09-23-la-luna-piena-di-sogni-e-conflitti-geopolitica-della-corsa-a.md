@@ -15,8 +15,6 @@ Sulle orme di questo colosso, emergono nuovi protagonisti. La **Cina**, avvolta 
 
 Poi c'è l'**Europa**, che non è una semplice comparsa ma piuttosto un regista collaborativo che cerca di coordinare gli sforzi di tutti. Le startup spaziali europee e accordi internazionali come gli Artemis Accords ne sono la prova.
 
-    
-![](images/2023/09/sliver_moon.webp)
 E mentre consideriamo questi vari attori, non possiamo ignorare l'elefante nella stanza: lo sfruttamento delle risorse lunari. La Luna è ricca di minerali rari e di isotopi come l'elio-3, che potrebbero avere applicazioni rivoluzionarie in campo energetico. Questo aggiunge un ulteriore livello di complessità alla corsa alla Luna, rendendola non solo una questione di prestigio nazionale, ma anche una competizione per risorse potenzialmente preziose.
 
 Ma in questo affascinante dramma spaziale, emerge una domanda fondamentale: chi ha il diritto di rivendicare la proprietà della Luna? Dovrebbe essere un bene comune, un simbolo di ciò che possiamo realizzare quando uniamo le nostre forze, e non un bottino di guerra spaziale. Perché, alla fine, la corsa alla Luna non è solo una questione di razzi e robot; è un riflesso delle nostre ambizioni, dei nostri conflitti e, speriamo, della nostra capacità di aspirare a qualcosa di più grande di noi stessi.

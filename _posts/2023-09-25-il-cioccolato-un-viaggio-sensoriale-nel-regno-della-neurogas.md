@@ -11,8 +11,6 @@ tags: ["amarezza", "antiossidanti", "aromi", "cioccolato", "declino cognitivo", 
 ---
 Immagina un istante di pura estasi, un'esperienza che coinvolge ogni fibra del tuo essere e ti catapulta in un universo parallelo di sensazioni. No, non stiamo discutendo di un'avventura esotica o di un viaggio mozzafiato, ma di un piacere molto più accessibile e altrettanto incantevole: il cioccolato. Questo alimento dolce, spesso considerato un semplice "peccato di gola", è in realtà un elisir per la mente, un autentico nutrimento per il cervello con il potere di contrastare il deficit cognitivo.
 
-    
-![](images/2023/09/pexels-photo-7538069.webp)
 Nel momento in cui assapori un pezzo di cioccolato fondente, ricco di flavonoidi, si scatena un fenomeno straordinario nel tuo cervello. Secondo ricerche condotte dall'Università dell'Aquila, questi potenti antiossidanti hanno la capacità di migliorare notevolmente la memoria e le funzioni cognitive, posizionando il cioccolato come un potenziale alleato nella lotta contro il declino cognitivo associato all'invecchiamento. Ma le sorprese non finiscono qui; il cioccolato può anche innescare la produzione di endorfine, i cosiddetti "ormoni della felicità", generando un senso di benessere e mitigando lo stress.
 
 Se credi che il cioccolato sia un piacere effimero, ti invito a ripensarci. Oltre ai suoi effetti immediati, il cioccolato può esercitare un impatto duraturo sulla tua salute mentale. Altra conferma proviene da uno studio dell'Università di Birmingham che ha rivelato che il consumo costante di cioccolato fondente può offrire una barriera protettiva al cervello contro il declino cognitivo, grazie all'incremento dei livelli di un particolare enzima che protegge le cellule cerebrali dallo stress ossidativo.

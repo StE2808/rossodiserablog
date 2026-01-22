@@ -11,8 +11,6 @@ tags: ["Barriere culturali", "Discriminazione sociale", "Disuguaglianza economic
 ---
 Avete mai riflettuto sul destino di quelle voci che non trovano eco nei corridoi del potere? O su quelle storie che rimangono escluse dai libri di storia? Oggi, vorrei portare la vostra attenzione su di loro, sui gruppi subalterni, su quei nostri fratelli e sorelle che vivono ai margini della società.
 
-    
-![](images/2023/11/dallc2b7e-2023-11-24-10.05.31-create-an-impactful-image-that-depicts-marginalized-subaltern-groups-in-black-and-white-stepping-into-a-vibrant-colorful-world.-the-black-and-whit.webp)
 Cominciamo dal principio. Vi ricordate di Marx? Egli parlava di lotta di classe, una contrapposizione tra ricchi e poveri, una battaglia epica per l'egemonia economica. Tuttavia, la realtà è più complessa di una semplice dicotomia finanziaria. Col tempo, abbiamo compreso che esistono altre battaglie da combattere, altre voci da ascoltare. Queste provengono da ogni settore della società - donne, gruppi etnici minoritari, comunità LGBTQ+, persone con disabilità e gruppi religiosi minoritari. Ciascuno di essi affronta ostacoli che superano la disuguaglianza economica, estendendosi a barriere culturali, discriminazione sociale e pregiudizi politici. È una lotta per essere visti, ascoltati e riconosciuti.
 
 Consideriamo le sfide quotidiane di queste persone. Le donne impegnate nella lotta per la parità salariale e la rappresentanza; le comunità LGBTQ+ che combattono per i propri diritti; le persone con disabilità che cercano accessibilità e inclusione; i gruppi etnici e religiosi minoritari che si oppongono a stereotipi e discriminazioni. Queste non sono soltanto storie di oppressione, ma anche di resistenza e speranza.

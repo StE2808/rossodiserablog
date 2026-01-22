@@ -11,8 +11,6 @@ tags: ["Conflitto", "Corridoi Umanitari", "Diritti Civili", "Geopolitica", "guer
 ---
 La tensione tra Israele e la Striscia di Gaza, in particolare tra Israele e Hamas, è inserita in un contesto storico e geopolitico più ampio che coinvolge anche Iran, Libano e Siria. La radice del conflitto affonda in una mescolanza di questioni territoriali, differenze religiose e ideologiche, nonché interessi geopolitici e influenze esterne.
 
-    
-![](images/2023/10/pexels-photo-12018418.webp)
 Dal punto di vista iraniano, il sostegno finanziario a Hamas è parte di una strategia regionale più grande. L'Iran ha una storia di finanziamento a gruppi armati come Hezbollah in Libano e Hamas nella Striscia di Gaza, con l'obiettivo di espandere la propria influenza nella regione e di contrastare l'influenza israeliana e statunitense nel Medio Oriente.
 
 Nel contesto attuale, la situazione è particolarmente tesa. Un recente attacco su larga scala è stato lanciato da Hamas contro Israele, causando numerose vittime e un'escalation significativa della violenza. La risposta di Israele è stata altrettanto forte, con bombardamenti sulla Striscia di Gaza che hanno provocato ulteriori perdite civili, destinate ad aumentare con l'imminente invasione via terra della Striscia di Gaza.

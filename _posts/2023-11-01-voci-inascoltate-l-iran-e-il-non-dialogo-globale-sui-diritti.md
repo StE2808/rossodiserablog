@@ -11,12 +11,8 @@ tags: ["Ali Bahreini", "Armita Geravand", "comunit\u00e0 internazionale", "dirit
 ---
 In un'era di globalizzazione e interconnessione, le ingiustizie perpetrate in un angolo del mondo risuonano attraverso i continenti, risvegliando le coscienze e catalizzando il dialogo sui diritti umani. L'Iran, con la sua ricca tapezzeria culturale e politica, si trova spesso al centro di tali dialoghi, rappresentando un microcosmo delle sfide globali nella promozione dei diritti umani e della dignità.
 
-    
-![](images/2023/11/img_5619.webp)
 Recentemente, gli occhi della comunità internazionale si sono rivolti verso l'Iran in seguito a tre eventi distinti ma interconnessi che hanno svelato la realtà di repressione che oscura le vite di molti cittadini iraniani: le tragiche storie di[ Armita Geravand e Mahsa Amini](https://svozzi.wordpress.com/2023/10/04/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il-velo-in-iran/), e la nomina controversa di Ali Bahreini, ambasciatore dell'Iran, alla presidenza del Forum Sociale del Consiglio delle Nazioni Unite per i diritti umani.
 
-    
-![](images/2023/11/img_5620.webp)
 Armita Geravand, una ragazza di 16 anni, è diventata un simbolo di resistenza dopo essere stata aggredita per non aver rispettato le leggi sul velo. La sua aggressione ha drammaticamente ricordato la tragedia di Mahsa Amini, che aveva subito un destino simile un anno prima, mettendo in luce il prezzo, spesso mortale, della battaglia per la libertà personale in Iran.
 
 D'altro canto, la nomina di Ali Bahreini ha suscitato una tempesta di critiche, con molti che vedono in essa una tacita approvazione delle politiche repressive dell'Iran, in un momento in cui la rappresentanza e la responsabilità nei forum internazionali sono di vitale importanza.

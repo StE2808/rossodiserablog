@@ -13,8 +13,6 @@ Nella quiete serena dei nostri "Buon Natale" sussurrati, dove l'eco delle nostre
 
 La voce dei [Lake Street Dive](https://youtu.be/bs4dR4YjGPg?si=IbjwirvOahb_6Gc_) si leva in un coro che non intona canti natalizi ma verità scomode. "[Making Do](https://youtu.be/bs4dR4YjGPg?si=IbjwirvOahb_6Gc_)" è il loro biglietto d'auguri, scritto con l'inchiostro della realtà e decorato con la malinconia del presente. Un caffè amaro, che non nasconde la sua qualità scadente, a causa delle temperature troppo alte in Kenya e Colombia, dietro a zuccheri e aromi artificiali, diventa simbolo di una Terra che si consuma sotto il peso dei nostri passi incerti.
 
-    
-![](images/2023/11/img_5671.webp)
 E mentre formuliamo gli auguri, la nostra voce trema, conscia del paradosso: regaliamo un futuro incerto, avvolto in un fiocco di promesse non mantenute. "Killer waves e riots", tifoni in corsa sfrenata come un contatore di kilowatt che non si arresta mai, sono i veri doni che lasciamo sotto l'albero delle nuove generazioni.
 
 Gli eroi di un tempo sembrano oggi personaggi di una favola antica, eroi dalle mascelle squadrate e sorrisi abbaglianti che si perdono nell'orizzonte di un mondo troppo veloce per eroismi da fumetto. Ci chiediamo dove siano finiti, mentre il mondo frena bruscamente da sessanta a zero, e le pause di riflessione diventano sempre più rare.

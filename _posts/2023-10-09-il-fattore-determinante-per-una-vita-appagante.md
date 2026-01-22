@@ -10,8 +10,6 @@ category: societa
 ---
 Inevitabilmente, tutti noi ci facciamo delle domande, del tipo: chi o cosa ci ha creati? Che c'era prima del big bang? Domande che di solito ci rivolgiamo l'uno all'altro durante le cene con gli amici, e soprattutto quando il vino è buono. Ma c'è una domanda che forse non abbiamo affrontato abbastanza seriamente: quale è il segreto per avere una vita felice?
 
-    
-![](images/2023/10/ste_spi_impactful_image_quantum_physics_and_love_df253174-69c5-4670-a9d9-cff952b7e7cf.webp)
 Le risposte a questa domanda sono variegate. C'è chi sostiene che la dieta mediterranea sia la chiave, chi opta per quella vegana, chi trova la risposta nella meditazione, nell'attività fisica, nel lavoro che ci appassiona, o addirittura nei soldi. Ognuno sembra avere la sua ricetta magica.
 
 Ma è possibile che nessuno si sia veramente impegnato a cercare l'ingrediente fondamentale da aggiungere alle nostre vite per renderle più felici? Quale è il filo conduttore, la cosa che, messa al denominatore comune delle nostre vite, può renderle migliori, più sane, più appaganti e, alla fine, più felici?

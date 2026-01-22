@@ -13,8 +13,6 @@ L'Unione Europea affronta un complesso dibattito sull'Emissions Trading System (
 
 I permessi gratuiti nell'ambito dell'EU ETS sono sostanzialmente delle licenze che permettono alle aziende di emettere una certa quantità di gas serra senza alcun costo. Questi permessi sono assegnati alle aziende in base a vari criteri, tra cui la loro storia di emissioni e l'importanza economica. Tali permessi intendono prevenire lo spostamento della produzione verso Paesi con normative ambientali meno severe, ma possono anche creare un disincentivo all'innovazione e alla riduzione delle emissioni.
 
-    
-![](images/2023/11/ciminiere.webp)
 L'Élite delle Emissioni: Un Gruppo Ristretto di grandi aziende inquinanti, secondo la ricerca di CMW del 2023 rivela che meno dell'1% delle aziende sotto l'EU ETS, come RWE, ArcelorMittal, Eni ed ENEL, sono responsabili di più della metà delle emissioni totali. Queste aziende, nonostante i loro elevati profitti, beneficiano in larga misura dei permessi gratuiti, evitando così di pagare per l'impatto ambientale delle loro attività.
 
 Nel 2022, permessi gratuiti per un valore di circa 47,6 miliardi di euro sono stati distribuiti. Questo approccio contraddice il principio fondamentale dell'EU ETS, il "chi inquina paga", che mira a responsabilizzare gli inquinatori dei costi ambientali e sociali delle loro emissioni. Con questi permessi, le aziende possono continuare a inquinare senza subire ripercussioni finanziarie, limitando l'efficacia del sistema nell'indirizzare il cambiamento climatico.

@@ -15,14 +15,10 @@ Il bacio dell'Hotel de Ville, una foto scattata nel 1950 di **Robert Doisneau** 
 
 Mi domando se Doisneau si fosse ispirato ad un altro famosissimo bacio avvenuto solo qualche anno prima, nel 1945, a Times Square durante i festeggiamenti per la fine del conflitto tra USA e Giappone.
 
-    
-![](images/2023/09/alfred_eisenstaedt.webp)
 Il marinaio e la crocerossina, durante i festeggiamenti per la fine del conflitto, si baciano. Il fotografo **Alfred Eisenstaedt **è anche lui in strada per documentare l'evento e gli scatta una foto in bianco e nero che divenne il simbolo della fine delle ostilità tra USA e Giappone. Tendiamo a pensare che l'estetica sia tutto nella fotografia, invece le foto che passano alla storia non sono esteticamente belle, ma raccontano storie memorabili, come contrapporre un bacio alla guerra, che è davvero memorabile.
 
 Ricordate quella campagna contro le sigarette? "Se ti viene voglia di fumare, dalle un bacio". Ecco, se ti viene voglia di lanciare due bombe atomiche, coprila di baci.
 
-    
-![](images/2023/09/lilli_vagabondo.webp)
 Cerco ancora e trovo un altro bacio, un "bacio animato", sul quale generazioni di bambini si sono divertiti ed emozionati: Lilli e il Vagabondo si baciano alla fine del risucchio di uno spaghetto.
 
 Stavo ancora una volta distraendomi dalla mia ricerca su quel 54% delle culture che non si baciano quando il mio occhio cade su un abstract che parla di baci, ricerche, università. Clicco, apro la pagina web e comincio a leggere. Trovo questo: i ricercatori di un'università olandese hanno preso delle coppie e gli hanno fatte bere una bevanda probiotica, poi hanno fatto un tampone alla loro bocca. A questo punto, li hanno fatti baciare e hanno prelevato un altro campione di saliva. Dalle analisi comparative, risulta che 80 milioni di batteri sono passati da una bocca all'altra; ad ogni bacio passano talmente tanti batteri che dopo 7-8 baci, le coppie hanno praticamente gli stessi batteri in bocca. Ok, basta, spengo tutto e vado a cena. Durante la cena, guardo la mia compagna e faccio uno strano pensiero un po' imbarazzante: mi piace baciarti, ma cosa dire degli 80 milioni di batteri che dalla tua bocca saltano nella mia? 80 milioni di abitanti li fa la Germania; quindi, quando mi baci, una "Germania di batteri" mi salta in bocca. 80 milioni di "Bat-intrusi". Abbasso lo sguardo, c'è il bicchiere di vino; lo prendo, lo mando giù tutto d'un fiato e affogo lo strano pensiero.

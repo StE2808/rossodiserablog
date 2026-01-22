@@ -15,8 +15,6 @@ Mi sono spesso perso a guardare un aquilone che volteggia nel vento, pensando a 
 
 L'aquilone ci parla di questo: della tensione creativa tra controllo e abbandono, tra dirigere e lasciarsi trasportare. Chi tiene il filo esercita un controllo, ma deve anche arrendersi al vento, collaborare con esso, assecondarlo. È questo il segreto: non dominare completamente, non abbandonarsi totalmente, ma fluire armoniosamente insieme alle forze della natura.
 
-    
-![](images/2025/03/pexels-photo-29963661.webp)
 La storia dell'aquilone inizia tremila anni fa nella Cina degli Stati Combattenti. Immagino il filosofo Mozi che, con pazienza infinita, dedica tre anni a costruire un aquilone di legno a forma di uccello. Non era un passatempo, ma uno strumento militare: serviva per misurare distanze, comunicare messaggi, osservare movimenti nemici. Il generale Han Hsin che usa un aquilone per calcolare quanto scavare sotto le mura di una città assediata mi fa sorridere: l'ingegno umano che trasforma un oggetto semplice in uno strumento di vittoria.
 
 Da lì, l'aquilone ha viaggiato con il vento, superando confini e culture. In Giappone divenne amuleto contro gli spiriti, in India protagonista di competizioni spettacolari. Quando Marco Polo lo descrisse nei suoi diari, portò questo miracolo volante all'immaginazione europea, e da allora non ha più abbandonato i nostri cieli.
