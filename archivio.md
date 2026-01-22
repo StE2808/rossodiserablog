@@ -15,55 +15,48 @@ permalink: /archivio/
         {% for year in posts_by_year %}
 
         <div class="archive-year-section">
-            <div class="archive-year-badge">{{ year.name }}</div>
+            <h2 class="archive-year-title">{{ year.name }}</h2>
 
-            <div class="archive-posts">
-                {% for post in year.items %}
-                <article class="archive-card">
-                    <div class="archive-card-header">
-                        <span class="archive-date">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
-                                <line x1="16" y1="2" x2="16" y2="6"></line>
-                                <line x1="8" y1="2" x2="8" y2="6"></line>
-                                <line x1="3" y1="10" x2="21" y2="10"></line>
-                            </svg>
-                            {{ post.date | date: "%d %b" }}
-                        </span>
-                        {% if post.category %}
-                        <a href="{{ '/categoria/' | append: post.category | relative_url }}" class="archive-category">{{ post.category }}</a>
+            {% assign posts_by_month = year.items | group_by_exp: "post", "post.date | date: '%m'" %}
+            {% for month in posts_by_month %}
+
+            {% assign month_name = month.items[0].date | date: "%B" %}
+            <div class="archive-month-section">
+                <h3 class="archive-month-title">{{ month_name }} {{ year.name }}</h3>
+
+                <div class="archive-grid">
+                    {% for post in month.items %}
+                    <article class="related-card">
+                        {% if post.image %}
+                        <a href="{{ post.url | relative_url }}" class="related-image-link">
+                            <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">
+                        </a>
                         {% endif %}
-                    </div>
-
-                    <h3 class="archive-title">
-                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                    </h3>
-
-                    <div class="archive-card-footer">
-                        <div class="archive-author">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
-                                <circle cx="12" cy="7" r="4"></circle>
-                            </svg>
-                            {% if post.author == "stefano-vozzi" %}
-                                Stefano Vozzi
-                            {% elsif post.author == "lino-rialti" %}
-                                Lino Rialti
-                            {% else %}
-                                {{ post.author | replace: "-", " " | capitalize }}
+                        <div class="related-content">
+                            {% if post.category %}
+                            <a href="{{ '/categoria/' | append: post.category | relative_url }}" class="archive-category-tag">{{ post.category | replace: "-", " " }}</a>
                             {% endif %}
+                            <h4 class="related-card-title">
+                                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                            </h4>
+                            <div class="archive-card-meta">
+                                <span class="related-date">{{ post.date | date: "%d %B %Y" }}</span>
+                                <span class="archive-author">
+                                    {% if post.author == "stefano-vozzi" %}
+                                        Stefano Vozzi
+                                    {% elsif post.author == "lino-rialti" %}
+                                        Lino Rialti
+                                    {% else %}
+                                        {{ post.author | replace: "-", " " | capitalize }}
+                                    {% endif %}
+                                </span>
+                            </div>
                         </div>
-                        {% if post.tags.size > 0 %}
-                        <div class="archive-tags">
-                            {% for tag in post.tags limit:2 %}
-                            <span class="archive-tag">{{ tag }}</span>
-                            {% endfor %}
-                        </div>
-                        {% endif %}
-                    </div>
-                </article>
-                {% endfor %}
+                    </article>
+                    {% endfor %}
+                </div>
             </div>
+            {% endfor %}
         </div>
 
         {% endfor %}

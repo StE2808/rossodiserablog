@@ -1030,7 +1030,7 @@ body.menu-open {
 ============================================ */
 .archive-section {
     padding: 8rem 2rem 4rem;
-    max-width: 1000px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
@@ -1040,143 +1040,96 @@ body.menu-open {
 
 .archive-year-section {
     margin-bottom: 4rem;
-    position: relative;
 }
 
-.archive-year-badge {
+.archive-year-title {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: 700;
     color: var(--rosso-primario);
-    opacity: 0.15;
-    position: absolute;
-    top: -2rem;
-    left: -1rem;
-    z-index: 0;
-    user-select: none;
-    pointer-events: none;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 3px solid var(--rosso-primario);
 }
 
-.archive-posts {
-    position: relative;
-    z-index: 1;
+.archive-month-section {
+    margin-bottom: 3rem;
+}
+
+.archive-month-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: var(--testo);
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
+    border-left: 4px solid var(--rosso-accent);
+    text-transform: capitalize;
+}
+
+.archive-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+}
+
+.archive-grid .related-card {
+    height: 100%;
     display: flex;
     flex-direction: column;
-    gap: 1rem;
 }
 
-.archive-card {
-    background: white;
-    border-radius: 16px;
-    padding: 1.5rem 2rem;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.04);
-    transition: all 0.3s ease;
-    border-left: 3px solid transparent;
+.archive-grid .related-card .related-image-link {
+    aspect-ratio: 16/10;
+    overflow: hidden;
+    display: block;
 }
 
-.archive-card:hover {
-    transform: translateX(5px);
-    box-shadow: 0 8px 24px rgba(139, 26, 26, 0.12);
-    border-left-color: var(--rosso-primario);
+.archive-grid .related-card .related-image-link img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
-.archive-card-header {
+.archive-grid .related-content {
+    flex: 1;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 0.8rem;
-    flex-wrap: wrap;
-    gap: 0.5rem;
+    flex-direction: column;
 }
 
-.archive-date {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    font-size: 0.85rem;
-    color: var(--testo-chiaro);
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-
-.archive-date svg {
-    opacity: 0.6;
-}
-
-.archive-category {
+.archive-category-tag {
+    display: inline-block;
     background: var(--rosso-primario);
     color: white;
-    padding: 0.3rem 0.9rem;
-    font-size: 0.7rem;
+    padding: 0.25rem 0.7rem;
+    font-size: 0.65rem;
     font-weight: 500;
     letter-spacing: 0.5px;
     text-transform: uppercase;
-    border-radius: 15px;
-    text-decoration: none;
-    transition: all 0.3s ease;
-}
-
-.archive-category:hover {
-    background: var(--rosso-scuro);
-    transform: translateY(-2px);
-}
-
-.archive-title {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 1.4rem;
-    font-weight: 600;
-    line-height: 1.4;
-    margin-bottom: 0.8rem;
-}
-
-.archive-title a {
-    color: var(--testo);
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.archive-card:hover .archive-title a {
-    color: var(--rosso-primario);
-}
-
-.archive-card-footer {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-
-.archive-author {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    font-size: 0.9rem;
-    color: var(--testo-chiaro);
-}
-
-.archive-author svg {
-    opacity: 0.6;
-}
-
-.archive-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-}
-
-.archive-tag {
-    background: var(--crema-scuro);
-    color: var(--testo-chiaro);
-    padding: 0.25rem 0.7rem;
-    font-size: 0.75rem;
     border-radius: 12px;
+    text-decoration: none;
     transition: all 0.3s ease;
+    margin-bottom: 0.6rem;
+    width: fit-content;
 }
 
-.archive-tag:hover {
-    background: var(--rosso-accent);
-    color: white;
+.archive-category-tag:hover {
+    background: var(--rosso-scuro);
+}
+
+.archive-card-meta {
+    margin-top: auto;
+    padding-top: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    font-size: 0.8rem;
+    color: var(--testo-chiaro);
+}
+
+.archive-card-meta .archive-author {
+    font-weight: 500;
+    color: var(--testo);
 }
 
 /* ============================================
@@ -1391,24 +1344,17 @@ footer {
         padding: 6rem 1rem 3rem;
     }
 
-    .archive-year-badge {
-        font-size: 3.5rem;
-        top: -1.5rem;
-        left: 0;
+    .archive-year-title {
+        font-size: 2.2rem;
     }
 
-    .archive-card {
-        padding: 1.2rem 1.5rem;
+    .archive-month-title {
+        font-size: 1.3rem;
     }
 
-    .archive-card:hover {
-        transform: translateX(0) translateY(-3px);
-    }
-
-    .archive-card-footer {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 0.8rem;
+    .archive-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
     }
 
     /* Albero responsive */
@@ -1767,4 +1713,21 @@ footer {
     font-size: 0.85rem;
     color: var(--testo-chiaro);
     display: block;
+}
+
+/* ============================================
+   ARCHIVIO - BREAKPOINT MOBILE PICCOLO
+============================================ */
+@media (max-width: 480px) {
+    .archive-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .archive-year-title {
+        font-size: 1.8rem;
+    }
+
+    .archive-month-title {
+        font-size: 1.1rem;
+    }
 }
