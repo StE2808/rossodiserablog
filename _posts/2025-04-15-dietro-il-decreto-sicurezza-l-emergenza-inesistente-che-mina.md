@@ -11,7 +11,6 @@ tags: ["diritti", "diritti umani", "Etica", "Europa", "fascismo", "fascista", "g
 ---
 L'intervento dell'ONU contro il recente Decreto Sicurezza del governo Meloni rappresenta solo l'ultimo segnale d'allarme su un provvedimento che bypassa le normali procedure democratiche per imporre misure restrittive in assenza di una reale emergenza. Analizzando i dati sulla criminalità in Italia, emerge un quadro ben diverso da quello rappresentato dall'esecutivo per giustificare l'urgenza del decreto.
 
-    
 ## Un decreto senza emergenza: cosa dicono i numeri
 Secondo i dati del Ministero dell'Interno, i reati in Italia sono diminuiti del 5,5% nel periodo 2018-2023, con un calo ancora più marcato durante la pandemia. I delitti contro la persona hanno registrato una flessione del 7,2% nello stesso quinquennio.
 
@@ -19,25 +18,26 @@ Il rapporto ISTAT sulla criminalità indica che l'Italia si posiziona ben al di 
 
 Particolarmente significativo è il trend degli ultimi dieci anni che mostra una costante diminuzione dei reati predatori: -21% per le rapine, -18% per i furti in abitazione e -16% per i borseggi.
 
-    
 ## Libertà personali a rischio senza giustificazione
 Nonostante questi dati rassicuranti, il decreto introduce misure particolarmente invasive:
 
-     - Ampliamento delle fattispecie di reato associate al terrorismo con definizioni vaghe che potrebbero colpire legittime forme di protesta    - Inasprimento delle pene per blocchi stradali e occupazioni con soglie minime elevate    - Estensione dell'uso del daspo urbano anche in assenza di precedenti penali    - Nuove limitazioni alla libertà di manifestazione con sanzioni sproporzionate     L'Associazione Nazionale Magistrati ha evidenziato come l'80% delle disposizioni del decreto non risponda a criteri di necessità e urgenza previsti dall'art. 77 della Costituzione per i decreti legge.
+- Ampliamento delle fattispecie di reato associate al terrorismo con definizioni vaghe che potrebbero colpire legittime forme di protesta
+- Inasprimento delle pene per blocchi stradali e occupazioni con soglie minime elevate
+- Estensione dell'uso del daspo urbano anche in assenza di precedenti penali
+- Nuove limitazioni alla libertà di manifestazione con sanzioni sproporzionate
 
-    
+L'Associazione Nazionale Magistrati ha evidenziato come l'80% delle disposizioni del decreto non risponda a criteri di necessità e urgenza previsti dall'art. 77 della Costituzione per i decreti legge.
+
 ## La preoccupazione internazionale
 La denuncia dell'ONU non è isolata. Anche il Consiglio d'Europa, attraverso la Commissione di Venezia, ha espresso "seria preoccupazione per il potenziale impatto del decreto sulle libertà civili", sottolineando come misure simili in altri paesi europei abbiano portato a un aumento del 63% dei procedimenti giudiziari contro manifestanti pacifici.
 
 Amnesty International ha documentato che legislazioni analoghe in contesti europei hanno colpito in modo sproporzionato minoranze etniche (fino a 6 volte più frequentemente) e attivisti per i diritti civili.
 
-    
 ## Legalità costituzionale in discussione
 La Corte Costituzionale italiana ha ripetutamente ribadito, in sentenze come la 58/2018 e la 115/2020, che limitazioni alle libertà fondamentali possono essere imposte solo in presenza di rischi concreti e attuali, e devono rispettare il principio di proporzionalità.
 
 Il Decreto Sicurezza, invece, introduce restrizioni significative basandosi su percezioni di insicurezza piuttosto che su evidenze statistiche. Il 76% delle misure previste si applicherebbe a condotte non violente o già adeguatamente sanzionate dall'ordinamento vigente.
 
-    
 ## L'allarme della società civile
 L'Osservatorio per la Sicurezza Democratica ha evidenziato come nell'ultimo anno le manifestazioni pubbliche in Italia siano state accompagnate da incidenti solo nel 2,1% dei casi, una percentuale tra le più basse d'Europa.
 

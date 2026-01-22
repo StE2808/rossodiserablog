@@ -19,4 +19,10 @@ I dati raccontano una realtà interessante: la percezione del rischio criminale 
 
 Cosa può fare la sinistra? Servono proposte concrete, non slogan. Ad esempio:
 
-     - Rafforzare il diritto alla casa    - Potenziare la sanità pubblica    - Introdurre sostegni economici contro la povertà    - Sviluppare politiche urbane a misura di persona    - Investire nella prevenzione dei rischi climatici     È tempo che la sinistra affronti tutte queste sfide con un approccio sistemico, abbandonando quella visione "vetusta" che l'ha paralizzata negli ultimi trent'anni. Solo così potrà dare risposte concrete alle reali insicurezze dei cittadini.
+- Rafforzare il diritto alla casa
+- Potenziare la sanità pubblica
+- Introdurre sostegni economici contro la povertà
+- Sviluppare politiche urbane a misura di persona
+- Investire nella prevenzione dei rischi climatici
+
+È tempo che la sinistra affronti tutte queste sfide con un approccio sistemico, abbandonando quella visione "vetusta" che l'ha paralizzata negli ultimi trent'anni. Solo così potrà dare risposte concrete alle reali insicurezze dei cittadini.
