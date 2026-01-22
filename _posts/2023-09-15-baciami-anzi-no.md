@@ -27,7 +27,7 @@ Il bacio dell'Hotel de Ville, una foto scattata nel 1950 di **Robert Doisneau** 
 
 Mi domando se Doisneau si fosse ispirato ad un altro famosissimo bacio avvenuto solo qualche anno prima, nel 1945, a Times Square durante i festeggiamenti per la fine del conflitto tra USA e Giappone.
 
-Il marinaio e la crocerossina, durante i festeggiamenti per la fine del conflitto, si baciano. Il fotografo \*\*Alfred Eisenstaedt\*\* è anche lui in strada per documentare l'evento e gli scatta una foto in bianco e nero che divenne il simbolo della fine delle ostilità tra USA e Giappone. Tendiamo a pensare che l'estetica sia tutto nella fotografia, invece le foto che passano alla storia non sono esteticamente belle, ma raccontano storie memorabili, come contrapporre un bacio alla guerra, che è davvero memorabile.
+Il marinaio e la crocerossina, durante i festeggiamenti per la fine del conflitto, si baciano. Il fotografo **Alfred Eisenstaedt** è anche lui in strada per documentare l'evento e gli scatta una foto in bianco e nero che divenne il simbolo della fine delle ostilità tra USA e Giappone. Tendiamo a pensare che l'estetica sia tutto nella fotografia, invece le foto che passano alla storia non sono esteticamente belle, ma raccontano storie memorabili, come contrapporre un bacio alla guerra, che è davvero memorabile.
 
 Ricordate quella campagna contro le sigarette? "Se ti viene voglia di fumare, dalle un bacio". Ecco, se ti viene voglia di lanciare due bombe atomiche, coprila di baci.
 
