@@ -15,16 +15,13 @@ La Meloni di oggi  sembra essere la brutta copia di quella che era all'opposizio
 
 Insomma una gestione del fenomeno migratorio caotica, inefficiente, inefficace e soprattutto disumana. Forse sarebbe educativo, invece di definire invasori i migranti, ricordare  il flusso incessante che è partito dall’Italia verso altre parti più promettenti del mondo, quando noi eravamo "gli invasori": poveri, disperati, mal vestiti e poco o per nulla educati. Eravamo così, non per colpa nostra, esattamente come non è colpa di questi disperati la loro condizione, che li rende vulnerabili e disposti a tutto pur di tentare di trovare un "mondo migliore" dove ricominciare una esistenza decorosa. 
 
-    
-![](images/2023/09/img_4051.webp)
+![](/assets/images/2023/09/img_4051.webp)
 Invece per questo esecutivo, questi disperati sono numeri, nemici, invasori che metterebbero in pericolo l’italianità e non persone con storie, esperienze, famiglie. 
 
-    
-![](images/2023/09/img_4049.webp)
+![](/assets/images/2023/09/img_4049.webp)
 Penso sia utile rileggere questa poesia, scritta nel 1882, più attuale che mai. Che qualcuno inizi così a capire? Certo non gli esponenti di questo esecutivo ed i loro galoppìni, pronti sempre a tutto, pur di accaparrarsi qualche voto e disposti a scannarsi, anche tra di loro, pur di non farsi superare, sempre a destra, l’un l’altro. 
 
-    
-![](images/2023/09/img_4050.webp)
+![](/assets/images/2023/09/img_4050.webp)
 Gli emigranti
 
 Cogli occhi spenti, con lo guancie cave,
@@ -131,5 +128,4 @@ EDMONDO DE AMICIS
 
 POESIE, MILANO, FRATELLI TREVES, EDITORI, 1882
 
-    
-![](images/2023/09/img_4048.webp)
+![](/assets/images/2023/09/img_4048.webp)

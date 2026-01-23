@@ -25,5 +25,4 @@ L'impero americano ha finalmente gettato la maschera del 'difensore della democr
 
 Bentornati nel Medioevo 2.0, dove l'unica frontiera è quella del buon senso!"
 
-    
 # #Trump #Harris #usa

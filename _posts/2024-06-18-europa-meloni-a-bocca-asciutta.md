@@ -24,5 +24,4 @@ Con Meloni al governo, l'Italia perde il ruolo di primo piano che ha sempre avut
 
 Così, Von der Leyen ha fregato la furbetta Meloni. Forse alla fine, per accontentarla le rifileranno qualche posto mediocre come contentino.
 
-    
 ## GiorgiaMeloni #Meloni #Giorgia #G7

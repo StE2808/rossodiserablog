@@ -17,9 +17,6 @@ Un progetto portato avanti con metodo e cinismo e fa paura. Ma poi, chi ne è vi
 
 Siamo in mano a manipolatori particolarmente bravi. Poveri noi.
 
-    
 ## OdioSociale #Odio #manipolazionementale
-    
 
-    
-![](images/2023/09/img_3989.webp)
+![](/assets/images/2023/09/img_3989.webp)

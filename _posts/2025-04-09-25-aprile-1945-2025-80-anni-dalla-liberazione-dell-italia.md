@@ -43,5 +43,4 @@ La Festa della Liberazione non è solo un ricordo del passato, ma un monito per 
 
 Ricordare i partigiani, le forze alleate, il contributo dell'Armata Rossa e tutti coloro che hanno lottato contro il nazifascismo significa riconoscere che la libertà di cui godiamo oggi è frutto di un sacrificio collettivo che non deve essere dimenticato. Stride sentire e vedere l’Amministrazione Americana attuale come stia buttando alle ortiche tutta la sua storia ed i sacrifici estremi di tanti ragazzi, come fa male vedere la Russia contraddirsi nei principi più profondi fondanti la sua storia, la sua politica, il suo popolo glorioso. Non che in Italia si possa gioire, visto il presente governo che pare solo preso a garantirsi un futuro a tutti i costi, passando sopra democrazia, diritti, cittadini. La speranza resta in un risveglio collettivo dal torpore in cui pare caduta una grossa fetta del popolo. Bisogna iniziare a suonare la sveglia per una nuova Liberazione.
 
-    
 ## 25aprile #liberazione #festadellaliberazione #25aprile1945 #80annidallaliberazione

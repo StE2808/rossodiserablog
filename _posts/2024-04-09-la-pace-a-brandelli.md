@@ -21,6 +21,6 @@ Nella striscia di Gaza, l'incessante ciclo di violenza e repressione ha portato 
 
 Mentre il mondo guarda con orrore queste tragedie umane, è chiaro che la pace non può essere raggiunta fino a quando non si affrontano le cause sottostanti di questi conflitti, compresa l'ingiustizia, la disuguaglianza e l'ambizione politica.
 
-    È essenziale un impegno concertato da parte di tutte le nazioni per porre fine alla violenza, garantire la giustizia e promuovere una cultura di dialogo e rispetto reciproco. Solo allora la pace potrà essere ripristinata e la speranza per un futuro migliore potrà essere rinnovata.
+È essenziale un impegno concertato da parte di tutte le nazioni per porre fine alla violenza, garantire la giustizia e promuovere una cultura di dialogo e rispetto reciproco. Solo allora la pace potrà essere ripristinata e la speranza per un futuro migliore potrà essere rinnovata.
 
 Fino a quando carichi di armi partiranno verso quei territori, come è appena successo anche dal nostro paese, non potremo sperare ma solo disperare. Crosetto, il nostro ministro, interrogato sull’ultimo invio verso Israele, ha risposto:”c’è un contratto pregresso da onorare”, ma dimentica che l’Italia non può fornire legalmente armi a chi è in guerra e’ contro i principi fondamentali contenuti nella carta costituzionale. Crosetto un ministro grande almeno quanto il suo personale conflitto d’interessi. Dimissioni, dimissioni per iniziare un percorso credibile per la pace.

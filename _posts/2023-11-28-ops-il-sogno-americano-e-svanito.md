@@ -11,7 +11,7 @@ tags: ["America", "capitalismo", "Cina", "Europa", "India", "socialdemocrazia", 
 ---
 Lo si nota oramai in ogni angolo del pianeta ma soprattutto ci si fa caso quando accade negli USA: il capitalismo è in profonda crisi.
 
-     Ovviamente siamo portati a pensare che in America il socialismo sia considerato universalmente un male e che invece il capitalismo sia l’unica via. Siamo abituati a pensare* la terra dove tutto è possibile* come immune da difetti permanenti o da crisi sistemiche, i poveri  non come un problema ma come *momentaneamente non ricchi* e non come gente sfruttata e messa ai margini, rifiuto del processo produttivo, proletariato moderno. 
+Ovviamente siamo portati a pensare che in America il socialismo sia considerato universalmente un male e che invece il capitalismo sia l’unica via. Siamo abituati a pensare* la terra dove tutto è possibile* come immune da difetti permanenti o da crisi sistemiche, i poveri  non come un problema ma come *momentaneamente non ricchi* e non come gente sfruttata e messa ai margini, rifiuto del processo produttivo, proletariato moderno. 
 
 Ed invece il modello capitalistico è in profonda crisi. La crisi climatica ce lo ricorda, essendone figlia legittima. 
 
@@ -41,5 +41,4 @@ Il problema non è aver fatto la diagnosi ma il trovarne la cura. Infatti se la 
 
 Se è ovvio come il declino americano,  porti con sé il disinnamoramento verso il capitalismo, lo è ancor di più guardando quanto accade in Cina, dove forme super liberiste sono state applicate al sistema comunista  aggiungendo guasti prima non registrati in quello Stato come problemi di disuguaglianza e immobilismo sociale, indicando che le ingiustizie del capitalismo sono diffuse globalmente anche dove non ce lo si aspetta. La terza via social-democratica con una dose statalista importante sembra l’unica possibile soluzione per il raggiungimento di una certa giustizia sociale e per garantire pari opportunità ma anche per valorizzare i meriti e non il merito. 
 
-    
  https://flickr.com/photos/22526649@N03/33211325466

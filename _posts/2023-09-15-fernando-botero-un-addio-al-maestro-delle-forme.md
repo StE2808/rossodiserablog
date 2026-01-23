@@ -15,4 +15,4 @@ tags: ["Arte", "Bellezza", "Colombia", "Fernando Botero", "Forme", "Generazioni 
 
     **Un Addio, ma non un Addio all'Arte**: Sebbene la morte di Botero sia una perdita incommensurabile per il mondo dell'arte, il suo lascito continuerà a vivere attraverso le sue opere, che rimarranno eterne nei musei, nelle gallerie e nelle case di chi ha avuto la fortuna di incrociare il suo genio. 
 
-     In questo momento di lutto, è difficile trovare le parole giuste per esprimere l'importanza di Fernando Botero nel panorama artistico mondiale. Ma una cosa è certa: la sua arte, intrisa di umanità, calore e una profonda comprensione della condizione umana, continuerà a ispirare le generazioni future.
+In questo momento di lutto, è difficile trovare le parole giuste per esprimere l'importanza di Fernando Botero nel panorama artistico mondiale. Ma una cosa è certa: la sua arte, intrisa di umanità, calore e una profonda comprensione della condizione umana, continuerà a ispirare le generazioni future.

@@ -13,8 +13,7 @@ Accadde oggi…
 
 Oh, che meraviglia! Nel regno incantato della giustizia selettiva, il voto popolare è la bacchetta magica che fa sparire 34 capi d'imputazione come per magia! Perché preoccuparsi di dettagli come "prove" o "tentato colpo di stato" quando hai milioni di follower sul social Truth? Ovviamente non due pesi e due misure ma tanti pesi e tantissime misure per vestire a pennello i potenti e spavaldi.
 
-    
-![](images/2025/01/img_5993-1.webp)
+![](/assets/images/2025/01/img_5993-1.webp)
 E in Italia? Ma che spettacolo! I nostri governanti stanno studiando uno per scudo magico per permettere alle divise di farla franca anche se commettano abusi, tipo inseguire diciannovenni in moto fino alla morte. Insomma permettere l’applicazione della pena di morte senza nemmeno passare per un processo. Infatti
 non fermarsi all'alt praticamente verrebbe a rappresentare un crimine contro l'umanità da punire con il massimo sacrificio.
 
@@ -30,5 +29,4 @@ Insomma se volessimo cambiare il finale di questo show, dovremmo veramente darci
 
 P.s.: spoiler del finale - l’Europa politica ed economica sparisce grazie ad un cavallo di Troia portato in casa nostra da Giorgia. Tutti gli stati del vecchio continente vengono governati e gestiti da una sola società che delega dei politicanti venduti. I cittadini perdono ogni status se non quello di consumatori, però senza diritto di recesso. Ecco il nuovo volto di un vecchio spettro che cento anni fa era durato un ventennio. Amen
 
-    
 ## governo #europa #Eu #usa #Trump #musk #GovernoMeloni

@@ -47,5 +47,4 @@ Il risultato? L'Italia si ritrova più isolata di prima, con un'Europa divisa ch
 
 Il ponte è crollato prima ancora di essere completato. E noi restiamo qui, su una sponda, a guardare l'acqua che scorre e a chiederci se davvero pensavamo che sarebbe finita diversamente.
 
-    
 ## Meloni #trump #europa #Eu #dazi #tariffs

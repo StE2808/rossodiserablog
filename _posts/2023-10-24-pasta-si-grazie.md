@@ -24,10 +24,8 @@ Mangiare pasta, poi, a cena, magari senza esagerare, certamente, ha degli indubb
 
 Che la pasta sia un alimento difficile da digerire è poi ovviamente non corretto, semmai è il suo condimento ad esserlo o meno. La cottura al dente, poi, può agevolarne la digeribilità. Infatti una pasta troppo cotta che, perde molte delle sue proprietà e tende a diventare come una colla nel tubo digerente, rendendo più difficile la sua digestione.
 
-    
 C'è poi un ulteriore mito da sfatare: il fatto che togliendo la pasta dalla dieta permetta un dimagramento più o meno rapido. Niente di più sbagliato, infatti togliendo i carboidrati e quindi limitando l'apporto energetico, si ha certamente un calo ponderale ma, l'uso di diete troppo restrittive peggiora la composizione corporea, ci si disidrata e si perde massa magra muscolare che porta ad un calo del fabbisogno energetico. Questa situazione rallenta le funzioni corporee alterando il metabolismo.
 
-    
 La pasta senza glutine poi, con il suo contenuto variabile di zuccheri e grassi addizionati per varie ragioni non è certo indicata tra chi non ha accertate allergie o severe intolleranze.
 
 E’ invece auspicabile variare il cereale e scegliere tra pasta di grano, di farro, di mais, di riso, di quinoa, di grano saraceno, di legumi, di soia, bianca o integrale; questa varietà consente di beneficiare di proprietà differenti, introducendo nutrienti diverso all’interno della nostra alimentazione. La pasta è un "cibo alleato” conclude la dottoressa Graziano.

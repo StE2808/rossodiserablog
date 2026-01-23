@@ -21,5 +21,4 @@ Ma shhh! Non ditelo al "popolino"! Potrebbero scoprire che questo "patriottismo"
 
 Peccato che questa straordinaria performance sia stata solo in spagnolo stentato. Avremmo tanto voluto sentirla anche in italiano… magari con i sottotitoli in "sovranista".​​​​​​​​​​​​​​​​
 
-    
 ## Salvini #GovernoMeloni #patrioti #sovranisti #Orban #Wilders #LePen

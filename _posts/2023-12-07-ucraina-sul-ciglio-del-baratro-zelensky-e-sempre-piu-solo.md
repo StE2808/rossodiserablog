@@ -19,7 +19,7 @@ La cosiddetta controffensiva, per ammissione degli stessi alti ufficiali ucraini
 
 L'aria che tira al Congresso USA infatti è cambiata, sicuramente sarebbero stati pochi gli applausi (che invece erano apparsi interminabili appena un anno fa) sostituiti magari da qualche fischio.
 
-     E così la delegazione ucraina andata a pietire armi e denari, si vede sbarrare la strada dall'annuncio dei deputati repubblicani di voler bloccare la votazione per il rinnovo degli aiuti economici all’Ucraina. 
+E così la delegazione ucraina andata a pietire armi e denari, si vede sbarrare la strada dall'annuncio dei deputati repubblicani di voler bloccare la votazione per il rinnovo degli aiuti economici all’Ucraina. 
 
 Visto che Biden sembra aver perso il controllo del Congresso, a poco è servito il suo appello in cui ha dichiarato "E' una follia il mancato sostegno all’Ucraina,  è contro gli interessi degli Stati Uniti". Intanto la delegazione guidata dal capo di gabinetto ucraino Yermak ha dichiarato che se gli aiuti dovessero arrivare in ritardo ulteriore sarà "impossibile continuare la liberazione dei territori occupati e questo creerà un grande rischio di perdere la guerra".
 

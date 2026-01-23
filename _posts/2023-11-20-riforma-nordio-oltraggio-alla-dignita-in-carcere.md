@@ -28,9 +28,8 @@ Breve annotazione: una evidente rilettura del regolamento carcerario fascista de
 
 Nella speranza che la palese anticostituzionalità di questo provvedimento non ne permetta l'approvazione, si palesa chiaramente l'estremo tentativo di tener fede ad un punto della campagna elettorale speso dal sottosegretario Dalmastro delle Vedove nei confronti della Polizia Penitenziaria alla quale è più facile permettere tolleranza zero perché è a costo zero invece che assunzioni, acquisto di mezzi e tecnologie oltre che ammodernamento di strutture oramai risalenti al Paleolitico carcerario. 
 
-    
-![](images/2023/11/img_4302-1.webp)
-     
-![](images/2023/11/img_4303-1.webp)
-    
-![](images/2023/11/img_4304-1.webp)
+![](/assets/images/2023/11/img_4302-1.webp)
+
+![](/assets/images/2023/11/img_4303-1.webp)
+
+![](/assets/images/2023/11/img_4304-1.webp)

@@ -25,7 +25,7 @@ Invece, si suggerisce un insegnamento basato sul "coinvolgimento anche emotivo e
 
 Sebbene la narrazione sia indubbiamente un potente strumento didattico, un approccio che marginalizza l'educazione al metodo critico rischia di trasformare l'insegnamento della storia in qualcosa che assomiglia più alla propaganda che a una disciplina basata su un metodo rigoroso di indagine. La storia non è solo il racconto di "ciò che è successo", ma anche e soprattutto un metodo per indagare criticamente il passato, valutare le fonti, confrontare le interpretazioni.
 
-    È significativo che, mentre si descrive dettagliatamente cosa gli studenti dovrebbero sapere (eventi, date, personaggi), si dedichi poco spazio a cosa dovrebbero saper fare: analizzare documenti, confrontare versioni diverse dello stesso evento, riconoscere bias e prospettive nella narrazione storica.
+È significativo che, mentre si descrive dettagliatamente cosa gli studenti dovrebbero sapere (eventi, date, personaggi), si dedichi poco spazio a cosa dovrebbero saper fare: analizzare documenti, confrontare versioni diverse dello stesso evento, riconoscere bias e prospettive nella narrazione storica.
 
 ## La storia come identità: tra conoscenza e metodo critico
 Il documento individua come uno degli obiettivi primari dell'insegnamento della storia quello di "far maturare nell'alunno la consapevolezza della propria identità di persona e di cittadino". Questa finalità identitaria, sebbene legittima, diventa problematica quando si combina con una visione della storia che privilegia la narrazione predefinita rispetto all'indagine critica.

@@ -41,7 +41,7 @@ Il Decreto Sicurezza, invece, introduce restrizioni significative basandosi su p
 ## L'allarme della società civile
 L'Osservatorio per la Sicurezza Democratica ha evidenziato come nell'ultimo anno le manifestazioni pubbliche in Italia siano state accompagnate da incidenti solo nel 2,1% dei casi, una percentuale tra le più basse d'Europa.
 
-    "Questo decreto risponde a un'emergenza che non esiste nei dati ma solo nella narrazione politica", ha dichiarato l'Associazione per i Diritti Costituzionali. "Criminalizzare la protesta sociale in un momento di difficoltà economica rappresenta una pericolosa distorsione degli strumenti di governo".
+"Questo decreto risponde a un'emergenza che non esiste nei dati ma solo nella narrazione politica", ha dichiarato l'Associazione per i Diritti Costituzionali. "Criminalizzare la protesta sociale in un momento di difficoltà economica rappresenta una pericolosa distorsione degli strumenti di governo".
 
 La scelta di bypassare il normale iter parlamentare per un provvedimento così incisivo sui diritti fondamentali, come denunciato dall'ONU, solleva interrogativi sulla reale motivazione dietro questa accelerazione normativa in assenza di un'emergenza oggettiva.
 

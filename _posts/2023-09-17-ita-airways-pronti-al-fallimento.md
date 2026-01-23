@@ -15,7 +15,7 @@ Infatti sarebbe prevista una riduzione degli aeromobili da 130 a circa 80 ed una
 
 Nelle trattative era emersa anche la pressante richiesta di totale discontinuità col passato, in parte garantita dallo sdoppiamento della azienda con una bad-company (Alitalia) ma sicuramente non abbastanza, visti i contenziosi coi lavoratori e con i creditori attualmente in corso e quelli certamente in divenire.
 
-     E così, tra un po', scopriremo, molto probabilmente, che a Lufthansa non importa abbastanza della nostra ITA. Risultato? Un fallimento, l'ennesimo, magari camuffato, oppure un altro dissanguamento del contribuente italiano attraverso l'ennesima immissione di denaro da parte del nostro glorioso Stato.
+E così, tra un po', scopriremo, molto probabilmente, che a Lufthansa non importa abbastanza della nostra ITA. Risultato? Un fallimento, l'ennesimo, magari camuffato, oppure un altro dissanguamento del contribuente italiano attraverso l'ennesima immissione di denaro da parte del nostro glorioso Stato.
 
 Certo è che chi ci governa non ci sa fare nemmeno un po' e complicando inutilmente la faccenda immigrazione con la Germania e la Francia, certamente non si è guadagnato nemmeno un brownie point, un punto simpatia, che in politica internazionale aiuta eccome. 
 

@@ -13,14 +13,12 @@ Fleximan l'ultimo eroe dei sovranisti, dei frustrati, dei disillusi in cerca di 
 
 Fleximan che, per esempio gli attivisti del movimento sovranista ligure Pro-Italia definiscono "L'eroe che non ci meritiamo ma di cui abbiamo bisogno" non è poi un solo figuro ma tanti piccoli uomini che si muovono di notte con in mano un flessibile.
 
-    
-![](images/2024/02/img_4564-1.webp)
+![](/assets/images/2024/02/img_4564-1.webp)
 Fleximan, un simbolo al quale attaccarsi più che una persona in carne e ossa. Una figura che è divenuta mitologica grazie alle mille rappresentazioni che sono state realizzate dall'intelligenza artificiale, che ha afferrato quasi sempre molto argutamente dei tratti distintivi comuni che lo raffigurano con un corpo palestrato, agile e dal taglio netto e preciso.
 
 Esistono oramai versioni ufficiali con la F stampata sul petto, ma anche altre con un passamontagna, il cappuccio della felpa sulla testa, il flessibile invece è d'ordinanza.
 
-    
-![](images/2024/02/img_4565-1.webp)
+![](/assets/images/2024/02/img_4565-1.webp)
 Insomma una riedizione del personaggio interpretato da Uma Thurman nel film Kill Bill, con in più l'immancabile flessibile.
 
 E così, gli attivisti del movimento sovranista di Pro Italia hanno lanciato una raccolta fondi per pagare le spese legali di quel tizio, che prima o poi verrà beccato. Sicuramente avremo tutti un sussulto quando scopriremo che la figura sarà abbastanza diversa dall'immagine dell'eroina realizzata dall'intelligenza artificiale, e, quando beccato con la smerigliatrice ancora fumante, avrà comunque l'avvocato pagato…

@@ -19,7 +19,7 @@ Le sue ultime parole, affidate all'associazione Luca Coscioni, sono il suo testa
 
 Ecco la lezione che ci lascia Laura: la libertà di autodeterminazione non è un lusso filosofico, è un diritto umano fondamentale. È il coraggio di dire che l'amore per la vita include anche il diritto di decidere quando e come congedarsi da essa, quando il dolore diventa insostenibile.
 
-    "Io sto per morire. Non potete capire che senso di libertà dalle sofferenze, dall'inferno quotidiano che ormai sto vivendo", ci ha detto. E poi: "State tranquilli per me. Io mi porto di là sorrisi, credo che sia così. Mi porto di là un sacco di bellezza che mi avete regalato. E vi prego: ricordatemi".
+"Io sto per morire. Non potete capire che senso di libertà dalle sofferenze, dall'inferno quotidiano che ormai sto vivendo", ci ha detto. E poi: "State tranquilli per me. Io mi porto di là sorrisi, credo che sia così. Mi porto di là un sacco di bellezza che mi avete regalato. E vi prego: ricordatemi".
 
 Lo stiamo facendo, Laura. Lo faremo sempre. Perché hai trasformato il tuo ultimo atto in una lezione di dignità, dimostrando che la vera libertà non sta solo nel vivere, ma anche nel poter scegliere come concludere la propria storia quando tutto il resto sfugge di mano.
 Buon viaggio Laura, ora sei davvero libera.

@@ -31,6 +31,5 @@ In definitiva, e' certamente giunta l'ora di strutturare una riflessione più pr
 
 Il nostro approccio alla vita, incluso ciò che mettiamo nel nostro piatto, ha un impatto sul mondo che parte dello spazio tra forchetta e bocca. 
 
-    
-![](images/2023/10/img_4164-1.webp)
+![](/assets/images/2023/10/img_4164-1.webp)
     <img alt="" />

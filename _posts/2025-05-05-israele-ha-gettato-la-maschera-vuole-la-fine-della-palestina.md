@@ -25,4 +25,4 @@ Questa posizione passiva del nostro governo rappresenta una grave mancanza di re
 
 La storia dell'occupazione palestinese è una storia di sofferenza, di diritti negati e di promesse infrante. Oggi, di fronte all'aggravarsi di questa situazione, l'inazione diventa complicità. La comunità internazionale, inclusa l'Italia, sarà chiamata a rispondere davanti alla storia per il suo silenzio e per la sua incapacità di agire di fronte a questa tragedia umana.
 
-    È tempo che il nostro governo abbandoni l'ambiguità e prenda una posizione chiara e coerente con i valori di pace, giustizia e rispetto dei diritti umani su cui è fondata la nostra Repubblica.
+È tempo che il nostro governo abbandoni l'ambiguità e prenda una posizione chiara e coerente con i valori di pace, giustizia e rispetto dei diritti umani su cui è fondata la nostra Repubblica.

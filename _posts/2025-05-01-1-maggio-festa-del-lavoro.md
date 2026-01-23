@@ -33,7 +33,7 @@ L'attuale governo, nonostante le dichiarazioni di facciata sulla sicurezza sul l
 
 Contemporaneamente, si continuano a promuovere forme di flessibilità che spesso si traducono in precarietà e minor tutela per i lavoratori. I tagli alla spesa pubblica hanno ridotto anche le risorse per la formazione sulla sicurezza, mentre il Piano Nazionale di Prevenzione 2022-2025 è rimasto in gran parte inattuato.
 
-    È urgente cancellare la controriforma del lavoro che hanno chiamato Jobs Act.
+È urgente cancellare la controriforma del lavoro che hanno chiamato Jobs Act.
 
 Ben venuto Referendum, 8 e 9 giugno cinque SÌ senza nessun tentennamento!
 

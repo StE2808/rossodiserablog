@@ -17,5 +17,4 @@ I nostri cosa chiedono? Vorrebbero poter concimare chimicamente senza restrizion
 
 Non sembra abbiano chiaro che continuando così fanno il gioco delle multinazionali che dicono di voler contrastare. Dovrebbero invece puntare sulla qualità, sui prodotti di nicchia, sul bio. Tutte cose che non temono rivalità, invece…
 
-    
-![](images/2024/02/img_4545-1.webp)
+![](/assets/images/2024/02/img_4545-1.webp)

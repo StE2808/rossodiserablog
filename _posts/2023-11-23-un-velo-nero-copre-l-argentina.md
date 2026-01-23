@@ -31,5 +31,4 @@ Purtroppo quella situazione sembra essere, oggi, profondamente modificata, Milei
 
 Ovviamente appare sempre più isolato il presidente brasiliano Lula e le sue recenti decisioni di cambiamenti nella sfera governativa per cercare di ottenere l’appoggio del cosiddetto Centrão alla riforma tributaria. Ma nulla in confronto all'eterno isolamento sempre più marcato ed asfissiante del  governo socialista cubano al quale Biden sta inasprendo sempre di più le sanzioni economiche che stanno sfinendo la già martoriata economia cubana.
 
-    
-![](images/2023/11/img_4312.webp)
+![](/assets/images/2023/11/img_4312.webp)

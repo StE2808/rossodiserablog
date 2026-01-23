@@ -47,7 +47,6 @@ Quella dei Black-Eyed Children è una leggenda molto diffusa negli Stati Uniti e
 
 Ma chi è la dottoressa Viviane Brunet? E' un medico messicano specializzatasi in ginecologia e ostetricia presso l’Università Autonoma di Nuevo León. Fa parte della Coalición Mundial Salud y Vida (COMUSAV), una associazione che ha promosso l’uso del biossido di cloro per il trattamento della Covid-19 e altre malattie. Parliamo di una tesi pseudoscientifica (come spiegato dai colleghi di Reuters) sostenuta anche da Brunet. Si trovano sue precedenti affermazioni No vax fin dagli inizi della pandemia. Per approfondire suggeriamo il fact-checking dei colleghi di Verificador.
 
-    
-![](images/2023/09/black-eyed-kids-legend.webp)
-    
+![](/assets/images/2023/09/black-eyed-kids-legend.webp)
+
 Alla fantasia non c’è mai limite. I gruppi No vax hanno già mostrato di saper riciclare narrazioni diverse adattandole a eventi attuali. Ma qui è stato fatto addirittura un crossover mettendo assieme grafene, 5G e la leggenda metropolitana dei Black-Eyed Children. Ovviamente di tutto questo non c’è nessuna prova, solo filmati di scarsa qualità e foto fuori contesto.

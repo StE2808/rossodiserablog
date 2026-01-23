@@ -17,5 +17,4 @@ Ma siccome questo vaso era sopra il livello del suolo, quindi era visibile, chi 
 
 Inadatto e pericoloso lo è un premier che in pubblico ed in parlamento mantiene una linea alla quale poi dimostra di non credere neanche lei. Saltando a piè pari le tristi vicende personali col massaggiatore di pacco, stiamo parlando di una bugiarda sbugiardata da se stessa, e' bastato uno scherzo adolescenziale, uno scherzo telefonico di due comici. Non siamo messi per niente bene.
 
-    
-![](images/2023/11/img_4211-1.webp)
+![](/assets/images/2023/11/img_4211-1.webp)

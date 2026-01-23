@@ -27,7 +27,6 @@ E comunque esiste uno Stato al mondo dove non esiste la microcriminalità? La ri
 
 L'Italia è tra i paesi più sicuri d'Europa: parlano i numeri e le statistiche. E l'Europa è il continente più sicuro del mondo. Questi sono fatti, statistiche da dati ufficiali, non percezioni, anche se fa comodo farci sentire insicuri, incerti, spaventati. Poi arriva, così, la Meloni e fa un blitz dove non riesce ad arrestare nessuno ma afferma invece di aver sistemato il disagio, la povertà, la disperazione, l’ignoranza e lo fa anche lei con un colpo di clava.
 
-    
 # 
-    
-![](images/2023/09/img_4013.webp)
+
+![](/assets/images/2023/09/img_4013.webp)

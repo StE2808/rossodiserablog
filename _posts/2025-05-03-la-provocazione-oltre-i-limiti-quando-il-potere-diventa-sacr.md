@@ -11,7 +11,7 @@ tags: ["diritti", "Economia", "Etica", "giustizia", "Governo", "mercato", "odio"
 ---
 L'immagine è apparsa all'improvviso, scioccante nella sua arroganza: Donald Trump vestito da Pontefice. Non un meme anonimo circolato nei meandri dei social, ma un contenuto ufficialmente pubblicato sulla pagina della Casa Bianca e sull'account personale del Presidente.
 
-    È il culmine di una dichiarazione che solo 24 ore prima aveva già sollevato onde di indignazione: "Vorrei diventare Papa. Sarebbe la mia prima scelta. Penso che sarei un grande Papa. Nessuno lo farebbe meglio di me". Parole che, in bocca a qualsiasi altro leader mondiale, avrebbero provocato una crisi diplomatica immediata.
+È il culmine di una dichiarazione che solo 24 ore prima aveva già sollevato onde di indignazione: "Vorrei diventare Papa. Sarebbe la mia prima scelta. Penso che sarei un grande Papa. Nessuno lo farebbe meglio di me". Parole che, in bocca a qualsiasi altro leader mondiale, avrebbero provocato una crisi diplomatica immediata.
 
 Ci troviamo ben oltre il semplice scivolone comunicativo. Questo gesto rappresenta un triplice affronto.
 

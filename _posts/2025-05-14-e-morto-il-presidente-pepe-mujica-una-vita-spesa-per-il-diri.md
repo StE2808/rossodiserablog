@@ -13,7 +13,7 @@ E' rimbalzata sui social la notizia della scomparsa del Presidente José "Pepe" 
 
 Uomo semplice e di principi incrollabili, Mujica ha vissuto i suoi 78 anni con una coerenza rara nel panorama politico mondiale. Ex guerrigliero che conobbe la durezza di 15 anni di carcere durante la dittatura, non permise mai che le sofferenze del passato offuscassero la sua visione luminosa dell'umanità.
 
-    "Non veniamo alla luce per svilupparci solamente," amava ripetere, "veniamo alla luce per essere felici. Perché la vita è corta e se ne va via rapidamente." Questa convinzione profonda ha guidato le sue scelte, sia politiche che personali.
+"Non veniamo alla luce per svilupparci solamente," amava ripetere, "veniamo alla luce per essere felici. Perché la vita è corta e se ne va via rapidamente." Questa convinzione profonda ha guidato le sue scelte, sia politiche che personali.
 
 Mentre occupava la più alta carica dello Stato, ha continuato a vivere nella sua modesta casa colonica con la moglie e il suo fedele cane a tre zampe, devolvendo il 90% del suo stipendio in beneficenza. "Povero non è colui che tiene poco, ma colui che necessita tanto e desidera ancora di più," ricordava citando gli antichi pensatori.
 

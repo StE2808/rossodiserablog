@@ -20,5 +20,4 @@ La morte di questo giovane bracciante agricolo indiano ci richiama a riflettere 
 
 Questo governo, tanto impegnato nella difesa della vita, anche inserendo membri delle associazioni pro-vita nei consultori, nello strenuo tentativo di salvare una vita potenziale, quella di un feto ancora non formato, dimentica bambini già nati e li lascia affogare nel mediterraneo. Parimenti si disinteressa a politiche attive che facilitino la natalità. E poi vorrebbe decidere anche del fine vita. Insomma una gran confusione. Viva la vita prima della nascita, chi se ne frega durante tutta la vita vissuta ma guai a pretendere di morire decorosamente. La schizofrenia al potere.
 
-    
 # #infortunisullavoro #GovernoMeloni #braccianti

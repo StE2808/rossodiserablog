@@ -29,5 +29,4 @@ La Meloni ci ha così promesso la Terza Repubblica, visto che la prima ce la sia
 
 Pretendere di avere il 55% di premio di maggioranza vuol poi dir perdere il controllo ed affidarlo ad un premier o meglio a questa premier che sogna il grande salto di qualità.
 
-    
  https://www.flickr.com/photos/voxespana/51577434768/

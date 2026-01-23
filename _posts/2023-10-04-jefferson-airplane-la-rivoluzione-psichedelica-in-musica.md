@@ -29,6 +29,6 @@ I Jefferson Airplane sono stati molto più di una semplice rock band. Sono stati
 ## White Rabbit
 Un classico del rock, White Rabbit dei Jefferson Airplane è un viaggio acido e psichedelico scritto dalla cantante della band Grace Slick e ispirato al racconto di Lewis Carroll di "Alice nel Paese delle Meraviglie".
 
-     Slick scrisse infatti la canzone mentre, sotto effetto di acidi, si mise ad ascoltare 'Sketches Of Spain' di Miles Davis per 24 ore consecutive. E' da lì che arriva l'ispirazione per il ritmo della canzone, così come dal Bolero di Maurice Ravel.
+Slick scrisse infatti la canzone mentre, sotto effetto di acidi, si mise ad ascoltare 'Sketches Of Spain' di Miles Davis per 24 ore consecutive. E' da lì che arriva l'ispirazione per il ritmo della canzone, così come dal Bolero di Maurice Ravel.
 
 Grazie LSD? =)

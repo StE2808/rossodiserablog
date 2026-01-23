@@ -20,10 +20,8 @@ Permette poi il miglioramento della sicurezza economica. Infatti garantisce una 
 Promuove l’uguaglianza sociale poichè contribuisce a ridurre le disuguaglianze e a garantire a tutti un livello di partenza equo.
 Rafforza la libertà individuale visto che permette alle persone di fare scelte più autonome e perseguire opportunità di crescita personale.
 
-    
 Ovviamente questa fonte di reddito ha molti detrattori che contestano  una presunta  disincentivazione al lavoro. Molte persone, soprattutto non un livello di scolarizzazione medio-basso, temono che ricevere un reddito senza condizioni possa scoraggiare la partecipazione al mercato del lavoro. Questo timore, se in parte fondato, riveste un valore strategico nella salvaguardia delle retribuzioni dei lavoratoti. Infatti lavorerebbe certamente quella grande fetta di lavoratori che amano il proprio impiego e tutti quelli che si realizzano o si identificano in quello che fanno. Tutti gli altri potrebbero scegliere se lavorare o ritirarsi ed occuparsi di passioni che renderebbero migliori perché soddisfatti anche quei cittadini. Il primo risultato sarebbe che il datore di lavoro si vedrebbe costretto a rinunciare a tutti quelle forme di lavoro che sottopagano e sfruttano il lavoratore.  
 
-    
 Un ulteriore cruccio dei detrattori di questa forma reddituale è il potenziale impatto sui bilanci pubblici. Certamente per finanziare il reddito universale richiede risorse significative e potrebbe influenzare il bilancio dello Stato, anche se si è visto dove è stato già sperimentato che poi, alla fine, l'impatto sarebbe sopportabile dalle finanze degli stati europei.
 C'è poi un dilemma sulla determinazione dell’importo appropriato.  Trovare l’importo giusto del reddito è una sfida complessa ma che in molto Stato hanno già vinto. L'ultimo rovello riguarda l'effetto inflazionistico. Infatti alcune preoccupazioni riguardano il fatto che l’introduzione del reddito universale possa innescare l’inflazione.
 

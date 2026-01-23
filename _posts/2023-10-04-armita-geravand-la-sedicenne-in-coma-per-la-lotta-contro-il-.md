@@ -9,7 +9,7 @@ description: "![](images/2023/10/img_5287.webp) In un mondo in cui l'espressione
 category: cronaca-bianca
 tags: ["Armita Geravand", "Cultura", "diritti delle donne", "giovani donne iraniane", "giustizia", "libert\u00e0 di espressione", "lotta per i diritti", "Mahsa Amini", "polizia morale", "repressione", "Repubblica Islamica dell\u2019Iran", "resistenza", "Solidariet\u00e0", "Tehran"]
 ---
-![](images/2023/10/img_5287.webp)
+![](/assets/images/2023/10/img_5287.webp)
 In un mondo in cui l'espressione personale dovrebbe essere un diritto inalienabile, ci sono ancora luoghi in cui il semplice atto di mostrare i propri capelli può portare a conseguenze tragiche. Questa è la storia di Armita Geravand, una giovane iraniana di 16 anni, che ha recentemente vissuto la crudele realtà della repressione culturale e religiosa nel suo paese.
 
 Armita, originaria di Kermanshah, è diventata il simbolo di una lotta che va ben oltre il suo caso personale. Il 1° ottobre 2023, mentre era in viaggio verso il conservatorio, alla stazione della metropolitana Shohda di Tehran, è stata aggredita dalla polizia morale della Repubblica Islamica dell'Iran per non aver rispettato le leggi obbligatorie sul velo. Quest'aggressione la ha ridotta in coma, rievocando dolorosi ricordi di un caso simile avvenuto un anno fa, quello di Mahsa Amini, una giovane donna che è tragicamente deceduta in circostanze analoghe.

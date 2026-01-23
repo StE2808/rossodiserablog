@@ -27,5 +27,4 @@ Hanno demolito la radio-televisione di Stato, la RAI che hanno occupato in toto,
 
 C'è un tizio, qualche anno fa che aveva fatto una affermazione che ancora oggi è più che mai attuale: "Per abbattere i padroni, prima bisogna eliminare i loro servi, cioè quella massa di gente senza idee e senza principi". Ecco, per poter mettere in pratica questo principio basterebbe dichiarare guerra all'ignoranza, voler elevare la media della consapevolezza tra la gente, rendere la fruizione della cultura popolare (da non confondere con la popolarizzazione, lo svilimento della cultura che è l'opposto ed è proprio quello che è accaduto). Solo così si potrà riuscire a ritrovare una coesione sociale che porti frutti per tutti.
 
-    
-![](images/2023/09/img_3995.webp)
+![](/assets/images/2023/09/img_3995.webp)

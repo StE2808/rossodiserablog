@@ -25,5 +25,4 @@ Nella realtà della cella italiana, intanto, in un angolo remoto del suo cervell
 
 E così, tra applausi e pacche sulle spalle, Enrico "Chico" Forti continuava a vivere la sua vita straordinariamente mediocre, con un sorriso sornione e una risata sempre pronta, sapendo che, a volte, la realtà può essere più assurda della finzione.
 
-    
-![](images/2024/05/img_4987-1.webp)
+![](/assets/images/2024/05/img_4987-1.webp)

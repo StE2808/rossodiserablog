@@ -19,7 +19,7 @@ La situazione assume contorni ancora più drammatici nel mondo del lavoro. I med
 
 Persino nel commercio, l'antica pratica del "comparaggio" - quella dei nipotini di Achille Lauro che consegnano prima una scarpa e poi l'altra - ritorna come un fantasma dal passato, simbolo di un sistema di dipendenza e favori che credevamo superato. Magari non è più una calzatura a fare la differenza, oggi quelle cinesi sono alla portata pressoché di tutti, ma certamente gli oggetti o i servigi sono comunque merce ma anche le sempiterne mazzette o come le regalie.
 
-    È una mendicità istituzionalizzata, quasi costituzionalizzata, che si nutre di una narrativa politica che guarda all'estero non per emularne i successi, ma per giustificare le proprie manchevolezze. Si cerca conforto nelle vittorie di Trump, nelle presunte sconfitte dei socialdemocratici tedeschi, nelle fragili tregue in territori di guerra, come se il declino altrui potesse nobilitare la nostra discesa.
+È una mendicità istituzionalizzata, quasi costituzionalizzata, che si nutre di una narrativa politica che guarda all'estero non per emularne i successi, ma per giustificare le proprie manchevolezze. Si cerca conforto nelle vittorie di Trump, nelle presunte sconfitte dei socialdemocratici tedeschi, nelle fragili tregue in territori di guerra, come se il declino altrui potesse nobilitare la nostra discesa.
 
 Questa nuova forma di mendicità nazionale non è frutto del caso, ma il risultato di precise scelte politiche che hanno progressivamente eroso la dignità del lavoro, dell'impresa, della professionalità. Un governo che, invece di promuovere l'autonomia e l'iniziativa, sembra preferire sudditi riconoscenti a cittadini consapevoli. Anche i politici vengono scelti non per le loro capacità ma per la loro fedeltà al capo o, meglio, alla Capa.
 
@@ -27,5 +27,4 @@ La rassegnazione che pervade il paese non è quiete, è paralisi. Non è attesa,
 
 L'Italia dei mendicanti non è una condanna della storia, è una scelta politica. Una scelta che può - e deve - essere rovesciata prima che la dignità nazionale diventi solo un ricordo nei libri di storia.
 
-    
 # #GovernoMeloni #melonidimettiti #Trump #economia #mendicità #poverta

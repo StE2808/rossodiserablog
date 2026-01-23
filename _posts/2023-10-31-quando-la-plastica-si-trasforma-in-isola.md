@@ -11,8 +11,7 @@ tags: ["inquinamento", "isola", "isola di plastica", "microplastica. microplasti
 ---
 Bottiglie, flaconi, contenitori, cassette, imballaggi, fogli e sacchetti: così siamo abituati ad immaginarci la plastica. Tutti sappiamo, poi, che è presente nei corsi d'acqua e quindi nei mari. Sempre più comune è poi la conoscenza dell'esistenza e dei problemi connessi al suo sfaldamento che genera microplastiche: parliamo di piccole particelle, appunto, di materiale plastico generalmente più piccole di un millimetro fino a livello micrometrico. Queste piccole e piccolissime parti di plastica si infiltrano nell’ambiente e negli alimenti ed entrano pericolosamente nell'ecosistema e quindi negli esseri viventi sia animali che piante e mettono a repentaglio la salute umana.
 
-    
-![](images/2023/10/waste_cocobeach_india.webp)
+![](/assets/images/2023/10/waste_cocobeach_india.webp)
 Come detto, le plastiche ma anche già le microplastiche sono trasportate dai fiumi e sversate nei mari ed ovviamente negli oceani.
 
 Già a metà degli anni '90 si era riusciti ad individuare un ammasso di plastiche, soprattutto frantumate, frammiste a legname. Quest'isola, nata dalla capacità delle correnti marine di concentrare in un quel determinato quadrante il materiale galleggiante, è in continua evoluzione e è tendente alla crescita. Essendo un ammasso non solido, cambia forma e dimensione ed è quindi di difficile quantificazione: si stima infatti che abbia una estensione tra i 700mila km² ed i 10 milioni di km².  Una landa sconfinata più grande dell'intera Spagna ma, se si prendessero per buone le dimensioni maggiori, sarebbe più grande dell'intero territorio degli USA.
@@ -37,6 +36,6 @@ Eventi catastrofici come terremoti, maremoti, tornado, spazzando le coste sottra
 
 Esistono sempre più iniziative per sensibilizzare e tentare di limitare il problema della crescita di queste isole come ad esempio nel giugno 2020 è stata inaugurata Moby Litter, la balena di ferro che mangia alcuni metri cubi di rifiuti di plastica marini sul litorale anconetano ogni anno. Si tratta di una importante iniziativa educativa che coinvolge 14 istituti scolastici.  Ma esiste anche il più impegnativo "The Ocean Cleanup" che è un progetto nato dall’idea di un giovane olandese, Boyan Slat, utilizzato per la Great Pacific Garbage Patch dove vengonoti eliminate centinaia di tonnellate di rifiuti dal Pacifico Settentrionale.
 
-     E' ovvio che sono molte altre le iniziative per la pulizia o ripulitura di acque e spiagge ma il problema è certamente quello di evitare lo sversamento della plastica, in primis andandola ad eliminare e sostituendola con materiali meno impattanti e quando possibile degradabili e, quanto meno, riutilizzabili.
+E' ovvio che sono molte altre le iniziative per la pulizia o ripulitura di acque e spiagge ma il problema è certamente quello di evitare lo sversamento della plastica, in primis andandola ad eliminare e sostituendola con materiali meno impattanti e quando possibile degradabili e, quanto meno, riutilizzabili.
 
 Foto: Di Hajj0 ms - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16040020

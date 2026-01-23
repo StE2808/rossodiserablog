@@ -39,7 +39,7 @@ E la nostra **opposizione italiana**? Sembra bloccata nella fase del "il govern
 ## Collaborazione Intergenerazionale nella Politica Progressista
 C'è qualcosa di poetico nel vedere un uomo di 83 anni e una donna di 35 condividere lo stesso palco, la stessa passione, la stessa urgenza. Sanders potrebbe essere il nonno di AOC, eppure non c'è atteggiamento paternalistico, non c'è condiscendenza. C'è rispetto reciproco, c'è riconoscimento del valore dell'altro.
 
-    È una lezione anche questa, in un paese come il nostro dove i **giovani politici** vengono spesso trattati come eterni apprendisti, e i veterani come reliquie da museo.
+È una lezione anche questa, in un paese come il nostro dove i **giovani politici** vengono spesso trattati come eterni apprendisti, e i veterani come reliquie da museo.
 
 Sanders non si comporta come un saggio che dall'alto della sua esperienza dispensa perle di saggezza. AOC non si comporta come l'enfant prodige che deve dimostrare il suo valore. Sono semplicemente due compagni di battaglia con diverse esperienze ma lo stesso obiettivo.
 

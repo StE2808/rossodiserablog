@@ -13,15 +13,13 @@ Sergio Mattarella non è solito entrare nelle vicende quotidiane e soprattutto �
 
 Certamente, essendo al secondo mandato, Mattarella sembra sentirsi più libero di esprimersi e così non è la prima volta che chiama un ministro (Piantedosi) o che si raccomanda di fare o non fare qualcosa. Ma solitamente lo fa in modo molto pacato e soprattutto riservato.
 
-    
-![](images/2024/02/img_4626-1.webp)
+![](/assets/images/2024/02/img_4626-1.webp)
 Ma questa volta il messaggio di Mattarella, sulle violenze della Polizia nei confronti degli studenti di Pisa, è certamente inconsueto per tono ed argomenti.  Mattarella ha infatti "fatto presente" al ministro degli Interni, Matteo Piantedosi che "l’autorevolezza delle forze dell’ordine non si misura sui manganelli ma sulla capacità di assicurare sicurezza tutelando, al contempo, la libertà di manifestare pubblicamente opinioni", più diretto di così... poi ha rincarato la dose affermando che "con i ragazzi i manganelli esprimono un fallimento".
 
 Certamente oltre al ministero degli Interni, le parole del nostro Presidente della Repubblica erano dirette al Presidente del Consiglio, Giorgia Meloni, distratta dall'incarico appena ricevuto in Ucraina della guida del G7 ma poi, soprattutto, alla Lega del nostro intramontabile Salvini che non si è certamente tirato indietro e ne ha sparate diverse di boiate populiste anche in questo frangente, affermando, in sostanza che "la Polizia non si tocca" prendendo a scatola chiusa le difese di quegli agenti e dirigenti coivolti nei comportamenti vergognosi di Firenze e soprattutto di Pisa, su cui, invece, sono state aperte inchieste interne (dalla Polizia) e della magistratura.
 
-    
-![](images/2024/02/img_4627-1.webp)
-     Episodi gravissimi, quelli occorsi, dove sono stati accerchiati e pestati dalla Polizia di Stato studenti medi e universitari  che manifestavano per la pace, in modo non violento,  pacificamente, invece manganellati mentre avevano le mani in alto, spinti in una viuzza esponendoli ad un pericolo anche ulteriore,  se la ressa li avesse fatti accalcare l'uno sull'altro, altro grave aspetto, contrario a qualsivoglia procedura. 
+![](/assets/images/2024/02/img_4627-1.webp)
+Episodi gravissimi, quelli occorsi, dove sono stati accerchiati e pestati dalla Polizia di Stato studenti medi e universitari  che manifestavano per la pace, in modo non violento,  pacificamente, invece manganellati mentre avevano le mani in alto, spinti in una viuzza esponendoli ad un pericolo anche ulteriore,  se la ressa li avesse fatti accalcare l'uno sull'altro, altro grave aspetto, contrario a qualsivoglia procedura. 
 
 Ma che pericolo avrebbero invece costituito un gruppetto di circa 200 persone che manifestava per la pace anche se senza autorizzazione? Magari, se si voleva fermarli, si sarebbe potuto parlarci, mediare e convincerli, infondo erano poche persone. Invece giù botte.
 

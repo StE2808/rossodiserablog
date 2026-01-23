@@ -25,11 +25,10 @@ E infine, la politica estera: un magnifico esercizio di equilibrismo! Come in un
 
 Ma hey, solo il 72% degli italiani pensa che stiamo andando nella direzione sbagliata! È un successo, no? Dopotutto, chi ha bisogno di sanità funzionante quando puoi avere delle bellissime smorfie in conferenza stampa?
 
-    
 # #GovernoMeloni #parlamentoitaliano #GiorgiaMeloni #melonidimettiti
-    
-![](images/2025/01/img_5982-1.webp)
-    
-![](images/2025/01/img_5979-1.webp)
-    
-![](images/2025/01/img_5981-1.webp)
+
+![](/assets/images/2025/01/img_5982-1.webp)
+
+![](/assets/images/2025/01/img_5979-1.webp)
+
+![](/assets/images/2025/01/img_5981-1.webp)

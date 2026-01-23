@@ -18,7 +18,7 @@ Anche l’agenzia Agi ha rilanciato il fatto citando Rami Abdu, portavoce dell�
 
 Lo Stato d'Israele usa uno sistema anti missile denominato Iron dome, uno scudo in grado di contrastare con successo la maggior parte dei missili lanciati da Gaza verso il territorio Israeliano. Gli intercettatori israeliani vengono avvisati dai radar quando i missili palestinesi vengono esplosi da Gaza. La "cupola di ferro" entra in azione quando i colpi minacciano le zone abitate. Hamas sta lanciando piccoli droni caricati con armamenti di piccola e media entità. Questi sono più difficili da intercettare e quindi a volte riescono a colpire i bersagli preordinati.
 
-     Per tutta risposta Israele sta portando affondi violentissimi con un arsenale modernissimo di bombe "intelligenti". Ma ancora carica molti ordigni lanciati su Gaza con il fosforo bianco. Questi ordigni rientrano nella categoria delle armi incendiarie, il cui uso è regolamentato dal terzo Protocollo della Convenzione delle Nazioni Unite su alcune armi convenzionali, firmata a Ginevra nel 1980. In base a questo protocollo le bombe usate da Israele a Gaza sono vietate perché non possono essere impiegate per colpire obiettivi civili e obiettivi militari situati “all’interno di una concentrazione di civili”. 
+Per tutta risposta Israele sta portando affondi violentissimi con un arsenale modernissimo di bombe "intelligenti". Ma ancora carica molti ordigni lanciati su Gaza con il fosforo bianco. Questi ordigni rientrano nella categoria delle armi incendiarie, il cui uso è regolamentato dal terzo Protocollo della Convenzione delle Nazioni Unite su alcune armi convenzionali, firmata a Ginevra nel 1980. In base a questo protocollo le bombe usate da Israele a Gaza sono vietate perché non possono essere impiegate per colpire obiettivi civili e obiettivi militari situati “all’interno di una concentrazione di civili”. 
 
 Nel corpo del documento del 1980 si stabilisce che l'uso di ordigni al fosforo bianco dovrebbe solo avere un utilizzo limitato per "l'illuminazione" dei soli obiettivi militari e per creare "cortine fumogene" per coprire la fuga di truppe militari. 
 
@@ -29,5 +29,4 @@ Queste deflagrazioni sono in grado di provocare nelle vittime ustioni gravi e mo
 
 L'utilizzo delle bombe al fosforo bianco sono state largamente utilizzate dalla prima guerra mondiale in poi, nelle guerre coloniali in Africa, ma più recentemente in Siria ed in Ucraina, Questa volta, però, il loro uso coinvolge principalmente la popolazione civile. Un crimine nel crimine.
 
-    
-![](images/2023/11/img_4212-1.webp)
+![](/assets/images/2023/11/img_4212-1.webp)

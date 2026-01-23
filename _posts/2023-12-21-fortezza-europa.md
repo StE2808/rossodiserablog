@@ -15,8 +15,7 @@ Stanotte è stato raggiunto l'accordo tra Europarlamento e Consiglio Ue sulle mo
 
 Se da un lato viene accolta la misura di un meccanismo obbligatorio di ricollocamento dei migranti che vengono lasciati liberi di scegliere gli Stati di destinazione, dall'altra parte non si obbligano gli Stati membri di accoglierli lasciando i governi liberi di scegliere tra accoglienza ed il pagamento di una compenso verso i paesi di prima accoglienza, insomma la parola accoglienza viene ripetuta e ripetuta allo sfinimento ma completamente disattesa.
 
-    
-![](images/2023/12/progetto-senza-titolo-1.webp)
+![](/assets/images/2023/12/progetto-senza-titolo-1.webp)
 Viene ulteriormente ristretto, poi, il diritto di asilo. Insomma la Fortezza Europa ha sollevato il ponte levatoio e liberato i coccodrilli nel fossato. Tutto questo perché siamo in dirittura d'arrivo per la campagna elettorale delle elezioni europee e nessuna coalizione, nessun partito vuole offrire il fianco alla propaganda populistica,  nessuno vuole i migranti. 
 
 Ovviamente, questa politica priva assolutamente di coraggio lede alla sinistra e giova grandemente alla destra populista che già si frega le mani in vista di una vittoria che al momento appare scontata. Si è perduta una occasione per differenziarsi e per non correre dietro alle pance, alle budella, ai peggiori umori populistici che non sono propri delle sinistre. Si è fatto il gioco della Le Pen, di Orban e compagni, ops camerati.

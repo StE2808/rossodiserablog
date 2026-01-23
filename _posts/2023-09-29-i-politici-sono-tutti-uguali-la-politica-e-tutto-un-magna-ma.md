@@ -37,5 +37,4 @@ La polarizzazione rende difficile affrontare le sfide complesse che richiedono s
 
 Se avete trovato delle similitudini tra la situazione politica attuale e quanto teorizzato sopra, allora la soluzione può essere individuata solo nella promozione della conoscenza, nella partecipazione attiva alla vita civile e sociale del Paese. Questo per evolversi e tornare ad essere cittadini e non sudditi.
 
-    
-![](images/2023/09/img_4068.webp)
+![](/assets/images/2023/09/img_4068.webp)

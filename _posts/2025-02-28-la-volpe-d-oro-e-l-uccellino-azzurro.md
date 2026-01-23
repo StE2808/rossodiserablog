@@ -17,21 +17,21 @@ Un giorno, nella maestosa tana principale della Volpe – decorata con cristalli
 
 La Grande Tana era gremita di animali che osservavano la scena. Telecamere di grilli reporter trasmettevano ogni dettaglio a tutte le creature della foresta.
 
-    "Grande Volpe d'Oro," cinguettò l'Uccellino, "il mio popolo sta soffrendo. L'Orso ha già preso le nostre querce più belle e continua ad avanzare."
+"Grande Volpe d'Oro," cinguettò l'Uccellino, "il mio popolo sta soffrendo. L'Orso ha già preso le nostre querce più belle e continua ad avanzare."
 
 La Volpe d'Oro, seduta sul suo trono di corteccia intarsiata, guardò l'uccellino con occhi penetranti.
 
-    "O firmi questo foglio di betulla," ruggì improvvisamente, sbattendo una zampa sul tavolo, "o noi volpi smetteremo di aiutarti! E se ce ne andiamo, resterai da solo contro l'Orso! Non credo sarà una passeggiata nel bosco per te!"
+"O firmi questo foglio di betulla," ruggì improvvisamente, sbattendo una zampa sul tavolo, "o noi volpi smetteremo di aiutarti! E se ce ne andiamo, resterai da solo contro l'Orso! Non credo sarà una passeggiata nel bosco per te!"
 
 L'Uccellino Azzurro sbatté le ali, sorpreso dalla violenza di quella reazione.
 
-    "Ma Grande Volpe…" tentò di rispondere.
+"Ma Grande Volpe…" tentò di rispondere.
 
-    "STAI GIOCANDO CON IL GRANDE INCENDIO DELLA FORESTA!" urlò la Volpe, mentre le creature presenti abbassavano lo sguardo, imbarazzate. "Non capisci che l'Orso potrebbe divorare tutti noi?"
+"STAI GIOCANDO CON IL GRANDE INCENDIO DELLA FORESTA!" urlò la Volpe, mentre le creature presenti abbassavano lo sguardo, imbarazzate. "Non capisci che l'Orso potrebbe divorare tutti noi?"
 
 Il silenzio calò nella Grande Tana. Solo il ticchettio di una goccia d'acqua che cadeva da una stalattite si udiva in lontananza.
 
-    "Una volta che avrai firmato questo accordo, avrai molti più semi per nutrirti," continuò la Volpe, con un tono appena più basso. "Però non stai mostrando alcuna gratitudine per tutto ciò che ti abbiamo dato finora, e questo non è gentile da parte tua."
+"Una volta che avrai firmato questo accordo, avrai molti più semi per nutrirti," continuò la Volpe, con un tono appena più basso. "Però non stai mostrando alcuna gratitudine per tutto ciò che ti abbiamo dato finora, e questo non è gentile da parte tua."
 
 L'Uccellino Azzurro, con gli occhi lucidi, guardò attorno. Nessuno osava intervenire. Questa non era diplomazia tra animali della foresta. Era la legge del più forte, la minaccia del predatore verso una preda già ferita.
 

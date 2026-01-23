@@ -23,5 +23,4 @@ Infatti la storia si ripete tristemente, Elon Musk, più di Trump, manifesta la 
 
 Musk padrone, e non proprietario, di X, PayPal, Tesla, SpaceX, Neuralink, SolarCyty, The Boring Company e molte altre, domina e controlla social, comunicazioni, telecomunicazioni, ricerca e sicurezza e tanto altro, ora ha raggiunto i gangli del potere e appare invincibile, proprio come quel Mussolini o quell'Hitler che scimmiotta. Al pari loro, si spera, venga presto deposto da chi prima lo osannava.
 
-    
 ## Trump #GiorgiaMeloni #musk

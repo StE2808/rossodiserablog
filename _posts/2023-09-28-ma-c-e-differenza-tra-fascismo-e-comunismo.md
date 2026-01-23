@@ -23,5 +23,4 @@ Una riflessione va aperta sui partiti comunisti che sono andati al potere: prima
 
 Ma ho parlato di partiti comunisti… ma il comunismo era quello o è altro? Pensiamo ai lavoratori trucidati durante gli scioperi nell'Italia appena unita di Vittorio Emanuele II. Oppure ai comunisti morti nei campi di concentramento. Ma anche ai sindacalisti che si sono fatti ammazzare in tanti Paesi. O chi è stato ucciso lottando contro il colonialismo pensando che il comunismo fosse una cosa meravigliosa. Tutti questi erano dei poveri illusi? Forse. Sui principi fondanti e fondamentali delle ideologie però c'è la certezza che mentre da un lato vi è sempre stata la volontà di prevalere, prevaricare, escludere, nell'ideologia comunista è chiara la volontà egualitaria, il rispetto altrui ed il bene comune. 
 
-    
-![](images/2023/09/img_4065-1.webp)
+![](/assets/images/2023/09/img_4065-1.webp)

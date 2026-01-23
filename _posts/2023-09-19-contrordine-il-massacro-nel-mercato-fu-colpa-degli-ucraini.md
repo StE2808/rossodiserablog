@@ -15,7 +15,6 @@ E così si scopre che l'attacco missilistico del 6 settembre su un mercato della
 
 La notizia è stata data per prima dal New York Times ed ha fatto il giro del mondo, ma saranno pochi i media che la daranno o, peggio, enfatizzeranno l'immediato scarica barile sulle responsabilità subito innescato.
 
-    
 Le prove prese in esame e riportate dal giornale sono: "frammenti di missili, immagini satellitari, resoconti di testimoni e post sui social media, suggeriscono fortemente che l'attacco catastrofico sia stato il risultato di un missile di difesa aerea ucraino errante, lanciato da un sistema di lancio Buk" dice il New York Times "sembra che sia stato un tragico incidente". Ma, nella sua tragicità, la notizia sarebbe normale, se non facesse parte di un clima, di una volontà discriminatoria nei confronti dei russi che vede sempre difendere gli ucraini, anche quando palesemente mentono negando proprie responsabilità. 
 
 La guerra è certamente fatta anche di propaganda, di false notizie, di sofisticazioni rilasciate ad arte o di omissioni volute: questo conflitto non ne è esente.
