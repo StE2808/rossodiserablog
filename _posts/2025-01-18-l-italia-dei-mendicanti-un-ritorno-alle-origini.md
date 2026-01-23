@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/01/img_6006-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "C'era una volta l'Italia del miracolo economico, della dignità ritrovata, dell'orgoglio di una nazione che si era rialzata dalle macerie della guerra..."
-category: cultura-spettacolo
+category: societa
 tags: ["comparaggio", "diritti", "Economia", "Etica", "Europa", "giustizia", "Governo", "guerra", "lavoro", "Meloni", "Migrazione", "politica", "povert\u00e0", "sicurezza", "societ\u00e0", "USA"]
 ---
 C'era una volta l'Italia del miracolo economico, della dignità ritrovata, dell'orgoglio di una nazione che si era rialzata dalle macerie della guerra. Quell'Italia sembra oggi un ricordo sbiadito, sostituita da un nuovo medioevo sociale dove il "cappello in mano" è tornato a essere la postura nazionale prediletta.

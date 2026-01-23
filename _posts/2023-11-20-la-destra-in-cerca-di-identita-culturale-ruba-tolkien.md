@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/11/foto-tolkien-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'autore preferito della nostra presidentissima, Giorgia Meloni, viene rubato. Tolkien viene esposto ed anche messo in mostra"
-category: cultura-spettacolo
+category: politica-interna
 tags: ["culturale", "destra", "fascismo", "Identit\u00e0", "il signore degli anelli", "nazionalismo", "sinistra", "Tolkien"]
 ---
 L'autore preferito della nostra presidentissima, Giorgia Meloni, viene rubato. Tolkien viene esposto ed anche messo in mostra. 

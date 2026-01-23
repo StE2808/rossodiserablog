@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/12/progetto-senza-titolo-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Quando il qualunquismo vince su tutto, quando lo spirito dei Padri Fondatori della nostra Europa appare sempre più sbiadito, quando il principio fondante..."
-category: cronaca-bianca
+category: politica-interna
 tags: ["Charles", "diritti", "diritti umani", "emigranti", "Europa", "Fortezza", "Le Pen", "Metsola", "Michel", "migranti", "migratorie", "Migrazione", "Orban", "politica", "politiche", "Roberta", "UE", "Ursula", "von der Leyen"]
 ---
 Quando il qualunquismo vince su tutto, quando lo spirito dei Padri Fondatori della nostra Europa appare sempre più sbiadito, quando il principio fondante di Solidarietà in Europa è buttato nel cesso, allora la nostra premier, Giorgia Meloni, appare soddisfatta e lo ha dichiarato, per bocca del ministro Piantedosi, alla sua maniera, sui "suoi" social, prontamente "l'approvazione di questo Patto è un successo".

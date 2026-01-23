@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/06/img_6531-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ah, la famosa 'guerra dei 12 giorni'. Peccato che di giorni ce ne siano stati 14, ma evidentemente quando si tratta di conflitti internazionali, la..."
-category: cronaca-bianca
+category: politica-estera
 tags: ["Conflitto", "crisi", "Cultura", "gaza", "giustizia", "Governo", "guerra", "hamas", "Iran", "israele", "libert\u00e0", "Meloni", "odio", "Pace", "palestina", "politica", "repressione", "resistenza", "societ\u00e0", "Trump", "UE", "Umanit\u00e0", "USA", "violenza"]
 ---
 Ah, la famosa "guerra dei 12 giorni"! Peccato che di giorni ce ne siano stati 14, ma evidentemente quando si tratta di conflitti internazionali, la matematica diventa un optional. D'altronde, chi ha tempo di contare quando c'è da dichiarare vittoria?

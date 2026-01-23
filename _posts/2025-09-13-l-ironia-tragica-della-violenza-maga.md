@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/09/img_6766.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La morte di Charlie Kirk rappresenta un momento di drammatica ironia per il movimento MAGA americano. Il noto attivista conservatore di 31 anni, stretto..."
-category: cronaca-bianca
+category: politica-estera
 tags: ["America", "charliekirk", "Conflitto", "crisi", "diritti", "emigranti", "giustizia", "Governo", "immigrazione", "MAGA", "odio", "polarizzazione", "politica", "sicurezza", "sociale", "societ\u00e0", "Trump", "tylerrobinson", "USA"]
 ---
 La morte di Charlie Kirk rappresenta un momento di drammatica ironia per il movimento MAGA americano.

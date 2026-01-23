@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/11/img_4275.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Adesso basta. Con questo slogan ieri i lavoratori italiani e soprattutto quelli del centro Italia sono scesi in piazza"
-category: cronaca-bianca
+category: politica-interna
 tags: ["diritti", "giustizia", "Governo", "lavoratori", "lavoro", "manovra economica", "Meloni", "mercato", "politica", "sciopero", "societ\u00e0", "Solidariet\u00e0"]
 ---
 Adesso basta! Con questo slogan ieri i lavoratori italiani e soprattutto quelli del centro Italia sono scesi in piazza. Lo sciopero generale proclamato e’ stato forzatamente declassato da un ministro dei Trasporti estremamente attivo nelle attività liberticide.

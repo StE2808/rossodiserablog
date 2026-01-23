@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2024/04/8-soccorso-1024x683-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Non abbiamo più paura della guerra: sembra così a sentir parlare molti nostri politici, attualmente al governo in Italia ma anche nel parlamento europeo..."
-category: cultura-spettacolo
+category: societa
 tags: ["devastazione", "guerra", "Guerra Mondiale", "Morte", "ospedale", "pittogramma", "rifugio", "rifugio antiaereo", "segnale murale", "segnali"]
 ---
 Non abbiamo più paura della guerra: sembra così a sentir parlare molti nostri politici, attualmente al governo in Italia ma anche nel parlamento europeo. La guerra viene vista e valutata come una opportunità, poi non così tanto deprecabile, impossibile ed improbabile. Entrare in un conflitto, che sarebbe globale, viene, sempre più, considerata come una delle possibili soluzioni per tentare di risolvere i conflitti attualmente in corso.

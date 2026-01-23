@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/05/img_6397-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Il cardinale statunitense Robert Francis Prevost è stato eletto come 267° papa della Chiesa cattolica, assumendo il nome di Leone XIV. L'annuncio è stato..."
-category: cronaca-bianca
+category: societa
 tags: ["americano", "chiesa", "Governo", "leone", "Pace", "Papa", "politica", "Trump", "USA", "vaticano", "XIV"]
 ---
 Il cardinale statunitense Robert Francis Prevost è stato eletto come 267° papa della Chiesa cattolica, assumendo il nome di Leone XIV.

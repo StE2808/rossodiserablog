@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/02/img_6115-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Il governo Meloni soffia sulla paura, regala a piene mani insicurezza, lavorando sulla povertà come una colpa. Colpa di chi l'avrebbe generata prima di..."
-category: cultura-spettacolo
+category: politica-interna
 tags: ["crisi", "diritti", "giustizia", "Governo", "lavoratori", "lavoro", "Meloni", "migranti", "percepita", "percezione", "repressione", "sicurezza", "sociale", "violenza"]
 ---
 Il governo Meloni soffia sulla paura, regala a piene mani insicurezza, lavorando sulla povertà come una colpa. Colpa di chi l'avrebbe generata prima di Lei e colpa di chi, in condizione di indigenza, colpevolmente non vorrebbe affrancarsene. Intanto distrugge lo Stato sociale, la Giustizia, la Sanità Pubblica, creando i presupposti per uno smarrimento generalizzato. Senza un progetto politico industriale, subisce, nascondendolo, un dramma, quello di 24 mesi di fila della paralisi della produzione industriale, tornata a valori del periodo pandemico.

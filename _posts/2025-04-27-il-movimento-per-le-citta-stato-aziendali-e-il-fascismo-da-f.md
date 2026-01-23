@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/04/img_6354-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "C'è una novita' preoccupante all'orizzonte. Una nuova forma amministrativa mai sperimentata prima: le città-stato aziendali"
-category: cultura-spettacolo
+category: politica-estera
 tags: ["Citt\u00e0", "diritti", "Europa", "freedom cities", "giustizia", "Governo", "offshore", "politica", "seasteading", "societ\u00e0", "USA"]
 ---
 C'è una novita' preoccupante all'orizzonte. Una nuova forma amministrativa mai sperimentata prima: le città-stato aziendali.

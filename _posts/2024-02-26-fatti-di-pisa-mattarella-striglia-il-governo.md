@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2024/02/img_4626-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Sergio Mattarella non è solito entrare nelle vicende quotidiane e soprattutto è molto attento a non interferire sulle scelte politiche dei governi che si..."
-category: cronaca-bianca
+category: politica-interna
 tags: ["Firenze", "Governo", "Interno", "manganellate", "manganelli", "manganello", "Mattarella", "Ministero dell'Interno", "Ministro", "Piantedosi", "Pisa", "polizia", "polizia di stato", "Presidente della repubblica"]
 ---
 Sergio Mattarella non è solito entrare nelle vicende quotidiane e soprattutto è molto attento a non interferire sulle scelte politiche dei governi che si sono avvicendati nel corso dei suoi due mandati da Presidente di questa Repubblica che però ora sembra arrivata pericolosamente al capolinea.

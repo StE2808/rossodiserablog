@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/03/img_6202-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Stiamo vivendo, testimoni e spettatori, tendenze autoritarie a livello globale, proprio come nel periodo interbellico successe col fascismo del fascio..."
-category: cultura-spettacolo
+category: politica-estera
 tags: ["autoritario", "autoritarismo", "Cina", "diritti", "diritti umani", "dittatore", "dittatura", "Economia", "Etica", "Europa", "fascismo", "fascista", "gaza", "giustizia", "Governo", "guerra", "mercato", "migranti", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "Russia", "Salute", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza"]
 ---
 Stiamo vivendo, testimoni e spettatori, tendenze autoritarie a livello globale, proprio come nel periodo interbellico successe col fascismo del fascio littorio.

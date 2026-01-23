@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/04/img_6353-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'umanità ha sviluppato un peculiare rapporto con gli animali, strutturato secondo una gerarchia di considerazione morale che sembra inversamente..."
-category: cultura-spettacolo
+category: diritti-umani
 tags: ["animali", "diritti", "giustizia", "politica", "societ\u00e0"]
 ---
 L'umanità ha sviluppato un peculiare rapporto con gli animali, strutturato secondo una gerarchia di considerazione morale che sembra inversamente proporzionale al grado di autonomia delle diverse specie. Questa dinamica merita un'analisi approfondita.

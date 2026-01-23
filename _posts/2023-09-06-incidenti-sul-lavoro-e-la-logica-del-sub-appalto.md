@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/09/incidente-ferroviario-brandizzo-strage-cosa-e-successo-prassi.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "È una strage che non doveva accadere quella di Brandizzo. Sono morti cinque operai, cinque persone, cinque lavoratori mentre erano intenti ad effettuare..."
-category: cronaca-bianca
+category: societa
 tags: ["Brandizzo", "Ferrovia RFI", "lavoro", "morti bianche", "sicurezza"]
 ---
 È una strage che non doveva accadere quella di Brandizzo. Sono morti cinque operai, cinque persone, cinque lavoratori mentre erano intenti ad effettuare una manutenzione ordinaria e notturna sulla linea ferroviaria Milano-Torino.

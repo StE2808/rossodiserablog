@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/05/img_6384-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La questione palestinese è una lunga storia di occupazione. Ma ora è ufficiale: il governo Netanyahu ha votato per l'occupazione militare totale della..."
-category: cronaca-bianca
+category: politica-estera
 tags: ["Conflitto", "crisi", "diritti", "diritti umani", "Etica", "Europa", "gaza", "genocidio", "giustizia", "Governo", "guerra", "hamas", "Identit\u00e0", "israele", "libert\u00e0", "massacro", "Meloni", "Nethanyahu", "Pace", "palestina", "palestinese", "politica", "popolo", "repressione", "sicurezza", "societ\u00e0", "UE", "Umanit\u00e0", "USA", "violenza"]
 ---
 La questione palestinese è una lunga storia di occupazione. Ma ora è ufficiale: il governo Netanyahu ha votato per l'occupazione militare totale della Striscia di Gaza, confermando una linea politica che si inserisce in un contesto storico ben più ampio.

@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/03/img_6180-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "C'era una volta, in un regno chiamato Europa, un grande consiglio di saggi che si riuniva per decidere come proteggere tutti i villaggi. Un giorno, mentre..."
-category: cultura-spettacolo
+category: diritti-umani
 tags: ["Cina", "crisi", "diritti", "diritti umani", "Economia", "emigranti", "Etica", "Europa", "giustizia", "Governo", "guerra", "Meloni", "mercato", "migranti", "odio", "Orban", "Pace", "politica", "Russia", "salvini", "Schlein", "sicurezza", "societ\u00e0", "Solidariet\u00e0", "trogloditi", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
 C'era una volta, in un regno chiamato Europa, un grande consiglio di saggi che si riuniva per decidere come proteggere tutti i villaggi. Un giorno, mentre discutevano animatamente, notarono che uno dei saggi, il Saggio Orban dell'Isola Solitaria, si era isolato in un angolo e rifiutava di aiutare il villaggio di Kiev che era in pericolo.

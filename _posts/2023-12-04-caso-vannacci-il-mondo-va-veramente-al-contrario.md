@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/12/vannacci_ok_wikipedia-2.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Oramai non c'è da stupirsi più di nulla, ma indignarsi sì. Se un generale dell'esercito italiano esprime ed argomenta profusamente, in un libro, contenuti..."
-category: cronaca-bianca
+category: politica-interna
 tags: ["Comfoter", "Crosetto", "difesa", "il mondo al contrario", "Meloni", "Ministro", "patriarcalismo", "patriarcato", "Vannacci", "violenza", "violenza di genere"]
 ---
 Oramai non c'è da stupirsi più di nulla, ma indignarsi sì. Se un generale dell'esercito italiano esprime ed argomenta profusamente, in un libro, contenuti retrogradi, sessisti, omofobi e, perfino razzisti, perché non promuoverlo? Certamente, è andata proprio così. 

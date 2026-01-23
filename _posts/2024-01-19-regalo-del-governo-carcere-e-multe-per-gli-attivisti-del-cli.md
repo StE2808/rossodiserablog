@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2024/01/ultima-generazione_tradimenti-1024x496-2.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Garantisti a corrente alternata: questi sono i nostri governanti. Vogliono eliminare il reato di abuso d'ufficio ed indebolire la repressione nei..."
-category: cronaca-bianca
+category: politica-interna
 tags: ["Ambiente", "clima", "collasso climatico", "Fondo Riparazione", "Governo", "Meloni", "Sangiuliano", "Ultima Generazione"]
 ---
 Garantisti a corrente alternata: questi sono i nostri governanti. Vogliono eliminare il reato di abuso d'ufficio ed indebolire la repressione nei confronti di corrotti e corruttori e limitare l'azione penale nei confronti dei reati tipici dei colletti bianchi, ma quando si tratta di immigrazione e difesa del clima, sono inflessibili.

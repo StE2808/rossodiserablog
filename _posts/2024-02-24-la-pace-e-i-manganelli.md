@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2024/02/img_4628-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Studenti manifestano per la pace in Palestina e vengono manganellati. E' successo in Italia, in varie piazze"
-category: cronaca-bianca
+category: politica-interna
 tags: ["Cultura", "diritti", "diritti umani", "Etica", "Firenze", "giustizia", "Governo", "manifestazioni", "Meloni", "odio", "Pace", "palestina", "Pisa", "politica", "repressione", "resistenza", "sicurezza", "sociale", "Solidariet\u00e0", "studenti", "violenza"]
 ---
 Studenti manifestano per la pace in Palestina e vengono manganellati. E' successo in Italia, in varie piazze. Ieri a Firenze ed a Pisa.

@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/04/img_6345-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Nel silenzio inquieto che precede le tempeste storiche, si possono cogliere echi e parallelismi che attraversano il tempo. Le similitudini tra il periodo..."
-category: cultura-spettacolo
+category: politica-estera
 tags: ["diritti", "diritti umani", "Economia", "Etica", "Europa", "fascismo", "Generazioni Future", "giustizia", "Governo", "guerra", "Istruzione", "libert\u00e0", "Morte", "odio", "Pace", "politica", "repressione", "resistenza", "Russia", "sicurezza", "sociale", "societ\u00e0", "UE", "USA", "violenza"]
 ---
 Nel silenzio inquieto che precede le tempeste storiche, si possono cogliere echi e parallelismi che attraversano il tempo. Le similitudini tra il periodo antecedente alla Prima Guerra Mondiale e la nostra epoca contemporanea emergono con inquietante chiarezza quando osserviamo determinati segnali: la retorica bellica, la produzione culturale carica di presagi e la crescente corsa agli armamenti.

@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/05/1c04ce84-2392-4051-b7fd-a3c740da0921-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ma che splendido esempio di alta formazione governativa ci ha regalato la segretaria all'Istruzione Linda McMahon. Quando ha deciso di minacciare Harvard..."
-category: cultura-spettacolo
+category: politica-estera
 tags: ["Etica", "federale", "Governo", "grammatica", "ignoranza", "politica", "societ\u00e0", "Stati", "Trump", "Uniti", "USA"]
 ---
 Ma che splendido esempio di alta formazione governativa ci ha regalato la segretaria all'Istruzione Linda McMahon! Quando ha deciso di minacciare Harvard con la sospensione dei fondi federali, evidentemente non immaginava che la sua missiva sarebbe diventata essa stessa oggetto di una lezione – non di diritto costituzionale o di autonomia accademica, ma di grammatica elementare.

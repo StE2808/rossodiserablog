@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/05/img_6452-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Un controverso disegno di legge proposto dal Ministro dell'Agricoltura Francesco Lollobrigida, e fortemente sostenuto dalla Lega, rischia di cancellare..."
-category: cronaca-bianca
+category: ambiente
 tags: ["Ambiente", "caccia", "cacciatori", "ecocidio", "ecologia", "ecosistema", "ecosistemi", "Etica", "Europa", "fauna", "giustizia", "Governo", "politica", "repressione", "sicurezza", "societ\u00e0", "UE", "violenza"]
 ---
 Un controverso disegno di legge proposto dal Ministro dell'Agricoltura Francesco Lollobrigida, e fortemente sostenuto dalla Lega, rischia di cancellare decenni di progressi nella tutela ambientale e faunistica in Italia, trasformando il paese in un "Far West" del bracconaggio legalizzato.

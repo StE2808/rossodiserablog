@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/11/img_4212-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Operazione a tenaglia di Israele a Gaza. Tre lati sotto attacco"
-category: societa
+category: politica-estera
 ---
 Operazione a tenaglia di Israele a Gaza. Tre lati sotto attacco. L'offensiva prevede la preparazione del campo attraverso il bombardamento anche aereo, diviso per settori per poi penetrarvi da terra. Si stanno preparando ad una estenuante avanzata da terra e dentro al reticolo di cunicoli ancora presenti nel sottosuolo della Striscia.
 

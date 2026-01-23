@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/05/img_6380-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'immagine è apparsa all'improvviso, scioccante nella sua arroganza: Donald Trump vestito da Pontefice. Non un meme anonimo circolato nei meandri dei..."
-category: cultura-spettacolo
+category: politica-estera
 tags: ["diritti", "Economia", "Etica", "giustizia", "Governo", "mercato", "odio", "Pace", "Papa", "politica", "repressione", "sociale", "societ\u00e0", "Trump", "USA", "vaticano", "violenza"]
 ---
 L'immagine è apparsa all'improvviso, scioccante nella sua arroganza: Donald Trump vestito da Pontefice. Non un meme anonimo circolato nei meandri dei social, ma un contenuto ufficialmente pubblicato sulla pagina della Casa Bianca e sull'account personale del Presidente.

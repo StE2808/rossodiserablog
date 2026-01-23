@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/12/cie.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E alla fine hanno gettato la maschera: il Centro di permanenza per il rimpatrio (Cpr) che il governo Meloni vorrebbe realizzare in Albania, ospiterà anche..."
-category: cronaca-bianca
+category: politica-interna
 tags: ["albania", "cie", "Cpr", "Governo", "immigrazione", "Meloni", "migranti", "rotte"]
 ---
 E alla fine hanno gettato la maschera: il Centro di permanenza per il rimpatrio (Cpr) che il governo Meloni vorrebbe realizzare in Albania, ospiterà anche detenuti. Una nuova Guantanamo italiana. In barba a tutti i principi giuridici.

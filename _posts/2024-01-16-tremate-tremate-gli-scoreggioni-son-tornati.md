@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2024/01/img_4495-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ieri l'altro sono inciampato in un post di un piccolo personaggio di provincia che esortava le donne a figliare. Aveva fotografato una giostra, una..."
-category: cultura-spettacolo
+category: societa
 tags: ["cancelculture", "diritti", "fascismo", "fascisti", "LGBTQ+", "Meloni", "Noam Chomsky", "politica", "social", "Social Media", "sociale", "sociologia", "sociologo", "solidale", "Solidariet\u00e0", "sottofascismo"]
 ---
 Ieri l'altro sono inciampato in un post di un piccolo personaggio di provincia che esortava le donne a figliare.

@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/12/img_4371-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Ma ci si può assuefare alle stragi di bambini. Ci possiamo abituare a fatti così tremendi"
-category: cronaca-bianca
+category: politica-estera
 tags: ["children", "diritti", "Economia", "gaza", "guerra", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "resistenza", "sicurezza", "sociale", "Solidariet\u00e0", "Umanit\u00e0", "USA", "violenza"]
 ---
 Ma ci si può assuefare alle stragi di bambini? Ci possiamo abituare a fatti così tremendi? Le immagini così crude, non fanno più presa sulle nostre coscienze così indurite? Possiamo  permetterci di cominciare a pensare come normale, quello che sta accadendo a Gaza? E poi, di contro, che ne sarà dei bambini di Gaza, orfani a migliaia, che vagano oggi, soli, per una terra martoriata e quindi inospitale per adulti organizzati, figuriamoci per queste creature innocenti? 

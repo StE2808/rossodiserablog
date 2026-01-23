@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/03/img_6245-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "In un'epoca in cui i venti di guerra soffiano con forza crescente alle porte dell'Europa e nel Medio Oriente, gli studenti del liceo Minghetti hanno..."
-category: cronaca-bianca
+category: politica-estera
 tags: ["diritti", "Etica", "Europa", "fascismo", "gaza", "Generazioni Future", "giustizia", "Governo", "guerra", "Meloni", "Morte", "odio", "Pace", "palestina", "politica", "repressione", "Russia", "scuola", "societ\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
 In un'epoca in cui i venti di guerra soffiano con forza crescente alle porte dell'Europa e nel Medio Oriente, gli studenti del liceo Minghetti hanno scelto di alzare la voce. La loro protesta pacifica, culminata nell'occupazione dell'istituto, rappresenta un raro barlume di speranza in un panorama internazionale sempre più cupo.

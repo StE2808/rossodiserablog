@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/03/img_6160-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Dobbiamo proteggere la democrazia. In un periodo storico con quello attuale, in cui c'è in cantiere il progetto di demolire la democrazia, facendola..."
-category: cultura-spettacolo
+category: opinioni-editoriali
 tags: ["crisi", "democrazia", "diritti", "Etica", "Europa", "giustizia", "Governo", "politica", "preservare", "proteggere", "repressione", "societ\u00e0", "Solidariet\u00e0", "UE"]
 ---
 Dobbiamo proteggere la democrazia. In un periodo storico con quello attuale, in cui c'è in cantiere il progetto di demolire la democrazia, facendola passare per qualcosa di inutile, ridondante, lento, antieconomico e, addirittura, non rappresentativo, risulta urgente agire di converso.

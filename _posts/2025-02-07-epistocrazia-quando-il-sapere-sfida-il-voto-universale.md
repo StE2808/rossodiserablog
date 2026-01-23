@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/02/img_6082-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "No-vax, negazionisti climatici, razzisti, fascisti e nazisti: un vento bollente pare attraversare ogni angolo del cosiddetto occidente. L'ignoranza alla..."
-category: cultura-spettacolo
+category: opinioni-editoriali
 tags: ["diritti", "epistocrazia", "Etica", "fascismo", "Generazioni Future", "Governo", "politica", "societ\u00e0"]
 ---
 No-vax, negazionisti climatici, razzisti, fascisti e nazisti: un vento bollente pare attraversare ogni angolo del cosiddetto occidente. L'ignoranza alla ribalta.

@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/05/img_6448-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Nel contesto delle discussioni sul concetto di famiglia espresso da Papa Leone XIV, è passato quasi inosservato un elemento cruciale della sua prima..."
-category: cronaca-bianca
+category: societa
 tags: ["diritti", "Governo", "Identit\u00e0", "LeoneIV", "odio", "Papa", "politica", "sociale", "Solidariet\u00e0", "vaticano"]
 ---
 Nel contesto delle discussioni sul concetto di famiglia espresso da Papa Leone XIV, è passato quasi inosservato un elemento cruciale della sua prima omelia.

@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/08/img_6676.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Le parole pronunciate ieri da don Nuccio Cannizzaro durante l'omelia alla kermesse di Forza Italia a Reggio Calabria rappresentano un preoccupante..."
-category: cronaca-bianca
+category: politica-interna
 tags: ["associazione", "Cannizzaro", "concorso", "diritti", "don. Lucio", "esterno", "Etica", "Forza italia", "giustizia", "Governo", "mafia", "mafiosa", "malaffare", "Meloni", "politica", "societ\u00e0", "Solidariet\u00e0", "Stati Generali sud"]
 ---
 Le parole pronunciate ieri da don Nuccio Cannizzaro durante l'omelia alla kermesse di Forza Italia a Reggio Calabria rappresentano un preoccupante scivolamento della funzione religiosa verso la propaganda politica.

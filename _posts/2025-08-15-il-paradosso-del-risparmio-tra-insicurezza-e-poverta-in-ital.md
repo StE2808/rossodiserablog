@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/08/img_6701.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La relazione inversa tra sicurezza sociale e propensione al risparmio rappresenta uno dei paradossi più significativi dell'economia comportamentale..."
-category: cronaca-bianca
+category: economia-finanza
 tags: ["diritti umani", "Generazioni Future", "Governo", "lavoratori", "lavoro", "libert\u00e0", "Meloni", "mercato", "politica", "Riforme", "Salute", "sicurezza", "sociale", "societ\u00e0"]
 ---
 La relazione inversa tra sicurezza sociale e propensione al risparmio rappresenta uno dei paradossi più significativi dell'economia comportamentale moderna. Quando i sistemi di welfare si indeboliscono e l'incertezza sul futuro aumenta, le famiglie reagiscono istintivamente accumulando riserve finanziarie come forma di auto-assicurazione. Questo fenomeno, noto agli economisti come "risparmio precauzionale", si intensifica in contesti di instabilità lavorativa, riforme pensionistiche restrittive o tagli alla sanità pubblica.

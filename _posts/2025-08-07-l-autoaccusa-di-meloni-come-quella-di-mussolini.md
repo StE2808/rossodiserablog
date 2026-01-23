@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/08/img_6680.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E' proprio vero che la storia si nutre di corsi e ricorsi come diceva un certo Giambattista Vico. Infatti si può tracciare un parallelo significativo tra..."
-category: cronaca-bianca
+category: politica-interna
 tags: ["Almasri", "diritti", "Etica", "Europa", "fascismo", "Giorgia Meloni", "giustizia", "Governo", "Identit\u00e0", "Meloni", "Mussolini", "odio", "politica", "repressione", "sicurezza", "sociale", "violenza"]
 ---
 E' proprio vero che la storia si nutre di corsi e ricorsi come diceva un certo Giambattista Vico.

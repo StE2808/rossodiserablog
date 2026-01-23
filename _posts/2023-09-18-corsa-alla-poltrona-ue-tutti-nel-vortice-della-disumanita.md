@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/09/porta_deuropa.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Giorgia Meloni è in costante campagna elettorale da quando è stata eletta, quindi da sempre, insomma, e prosegue ad oltranza. E così dopo essersi spostata..."
-category: cronaca-bianca
+category: politica-interna
 tags: ["barconi", "Borrel. Gentiloni", "Francia", "Germania", "Governo", "immigrazione", "lampedusa", "Libia", "Meloni", "migranti", "Saied", "Tunisia", "UE"]
 ---
 Giorgia Meloni è in costante campagna elettorale da quando è stata eletta, quindi da sempre, insomma, e prosegue ad oltranza. 

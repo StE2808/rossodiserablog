@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/02/img_6159-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Oggi vi racconto una storia: C'era una volta, nella Grande Foresta del Mondo, una possente Volpe dal pelo dorato che regnava sulla più vasta tana mai..."
-category: cronaca-bianca
+category: politica-estera
 tags: ["Conflitto", "Etica", "Europa", "guerra", "mercato", "Musk", "politica", "Russia", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
 ---
 **Oggi vi racconto una storia:**

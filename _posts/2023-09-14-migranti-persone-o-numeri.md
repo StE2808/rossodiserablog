@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/09/migranti_2.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mentre Lampedusa è allo stremo per il numero impressionante di migranti che vi stanno sbarcando, complici il mare piatto e l'assenza di vento e di onde..."
-category: cronaca-bianca
+category: diritti-umani
 tags: ["fame", "Governo", "lampedusa", "Meloni", "migranti", "Migrazione", "odio", "pompiere", "salvini", "Solidariet\u00e0"]
 ---
 Mentre Lampedusa è allo stremo per il numero impressionante di migranti che vi stanno sbarcando, complici il mare piatto e l'assenza di vento e di onde, il nostro Governo ha perso quel poco di bussola che sembrava mantenere. 

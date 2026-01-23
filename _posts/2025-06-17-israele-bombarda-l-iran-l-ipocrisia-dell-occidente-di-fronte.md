@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2025/06/img_6511-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mentre l'Italia ospitava i negoziati sul nucleare iraniano rassicurando sull'assenza di minacce immediate, Israele ha lanciato il suo attacco devastante..."
-category: cronaca-bianca
+category: politica-estera
 tags: ["Conflitto", "crisi", "diritti", "Economia", "Etica", "Europa", "gaza", "giustizia", "guerra", "hamas", "Iran", "israele", "libert\u00e0", "mercato", "Morte", "odio", "palestina", "politica", "repressione", "resistenza", "sicurezza", "societ\u00e0", "Trump", "USA", "violenza"]
 ---
 Mentre l'Italia ospitava i negoziati sul nucleare iraniano rassicurando sull'assenza di minacce immediate, Israele ha lanciato il suo attacco devastante. La scusa? Le scorte iraniane di uranio arricchito aumentate da 274 a 408 kg - una quantità ridicola se paragonata alle centinaia di testate nucleari che Tel Aviv possiede illegalmente da decenni.

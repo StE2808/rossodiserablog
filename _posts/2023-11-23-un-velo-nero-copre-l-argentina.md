@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/11/img_4312.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Il populismo ha vinto. La rabbia popolare guidata contro la 'casta' ha scardinato ogni possibile equilibrio ed ha fatto assurgere il guastatore Milei"
-category: cronaca-bianca
+category: politica-estera
 tags: ["Argentina", "ballottaggio", "Bolivia", "Brasile", "Cuba", "Ecuador", "Governo", "Milei", "Orban", "Per\u00f9", "politica", "societ\u00e0", "Uruguay", "USA", "Villaruel", "votazioni", "Vox"]
 ---
 Il populismo ha vinto. La rabbia popolare guidata contro la "casta" ha scardinato ogni possibile equilibrio ed ha fatto assurgere il guastatore Milei. Al ballottaggio si è aggiudicato per il rotto della cuffia la presidenza argentina.

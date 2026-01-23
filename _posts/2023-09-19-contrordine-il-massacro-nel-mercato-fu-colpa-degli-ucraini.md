@@ -6,7 +6,7 @@ author: lino-rialti
 image: /assets/images/2023/09/ste_spi_un_missile_militare_sfreccia_nel_cielo_quali_sono_le_im_636ca4a0-999e-46b3-9ee1-6b97463abcfc.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'attacco a colpi di missile sul mercato nel Donetsk fu un errore di Kiev: questa la notizia battura stamattina alle 10:42 dall'ANSA. E così si scopre che..."
-category: cronaca-bianca
+category: politica-estera
 tags: ["Donetsk", "Kiev.", "Kostiantynivka", "mercato", "Missile", "Putin", "Russia", "Ucraina", "Zelensky"]
 ---
 L'attacco a colpi di missile sul mercato nel Donetsk fu un errore di Kiev: questa la notizia battura stamattina alle 10:42 dall'ANSA. 
