@@ -24,7 +24,7 @@ Vi è mai capitato di sentirvi presi in giro? Non parlo della classica bugia quo
 
 È la stessa sensazione che proviamo quando leggiamo che "non ci sono soldi" per assumere insegnanti o infermieri, e poi scopriamo che sono stati stanziati miliardi per salvare una banca. Quando ci spiegano che "bisogna stringere la cinghia" mentre assistiamo a manovre finanziarie che fanno sparire risorse pubbliche in rivoli sempre più opachi.
 
-Max Horkheimer, filosofo della Scuola di Francoforte, aveva un nome per tutto questo: lo chiamava \*\*teoria del racket\*\*. E forse è arrivato il momento di capire davvero cosa significa.
+Max Horkheimer, filosofo della Scuola di Francoforte, aveva un nome per tutto questo: lo chiamava **teoria del racket**. E forse è arrivato il momento di capire davvero cosa significa.
 
 ## Benvenuti nel Club (Ma Solo Se Siete Invitati)
 
