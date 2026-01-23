@@ -31,8 +31,6 @@ Ma c'era anche il torcolo, un ciambellone che preparava con una dedizione partic
 
 E così, come i dolcetti Madeleine di Proust, quegli odori, quei sapori e quei gesti gentili di nonna Mimma sono diventati le mie Madeleine personali, i catalizzatori di ricordi preziosi. Ogni volta che sento un profumo simile o assaporo qualcosa di simile a quel torcolo, sono trasportato indietro nel tempo, in un abbraccio caloroso tra mia nonna e mio nonno, in un luogo dove l'amore e i ricordi perdurano per sempre.
 
-![](/assets/images/2023/10/img_4182-1.webp)
-
 ![](/assets/images/2023/10/img_4183-2-1.webp)
 
 ![](/assets/images/2023/10/img_4183-1.webp)
