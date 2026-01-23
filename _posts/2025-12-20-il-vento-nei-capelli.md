@@ -25,5 +25,3 @@ Il turchese dello sfondo non è casuale. È il colore di chi ha deciso che le re
 Non sto dicendo di fumare – quello lasciamolo agli anni '60. Sto dicendo che ogni tanto serve guardarsi allo specchio con i capelli impazziti e pensare: _"Perfetto così"_.
 
 **_Il vento sa quello che fa. Fidati._**
-
-![](/assets/images/uploads/il_vento_fra_i_capelli.webp)
