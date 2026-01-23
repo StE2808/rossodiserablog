@@ -14,7 +14,7 @@ Domani, 25 ottobre, si celebra il World Pasta Day ed allora ci si sta chiedendo 
 
 In una intervista alla dietista Giulia Graziano che ha rilasciato all'agenzia ANSA, si legge che questo sia, invece, un alimento versatile e simbolo identitario del nostro paese, ma nonostante tutto anche oggetto di critiche come quelle stereotipiche  relative al “super potere” di modificare peso e forme corporee per la presenza del suo nutriente per eccellenza: il carboidrato. 
 
-    “I carboidrati sono la fonte primaria del nostro organismo. Arrivano alle cellule in maniera veloce e sostenibile permettendoci di svolgere al meglio le nostre funzioni vitali. In assenza di questi, il corpo deve ricavare l’energia da altre fonti: i grassi e le proteine. Il consumo della pasta, così come degli altri cereali, diventa dunque “carburante” per il nostro corpo” spiega la dottoressa.
+"I carboidrati sono la fonte primaria del nostro organismo. Arrivano alle cellule in maniera veloce e sostenibile permettendoci di svolgere al meglio le nostre funzioni vitali. In assenza di questi, il corpo deve ricavare l'energia da altre fonti: i grassi e le proteine. Il consumo della pasta, così come degli altri cereali, diventa dunque 'carburante' per il nostro corpo" spiega la dottoressa.
 
 Insomma che la pasta faccia ingrassare è falso. Infatti i carboidrati presenti vengono utilizzati come carburante per svolgere tutte le attività corporee, tra cui per esempio il battito cardiaco, la circolazione del sangue, la respirazione, l’attività psichica e fisica. Invece sono chiaramente necessari al corretto funzionamento del nostro organismo.
 
