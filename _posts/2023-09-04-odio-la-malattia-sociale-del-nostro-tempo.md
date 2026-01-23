@@ -7,6 +7,7 @@ image: /assets/images/2023/09/img_3989.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Lascia veramente pensare quanto odio sia stato seminato tra la gente e nel popolo. Ci hanno voluti, per progetto, gli uni contro gli altri e ci sono..."
 tags: ["malattia", "odio", "politica", "sociale", "societ\u00e0"]
+category: societa
 ---
 Lascia veramente pensare quanto odio sia stato seminato tra la gente e nel popolo. Ci hanno voluti, per progetto, gli uni contro gli altri e ci sono riusciti, poi, ovviamente, non siamo mai stati uniti e non lo avremmo nemmeno potuto essere per troppi motivi, primo tra tutti la profonda ignoranza diffusa volutamente, da troppo.
 

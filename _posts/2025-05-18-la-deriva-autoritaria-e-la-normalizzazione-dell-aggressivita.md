@@ -7,6 +7,7 @@ image: /assets/images/2025/05/img_6443-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Nel panorama politico mondiale attuale assistiamo a un fenomeno preoccupante: l'ascesa di movimenti di destra che hanno progressivamente normalizzato..."
 tags: ["Cultura", "diritti", "Etica", "Europa", "giustizia", "Governo", "Meloni", "odio", "Pace", "politica", "Russia", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "Ucraina", "UE", "USA", "violenza", "Zelensky"]
+category: politica-estera
 ---
 Nel panorama politico mondiale attuale assistiamo a un fenomeno preoccupante: l'ascesa di movimenti di destra che hanno progressivamente normalizzato comportamenti e retoriche un tempo considerati inaccettabili. Questa tendenza ha portato a una sistematica delegittimazione dei valori di rispetto, inclusione e tutela delle fasce più vulnerabili della società.
 

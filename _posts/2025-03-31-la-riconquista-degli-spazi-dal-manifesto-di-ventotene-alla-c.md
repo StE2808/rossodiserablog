@@ -7,6 +7,7 @@ image: /assets/images/2025/03/img_6247-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La riconquista degli spazi collettivi rappresenta oggi una necessità imprescindibile, radicata in una tradizione di pensiero che attraversa la storia..."
 tags: ["Ambiente", "anni 70", "Anni \u201960", "colorni", "diritti", "diritti umani", "Economia", "Etica", "Europa", "Generazioni Future", "giustizia", "Governo", "Identit\u00e0", "Istruzione", "lavoro", "Meloni", "mercato", "Pace", "polarizzazione", "politica", "Riforme", "Rossi", "sociale", "societ\u00e0", "Solidariet\u00e0", "spinelli", "UE"]
+category: politica-interna
 ---
 La riconquista degli spazi collettivi rappresenta oggi una necessità imprescindibile, radicata in una tradizione di pensiero che attraversa la storia italiana del Novecento. Il Manifesto di Ventotene, redatto da Altiero Spinelli, Eugenio Colorni ed Ernesto Rossi durante il loro confino sull'isola negli anni '40, poneva già allora una questione fondamentale: la limitazione della proprietà privata come elemento essenziale per costruire una società più equa.
 

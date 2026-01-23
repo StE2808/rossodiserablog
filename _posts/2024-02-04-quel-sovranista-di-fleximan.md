@@ -7,6 +7,7 @@ image: /assets/images/2024/02/img_4564-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Fleximan l'ultimo eroe dei sovranisti, dei frustrati, dei disillusi in cerca di vendetta. Fleximan che, per esempio gli attivisti del movimento sovranista..."
 tags: ["cambiamento climatico", "clima", "climatica", "Etica", "Fleximan", "giustizia", "Governo", "impatto ambientale", "inquinamento", "Lutto", "Meloni", "mercato", "Morte", "politica", "sicurezza", "societ\u00e0", "sovranisti", "trogloditi", "UE", "violenza"]
+category: societa
 ---
 Fleximan l'ultimo eroe dei sovranisti, dei frustrati, dei disillusi in cerca di vendetta. 
 

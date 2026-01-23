@@ -7,6 +7,7 @@ image: /assets/images/2023/09/img_4013.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Lo scippatore e la clava Non so a voi, ma a me sono venuti i brividi. Brividi e senso di nausea nel vedere quelle immagini che purtroppo ho ricevuto..."
 tags: ["diritti", "giustizia", "Meloni", "odio", "politica", "scippatore", "sicurezza", "sociale", "societ\u00e0", "trogloditi", "violenza"]
+category: societa
 ---
 Lo scippatore e la clava
 

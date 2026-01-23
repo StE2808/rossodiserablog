@@ -7,6 +7,7 @@ image: /assets/images/2025/06/img_6500-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La storia si ripete con crudele precisione. Oggi, mentre cittadini italiani con passaporto tricolore rischiano di essere deportati a Guantanamo..."
 tags: ["Cultura", "diritti", "diritti umani", "emigranti", "Europa", "giustizia", "Governo", "Identit\u00e0", "ignoranza", "immigrazione", "lavoro", "libert\u00e0", "migranti", "Migrazione", "odio", "politica", "repressione", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "Trump", "UE", "Umanit\u00e0", "USA", "violenza"]
+category: diritti-umani
 ---
 La storia si ripete con crudele precisione. Oggi, mentre cittadini italiani con passaporto tricolore rischiano di essere deportati a Guantanamo dall’amministrazione Trump, risuonano gli echi di un passato che credevamo sepolto. Un tempo eravamo noi i “carcamanos” - termine dispregiativo che storpiava “cara de mono” - i volti scimmieschi che sbarcavano a Ellis Island con le valigie di cartone e i sogni cuciti nelle tasche logore.
 

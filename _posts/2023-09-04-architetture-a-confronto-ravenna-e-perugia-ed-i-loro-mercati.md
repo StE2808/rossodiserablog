@@ -7,6 +7,7 @@ image: /assets/images/2023/09/img_3980.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Passeggiando per il centro cittadino di Ravenna, ci si imbatte in una struttura interessante: il mercato coperto. Struttura duecentesca, dedicata già al..."
 tags: ["architettura", "mercato", "mercato coperto", "Perugia", "Ravenna"]
+category: cultura-spettacolo
 ---
 Passeggiando per il centro cittadino di Ravenna, ci si imbatte in una struttura interessante: il mercato coperto. 
 

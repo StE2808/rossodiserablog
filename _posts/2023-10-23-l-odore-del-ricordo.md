@@ -7,6 +7,7 @@ image: /assets/images/2023/10/img_4182-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "A volte un odore ti rapisce e ti porta lontano. Esiste un termine francese che ne tenta di descrive il fenomeno: Madeleine de Proust"
 tags: ["Anni \u201960", "Forme", "giovent\u00f9", "giovinezza", "Lutto", "Madeleine", "Morte", "nonna", "nonno", "Proust", "ragazzi", "ricordo", "societ\u00e0", "Solidariet\u00e0"]
+category: societa
 ---
 A volte un odore ti rapisce e ti porta lontano. Esiste un termine francese che ne tenta di descrive il fenomeno: Madeleine de Proust. 
 

@@ -7,6 +7,7 @@ image: /assets/images/2024/03/img_4692-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Un solo quindicenne su 19 è in grado di comprendere completamente un testo. Questo terribile dato si legge nei risultati resi noti dal programma OCSE PISA..."
 tags: ["cambiamento climatico", "Cultura", "diritti", "Economia", "Etica", "fascismo", "Generazioni Future", "giovent\u00f9", "giustizia", "Governo", "Identit\u00e0", "ignoranza", "Istruzione", "lavoratori", "lavoro", "Meloni", "p2", "politica", "prigione", "propaganda 2", "scuola", "sociale", "societ\u00e0", "Solidariet\u00e0", "trogloditi"]
+category: societa
 ---
 Un solo quindicenne su 19 è in grado di comprendere completamente un testo. Questo terribile dato si legge nei risultati resi noti dal programma OCSE PISA (in Italia INVALSI),  che da qualche anno si possono ottenere facilmente. 
 

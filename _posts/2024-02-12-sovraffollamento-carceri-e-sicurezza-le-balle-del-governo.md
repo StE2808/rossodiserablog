@@ -7,6 +7,7 @@ image: /assets/images/2024/02/img_4591-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Siamo in mano a dei manipolatori anche incompetenti. Infatti pure la storia del sovraffollamento delle carceri è una balla"
 tags: ["carceri", "diritti", "Etica", "Europa", "giustizia", "Governo", "Identit\u00e0", "lavoro", "Meloni", "migranti", "Migrazione", "politica", "Salute", "salvini", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "sovraffollamento", "violenza"]
+category: politica-interna
 ---
 Siamo in mano a dei manipolatori anche incompetenti. Infatti pure la storia del sovraffollamento delle carceri è una balla.
 

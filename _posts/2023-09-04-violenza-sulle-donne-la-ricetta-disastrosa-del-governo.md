@@ -7,6 +7,7 @@ image: /assets/images/2023/09/img_3987.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Inasprimento delle pene, abbassamento della imputabilità dei minori ed addirittura castrazione chimica, pratica che, dove applicata, si è dimostrata..."
 tags: ["odio", "violenza di genere", "violenza fisica", "violenza sulle donne", "violenzapsicologica"]
+category: diritti-umani
 ---
 Inasprimento delle pene, abbassamento della imputabilità dei minori ed addirittura castrazione chimica, pratica che, dove applicata, si è dimostrata fallimentare: questa la ricetta per il pasticcio fatto da pasticcioni che si erano dichiarati pronti a governare e che invece non ne stanno azzeccando una.
 

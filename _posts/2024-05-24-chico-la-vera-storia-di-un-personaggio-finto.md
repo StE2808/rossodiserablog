@@ -7,6 +7,7 @@ image: /assets/images/2024/05/img_4987-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Enrico 'Chico' Forti era un uomo di molti talenti, sebbene nessuno di questi fosse mai stato particolarmente utile. Campione di surf, produttore..."
 tags: ["Chico forti", "diritti", "Etica", "giustizia", "Governo", "Meloni", "politica", "societ\u00e0", "UE", "USA"]
+category: cronaca-giudiziaria
 ---
 Enrico "Chico" Forti era un uomo di molti talenti, sebbene nessuno di questi fosse mai stato particolarmente utile. Campione di surf, produttore televisivo, truffatore e, infine, condannato per omicidio, la sua vita era una strana mistura di successi mediocri e fallimenti eclatanti. Dopo essere stato condannato all'ergastolo negli Stati Uniti per l'omicidio di Dale Pike, il figlio dell'albergatore Anthony Pike, Chico aveva accettato il suo destino con la stessa filosofia con cui aveva affrontato le onde: una risata e una spallata, infatti non si era mai riconosciuto colpevole.
 

@@ -7,6 +7,7 @@ image: /assets/images/2025/09/img_6748.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mentre Francesca Albanese nel suo rapporto alle Nazioni Unite denuncia l'evoluzione dall''economia dell'occupazione' all''economia del genocidio' che..."
 tags: ["diritti", "Economia", "Etica", "Europa", "gaza", "giustizia", "GlobalSumudFlottilla", "Governo", "guerra", "Meloni", "mercato", "odio", "Pace", "palestina", "politica", "societ\u00e0", "Solidariet\u00e0", "USA", "violenza"]
+category: politica-estera
 ---
 Mentre Francesca Albanese nel suo rapporto alle Nazioni Unite denuncia l'evoluzione dall'"economia dell'occupazione" all'"economia del genocidio" che rende profittevole la distruzione sistematica del popolo palestinese, in questi giorni coraggiosi attivisti di 44 paesi stanno sfidando il blocco navale israeliano con la più grande flottiglia civile mai organizzata: la Global Sumud Flotilla.
 

@@ -7,6 +7,7 @@ image: /assets/images/2023/11/img_4338-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Quando tutti gli eventi ti danno contro, c'è poco da fare; quando tutti ce l'hanno con te, tu poco puoi. Ecco, questo è il sentiment, l'opinione generale..."
 tags: ["diritti", "Governo", "Identit\u00e0", "lavoro", "Meloni", "mercato", "migranti", "politica", "Russia", "sociale", "societ\u00e0", "vittima"]
+category: politica-interna
 ---
 Quando tutti gli eventi ti danno contro, c'è poco da fare; quando tutti ce l'hanno con te, tu poco puoi. Ecco, questo è il sentiment, l'opinione generale,  che vuol essere ingenerata nel popolo dal governo di Giorgia Meloni.
 

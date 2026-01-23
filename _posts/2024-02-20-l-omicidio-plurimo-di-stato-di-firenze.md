@@ -7,6 +7,7 @@ image: /assets/images/2024/02/img_4623-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E' omicidio plurimo di Stato quello accaduto nel cantiere dell' Esselunga a Firenze. Hanno pagato con la vita per colpe non loro"
 tags: ["Ambiente", "diritti", "Economia", "emigranti", "Governo", "incidente sul lavoro", "infortunio sul lavoro", "lavoratori", "lavoro", "malattia", "Meloni", "mercato", "migranti", "morti bianche", "politica", "Salute", "sicurezza", "societ\u00e0"]
+category: societa
 ---
 E' omicidio plurimo di Stato quello accaduto nel cantiere dell' Esselunga a Firenze. 
 
