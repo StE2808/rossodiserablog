@@ -74,6 +74,7 @@ E noi cittadini comuni? Ci troviamo intrappolati in quella che gli psicologi chi
 - "Le risorse pubbliche servono il bene comune"
 - "La democrazia funziona"
 
+
 **La realtà che osserviamo ci mostra:**
 
 - Lobby che scrivono le leggi che dovrebbero regolarle
