@@ -10,7 +10,6 @@ category: societa
 ---
 Il 2024 lo stiamo appena assaggiando e già lo sentiamo amaro: una bordata di aumenti soffocano la ripresa sbandierata ma inesistente e parimenti strangolano i cittadini di questa Italia, sempre più povera, non solo economicamente.
 
-![](/assets/images/2024/01/img_4452-1.webp)
 Mentre tra gli oligarchi di casa nostra, c'è chi tira fuori una pistola, un certo Pozzolo, deputato di Fratelli d'Italia, ad una festa organizzata dal solito Delmastro per festeggiare l'anno che se ne va, il deputato Pozzolo tira fuori la pistola e la fa girare tra gli estasiati astanti, carica, finché qualche gonzo tira il grilletto e ferisce uno di loro, ecco, mentre tutto questo accade tra chi festeggia all'impazzata, sei milioni di persone, circa due milioni di famiglie vivono, anzi sopravvivono con un reddito sotto la soglia di povertà. Questo Governo dopo aver distrutto il "**Reddito di Cittadinanza**", lasciando nella disperazione quei sei milioni di persone, un bel 10% della popolazione nazionale, appare tranquillo, i poveracci non vanno a votare, non hanno nemmeno del buon cibo e loro bevono, ballano, cantano, mangiano e si sparano pure.
 
 ![](/assets/images/2024/01/linear_movement_of_the_head_ku.webp)

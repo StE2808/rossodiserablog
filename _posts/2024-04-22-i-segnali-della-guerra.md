@@ -11,7 +11,6 @@ tags: ["devastazione", "guerra", "Guerra Mondiale", "Morte", "ospedale", "pittog
 ---
 Non abbiamo più paura della guerra: sembra così a sentir parlare molti nostri politici, attualmente al governo in Italia ma anche nel parlamento europeo. La guerra viene vista e valutata come una opportunità, poi non così tanto deprecabile, impossibile ed improbabile. Entrare in un conflitto, che sarebbe globale, viene, sempre più, considerata come una delle possibili soluzioni per tentare di risolvere i conflitti attualmente in corso.
 
-![](/assets/images/2024/04/8-soccorso-1024x683-1.webp)
 Non si parla però mai di quello che la guerra porta con se, ossia devastazione, distruzione, morte. Cosa ci succede? Il problema è che abbiamo perduto la memoria. Attorno a noi sono sempre meno i testimoni diretti, coloro che hanno vissuto, durante il secondo conflitto mondiale la paura, il terrore delle bombe, delle rappresaglie, delle fucilazioni, del partire per il fronte senza sapere quando e se si sarebbe tornati. Non ci sono rimasti molti spettatori di questi spettacoli dell'orrore che possano raccontarci cosa si prova per perdita improvvisa ed insensata di persone care.
 
 La memoria però, se la si cerca, è ancora presente attorno a noi, anche se abbiamo oramai rimosso le macerie e ricostruito tutto quello che potevamo e con gli interessi, purtroppo.

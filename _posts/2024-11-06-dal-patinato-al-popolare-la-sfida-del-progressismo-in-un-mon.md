@@ -8,7 +8,6 @@ image_alt: "Immagine di copertina dell'articolo"
 description: "![](images/2024/11/f26adb31-17df-42e2-8003-dee839be4bf5-2.webp) Siamo in un'epoca di divisioni nette, dove il progressismo, soprattutto negli Stati Uniti e..."
 category: societa
 ---
-![](/assets/images/2024/11/f26adb31-17df-42e2-8003-dee839be4bf5-2.webp)
 Siamo in un'epoca di divisioni nette, dove il progressismo, soprattutto negli Stati Uniti e in Europa, sembra essersi rifugiato in un mondo di superficialità patinata, di slogan inclusivi e di risposte decorative che però non affondano le mani nei veri problemi che tormentano le persone. Da una parte, il populismo cavalca la rabbia sociale, offrendo risposte veloci, a volte troppo semplici, ma che sembrano più vere per chi si sente tagliato fuori dal gioco delle istituzioni. Dall'altra, il linguaggio progressista appare sempre più scollegato dalla realtà, incastrato in un'aura di superiorità culturale e di brillantezza da copertina, incapace però di parlare davvero a chi vive quel disagio esistenziale che ormai trapassa ogni strato della nostra società.
 
     **La Stanchezza di un Sistema che Non Ascolta**

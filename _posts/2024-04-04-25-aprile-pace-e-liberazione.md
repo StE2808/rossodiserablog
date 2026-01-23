@@ -11,7 +11,6 @@ tags: ["25 aprile", "Berlusconi", "Biden", "Conflitto", "fascismo", "fascista", 
 ---
 Il 25 aprile si avvicina. Quest'anno la Festa della Liberazione appare più importante che mai. E' importante perché resta lì, ogni anno ed ogni anno ci ricorda che la Liberazione è affar nostro, che siamo noi i fautori, gli artefici del nostro destino. Una ciclica chiamata alle armi, insomma, una annuale suonata di tromba per esortare alla lotta anche se il richiamo del 25 aprile è pacifico e pacificatore. La lotta di oggi deve servire per mettere fine alle guerre in corso e per scongiurare un allargamento dei conflitti ed evitare, così, la necessità del ricorso alla violenza della guerra.
 
-![](/assets/images/2024/04/salvini_berlusconi_meloni_2018_collage.webp)
 Se con la morte di Berlusconi e l'eclissi di Fini, gli sdoganatori del neofascismo, per loro stessa ammissione, si sperava di aver scongiurato certi pericoli, il respiro è subito tornato corto, ansimante: con l'avvento della Meloni e del suo governo siamo scivolati ancora più a destra, anche Berlusconi pare se ne fosse accorto, alla fine.
 
 ![](/assets/images/2024/04/sangiuliano.webp)

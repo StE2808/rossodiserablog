@@ -11,7 +11,6 @@ tags: ["Azione", "Calenda", "Costa", "Italia Viva", "Marattin", "Renzi", "Terzo 
 ---
 Fisco e Giustizia visti dai Liberali: con questo titolo si è svolta, ieri sera a Perugia, la seconda tappa del tour nazionale di Luigi Marattin ed Enrico Costa, deputati rispettivamente di Italia Viva e Azione. I due, già firmatari di una  lettera rivolta ai due leader del Terzo Polo Carlo Calenda e Matteo Renzi, nella quale chiedevano loro di non continuare a dividere «il campo del riformismo liberale», provando a ricucire uno strappo che ha causato un «danno di immagine» e dalle «modalità traumatiche», si sono incontrati con un manipolo di vecchie glorie, si fa per dire, della politica locale e con "orfani" in cerca di una casa.
 
-![](/assets/images/2023/09/img_4035.webp)
 Costa ha attaccato frontalmente la magistratura che a suo dire terrebbe in ostaggio i procedimenti penali ingolfati "come in una autostrada piena di traffico" per portare avanti il lavoro a rilento e riuscendo ad avere, così, un controllo diretto degli amministratori, soprattutto locali, vittime delle azioni penali, che non verrebbero ricandidate nemmeno dai propri partiti, di fatto paralizzando lo Stato.
 
 ![](/assets/images/2023/09/img_4034.webp)

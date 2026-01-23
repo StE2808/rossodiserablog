@@ -11,7 +11,6 @@ tags: ["attacco", "Eserciti", "gaza", "Gran Bretagna", "guerra", "hamas", "Houth
 ---
 Tanto tuonò che alla fine piovve. Lo aveva annunciato da anni Papa Francesco definendola Terza Guerra Mondiale a pezzi. E così, l'America e la Gran Bretagna sono entrate attivamente in una sorta di "operazione speciale", se vogliamo utilizzare un eufemismo putiniano, per carità, non in guerra, ma stanotte una coalizione con a capo loro due ha bombardato i territori yemeniti.
 
-![](/assets/images/2024/01/cznmcy1wcml2yxrll3jhd3bpegvsx2ltywdlcy93zwjzaxrlx2nvbnrlbnqvbhivchg2ndyxmzgtaw1hz2uta3d2eg1szgquanbn.webp)
 Infatti stanotte c'è stato un salto di qualità, a quasi 100 giorni, dal 7 ottobre, ossia dall'attentato che ha scatenato la reazione vendicativa dell'invasione di Gaza da parte dell'esercito Israeliano, che ha causato, ad oggi, il raggiungimento di una cifra spaventosa di morti tra i civili palestinesi, oltre 23 mila, di cui circa 8mila bambini.
 
 Stanotte una coalizione di paesi guidata dagli Stati Uniti ha bombardato diversi siti militari usati dai ribelli Houthi in Yemen e questo in risposta agli attacchi che gli stessi ribelli avevano compiuto nelle ultime settimane contro alcune navi cargo in transito nel mar Rosso.

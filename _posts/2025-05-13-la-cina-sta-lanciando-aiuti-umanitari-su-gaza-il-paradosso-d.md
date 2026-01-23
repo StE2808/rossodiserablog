@@ -11,7 +11,6 @@ tags: ["aiuti", "Cina", "diritti", "Etica", "Europa", "gaza", "giustizia", "Gove
 ---
 In un bizzarro capovolgimento della narrativa a cui siamo abituati, la Cina - quella che comunemente viene dipinta come la "cattiva" della situazione geopolitica mondiale - ha recentemente inviato aiuti umanitari a Gaza.
 
-![](/assets/images/2025/05/img_6425-1.webp)
 Proprio così: il paese che spesso descriviamo come il regno dell'autoritarismo ha deciso di mandare cibo, medicine e beni di prima necessità alla popolazione palestinese in difficoltà.
 
 Nel frattempo, il nostro Occidente - baluardo autoproclamato di democrazia, diritti umani e valori morali superiori - pare abbia altre priorità. Invece di focalizzarsi sugli aiuti umanitari per i civili, continua a garantire forniture militari a Israele.

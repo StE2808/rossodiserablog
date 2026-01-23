@@ -11,7 +11,6 @@ tags: ["capitale", "capitalismo", "diritti", "guerra", "Karl. Marx", "libert\u00
 ---
 La guerra è tornata di moda. Anzi, per dire il vero, non è mai passata la smania di farsi la guerra. Forse sono cambiati gli equilibri, gli schieramenti, i contesti, i mezzi e, financo, le ragioni di prendersi a cannonate, ergere barriere, spendere fortune per arrecare danni che costano altre fortune riparare. Si potrebbero spendere questi denari per frenare il collasso climatico, finanziare la ricerca, trovare soluzioni per debellare malattie e povertà, invece ci si scervella sul come inventare un ordigno più distruttivo possibile, ma che non ci annienti, ci cancelli definitivamente: questo errore era stato fatto da entrambe gli schieramenti, i blocchi, con la corsa al nucleare, salvo poi capire che non si potrebbe combattere a suon di testate nucleari nessuna guerra, non rimarrebbe vivo alcun contendente .
 
-![](/assets/images/2024/01/img_4477-1.webp)
 Ed allora?  Tornano in mente reminiscenze marxiane che soccorrono ed aiutano a comprendere i motivi della necessità di farsi guerra. Tutto ricade sulla tendenza capitalistica di concentrare i capitali. La centralizzazione del capitale è quel fenomeno per cui vi è una ineluttabile tendenza a far convogliare la ricchezza in poche, pochissime mani. E siamo oggi a buon punto, se è vero, come è vero, che l'80% del capitale azionario mondiale è posseduto da menome del 2% della popolazione.
 
 ![](/assets/images/2024/01/img_4475-1.webp)

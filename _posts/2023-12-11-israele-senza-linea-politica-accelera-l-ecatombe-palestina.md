@@ -11,7 +11,6 @@ category: politica-estera
 ---
 Mentre la conta dei morti civili a Gaza supera i 18 mila, Israele non ha piani. L'aviazione continua a bombardare, a martellare incessantemente assieme all'esercito di terra ma il governo di Netanyahu non è in grado di partorire una politica degna di questo nome, non ha una visione.
 
-![](/assets/images/2023/12/img_4362-1.webp)
     *Non stanno pensando di spostare la popolazione di Gaza fuori dalla Striscia*, lo ha ribadito Eylon Levy, portavoce del premier Benjamin Netanyahu. Così, mentre a Gaza non c'è acqua se non in bottiglia portata con gli aiuti, il cibo è sempre più scarso, il sistema fognario è collassato, il sistema sanitario è azzerato, gli ospedali sono oggetto di continui attacchi, in questa situazione in cui non regna che solo il terrore, Israele non sa che pesci pigliare.
 
 ![](/assets/images/2023/12/img_4363-1.webp)

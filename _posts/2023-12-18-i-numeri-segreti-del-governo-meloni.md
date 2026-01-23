@@ -11,7 +11,6 @@ tags: ["carcerati", "carcere", "femminicidi", "Governo", "Meloni", "migranti", "
 ---
 Ogni tre giorni viene commesso un femminicidio, oramai questa conta la conosciamo tristemente fin troppo bene. Ma ce n'è un'altra di cui si parla sempre troppo poco: ogni cinque giorni si suicida un detenuto all’interno delle carceri italiane. E, che dire, ogni giorno muoiono sei migranti nel tentativo di raggiungere le coste italiane.
 
-![](/assets/images/2023/12/image-from-rawpixel-id-3373446-original.webp)
 Certo, in un periodo storico come quello attuale dove i politici aizzano alla galera, alla forca la popolazione che già ha risentimento, odio represso, frustrazioni di vario genere ed è presa per il collo dalla povertà, questo discorso, questa conta scomoda, ha poco seguito, non porta voti ed anzi attira sarcasmo, critiche e disappunto. 
 
 Ed allora via libera, sdoganato il pensiero trogloditico: in carcere ci devono marcire questi detenuti ed assieme mettiamoci anche i migranti, tutti, compresi i bambini, rei di tentare di sfuggire alla miseria mortifera. E certamente in galera a pane ed acqua:  ma non i corruttori, i concussori, i corrotti ed i corruttori ed assolutamente invece vanno beatificati gli evasori fiscali, loro sì che sono costretti da questo Stato canaglia ad evadere per sopravvivere, scappano dal "pizzo di Stato" come la Meloni definisce le tasse. 
