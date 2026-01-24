@@ -21,13 +21,13 @@ focus_keyword: ''
 ---
 C'è una domanda che prima o poi ci facciamo tutti, davanti a un telegiornale che non avremmo voluto guardare: ma la democrazia sta bene? Perché ultimamente ha una cera strana, e ogni tanto dice cose che non le avevamo mai sentito dire.
 
-Il 23 febbraio 2024, a Pisa, la polizia ha caricato un corteo pacifico di studenti pro-Palestina. Diciotto feriti, dieci minorenni. Mattarella, che pesa le parole come un farmacista pesa i grammi, ha parlato di "fallimento". Non eccesso, non errore. Fallimento.
+Il 23 febbraio 2024, a Pisa, la polizia ha [caricato un corteo pacifico di studenti](/fatti-di-pisa-mattarella-striglia-il-governo/) pro-Palestina. Diciotto feriti, dieci minorenni. Mattarella, che pesa le parole come un farmacista pesa i grammi, ha parlato di "fallimento". Non eccesso, non errore. Fallimento.
 
 ## La febbre italiana
 
 L'Italia ha sviluppato una certa creatività normativa sulle proteste. Il decreto anti-rave del 2022: da tre a sei anni per "raduni" non autorizzati — formulazione così elastica che Amnesty ne ha chiesto l'abrogazione. Il decreto sicurezza del 2025: sedersi in strada diventa reato, la resistenza passiva in carcere pure. Qualcuno l'ha chiamata "norma anti-Gandhi".
 
-Intanto Ultima Generazione ha collezionato 2.000 denunce, 180 procedimenti, 90 fogli di via. A Padova: associazione a delinquere. Per aver bloccato il traffico.
+Intanto [Ultima Generazione](/regalo-del-governo-carcere-e-multe-per-gli-attivisti-del-cli/) ha collezionato 2.000 denunce, 180 procedimenti, 90 fogli di via. A Padova: associazione a delinquere. Per aver bloccato il traffico.
 
 ## Lo specchio degli altri
 

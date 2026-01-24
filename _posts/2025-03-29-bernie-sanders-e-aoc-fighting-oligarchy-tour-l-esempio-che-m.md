@@ -14,7 +14,7 @@ Avete mai osservato un fiume che scorre con determinazione, superando ogni ostac
 ## Bernie Sanders e AOC: La Strategia di un'Opposizione Efficace
 Sanders, 83 primavere cariche di battaglie, potrebbe tranquillamente godersi la pensione in una casetta del Vermont, magari scrivendo memorie davanti a un caminetto. Invece, eccolo lì, a tuonare contro i miliardari con la stessa intensità di quando marciava per i **diritti civili** negli anni '60. Non ha mai cambiato rotta, non ha mai abbassato la voce, non ha mai smesso di lottare.
 
-E accanto a lui, **Alexandria Ocasio-Cortez**, cameriera diventata legislatrice, che parla di **Green New Deal** e **disuguaglianza economica** come se stesse raccontando la sua storia personale – perché, in fondo, lo è. La sua autenticità non è studiata a tavolino, la sua passione non è recitata.
+E accanto a lui, **Alexandria Ocasio-Cortez**, cameriera diventata legislatrice, che parla di **Green New Deal** e [**disuguaglianza economica**](/la-scimmia-di-forbes/) come se stesse raccontando la sua storia personale – perché, in fondo, lo è. La sua autenticità non è studiata a tavolino, la sua passione non è recitata.
 
 Voltate ora lo sguardo al panorama italiano. Cosa vedete? Figure che sembrano più impegnate a litigare tra loro che a costruire un'**alternativa politica** credibile. Più interessate a capire chi sarà il prossimo candidato alle elezioni che a definire cosa rappresenta davvero l'opposizione.
 

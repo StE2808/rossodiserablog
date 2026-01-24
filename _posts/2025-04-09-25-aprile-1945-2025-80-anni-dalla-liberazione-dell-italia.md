@@ -37,7 +37,7 @@ Il 25 aprile oggi: un patrimonio da preservare
 
 A 80 anni di distanza, il 25 aprile rimane una data fondamentale per l'identità democratica dell'Italia. Celebrare la Liberazione significa riconoscere il valore di quella lotta e l'importanza dei principi di libertà, democrazia e giustizia sociale che ne furono alla base.
 
-In un'epoca in cui si assiste a preoccupanti tentativi di revisionismo storico e a rigurgiti di ideologie estremiste, è più che mai necessario mantenere viva la memoria di ciò che il nazifascismo ha rappresentato e del sacrificio di chi lo ha combattuto.
+In un'epoca in cui si assiste a preoccupanti tentativi di [revisionismo storico](/un-antifascista-al-tempo-della-meloni/) e a rigurgiti di ideologie estremiste, è più che mai necessario mantenere viva la memoria di ciò che il nazifascismo ha rappresentato e del sacrificio di chi lo ha combattuto.
 
 La Festa della Liberazione non è solo un ricordo del passato, ma un monito per il presente e una responsabilità per il futuro: difendere e promuovere quei valori democratici che sono costati così tanto.
 

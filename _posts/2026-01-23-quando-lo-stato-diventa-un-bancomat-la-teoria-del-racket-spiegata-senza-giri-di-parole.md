@@ -32,7 +32,7 @@ La parola "racket" ci fa pensare immediatamente alla mafia, alle estorsioni, al 
 
 Un racket, in questo senso, è un gruppo di potere – economico, politico, corporativo – che garantisce vantaggi e protezione ai suoi membri. Il prezzo? La lealtà assoluta al gruppo. La conseguenza? L'esclusione sistematica di chi sta fuori.
 
-Pensateci. Quante volte avete letto di appalti che finiscono sempre nelle stesse mani? Di normative scritte su misura per favorire specifici settori economici? Di porte girevoli tra politica e grandi corporation, dove gli stessi individui passano senza soluzione di continuità da ruoli pubblici a incarichi privati e viceversa?
+Pensateci. Quante volte avete letto di appalti che finiscono sempre nelle stesse mani? Di [normative scritte su misura](/meloni-contro-i-diritti-dei-lavoratori/) per favorire specifici settori economici? Di porte girevoli tra politica e grandi corporation, dove gli stessi individui passano senza soluzione di continuità da ruoli pubblici a incarichi privati e viceversa?
 
 Non è corruzione nel senso classico del termine. È qualcosa di più strutturale: è la trasformazione dello Stato in un **club privato**  dove l'accesso ai benefici dipende dall'appartenenza, non dai diritti universali.
 
@@ -96,9 +96,9 @@ Contemporaneamente, scopriamo che:
 - Le aziende sanitarie private ricevono contributi pubblici crescenti
 - I professionisti migliori migrano dal pubblico al privato (spesso convenzionato)
 
-Non è inefficienza. È un progetto preciso: indebolire il pubblico per rendere inevitabile il privato. E quando il privato entra, lo fa con soldi pubblici, creando profitti privati da risorse collettive.
+Non è inefficienza. È un progetto preciso: [indebolire il pubblico](/sicurezza-non-solo-criminalita/) per rendere inevitabile il privato. E quando il privato entra, lo fa con soldi pubblici, creando profitti privati da risorse collettive.
 
-Questo è il racket in azione: un sistema che privatizza i guadagni e socializza le perdite, che trasforma diritti universali in servizi a pagamento, che converte beni comuni in opportunità di business.
+Questo è il racket in azione: un sistema che privatizza i guadagni e socializza le perdite, che trasforma diritti universali in servizi a pagamento, che converte [beni comuni](/la-riconquista-degli-spazi-dal-manifesto-di-ventotene-alla-c/) in opportunità di business.
 
 ## Due Modi di Guardare al Futuro
 

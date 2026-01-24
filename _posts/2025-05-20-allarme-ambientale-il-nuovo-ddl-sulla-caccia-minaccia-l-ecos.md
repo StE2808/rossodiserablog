@@ -13,7 +13,7 @@ Un controverso disegno di legge proposto dal Ministro dell'Agricoltura Francesco
 
 Si tratta di una riforma radicale e preoccupante.
 
-La bozza di legge, articolata in 18 punti, rappresenta un drastico cambio di paradigma nella gestione della fauna selvatica italiana. Tra le misure più allarmanti, il DDL prevede l'aumento da 7 a ben 47 specie cacciabili, quasi settuplandone il numero. Questo ampliamento senza precedenti apre le porte a una pressione venatoria che potrebbe rivelarsi insostenibile per molte specie già in difficoltà.
+La bozza di legge, articolata in 18 punti, rappresenta un drastico cambio di paradigma nella gestione della fauna selvatica italiana. Tra le misure più allarmanti, il [DDL](/apre-la-caccia-una-tradizione-che-si-trascina-nel-sangue/) prevede l'aumento da 7 a ben 47 specie cacciabili, quasi settuplandone il numero. Questo ampliamento senza precedenti apre le porte a una pressione venatoria che potrebbe rivelarsi insostenibile per molte specie già in difficoltà.
 
 Paradossalmente, il testo definisce la caccia come attività che "concorre alla tutela della biodiversità e dell'ecosistema", un'affermazione che contraddice decenni di studi scientifici e politiche conservazionistiche a livello nazionale ed europeo.
 

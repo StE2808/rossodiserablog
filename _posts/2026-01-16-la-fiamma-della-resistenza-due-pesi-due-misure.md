@@ -53,4 +53,4 @@ Non si tratta di giustificare la violenza da nessuna parte. Si tratta di chieder
 
 La verità è scomoda: la resistenza è resistenza, ovunque avvenga. E l’oppressione rimane oppressione, qualunque sia l’uniforme di chi la perpetra.​​​​​​​​​​​​​​​​
 
-Donna Vita e Libertà ma anche Palestina Libera.
+Donna Vita e Libertà ma anche [Palestina Libera](/israele-ha-gettato-la-maschera-vuole-la-fine-della-palestina/).

@@ -11,7 +11,7 @@ tags: ["cibernetica", "Conflitto", "Economia", "Etica", "Europa", "giustizia", "
 ---
 Stiamo per affidare la sicurezza nazionale ad un pazzo criminale. Potrebbe succedere domani a noi, oggi lo sta provando l'Ucraina, nazione sotto ricatto. Infatti è di poche ore fa l'affermazione: "Se spegnessi Starlink, la difesa ucraina crollerebbe subito".
 
-Questo è Elon Musk che, da capo bullo, non solo minaccia l'Ucraina ma dimostra tutta la cosiddetta volubilità ed inaffidabilità di un uomo fuori da ogni controllo, di un pazzo al quale è stato affidato un potere enorme.
+Questo è [Elon Musk](/il-saluto-romano-di-musk-la-storia-si-ripete/) che, da capo bullo, non solo minaccia l'Ucraina ma dimostra tutta la cosiddetta volubilità ed inaffidabilità di un uomo fuori da ogni controllo, di un pazzo al quale è stato affidato un potere enorme.
 
 Ma questo veramente non basta ai nostri governanti per capire quanto sia pericoloso affidarsi a lui? Consegnare la sicurezza cibernetica della nostra nazione ad un personaggio del genere? Oggi tocca all'Ucraina, domani potrebbe essere il nostro turno.
 

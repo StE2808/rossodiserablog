@@ -15,13 +15,13 @@ E’ evidente un preoccupante pattern di politiche repressive che coinvolge simu
 
 Tutto acquista una luce nuova ed acquisisce nitidezza quando si realizza la politica di supporto occidentale verso regimi violenti in vari scenari geopolitici, dall'Ucraina alla Libia, ignorando deliberatamente i pronunciamenti della Corte Internazionale dell'Aia.
 
-L'impoverimento progressivo della classe media, ulteriormente minacciata dall'intelligenza artificiale che rischia di privarla dell'unico vantaggio competitivo - la cultura - rispetto al lavoro manuale, ne è la ciliegina sulla torta.
+L'impoverimento progressivo della classe media, ulteriormente minacciata dall'[intelligenza artificiale](/l-intelligenza-artificiale-e-qui-come-gestirla-senza-farla-d/) che rischia di privarla dell'unico vantaggio competitivo - la cultura - rispetto al lavoro manuale, ne è la ciliegina sulla torta.
 
 La riduzione degli ammortizzatori sociali, dí investimenti in sanità e sviluppo a favore del riarmo, presentato come priorità anche in assenza di minacce concrete sono la linfa che pompa questa destra estrema che sviluppa nella recessione e nella povertà materiale e morale del popolo.
 
 Se poi ci rivolgiamo verso il conflitto ucraino, possiamo vedere come Trump, diversamente dagli europei, sembri intenzionato a fermare la guerra, probabilmente perché identifica nella Cina, non nella Russia, il vero avversario della supremazia americana. Lo si può detestare o persino odiare ma bisogna ammettere che per quanto sballata, Trump ha una politica interna ed un’altra internazionale. Noi europei stentiamo persino a balbettarne il titolo.
 
-Se poi analizziamo la devastante situazione in Palestina, non possiamo ignorare che l'intervento di Steve Witkoff servirà solo a permettere a Netanyahu di riprendere "una strage ancora più terribile" una volta risolto il problema degli ostaggi. Ciò che allarma particolarmente è "l'assenza di una seria voce organizzata" contro questo massacro.
+Se poi analizziamo la devastante situazione in Palestina, non possiamo ignorare che l'intervento di Steve Witkoff servirà solo a permettere a Netanyahu di riprendere "una strage ancora più terribile" una volta risolto il problema degli ostaggi. Ciò che allarma particolarmente è "l'assenza di una seria voce organizzata" contro questo [massacro](/israele-senza-linea-politica-accelera-l-ecatombe-palestina/).
 
 La mancanza di iniziative concrete, di una opposizione politica in Italia ma anche di azioni concrete in Europa è preoccupante.
 

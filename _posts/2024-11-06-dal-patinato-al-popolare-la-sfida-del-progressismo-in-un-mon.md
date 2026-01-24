@@ -22,7 +22,7 @@ E in questa percezione, la disillusione scava il suo solco e apre la strada al p
 
 ## La Sfida della Verità in un Mondo di Disinformazione
 
-C'è una verità scomoda in tutto questo: quando le risposte sembrano false, la disinformazione diventa un richiamo irresistibile. Non è solo un attacco esterno, ma una forma di ribellione di chi si sente continuamente preso in giro. Il populismo, con tutte le sue distorsioni, appare più sincero perché si presenta senza troppi fronzoli. Il progressismo, nel tentativo di conservare un'immagine impeccabile, finisce per apparire disonesto, e la "raffinatezza ipocrita" non è più vista come superiorità morale, ma come un modo per fuggire dai problemi veri.
+C'è una verità scomoda in tutto questo: quando le risposte sembrano false, la [disinformazione](/il-flagello-delle-fake-news-italia-campione-d-europa-di-fals/) diventa un richiamo irresistibile. Non è solo un attacco esterno, ma una forma di ribellione di chi si sente continuamente preso in giro. Il populismo, con tutte le sue distorsioni, appare più sincero perché si presenta senza troppi fronzoli. Il progressismo, nel tentativo di conservare un'immagine impeccabile, finisce per apparire disonesto, e la "raffinatezza ipocrita" non è più vista come superiorità morale, ma come un modo per fuggire dai problemi veri.
 
 ## Ricostruire il Progresso: Verso una Politica di Sostanza
 

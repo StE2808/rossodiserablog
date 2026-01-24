@@ -11,7 +11,7 @@ tags: ["Brandizzo", "Ferrovia RFI", "lavoro", "morti bianche", "sicurezza"]
 ---
 È una strage che non doveva accadere quella di Brandizzo. Sono morti cinque operai, cinque persone, cinque lavoratori mentre erano intenti ad effettuare una manutenzione ordinaria e notturna sulla linea ferroviaria Milano-Torino.
 
-E' inconcepibile e figlio del sistema dei subappalti e degli appalti per far risparmiare le imprese, per massimizzare i profitti infischiandosene della salute e della vita dei lavoratori e delle lavoratrici. 
+E' inconcepibile e figlio del [sistema dei subappalti](/l-omicidio-plurimo-di-stato-di-firenze/) e degli appalti per far risparmiare le imprese, per massimizzare i profitti infischiandosene della salute e della vita dei lavoratori e delle lavoratrici. 
 
 Lavori effettuati senza rispettare lo stop del traffico per evitare di ritardare la consegna del lavoro visto che avrebbe causato l'applicazione di costose penali, ma a che prezzo? E' inconcepibile che cinque persone escano di casa per lavorare e non vi facciano mai più rientro per logiche economiche.
 

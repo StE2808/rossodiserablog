@@ -26,7 +26,7 @@ Oggi ti dicono: "Il tuo corpo è tuo, fanne quello che vuoi" - ma solo se quello
 
 Il capolavoro però è stato vendere il patriarcato come femminismo.
 
-Ecco il doppio pensiero nella sua forma più tossica: il patriarcato ha imparato a parlare il linguaggio dell'empowerment. Ti vende l'oggettificazione sessuale chiamandola "possedere la propria sessualità". Ti vende ore di lavoro estetico non retribuito chiamandole "self-care". Ti vende l'adesione a standard maschilisti chiamandola "scelta femminista".
+Ecco il doppio pensiero nella sua forma più tossica: il patriarcato ha imparato a parlare il linguaggio dell'empowerment. Ti vende l'[oggettificazione sessuale](/violenza-di-genere-conoscere-per-cambiare/) chiamandola "possedere la propria sessualità". Ti vende ore di lavoro estetico non retribuito chiamandole "self-care". Ti vende l'adesione a standard maschilisti chiamandola "scelta femminista".
 
 "Indosso il rossetto per me stessa" - ma ti senti nuda senza. "Mi depilo perché mi piace" - ma hai iniziato a 12 anni perché avevi vergogna. "Mi alleno per stare bene" - ma il "benessere" assomiglia stranamente agli standard estetici maschili. Il sistema ti ha convinto che conformarti sia ribellione, che servire lo sguardo altrui sia affermare te stessa.
 

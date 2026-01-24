@@ -45,7 +45,7 @@ La risposta americana a questa obiezione è stata geniale, nel suo cinismo. Sicc
 
 È come se qualcuno entrasse in casa tua, ti portasse via, e poi sostenesse che non era casa tua perché il contratto d'affitto aveva una clausola irregolare.
 
-**Il Segretario Generale dell'ONU**, António Guterres, ha parlato di "pericoloso precedente". Ma la parola "precedente" è quasi un eufemismo. Un precedente è qualcosa che potrebbe ripetersi. Qui siamo di fronte a qualcosa che sta già ridefinendo le regole del gioco mentre parliamo.
+**Il Segretario Generale dell'ONU**, António Guterres, ha parlato di "pericoloso precedente". Ma la parola "precedente" è quasi un eufemismo. Un precedente è qualcosa che potrebbe ripetersi. Qui siamo di fronte a qualcosa che sta già [ridefinendo le regole del gioco](/la-banalita-del-male-non-e-mai-tramontata/) mentre parliamo.
 
 ---
 
@@ -67,7 +67,7 @@ Solo il **premier spagnolo Sánchez** ha avuto il coraggio di chiamare le cose c
 
 **L'Italia**, invece, ha dichiarato che "l'azione militare esterna non è la strada da percorrere" — formulazione che non offende nessuno e non significa nulla.
 
-**C'è un termine tecnico per questo atteggiamento**: vassallaggio. Quando dipendi da qualcuno al punto da non poter dire che sta sbagliando, anche quando sta sbagliando in modo clamoroso.
+**C'è un termine tecnico per questo atteggiamento**: [vassallaggio](/la-madman-theory-da-nixon-a-trump/). Quando dipendi da qualcuno al punto da non poter dire che sta sbagliando, anche quando sta sbagliando in modo clamoroso.
 
 ---
 
