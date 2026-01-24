@@ -13,7 +13,7 @@ Oggi, 15 settembre 2023, il mondo dell'arte ha perso una delle sue figure più i
 
 ## L'Arte che Sfida le Convenzioni
 
-Botero ha sempre avuto un approccio unico alla rappresentazione artistica, sfidando le convenzioni e gli stereotipi. Le sue opere, spesso descritte come "grosse" o "gonfie", sono in realtà un inno alla grandezza della vita, un'esaltazione della bellezza in tutte le sue forme.
+Botero ha sempre avuto un approccio unico alla rappresentazione artistica, sfidando le convenzioni e gli stereotipi. Le sue opere, spesso descritte come "grosse" o "gonfie", sono in realtà un inno alla grandezza della vita, un'esaltazione della [bellezza](/il-paradosso-del-doppio-pensiero-quando-il-patriarcato-si-veste-da-liberazione/) in tutte le sue forme.
 
 ## Il Legame con l'Italia
 

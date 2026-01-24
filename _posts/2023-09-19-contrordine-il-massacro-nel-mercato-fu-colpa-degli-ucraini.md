@@ -17,6 +17,6 @@ La notizia è stata data per prima dal New York Times ed ha fatto il giro del mo
 
 Le prove prese in esame e riportate dal giornale sono: "frammenti di missili, immagini satellitari, resoconti di testimoni e post sui social media, suggeriscono fortemente che l'attacco catastrofico sia stato il risultato di un missile di difesa aerea ucraino errante, lanciato da un sistema di lancio Buk" dice il New York Times "sembra che sia stato un tragico incidente". Ma, nella sua tragicità, la notizia sarebbe normale, se non facesse parte di un clima, di una volontà discriminatoria nei confronti dei russi che vede sempre difendere gli ucraini, anche quando palesemente mentono negando proprie responsabilità. 
 
-La guerra è certamente fatta anche di propaganda, di false notizie, di sofisticazioni rilasciate ad arte o di omissioni volute: questo conflitto non ne è esente.
+La guerra è certamente fatta anche di [propaganda](/il-flagello-delle-fake-news-italia-campione-d-europa-di-fals/), di false notizie, di sofisticazioni rilasciate ad arte o di omissioni volute: questo conflitto non ne è esente.
 
-L'invio continuo di armi, sempre maggiore e di maggiore portata ed efficacia sta causando morti, devastazioni inimmaginabili. Una forza di interposizione sarebbe l'unica soluzione. Quando taceranno le armi così da sedersi attorno al un tavolo per trattare la pace?
+L'invio continuo di armi, sempre maggiore e di maggiore portata ed efficacia sta causando morti, devastazioni inimmaginabili. Una forza di interposizione sarebbe l'unica soluzione. Quando taceranno le armi così da sedersi attorno al un tavolo per trattare la [pace](/spiragli-di-pace-in-ucraina/)?

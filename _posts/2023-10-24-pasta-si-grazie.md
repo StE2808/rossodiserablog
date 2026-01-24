@@ -20,11 +20,11 @@ Insomma che la pasta faccia ingrassare è falso. Infatti i carboidrati presenti 
 
 Esiste un altro mito che oggi viene definitivamente sfatato, ossia il fatto che sia meglio mangiare la pasta prima delle 18:00. Altro falso storico e non suffragato da alcun dato oggettivo. Anzi visto che il corpo continua a funzionare anche dopo quest’ora, questo deve continuare ad essere alimentato proprio come un'autovettura e la sua benzina.
 
-Mangiare pasta, poi, a cena, magari senza esagerare, certamente, ha degli indubbi vantaggi: favorisce il riposo notturno e il buon umore. La sua assunzione infatti stimola la produzione di serotonina, un neuromediatore fondamentale per la regolazione dell’umore e del ritmo del sonno.
+Mangiare pasta, poi, a cena, magari senza esagerare, certamente, ha degli indubbi vantaggi: favorisce il riposo notturno e il buon umore. La sua assunzione infatti stimola la produzione di [serotonina](/il-cioccolato-un-viaggio-sensoriale-nel-regno-della-neurogas/), un neuromediatore fondamentale per la regolazione dell’umore e del ritmo del sonno.
 
 Che la pasta sia un alimento difficile da digerire è poi ovviamente non corretto, semmai è il suo condimento ad esserlo o meno. La cottura al dente, poi, può agevolarne la digeribilità. Infatti una pasta troppo cotta che, perde molte delle sue proprietà e tende a diventare come una colla nel tubo digerente, rendendo più difficile la sua digestione.
 
-C'è poi un ulteriore mito da sfatare: il fatto che togliendo la pasta dalla dieta permetta un dimagramento più o meno rapido. Niente di più sbagliato, infatti togliendo i carboidrati e quindi limitando l'apporto energetico, si ha certamente un calo ponderale ma, l'uso di diete troppo restrittive peggiora la composizione corporea, ci si disidrata e si perde massa magra muscolare che porta ad un calo del fabbisogno energetico. Questa situazione rallenta le funzioni corporee alterando il metabolismo.
+C'è poi un ulteriore mito da sfatare: il fatto che togliendo la pasta dalla dieta permetta un dimagramento più o meno rapido. Niente di più sbagliato, infatti togliendo i carboidrati e quindi limitando l'apporto energetico, si ha certamente un calo ponderale ma, l'uso di diete troppo restrittive peggiora la composizione corporea, ci si disidrata e si perde massa magra muscolare che porta ad un calo del fabbisogno energetico. Questa situazione rallenta le funzioni corporee alterando il [metabolismo](/dieta-mediterranea-il-trattorista-ed-il-contadino/).
 
 La pasta senza glutine poi, con il suo contenuto variabile di zuccheri e grassi addizionati per varie ragioni non è certo indicata tra chi non ha accertate allergie o severe intolleranze.
 

@@ -11,11 +11,11 @@ category: societa
 ---
 Lascia veramente pensare quanto odio sia stato seminato tra la gente e nel popolo. Ci hanno voluti, per progetto, gli uni contro gli altri e ci sono riusciti, poi, ovviamente, non siamo mai stati uniti e non lo avremmo nemmeno potuto essere per troppi motivi, primo tra tutti la profonda ignoranza diffusa volutamente, da troppo.
 
-E poi come se non bastasse ci abbiamo aggiunto altro odio, quasi unificatore, quello contro i migranti. E così, se non hanno il passaporto affoghino, se arrivano regolarmente sfruttiamoli e non facciamoli integrare, infondo abbiamo bisogno di nemici, no?
+E poi come se non bastasse ci abbiamo aggiunto altro odio, quasi unificatore, quello contro i [migranti](/immigrazione-paura-e-nemici/). E così, se non hanno il passaporto affoghino, se arrivano regolarmente sfruttiamoli e non facciamoli integrare, infondo abbiamo bisogno di nemici, no?
 
 Un progetto portato avanti con metodo e cinismo e fa paura. Ma poi, chi ne è vittima è così tanto preso ad odiare che non si accorge che gli hanno tolto le mutande e lo stanno invitando amabilmente a diventare uno schiavo.
 
-Siamo in mano a manipolatori particolarmente bravi. Poveri noi.
+Siamo in mano a [manipolatori](/sovraffollamento-carceri-e-sicurezza-le-balle-del-governo/) particolarmente bravi. Poveri noi.
 
 ## OdioSociale #Odio #manipolazionementale
 

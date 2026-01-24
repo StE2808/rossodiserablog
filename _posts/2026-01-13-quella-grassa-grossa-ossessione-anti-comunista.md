@@ -48,7 +48,7 @@ excerpt: |-
   Una pagina buia della nostra democrazia, dove sovranità nazionale e vite umane furono sacrificate agli equilibri della Guerra Fredda.​​​​​​​​​​​​​​​​
 focus_keyword: Comunista anticomunista
 ---
-Questo governo sembra ossessionato dai comunisti, li vede ovunque. Ma c’e’ un motivo storico. Siamo stati, noi italiani, soprattutto certi di noi, rieducati dagli eventi indotti dai vincitori della seconda guerra mondiale. Parliamo del piano “Demagnetize” e la strategia della tensione: una storia di ingerenze e violenza. 
+Questo governo sembra ossessionato dai comunisti, li vede ovunque. Ma c’e’ un motivo storico. Siamo stati, noi italiani, soprattutto certi di noi, rieducati dagli eventi indotti dai vincitori della seconda guerra mondiale. Parliamo del piano "Demagnetize" e la [strategia della tensione](/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/): una storia di ingerenze e violenza. 
 
 Durante la Guerra Fredda, gli Stati Uniti svilupparono il piano segreto “Demagnetize” con l’obiettivo di ridurre l’influenza dei partiti comunisti in Italia e Francia, specialmente nei sindacati. Un documento top secret americano del 1952 rivela che i governi italiano e francese non dovevano essere informati del piano, dato che interferiva chiaramente con la loro sovranità nazionale.
 

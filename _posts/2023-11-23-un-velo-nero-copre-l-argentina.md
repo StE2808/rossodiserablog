@@ -13,7 +13,7 @@ Il populismo ha vinto. La rabbia popolare guidata contro la "casta" ha scardinat
 
 Si era presentato in campagna elettorale con una motosega in mano ed ha annunciato la demolizione della struttura pubblica attraverso la privatizzazione del commercio ma anche della sanità e degli apparati statali.
 
-Sarà una festa delle liberalizzazioni ma la morte della libertà e della democrazia ed intanto Donald Trump esulta e si complimenta. 
+Sarà una festa delle liberalizzazioni ma la morte della libertà e della democrazia ed intanto [Donald Trump](/trump-e-musk-costruttori-di-un-nuovo-stato-autoritario-tecno/) esulta e si complimenta. 
 
 Milei, 53 anni, rappresentante dell’ultradestra, ha giocato bene le sue carte ed ha ottenuto i voti che gli servivano per vincere, negli ultimi giorni ha abbassato i toni ed evitato di parlare di  privatizzazioni devastanti come quella prevista nel comparto della sanità e dell’istruzione pubblica. Ha poi allungato il termine (ora progetto quinquennale) per l'abbandono del peso argentino e per la demolizione (aveva minacciato di dar fuoco)  al Banco Central e per l'adozione del dollaro Usa come moneta nazionale.
 

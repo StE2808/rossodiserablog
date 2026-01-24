@@ -9,13 +9,13 @@ description: "A volte un odore ti rapisce e ti porta lontano. Esiste un termine 
 tags: ["Anni \u201960", "Forme", "giovent\u00f9", "giovinezza", "Lutto", "Madeleine", "Morte", "nonna", "nonno", "Proust", "ragazzi", "ricordo", "societ\u00e0", "Solidariet\u00e0"]
 category: societa
 ---
-A volte un odore ti rapisce e ti porta lontano. Esiste un termine francese che ne tenta di descrive il fenomeno: Madeleine de Proust. 
+A volte un odore ti rapisce e ti porta lontano. Esiste un termine francese che ne tenta di descrive il fenomeno: [Madeleine de Proust](/il-cioccolato-un-viaggio-sensoriale-nel-regno-della-neurogas/). 
 
 E come a tutti,  è successo anche a me, diverse volte, sempre troppo poche. Chiarisco subito che si tratta di sensazioni dell'infanzia e della prima giovinezza e che qui narro brevemente ma che potrebbero, egoisticamente, riempire pagine se non capitoli. 
 
 Inizio col dire che mia nonna Mimma era una donna straordinaria nella sua normalità, con un cuore gentile ed i modi sempre garbati ed appropriati: una donna sempre elegante sia nei modi che  nell'aspetto. Aveva una memoria vivida che l'accompagnava attraverso la vita. 
 
-La storia legata ad una mia Madeleine ebbe un infausto inizio, una triste perdita, quando suo marito, mio nonno, uscito per lavoro, morì improvvisamente. Quel giorno, un pezzo del suo cuore se ne andò con lui, ma la  determinazione di mia nonna, a conservare il ricordo dell'uomo che aveva amato per tutta la vita, rimase forte.
+La storia legata ad una mia Madeleine ebbe un infausto inizio, una triste perdita, quando suo marito, mio [nonno](/25-aprile-1945-2025-80-anni-dalla-liberazione-dell-italia/), uscito per lavoro, morì improvvisamente. Quel giorno, un pezzo del suo cuore se ne andò con lui, ma la  determinazione di mia nonna, a conservare il ricordo dell'uomo che aveva amato per tutta la vita, rimase forte.
 
 Nonna Mimma aveva, sicuramente più di un modo per preservare il ricordo del nonno ma ne possedeva una speciale che mi coinvolgeva in una specie di rito che solo dopo un po', più avanti, ho compreso. Non ne abbiamo mai parlato ne tra di noi ne con nessuno, almeno al tempo, insomma era un nostro piccolo segreto: per mantenere viva la sua presenza usava un dolce stratagemma che coivolgeva diversi sensi ed uno in particolare, quello dell'olfatto.
 

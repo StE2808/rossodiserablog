@@ -19,7 +19,7 @@ Ma che animali siamo noi umani? Insensibili, senza compassione, privi di compren
 
 Tutta questa sofferenza per l'illusione di poter dominare il mondo e le sue regole, tutta questa sofferenza per illuderci di poter sconfiggere la nostra morte ed a scapito della vita di tutti gli altri, umani e non, leone compreso. 
 
-A proposito, almeno per quanto riguarda il circo con gli animali , c'è chi è più bravo ed avanzato di noi. Il circo con gli animali è vietato in:
+A proposito, almeno per quanto riguarda il circo con gli animali , c'è chi è più bravo ed avanzato di noi. Il [circo con gli animali](/l-assoggettamento-come-misura-dei-diritti/) è vietato in:
 Austria, Belgio, Rep. Ceca, Danimarca, Estonia, Finlandia, Grecia, Malta, Polonia, Slovacchia, Spagna, Svezia, Regno Unito, Portogallo, Olanda, Usa, Canada, Argentina, Brasile, Colombia, Nuova Zelanda, Costa Rica, Australia, India, Israele, Messico.
 
 Si può fare e si può fare subito. Almeno non facciamo finta di non sapere.

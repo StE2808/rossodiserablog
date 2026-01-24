@@ -15,7 +15,7 @@ Infatti era circolata, insistente, la voce che sosteneva che i vaccini contro il
 
 Questa "strana" molecola, poi, secondo certe versioni, o meglio visioni,  attraverso le radiazioni emesse dalla rete 5G, avrebbe generato spaventose mutazioni negli occhi dei bambini vaccinati, rendendoli così “transumani”.
 
-Circola ancora in rete la notizia che a svelare questa manipolazione genetica sarebbe stata la dottoressa Viviane Brunet, ma, ovviamente, alla base di tutto c’è una leggenda metropolitana.
+Circola ancora in rete la notizia che a svelare questa manipolazione genetica sarebbe stata la dottoressa Viviane Brunet, ma, ovviamente, alla base di tutto c'è una [leggenda metropolitana](/lo-scippatore-e-la-clava/).
 
 Alla base di tutto c'è la paura legittima per l'ignoto, lo sconosciuto, l'incomprensibile, ma invece di affidarsi ad esperti si preferisce, oggigiorno, affidarsi a sciamani, stregoni, deviati e disonesti. Infatti non esistono prove che possano sostenere una verifica scientifica che vaccini contro il Covid contengano grafene ergo: i vaccini non rendono “transumani” i bambini.
 
@@ -27,7 +27,7 @@ Insomma la narrazione che circola attraverso un breve filmato e ad un post di un
 
 Ogni affermazione, ogni descrizione, ogni termine è scelto per spaventare il lettore, anche se razionalmente non hanno molto senso. Si parla per esempio di "eugenetica" e di "bambini ibridi dagli occhi completamente neri, frutto delle inoculazioni". Con chi verrebbero ibridati questi poveri bimbi? Non si sa.
 
-Nelle clip successive – un collage di interventi di diversi personaggi noti negli ambienti No vax -, capiamo che si parla di vaccini che modificano il DNA. Dunque l’operazione di eugenetica consisterebbe nell’ibridarci con l’mRNA dei vaccini Covid. Questo secondo Brunet avrebbe causato spaventose mutazioni negli occhi diversi bambini.
+Nelle clip successive – un collage di interventi di diversi personaggi noti negli ambienti [No vax](/il-flagello-delle-fake-news-italia-campione-d-europa-di-fals/) -, capiamo che si parla di vaccini che modificano il DNA. Dunque l’operazione di eugenetica consisterebbe nell’ibridarci con l’mRNA dei vaccini Covid. Questo secondo Brunet avrebbe causato spaventose mutazioni negli occhi diversi bambini.
 
 Secondo chi condivide questi contenuti vi sarebbe anche un contributo del grafene e del 5G. Come avverrebbe tutto ciò? È un mistero che non ci viene svelato. Allora rimandiamo a una nostra precedente analisi, dove affrontavamo questo curioso crossover complottista, promosso in Italia da Eleonora Brigliadori. Potrebbero interessarvi anche i seguenti fact-checking:
 

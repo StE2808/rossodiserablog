@@ -10,7 +10,7 @@ category: politica-estera
 ---
 Operazione a tenaglia di Israele a Gaza. Tre lati sotto attacco. L'offensiva prevede la preparazione del campo attraverso il bombardamento anche aereo, diviso per settori per poi penetrarvi da terra. Si stanno preparando ad una estenuante avanzata da terra e dentro al reticolo di cunicoli ancora presenti nel sottosuolo della Striscia.
 
-Così l'esercito israeliano sta gestendo l’assedio della Striscia di Gaza contro le milizie di Hamas. Intanto diverse associazioni per i diritti umani denunciano l’utilizzo di bombe al fosforo bianco da parte di Tel Aviv negli attacchi all’enclave palestinese, utilizzo, ovviamente, che coinvolge i civili. 
+Così l'esercito israeliano sta gestendo l’assedio della Striscia di Gaza contro le milizie di [Hamas](/israele-ha-gettato-la-maschera-vuole-la-fine-della-palestina/). Intanto diverse associazioni per i diritti umani denunciano l’utilizzo di bombe al fosforo bianco da parte di Tel Aviv negli attacchi all’enclave palestinese, utilizzo, ovviamente, che coinvolge i civili. 
 
 Diversi foto-giornalisti pubblicano le immagini dei bombardamenti dove è chiaro l'uso del fosforo bianco, una micidiale arma illegale dopo gli accordi internazionali  dell'ONU del 1980.
 
@@ -22,7 +22,7 @@ Per tutta risposta Israele sta portando affondi violentissimi con un arsenale mo
 
 Nel corpo del documento del 1980 si stabilisce che l'uso di ordigni al fosforo bianco dovrebbe solo avere un utilizzo limitato per "l'illuminazione" dei soli obiettivi militari e per creare "cortine fumogene" per coprire la fuga di truppe militari. 
 
-Israele firmò la convenzione ma si riservò l'applicazione sulle armi incendiarie, esattamente come le sta usando adesso, questo, però, non ne giustifica l'uso che configura atti definibili come crimini di guerra.
+Israele firmò la convenzione ma si riservò l'applicazione sulle armi incendiarie, esattamente come le sta usando adesso, questo, però, non ne giustifica l'uso che configura atti definibili come [crimini di guerra](/la-banalita-del-male-non-e-mai-tramontata/).
 
 Ma cosa fanno queste terribili armi? Quali sono gli effetti del fosforo bianco sulle persone?
 Queste deflagrazioni sono in grado di provocare nelle vittime ustioni gravi e molto dolorose. Il fosforo bianco scatena tutto il suo potenziale quando viene disperso nell’aria e, dunque, quando l’ordigno che lo contiene esplode. L'effetto si protrae anche molto dopo l'esplosione, brucia creando gas tossico ed ustionante perché la combinazione tra aria e fosforo bianco produce l’anidride fosforica che, a contatto con il corpo umano, genera l’acido fosforico, un elemento capace di bruciare rapidamente la pelle, penetra nelle carni ed arriva al tessuto scheletrico compromettendone la struttura ed intossicando l'apparato scheletrico. Se vengono respirati, questi gas, possono corrodere le mucose e gli organi interni, generando un processo che porta all’avvelenamento. Nella maggior parte dei casi, le bombe al fosforo uccidono le persone che ne vengono in contatto. Chi sopravvive, tuttavia, risulta estremamente esposto allo sviluppo di gravi patologie, come l’anemia  e la necrosi ossea, ovvero la progressiva erosione del tessuto scheletrico.

@@ -25,7 +25,7 @@ Nel dopoguerra, grazie alla polarizzazione voluta soprattutto dal governo americ
 
 Quindi, anche se è difficile attribuire la polarizzazione politica a un singolo individuo, è possibile individuare momenti e figure chiave nella storia italiana che hanno contribuito a creare divisioni politiche significative nel Paese nel passato recente che hanno sicuramente ispirato le strategie di movimenti e partiti solitamente personalistici ossia guidati da un leader che identifica e polarizza nonché attrae ed identifica una fazione. Ricordiamo Silvio Berlusconi ed il suo modo di trattare in politica: o si era con lui, quindi categorizzato fra gli amici, o si era contro di lui, quindi nemici. I giudici erano definiti da lui e dai suoi sodali "comunisti" o "toghe rosse", solo per il fatto di aver messo in discussione l'intoccabilità del Capo, un dio sopra la Legge: un affronto personale gravissimo ai loro occhi.
 
-Ma, tornando alla definizione del fenomeno, la polarizzazione porta inevitabilmente problemi legati alla mancanza di dialogo e comprensione tra le diverse fazioni politiche. Le persone tendono a isolarsi nelle loro "bolle informative," ascoltando solo notizie e opinioni che confermano le loro convinzioni preesistenti, ignorando il punto di vista degli altri.
+Ma, tornando alla definizione del fenomeno, la polarizzazione porta inevitabilmente problemi legati alla mancanza di dialogo e comprensione tra le diverse fazioni politiche. Le persone tendono a isolarsi nelle loro "[bolle informative](/il-capitalismo-di-sorveglianza-quando-noi-siamo-il-prodotto/)," ascoltando solo notizie e opinioni che confermano le loro convinzioni preesistenti, ignorando il punto di vista degli altri.
 
 Altro problema legato alla polarizzazione e' il fatto che i politici polarizzati trovano difficile fare compromessi e raggiungere accordi legislativi. Questo può portare al blocco delle istituzioni politiche, con gravi conseguenze per la capacità di un governo di rispondere ai problemi della società.
 
@@ -33,7 +33,7 @@ C'è poi da considerare che la polarizzazione può alimentare l'odio e l'intolle
 
 Non meno importante è che l'aumento della polarizzazione può minare la fiducia nelle istituzioni politiche e nel processo democratico stesso. Le persone possono sentirsi scoraggiate e alienate, portando a una partecipazione politica più bassa e al disimpegno civico.
 
-La polarizzazione rende difficile affrontare le sfide complesse che richiedono soluzioni bipartisan. Problemi come il cambiamento climatico, l'assistenza sanitaria e l'immigrazione richiedono spesso un approccio collaborativo, che diventa difficile da raggiungere in un ambiente politicamente polarizzato.
+La polarizzazione rende difficile affrontare le sfide complesse che richiedono soluzioni bipartisan. Problemi come il [cambiamento climatico](/dubai-verde-marcio/), l'assistenza sanitaria e l'immigrazione richiedono spesso un approccio collaborativo, che diventa difficile da raggiungere in un ambiente politicamente polarizzato.
 
 Se avete trovato delle similitudini tra la situazione politica attuale e quanto teorizzato sopra, allora la soluzione può essere individuata solo nella promozione della conoscenza, nella partecipazione attiva alla vita civile e sociale del Paese. Questo per evolversi e tornare ad essere cittadini e non sudditi.
 

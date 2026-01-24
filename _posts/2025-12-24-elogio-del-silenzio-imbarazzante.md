@@ -84,7 +84,7 @@ Oppure provate qualcosa di ancora più radicale: un'ora senza input. Niente tele
 
 Sarà scomodo. Forse vi ritroverete a cercare il telefono per riflesso, come un arto fantasma. Forse vi annoierete, vi agiterete, vi chiederete che senso ha. Ma forse, da qualche parte in quel silenzio, troverete qualcosa che avevate dimenticato di cercare.
 
-Viviamo in un'epoca che ha paura del vuoto. Riempiamo gli spazi, le pause, i silenzi, con la stessa ansia con cui la paura del vuoto medievale riempiva ogni angolo delle cattedrali. Ma il vuoto non è il nemico. Il vuoto è spazio — spazio per pensare, per sentire, per essere.
+Viviamo in un'[epoca](/la-banalita-del-male-non-e-mai-tramontata/) che ha paura del vuoto. Riempiamo gli spazi, le pause, i silenzi, con la stessa ansia con cui la paura del vuoto medievale riempiva ogni angolo delle cattedrali. Ma il vuoto non è il nemico. Il vuoto è spazio — spazio per pensare, per sentire, per essere.
 
 Il silenzio imbarazzante forse non è così imbarazzante come pensiamo. Forse è solo silenzio. E forse, se imparassimo ad abitarlo invece che a fuggirlo, scopriremmo che contiene più cose di quanto immaginiamo.
 
