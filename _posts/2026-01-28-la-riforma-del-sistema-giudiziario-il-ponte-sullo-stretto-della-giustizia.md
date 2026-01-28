@@ -22,7 +22,7 @@ tags:
   - ∙	efficienza giustizia
   - ∙	riforme inutili
   - ∙	priorità politiche
-image: /assets/images/uploads/IMG_7064.jpeg
+image: /assets/images/uploads/IMG_7064.webp
 image_caption: Silvio Berlusconi e Giorgia Meloni
 image_alt: Silvio Berlusconi e Giorgia Meloni Salutano la folla
 excerpt: 'La riforma sulla separazione delle carriere dei magistrati, oggetto di referendum, viene paragonata al ponte sullo stretto: un grande progetto simbolico che distrae dai veri problemi della giustizia italiana. Mentre il dibattito si concentra sulla separazione delle carriere, restano irrisolte le emergenze quotidiane: tribunali al collasso, processi infiniti, carenza di personale e risorse, carceri sovraffollate. La questione non è se la riforma sia tecnicamente realizzabile, ma se rappresenti davvero la priorità per un sistema giudiziario che ha bisogno di interventi concreti e immediati, non di opere faraoniche.​​​​​​​​​​​​​​​​'
