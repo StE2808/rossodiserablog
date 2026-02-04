@@ -30,7 +30,7 @@ tags:
   - ∙	chi è arrestato Torino
   - ∙	disordini weekend Torino
   - ∙	giovane anarchico Arcidosso
-image: /assets/images/uploads/IMG_7074.jpeg
+image: /assets/images/uploads/IMG_7074.webp
 image_caption: Cameriere ventiduenne arrestato per i disordini di Torino
 image_alt: Cameriere ventiduenne arrestato per i disordini di Torino
 excerpt: |-
