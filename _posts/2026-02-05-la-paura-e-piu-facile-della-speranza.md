@@ -36,7 +36,7 @@ tags:
   - '∙	#DestraVsSinistra'
   - '∙	#PauraESperanza'
   - '∙	#ComunicazionePolitica'
-image: /assets/images/uploads/IMG_7082.jpeg
+image: /assets/images/uploads/IMG_7082.webp
 image_caption: La copertina del libro il nemico di Stefano Feltri
 image_alt: La copertina del libro il nemico di Stefano Feltri
 excerpt: |-
