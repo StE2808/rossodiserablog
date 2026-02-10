@@ -8,7 +8,7 @@ author: lino-rialti
 category: opinioni-editoriali
 tags:
   - RAI, Ascolti TV, Olimpiadi Milano Cortina 2026, Pino Insegno, Paolo Petrecca, Pucci-gate, Beatrice Venezi, Auditel
-image: /assets/images/uploads/IMG_7089.jpeg
+image: /assets/images/uploads/IMG_7089.webp
 image_caption: Il cavallo della Rai a Roma
 image_alt: Il cavallo della Rai a Roma
 excerpt: 'L’offensiva culturale della destra in RAI si è trasformata in una Caporetto: dal Pucci-gate di Paolo Petrecca alle Olimpiadi 2026 al flop clamoroso di Pino Insegno con ascolti sotto il 10%, passando per le gaffe di Beatrice Venezi. I dati Auditel certificano il disastro di una gestione basata su nomine politiche anziché competenze, dimostrando che la presunta egemonia culturale della sinistra esiste solo grazie al vuoto cosmico che c’è a destra.​​​​​​​​​​​​​​​​'
