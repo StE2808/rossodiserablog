@@ -8,7 +8,7 @@ author: lino-rialti
 category: opinioni-editoriali
 tags:
   - Giorno del Ricordo, Foibe, Fascismo, Pulizia etnica, Risiera di San Sabba, Campo di Arbe, Commissione italo-slovena, 10 febbraio
-image: /assets/images/uploads/IMG_7090.jpeg
+image: /assets/images/uploads/IMG_7090.webp
 image_caption: Foiba di Basoviza
 image_alt: Il monumento all’ingresso della foiba di Basoviza
 excerpt: |-
