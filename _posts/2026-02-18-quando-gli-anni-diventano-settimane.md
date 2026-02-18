@@ -19,7 +19,7 @@ tags:
   - società
 ---
 
-La settimana scorsa ho letto due paper di Google DeepMind su Gemini 3 Deep Think. Era mattina, la solita routine. E a un certo punto mi sono fermato.
+La settimana scorsa ho letto due paper di [Google DeepMind su Gemini 3 Deep Think](https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/). Era mattina, la solita routine. E a un certo punto mi sono fermato.
 
 Non per quello che dicevano. Per la velocità con cui quello che dicevano sarebbe già diventato vecchio.
 
@@ -31,7 +31,7 @@ Risultato: ha fatto progressi su classici irrisolti come il Max-Cut e lo Steiner
 
 Ha anche dimostrato che un'assunzione consolidata in ottimizzazione combinatoria era sbagliata. Nessuno ci era riuscito in anni.
 
-E poi c'è il dato che mi ha davvero bloccato: l'agente Aletheia, costruito su Deep Think, ha risolto da solo quattro problemi dalla lista di Erdős, una delle raccolte più famose di problemi aperti in matematica, alcuni fermi lì da decenni.
+E poi c'è il dato che mi ha davvero bloccato: l'agente Aletheia, costruito su Deep Think, ha risolto da solo quattro problemi dalla [lista di Erdős](https://www.erdosproblems.com/), una delle raccolte più famose di problemi aperti in matematica, alcuni fermi lì da decenni.
 
 Settimane. Non anni. Settimane.
 
@@ -51,13 +51,13 @@ Fermiamoci un secondo su questa frase.
 
 I ricercatori lo chiamano recursive self-improvement. Ogni ciclo di miglioramento accelera il successivo. Non di poco, potenzialmente di ordini di grandezza. E a un certo punto la curva diventa troppo ripida per starle dietro.
 
-Non è fantascienza. È un paper peer-reviewed della settimana scorsa.
+Non è fantascienza. È un paper peer-reviewed della settimana scorsa. E non è nemmeno la prima volta che ci chiediamo [come gestire un'intelligenza artificiale senza farla diventare un Frankenstein 2.0](/intelligenza-artificiale-qui-come-gestirla-senza-farla-diventare-frankenstein-20/). Solo che allora la domanda era teorica. Oggi no.
 
 ## Quello che non stiamo facendo
 
-L'AI Act europeo ha richiesto tre anni di negoziati. Tre anni. Gemini Deep Think è passato da medaglia d'oro alle olimpiadi di matematica a risolvere problemi aperti di ricerca in sei mesi. Il prossimo salto potrebbe richiederne tre. O uno. O due settimane.
+L'AI Act europeo ha richiesto tre anni di negoziati. Tre anni. Nel frattempo, mentre Bruxelles limava l'articolo 6 sulla classificazione del rischio, sono nati e diventati obsoleti GPT-4, Gemini Ultra e Claude 3. Gemini Deep Think è passato da medaglia d'oro alle olimpiadi di matematica a risolvere problemi aperti di ricerca in sei mesi. Il prossimo salto potrebbe richiederne tre. O uno. O due settimane.
 
-Abbiamo commissioni che si riuniscono trimestralmente per discutere di un'entità che impara più in un weekend di quanto un dottorato impari in un anno.
+Abbiamo commissioni che si riuniscono trimestralmente per discutere di un'entità che impara più in un weekend di quanto un dottorato impari in un anno. Chi decide le regole del gioco si muove ancora con i tempi della politica, mentre [il potere delle Big Tech ridisegna il campo da gioco in tempo reale](/il-grande-scacchiere-globale-big-tech-geopolitica-e-la-necessaria-rinascita-europea/).
 
 L'automobile è arrivata, abbiamo costruito le strade. Internet è arrivato, abbiamo scritto le regole, più o meno. Ma c'è una differenza fondamentale: l'automobile non migliorava sé stessa. Lo smartphone non diventava più intelligente da solo nel cassetto durante la notte.
 
