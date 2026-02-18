@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chi Siamo
+description: "Scopri la redazione di Rosso di Sera: scrittori, giornalisti e professionisti uniti dalla passione per il pensiero critico e la giustizia sociale."
 permalink: /chi-siamo/
 ---
 
