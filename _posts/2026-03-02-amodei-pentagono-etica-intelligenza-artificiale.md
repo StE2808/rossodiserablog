@@ -77,7 +77,7 @@ Ed è qui che il discorso si allarga, e la storia di un contratto saltato a Wash
 
 L'Occidente litiga su dove mettere i paletti. Amodei dice no alle armi autonome, il Pentagono risponde che non può chiedere il permesso a un civile per difendere il paese. L'Europa discute, vota risoluzioni, scrive regolamenti che poi esentano il settore militare. È la democrazia che fa il suo mestiere. Lo fa lentamente, in modo disordinato, con risultati parziali. Ma almeno lo fa.
 
-Altrove, la conversazione non esiste nemmeno. La Russia punta ad automatizzare il 30% del suo equipaggiamento militare e considera l'AI cruciale per mantenere la superiorità sul campo di battaglia. La Cina investe per raggiungere la supremazia tecnologica entro il 2030. Nessuno dei due paesi partecipa attivamente ai negoziati internazionali sulle armi autonome. Non hanno intenzione di autolimitarsi. Perché dovrebbero, se gli altri lo fanno prima?
+Altrove, la conversazione non esiste nemmeno. La Russia punta ad automatizzare il 30% del suo equipaggiamento militare e considera l'AI determinante per mantenere la superiorità sul campo di battaglia. La Cina investe per raggiungere la supremazia tecnologica entro il 2030. Nessuno dei due paesi partecipa attivamente ai negoziati internazionali sulle armi autonome. Non hanno intenzione di autolimitarsi. Perché dovrebbero, se gli altri lo fanno prima?
 
 Eccolo, il dilemma del prigioniero su scala planetaria. Chi si impone dei limiti perde vantaggio. Chi non se li impone guadagna terreno, ma alimenta una corsa che finirà per travolgere tutti. La cooperazione — l'unica via d'uscita — richiede una fiducia reciproca che nel mondo di oggi è merce rara quanto il buon senso su un social network.
 
