@@ -13,7 +13,7 @@ tags:
   - Anthropic
   - armi autonome
   - geopolitica
-image: /assets/images/uploads/la-mossa-del-cavallo.jpg
+image: /assets/images/uploads/la-mossa-del-cavallo.webp
 image_caption: ''
 image_alt: Una scacchiera con un cavallo isolato al centro, metafora della mossa imprevedibile di Amodei nel rifiutare il contratto con il Pentagono
 excerpt: 'Dario Amodei dice no al Pentagono su armi autonome e sorveglianza di massa. Trump mette Anthropic al bando. OpenAI firma lo stesso giorno. Ma la vera questione è chi decide i limiti etici dell''intelligenza artificiale quando non esiste nessuna legge che lo faccia.'
