@@ -1,0 +1,1073 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guida alla Sardegna — Il tuo soggiorno a Terrata</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --sand: #f5f0e8;
+    --sand-dark: #e8dfd2;
+    --sea: #1a6b7a;
+    --sea-light: #2a9bb0;
+    --sea-deep: #0e4550;
+    --coral: #e07a5f;
+    --coral-light: #f4a88a;
+    --white: #ffffff;
+    --text: #2c2c2c;
+    --text-light: #6b6b6b;
+    --gold: #c9a96e;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 300;
+    color: var(--text);
+    background: var(--sand);
+    line-height: 1.7;
+    font-size: 17px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ========== APARTMENT GALLERY ========== */
+  .apt-hero {
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+    border-radius: 16px;
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  .apt-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.75rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .apt-grid img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: block;
+    transition: opacity 0.3s;
+  }
+
+  .apt-grid img:hover { opacity: 0.88; }
+
+  .apt-meta {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    background: var(--white);
+    border-radius: 16px;
+    padding: 1.8rem 2rem;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.04);
+    margin-bottom: 2rem;
+  }
+
+  .apt-meta-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .apt-meta-item .label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--text-light);
+  }
+
+  .apt-meta-item .value {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    color: var(--sea-deep);
+  }
+
+  @media (max-width: 768px) {
+    .apt-hero { height: 240px; }
+    .apt-grid { grid-template-columns: repeat(2, 1fr); }
+    .apt-grid img { height: 130px; }
+    .apt-meta { gap: 1.2rem; }
+  }
+
+  /* ========== BILINGUAL ========== */
+  .en { display: none; }
+  body.lang-en .en { display: revert; }
+  body.lang-en .it { display: none; }
+  body.lang-en a.card-link.en { display: inline-flex; }
+  body.lang-en a.tip-link.en { display: inline; }
+
+  /* ========== LANG TOGGLE ========== */
+  .lang-toggle {
+    background: rgba(255,255,255,0.15);
+    border: 1px solid rgba(255,255,255,0.3);
+    color: rgba(255,255,255,0.9);
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 0.5rem 0.9rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .lang-toggle:hover {
+    background: rgba(255,255,255,0.25);
+    color: var(--white);
+  }
+
+  /* ========== HERO ========== */
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background: linear-gradient(135deg, var(--sea-deep) 0%, var(--sea) 40%, var(--sea-light) 100%);
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 20% 80%, rgba(224,122,95,0.15) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 20%, rgba(42,155,176,0.2) 0%, transparent 50%);
+  }
+
+  .hero-waves {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+  }
+
+  .hero-waves svg {
+    position: absolute;
+    bottom: 0;
+    width: 200%;
+    height: 100%;
+    animation: waveSlide 8s linear infinite;
+  }
+
+  @keyframes waveSlide {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 2rem;
+    animation: fadeUp 1.2s ease-out;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .hero-tag {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 600;
+    font-size: 0.8rem;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: var(--coral-light);
+    margin-bottom: 1.5rem;
+  }
+
+  .hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.8rem, 7vw, 5.5rem);
+    color: var(--white);
+    font-weight: 400;
+    line-height: 1.15;
+    margin-bottom: 1rem;
+  }
+
+  .hero h1 em {
+    font-style: italic;
+    color: var(--coral-light);
+  }
+
+  .hero-sub {
+    font-size: 1.15rem;
+    color: rgba(255,255,255,0.75);
+    max-width: 500px;
+    margin: 0 auto 2.5rem;
+  }
+
+  .scroll-hint {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: rgba(255,255,255,0.5);
+    font-size: 0.85rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: color 0.3s;
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  .scroll-hint:hover { color: rgba(255,255,255,0.8); }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 1; }
+  }
+
+  .scroll-arrow {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-right: 1.5px solid currentColor;
+    border-bottom: 1.5px solid currentColor;
+    transform: rotate(45deg);
+    margin-top: -6px;
+  }
+
+  /* ========== CONTAINER ========== */
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  /* ========== SECTIONS ========== */
+  section {
+    padding: 5rem 0;
+  }
+
+  .section-tag {
+    font-weight: 600;
+    font-size: 0.75rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--coral);
+    margin-bottom: 0.75rem;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    color: var(--sea-deep);
+    font-weight: 400;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+  }
+
+  .section-intro {
+    font-size: 1.05rem;
+    color: var(--text-light);
+    max-width: 600px;
+    margin-bottom: 3rem;
+  }
+
+  /* ========== INFO BOX ========== */
+  .info-box {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 2.5rem;
+    margin-bottom: 3rem;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.04);
+  }
+
+  .info-box h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.3rem;
+    color: var(--sea-deep);
+    margin-bottom: 1.2rem;
+  }
+
+  .info-box p {
+    margin-bottom: 0.8rem;
+    color: var(--text);
+  }
+
+  .info-box .checklist {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+  }
+
+  .info-box .checklist li {
+    position: relative;
+    padding-left: 2rem;
+    margin-bottom: 0.6rem;
+    color: var(--text);
+  }
+
+  .info-box .checklist li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: var(--sea);
+    font-weight: 600;
+  }
+
+  /* ========== CARDS ========== */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .card {
+    background: var(--white);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.04);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+  }
+
+  .card-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .card-body {
+    padding: 1.5rem;
+  }
+
+  .card-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--sea);
+    background: rgba(26,107,122,0.08);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    margin-bottom: 0.75rem;
+  }
+
+  .card h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    color: var(--sea-deep);
+    margin-bottom: 0.5rem;
+  }
+
+  .card p {
+    font-size: 0.95rem;
+    color: var(--text-light);
+    margin-bottom: 1rem;
+  }
+
+  .card-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--coral);
+    text-decoration: none;
+    transition: gap 0.3s;
+  }
+
+  .card-link:hover { gap: 0.7rem; }
+  .card-link::after { content: '→'; }
+
+  /* ========== WIDE CARD ========== */
+  .wide-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: var(--white);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.04);
+    margin-bottom: 1.5rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .wide-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+  }
+
+  .wide-card .card-img {
+    height: 100%;
+    min-height: 250px;
+  }
+
+  .wide-card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  /* ========== TIPS ========== */
+  .tip-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .tip-card {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.04);
+  }
+
+  .tip-icon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .tip-card h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    color: var(--sea-deep);
+    margin-bottom: 0.6rem;
+  }
+
+  .tip-card p {
+    font-size: 0.95rem;
+    color: var(--text-light);
+  }
+
+  .tip-card a {
+    color: var(--coral);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .tip-card a:hover { text-decoration: underline; }
+
+  /* ========== DIVIDER ========== */
+  .divider {
+    width: 60px;
+    height: 2px;
+    background: var(--coral);
+    margin: 0 0 3rem;
+    opacity: 0.5;
+  }
+
+  /* ========== FOOTER ========== */
+  footer {
+    background: var(--sea-deep);
+    color: rgba(255,255,255,0.6);
+    text-align: center;
+    padding: 3rem 2rem;
+    font-size: 0.9rem;
+  }
+
+  footer strong {
+    color: var(--white);
+    font-weight: 600;
+  }
+
+  /* ========== NAV ========== */
+  .nav-float {
+    position: fixed;
+    top: 1.5rem;
+    right: 1.5rem;
+    z-index: 100;
+    display: flex;
+    gap: 0.25rem;
+    background: rgba(14,69,80,0.85);
+    backdrop-filter: blur(12px);
+    padding: 0.4rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    transition: opacity 0.4s;
+  }
+
+  .nav-float.hidden { opacity: 0; pointer-events: none; }
+
+  .nav-float a {
+    color: rgba(255,255,255,0.7);
+    text-decoration: none;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 0.5rem 0.9rem;
+    border-radius: 8px;
+    transition: all 0.2s;
+  }
+
+  .nav-float a:hover {
+    color: var(--white);
+    background: rgba(255,255,255,0.1);
+  }
+
+  /* ========== RESPONSIVE ========== */
+  @media (max-width: 768px) {
+    .wide-card { grid-template-columns: 1fr; }
+    .wide-card .card-img { min-height: 200px; }
+    .tip-row { grid-template-columns: 1fr; }
+    .cards-grid { grid-template-columns: 1fr; }
+    section { padding: 3.5rem 0; }
+
+    /* Su mobile: nascondi i link di navigazione ma tieni visibile il toggle lingua */
+    .nav-float a { display: none; }
+    .nav-float {
+      opacity: 1 !important;
+      pointer-events: auto !important;
+      padding: 0.4rem;
+    }
+    .nav-float.hidden {
+      opacity: 0 !important;
+      pointer-events: none !important;
+    }
+
+    /* Touch targets più grandi */
+    .card-link { padding: 0.5rem 0; min-height: 44px; align-items: center; }
+    .lang-toggle { min-height: 44px; min-width: 44px; }
+  }
+
+  /* ========== ANIMATIONS ========== */
+  .fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+
+  .fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav-float hidden" id="nav">
+  <a href="#appartamento"><span class="it">Appartamento</span><span class="en">Apartment</span></a>
+  <a href="#info"><span class="it">Info</span><span class="en">Info</span></a>
+  <a href="#spiagge"><span class="it">Spiagge</span><span class="en">Beaches</span></a>
+  <a href="#escursioni"><span class="it">Escursioni</span><span class="en">Excursions</span></a>
+  <a href="#consigli"><span class="it">Consigli</span><span class="en">Tips</span></a>
+  <button class="lang-toggle" id="lang-toggle" onclick="toggleLang()">EN</button>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-content">
+    <p class="hero-tag">
+      <span class="it">Benvenuti in Sardegna</span>
+      <span class="en">Welcome to Sardinia</span>
+    </p>
+    <h1>
+      <span class="it">La vostra guida<br>a <em>Terrata</em></span>
+      <span class="en">Your guide<br>to <em>Terrata</em></span>
+    </h1>
+    <p class="hero-sub">
+      <span class="it">Tutto quello che vi serve per godervi al meglio il soggiorno a Golfo Aranci e dintorni.</span>
+      <span class="en">Everything you need to make the most of your stay in Golfo Aranci and surroundings.</span>
+    </p>
+    <a href="#info" class="scroll-hint">
+      <span class="it">Scopri</span><span class="en">Explore</span> <span class="scroll-arrow"></span>
+    </a>
+  </div>
+  <div class="hero-waves">
+    <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+      <path d="M0,60 C360,120 720,0 1080,60 C1260,90 1440,60 1440,60 L1440,120 L0,120 Z
+               M1440,60 C1800,120 2160,0 2520,60 C2700,90 2880,60 2880,60 L2880,120 L1440,120 Z"
+            fill="var(--sand)" opacity="0.8"/>
+    </svg>
+  </div>
+</section>
+
+<!-- APPARTAMENTO -->
+<section id="appartamento" style="background: var(--white); border-top: 1px solid rgba(0,0,0,0.04);">
+  <div class="container">
+    <p class="section-tag">
+      <span class="it">Il vostro alloggio</span>
+      <span class="en">Your accommodation</span>
+    </p>
+    <h2 class="section-title">Terrata Appartamento A1/69</h2>
+    <div class="divider"></div>
+
+    <!-- Foto principale -->
+    <img src="https://a0.muscache.com/im/pictures/ec222519-7d06-4341-a432-7a8469346768.jpg"
+         alt="Appartamento Terrata A1/69" class="apt-hero fade-in" loading="lazy">
+
+    <!-- Griglia foto -->
+    <div class="apt-grid">
+      <img src="https://a0.muscache.com/im/pictures/18185485/e72e2668_original.jpg" alt="Appartamento" loading="lazy">
+      <img src="https://a0.muscache.com/im/pictures/miso/Hosting-1208733/original/10ae14dd-f9ef-44f8-9e08-15c16e4e4c37.jpeg" alt="Appartamento" loading="lazy">
+      <img src="https://a0.muscache.com/im/pictures/miso/Hosting-1208733/original/71c36462-7e37-430b-9acc-ecbad01b99dd.jpeg" alt="Appartamento" loading="lazy">
+      <img src="https://a0.muscache.com/im/pictures/miso/Hosting-1208733/original/a062b629-eabc-4d48-b47c-dd0e3ea081a8.jpeg" alt="Appartamento" loading="lazy">
+      <img src="https://a0.muscache.com/im/pictures/miso/Hosting-1208733/original/16eb27aa-0d81-4e49-9ddf-cbc6efb8f5e0.jpeg" alt="Appartamento" loading="lazy">
+      <img src="https://a0.muscache.com/im/pictures/miso/Hosting-1208733/original/a9bc09cf-ac17-4afc-91b5-01e2f02405f8.jpeg" alt="Appartamento" loading="lazy">
+    </div>
+
+    <!-- Dettagli -->
+    <div class="apt-meta fade-in">
+      <div class="apt-meta-item">
+        <span class="label"><span class="it">Ospiti</span><span class="en">Guests</span></span>
+        <span class="value">3</span>
+      </div>
+      <div class="apt-meta-item">
+        <span class="label"><span class="it">Posizione</span><span class="en">Location</span></span>
+        <span class="value">Golfo Aranci, Sardegna</span>
+      </div>
+      <div class="apt-meta-item">
+        <span class="label"><span class="it">Valutazione</span><span class="en">Rating</span></span>
+        <span class="value">★ 4.24 <span style="font-size:0.85rem; font-family: 'Source Sans 3', sans-serif; color: var(--text-light);">(18 <span class="it">recensioni</span><span class="en">reviews</span>)</span></span>
+      </div>
+      <div class="apt-meta-item">
+        <span class="label">Airbnb</span>
+        <span class="value"><a href="https://www.airbnb.it/rooms/1208733" target="_blank" style="color: var(--coral); text-decoration: none; font-size: 0.95rem; font-family: 'Source Sans 3', sans-serif;">
+          <span class="it">Vedi annuncio →</span>
+          <span class="en">View listing →</span>
+        </a></span>
+      </div>
+    </div>
+
+    <!-- Descrizione -->
+    <div class="info-box fade-in">
+      <h3>
+        <span class="it">L'appartamento</span>
+        <span class="en">The apartment</span>
+      </h3>
+      <p>
+        <span class="it">Un appartamento semplice e confortevole con una vista mozzafiato sul Golfo degli Aranci, da cui partire per visitare alcuni dei posti più belli della Sardegna ed immergersi in un mare fantastico con dei colori unici.</span>
+        <span class="en">A simple and comfortable apartment with breathtaking views over the Gulf of Aranci — the perfect base for visiting some of Sardinia's most beautiful spots and swimming in a fantastic sea with unique colours.</span>
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- INFO PRATICHE -->
+<section id="info">
+  <div class="container">
+    <p class="section-tag">
+      <span class="it">Prima di partire</span>
+      <span class="en">Before you arrive</span>
+    </p>
+    <h2 class="section-title">
+      <span class="it">Informazioni pratiche</span>
+      <span class="en">Practical information</span>
+    </h2>
+    <div class="divider"></div>
+
+    <div class="info-box fade-in">
+      <h3>
+        <span class="it">Cosa portare</span>
+        <span class="en">What to bring</span>
+      </h3>
+      <p>
+        <span class="it">Non essendo residenti in Sardegna non possiamo fornire il servizio biancheria. Ricordatevi di portare:</span>
+        <span class="en">As we are not resident in Sardinia, we cannot provide linen. Please remember to bring:</span>
+      </p>
+      <ul class="checklist">
+        <li>
+          <span class="it">Lenzuola per 1 letto matrimoniale e 2 letti singoli</span>
+          <span class="en">Bed sheets for 1 double bed and 2 single beds</span>
+        </li>
+        <li>
+          <span class="it">Federe per i cuscini</span>
+          <span class="en">Pillowcases</span>
+        </li>
+        <li>
+          <span class="it">Asciugamani</span>
+          <span class="en">Towels</span>
+        </li>
+        <li>
+          <span class="it">Strofinacci da cucina (se vi servono)</span>
+          <span class="en">Kitchen cloths (if needed)</span>
+        </li>
+      </ul>
+    </div>
+
+    <div class="info-box fade-in">
+      <h3>
+        <span class="it">Spostamenti e spesa</span>
+        <span class="en">Getting around &amp; groceries</span>
+      </h3>
+      <p>
+        <span class="it">È necessario avere un'auto per gli spostamenti e per fare la spesa. Per una spesa grande c'è l'ipermercato al <strong>centro commerciale Terranova</strong> di Olbia, a circa 15 minuti.</span>
+        <span class="en">A car is essential for getting around and doing your shopping. For a big shop, there's a large supermarket at the <strong>Terranova shopping centre</strong> in Olbia, about 15 minutes away.</span>
+      </p>
+      <p>
+        <span class="it">Potrebbe essere comodo fermarsi appena scesi dal traghetto — in quel caso avvisatemi così organizziamo meglio l'orario di arrivo.</span>
+        <span class="en">It can be handy to stop there straight off the ferry — if so, let me know so we can arrange the arrival time accordingly.</span>
+      </p>
+      <p>
+        <span class="it">Per le piccole cose ci sono market più piccoli sulla litoranea verso Olbia (5 min) o all'ingresso di Golfo Aranci.</span>
+        <span class="en">For smaller purchases, there are local shops along the coastal road towards Olbia (5 min) or at the entrance to Golfo Aranci.</span>
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- SPIAGGE -->
+<section id="spiagge" style="background: var(--white); border-top: 1px solid rgba(0,0,0,0.04);">
+  <div class="container">
+    <p class="section-tag">
+      <span class="it">Mare e relax</span>
+      <span class="en">Sea &amp; relaxation</span>
+    </p>
+    <h2 class="section-title">
+      <span class="it">Le spiagge più belle</span>
+      <span class="en">The most beautiful beaches</span>
+    </h2>
+    <p class="section-intro">
+      <span class="it">Dal mare cristallino sotto casa alle calette nascoste: la zona offre spiagge per tutti i gusti.</span>
+      <span class="en">From the crystal-clear water right below the house to hidden coves: the area has beaches for every taste.</span>
+    </p>
+    <div class="divider"></div>
+
+    <!-- Terrata -->
+    <div class="wide-card fade-in">
+      <img src="spiaggi_terrata.jpg" alt="Spiaggia di Terrata" class="card-img" loading="lazy">
+      <div class="card-body">
+        <span class="card-badge">
+          <span class="it">Sotto casa</span>
+          <span class="en">Right below</span>
+        </span>
+        <h4>
+          <span class="it">Spiaggia di Terrata</span>
+          <span class="en">Terrata Beach</span>
+        </h4>
+        <p>
+          <span class="it">Si trova proprio sotto al residence. Mare pulitissimo, raggiungibile a piedi (discesa all'andata, salita al ritorno) oppure in auto seguendo la strada interna fino all'indicazione "mare".</span>
+          <span class="en">Located right below the residence. Crystal-clear water, reachable on foot (downhill going, uphill coming back) or by car following the internal road to the "mare" sign.</span>
+        </p>
+      </div>
+    </div>
+
+    <!-- Grid spiagge -->
+    <div class="cards-grid">
+      <div class="card fade-in">
+        <img src="cala_moresca.webp" alt="Cala Moresca" class="card-img" loading="lazy">
+        <div class="card-body">
+          <span class="card-badge">~15 min · 6 km</span>
+          <h4>Cala Moresca</h4>
+          <p>
+            <span class="it">Alla fine del paese di Golfo Aranci. Si parcheggia e si cammina circa 1 km, ma ne vale la pena. Di fronte all'isola di Figarolo. Portate borsa termica, ombrellone e maschere.</span>
+            <span class="en">At the end of Golfo Aranci village. Park and walk about 1 km, but it's well worth it. Facing the island of Figarolo. Bring a cool bag, beach umbrella and snorkels.</span>
+          </p>
+          <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Cala+Moresca,+Golfo+Aranci" target="_blank" class="card-link it">Percorso</a>
+          <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Cala+Moresca,+Golfo+Aranci" target="_blank" class="card-link en">Directions</a>
+        </div>
+      </div>
+
+      <div class="card fade-in">
+        <img src="cala_banana.jpg" alt="Cala Banana" class="card-img" loading="lazy">
+        <div class="card-body">
+          <span class="card-badge">~10 min · 4 km</span>
+          <h4>Cala Banana</h4>
+          <p>
+            <span class="it">Bella spiaggia con punto ristoro e servizio lettini/ombrelloni.</span>
+            <span class="en">Beautiful beach with a snack bar and sun lounger/umbrella service.</span>
+          </p>
+          <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Cala+Banana,+Golfo+Aranci" target="_blank" class="card-link it">Percorso</a>
+          <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Cala+Banana,+Golfo+Aranci" target="_blank" class="card-link en">Directions</a>
+        </div>
+      </div>
+
+      <div class="card fade-in">
+        <img src="cala_sabina.jpg" alt="Cala Sabina" class="card-img" loading="lazy">
+        <div class="card-body">
+          <span class="card-badge">~10 min · 5 km</span>
+          <h4>Cala Sabina</h4>
+          <p>
+            <span class="it">Breve tratto di strada sterrata, parcheggio a pagamento e circa 200 metri a piedi. Spiaggia molto bella con punto ristoro e lettini.</span>
+            <span class="en">Short dirt road, paid parking and about 200 metres on foot. Very beautiful beach with a snack bar and sun loungers.</span>
+          </p>
+          <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Cala+Sabina,+Golfo+Aranci" target="_blank" class="card-link it">Percorso</a>
+          <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Cala+Sabina,+Golfo+Aranci" target="_blank" class="card-link en">Directions</a>
+        </div>
+      </div>
+
+      <div class="card fade-in">
+        <img src="bados.webp" alt="Bados" class="card-img" loading="lazy">
+        <div class="card-body">
+          <span class="card-badge">~10 min · 11 km</span>
+          <h4>Bados</h4>
+          <p>
+            <span class="it">Spiaggia più grande e molto attrezzata. Perfetta se cercate tutti i comfort.</span>
+            <span class="en">Larger, very well-equipped beach. Perfect if you want all the comforts.</span>
+          </p>
+          <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Spiaggia+Bados,+Olbia" target="_blank" class="card-link it">Percorso</a>
+          <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Spiaggia+Bados,+Olbia" target="_blank" class="card-link en">Directions</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Noleggio -->
+    <div class="info-box fade-in" style="margin-top: 2rem;">
+      <h3>
+        🚤 <span class="it">Noleggio gommoni</span>
+        <span class="en">Boat hire</span>
+      </h3>
+      <p>
+        <span class="it">Se volete noleggiare un gommone, consiglio di farlo a Golfo Aranci invece che a Olbia — così evitate di attraversare tutto il golfo.</span>
+        <span class="en">If you want to hire a dinghy, I recommend doing it in Golfo Aranci rather than Olbia — that way you avoid crossing the whole gulf.</span>
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- ESCURSIONI -->
+<section id="escursioni">
+  <div class="container">
+    <p class="section-tag">
+      <span class="it">Da esplorare</span>
+      <span class="en">Worth exploring</span>
+    </p>
+    <h2 class="section-title">
+      <span class="it">Escursioni da non perdere</span>
+      <span class="en">Excursions not to miss</span>
+    </h2>
+    <p class="section-intro">
+      <span class="it">Qualche meta un po' più lontana che merita assolutamente il viaggio.</span>
+      <span class="en">A few destinations a little further afield that are absolutely worth the trip.</span>
+    </p>
+    <div class="divider"></div>
+
+    <div class="wide-card fade-in">
+      <img src="isola_di_tavolara.jpg" alt="Isola di Tavolara" class="card-img" loading="lazy">
+      <div class="card-body">
+        <span class="card-badge">
+          <span class="it">~30 min + barca · 28 km</span>
+          <span class="en">~30 min + boat · 28 km</span>
+        </span>
+        <h4>
+          <span class="it">Isola di Tavolara</span>
+          <span class="en">Tavolara Island</span>
+        </h4>
+        <p>
+          <span class="it">Da Porto San Paolo partono barche che in 15 minuti raggiungono l'isola. Consiglio il sentiero sopra la spiaggia fino alla punta.</span>
+          <span class="en">Boats depart from Porto San Paolo and reach the island in 15 minutes. I recommend the path above the beach up to the headland.</span>
+        </p>
+        <a href="https://www.tavolaratraghetti.it/tariffe-orari.php" target="_blank" class="card-link it">Orari traghetti</a>
+        <a href="https://www.tavolaratraghetti.it/tariffe-orari.php" target="_blank" class="card-link en">Ferry times</a>
+      </div>
+    </div>
+
+    <div class="wide-card fade-in" style="direction: rtl;">
+      <div class="card-body" style="direction: ltr;">
+        <span class="card-badge">~40 min · 45 km</span>
+        <h4>
+          <span class="it">Cala Brandinchi — "Piccola Tahiti"</span>
+          <span class="en">Cala Brandinchi — "Little Tahiti"</span>
+        </h4>
+        <p>
+          <span class="it">Spiaggia famosissima con acqua incredibile. Una delle più belle della Sardegna, punto.</span>
+          <span class="en">Famous beach with incredible water. One of the most beautiful in Sardinia, full stop.</span>
+        </p>
+        <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Cala+Brandinchi,+San+Teodoro" target="_blank" class="card-link it">Percorso</a>
+        <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Cala+Brandinchi,+San+Teodoro" target="_blank" class="card-link en">Directions</a>
+      </div>
+      <img src="cala_brandinchi.jpg" alt="Cala Brandinchi" class="card-img" loading="lazy" style="direction: ltr;">
+    </div>
+
+    <div class="wide-card fade-in">
+      <img src="Oasi_Biderosa.jpg" alt="Oasi Biderosa" class="card-img" loading="lazy">
+      <div class="card-body">
+        <span class="card-badge">~1 ora · 85 km / ~1 hour · 85 km</span>
+        <h4>Oasi Biderosa</h4>
+        <p>
+          <span class="it">Oasi naturale con spiaggia bianca e mare cristallino. Ingresso a numero chiuso: prenotazione consigliata.</span>
+          <span class="en">Natural reserve with a white beach and crystal-clear sea. Limited entry: booking recommended.</span>
+        </p>
+        <a href="https://www.oasibiderosa.it/" target="_blank" class="card-link it">Prenota</a>
+        <a href="https://www.oasibiderosa.it/" target="_blank" class="card-link en">Book</a>
+      </div>
+    </div>
+
+    <div class="wide-card fade-in" style="direction: rtl;">
+      <div class="card-body" style="direction: ltr;">
+        <span class="card-badge">~45 min · 70 km</span>
+        <h4>
+          <span class="it">Arcipelago della Maddalena</span>
+          <span class="en">La Maddalena Archipelago</span>
+        </h4>
+        <p>
+          <span class="it">Da Palau partono escursioni per l'arcipelago. Potete noleggiare un gommone o scegliere tour organizzati. Al ritorno, prendete la panoramica della Costa Smeralda: Capo d'Orso → Cannigione → Baja Sardinia → Porto Cervo → Cala Volpe → Capriccioli.</span>
+          <span class="en">Excursions to the archipelago depart from Palau. You can hire a dinghy or join an organised tour. On the way back, take the scenic Costa Smeralda coastal road: Capo d'Orso → Cannigione → Baja Sardinia → Porto Cervo → Cala Volpe → Capriccioli.</span>
+        </p>
+        <a href="https://www.viator.com/it-IT/Sardinia-attractions/Maddalena-Archipelago/d24293-a21746" target="_blank" class="card-link it">Tour organizzati</a>
+        <a href="https://www.viator.com/it-IT/Sardinia-attractions/Maddalena-Archipelago/d24293-a21746" target="_blank" class="card-link en">Organised tours</a>
+      </div>
+      <img src="arcipelago_la_maddalena.jpg" alt="La Maddalena" class="card-img" loading="lazy" style="direction: ltr;">
+    </div>
+
+    <div class="wide-card fade-in" style="margin-top: 2rem;">
+      <img src="Alghero.jpg" alt="Alghero" class="card-img" loading="lazy">
+      <div class="card-body">
+        <span class="card-badge">~2 ore · 160 km / ~2 hours · 160 km</span>
+        <h4>
+          <span class="it">Alghero — gita di una giornata</span>
+          <span class="en">Alghero — day trip</span>
+        </h4>
+        <p>
+          <span class="it">Splendida cittadina che merita una visita — magari nel tardo pomeriggio. Da quelle parti consiglio anche la spiaggia <strong>Le Bombarde</strong> e la zona spettacolare di <strong>Capo Caccia</strong>.</span>
+          <span class="en">A beautiful town well worth a visit — ideally in the late afternoon. In the same area I also recommend the beach <strong>Le Bombarde</strong> and the spectacular headland of <strong>Capo Caccia</strong>.</span>
+        </p>
+        <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Alghero" target="_blank" class="card-link it">Percorso</a>
+        <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Alghero" target="_blank" class="card-link en">Directions</a>
+      </div>
+    </div>
+
+    <div class="wide-card fade-in" style="direction: rtl;">
+      <div class="card-body" style="direction: ltr;">
+        <span class="card-badge">~2h10 · 185 km</span>
+        <h4>Capo Caccia</h4>
+        <p>
+          <span class="it">Uno dei panorami più spettacolari della Sardegna. Da non perdere in abbinamento alla visita di Alghero.</span>
+          <span class="en">One of the most spectacular views in Sardinia. Not to be missed alongside a visit to Alghero.</span>
+        </p>
+        <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Capo+Caccia,+Alghero" target="_blank" class="card-link it">Percorso</a>
+        <a href="https://www.google.com/maps/dir/Terrata,+Golfo+Aranci/Capo+Caccia,+Alghero" target="_blank" class="card-link en">Directions</a>
+      </div>
+      <img src="Capo-Caccia.jpg" alt="Capo Caccia" class="card-img" loading="lazy" style="direction: ltr;">
+    </div>
+
+  </div>
+</section>
+
+<!-- CONSIGLI -->
+<section id="consigli" style="background: var(--white); border-top: 1px solid rgba(0,0,0,0.04);">
+  <div class="container">
+    <p class="section-tag">
+      <span class="it">Da insider</span>
+      <span class="en">Insider tips</span>
+    </p>
+    <h2 class="section-title">
+      <span class="it">Consigli personali</span>
+      <span class="en">Personal recommendations</span>
+    </h2>
+    <p class="section-intro">
+      <span class="it">Piccoli suggerimenti per vivere la zona come un locale.</span>
+      <span class="en">A few tips to experience the area like a local.</span>
+    </p>
+    <div class="divider"></div>
+
+    <div class="tip-row">
+      <div class="tip-card fade-in">
+        <div class="tip-icon">🍰</div>
+        <h4>Pasticceria Il Cigno Bianco</h4>
+        <p>
+          <span class="it">A Golfo Aranci. La torta al limone è eccezionale, e prima di partire prendete gli amaretti sardi.</span>
+          <span class="en">In Golfo Aranci. The lemon tart is exceptional, and before you leave pick up some Sardinian amaretti.</span>
+        </p>
+        <a href="https://maps.google.com/?q=Pasticceria+Il+Cigno+Bianco+Golfo+Aranci" target="_blank" class="tip-link it">Mappa</a>
+        <a href="https://maps.google.com/?q=Pasticceria+Il+Cigno+Bianco+Golfo+Aranci" target="_blank" class="tip-link en">Map</a>
+      </div>
+
+      <div class="tip-card fade-in">
+        <div class="tip-icon">🍷</div>
+        <h4>
+          <span class="it">Agriturismo sardo</span>
+          <span class="en">Sardinian agriturismo</span>
+        </h4>
+        <p>
+          <span class="it">Provate almeno una volta un agriturismo tipico: menù fisso con molti piatti locali, circa 40€ a persona. Prenotare sempre. Consiglio <a href="https://www.sacresciaezza.com/contatti/" target="_blank">Sa Cresia Ezza</a>.</span>
+          <span class="en">Try a traditional agriturismo at least once: fixed menu with many local dishes, around €40 per person. Always book ahead. I recommend <a href="https://www.sacresciaezza.com/contatti/" target="_blank">Sa Cresia Ezza</a>.</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="tip-row">
+      <div class="tip-card fade-in">
+        <div class="tip-icon">🌙</div>
+        <h4>
+          <span class="it">Passeggiate serali</span>
+          <span class="en">Evening strolls</span>
+        </h4>
+        <p>
+          <span class="it">Per una serata piacevole: il lungomare di Golfo Aranci oppure Porto Rotondo (circa 20 minuti).</span>
+          <span class="en">For a pleasant evening: the seafront promenade in Golfo Aranci or Porto Rotondo (about 20 minutes away).</span>
+        </p>
+      </div>
+
+      <div class="tip-card fade-in">
+        <div class="tip-icon">🛒</div>
+        <h4>
+          <span class="it">Fare la spesa</span>
+          <span class="en">Grocery shopping</span>
+        </h4>
+        <p>
+          <span class="it">Spesa grande: ipermercato <a href="https://www.google.com/maps/dir/Terrata,+SS/centro+commerciale+terranova/" target="_blank">Terranova a Olbia</a> (~15 min). Comodo fermarsi appena usciti dal traghetto. Per le piccole cose: market sulla litoranea (5 min) o a Golfo Aranci.</span>
+          <span class="en">Big shop: <a href="https://www.google.com/maps/dir/Terrata,+SS/centro+commerciale+terranova/" target="_blank">Terranova supermarket in Olbia</a> (~15 min). Handy to stop there straight off the ferry. For smaller things: shops along the coastal road (5 min) or in Golfo Aranci.</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>
+    <span class="it">Preparato con cura per i nostri ospiti — <strong>Buona vacanza!</strong></span>
+    <span class="en">Prepared with care for our guests — <strong>Enjoy your holiday!</strong></span>
+  </p>
+  <p style="margin-top: 0.5rem; font-size: 0.8rem; opacity: 0.6;">
+    <span class="it">Per qualsiasi domanda non esitate a scriverci</span>
+    <span class="en">For any questions, don't hesitate to get in touch</span>
+  </p>
+</footer>
+
+<script>
+  // Floating nav
+  const nav = document.getElementById('nav');
+  const hero = document.querySelector('.hero');
+
+  const navObserver = new IntersectionObserver(([entry]) => {
+    nav.classList.toggle('hidden', entry.isIntersecting);
+  }, { threshold: 0.3 });
+  navObserver.observe(hero);
+
+  // Fade in on scroll
+  const faders = document.querySelectorAll('.fade-in');
+  const fadeObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        fadeObserver.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+  faders.forEach(el => fadeObserver.observe(el));
+
+  // Language toggle
+  function toggleLang() {
+    const isEn = document.body.classList.toggle('lang-en');
+    document.getElementById('lang-toggle').textContent = isEn ? 'IT' : 'EN';
+    document.documentElement.lang = isEn ? 'en' : 'it';
+  }
+</script>
+
+</body>
+</html>
