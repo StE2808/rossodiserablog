@@ -13,7 +13,7 @@ tags:
   - sanità pubblica
   - politica italiana
   - Leonardo difesa
-image: /assets/images/uploads/spesa-militare-italia-ospedali-welfare.png
+image: /assets/images/uploads/spesa-militare-italia-ospedali-welfare.webp
 image_caption: ''
 image_alt: 'Corridoio di ospedale pubblico italiano vuoto: il riarmo europeo riduce i fondi per la sanità'
 excerpt: "L'Italia porta la spesa militare a 34 miliardi nel 2026, record storico. L'industria delle armi raddoppia gli utili, Leonardo incassa 13,4 miliardi in nove mesi. Intanto la sanità resta al minimo europeo e la cooperazione perde fondi. Non è un dilemma tecnico: è una scelta politica con beneficiari precisi."
