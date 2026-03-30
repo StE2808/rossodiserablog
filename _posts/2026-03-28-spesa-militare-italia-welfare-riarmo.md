@@ -57,6 +57,6 @@ Ma difendersi non significa accettare che ogni euro in più per la difesa sia un
 
 Una società che sa costruire missili ma non riesce a tenere aperti gli ospedali non è più sicura. È solo più armata. E una società più armata, lo insegna la storia, è quasi sempre una società più pericolosa — per gli altri e per se stessa.
 
-I soldi sono quelli. La domanda non è tecnica: è politica. Per chi li spendiamo? Per Leonardo o per il Leonardo da Vinci — l'ospedale, intendo, non l'azienda?
+I soldi sono quelli. La domanda non è tecnica: è politica. Per chi li spendiamo? Per i missili di Leonardo o per l'ospedale sotto casa che non riesce a tenere aperto il pronto soccorso?
 
 La risposta, in questo momento, la stanno dando senza chiedercela. È lo stesso meccanismo che abbiamo analizzato guardando il [potere globale delle tecnologie](/il-potere-globale-delle-tecnologie-oltre-le-urne-verso-il-co/) e [il grande scacchiere geopolitico europeo](/il-grande-scacchiere-globale-big-tech-geopolitica-e-la-neces/): chi controlla le risorse decide le priorità, e lo fa lontano dalle urne.
