@@ -10,3 +10,22 @@ Sitemap: https://rossodiserablog.it/sitemap.xml
 # Blocca accesso al pannello admin
 Disallow: /admin/
 Disallow: /guida-autori/
+
+# Bot di citazione AI (ricerca e risposta) — consentiti
+# Questi bot permettono al sito di essere citato da ChatGPT, Perplexity, ecc.
+# NON usano i contenuti per addestrare modelli
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
