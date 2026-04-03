@@ -60,3 +60,44 @@ Una società che sa costruire missili ma non riesce a tenere aperti gli ospedali
 I soldi sono quelli. La domanda non è tecnica: è politica. Per chi li spendiamo? Per i missili di Leonardo o per l'ospedale sotto casa che non riesce a tenere aperto il pronto soccorso?
 
 La risposta, in questo momento, la stanno dando senza chiedercela. È lo stesso meccanismo che abbiamo analizzato guardando il [potere globale delle tecnologie](/il-potere-globale-delle-tecnologie-oltre-le-urne-verso-il-co/) e [il grande scacchiere geopolitico europeo](/il-grande-scacchiere-globale-big-tech-geopolitica-e-la-neces/): chi controlla le risorse decide le priorità, e lo fa lontano dalle urne.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quanto spende l'Italia per la difesa nel 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nel 2026 l'Italia ha raggiunto i 34 miliardi di euro di spesa militare, un record storico che la colloca al dodicesimo posto mondiale secondo il rapporto SIPRI 2025. L'aumento previsto è di 3,5 miliardi nel 2026, 7 nel 2027 e 15 nel 2028."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il riarmo europeo toglie soldi alla sanità e al welfare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secondo SIPRI e le Nazioni Unite, molti governi europei stanno tagliando fondi a sanità, istruzione e welfare per finanziare il riarmo. In Italia la spesa sanitaria in rapporto al PIL resta tra le più basse d'Europa, la cooperazione allo sviluppo perde 163 milioni nel triennio e gli stipendi pubblici sono fermi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Chi guadagna dal riarmo in Italia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le prime quindici aziende di armi italiane hanno raddoppiato gli utili tra il 2021 e il 2024, accumulando 876 milioni di euro di extraprofitti secondo Greenpeace Italia. Leonardo, di cui il Ministero dell'Economia italiano è azionista di maggioranza, ha registrato ricavi per 13,4 miliardi di euro nei primi nove mesi del 2025, con un aumento del 12,4%."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cos'è il piano Readiness 2030 (ex ReArm Europe)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Readiness 2030, originariamente chiamato ReArm Europe, è il piano dell'Unione Europea per mobilitare 800 miliardi di euro per la difesa entro il 2030. Include 150 miliardi in prestiti diretti attraverso lo strumento SAFE e la sospensione delle regole di bilancio che consente ai governi di spendere fino all'1,5% del PIL in più per i militari senza incorrere in procedure d'infrazione. L'Italia ha richiesto quasi 15 miliardi di prestiti SAFE."
+      }
+    }
+  ]
+}
+</script>
