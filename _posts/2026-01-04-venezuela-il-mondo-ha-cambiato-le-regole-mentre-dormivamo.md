@@ -92,3 +92,36 @@ Adesso non c'è più neanche quella.
 Spoiler:  Trump annetterà la Groenlandia.
 
 La nostra premier sosterrà che si difendeva solo da un attacco ibrido a base di aria fredda?
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa è successo in Venezuela nella notte del 3 gennaio 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nella notte del 3 gennaio, gli Stati Uniti hanno bombardato Caracas, fatto atterrare elicotteri della Delta Force e prelevato il presidente Nicolás Maduro dalla sua abitazione. Maduro è stato trasferito in un carcere di Brooklyn per essere processato, con la giustificazione ufficiale del narcotraffico. Nell'operazione sono morte almeno 40 persone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è stata la giustificazione americana per l'operazione in Venezuela?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La giustificazione ufficiale è stata il narcotraffico: Maduro sarebbe a capo del 'Cartello dei Soli', con una taglia sulla sua testa già dal 2020 (prima 15 milioni di dollari, poi lievitati a 50). L'argomento giuridico era che, essendo le elezioni venezuelane del 2024 truccate, Maduro non sarebbe più un presidente ma un privato cittadino senza immunità diplomatica. Tuttavia Trump nelle ore successive ha dichiarato che le compagnie petrolifere americane sarebbero state 'fortemente coinvolte' nella gestione delle risorse venezuelane."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali precedenti storici di cambio di regime citati nell'articolo mostrano che queste operazioni non funzionano?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La ricercatrice Lindsey O'Rourke del Boston College ha studiato 64 operazioni di cambio di regime condotte dagli USA durante la Guerra Fredda: meno del 40% ha funzionato. L'articolo cita tre casi emblematici: l'Afghanistan, con vent'anni di guerra finiti con i talebani di nuovo al potere; l'Iraq, dove l'eliminazione di Saddam ha prodotto il caos e l'ISIS; la Libia, dove dopo Gheddafi il paese è diviso tra milizie che si sparano ancora addosso."
+      }
+    }
+  ]
+}
+</script>

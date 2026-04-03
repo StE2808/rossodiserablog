@@ -38,3 +38,36 @@ Lo Stato di diritto esiste proprio per questo: per fare emergere la verità, anc
 Difendiamo la magistratura indipendente. Difendiamo la presunzione di innocenza — per tutti, anche per le vittime.
 
 #Rogoredo #GiustiziaPerMansouri #ScudoPenaleNo
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa è successo nel boschetto di Rogoredo il 26 gennaio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il 26 gennaio Abderrahim Mansouri, 28 anni, è stato ucciso con un colpo alla tempia nel boschetto di Rogoredo dall'assistente capo Carmelo Cinturrino. La vittima non impugnava alcuna arma: la pistola giocattolo trovata accanto al corpo era stata portata dall'esterno e piazzata lì dal poliziotto stesso, che in seguito ha ammesso: 'Ho messo la pistola vicino a Mansouri perché temevo le conseguenze.' Sulla pistola a salve non c'è traccia di DNA della vittima, ma solo impronte di Cinturrino."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come aveva reagito il governo al caso Rogoredo prima che emergesse la verità?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediatamente dopo i fatti, Salvini e Piantedosi si erano schierati col poliziotto affermando 'Più legittima difesa di così'. Il governo ha usato il caso per inserire lo scudo penale nel decreto Sicurezza, mentre Meloni accusava i magistrati di 'doppiopesismo' e tutta la maggioranza gridava 'Io sto col poliziotto', prima ancora che la magistratura potesse fare il suo lavoro."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cosa è emerso dall'inchiesta sul poliziotto di Rogoredo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dall'inchiesta è emerso che l'agente Cinturrino avrebbe taglieggiato sistematicamente gli spacciatori della zona, chiedendo fino a 200 euro e droga al giorno. Mansouri si era rifiutato di continuare a pagare e stava raccogliendo prove per denunciarlo. Quattro colleghi del poliziotto sono indagati per favoreggiamento e omissione di soccorso."
+      }
+    }
+  ]
+}
+</script>

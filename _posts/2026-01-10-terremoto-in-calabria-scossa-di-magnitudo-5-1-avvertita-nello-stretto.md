@@ -38,3 +38,28 @@ L'evento ha generato un'immediata reazione digitale, strutturata in tre fasi dis
 Sebbene l'emergenza sia rientrata rapidamente, il dibattito sui social si è spostato sulla memoria storica dello Stretto. Il richiamo al catastrofico **terremoto del 1908** rimane un nervo scoperto per il territorio, ricordando come questa zona ospiti uno dei sistemi di faglie più attivi del Mediterraneo.
 
 L'evento di oggi sottolinea l'importanza di una comunicazione istituzionale sempre più rapida: nei primi minuti di un'emergenza, il vuoto informativo viene spesso colmato dal "sentito dire" digitale, rendendo vitale la presenza costante delle autorità sulle piattaforme social.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Dove è stato il epicentro del terremoto in Calabria del 10 gennaio 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il sisma di magnitudo 5.1 ha avuto l'epicentro lungo la costa calabra sud-orientale, con l'ipocentro localizzato in mare a circa 65 chilometri di profondità. La scossa è avvenuta alle ore 05:53 ed è stata avvertita nelle province di Reggio Calabria, Messina e Catania."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ci sono stati danni o vittime nel terremoto del 10 gennaio 2026 in Calabria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. La profondità elevata dell'ipocentro — circa 65 chilometri — ha attenuato l'intensità distruttiva in superficie. Le autorità, coordinate da Domenico Costarella, capo della Protezione Civile calabrese, hanno confermato l'assenza di criticità."
+      }
+    }
+  ]
+}
+</script>

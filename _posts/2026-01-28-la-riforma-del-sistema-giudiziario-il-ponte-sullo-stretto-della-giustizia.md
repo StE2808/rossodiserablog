@@ -44,3 +44,36 @@ Un dubbio amletico assale: non è che questi non vogliano, tra l’altro, che il
 Vota NO.
 
 #RiformaGiustizia #SeparazioneCarriere #ReferendumGiustizia #Magistratura #PonteSulloStretto #GiustiziaItaliana #Pif  #votaNO
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Di cosa tratta il referendum sulla separazione delle carriere dei magistrati?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I cittadini sono chiamati a votare un referendum costituzionale sulla separazione delle carriere dei magistrati, una riforma voluta da Berlusconi che propone di dividere nettamente il percorso professionale tra giudici e pubblici ministeri. L'articolo la paragona al Ponte sullo Stretto: un'opera faraonica simbolica che distrae dai problemi reali."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono i problemi concreti della giustizia italiana che la riforma non affronta?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mentre il dibattito si concentra sulla separazione delle carriere, restano irrisolte le emergenze quotidiane: tribunali al collasso, processi che si accumulano, carceri che esplodono e cittadini che attendono anni per un giudizio. Secondo l'articolo servirebbero più risorse, più personale e semplificazione delle fasi procedurali."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è la posizione dell'articolo sul referendum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo invita a votare NO, sostenendo che la riforma non rappresenta la priorità per un sistema giudiziario che ha bisogno di interventi concreti e immediati. Come per il Ponte sullo Stretto, la domanda non è se sia tecnicamente fattibile, ma se sia davvero questa la priorità o se sia più facile vendere un grande progetto simbolico che affrontare i problemi quotidiani."
+      }
+    }
+  ]
+}
+</script>

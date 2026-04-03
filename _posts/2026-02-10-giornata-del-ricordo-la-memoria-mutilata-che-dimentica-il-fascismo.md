@@ -45,3 +45,36 @@ La Commissione mista storico-culturale italo-slovena del 2000 ha prodotto una re
 Come scrisse Stojan Spetić al Presidente Mattarella: «È inutile parlare di pace e di Europa se la complessità storica viene ridotta a semplificazioni».
 
 Ricordare le vittime delle foibe è doveroso. Ma farlo cancellando le responsabilità fasciste che generarono quella spirale di violenza è revisionismo, non memoria.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qual è il legame tra il fascismo e le foibe secondo questo articolo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo sostiene che senza il ventennio di occupazione fascista — i campi di concentramento come Arbe/Rab, le politiche di pulizia etnica, l'esproprio delle terre, la repressione violenta delle popolazioni slave e l'italianizzazione forzata — le foibe non sarebbero mai esistite. La narrazione delle foibe come frutto di 'odio etnico' cancella sistematicamente le cause storiche che portarono a quella tragedia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Che cos'è la Commissione mista italo-slovena del 2000 e perché è importante?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La Commissione mista storico-culturale italo-slovena ha prodotto nel 2000 una relazione condivisa da storici di entrambi i Paesi che contestualizza gli eventi delle foibe nella loro complessità storica. In Slovenia è ben conosciuta; in Italia non è mai stata pubblicata. L'articolo la considera troppo scomoda per chi preferisce una memoria semplificata e funzionale alla riabilitazione del fascismo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quale campo di concentramento fascista viene citato come rimosso dalla memoria ufficiale italiana?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo cita due strutture dimenticate: il campo di concentramento di Arbe/Rab, definito il più spaventoso lager per sloveni e croati, e la Risiera di San Sabba, unico lager nazifascista con forno crematorio in Italia. Entrambi vengono sistematicamente omessi dalle celebrazioni ufficiali del Giorno del Ricordo."
+      }
+    }
+  ]
+}
+</script>

@@ -36,3 +36,36 @@ Senza la capacità di immaginare un ordine diverso — più giusto, più aperto,
 L’utopia non è un programma di governo. È la condizione preliminare perché un programma valga la pena di essere scritto. È la domanda che precede tutte le risposte. E in un paese che ha smesso da troppo tempo di farsi domande grandi, forse la crisi che si avvicina potrebbe, paradossalmente, restituire quella domanda ai suoi cittadini.
 
 Ou-topos: il luogo che non esiste ancora. Ma che, proprio per questo, è ancora possibile.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa significa il termine 'utopia' nell'origine greca?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il termine fu coniato da Tommaso Moro nel 1516 nel suo celebre trattato. È un termine greco volutamente ambiguo: ou-topos significa 'il luogo che non esiste', ma nella variante eu-topos indica 'il luogo felice'. Moro sapeva che stava costruendo un'impossibilità, ma la costruì con la precisione di un architetto, perché l'utopia non è ingenuità di chi non conosce il mondo: è la lucidità di chi lo conosce troppo bene e rifiuta di accettarlo come definitivo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In che contesto politico italiano nasce questo articolo sull'utopia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo è scritto nel momento in cui il governo Meloni — già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura — vede la propria coalizione sgretolarsi pezzo dopo pezzo. L'autore legge questo vuoto politico non solo come crisi ma come possibilità: le implosioni di governo non sono solo macerie, ma spazi liberati su cui qualcosa di nuovo può provare a radicarsi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è il paradosso di Camus sull'utopia citato nell'articolo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava la logica del pragmatismo politico: il realismo puro, senza tensione verso ciò che non esiste ancora, non è saggezza ma rassegnazione travestita da maturità. Chiedere l'impossibile non significa ignorare i vincoli del reale, ma rifiutare che quei vincoli siano eterni."
+      }
+    }
+  ]
+}
+</script>

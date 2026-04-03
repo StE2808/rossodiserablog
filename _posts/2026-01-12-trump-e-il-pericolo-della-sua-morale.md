@@ -44,3 +44,36 @@ Il diritto, invece, non pretende di stabilire cosa sia il Bene assoluto. Si limi
 Questa è l’intuizione geniale della democrazia liberale: rinunciare a imporre una verità morale totalizzante per garantire un sistema di regole che protegga tutti. La legge diventa il terreno comune dove le diverse morali possono coesistere senza annientarsi. Non ci chiede di amarci, ma di rispettarci; non di condividere fedi, ma di condividere procedure.
 
 La pace non nasce dalla vittoria di una morale sulle altre, ma dall’accettazione che nessuna morale può governare da sola. Il diritto è questo equilibrio fragile e prezioso: la rinuncia alla purezza ideologica in cambio della convivenza possibile.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Perché governare secondo la propria morale è pericoloso per la democrazia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La morale è personale e radicata in visioni del mondo spesso inconciliabili: ciò che è giusto per una persona può essere abominio per un’altra. Se il potere si fa interprete di una sola morale, l’altra metà della società si sente oppressa e tradita. È così che nasce la frattura: non più cittadini con opinioni diverse, ma nemici in guerra."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è la differenza fondamentale tra diritto e morale nella convivenza democratica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il diritto non pretende di stabilire cosa sia il Bene assoluto, ma si limita a definire regole del gioco condivise: non chiede di condividere valori, ma di rispettare confini comuni. Si pone un gradino sotto le convinzioni più profonde, creando uno spazio neutro dove morali diverse possono coesistere senza annientarsi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come si collega la critica a Trump a quella a Meloni nell’articolo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L’articolo afferma che Trump ha annunciato e Meloni ha sottoscritto l’approccio di imporre la propria visione morale come criterio di giustizia, trasformando così lo Stato in strumento di parte. Entrambi i governi vengono descritti come esempi di questa degenerazione della democrazia liberale."
+      }
+    }
+  ]
+}
+</script>

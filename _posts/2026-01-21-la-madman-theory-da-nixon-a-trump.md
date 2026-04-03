@@ -57,3 +57,36 @@ Non è un leader razionale che finge la follia per scopi tattici. È l’impreve
 La differenza tra un attore che recita il folle e un folle con accesso ai codici nucleari non è sottile. È la differenza tra il rischio calcolato e il pericolo reale.
 
 Quando la Madman Theory non è più teoria ma realtà, il mondo intero diventa ostaggio non di una strategia, ma di un temperamento.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Che cos'è la Madman Theory e chi la sviluppò?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La Madman Theory fu sviluppata consapevolmente da Richard Nixon durante la Guerra Fredda: convincere i nemici che fosse irrazionale e imprevedibile abbastanza da usare armi nucleari, per ottenere concessioni attraverso la paura calcolata. Era una performance studiata insieme a Kissinger per fini strategici specifici."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è la differenza fondamentale tra Nixon e Trump nell'applicare la Madman Theory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nixon recitava la follia come teatro politico calcolato: ogni mossa era studiata. Con Trump, secondo una sua ex portavoce, 'non è una strategia, è davvero così'. Nixon calcolava ogni mossa; Trump reagisce d'istinto. La differenza è tra un leader razionale che finge la follia e l'imprevedibilità genuina di chi detiene un potere immenso senza i filtri della prudenza diplomatica."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché la Madman Theory applicata da Trump è considerata un pericolo reale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La differenza tra un attore che recita il folle e un folle con accesso ai codici nucleari non è sottile: è la differenza tra il rischio calcolato e il pericolo reale. Quando la Madman Theory cessa di essere teoria, il mondo intero diventa ostaggio non di una strategia, ma di un temperamento."
+      }
+    }
+  ]
+}
+</script>

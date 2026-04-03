@@ -54,3 +54,36 @@ Non si tratta di giustificare la violenza da nessuna parte. Si tratta di chieder
 La verità è scomoda: la resistenza è resistenza, ovunque avvenga. E l’oppressione rimane oppressione, qualunque sia l’uniforme di chi la perpetra.​​​​​​​​​​​​​​​​
 
 Donna Vita e Libertà ma anche [Palestina Libera](/israele-ha-gettato-la-maschera-vuole-la-fine-della-palestina/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quale gesto delle donne iraniane è al centro dell'articolo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo parte da un'immagine virale sui social: donne iraniane che accendono sigarette bruciando foto dell'ayatollah Khomeini. È un gesto di sfida quotidiana contro un regime che ha fatto del controllo sui corpi femminili uno dei suoi pilastri, e che comporta rischi gravissimi — arresto, tortura, morte — per il diritto di fumare, di non portare l'hijab, di esistere liberamente."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è il doppio standard mediatico denunciato nell'articolo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I media occidentali celebrano con ammirazione la resistenza delle donne iraniane, definendole 'combattenti per la libertà'. Ma quando un popolo resiste sotto occupazione militare, con case demolite, terre confiscate e bambini uccisi — come nel caso palestinese — la stessa resistenza viene sistematicamente etichettata come terrorismo. Due popoli sotto oppressione, due narrazioni opposte: un doppio standard che l'articolo riconduce ad agende geopolitiche."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è la tesi centrale dell'articolo sulla resistenza all'oppressione?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo non intende giustificare la violenza da nessuna parte, ma chiede coerenza: o si riconosce il diritto universale dei popoli oppressi di resistere, oppure si ammette che la solidarietà internazionale è condizionata da agende geopolitiche. La resistenza rimane resistenza ovunque avvenga, e l'oppressione rimane oppressione qualunque sia l'uniforme di chi la perpetra."
+      }
+    }
+  ]
+}
+</script>

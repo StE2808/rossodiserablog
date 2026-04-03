@@ -26,3 +26,36 @@ Il motivo della copertura è politico, elementare: la tenuta della coalizione. I
 Allora perché ora non copre più? Le opposizioni non hanno dubbi: «Ci sono voluti tre anni e 14 milioni di cittadini che hanno votato no al referendum», ha detto Conte.  La sconfitta referendaria ha cambiato il calcolo. Ciò che prima era un costo accettabile — tenere in sella ministri imbarazzanti — è diventato insostenibile dopo che il Paese ha bocciato la riforma-bandiera del governo. Meloni ha bisogno di riposizionarsi, di mostrarsi al di sopra dei propri alleati, di riacquistare credibilità. Santanchè è diventata utile da sacrificare.
 
 La questione morale, insomma, non è cambiata. È cambiata la convenienza. E quando la convenienza non coincide o collima con  l’etica così grandemente, l’imbarazzo monta anche in chi ha la faccia tosta, di bronzo per non dire di peggio .​​​​​​​​​​
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa significa la frase ‘da oggi non copro più nessuno’ pronunciata da Meloni?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Meloni ha pronunciato questa frase mentre chiedeva le dimissioni della ministra Santanchè, nei giorni successivi alla sconfitta referendaria. Come ha notato Carlo Verdelli, quell’avverbio ‘da oggi’ è una confessione involontaria: implica che fino al giorno prima i ministri coinvolti in vicende giudiziarie — Santanchè, Delmastro, Bartolozzi — potevano sbagliare senza pagare."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali ministri e sottosegretari erano stati ‘coperti’ dal governo Meloni secondo l’articolo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L’articolo cita tre casi: Delmastro, che ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della ‘Bisteccheria d’Italia’; Bartolozzi, capo di gabinetto di Nordio, dimessasi nel periodo post-referendum; e Santanchè, rimasta al ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché Meloni ha smesso di coprire proprio ora?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secondo l’articolo — e come ha dichiarato Conte — ci sono voluti tre anni e 14 milioni di cittadini che hanno votato no al referendum per cambiare il calcolo. La sconfitta referendaria ha reso insostenibile ciò che prima era un costo accettabile. Meloni ha bisogno di riposizionarsi e riacquistare credibilità, e Santanchè è diventata utile da sacrificare. La questione morale non è cambiata: è cambiata la convenienza."
+      }
+    }
+  ]
+}
+</script>

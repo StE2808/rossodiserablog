@@ -59,3 +59,36 @@ La Russia ha usato argomentazioni simili per la Crimea. La Cina le usa per Taiwa
 La Groenlandia oggi, domani chi? Le Svalbard? L’Islanda? Dove finisce questa logica predatoria?
 
 La posta in gioco non è solo un’isola nell’Artico. È il futuro dell’ordine internazionale, il rispetto della democrazia e dell’autodeterminazione, la credibilità stessa dei valori occidentali. Se restiamo in silenzio ora, non avremo più diritto di parlare quando altri faranno lo stesso.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quanti groenlandesi si oppongono all’acquisizione americana della Groenlandia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secondo l’articolo, l’85% dei groenlandesi rifiuta categoricamente di diventare americani. Nonostante questo, la Casa Bianca — con il segretario di Stato Rubio che lo ha ammesso davanti ai legislatori — sta apertamente perseguendo l’acquisizione del territorio sottraendolo alla Danimarca."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono i reali interessi americani sulla Groenlandia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dietro la retorica sulla sicurezza nazionale si celano i giacimenti di metalli rari che ridurrebbero la dipendenza americana dalla Cina, e il controllo strategico dell’Artico in chiave anti-russa e anti-cinese. Trump ha esplicitamente dichiarato che le compagnie petrolifere americane saranno ‘fortemente coinvolte’ nella gestione delle risorse groenlandesi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come ha risposto l’Europa alle pressioni americane sulla Groenlandia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sei leader europei hanno dovuto firmare una dichiarazione congiunta per ribadire che la Groenlandia appartiene al suo popolo. La Danimarca è stata costretta a stanziare 8 miliardi di euro per potenziare la propria difesa, diventando un alleato NATO che deve armarsi contro le mire di un altro alleato NATO."
+      }
+    }
+  ]
+}
+</script>

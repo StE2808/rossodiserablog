@@ -137,3 +137,44 @@ Non so se ce la faremo. Ma so che continuare a fingere che tutto vada bene, che 
 La teoria del racket di Horkheimer non è una profezia apocalittica. È uno strumento di analisi, un modo per vedere più chiaramente ciò che accade intorno a noi. E nel vedere più chiaramente, forse, ritrovare la voglia e la capacità di cambiare.
 
 Perché alla fine, il vero potere del racket non sta nella sua forza, ma nella nostra rassegnazione.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Che cos'è la teoria del racket di Horkheimer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Max Horkheimer, filosofo della Scuola di Francoforte, usava il termine 'racket' per descrivere un gruppo di potere — economico, politico o corporativo — che garantisce vantaggi e protezione ai propri membri in cambio di lealtà assoluta, escludendo sistematicamente chi sta fuori. Non si tratta di corruzione classica, ma della trasformazione strutturale dello Stato in club privato dove l'accesso ai benefici dipende dall'appartenenza, non dai diritti universali."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come funziona concretamente il meccanismo del racket nella politica italiana secondo l'articolo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo descrive un ciclo in sei fasi: un settore economico finanzia campagne e think tank, i think tank producono studi che giustificano riforme specifiche, i politici propongono quelle riforme, commissioni composte da esperti legati al settore le perfezionano, le leggi vengono approvate e infine le risorse pubbliche iniziano a fluire verso quel settore. Come esempio concreto viene citata la sanità pubblica italiana, dove si tagliano medici e infermieri mentre crescono i fondi alle strutture private convenzionate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è l'alternativa al sistema del racket proposta dall'articolo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo propone due livelli di risposta. Il primo è semantico: chiamare le cose con il loro nome, usando termini come 'estrazione', 'cattura istituzionale' e 'racket' invece degli eufemismi ufficiali. Il secondo è costruire dal basso forme di organizzazione alternative — reti di mutuo aiuto, economie cooperative, spazi di democrazia diretta — che sfuggano alla logica delle istituzioni catturate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In quale contesto storico Horkheimer sviluppò la teoria del racket?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. L'articolo paragona quella crisi alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune."
+      }
+    }
+  ]
+}
+</script>

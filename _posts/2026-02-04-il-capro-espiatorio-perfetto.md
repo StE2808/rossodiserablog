@@ -47,3 +47,28 @@ Nessun precedente penale. Nemmeno una multa. Non è mai stato nella curva di nes
 Ma guardatelo bene questo pericoloso sovversivo: un ragazzo che porta pizze e caffè, cresciuto in un paese dove tutti si conoscono, dove la sera ci si ritrova al bar della piazza. Quale ideologia avrebbe dovuto covare tra i turni al ristorante e le giornate in un borgo che conta meno abitanti di un condominio romano?
 
 Anarchico a ventidue anni, mentre servi ai tavoli. Non militante, non organizzato, non schedato. Solo un giovane al posto sbagliato nel momento sbagliato, trasformato in mostro con un tratto di penna. Perché quando la narrazione ha bisogno di un nemico, i dettagli non contano. Conta solo trovare qualcuno da additare, prima che l’imbarazzo del vuoto diventi troppo evidente.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Chi è stato arrestato dopo i disordini di Torino e qual è il suo profilo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dopo i disordini di sabato a Torino, le autorità hanno arrestato un ragazzo di 22 anni, cameriere, originario di Arcidosso, piccolo centro di circa mille abitanti in provincia di Grosseto. Il giovane non ha alcun precedente penale, non è mai stato coinvolto in tifoserie organizzate né in movimenti politici. È stato etichettato come ‘anarchico’ nonostante l’assenza di qualsiasi storia di militanza."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché l’articolo mette in dubbio la credibilità di questo arresto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L’articolo solleva dubbi sulla logica dell’identificazione: un cameriere proveniente da un borgo toscano di mille anime, senza precedenti, senza schedature, senza appartenenza a gruppi organizzati, viene trasformato in ‘pericoloso sovversivo’. La vicenda viene letta come la costruzione di un capro espiatorio necessario al governo per mostrare un volto da dare in pasto all’opinione pubblica dopo i disordini."
+      }
+    }
+  ]
+}
+</script>

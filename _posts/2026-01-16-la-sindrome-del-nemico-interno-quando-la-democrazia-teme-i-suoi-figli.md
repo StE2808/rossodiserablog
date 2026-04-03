@@ -76,3 +76,36 @@ Forse il problema non è il messaggio. Forse il problema è che qualcuno ha deci
 E se questo è vero, allora la domanda iniziale — "la democrazia sta bene?" — ha una risposta. No, non sta benissimo. Ha la sindrome del nemico interno, e la febbre sale.
 
 Sta a noi decidere se chiamare il medico, o se girarci dall'altra parte e far finta che sia solo un raffreddore.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa è successo a Pisa nel febbraio 2024 durante una manifestazione studentesca?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il 23 febbraio 2024 a Pisa la polizia ha caricato un corteo pacifico di studenti pro-Palestina, causando diciotto feriti di cui dieci minorenni. Il presidente Mattarella ha definito l'accaduto un 'fallimento', non un eccesso o un errore."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali leggi italiane vengono citate come esempi di criminalizzazione del dissenso?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo cita il decreto anti-rave del 2022, con pene da tre a sei anni per raduni non autorizzati — formulazione così elastica che Amnesty ne ha chiesto l'abrogazione — e il decreto sicurezza del 2025, che rende reato sedersi in strada e prevede il carcere per resistenza passiva. Ultima Generazione ha collezionato 2.000 denunce, 180 procedimenti e 90 fogli di via, con accuse di associazione a delinquere per aver bloccato il traffico."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come si manifesta la 'sindrome del nemico interno' nelle democrazie occidentali?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'articolo descrive una grammatica comune a Italia, Francia, Regno Unito e USA: prima la ridefinizione linguistica (la protesta diventa terrorismo), poi la criminalizzazione preventiva (fogli di via, divieti prima di qualsiasi reato), quindi la delegittimazione del manifestante come infiltrato o estremista, e infine la sproporzione punitiva con pene altissime che servono da avvertimento. In Francia a Sainte-Soline il movimento è stato sciolto per decreto dopo centinaia di feriti. Nel Regno Unito il Public Order Act 2023 punisce chi si incatena con quasi un anno di carcere."
+      }
+    }
+  ]
+}
+</script>
