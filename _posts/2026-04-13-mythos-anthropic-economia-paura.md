@@ -89,7 +89,8 @@ Ma la prossima volta? E il laboratorio che arriverà secondo, o terzo, o che ope
 
 Il catastrofismo non serve. Serve prendere atto che una tecnologia che nessuno aveva previsto, capace di trovare le falle nella difesa digitale di mezzo mondo, è già qui. Che ci è arrivata da sola. E che le regole per gestirla non esistono ancora.
 
-È il 2026. Siamo ancora a guardare la fumata.
+Anthropic ha indicato la luna.
+È il 2026. Stiamo ancora guardando il dito, intanto sta sorgendo una bellissima luna.
 
 <script type="application/ld+json">
 {
