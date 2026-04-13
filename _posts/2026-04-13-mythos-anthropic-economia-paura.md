@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Mythos, il modello che trova i bug di tutti: benvenuti nella nuova economia della paura'
-seo_title: 'Mythos di Anthropic: quando la sicurezza informatica diventa un prodotto da vendere'
-description: 'Anthropic annuncia Mythos, il modello AI che trova zero-day in tutti i sistemi del mondo. Capacità emergente, non addestrata. Il messaggio implicito: da oggi paghi o sei vulnerabile.'
+seo_title: 'Mythos Anthropic: sicurezza informatica come prodotto'
+description: 'Mythos di Anthropic trova zero-day ovunque. Capacità emergente, non addestrata. Da oggi la sicurezza informatica si compra — o non si ha.'
 date: 2026-04-13 10:00:00 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
@@ -21,7 +21,7 @@ focus_keyword: 'Mythos Anthropic sicurezza informatica'
 
 Fermatevi un secondo sulla notizia, perché merita più di un titolo.
 
-Anthropic, l'azienda che produce Claude (il modello di intelligenza artificiale che state usando in milioni per scrivere email, riassumere documenti, rispondere alle domande dei figli), ha annunciato di aver trovato migliaia di vulnerabilità zero-day. In ogni sistema operativo principale. In ogni browser principale. E in una serie di altri software che non è stata ancora specificata.
+Anthropic, l'azienda che produce Claude (il modello di intelligenza artificiale che state usando in milioni per scrivere email, riassumere documenti, rispondere alle domande dei figli), ha annunciato di aver trovato migliaia di vulnerabilità di sicurezza informatica di tipo zero-day. In ogni sistema operativo principale. In ogni browser principale. E in una serie di altri software che non è stata ancora specificata.
 
 Zero-day: bug sconosciuti ai produttori, non ancora corretti, sfruttabili da chiunque li conosca. Il tipo di vulnerabilità per cui i servizi segreti pagano milioni. Il tipo di vulnerabilità che non avreste voluto sapere che esisteva.
 
@@ -43,7 +43,7 @@ Detto senza giri di parole: OpenAI ce l'ha, quasi certamente. Google DeepMind an
 
 Anthropic ha annunciato per prima. Ha vinto la narrativa.
 
-## Project Glasswing, o come trasformare un problema in un prodotto
+## Mythos, Anthropic e la sicurezza informatica come prodotto
 
 L'annuncio arriva confezionato in modo impeccabile. Si chiama Project Glasswing, il vetro trasparente, fragile eppure preciso. Prevede cento milioni di dollari in crediti per usare Mythos in chiave difensiva, più quattro milioni in donazioni dirette alle organizzazioni di sicurezza open source.
 
