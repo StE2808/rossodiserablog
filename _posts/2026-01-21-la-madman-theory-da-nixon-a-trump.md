@@ -2,7 +2,7 @@
 layout: post
 title: 'La Madman Theory: da Nixon a Trump'
 seo_title: 'Quando il pazzo non recita: Trump e la Madman Theory diventata realtà'
-description: Nixon fingeva la follia per strategia. Trump, secondo la sua ex portavoce, “è davvero così”. La differenza tra recitare il pazzo e esserlo al comando.
+description: Nixon fingeva la follia per strategia. Trump, secondo la sua ex portavoce, "è davvero così". La differenza tra recitare il pazzo e esserlo al comando.
 date: 2026-01-21 08:32:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
@@ -36,9 +36,9 @@ image: /assets/images/uploads/IMG_7050.webp
 image_caption: Trump
 image_alt: Trump
 excerpt: |-
-  Richard Nixon usò la “Madman Theory” durante la Guerra Fredda: fingere di essere irrazionale e imprevedibile per intimidire gli avversari. Era una strategia calcolata, orchestrata con Kissinger.
-  Donald Trump appare utilizzare lo stesso approccio con minacce erratiche e dichiarazioni incendiarie. Ma c’è una differenza fondamentale: secondo una sua ex portavoce, “Non è una strategia. È davvero così.”
-  Nixon recitava la follia per fini tattici. Trump non recita. La distinzione tra un leader che simula l’imprevedibilità e uno genuinamente imprevedibile al comando è la differenza tra rischio calcolato e pericolo reale. Quando la Madman Theory cessa di essere teoria, il mondo diventa ostaggio non di una strategia, ma di un temperamento.​​​​​​​​​​​​​​​​
+  Richard Nixon usò la "Madman Theory" durante la Guerra Fredda: fingere di essere irrazionale e imprevedibile per intimidire gli avversari. Era una strategia calcolata, orchestrata con Kissinger.
+  Donald Trump appare utilizzare lo stesso approccio con minacce erratiche e dichiarazioni incendiarie. Ma c'è una differenza fondamentale: secondo una sua ex portavoce, "Non è una strategia. È davvero così."
+  Nixon recitava la follia per fini tattici. Trump non recita. La distinzione tra un leader che simula l'imprevedibilità e uno genuinamente imprevedibile al comando è la differenza tra rischio calcolato e pericolo reale. Quando la Madman Theory cessa di essere teoria, il mondo diventa ostaggio non di una strategia, ma di un temperamento.​​​​​​​​​​​​​​​​
 focus_keyword: Madman
 ---
 

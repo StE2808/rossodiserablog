@@ -2,7 +2,7 @@
 layout: post
 title: 'La fiamma della resistenza: due pesi, due misure'
 seo_title: 'Resistenza Iran vs Palestina: due pesi e due misure nella narrazione mediatica occidentale'
-description: La resistenza iraniana celebrata, quella palestinese condannata. Due popoli oppressi, due narrazioni opposte. Quando l’empatia diventa selettiva.
+description: La resistenza iraniana celebrata, quella palestinese condannata. Due popoli oppressi, due narrazioni opposte. Quando l'empatia diventa selettiva.
 date: 2026-01-16 09:13:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
@@ -31,10 +31,10 @@ image: /assets/images/uploads/IMG_7041.webp
 image_caption: Una giovane donna iraniana si accende una sigaretta bruciando una foto di Khomeini
 image_alt: a iraniana si accende una sigaretta bruciando una foto di Khomeini
 excerpt: |-
-  Donne iraniane sfidano il regime bruciando foto dell’ayatollah Khomeini per accendere sigarette: un gesto di ribellione quotidiana contro l’oppressione. I media occidentali celebrano giustamente il loro coraggio nella lotta per la libertà.
-  Eppure emerge una contraddizione stridente: perché la stessa empatia non viene riservata al popolo palestinese? La resistenza contro l’occupazione militare, l’espropriazione delle terre e la violenza subita viene sistematicamente etichettata come terrorismo.
+  Donne iraniane sfidano il regime bruciando foto dell'ayatollah Khomeini per accendere sigarette: un gesto di ribellione quotidiana contro l'oppressione. I media occidentali celebrano giustamente il loro coraggio nella lotta per la libertà.
+  Eppure emerge una contraddizione stridente: perché la stessa empatia non viene riservata al popolo palestinese? La resistenza contro l'occupazione militare, l'espropriazione delle terre e la violenza subita viene sistematicamente etichettata come terrorismo.
   Due popoli oppressi, due narrazioni completamente opposte. Le iraniane sono eroine, i palestinesi terroristi. Un doppio standard che solleva interrogativi sulla coerenza della narrazione mainstream e sulle agende geopolitiche che la condizionano.
-  Non si tratta di giustificare violenza, ma di chiedere onestà intellettuale: o si riconosce universalmente il diritto di resistere all’oppressione, o si ammette che la solidarietà internazionale è selettiva e strumentale. La resistenza rimane resistenza, ovunque avvenga.​​​​​​​​​​​​​​​​
+  Non si tratta di giustificare violenza, ma di chiedere onestà intellettuale: o si riconosce universalmente il diritto di resistere all'oppressione, o si ammette che la solidarietà internazionale è selettiva e strumentale. La resistenza rimane resistenza, ovunque avvenga.​​​​​​​​​​​​​​​​
 focus_keyword: ∙	donne iraniane 	∙	resistenza iraniana 	∙	Khomeini 	∙	resistenza palestinese 	∙	doppio standard 	∙	media occidentali 	∙	oppressione Iran
 ---
 In questi giorni rimbalza sui social un’immagine potente: donne iraniane che accendono sigarette bruciando foto dell’ayatollah Khomeini. 

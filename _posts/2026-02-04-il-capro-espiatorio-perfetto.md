@@ -34,9 +34,9 @@ image: /assets/images/uploads/IMG_7074.webp
 image_caption: Cameriere ventiduenne arrestato per i disordini di Torino
 image_alt: Cameriere ventiduenne arrestato per i disordini di Torino
 excerpt: |-
-  hanno individuato un presunto responsabile: un ragazzo di 22 anni, cameriere, originario di Arcidosso, piccolo centro di mille abitanti in provincia di Grosseto. Il giovane non ha alcun precedente di polizia, non è mai stato coinvolto in attività di tifoseria organizzata o movimenti politici, eppure è stato etichettato come “anarchico”.
-  L’articolo solleva dubbi sulla credibilità di questa identificazione, evidenziando come un cameriere proveniente da un borgo toscano, senza alcuna storia di militanza o attività sovversiva, sia stato trasformato in capro espiatorio. La vicenda solleva interrogativi sulla necessità del governo di trovare rapidamente un colpevole da mostrare all’opinione pubblica, a prescindere dall’effettiva pericolosità o dal profilo reale della persona arrestata.
-  Una riflessione critica sulla costruzione mediatica del “nemico pubblico” e sull’uso strumentale delle etichette politiche per rispondere alla pressione dell’emergenza.​​​​​​​​​​​​​​​​
+  hanno individuato un presunto responsabile: un ragazzo di 22 anni, cameriere, originario di Arcidosso, piccolo centro di mille abitanti in provincia di Grosseto. Il giovane non ha alcun precedente di polizia, non è mai stato coinvolto in attività di tifoseria organizzata o movimenti politici, eppure è stato etichettato come "anarchico".
+  L'articolo solleva dubbi sulla credibilità di questa identificazione, evidenziando come un cameriere proveniente da un borgo toscano, senza alcuna storia di militanza o attività sovversiva, sia stato trasformato in capro espiatorio. La vicenda solleva interrogativi sulla necessità del governo di trovare rapidamente un colpevole da mostrare all'opinione pubblica, a prescindere dall'effettiva pericolosità o dal profilo reale della persona arrestata.
+  Una riflessione critica sulla costruzione mediatica del "nemico pubblico" e sull'uso strumentale delle etichette politiche per rispondere alla pressione dell'emergenza.​​​​​​​​​​​​​​​​
 focus_keyword: Disordini Torino
 ---
 

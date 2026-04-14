@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La riforma del sistema giudiziario: il ponte sullo stretto della Giustizia'
-seo_title: 'Referendum giustizia: la separazione delle carriere è il “ponte sullo stretto” dei magistrati'
+seo_title: 'Referendum giustizia: la separazione delle carriere è il "ponte sullo stretto" dei magistrati'
 description: 'La riforma sulla separazione delle carriere dei magistrati promette grandi cambiamenti, ma distrae dai veri problemi della giustizia: tribunali al collasso, processi infiniti, carceri sovraffollate.'
 date: 2026-01-28 11:28:00 +0100
 author: lino-rialti

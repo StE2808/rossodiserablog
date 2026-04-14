@@ -2,7 +2,7 @@
 layout: post
 title: LA PAURA È PIÙ FACILE DELLA SPERANZA
 seo_title: 'La Paura è Più Facile della Speranza: Perché Scegliamo il Pessimismo'
-description: Perché la destra vince e la sinistra fatica? La paura è immediata e semplice, la speranza richiede tempo e fiducia. Un’analisi dell’asimmetria nel confronto politico contemporaneo.
+description: Perché la destra vince e la sinistra fatica? La paura è immediata e semplice, la speranza richiede tempo e fiducia. Un'analisi dell'asimmetria nel confronto politico contemporaneo.
 date: 2026-02-05 11:40:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
@@ -40,22 +40,22 @@ image: /assets/images/uploads/IMG_7082.webp
 image_caption: La copertina del libro il nemico di Stefano Feltri
 image_alt: La copertina del libro il nemico di Stefano Feltri
 excerpt: |-
-  Tesi centrale: Esiste un’asimmetria strutturale nel confronto politico contemporaneo che spiega il successo della destra e le difficoltà della sinistra: vendere paura è molto più semplice che costruire speranza.
+  Tesi centrale: Esiste un'asimmetria strutturale nel confronto politico contemporaneo che spiega il successo della destra e le difficoltà della sinistra: vendere paura è molto più semplice che costruire speranza.
   La strategia della destra:
-  	∙	Si basa sull’identificazione di un nemico (migranti, “gender”, Europa, élite, ecc.)
+  	∙	Si basa sull'identificazione di un nemico (migranti, "gender", Europa, élite, ecc.)
   	∙	Offre risposte semplici a problemi complessi
-  	∙	Non chiede sacrifici personali: il problema è sempre “l’altro”
+  	∙	Non chiede sacrifici personali: il problema è sempre "l'altro"
   	∙	Può giustificare i fallimenti trovando nuovi capri espiatori
   Perché la paura funziona:
-  	∙	È un’emozione primordiale e immediata
-  	∙	Bypassa la razionalità, parla direttamente all’amigdala
+  	∙	È un'emozione primordiale e immediata
+  	∙	Bypassa la razionalità, parla direttamente all'amigdala
   	∙	Crea coesione tribale contro un nemico esterno
   	∙	Ha radici evolutive: chi temeva lo sconosciuto sopravviveva
   La sfida della sinistra:
   	∙	Deve alimentare la speranza, che è faticosa e richiede tempo
   	∙	Propone messaggi complessi su interconnessioni globali, redistribuzione, diritti
   	∙	Chiede sacrifici immediati per benefici futuri
-  	∙	Deve promuovere “noi tutti” quando è più facile dire “noi contro loro”
+  	∙	Deve promuovere "noi tutti" quando è più facile dire "noi contro loro"
   Il paradosso:
   	∙	La speranza chiede apertura e fiducia
   	∙	La paura si nutre di muri e chiusure
