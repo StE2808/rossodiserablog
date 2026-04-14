@@ -27,6 +27,54 @@
             ruby-version: '3.3'
             bundler-cache: true
 
+        - name: Fix smart quotes in front matter
+          run: |
+            python3 << 'PYTHON_SCRIPT'
+            import os
+
+            posts_dir = '_posts'
+            replacements = {
+                '\u201c': '"', '\u201d': '"',
+                '\u2018': "'", '\u2019': "'",
+            }
+            fixed = []
+
+            for filename in os.listdir(posts_dir):
+                if not filename.endswith('.md'):
+                    continue
+                path = os.path.join(posts_dir, filename)
+                with open(path, encoding='utf-8') as f:
+                    content = f.read()
+                parts = content.split('---')
+                if len(parts) < 3:
+                    continue
+                fm = parts[1]
+                fm_fixed = fm
+                for bad, good in replacements.items():
+                    fm_fixed = fm_fixed.replace(bad, good)
+                if fm_fixed != fm:
+                    parts[1] = fm_fixed
+                    with open(path, 'w', encoding='utf-8') as f:
+                        f.write('---'.join(parts))
+                    fixed.append(filename)
+                    print(f'Fixed: {filename}')
+
+            if not fixed:
+                print('No smart quotes found.')
+            PYTHON_SCRIPT
+
+        - name: Commit smart quotes fix
+          run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add _posts/*.md
+            if git diff --staged --quiet; then
+              echo "Nothing to commit"
+            else
+              git commit -m "Fix: rimuove smart quotes dal front matter [skip ci]"
+              git push
+            fi
+
         - name: Install WebP tools
           run: sudo apt-get install -y webp
 
