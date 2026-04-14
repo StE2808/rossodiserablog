@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mythos, il modello che trova i bug di tutti: benvenuti nella nuova economia della paura'
-seo_title: 'Mythos Anthropic: sicurezza informatica come prodotto'
+seo_title: 'Mythos, il modello Anthropic che trova zero-day ovunque'
 description: 'Mythos di Anthropic trova zero-day ovunque. Capacità emergente, non addestrata. Da oggi la sicurezza informatica si compra — o non si ha.'
 date: 2026-04-13 10:00:00 +0200
 author: stefano-vozzi
