@@ -17,6 +17,7 @@
   jobs:
     build:
       runs-on: ubuntu-latest
+      if: github.actor != 'github-actions[bot]'
       steps:
         - name: Checkout
           uses: actions/checkout@v4
@@ -71,7 +72,7 @@
             if git diff --staged --quiet; then
               echo "Nothing to commit"
             else
-              git commit -m "Fix: rimuove smart quotes dal front matter [skip ci]"
+              git commit -m "Fix: rimuove smart quotes dal front matter"
               git push
             fi
 
