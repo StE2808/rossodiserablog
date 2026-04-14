@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Il grande flop della destra alla RAI: quando l'offensiva culturale diventa una Caporetto'
+title: 'Il grande flop della destra alla RAI: quando l''offensiva culturale diventa una Caporetto'
 seo_title: 'RAI, il flop della destra: da Petrecca al Pucci-gate, ascolti disastrosi e gaffe olimpiche'
 description: "L'offensiva culturale della destra in RAI si trasforma in disastro: dal Pucci-gate di Petrecca alle Olimpiadi 2026, al flop di Pino Insegno. Ascolti crollati e dati Auditel impietosi."
 date: 2026-02-10 07:42:00 +0100
@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7089.webp
 image_caption: Il cavallo della Rai a Roma
 image_alt: Il cavallo della Rai a Roma
-excerpt: 'L'offensiva culturale della destra in RAI si è trasformata in una Caporetto: dal Pucci-gate di Paolo Petrecca alle Olimpiadi 2026 al flop clamoroso di Pino Insegno con ascolti sotto il 10%, passando per le gaffe di Beatrice Venezi. I dati Auditel certificano il disastro di una gestione basata su nomine politiche anziché competenze, dimostrando che la presunta egemonia culturale della sinistra esiste solo grazie al vuoto cosmico che c'è a destra.​​​​​​​​​​​​​​​​'
+excerpt: 'L''offensiva culturale della destra in RAI si è trasformata in una Caporetto: dal Pucci-gate di Paolo Petrecca alle Olimpiadi 2026 al flop clamoroso di Pino Insegno con ascolti sotto il 10%, passando per le gaffe di Beatrice Venezi. I dati Auditel certificano il disastro di una gestione basata su nomine politiche anziché competenze, dimostrando che la presunta egemonia culturale della sinistra esiste solo grazie al vuoto cosmico che c''è a destra.'
 focus_keyword: Egemonia culturale
 ---
 

@@ -7,25 +7,25 @@ date: 2026-01-28 11:28:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
 tags:
-  - ∙	riforma giustizia
-  - ∙	separazione carriere magistrati
-  - ∙	referendum giustizia
-  - ∙	magistratura italiana
-  - ∙	giustizia italiana
-  - ∙	riforma magistratura
-  - ∙	Pif
-  - ∙	ponte sullo stretto
-  - ∙	politica italiana
-  - ∙	sistema giudiziario
-  - ∙	tribunali
-  - ∙	processi
-  - ∙	efficienza giustizia
-  - ∙	riforme inutili
-  - ∙	priorità politiche
+  - ∙  riforma giustizia
+  - ∙  separazione carriere magistrati
+  - ∙  referendum giustizia
+  - ∙  magistratura italiana
+  - ∙  giustizia italiana
+  - ∙  riforma magistratura
+  - ∙  Pif
+  - ∙  ponte sullo stretto
+  - ∙  politica italiana
+  - ∙  sistema giudiziario
+  - ∙  tribunali
+  - ∙  processi
+  - ∙  efficienza giustizia
+  - ∙  riforme inutili
+  - ∙  priorità politiche
 image: /assets/images/uploads/IMG_7064.webp
 image_caption: Silvio Berlusconi e Giorgia Meloni
 image_alt: Silvio Berlusconi e Giorgia Meloni Salutano la folla
-excerpt: 'La riforma sulla separazione delle carriere dei magistrati, oggetto di referendum, viene paragonata al ponte sullo stretto: un grande progetto simbolico che distrae dai veri problemi della giustizia italiana. Mentre il dibattito si concentra sulla separazione delle carriere, restano irrisolte le emergenze quotidiane: tribunali al collasso, processi infiniti, carenza di personale e risorse, carceri sovraffollate. La questione non è se la riforma sia tecnicamente realizzabile, ma se rappresenti davvero la priorità per un sistema giudiziario che ha bisogno di interventi concreti e immediati, non di opere faraoniche.​​​​​​​​​​​​​​​​'
+excerpt: 'La riforma sulla separazione delle carriere dei magistrati, oggetto di referendum, viene paragonata al ponte sullo stretto: un grande progetto simbolico che distrae dai veri problemi della giustizia italiana. Mentre il dibattito si concentra sulla separazione delle carriere, restano irrisolte le emergenze quotidiane: tribunali al collasso, processi infiniti, carenza di personale e risorse, carceri sovraffollate. La questione non è se la riforma sia tecnicamente realizzabile, ma se rappresenti davvero la priorità per un sistema giudiziario che ha bisogno di interventi concreti e immediati, non di opere faraoniche.'
 focus_keyword: Referendum
 ---
 

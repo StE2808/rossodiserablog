@@ -1,42 +1,42 @@
 ---
 layout: post
 title: Quella grassa grossa ossessione anti-comunista
-seo_title: 'Piano Demagnetize e stragi in Italia: l'ingerenza americana dagli aiuti Marshall a Piazza Fontana'
-description: 'Piano Demagnetize (1952): il programma anticomunista USA che condizionò l'Italia. Collegamenti tra CIA, Gladio e le stragi di Piazza Fontana e Bologna documentati.'
+seo_title: 'Piano Demagnetize e stragi in Italia: l''ingerenza americana dagli aiuti Marshall a Piazza Fontana'
+description: 'Piano Demagnetize (1952): il programma anticomunista USA che condizionò l''Italia. Collegamenti tra CIA, Gladio e le stragi di Piazza Fontana e Bologna documentati.'
 date: 2026-01-13 09:52:00 +0100
 author: lino-rialti
 category: inchieste-dossier
 tags:
-  - ∙	Piano Demagnetize
-  - ∙	Strategia della tensione
-  - ∙	Anni di piombo
-  - ∙	Operazione Gladio
-  - ∙	Stragi in Italia
-  - ∙	Guerra Fredda
-  - ∙	CIA Italia
-  - ∙	Piano Marshall
-  - ∙	Piazza Fontana
-  - ∙	Strage di Bologna
-  - ∙	Servizi segreti americani
-  - ∙	Neofascismo italiano
-  - ∙	SID SISMI
-  - ∙	Ordine Nuovo
-  - ∙	Avanguardia Nazionale
-  - ∙	Anticomunismo
-  - ∙	Ingerenze straniere
-  - ∙	Storia italiana
-  - ∙	Terrorismo nero
-  - ∙	Stay behind
-  - ∙	NATO Italia
-  - ∙	Democrazia Cristiana
-  - ∙	PCI
-  - ∙	Bombe anni 70
-  - ∙	Depistaggi
-  - ∙	Stragi di Stato
-  - ∙	Collegamenti CIA stragi Italia
-  - ∙	Finanziamenti USA estremismo destra
-  - ∙	Documenti declassificati Gladio
-  - ∙	Verità anni di piombo
+  - ∙  Piano Demagnetize
+  - ∙  Strategia della tensione
+  - ∙  Anni di piombo
+  - ∙  Operazione Gladio
+  - ∙  Stragi in Italia
+  - ∙  Guerra Fredda
+  - ∙  CIA Italia
+  - ∙  Piano Marshall
+  - ∙  Piazza Fontana
+  - ∙  Strage di Bologna
+  - ∙  Servizi segreti americani
+  - ∙  Neofascismo italiano
+  - ∙  SID SISMI
+  - ∙  Ordine Nuovo
+  - ∙  Avanguardia Nazionale
+  - ∙  Anticomunismo
+  - ∙  Ingerenze straniere
+  - ∙  Storia italiana
+  - ∙  Terrorismo nero
+  - ∙  Stay behind
+  - ∙  NATO Italia
+  - ∙  Democrazia Cristiana
+  - ∙  PCI
+  - ∙  Bombe anni 70
+  - ∙  Depistaggi
+  - ∙  Stragi di Stato
+  - ∙  Collegamenti CIA stragi Italia
+  - ∙  Finanziamenti USA estremismo destra
+  - ∙  Documenti declassificati Gladio
+  - ∙  Verità anni di piombo
 image: /assets/images/uploads/IMG_7036.webp
 image_caption: Manifesto di propaganda anticomunista
 image_alt: Rappresentato un manifesto di propaganda anticomunista
@@ -45,7 +45,7 @@ excerpt: |-
   Nel 1949 nacque Gladio, organizzazione segreta legata alla CIA. Tra il 1969 e il 1975, la "strategia della tensione" provocò 4.584 attentati (83% di matrice neofascista), con 113 morti e 351 feriti. Documenti declassificati rivelano che la CIA finanziava i servizi segreti italiani e aveva contatti con gruppi come Ordine Nuovo e Avanguardia Nazionale.
   Un capitano CIA sapeva in anticipo degli attentati prima di Piazza Fontana ma non avvertì le autorità. Indagini recenti confermano il coinvolgimento dei servizi militari americani che supportavano l'estremismo di destra come "anticorpo" contro la sinistra.
   L'obiettivo era instillare paura per favorire un governo autoritario anticomunista. Paradossalmente, il PCI crebbe elettoralmente proprio negli anni delle stragi più sanguinose.
-  Una pagina buia della nostra democrazia, dove sovranità nazionale e vite umane furono sacrificate agli equilibri della Guerra Fredda.​​​​​​​​​​​​​​​​
+  Una pagina buia della nostra democrazia, dove sovranità nazionale e vite umane furono sacrificate agli equilibri della Guerra Fredda.
 focus_keyword: Comunista anticomunista
 ---
 Questo governo sembra ossessionato dai comunisti, li vede ovunque. Ma c’e’ un motivo storico. Siamo stati, noi italiani, soprattutto certi di noi, rieducati dagli eventi indotti dai vincitori della seconda guerra mondiale. Parliamo del piano "Demagnetize" e la [strategia della tensione](/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/): una storia di ingerenze e violenza. 

@@ -7,62 +7,62 @@ date: 2026-02-05 11:40:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
 tags:
-  - ∙	politica contemporanea
-  - ∙	psicologia politica
-  - ∙	destra e sinistra
-  - ∙	comunicazione politica
-  - ∙	paura e speranza
-  - ∙	marketing politico
-  - ∙	populismo
-  - ∙	narrativa politica
-  - ∙	emozioni in politica
-  - ∙	polarizzazione
-  - ∙	capro espiatorio
-  - ∙	storytelling politico
-  - ∙	neuroscienze e politica
-  - ∙	amigdala e decisioni
-  - ∙	tribale vs universale
-  - ∙	asimmetria politica
-  - ∙	strategie elettorali
-  - ∙	retorica della paura
-  - ∙	costruzione del nemico
-  - ∙	messaggi semplici vs complessi
-  - ∙	crisi della sinistra
-  - ∙	successo della destra
-  - ∙	antropologia politica
-  - ∙	psicologia delle masse
-  - '∙	#PoliticaContemporanea'
-  - '∙	#PsicologiaPolitica'
-  - '∙	#DestraVsSinistra'
-  - '∙	#PauraESperanza'
-  - '∙	#ComunicazionePolitica'
+  - ∙  politica contemporanea
+  - ∙  psicologia politica
+  - ∙  destra e sinistra
+  - ∙  comunicazione politica
+  - ∙  paura e speranza
+  - ∙  marketing politico
+  - ∙  populismo
+  - ∙  narrativa politica
+  - ∙  emozioni in politica
+  - ∙  polarizzazione
+  - ∙  capro espiatorio
+  - ∙  storytelling politico
+  - ∙  neuroscienze e politica
+  - ∙  amigdala e decisioni
+  - ∙  tribale vs universale
+  - ∙  asimmetria politica
+  - ∙  strategie elettorali
+  - ∙  retorica della paura
+  - ∙  costruzione del nemico
+  - ∙  messaggi semplici vs complessi
+  - ∙  crisi della sinistra
+  - ∙  successo della destra
+  - ∙  antropologia politica
+  - ∙  psicologia delle masse
+  - '∙  #PoliticaContemporanea'
+  - '∙  #PsicologiaPolitica'
+  - '∙  #DestraVsSinistra'
+  - '∙  #PauraESperanza'
+  - '∙  #ComunicazionePolitica'
 image: /assets/images/uploads/IMG_7082.webp
 image_caption: La copertina del libro il nemico di Stefano Feltri
 image_alt: La copertina del libro il nemico di Stefano Feltri
 excerpt: |-
   Tesi centrale: Esiste un'asimmetria strutturale nel confronto politico contemporaneo che spiega il successo della destra e le difficoltà della sinistra: vendere paura è molto più semplice che costruire speranza.
   La strategia della destra:
-  	∙	Si basa sull'identificazione di un nemico (migranti, "gender", Europa, élite, ecc.)
-  	∙	Offre risposte semplici a problemi complessi
-  	∙	Non chiede sacrifici personali: il problema è sempre "l'altro"
-  	∙	Può giustificare i fallimenti trovando nuovi capri espiatori
+    ∙  Si basa sull'identificazione di un nemico (migranti, "gender", Europa, élite, ecc.)
+    ∙  Offre risposte semplici a problemi complessi
+    ∙  Non chiede sacrifici personali: il problema è sempre "l'altro"
+    ∙  Può giustificare i fallimenti trovando nuovi capri espiatori
   Perché la paura funziona:
-  	∙	È un'emozione primordiale e immediata
-  	∙	Bypassa la razionalità, parla direttamente all'amigdala
-  	∙	Crea coesione tribale contro un nemico esterno
-  	∙	Ha radici evolutive: chi temeva lo sconosciuto sopravviveva
+    ∙  È un'emozione primordiale e immediata
+    ∙  Bypassa la razionalità, parla direttamente all'amigdala
+    ∙  Crea coesione tribale contro un nemico esterno
+    ∙  Ha radici evolutive: chi temeva lo sconosciuto sopravviveva
   La sfida della sinistra:
-  	∙	Deve alimentare la speranza, che è faticosa e richiede tempo
-  	∙	Propone messaggi complessi su interconnessioni globali, redistribuzione, diritti
-  	∙	Chiede sacrifici immediati per benefici futuri
-  	∙	Deve promuovere "noi tutti" quando è più facile dire "noi contro loro"
+    ∙  Deve alimentare la speranza, che è faticosa e richiede tempo
+    ∙  Propone messaggi complessi su interconnessioni globali, redistribuzione, diritti
+    ∙  Chiede sacrifici immediati per benefici futuri
+    ∙  Deve promuovere "noi tutti" quando è più facile dire "noi contro loro"
   Il paradosso:
-  	∙	La speranza chiede apertura e fiducia
-  	∙	La paura si nutre di muri e chiusure
-  	∙	In tempi di crisi, vendere muri è più facile che vendere ponti
-  	∙	La speranza delusa genera cinismo; la paura può sempre trovare nuovi nemici
+    ∙  La speranza chiede apertura e fiducia
+    ∙  La paura si nutre di muri e chiusure
+    ∙  In tempi di crisi, vendere muri è più facile che vendere ponti
+    ∙  La speranza delusa genera cinismo; la paura può sempre trovare nuovi nemici
   Conclusione:
-  La battaglia non è persa, ma è impari. La sinistra deve trovare modi più efficaci ed emotivamente coinvolgenti per raccontare la speranza, traducendo i valori in narrazioni che toccano le persone. Nonostante sia più difficile, la speranza costruisce invece di distruggere, unisce invece di dividere, libera invece di imprigionare.​​​​​​​​​​​​​​​​
+  La battaglia non è persa, ma è impari. La sinistra deve trovare modi più efficaci ed emotivamente coinvolgenti per raccontare la speranza, traducendo i valori in narrazioni che toccano le persone. Nonostante sia più difficile, la speranza costruisce invece di distruggere, unisce invece di dividere, libera invece di imprigionare.
 focus_keyword: Paura
 ---
 

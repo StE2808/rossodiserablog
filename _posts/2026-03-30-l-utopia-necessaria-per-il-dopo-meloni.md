@@ -2,7 +2,7 @@
 layout: post
 title: L'utopia necessaria per il dopo-Meloni
 seo_title: Quando crolla il potere, torna il sogno
-description: 'Dal "non-luogo" di Tommaso Moro a Camus: perché senza utopia non c'è futuro. E perché la crisi del governo Meloni può restituirci il coraggio di sognare.'
+description: 'Dal "non-luogo" di Tommaso Moro a Camus: perché senza utopia non c''è futuro. E perché la crisi del governo Meloni può restituirci il coraggio di sognare.'
 date: 2026-03-30 09:20:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7135.webp
 image_caption: Giorgia Meloni in crisi
 image_alt: Giorgia Meloni in Parlamento sbuffa e incrocia le braccia scoraggiata
-excerpt: 'Il termine utopia, coniato da Tommaso Moro nel 1516, significa insieme "luogo che non esiste" e "luogo felice". Non è ingenuità: è rifiuto lucido del mondo così com'è. Camus radicalizza questa idea — chiedete l'impossibile — rovesciando il pragmatismo in rassegnazione. Oggi, mentre il governo Meloni si sgretola dopo la sconfitta referendaria, si apre un vuoto che può diventare spazio. Ma solo se i cittadini tornano a desiderare. Senza utopia non c'è speranza. Senza speranza, non c'è futuro.​​​​​​​​​​​​​​​​'
+excerpt: 'Il termine utopia, coniato da Tommaso Moro nel 1516, significa insieme "luogo che non esiste" e "luogo felice". Non è ingenuità: è rifiuto lucido del mondo così com''è. Camus radicalizza questa idea — chiedete l''impossibile — rovesciando il pragmatismo in rassegnazione. Oggi, mentre il governo Meloni si sgretola dopo la sconfitta referendaria, si apre un vuoto che può diventare spazio. Ma solo se i cittadini tornano a desiderare. Senza utopia non c''è speranza. Senza speranza, non c''è futuro.'
 focus_keyword: Crisi governo Meloni
 ---
 

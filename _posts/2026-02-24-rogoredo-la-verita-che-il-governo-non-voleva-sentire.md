@@ -9,11 +9,11 @@ category: opinioni-editoriali
 tags:
   - '#Rogoredo #Sicurezza #GiustiziaItalia #ScudoPenale #StatoDiDiritto #Polizia #Giustizia #Milano #Depistaggio #Legittimadifesa'
   - '#Salvini #Piantedosi #Meloni #Governo #Opposizione #Destra'
-  - '#Italia #Notizie #Politica #CronacaNera #Diritti​​​​​​​​​​​​​​​​'
+  - '#Italia #Notizie #Politica #CronacaNera #Diritti'
 image: /assets/images/uploads/IMG_7110.webp
 image_caption: Il boschetto della droga di Rogoredo
 image_alt: Il boschetto della droga di Rogoredo dove il poliziotto ha ucciso con un colpo alla tempia lo spacciatore
-excerpt: 'Un poliziotto arresta, uccide un giovane spacciatore, piazza una pistola finta accanto al corpo per simulare la legittima difesa. Il governo — Salvini, Piantedosi, Meloni — lo difende pubblicamente prima ancora che la magistratura faccia il suo lavoro, cavalcando il caso per introdurre lo scudo penale. Quando la verità emerge — depistaggio, prove alterate, un sistema di estorsione ai danni degli spacciatori della zona — nessuno ritira le parole dette. È il racconto di come la sicurezza venga usata come clava ideologica, scardinando uno dei principi fondamentali dello stato di diritto: la presunzione di innocenza e l'autonomia della magistratura.​​​​​​​​​​​​​​​​'
+excerpt: 'Un poliziotto arresta, uccide un giovane spacciatore, piazza una pistola finta accanto al corpo per simulare la legittima difesa. Il governo — Salvini, Piantedosi, Meloni — lo difende pubblicamente prima ancora che la magistratura faccia il suo lavoro, cavalcando il caso per introdurre lo scudo penale. Quando la verità emerge — depistaggio, prove alterate, un sistema di estorsione ai danni degli spacciatori della zona — nessuno ritira le parole dette. È il racconto di come la sicurezza venga usata come clava ideologica, scardinando uno dei principi fondamentali dello stato di diritto: la presunzione di innocenza e l''autonomia della magistratura.'
 focus_keyword: Rogoredo
 ---
 
