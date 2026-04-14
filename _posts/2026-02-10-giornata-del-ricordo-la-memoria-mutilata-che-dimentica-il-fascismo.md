@@ -10,7 +10,7 @@ tags:
   - Giorno del Ricordo, Foibe, Fascismo, Pulizia etnica, Risiera di San Sabba, Campo di Arbe, Commissione italo-slovena, 10 febbraio
 image: /assets/images/uploads/IMG_7090.webp
 image_caption: Foiba di Basoviza
-image_alt: Il monumento all’ingresso della foiba di Basoviza
+image_alt: Il monumento all'ingresso della foiba di Basoviza
 excerpt: |-
   Il Giorno del Ricordo del 10 febbraio presenta una narrazione monca che cancella le responsabilità fasciste che generarono la tragedia delle foibe.
 
@@ -26,8 +26,8 @@ excerpt: |-
   	∙	Memoria storica condivisa e contestualizzata
   	∙	Ben conosciuta in Slovenia, mai pubblicata in Italia
   4. Il revisionismo dal 1989
-  	∙	Stojan Spetić: l’omaggio di Cuperlo alla foiba di Basovizza (1989) fu “l’inizio del revisionismo”
-  	∙	Narrazione dell’“odio etnico” cancella cause storiche
+  	∙	Stojan Spetić: l'omaggio di Cuperlo alla foiba di Basovizza (1989) fu "l'inizio del revisionismo"
+  	∙	Narrazione dell'"odio etnico" cancella cause storiche
   	∙	Funzionale alla riabilitazione progressiva del fascismo
 
   Ricordare le vittime delle foibe è doveroso, ma farlo cancellando le responsabilità fasciste è revisionismo, non memoria. La complessità storica sacrificata alla semplificazione politica.
