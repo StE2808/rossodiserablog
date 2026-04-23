@@ -7,11 +7,11 @@ date: 2026-04-23 09:58:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:
-  - 25 aprile, Festa della Liberazione, fascismo, origini del fascismo, Resistenza italiana, biennio rosso, vittoria mutilata, storia italiana, antifascismo, memoria storica, partigiani, dopoguerra italiano​​​​​​​​​​​​​​​​
+  - 25 aprile, Festa della Liberazione, fascismo, origini del fascismo, Resistenza italiana, biennio rosso, vittoria mutilata, storia italiana, antifascismo, memoria storica, partigiani, dopoguerra italiano
 image: /assets/images/uploads/pasted-image-1776931564394.png
 image_caption: '25 aprile: festa della liberazione dal nazifascismo'
 image_alt: '25 aprile: festa della liberazione dal nazifascismo. Immagine di un campo pieno di papaveri rossi disegnati'
-excerpt: 'Il fascismo nacque dall'intreccio di quattro veleni: la violenza dei reduci, la paura della rivoluzione, la complicità dello Stato liberale e il risentimento per una vittoria tradita. La Resistenza fu l'antidoto — e il 25 aprile ci ricorda che quella scelta di dignità va rinnovata ogni giorno.​​​​​​​​​​​​​​​​'
+excerpt: 'Il fascismo nacque dall'intreccio di quattro veleni: la violenza dei reduci, la paura della rivoluzione, la complicità dello Stato liberale e il risentimento per una vittoria tradita. La Resistenza fu l'antidoto — e il 25 aprile ci ricorda che quella scelta di dignità va rinnovata ogni giorno.'
 focus_keyword: Origini del fascismo italiano
 ---
 
