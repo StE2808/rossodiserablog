@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7175.jpeg
 image_caption: 25  aprile festa della liberazione dal nazifascismo​​​​​​
 image_alt: Un disegno che rappresenta il 25 aprile, festa della liberazione dal nazifascismo , che rappresenta un campo di papaveri rossi
-excerpt: 'Il fascismo nacque dall’intreccio di quattro veleni: la violenza dei reduci, la paura della rivoluzione, la complicità dello Stato liberale e il risentimento per una vittoria tradita. La Resistenza fu l’antidoto — e il 25 aprile ci ricorda che quella scelta di dignità va rinnovata ogni giorno.​​​​​​​​​​​​​​​​'
+excerpt: 'Il fascismo nacque dall'intreccio di quattro veleni: la violenza dei reduci, la paura della rivoluzione, la complicità dello Stato liberale e il risentimento per una vittoria tradita. La Resistenza fu l'antidoto — e il 25 aprile ci ricorda che quella scelta di dignità va rinnovata ogni giorno.​​​​​​​​​​​​​​​​'
 focus_keyword: Origini del fascismo italiano
 ---
 
