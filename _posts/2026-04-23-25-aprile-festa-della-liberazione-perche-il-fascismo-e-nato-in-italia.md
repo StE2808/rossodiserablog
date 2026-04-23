@@ -7,7 +7,18 @@ date: 2026-04-23 09:58:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:
-  - 25 aprile, Festa della Liberazione, fascismo, origini del fascismo, Resistenza italiana, biennio rosso, vittoria mutilata, storia italiana, antifascismo, memoria storica, partigiani, dopoguerra italiano
+  - 25 aprile,
+  - Festa della Liberazione,
+  - fascismo,
+  - origini del fascismo,
+  - Resistenza italiana,
+  - biennio rosso,
+  - vittoria mutilata,
+  - storia italiana,
+  - antifascismo,
+  - memoria storica,
+  - partigiani,
+  - dopoguerra italiano
 image: /assets/images/uploads/pasted-image-1776931564394.webp
 image_caption: '25 aprile: festa della liberazione dal nazifascismo'
 image_alt: '25 aprile: festa della liberazione dal nazifascismo. Immagine di un campo pieno di papaveri rossi disegnati'
