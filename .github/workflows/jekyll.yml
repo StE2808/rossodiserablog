@@ -31,7 +31,7 @@
         - name: Fix smart quotes in front matter
           run: |
             python3 << 'PYTHON_SCRIPT'
-            import os
+            import os, re
 
             posts_dir = '_posts'
             replacements = {
@@ -39,6 +39,21 @@
                 '\u2018': "'", '\u2019': "'",
                 '\u200b': '', '\u200c': '', '\u200d': '', '\ufeff': '',
             }
+
+            def fix_single_quoted_apostrophes(fm):
+                """Switch single-quoted YAML values to double-quoted when they contain apostrophes."""
+                lines = fm.split('\n')
+                result = []
+                for line in lines:
+                    m = re.match(r"^(\s*\w[\w_]*:\s*)'(.*)'(\s*)$", line)
+                    if m:
+                        key, value, trail = m.group(1), m.group(2), m.group(3)
+                        # Apostrophe inside value but no double quotes → switch to double quotes
+                        if "'" in value and '"' not in value:
+                            line = f"{key}\"{value}\"{trail}"
+                    result.append(line)
+                return '\n'.join(result)
+
             fixed = []
 
             for filename in os.listdir(posts_dir):
@@ -47,22 +62,22 @@
                 path = os.path.join(posts_dir, filename)
                 with open(path, encoding='utf-8') as f:
                     content = f.read()
-                parts = content.split('---')
+                parts = content.split('---', 2)
                 if len(parts) < 3:
                     continue
                 fm = parts[1]
                 fm_fixed = fm
                 for bad, good in replacements.items():
                     fm_fixed = fm_fixed.replace(bad, good)
+                fm_fixed = fix_single_quoted_apostrophes(fm_fixed)
                 if fm_fixed != fm:
-                    parts[1] = fm_fixed
                     with open(path, 'w', encoding='utf-8') as f:
-                        f.write('---'.join(parts))
+                        f.write('---' + fm_fixed + '---' + parts[2])
                     fixed.append(filename)
                     print(f'Fixed: {filename}')
 
             if not fixed:
-                print('No smart quotes found.')
+                print('No issues found.')
             PYTHON_SCRIPT
 
         - name: Commit smart quotes fix
