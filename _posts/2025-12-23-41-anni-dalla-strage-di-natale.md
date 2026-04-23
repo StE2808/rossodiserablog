@@ -13,7 +13,7 @@ excerpt: |-
   23 dicembre 1984: Strage del treno 904
   Sedici vite innocenti spezzate in un tunnel del Salernitano. Passeggeri diretti a casa per Natale, uccisi da una bomba della camorra. Un crimine vigliacco che colpì lo Stato e cittadini inermi.
   Quarantuno anni dopo, il dolore resta vivo. La memoria di quelle vittime esige giustizia e impegno costante contro ogni forma di criminalità organizzata.
-  Non dimentichiamo mai.​​​​​​​​​​​​​​​​
+  Non dimentichiamo mai.
 ---
 In memoria delle vittime del treno 904.
 

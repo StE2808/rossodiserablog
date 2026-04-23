@@ -46,11 +46,11 @@ tags:
   - pensierocritico
   - giustizia
   - pace
-  - politica​​​​​​​​​​​​​​​​
+  - politica
 image: /assets/images/uploads/IMG_7010.webp
 image_caption: ''
 image_alt: Attacco americano in varie città venezuelane. Bombardati obiettivi militari ma non solo.
-excerpt: 'Hannah Arendt coniò "banalità del male" osservando Eichmann: il male non necessita mostri, ma burocrati obbedienti. Oggi questo meccanismo persiste nelle sanzioni USA al Venezuela e nei bombardamenti israeliani su Gaza. Funzionari ordinari, nascosti dietro procedure e linguaggio tecnico, partecipano a violenze di massa presentate come "operazioni necessarie". Le vittime diventano statistiche, la responsabilità si frantuma. La lezione di Arendt rimane cruciale: il male più pericoloso nasce quando smettiamo di pensare criticamente e rinunciamo al giudizio morale.​​​​​​​​​​​​​​​​'
+excerpt: 'Hannah Arendt coniò "banalità del male" osservando Eichmann: il male non necessita mostri, ma burocrati obbedienti. Oggi questo meccanismo persiste nelle sanzioni USA al Venezuela e nei bombardamenti israeliani su Gaza. Funzionari ordinari, nascosti dietro procedure e linguaggio tecnico, partecipano a violenze di massa presentate come "operazioni necessarie". Le vittime diventano statistiche, la responsabilità si frantuma. La lezione di Arendt rimane cruciale: il male più pericoloso nasce quando smettiamo di pensare criticamente e rinunciamo al giudizio morale.'
 focus_keyword: Attacco USA in Venezuela, la banalità del male
 ---
 Nel 1963, Hannah Arendt coniò l’espressione “banalità del male” osservando Adolf Eichmann al suo processo a Gerusalemme. Ciò che la colpì non fu la presenza di un mostro sadico, ma di un grigio burocrate incapace di pensare criticamente, che aveva organizzato deportazioni di massa considerandole semplicemente “questioni amministrative”.
