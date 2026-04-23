@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Aporofobia: quando la povertà diventa colpa'
-seo_title: 'L''aporofobia che non ha nome: quando la povertà diventa colpa e la Costituzione ci ricorda il perché'
-description: 'Aporofobia, la paura e il disprezzo verso i poveri, avvelena la democrazia mascherandosi da meritocrazia. Ma la Costituzione italiana non cita il merito per una ragione precisa: la giustizia parte dall''uguaglianza, non dal traguardo.'
+seo_title: "L''aporofobia che non ha nome: quando la povertà diventa colpa e la Costituzione ci ricorda il perché"
+description: "Aporofobia, la paura e il disprezzo verso i poveri, avvelena la democrazia mascherandosi da meritocrazia. Ma la Costituzione italiana non cita il merito per una ragione precisa: la giustizia parte dall''uguaglianza, non dal traguardo."
 date: 2026-04-03 09:59:00 +0200
 author: lino-rialti
 category: diritti-umani

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Armi o ospedali: dove finiscono i soldi dell''Europa'
+title: "Armi o ospedali: dove finiscono i soldi dell''Europa"
 seo_title: 'Spesa militare Italia 2026: chi paga il conto del riarmo europeo?'
-description: '34 miliardi per le armi, ospedali al minimo. L''Italia riarma mentre taglia welfare e sanità. I numeri che nessuno vuole guardare.'
+description: "34 miliardi per le armi, ospedali al minimo. L''Italia riarma mentre taglia welfare e sanità. I numeri che nessuno vuole guardare."
 date: 2026-03-28 00:00:00 +0100
 author: stefano-vozzi
 category: opinioni-editoriali

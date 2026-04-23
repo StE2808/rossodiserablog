@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Il No di Amodei al Pentagono: chi decide l''etica dell''intelligenza artificiale?'
-seo_title: 'Il No di Amodei al Pentagono: chi decide l''etica dell''AI?'
-description: 'Anthropic rifiuta il Pentagono sull''AI militare. Trump la mette al bando. Ma chi ha il diritto di decidere i limiti dell''intelligenza artificiale?'
+title: "Il No di Amodei al Pentagono: chi decide l''etica dell''intelligenza artificiale?"
+seo_title: "Il No di Amodei al Pentagono: chi decide l''etica dell''AI?"
+description: "Anthropic rifiuta il Pentagono sull''AI militare. Trump la mette al bando. Ma chi ha il diritto di decidere i limiti dell''intelligenza artificiale?"
 date: 2026-03-02 00:00:00 +0100
 author: stefano-vozzi
 category: opinioni-editoriali
@@ -16,7 +16,7 @@ tags:
 image: /assets/images/uploads/la-mossa-del-cavallo.webp
 image_caption: ''
 image_alt: Una scacchiera con un cavallo isolato al centro, metafora della mossa imprevedibile di Amodei nel rifiutare il contratto con il Pentagono
-excerpt: 'Dario Amodei dice no al Pentagono su armi autonome e sorveglianza di massa. Trump mette Anthropic al bando. OpenAI firma lo stesso giorno. Ma la vera questione è chi decide i limiti etici dell''intelligenza artificiale quando non esiste nessuna legge che lo faccia.'
+excerpt: "Dario Amodei dice no al Pentagono su armi autonome e sorveglianza di massa. Trump mette Anthropic al bando. OpenAI firma lo stesso giorno. Ma la vera questione è chi decide i limiti etici dell''intelligenza artificiale quando non esiste nessuna legge che lo faccia."
 focus_keyword: 'etica intelligenza artificiale militare'
 ---
 Immaginate la scena. Un ufficio del Pentagono, martedì 24 febbraio. Da una parte del tavolo, il Segretario alla Difesa degli Stati Uniti. Dall'altra, il CEO di un'azienda di San Francisco che produce intelligenza artificiale. Sul tavolo, un contratto da 200 milioni di dollari e un ultimatum: accettare tutto entro venerdì alle 17:01 o affrontare le conseguenze.

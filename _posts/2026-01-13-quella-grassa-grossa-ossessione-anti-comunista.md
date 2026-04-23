@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Quella grassa grossa ossessione anti-comunista
-seo_title: 'Piano Demagnetize e stragi in Italia: l''ingerenza americana dagli aiuti Marshall a Piazza Fontana'
-description: 'Piano Demagnetize (1952): il programma anticomunista USA che condizionò l''Italia. Collegamenti tra CIA, Gladio e le stragi di Piazza Fontana e Bologna documentati.'
+seo_title: "Piano Demagnetize e stragi in Italia: l''ingerenza americana dagli aiuti Marshall a Piazza Fontana"
+description: "Piano Demagnetize (1952): il programma anticomunista USA che condizionò l''Italia. Collegamenti tra CIA, Gladio e le stragi di Piazza Fontana e Bologna documentati."
 date: 2026-01-13 09:52:00 +0100
 author: lino-rialti
 category: inchieste-dossier

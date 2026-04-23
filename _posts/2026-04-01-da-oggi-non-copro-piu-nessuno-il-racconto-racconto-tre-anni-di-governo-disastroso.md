@@ -2,7 +2,7 @@
 layout: post
 title: '"Da oggi non copro più nessuno": il racconto di tre anni di governo disastroso'
 seo_title: 'Meloni: "Da oggi non copro più nessuno". E prima?'
-description: '«Da oggi non copro più nessuno»: la frase di Meloni sulle dimissioni di Santanchè nasconde un''ammissione. Chi copriva prima, e perché ha smesso proprio ora?'
+description: "«Da oggi non copro più nessuno»: la frase di Meloni sulle dimissioni di Santanchè nasconde un''ammissione. Chi copriva prima, e perché ha smesso proprio ora?"
 date: 2026-04-01 09:40:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7141.webp
 image_caption: Meloni imbestialita scarica le due responsabilità sui suoi collaboratori
 image_alt: Meloni imbestialita, Del Mastro, Bartolozzi e Santanche' sono stati costretti alle dimissioni
-excerpt: 'Dopo la sconfitta al referendum sulla separazione delle carriere, Meloni chiede le dimissioni di Santanchè dichiarando «da oggi non copro più nessuno». Ma quell''avverbio tradisce tre anni di protezione politica verso ministri e sottosegretari coinvolti in vicende giudiziarie — Santanchè, Delmastro, Bartolozzi — tenuti al loro posto per ragioni di equilibrio interno alla coalizione. La svolta etica di Meloni coincide con una necessità politica: riposizionarsi dopo una pesante sconfitta referendaria. Quando convenienza e morale si incontrano, si chiama da oggi.'
+excerpt: "Dopo la sconfitta al referendum sulla separazione delle carriere, Meloni chiede le dimissioni di Santanchè dichiarando «da oggi non copro più nessuno». Ma quell''avverbio tradisce tre anni di protezione politica verso ministri e sottosegretari coinvolti in vicende giudiziarie — Santanchè, Delmastro, Bartolozzi — tenuti al loro posto per ragioni di equilibrio interno alla coalizione. La svolta etica di Meloni coincide con una necessità politica: riposizionarsi dopo una pesante sconfitta referendaria. Quando convenienza e morale si incontrano, si chiama da oggi."
 focus_keyword: Da oggi non copro più nessuno
 ---
 
