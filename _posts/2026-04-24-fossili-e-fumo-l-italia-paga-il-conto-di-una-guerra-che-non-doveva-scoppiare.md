@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Fossili e fumo. L’Italia paga il conto di una guerra che non doveva scoppiare
-seo_title: 'Crisi energetica 2026: l’Italia paga il prezzo del gas e della guerra mentre la Spagna corre sulle rinnovabili'
-description: 'L’Italia stretta tra la crisi energetica globale e una politica fossile anacronistica: bollette a 130 €/MWh contro i 44 della Spagna, carbone prorogato al 2038 e contratti GNL saltati dopo gli attacchi a Ras Laffan e Ras Tanura. Un conto salatissimo per famiglie e imprese.​​​​​​​​​​​​​​​​'
+title: Fossili e fumo. L'Italia paga il conto di una guerra che non doveva scoppiare
+seo_title: "Crisi energetica 2026: l'Italia paga il prezzo del gas e della guerra mentre la Spagna corre sulle rinnovabili"
+description: "L'Italia stretta tra la crisi energetica globale e una politica fossile anacronistica: bollette a 130 €/MWh contro i 44 della Spagna, carbone prorogato al 2038 e contratti GNL saltati dopo gli attacchi a Ras Laffan e Ras Tanura. Un conto salatissimo per famiglie e imprese."
 date: 2026-04-24 08:16:00 +0200
 author: lino-rialti
 category: economia-finanza
 tags:
-  - energia, crisi energetica, gas naturale, GNL, Ras Laffan, Ras Tanura, Qatar, Arabia Saudita, Iran, guerra in Iran, bollette, rinnovabili, carbone, transizione energetica, politica energetica, governo Meloni, Spagna, povertà energetica, geopolitica, Medio Oriente​​​​​​​​​​​​​​​​
+  - energia, crisi energetica, gas naturale, GNL, Ras Laffan, Ras Tanura, Qatar, Arabia Saudita, Iran, guerra in Iran, bollette, rinnovabili, carbone, transizione energetica, politica energetica, governo Meloni, Spagna, povertà energetica, geopolitica, Medio Oriente
 image: /assets/images/uploads/IMG_7178.webp
 image_caption: Impianto di raffinazione bombardato
 image_alt: Impianto di raffinazione iraniano del petrolio colpito da un drone
-excerpt: 'La guerra in Medio Oriente ha distrutto hub strategici del GNL che rifornivano anche l’Italia, facendo esplodere i prezzi dell’energia. Mentre la Spagna, forte delle sue rinnovabili, paga 44 €/MWh, l’Italia supera i 130. Il governo Meloni risponde prorogando il carbone fino al 2038 e frenando le installazioni rinnovabili: una non-strategia che lascia famiglie e imprese esposte a ogni nuovo shock geopolitico.​​​​​​​​​​​​​​​​'
+excerpt: "La guerra in Medio Oriente ha distrutto hub strategici del GNL che rifornivano anche l'Italia, facendo esplodere i prezzi dell'energia. Mentre la Spagna, forte delle sue rinnovabili, paga 44 €/MWh, l'Italia supera i 130. Il governo Meloni risponde prorogando il carbone fino al 2038 e frenando le installazioni rinnovabili: una non-strategia che lascia famiglie e imprese esposte a ogni nuovo shock geopolitico."
 focus_keyword: Crisi energetica 2026
 ---
 

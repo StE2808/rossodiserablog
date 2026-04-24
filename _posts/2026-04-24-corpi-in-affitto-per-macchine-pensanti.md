@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Corpi in affitto per macchine pensanti
-seo_title: 'RentAHuman.ai: quando l’intelligenza artificiale affitta corpi umani'
-description: 'L’AI non ha un corpo, ma ora può affittarne uno. RentAHuman.ai è il marketplace dove gli agenti artificiali assumono esseri umani per compiti nel mondo reale: un’inversione radicale del rapporto tra uomo e macchina.​​​​​​​​​​​​​​​​'
+seo_title: "RentAHuman.ai: quando l'intelligenza artificiale affitta corpi umani"
+description: "L'AI non ha un corpo, ma ora può affittarne uno. RentAHuman.ai è il marketplace dove gli agenti artificiali assumono esseri umani per compiti nel mondo reale: un'inversione radicale del rapporto tra uomo e macchina."
 date: 2026-04-24 10:47:00 +0200
 author: lino-rialti
 category: scienza-tecnologia
 tags:
-  - AI agenti, gig economy, intelligenza artificiale, lavoro digitale, agentic AI, automazione, etica dell’IA, futuro del lavoro, RentAHuman, marketplace AI, diritti dei lavoratori, distopia tecnologica​​​​​​​​​​​​​​​​
+  - AI agenti, gig economy, intelligenza artificiale, lavoro digitale, agentic AI, automazione, etica dell'IA, futuro del lavoro, RentAHuman, marketplace AI, diritti dei lavoratori, distopia tecnologica
 image: /assets/images/uploads/IMG_7179.webp
 image_caption: Il sito rentahuman. ai
 image_alt: La pagina del sito www.rentahuman.ai
-excerpt: RentAHuman.ai è una piattaforma dove gli agenti di intelligenza artificiale noleggiano esseri umani per compiti fisici che i robot non sanno ancora svolgere. Un modello che inverte la storia del lavoro — non più l’uomo che usa lo strumento, ma lo strumento che usa l’uomo — sollevando interrogativi profondi su alienazione, tutele contrattuali e il futuro della gig economy nell’era dell’AI autonoma.​​​​​​​​​​​​​​​​
-focus_keyword: intelligenza artificiale affitta umani​​​​​​​​​​​​​​​​
+excerpt: RentAHuman.ai è una piattaforma dove gli agenti di intelligenza artificiale noleggiano esseri umani per compiti fisici che i robot non sanno ancora svolgere. Un modello che inverte la storia del lavoro — non più l'uomo che usa lo strumento, ma lo strumento che usa l'uomo — sollevando interrogativi profondi su alienazione, tutele contrattuali e il futuro della gig economy nell'era dell'AI autonoma.
+focus_keyword: intelligenza artificiale affitta umani
 ---
 
 In rete c’è un sito diverso da tutti gli altri: il suo indirizzo è RentAHuman.ai . Si presenta come il marketplace dove gli agenti di intelligenza artificiale noleggiano esseri umani  per compiti che ancora non sanno fare da soli: ritirare un pacco, reggere un cartello, consegnare dei fiori. 
