@@ -4,7 +4,7 @@ title: "La Repubblica dei Cittadini"
 date: 2026-04-24 10:00:00 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
-excerpt: "Un contro-manifesto in 22 punti in risposta ai tecno-oligarchi della Silicon Valley che ci spiegano cos'è la civiltà — e chi paga davvero il conto."
+excerpt: "Un contro-manifesto in 22 punti in risposta ai tecno-oligarchi della Silicon Valley che ci spiegano cos'è la civiltà, e chi paga davvero il conto."
 image: /assets/images/uploads/la-repubblica-dei-cittadini.webp
 image_alt: "Assemblea di cittadini in una piazza democratica europea"
 seo_title: "Tecno-oligarchi e democrazia: contro-manifesto in 22 punti"
@@ -34,39 +34,39 @@ tags:
 
 5. **La domanda non è chi costruirà le armi IA, ma se vogliamo davvero costruirle.** "Tanto le fanno gli altri" è l'argomento con cui si è giustificata ogni corsa agli armamenti della storia. È il ricatto di chi ha già deciso e vuole che il dibattito finisca prima di cominciare.
 
-6. **Il servizio universale, sì — ma alla comunità, non agli eserciti.** Se vogliamo davvero che i rischi siano condivisi, cominciamo dai profitti. Una tassa patrimoniale seria sui grandi patrimoni farebbe per la coesione sociale più di qualsiasi leva militare.
+6. **Il servizio universale, sì, ma alla comunità, non agli eserciti.** Se vogliamo davvero che i rischi siano condivisi, cominciamo dai profitti. Una tassa patrimoniale seria sui grandi patrimoni farebbe per la coesione sociale più di qualsiasi leva militare.
 
 7. **Sosteniamo chi serve, non chi vende.** Se un'infermiera chiede turni sostenibili, dovremmo garantirglieli. Se un insegnante chiede aule decenti, dovremmo costruirle. Il "sostegno alle truppe" è spesso la foglia di fico con cui si nascondono i contratti miliardari con i fornitori.
 
 8. **I funzionari pubblici non sono sacerdoti, ma nemmeno schiavi.** Che uno stipendio pubblico sia inferiore a quello di una multinazionale è normale. Che sia inferiore a quanto serve per pagare l'affitto è un problema politico. Si può discutere dei salari pubblici senza partire dal presupposto che lo Stato sia un'azienda fallita.
 
-9. **L'indulgenza per chi si espone alla vita pubblica è sacrosanta — ma vale per tutti.** Vale per il politico che sbaglia una parola, vale per il precario che sbaglia un turno, vale per la donna che denuncia e non viene creduta. L'indulgenza selettiva verso l'élite non è tolleranza, è privilegio.
+9. **L'indulgenza per chi si espone alla vita pubblica è sacrosanta, ma vale per tutti.** Vale per il politico che sbaglia una parola, vale per il precario che sbaglia un turno, vale per la donna che denuncia e non viene creduta. L'indulgenza selettiva verso l'élite non è tolleranza, è privilegio.
 
-10. **La depoliticizzazione dell'esistenza ci sta uccidendo.** Chi oggi dice "non occuparti di politica, occupati di te stesso" sta facendo politica — la politica di chi vince finché gli altri guardano altrove. La vita intima e la vita pubblica non sono separabili: chi ti vuole isolato ti vuole più debole.
+10. **La depoliticizzazione dell'esistenza ci sta uccidendo.** Chi oggi dice "non occuparti di politica, occupati di te stesso" sta facendo politica, la politica di chi vince finché gli altri guardano altrove. La vita intima e la vita pubblica non sono separabili: chi ti vuole isolato ti vuole più debole.
 
 11. **La caduta di un avversario non si celebra, ma le responsabilità si accertano.** C'è differenza tra il linciaggio e la giustizia. Chi ha costruito fortune evadendo le tasse, sfruttando lavoratori, manipolando informazioni non merita la nostra compassione preventiva: merita un processo.
 
-12. **L'era atomica non è finita — è solo diventata invisibile.** L'IA militare non sostituisce la bomba, la affianca. E moltiplica i modi in cui una decisione sbagliata, un bug, un [algoritmo addestrato a uccidere](/corpi-in-affitto-per-macchine-pensanti/) può produrre morte su scala industriale. Chiamarla "nuova era" serve solo a dimenticare che cosa abbiamo imparato dalla vecchia.
+12. **L'era atomica non è finita, è solo diventata invisibile.** L'IA militare non sostituisce la bomba, la affianca. E moltiplica i modi in cui una decisione sbagliata, un bug, un [algoritmo addestrato a uccidere](/corpi-in-affitto-per-macchine-pensanti/) può produrre morte su scala industriale. Chiamarla "nuova era" serve solo a dimenticare che cosa abbiamo imparato dalla vecchia.
 
-13. **Gli Stati Uniti hanno offerto opportunità, ma anche colpi di Stato, embarghi, guerre per procura.** L'autocelebrazione selettiva è un lusso che non possiamo più permetterci. Una potenza si giudica da come tratta i deboli — dentro e fuori i propri confini.
+13. **Gli Stati Uniti hanno offerto opportunità, ma anche colpi di Stato, embarghi, guerre per procura.** L'autocelebrazione selettiva è un lusso che non possiamo più permetterci. Una potenza si giudica da come tratta i deboli, dentro e fuori i propri confini.
 
 14. **La "pace americana" è costata milioni di morti a chi non la contava.** Vietnam, Iraq, Afghanistan, America Latina, Medio Oriente. Che il conflitto tra grandi potenze non sia esploso è vero. Che per questo si siano pagati prezzi altrove è altrettanto vero.
 
 15. **Il riarmo di Germania e Giappone non è una correzione, è un rischio.** Ogni generazione che cresce senza aver visto una guerra tende a sottovalutarla. Spiegare che l'Europa disarmata è stata un errore è esattamente il tipo di pensiero che prepara il prossimo errore, molto più grande.
 
-16. **Sosteniamo chi costruisce, sì — ma distinguiamo chi costruisce da chi estrae.** Musk non ha inventato l'auto elettrica: ha catturato sussidi pubblici, comprato aziende altrui, sfruttato la ricerca finanziata dagli Stati. Confondere l'imprenditore con il rentier è il trucco ideologico del nostro tempo — la stessa operazione culturale analizzata quando abbiamo scritto di [Trump e Musk costruttori di un nuovo stato autoritario](/trump-e-musk-costruttori-di-un-nuovo-stato-autoritario-tecno/).
+16. **Sosteniamo chi costruisce, sì, ma distinguiamo chi costruisce da chi estrae.** Musk non ha inventato l'auto elettrica: ha catturato sussidi pubblici, comprato aziende altrui, sfruttato la ricerca finanziata dagli Stati. Confondere l'imprenditore con il rentier è il trucco ideologico del nostro tempo, la stessa operazione culturale analizzata quando abbiamo scritto di [Trump e Musk costruttori di un nuovo stato autoritario](/trump-e-musk-costruttori-di-un-nuovo-stato-autoritario-tecno/).
 
-17. **La Silicon Valley deve contribuire al bene pubblico — cominciando dalle tasse.** Prima di indicare la criminalità violenta come problema, paghino quanto dovuto. Scuole, polizia, servizi sociali si finanziano con il gettito fiscale. Non con la filantropia, che è potere mascherato da generosità.
+17. **La Silicon Valley deve contribuire al bene pubblico, cominciando dalle tasse.** Prima di indicare la criminalità violenta come problema, paghino quanto dovuto. Scuole, polizia, servizi sociali si finanziano con il gettito fiscale. Non con la filantropia, che è potere mascherato da generosità.
 
-18. **La vita privata dei potenti è giustamente sottoposta a scrutinio — perché il loro potere è pubblico.** Chi muove miliardi, chi influenza elezioni, chi controlla le infrastrutture digitali del pianeta non può invocare la privacy come un cittadino qualunque. Con il potere viene la trasparenza. È il minimo.
+18. **La vita privata dei potenti è giustamente sottoposta a scrutinio, perché il loro potere è pubblico.** Chi muove miliardi, chi influenza elezioni, chi controlla le infrastrutture digitali del pianeta non può invocare la privacy come un cittadino qualunque. Con il potere viene la trasparenza. È il minimo.
 
 19. **Il coraggio nella vita pubblica non è sparare opinioni, è assumersene le conseguenze.** Dire cose scomode avendo alle spalle un patrimonio da nove zeri non è coraggio: è privilegio. Il vero coraggio è quello del giornalista minacciato, dell'attivista licenziato, della whistleblower che perde tutto.
 
-20. **La religione è libera — e lo è anche il diritto di non averne alcuna.** La laicità dello Stato non è intolleranza: è la condizione che permette a credenti di ogni fede di convivere. Chi confonde la critica al potere religioso con la persecuzione dei fedeli vuole solo un altro tipo di potere, senza contraddittorio.
+20. **La religione è libera, e lo è anche il diritto di non averne alcuna.** La laicità dello Stato non è intolleranza: è la condizione che permette a credenti di ogni fede di convivere. Chi confonde la critica al potere religioso con la persecuzione dei fedeli vuole solo un altro tipo di potere, senza contraddittorio.
 
-21. **Nessuna cultura è "disfunzionale" — sono le condizioni materiali che producono disfunzione.** Povertà, sfruttamento coloniale, debito estero, estrazione di risorse: queste producono società ferite. Parlare di culture superiori e inferiori è un modo elegante per non parlare di chi ha rubato a chi.
+21. **Nessuna cultura è "disfunzionale", sono le condizioni materiali che producono disfunzione.** Povertà, sfruttamento coloniale, debito estero, estrazione di risorse: queste producono società ferite. Parlare di culture superiori e inferiori è un modo elegante per non parlare di chi ha rubato a chi.
 
-22. **Il pluralismo non è vuoto — il vuoto è il loro progetto.** Una cultura nazionale che include, che garantisce sanità, istruzione, lavoro, diritti, non è un'identità debole: è l'identità più forte che esista. La Repubblica non è un'azienda, non è una piattaforma, non è un mercato. È il patto tra cittadini. E i cittadini siamo noi, non loro.
+22. **Il pluralismo non è vuoto, il vuoto è il loro progetto.** Una cultura nazionale che include, che garantisce sanità, istruzione, lavoro, diritti, non è un'identità debole: è l'identità più forte che esista. La Repubblica non è un'azienda, non è una piattaforma, non è un mercato. È il patto tra cittadini. E i cittadini siamo noi, non loro.
 
 ---
 
@@ -74,7 +74,7 @@ tags:
 
 Ci vogliono spaventati per tenerci docili. Ci vogliono precari per tenerci zitti. Ci vogliono divisi per tenerci deboli. Ci vogliono distratti per tenerci ciechi.
 
-Quando un uomo con un patrimonio superiore al PIL di molte nazioni ti spiega che la tua libertà passa dalle sue armi, dai suoi satelliti, dalle sue piattaforme — guardalo negli occhi e chiediti una cosa sola: *chi paga, qui, e chi incassa?*
+Quando un uomo con un patrimonio superiore al PIL di molte nazioni ti spiega che la tua libertà passa dalle sue armi, dai suoi satelliti, dalle sue piattaforme, guardalo negli occhi e chiediti una cosa sola: *chi paga, qui, e chi incassa?*
 
 La risposta, di solito, è già scritta nel bilancio.
 
