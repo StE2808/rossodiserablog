@@ -17,7 +17,7 @@ image: /assets/images/uploads/tazza_caffe_venezuelana.webp
 image_caption: ''
 image_alt: Tazza di caffè con bandiera venezuelana su tavolo da cucina all'alba, giornale sfocato sullo sfondo, luce mattutina dalla finestra
 excerpt: La notte del 3 gennaio, mentre l'Italia dormiva, gli Stati Uniti bombardavano Caracas e rapivano il presidente Maduro. Un'azione senza precedenti che straccia il diritto internazionale. L'Europa tace, l'ONU è impotente. E noi ci svegliamo in un mondo dove le regole non valgono più per chi è forte.
-focus_keyword: ''
+focus_keyword: attacco USA Venezuela Maduro
 ---
 Alle due di notte del 3 gennaio, mentre qui in Italia sognavamo qualcosa che non ricorderemo, dall'altra parte dell'oceano succedeva una cosa che invece ricorderemo a lungo. Il cielo di Caracas si illuminava di esplosioni, elicotteri della Delta Force atterravano nel buio, e il presidente del Venezuela veniva prelevato dal suo letto come un pacco da spedire oltreoceano.
 

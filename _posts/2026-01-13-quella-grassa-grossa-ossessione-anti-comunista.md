@@ -46,7 +46,7 @@ excerpt: |-
   Un capitano CIA sapeva in anticipo degli attentati prima di Piazza Fontana ma non avvertì le autorità. Indagini recenti confermano il coinvolgimento dei servizi militari americani che supportavano l'estremismo di destra come "anticorpo" contro la sinistra.
   L'obiettivo era instillare paura per favorire un governo autoritario anticomunista. Paradossalmente, il PCI crebbe elettoralmente proprio negli anni delle stragi più sanguinose.
   Una pagina buia della nostra democrazia, dove sovranità nazionale e vite umane furono sacrificate agli equilibri della Guerra Fredda.
-focus_keyword: Comunista anticomunista
+focus_keyword: Piano Demagnetize CIA Italia
 ---
 Questo governo sembra ossessionato dai comunisti, li vede ovunque. Ma c’e’ un motivo storico. Siamo stati, noi italiani, soprattutto certi di noi, rieducati dagli eventi indotti dai vincitori della seconda guerra mondiale. Parliamo del piano "Demagnetize" e la [strategia della tensione](/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/): una storia di ingerenze e violenza. 
 

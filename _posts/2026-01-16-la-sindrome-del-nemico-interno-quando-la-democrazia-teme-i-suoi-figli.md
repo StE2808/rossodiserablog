@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La sindrome del nemico interno: quando la democrazia teme i suoi figli'
-seo_title: ''
+seo_title: 'Sindrome del nemico interno: quando la democrazia reprime il dissenso'
 description: 'Da Pisa a Washington, le democrazie scoprono il nemico in casa. Studenti, attivisti, giudici: quando il dissenso diventa malattia.'
 date: 2026-01-16 10:03:00 +0100
 author: stefano-vozzi
@@ -17,7 +17,7 @@ image: /assets/images/uploads/sindrome-nemico-interno-democrazia.webp
 image_caption: ''
 image_alt: Figura solitaria di fronte a uno specchio incrinato che riflette una folla, metafora della democrazia che teme i propri cittadini
 excerpt: 'Da Pisa a Washington, le democrazie occidentali hanno sviluppato una strana sindrome: vedere nemici nei propri cittadini. Studenti manganellati, attivisti incriminati, giudici delegittimati. La chiamiamo sindrome del nemico interno: quando chi protesta diventa il pericolo, e il dissenso una malattia da curare.'
-focus_keyword: ''
+focus_keyword: repressione del dissenso democrazia
 ---
 C'è una domanda che prima o poi ci facciamo tutti, davanti a un telegiornale che non avremmo voluto guardare: ma la democrazia sta bene? Perché ultimamente ha una cera strana, e ogni tanto dice cose che non le avevamo mai sentito dire.
 

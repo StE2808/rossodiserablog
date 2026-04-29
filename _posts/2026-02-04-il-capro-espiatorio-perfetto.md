@@ -33,6 +33,8 @@ tags:
 image: /assets/images/uploads/IMG_7074.webp
 image_caption: Cameriere ventiduenne arrestato per i disordini di Torino
 image_alt: Cameriere ventiduenne arrestato per i disordini di Torino
+excerpt: Dopo i disordini di Torino, la polizia ha arrestato un cameriere 22enne di Arcidosso senza precedenti penali, etichettato come anarchico. Un caso che illustra la ricerca del capro espiatorio perfetto: giovane, senza radici nella città, facilmente isolabile dalla narrazione mediatica.
+focus_keyword: capro espiatorio disordini Torino 2026
 excerpt: |-
   hanno individuato un presunto responsabile: un ragazzo di 22 anni, cameriere, originario di Arcidosso, piccolo centro di mille abitanti in provincia di Grosseto. Il giovane non ha alcun precedente di polizia, non è mai stato coinvolto in attività di tifoseria organizzata o movimenti politici, eppure è stato etichettato come "anarchico".
   L'articolo solleva dubbi sulla credibilità di questa identificazione, evidenziando come un cameriere proveniente da un borgo toscano, senza alcuna storia di militanza o attività sovversiva, sia stato trasformato in capro espiatorio. La vicenda solleva interrogativi sulla necessità del governo di trovare rapidamente un colpevole da mostrare all'opinione pubblica, a prescindere dall'effettiva pericolosità o dal profilo reale della persona arrestata.

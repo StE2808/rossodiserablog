@@ -33,13 +33,13 @@ tags:
   - ∙  Armi nucleari
   - ∙  Pericolosità politica
 image: /assets/images/uploads/IMG_7050.webp
-image_caption: Trump
-image_alt: Trump
+image_caption: Trump alla Casa Bianca
+image_alt: Donald Trump alla Casa Bianca, figura che incarna la Madman Theory della politica estera americana
 excerpt: |-
   Richard Nixon usò la "Madman Theory" durante la Guerra Fredda: fingere di essere irrazionale e imprevedibile per intimidire gli avversari. Era una strategia calcolata, orchestrata con Kissinger.
   Donald Trump appare utilizzare lo stesso approccio con minacce erratiche e dichiarazioni incendiarie. Ma c'è una differenza fondamentale: secondo una sua ex portavoce, "Non è una strategia. È davvero così."
   Nixon recitava la follia per fini tattici. Trump non recita. La distinzione tra un leader che simula l'imprevedibilità e uno genuinamente imprevedibile al comando è la differenza tra rischio calcolato e pericolo reale. Quando la Madman Theory cessa di essere teoria, il mondo diventa ostaggio non di una strategia, ma di un temperamento.
-focus_keyword: Madman
+focus_keyword: Madman Theory Nixon Trump
 ---
 
 Durante la Guerra Fredda, Richard Nixon sviluppò consapevolmente la “Madman Theory”: convincere i nemici che fosse irrazionale e imprevedibile abbastanza da usare armi nucleari. L’obiettivo era ottenere concessioni attraverso la paura calcolata.

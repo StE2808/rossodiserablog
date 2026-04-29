@@ -12,9 +12,11 @@ tags:
   - tecnologia
   - riflessioni
 image: /assets/images/uploads/silenzio.webp
-image_alt: "Immagine di copertina dell'articolo"
+image_alt: Finestra invernale appannata con luce diffusa filtrata dalla nebbia, metafora del silenzio e della riflessione interiore
+seo_title: "Silenzio imbarazzante: la psicologia dei quattro secondi che ci fanno sentire rifiutati"
 description: "Quattro secondi di silenzio bastano a farci sentire rifiutati. Eppure, nella corsa a riempire ogni pausa con notifiche e parole, abbiamo perso qualcosa..."
 excerpt: 'Quattro secondi di silenzio bastano a farci sentire rifiutati. Eppure, nella corsa a riempire ogni pausa con notifiche e parole, abbiamo perso qualcosa: lo spazio per pensare, ascoltare davvero, stare con noi stessi. Il silenzio non è vuoto — è presenza di tutto il resto.'
+focus_keyword: silenzio imbarazzante
 ---
 **Quattro secondi.**
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La banalità del male non è mai tramontata
-seo_title: Maduro Venezuela USA attacco guerra Ucraina Russia Israele Gaza
+seo_title: 'La banalità del male non è mai tramontata: dall''Eichmann al Venezuela'
 description: Gli USA attaccano il Venezuela e rapiscono il suo  presidente Maduro. Una analisi sulla banalità del male.
 date: 2026-01-04 18:23:00 +0100
 author: lino-rialti
@@ -51,7 +51,7 @@ image: /assets/images/uploads/IMG_7010.webp
 image_caption: ''
 image_alt: Attacco americano in varie città venezuelane. Bombardati obiettivi militari ma non solo.
 excerpt: 'Hannah Arendt coniò "banalità del male" osservando Eichmann: il male non necessita mostri, ma burocrati obbedienti. Oggi questo meccanismo persiste nelle sanzioni USA al Venezuela e nei bombardamenti israeliani su Gaza. Funzionari ordinari, nascosti dietro procedure e linguaggio tecnico, partecipano a violenze di massa presentate come "operazioni necessarie". Le vittime diventano statistiche, la responsabilità si frantuma. La lezione di Arendt rimane cruciale: il male più pericoloso nasce quando smettiamo di pensare criticamente e rinunciamo al giudizio morale.'
-focus_keyword: Attacco USA in Venezuela, la banalità del male
+focus_keyword: banalità del male Hannah Arendt
 ---
 Nel 1963, Hannah Arendt coniò l’espressione “banalità del male” osservando Adolf Eichmann al suo processo a Gerusalemme. Ciò che la colpì non fu la presenza di un mostro sadico, ma di un grigio burocrate incapace di pensare criticamente, che aveva organizzato deportazioni di massa considerandole semplicemente “questioni amministrative”.
 

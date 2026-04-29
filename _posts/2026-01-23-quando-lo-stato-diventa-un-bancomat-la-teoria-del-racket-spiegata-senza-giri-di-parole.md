@@ -17,7 +17,7 @@ image: /assets/images/uploads/teoria-racket-soldi-pubblici-parlamento.webp
 image_caption: ''
 image_alt: Illustrazione satirica di un parlamento assediato da interessi corporativi e carri armati etichettati 'affari privati', con cittadini in primo piano che tendono ciotole vuote verso torrenti di monete d'oro che cadono dall'alto
 excerpt: 'Max Horkheimer chiamava "racket" il sistema in cui le istituzioni pubbliche diventano club privati, dove l''accesso ai benefici dipende dall''appartenenza al gruppo giusto. Non è corruzione classica: è la trasformazione strutturale dello Stato in strumento di estrazione di valore dalle risorse collettive verso interessi particolari.'
-focus_keyword: ''
+focus_keyword: teoria del racket Horkheimer stato
 ---
 
 Vi è mai capitato di sentirvi presi in giro? Non parlo della classica bugia quotidiana, quella che ci scappa quando vogliamo evitare una discussione. Parlo di quella sensazione più profonda, quasi fisica, che proviamo quando ci dicono una cosa e vediamo esattamente il contrario accadere davanti ai nostri occhi.

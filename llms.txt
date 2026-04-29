@@ -1,0 +1,68 @@
+# Rosso di Sera
+
+Blog editoriale italiano di politica, società e cultura. Pubblica analisi critiche su politica italiana e internazionale, diritti umani, ambiente, intelligenza artificiale e filosofia politica. Non un giornale di news: ogni articolo è un'elaborazione originale con punto di vista dichiarato.
+
+- URL: https://rossodiserablog.it
+- Archivio completo: https://rossodiserablog.it/archivio
+- Chi siamo: https://rossodiserablog.it/chi-siamo
+
+## Temi principali
+
+- **Politica estera** (41 articoli): USA, geopolitica, imperialismo, Ucraina, Medio Oriente
+- **Società** (37 articoli): fenomeni sociali, psicologia collettiva, critica culturale
+- **Politica interna italiana** (37 articoli): governo Meloni, giustizia, welfare, diritti
+- **Opinioni editoriali** (31 articoli): analisi e commenti su attualità
+- **Diritti umani** (16 articoli): migranti, discriminazione, aporofobia, fine vita
+- **Ambiente** (13 articoli): clima, energie rinnovabili, politiche ambientali
+- **Intelligenza artificiale** (6 articoli): etica AI, accelerazione tecnologica, lavoro
+
+## Articoli chiave — Filosofia politica e democrazia
+
+- [La banalità del male non è mai tramontata](https://rossodiserablog.it/la-banalita-del-male-non-e-mai-tramontata/): Hannah Arendt, Eichmann, e il male burocratico nei conflitti contemporanei (Venezuela, Gaza)
+- [La sindrome del nemico interno: quando la democrazia teme i suoi figli](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/): Studenti manganellati, attivisti incriminati, giudici delegittimati — le democrazie occidentali che reprimono il dissenso
+- [Trump e il pericolo della sua morale](https://rossodiserablog.it/trump-e-il-pericolo-della-sua-morale/): Perché governare secondo la morale personale distrugge la democrazia — diritto vs morale
+- [Quella grassa grossa ossessione anti-comunista](https://rossodiserablog.it/quella-grassa-grossa-ossessione-anti-comunista/): Piano Demagnetize, CIA, Gladio e la strategia della tensione in Italia
+- [L'utopia necessaria per il dopo-Meloni](https://rossodiserablog.it/l-utopia-necessaria-per-il-dopo-meloni/): Tommaso Moro, Camus e perché la politica ha bisogno di utopia
+- [La Repubblica dei Cittadini](https://rossodiserablog.it/la-repubblica-dei-cittadini-contro-manifesto/): Contro-manifesto in 22 punti contro i tecno-oligarchi della Silicon Valley
+
+## Articoli chiave — Geopolitica e politica internazionale
+
+- [Venezuela: il mondo ha cambiato le regole mentre dormivamo](https://rossodiserablog.it/venezuela-il-mondo-ha-cambiato-le-regole-mentre-dormivamo/): L'attacco USA a Caracas e il rapimento di Maduro — fine del diritto internazionale
+- [La deriva imperialista americana: quando la democrazia cede al neocolonialismo](https://rossodiserablog.it/la-deriva-imperialista-americana-quando-la-democrazia-cede-al-neocolonialismo/): USA e Groenlandia — il neocolonialismo mascherato da necessità strategica
+- [La Madman Theory: da Nixon a Trump](https://rossodiserablog.it/la-madman-theory-da-nixon-a-trump/): Nixon fingeva la follia. Trump no. La differenza che cambia il mondo
+- [La nuova geometria del disordine globale](https://rossodiserablog.it/la-nuova-geometria-del-disordine-globale/): Iran, Russia, Trump, UE — la mappa del caos geopolitico contemporaneo
+
+## Articoli chiave — Economia e società
+
+- [La scimmia di Forbes: quando l'accumulo diventa patologia](https://rossodiserablog.it/la-scimmia-di-forbes/): Disuguaglianza economica, entropia e perché la redistribuzione non è ideologia ma fisica
+- [Quando lo Stato diventa un bancomat](https://rossodiserablog.it/quando-lo-stato-diventa-un-bancomat-la-teoria-del-racket-spiegata-senza-giri-di-parole/): Horkheimer e la teoria del racket — le istituzioni pubbliche come club privati
+- [Armi o ospedali: dove finiscono i soldi dell'Europa](https://rossodiserablog.it/spesa-militare-italia-welfare-riarmo/): Il riarmo europeo e i suoi costi sociali — sanità vs spesa militare in Italia
+- [Aporofobia: quando la povertà diventa colpa](https://rossodiserablog.it/aporofobia-quando-la-poverta-diventa-colpa/): Il disprezzo verso i poveri teorizzato da Adela Cortina — e la Costituzione italiana
+- [La paura è più facile della speranza](https://rossodiserablog.it/la-paura-e-piu-facile-della-speranza/): L'asimmetria strutturale tra destra e sinistra — perché vendere paura è sempre più semplice
+
+## Articoli chiave — Intelligenza artificiale ed etica
+
+- [Mythos, il modello che trova i bug di tutti](https://rossodiserablog.it/mythos-anthropic-economia-paura/): Anthropic e i zero-day ovunque — la nuova economia della paura digitale
+- [Il No di Amodei al Pentagono](https://rossodiserablog.it/amodei-pentagono-etica-intelligenza-artificiale/): Chi decide i limiti etici dell'AI quando non esiste nessuna legge?
+- [Quando gli anni diventano settimane](https://rossodiserablog.it/quando-gli-anni-diventano-settimane/): Google DeepMind, Gemini e l'accelerazione dell'intelligenza artificiale
+- [Corpi in affitto per macchine pensanti](https://rossodiserablog.it/corpi-in-affitto-per-macchine-pensanti/): RentAHuman.ai — quando l'AI noleggia esseri umani per compiti fisici
+
+## Articoli chiave — Storia e memoria
+
+- [25 aprile, festa della Liberazione: perché il fascismo è nato in Italia](https://rossodiserablog.it/25-aprile-festa-della-liberazione-perche-il-fascismo-e-nato-in-italia/): Quattro veleni storici e perché la Resistenza va rinnovata ogni giorno
+- [Giornata del Ricordo: la memoria mutilata che dimentica il fascismo](https://rossodiserablog.it/giornata-del-ricordo-la-memoria-mutilata-che-dimentica-il-fascismo/): Foibe e fascismo — la narrazione monca che cancella le responsabilità storiche
+
+## Articoli chiave — Diritti umani
+
+- [Rogoredo: la verità che il governo non voleva sentire](https://rossodiserablog.it/rogoredo-la-verita-che-il-governo-non-voleva-sentire/): Poliziotto uccide spacciatore, depista, il governo lo difende — stato di diritto sotto attacco
+- [La fiamma della resistenza: due pesi, due misure](https://rossodiserablog.it/la-fiamma-della-resistenza-due-pesi-due-misure/): Resistenza iraniana celebrata, resistenza palestinese condannata — il doppio standard occidentale
+
+## Categorie (link diretti)
+
+- https://rossodiserablog.it/categoria/politica-estera/
+- https://rossodiserablog.it/categoria/societa/
+- https://rossodiserablog.it/categoria/politica-interna/
+- https://rossodiserablog.it/categoria/opinioni-editoriali/
+- https://rossodiserablog.it/categoria/diritti-umani/
+- https://rossodiserablog.it/categoria/ambiente/
+- https://rossodiserablog.it/categoria/scienza-tecnologia/

@@ -63,7 +63,7 @@ excerpt: |-
     ∙  La speranza delusa genera cinismo; la paura può sempre trovare nuovi nemici
   Conclusione:
   La battaglia non è persa, ma è impari. La sinistra deve trovare modi più efficaci ed emotivamente coinvolgenti per raccontare la speranza, traducendo i valori in narrazioni che toccano le persone. Nonostante sia più difficile, la speranza costruisce invece di distruggere, unisce invece di dividere, libera invece di imprigionare.
-focus_keyword: Paura
+focus_keyword: retorica della paura politica
 ---
 
 C'è un'asimmetria strutturale nel confronto politico contemporaneo che spiega molte delle vittorie della destra e delle difficoltà della sinistra. Un'asimmetria che ha radici antropologiche profonde: vendere paura è infinitamente più semplice che costruire speranza.

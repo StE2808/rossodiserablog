@@ -35,7 +35,7 @@ excerpt: |-
   Eppure emerge una contraddizione stridente: perché la stessa empatia non viene riservata al popolo palestinese? La resistenza contro l'occupazione militare, l'espropriazione delle terre e la violenza subita viene sistematicamente etichettata come terrorismo.
   Due popoli oppressi, due narrazioni completamente opposte. Le iraniane sono eroine, i palestinesi terroristi. Un doppio standard che solleva interrogativi sulla coerenza della narrazione mainstream e sulle agende geopolitiche che la condizionano.
   Non si tratta di giustificare violenza, ma di chiedere onestà intellettuale: o si riconosce universalmente il diritto di resistere all'oppressione, o si ammette che la solidarietà internazionale è selettiva e strumentale. La resistenza rimane resistenza, ovunque avvenga.
-focus_keyword: ∙  donne iraniane   ∙  resistenza iraniana   ∙  Khomeini   ∙  resistenza palestinese   ∙  doppio standard   ∙  media occidentali   ∙  oppressione Iran
+focus_keyword: doppio standard media occidentali
 ---
 In questi giorni rimbalza sui social un’immagine potente: donne iraniane che accendono sigarette bruciando foto dell’ayatollah Khomeini. 
 

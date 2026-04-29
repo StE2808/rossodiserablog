@@ -26,7 +26,7 @@ image: /assets/images/uploads/IMG_7018.webp
 image_caption: ''
 image_alt: Trump prende in giro un sollevatore di pesi transgender
 excerpt: Washington sta attivamente perseguendo l'acquisizione della Groenlandia attraverso pressioni diplomatiche, operazioni di influenza segrete e minacce velate, ignorando la volontà dell'85% della popolazione locale. Questa deriva neocoloniale, mascherata da necessità strategiche ma motivata da interessi economici e militari, rappresenta un attacco frontale ai principi di autodeterminazione e sovranità, costringendo l'Europa a reagire e sollevando interrogativi devastanti sul futuro dell'ordine internazionale basato sulle regole.
-focus_keyword: Description
+focus_keyword: USA Groenlandia imperialismo
 ---
 Mentre l’Europa celebrava, a modo tutto suo la pace e la cooperazione internazionale basata sul diritto, che però per dirla alla Tajani “è importante ma fino a un certo punto”, gli Stati Uniti stanno riportando il mondo indietro di un secolo, rispolverando logiche di conquista territoriale che credevamo sepolte dalla storia.
 
