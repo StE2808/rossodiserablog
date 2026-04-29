@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La banalità del male non è mai tramontata
-seo_title: 'La banalità del male non è mai tramontata: dall''Eichmann al Venezuela'
+seo_title: "La banalità del male non è mai tramontata: dall''Eichmann al Venezuela"
 description: Gli USA attaccano il Venezuela e rapiscono il suo  presidente Maduro. Una analisi sulla banalità del male.
 date: 2026-01-04 18:23:00 +0100
 author: lino-rialti
