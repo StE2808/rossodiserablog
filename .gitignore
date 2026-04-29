@@ -26,18 +26,5 @@ admin/index.html
 # Dev files (scripts, reports, etc.)
 _dev/
 
-# Secrets e credenziali
-client_secret*.json
-*.key
-*.pem
-
-# Tool configs locali
-.agents/
-.claude/
-.continue/
-.trae/
-skills-lock.json
-
-# Claude Code documentation (internal only)
+# Claude Code documentation (internal only — anche in global gitignore)
 CLAUDE.md
-claude.md
