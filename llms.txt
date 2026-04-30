@@ -14,7 +14,7 @@ Blog editoriale italiano di politica, società e cultura. Pubblica analisi criti
 - **Opinioni editoriali** (31 articoli): analisi e commenti su attualità
 - **Diritti umani** (16 articoli): migranti, discriminazione, aporofobia, fine vita
 - **Ambiente** (13 articoli): clima, energie rinnovabili, politiche ambientali
-- **Intelligenza artificiale** (6 articoli): etica AI, accelerazione tecnologica, lavoro
+- **Intelligenza artificiale** (7 articoli): etica AI, accelerazione tecnologica, lavoro, sorveglianza predittiva
 
 ## Articoli chiave — Filosofia politica e democrazia
 
@@ -46,6 +46,7 @@ Blog editoriale italiano di politica, società e cultura. Pubblica analisi criti
 - [Il No di Amodei al Pentagono](https://rossodiserablog.it/amodei-pentagono-etica-intelligenza-artificiale/): Chi decide i limiti etici dell'AI quando non esiste nessuna legge?
 - [Quando gli anni diventano settimane](https://rossodiserablog.it/quando-gli-anni-diventano-settimane/): Google DeepMind, Gemini e l'accelerazione dell'intelligenza artificiale
 - [Corpi in affitto per macchine pensanti](https://rossodiserablog.it/corpi-in-affitto-per-macchine-pensanti/): RentAHuman.ai — quando l'AI noleggia esseri umani per compiti fisici
+- [Palantir e il giorno in cui il cittadino è diventato una variabile](https://rossodiserablog.it/palantir-cittadino-variabile/): Sorveglianza predittiva nei contratti della Difesa italiana — il rischio non è il controllo, è l'adattamento silenzioso
 
 ## Articoli chiave — Storia e memoria
 
