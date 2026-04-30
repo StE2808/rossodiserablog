@@ -25,6 +25,7 @@ admin/index.html
 
 # Dev files (scripts, reports, etc.)
 _dev/
+*_report.json
 
 # Claude Code documentation (internal only — anche in global gitignore)
 CLAUDE.md
