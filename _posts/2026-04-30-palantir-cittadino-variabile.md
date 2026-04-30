@@ -6,7 +6,7 @@ date: 2026-04-30 10:00:00 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 excerpt: "Palantir è già nei contratti della Difesa italiana dal 2015. La promessa è sicurezza in cambio di leggibilità. Il vero rischio non è la sorveglianza: è l'adattamento silenzioso."
-image: /assets/images/uploads/palantir-cittadino-variabile.jpg
+image: /assets/images/uploads/palantir-cittadino-variabile.webp
 image_alt: "Occhio sorvegliante sopra una folla schedata, mani che muovono fili come marionette: metafora della sorveglianza algoritmica di Palantir"
 description: "Palantir è già in Italia, dentro i contratti della Difesa. Non è fantascienza, è infrastruttura. E il vero rischio non è il controllo, è l'adattamento."
 focus_keyword: "Palantir Italia sorveglianza"
