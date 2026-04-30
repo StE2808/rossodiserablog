@@ -4,8 +4,11 @@ title: "L'Importanza della Conservazione dei Mari e degli Oceani"
 date: 2023-10-13 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/mare.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: " I mari e gli oceani: custodi del nostro pianeta I mari e gli oceani costituiscono il 71% della superficie terrestre, e..."
+image_alt: "Fondale marino con biodiversità di pesci e coralli, simbolo della bellezza e fragilità degli ecosistemi marini da conservare"
+description: "Mari e oceani coprono il 71% della Terra e assorbono CO2, ma plastica e pesca eccessiva li minacciano. Come proteggere la biodiversità marina."
+seo_title: "Conservazione dei mari e degli oceani: cosa rischiamo"
+focus_keyword: conservazione mari oceani
+excerpt: "Gli oceani coprono il 71% della Terra, producono ossigeno, regolano il clima e nutrono miliardi di persone. Ma l'inquinamento da plastica, l'acidificazione e la pesca eccessiva li stanno distruggendo. Cosa possiamo fare per salvarli."
 category: ambiente
 tags: ["biodiversit\u00e0 marina", "cambiamento climatico", "ciclo del carbonio", "conservazione marina", "inquinamento dei mari", "Mari", "oceani", "sostenibilit\u00e0 marina"]
 ---
@@ -35,3 +38,36 @@ La riduzione dell'uso della plastica e la gestione responsabile dei rifiuti sono
 In conclusione, i mari e gli oceani rappresentano una risorsa inestimabile per il nostro pianeta, ma sono sotto crescente pressione. La conservazione dei mari e degli oceani è una responsabilità condivisa che richiede azioni immediate. È fondamentale ridurre l'inquinamento da anidride carbonica, proteggere la biodiversità marina e preservare il ruolo cruciale dei mari e degli oceani nel ciclo del carbonio.
 
 Ognuno di noi ha un ruolo da svolgere nella conservazione di questi ecosistemi preziosi, dall'adozione di comportamenti più sostenibili al sostegno delle organizzazioni ambientali che lavorano per proteggere i nostri mari e oceani. Solo attraverso un impegno globale possiamo garantire un futuro sano per i mari, gli oceani e per il nostro pianeta.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Perché la conservazione dei mari è così importante?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mari e oceani coprono il 71% della superficie terrestre e svolgono ruoli fondamentali: assorbono CO2 dall'atmosfera mitigando il cambiamento climatico, producono una parte significativa dell'ossigeno che respiriamo, regolano il clima globale e forniscono proteine essenziali a miliardi di persone. La loro distruzione avrebbe conseguenze devastanti per l'intera biosfera."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono le principali minacce agli oceani?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le principali minacce includono l'inquinamento da plastica (con la formazione di isole di rifiuti come la Grande Macchia di Plastica del Pacifico), l'acidificazione causata dall'assorbimento eccessivo di CO2, il cambiamento climatico che altera temperature e correnti, e la pesca eccessiva che depleta le popolazioni ittiche. Questi fattori combinati stanno mettendo a rischio la biodiversità marina."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come possiamo proteggere i mari e gli oceani?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le misure più efficaci includono la creazione di aree marine protette, la regolamentazione della pesca per garantirne la sostenibilità, la riduzione dell'uso della plastica monouso, la gestione responsabile dei rifiuti industriali e il supporto alle organizzazioni ambientali marine. A livello individuale, ridurre le emissioni di CO2, evitare la plastica e scegliere prodotti ittici sostenibili sono azioni concrete."
+      }
+    }
+  ]
+}
+</script>

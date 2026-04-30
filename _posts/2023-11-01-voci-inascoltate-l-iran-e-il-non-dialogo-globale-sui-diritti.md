@@ -4,8 +4,11 @@ title: "Voci Inascoltate: L'Iran e il (non) dialogo globale sui Diritti Umani"
 date: 2023-11-01 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/img_5619.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: "In un'era di globalizzazione e interconnessione, le ingiustizie perpetrate in un angolo del mondo risuonano attraverso i continenti, risvegliando le..."
+image_alt: "Fotografia simbolica di manifestanti iraniani che lottano per i diritti delle donne, rappresentazione della resistenza civile in Iran"
+description: "Armita Geravand, Mahsa Amini e la nomina di Ali Bahreini all'ONU: tre storie che raccontano la repressione dei diritti umani in Iran nel 2023."
+seo_title: "Iran e diritti umani: le voci che il mondo non vuole sentire"
+focus_keyword: diritti umani Iran
+excerpt: "Armita Geravand in coma per il velo, Mahsa Amini morta un anno prima, e Ali Bahreini nominato alla presidenza del Forum ONU sui diritti umani. Tre episodi che raccontano la distanza tra la realtà iraniana e i principi della comunità internazionale."
 category: cronaca-bianca
 tags: ["Ali Bahreini", "Armita Geravand", "comunit\u00e0 internazionale", "diritti umani", "Forum Sociale del Consiglio delle Nazioni Unite", "giustizia", "Iran", "Mahsa Amini", "repressione", "solidariet\u00e0 globale"]
 ---
@@ -26,3 +29,28 @@ In un momento storico in cui la solidarietà globale è più necessaria che mai,
 Questi episodi, riflessi sul palcoscenico globale, sottolineano la necessità di continuare a battersi per la giustizia e i diritti umani, ricordandoci l'imperativo morale di restare informati, impegnati e attivi nella creazione di un mondo più giusto.
 
 Il dialogo è aperto, e ogni riflessione e azione conta nella marcia collettiva verso la giustizia globale.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Perché la nomina di Ali Bahreini all'ONU è controversa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ali Bahreini, ambasciatore iraniano, è stato nominato alla presidenza del Forum Sociale del Consiglio delle Nazioni Unite per i diritti umani in un momento in cui l'Iran è al centro di critiche internazionali per la repressione dei diritti civili. Questa nomina è stata vista da molti come una tacita approvazione delle politiche repressive del governo iraniano, creando un paradosso istituzionale che mette in discussione la credibilità dell'ONU."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è la situazione dei diritti delle donne in Iran?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Iran le donne sono obbligate per legge a coprirsi i capelli e il corpo in pubblico. La polizia morale ha il compito di far rispettare queste regole. Chi non si adegua rischia fermi, aggressioni e conseguenze legali. I casi di Mahsa Amini (2022) e Armita Geravand (2023), entrambe vittime della polizia morale, hanno acceso i riflettori internazionali sulla brutalità con cui queste leggi vengono applicate."
+      }
+    }
+  ]
+}
+</script>

@@ -4,8 +4,11 @@ title: "L'Intelligenza Artificiale è qui: come gestirla senza farla diventare u
 date: 2023-09-27 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/09/ste_spi_artificial_intelligence_collaborates_with_human_intelli_75784460-8fe4-4c33-a3f5-2af93a85f18e.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: "Parliamo spesso di AI come fosse roba da 'Star Trek', ma la realtà è che è già qui ed è più intrusiva di una suocera a cena. Quindi, come sta cambiando la..."
+image_alt: "Illustrazione di un'intelligenza artificiale che collabora con un essere umano, simbolo della coesistenza tra uomo e macchina"
+description: "L'intelligenza artificiale è già tra noi: medicina, auto autonome, droni, AI generativa. Come gestirla senza discriminazioni e senza che diventi un Frankenstein."
+seo_title: "Intelligenza artificiale: rischi, etica e futuro del lavoro"
+focus_keyword: intelligenza artificiale etica rischi
+excerpt: "L'intelligenza artificiale è già ovunque: diagnosi mediche, auto autonome, droni per le consegne. Ma come gestirla senza che diventi uno strumento di discriminazione e controllo? Un'analisi tra opportunità e rischi del presente."
 category: opinioni-editoriali
 ---
 Parliamo spesso di AI come fosse roba da "Star Trek", ma la realtà è che è già qui ed è più intrusiva di una suocera a cena. Quindi, come sta cambiando la nostra vita questa Intelligenza Artificiale?
@@ -81,3 +84,36 @@ E poi c'è la questione etica. Dovremo affrontare un sacco di decisioni difficil
 ## La sfida del futuro? Equilibrio!
 
 In conclusione, la vera sfida è trovare un equilibrio tra l'innovazione spinta dall'IA e la necessità di avere un sistema economico equo e sostenibile. Un futuro con IA senza etica o responsabilità sociale? No grazie!
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Come sta cambiando la nostra vita l'intelligenza artificiale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'intelligenza artificiale è già presente in molti ambiti quotidiani: nella medicina (diagnosi più precise con algoritmi come PathAI), nella telemedicina, nei veicoli autonomi (come Waymo di Google), nelle consegne con droni (Amazon Prime Air), e nelle traduzioni automatiche. YouTube e Spotify usano l'AI per tradurre vocalmente i contenuti superando le barriere linguistiche."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cos'è la discriminazione algoritmica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La discriminazione algoritmica si verifica quando gli algoritmi, addestrati su dati storici che contengono pregiudizi umani, replicano e amplificano queste discriminazioni. Può portare a crediti negati, assicurazioni più costose o errori di identificazione da parte della polizia, il tutto con una parvenza di oggettività matematica. È il cugino tecnologico del pregiudizio umano."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come possiamo gestire l'AI senza che diventi pericolosa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La gestione responsabile dell'intelligenza artificiale richiede regolamentazione, trasparenza e supervisione democratica. Bill Gates propone di tassare le macchine per reinvestire nella formazione dei lavoratori. L'idea di un Reddito di Base Universale viene sperimentata già in Finlandia. La chiave è bilanciare innovazione tecnologica ed etica, assicurando che l'AI serva l'umanità e non il contrario."
+      }
+    }
+  ]
+}
+</script>

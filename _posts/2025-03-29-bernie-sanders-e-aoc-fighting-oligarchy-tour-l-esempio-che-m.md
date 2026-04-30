@@ -4,8 +4,11 @@ title: "Bernie Sanders e AOC | Fighting Oligarchy Tour: L'Esempio che Manca alla
 date: 2025-03-29 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/foto.png.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: "Avete mai osservato un fiume che scorre con determinazione, superando ogni ostacolo sul suo cammino. È l'immagine che mi viene in mente guardando Bernie..."
+image_alt: "Comizio politico con folle oceaniche, simbolo della mobilitazione del Fighting Oligarchy Tour di Bernie Sanders e AOC"
+description: "Sanders a 83 anni e AOC al Fighting Oligarchy Tour: 34.000 persone a Denver. Cosa manca all'opposizione italiana per fare lo stesso."
+seo_title: "Bernie Sanders e AOC: lezioni per l'opposizione italiana"
+focus_keyword: Bernie Sanders AOC Fighting Oligarchy Tour
+excerpt: "A 83 anni Bernie Sanders raccoglie 34.000 persone a Denver con AOC. Il Fighting Oligarchy Tour non è solo protesta: è proposta concreta su salario minimo, sanità e clima. L'opposizione italiana guarda e non impara."
 category: diritti-umani
 tags: ["AlexandriaOcasioCortez", "AttivismoIntergenerazionale", "BernieSanders", "DemocraziaSana", "FightingOligarchy", "MobilitazionePolitica", "OpposizioneItaliana", "PoliticaProgressista", "RinnovamentoPolitico", "VisioneAlternativa"]
 ---
@@ -55,3 +58,36 @@ Ha bisogno, insomma, di qualche Bernie Sanders e qualche Alexandria Ocasio-Corte
 Invece, abbiamo un'opposizione che sembra aver dimenticato persino cosa significhi insorgere. E forse è questo il vero problema: non è che non sanno come opporsi, è che nel profondo non credono più che un'alternativa sia possibile.
 
 Sanders e AOC ci stanno mostrando che un altro modo di fare politica è possibile. La domanda è: c'è qualcuno, nella nostra **opposizione italiana**, che sta guardando?
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cos'''è il Fighting Oligarchy Tour di Bernie Sanders e AOC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il Fighting Oligarchy Tour è un tour politico di Bernie Sanders e Alexandria Ocasio-Cortez nel 2025 contro l'''oligarchia economica. I comizi hanno raccolto 34.000 persone a Denver con proposte concrete su salario minimo, sanità pubblica, tassazione dei super-ricchi e clima. Non è solo protesta contro Trump: è costruzione di un'''alternativa credibile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cosa può imparare l'''opposizione italiana da Sanders e AOC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tre lezioni: la coerenza politica nel tempo (Sanders ha le stesse battaglie da decenni), l'''autenticità (AOC parla delle sue origini senza filtri), e la visione propositiva (non solo critica al governo, ma un'''alternativa concreta). L'''opposizione italiana è bloccata nella fase reattiva, senza articolare un progetto di futuro."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché la collaborazione intergenerazionale Sanders-AOC è un modello?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'''alleanza tra Sanders (83 anni) e AOC (35 anni) dimostra che la collaborazione intergenerazionale in politica è possibile. Nessun atteggiamento paternalistico, nessuna gerarchia: due compagni di battaglia con esperienze diverse e lo stesso obiettivo. In Italia, dove i giovani politici vengono trattati come apprendisti e i veterani come reliquie, questo modello è una sfida culturale profonda."
+      }
+    }
+  ]
+}
+</script>

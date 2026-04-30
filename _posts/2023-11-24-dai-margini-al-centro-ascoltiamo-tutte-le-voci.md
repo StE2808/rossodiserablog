@@ -4,8 +4,11 @@ title: "Dai margini al centro: ascoltiamo tutte le voci."
 date: 2023-11-24 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/11/dallc2b7e-2023-11-24-10.05.31-create-an-impactful-image-that-depicts-marginalized-subaltern-groups-in-black-and-white-stepping-into-a-vibrant-colorful-world.-the-black-and-whit.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: "Avete mai riflettuto sul destino di quelle voci che non trovano eco nei corridoi del potere. O su quelle storie che rimangono escluse dai libri di storia"
+image_alt: "Gruppo di persone di diverse origini che camminano insieme verso un futuro di inclusione, passando dal bianco e nero al colore"
+description: "Donne, LGBTQ+, minoranze etniche e religiose: i gruppi subalterni che lottano ogni giorno per essere visti. Un'analisi delle lotte sociali contemporanee."
+seo_title: "Dai margini al centro: dare voce ai gruppi subalterni"
+focus_keyword: gruppi subalterni diritti sociali
+excerpt: "Oltre la lotta di classe marxiana: le battaglie di donne, LGBTQ+, minoranze etniche e persone con disabilità per essere viste, ascoltate e riconosciute. Come i movimenti sociali contemporanei stanno ridisegnando il concetto di giustizia."
 category: opinioni-editoriali
 tags: ["Barriere culturali", "Discriminazione sociale", "Disuguaglianza economica", "giustizia", "Gruppi subalterni", "Lotta di classe", "Movimenti per i diritti", "Movimenti sociali", "Politiche inclusive", "resistenza", "Solidariet\u00e0", "Umanit\u00e0", "Voci dimenticate"]
 ---
@@ -22,3 +25,28 @@ La vera magia, però, avviene quando queste voci si uniscono. Le alleanze trasve
 In questo scenario, ogni individuo gioca un ruolo fondamentale. Può iniziare informandosi su queste tematiche, supportando politiche inclusive, partecipando a movimenti sociali e campagne di sensibilizzazione. Ogni piccolo gesto ha valore, ogni voce aggiunta al coro arricchisce e rafforza il messaggio.
 
 In conclusione, la lotta per il riconoscimento e i diritti dei gruppi subalterni non è unicamente la loro lotta. È una lotta che ci coinvolge tutti. È il cammino verso una società più giusta, equa e inclusiva. Ricordiamoci che, quando tendiamo una mano a chi è stato lasciato indietro, non solo aiutiamo gli altri, ma ci arricchiamo anche noi stessi. Dopotutto, siamo tutti parte di questo straordinario e complesso viaggio chiamato umanità.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa sono i gruppi subalterni?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I gruppi subalterni sono quelle comunità e categorie sociali che vivono ai margini della società, escluse dai corridoi del potere e dalle narrazioni dominanti. Il termine, sviluppato da Antonio Gramsci, include donne, minoranze etniche e religiose, comunità LGBTQ+, persone con disabilità e chiunque affronti discriminazioni sistematiche oltre la semplice disuguaglianza economica."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come possono i movimenti sociali dare voce ai gruppi emarginati?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I movimenti come Black Lives Matter e MeToo hanno dimostrato che la lotta per la giustizia non ha confini e può mobilitare milioni di persone. I social media sono diventati strumenti potenti per amplificare voci altrimenti inascoltate. Le alleanze trasversali tra movimenti diversi — come quella tra attivisti per i diritti dei migranti e ambientalisti — moltiplicano la forza e l'impatto delle battaglie per i diritti."
+      }
+    }
+  ]
+}
+</script>
