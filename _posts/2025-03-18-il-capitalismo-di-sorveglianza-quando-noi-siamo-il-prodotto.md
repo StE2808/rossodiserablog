@@ -4,8 +4,11 @@ title: "Il Capitalismo di Sorveglianza: Quando Noi Siamo il Prodotto"
 date: 2025-03-18 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2025/03/capitalismo_di_sorveglianza.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: "Introduzione Nel silenzio della nostra quotidianità digitale, mentre scorriamo feed, cerchiamo informazioni o facciamo acquisti online, un sofisticato..."
+image_alt: "Illustrazione del capitalismo di sorveglianza con occhi digitali e flussi di dati che attraversano una rete globale"
+description: "Il capitalismo di sorveglianza trasforma i nostri dati in merce. Dal modello di Zuboff a Google e Facebook: come funziona e come resistere."
+seo_title: "Capitalismo di sorveglianza: cos'è e come ci controlla"
+focus_keyword: capitalismo di sorveglianza
+excerpt: "Il capitalismo di sorveglianza, teorizzato da Shoshana Zuboff, trasforma ogni nostra azione digitale in materia prima commerciale. Dati, predizione comportamentale, manipolazione: come le grandi piattaforme monetizzano l'esperienza umana."
 category: opinioni-editoriali
 tags: ["algoritmi", "asimmetria informativa", "Cambridge Analytica", "dati personali", "democrazia digitale", "design persuasivo", "economia dell'attenzione", "Facebook", "GDPR", "Google", "manipolazione comportamentale", "monetizzazione dei dati", "polarizzazione", "pregiudizi algoritmi", "privacy digitale", "prodotti predittivi", "Shoshana Zuboff", "tecnologia e societ\u00e0"]
 ---
@@ -65,3 +68,36 @@ Il Capitalismo di Sorveglianza rappresenta una minaccia reale per le società de
 Come ha scritto Zuboff: "La questione non è se possiamo fermare il Capitalismo di Sorveglianza, ma se la società democratica vuole sopravvivere". La risposta a questa domanda dipenderà dalla nostra capacità di riconoscere ciò che sta accadendo, immaginare alternative e agire collettivamente per realizzarle.
 
 In un'epoca in cui l'attenzione è la risorsa più preziosa, forse il primo atto di resistenza è proprio questo: riconquistare la consapevolezza di come i nostri dati vengono utilizzati e iniziare a immaginare un futuro digitale costruito su valori diversi dall'estrazione e dalla manipolazione.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Che cos'è il capitalismo di sorveglianza?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il capitalismo di sorveglianza è un modello economico teorizzato dalla professoressa di Harvard Shoshana Zuboff. Descrive il sistema con cui aziende come Google e Facebook raccolgono dati sulle nostre interazioni digitali, li elaborano per prevedere comportamenti futuri e vendono queste previsioni come 'prodotti predittivi' ad inserzionisti interessati a influenzare il nostro comportamento."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come funziona il capitalismo di sorveglianza nella pratica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il processo avviene in cinque fasi: estrazione massiccia di dati (clic, ricerche, pause su immagini), analisi tramite algoritmi di machine learning, creazione di modelli predittivi sul comportamento futuro, vendita di queste previsioni nei mercati a termine comportamentali e infine modifica comportamentale attraverso tecniche di persuasione. Le aziende più ricche della storia — Apple, Microsoft, Google, Amazon, Meta — si basano su questo modello."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come possiamo resistere al capitalismo di sorveglianza?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Esistono diverse forme di resistenza: normativa (come il GDPR europeo e il CCPA californiano), tecnologica (motori di ricerca alternativi come DuckDuckGo, app crittografate come Signal), educativa (consapevolezza pubblica sui meccanismi di raccolta dati) ed economica (cooperative di dati, piattaforme di proprietà degli utenti). Il primo passo è riconoscere come i propri dati vengono utilizzati."
+      }
+    }
+  ]
+}
+</script>

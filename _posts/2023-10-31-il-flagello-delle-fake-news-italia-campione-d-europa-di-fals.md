@@ -4,8 +4,11 @@ title: "Il flagello delle fake news: Italia campione d' Europa di 'falsità'"
 date: 2023-10-31 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5612.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: "In un'epoca dominata dall'informazione digitale, l'Italia si trova a fronteggiare un nemico insidioso e pervasivo: le fake news. Recentemente, il Paese ha..."
+image_alt: "Schermata di smartphone con articoli di notizie online, simbolo della disinformazione e delle fake news in Italia"
+description: "L'Italia prima in Europa per fake news: 45.000 post falsi rimossi da Meta nel 2023. Il 76,5% degli italiani fatica a riconoscere la disinformazione."
+seo_title: "Fake news Italia: campioni europei di disinformazione"
+focus_keyword: fake news Italia
+excerpt: "Nel primo semestre 2023, Meta ha rimosso più contenuti falsi dall'Italia che da qualsiasi altro paese europeo: 45.000 post su Facebook, 1.900 su Instagram. Il 76,5% degli italiani fatica a distinguere le fake news. Un'emergenza democratica."
 category: cronaca-bianca
 tags: ["Collaborazione Inter-Piattaforma", "Disinformazione", "Facebook", "Fact-Checking", "Fake News", "Finti Account", "Fonti Affidabili", "Impegno degli Utenti", "Instagram", "Meta", "Social Media", "Tecnologie di Rilevamento", "Verifica dell\u2019Identit\u00e0"]
 ---
@@ -34,3 +37,36 @@ Anche combattere i finti account è una sfida cruciale nella lotta contro le fak
 La lotta contro le fake news richiede un impegno collettivo che coinvolga individui, comunità, piattaforme di social media e governi. Invitiamo i nostri lettori a fare la loro parte: rimanere informati, verificare le fonti e pensare criticamente prima di condividere informazioni online.
 
 In un'epoca in cui la verità è facilmente manipolabile, prendere le giuste precauzioni per evitare le fake news è più cruciale che mai. Il tempo dell'indifferenza è finito; è ora di agire con determinazione contro il flagello della disinformazione.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "L'Italia è davvero il paese con più fake news in Europa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secondo i dati di Meta del primo semestre 2023, l'Italia è il paese europeo con il maggior numero di contenuti falsi rimossi da Facebook (45.000 post) e Instagram (1.900). Una ricerca del Censis ha rilevato che il 76,5% degli italiani fatica a distinguere le fake news, mentre il 66% si dichiara preoccupato per la loro diffusione."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come si riconoscono le fake news?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per riconoscere le fake news è fondamentale verificare la fonte (sito ufficiale, testata riconosciuta), cercare la stessa notizia su più fonti indipendenti, controllare la data di pubblicazione, leggere oltre il titolo e usare piattaforme di fact-checking come Pagella Politica o FactaNews. I contenuti che suscitano reazioni emotive molto forti meritano una verifica extra."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cosa fanno i social media contro le fake news?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le piattaforme come Meta rimuovono attivamente i contenuti falsi, promuovono fonti verificate e collaborano con organizzazioni di fact-checking. Tuttavia, la velocità di diffusione della disinformazione supera spesso quella dei meccanismi di controllo. Il Digital Services Act (DSA) europeo impone alle grandi piattaforme obblighi specifici di moderazione."
+      }
+    }
+  ]
+}
+</script>

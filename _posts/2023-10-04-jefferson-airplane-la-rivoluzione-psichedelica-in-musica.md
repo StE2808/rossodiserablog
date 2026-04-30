@@ -4,8 +4,11 @@ title: "Jefferson Airplane: La Rivoluzione Psichedelica in Musica"
 date: 2023-10-04 00:00:00 +0100
 author: stefano-vozzi
 image: /assets/images/2023/10/img_4886.webp
-image_alt: "Immagine di copertina dell'articolo"
-description: " Origini e Formazione Jefferson Airplane è nato a San Francisco nel 1965, quando la cantante Marty Balin ha deciso di..."
+image_alt: "Fotografia d'archivio di un concerto psichedelico degli anni '60, nel periodo d'oro dei Jefferson Airplane a San Francisco"
+description: "Jefferson Airplane, la band di San Francisco che ha definito il rock psichedelico degli anni '60. Da White Rabbit a Woodstock: storia e eredità musicale."
+seo_title: "Jefferson Airplane: storia e rivoluzione psichedelica"
+focus_keyword: Jefferson Airplane
+excerpt: "Nati a San Francisco nel 1965, i Jefferson Airplane hanno scritto la colonna sonora della rivoluzione psichedelica con Grace Slick e White Rabbit. Dalla controcultura hippie a Woodstock: storia e eredità di una delle band più influenti degli anni '60."
 category: cultura-spettacolo
 tags: ["Anni \u201960", "Controcultura", "Controcultura americana", "Grace Slick", "Hippie", "Jefferson Airplane", "Musica degli anni \u201960", "Musica rock", "Paul Kantner", "Rivoluzione culturale", "Rock psichedelico", "San Francisco", "White Rabbit"]
 ---
@@ -32,3 +35,36 @@ Un classico del rock, White Rabbit dei Jefferson Airplane è un viaggio acido e 
 Slick scrisse infatti la canzone mentre, sotto effetto di acidi, si mise ad ascoltare 'Sketches Of Spain' di Miles Davis per 24 ore consecutive. E' da lì che arriva l'ispirazione per il ritmo della canzone, così come dal Bolero di Maurice Ravel.
 
 Grazie LSD? =)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quando si è formata la band Jefferson Airplane?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I Jefferson Airplane si sono formati a San Francisco nel 1965, quando la cantante Marty Balin si unì al chitarrista Paul Kantner. La formazione classica includeva anche Jorma Kaukonen, Jack Casady, Grace Slick e Spencer Dryden. La band è stata introdotta nella Rock and Roll Hall of Fame nel 1996."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono le canzoni più famose dei Jefferson Airplane?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le due canzoni più iconiche dei Jefferson Airplane sono White Rabbit e Somebody to Love, entrambe cantate da Grace Slick. White Rabbit è ispirata ad Alice nel Paese delle Meraviglie e fu scritta da Slick dopo aver ascoltato Sketches of Spain di Miles Davis. La band partecipò anche al Festival di Woodstock del 1969."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Che ruolo ha avuto Jefferson Airplane nella controcultura degli anni '60?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I Jefferson Airplane sono stati una delle voci più importanti della controcultura americana degli anni '60. La canzone Volunteers è diventata un inno anti-guerra del Vietnam, mentre la loro musica psichedelica ha definito il suono di San Francisco. La band ha partecipato attivamente alla lotta per i diritti civili e alle proteste contro la guerra."
+      }
+    }
+  ]
+}
+</script>
