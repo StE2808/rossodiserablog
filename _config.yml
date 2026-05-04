@@ -65,6 +65,14 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      path: "admin"
+    values:
+      sitemap: false
+  - scope:
+      path: "terrata"
+    values:
+      sitemap: false
 
 # Esclusioni
 exclude:
