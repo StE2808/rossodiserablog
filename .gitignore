@@ -27,5 +27,8 @@ admin/index.html
 _dev/
 *_report.json
 
+# Script locali (non committare)
+_local/
+
 # Claude Code documentation (internal only — anche in global gitignore)
 CLAUDE.md
