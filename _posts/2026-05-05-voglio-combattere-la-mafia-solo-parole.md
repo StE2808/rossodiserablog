@@ -1,8 +1,8 @@
 ---
 layout: post
-title: “Voglio combattere la mafia.” Solo parole.
-seo_title: 'Meloni: “Voglio combattere la mafia.” Solo parole dal governo'
-description: 'Il Procuratore antimafia Melillo certifica: le norme Nordio indeboliscono le indagini su mafia e terrorismo. Meloni urla “combatto la mafia” e poi la protegge.'
+title: "Voglio combattere la mafia." Solo parole.
+seo_title: 'Meloni: "Voglio combattere la mafia." Solo parole dal governo'
+description: 'Il Procuratore antimafia Melillo certifica: le norme Nordio indeboliscono le indagini su mafia e terrorismo. Meloni urla "combatto la mafia" e poi la protegge.'
 date: 2026-05-05 07:11:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -20,7 +20,7 @@ tags:
 image: /assets/images/uploads/IMG_7228.webp
 image_caption: Il procuratore antimafia Melillo
 image_alt: Un ritratto del procuratore antimafia Melinno durante un congresso
-excerpt: 'Il Procuratore nazionale antimafia Melillo ha scritto al governo per denunciare un grave arretramento nelle indagini contro clan e terrorismo, causato dalla riforma delle intercettazioni voluta da Nordio. Meloni che urla “voglio combattere la mafia” e poi vara norme che la proteggono: il governo dei proclami si mostra ancora una volta nella sua contraddizione più clamorosa.'
+excerpt: 'Il Procuratore nazionale antimafia Melillo ha scritto al governo per denunciare un grave arretramento nelle indagini contro clan e terrorismo, causato dalla riforma delle intercettazioni voluta da Nordio. Meloni che urla "voglio combattere la mafia" e poi vara norme che la proteggono: il governo dei proclami si mostra ancora una volta nella sua contraddizione più clamorosa.'
 focus_keyword: 'Antimafia a parole: la Meloni alla resa dei conti'
 ---
 
