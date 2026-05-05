@@ -8,7 +8,7 @@ author: lino-rialti
 category: opinioni-editoriali
 tags:
   - Gaza, Palestina, genocidio, Global Sumud Flotilla, blocco navale, diritto internazionale, IDF, Thiago Ávila, Saif Abukeshek, aiuti umanitari, crisi umanitaria, bambini palestinesi, fame a Gaza, amputazioni, OCHA, ONU, crimini di guerra, assedio, flottiglia 2026, solidarietà internazionale, Israele, occupazione, diritti umani
-image: /assets/images/uploads/IMG_7233.jpeg
+image: /assets/images/uploads/IMG_7233.webp
 image_caption: Una imbarcazione della Global Sumud Flottilla in partenza da un porto italiano
 image_alt: Una imbarcazione della Global Sumud Flottilla in partenza da un porto italiano
 excerpt: "La marina israeliana ha abbordato la Global Sumud Flotilla in acque internazionali al largo di Creta nella notte tra il 29 e il 30 aprile 2026, fermando circa 180 attivisti e sequestrando oltre 22 imbarcazioni. Due organizzatori — Thiago Ávila e Saif Abukeshek — restano tuttora detenuti. Sullo sfondo, Gaza: 72.562 morti, oltre 20.000 bambini uccisi, mezzo milione di persone in stato di carestia, Gaza prima regione al mondo per numero di bambini amputati. L'ONU parla di crimini di guerra. Il silenzio della comunità internazionale è complicità."
