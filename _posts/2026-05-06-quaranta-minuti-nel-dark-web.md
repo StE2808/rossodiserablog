@@ -3,7 +3,7 @@ layout: post
 title: "Quaranta minuti nel dark web (con un'IA come guardia del corpo)"
 seo_title: "Dark web: cosa c'è davvero dentro (lo abbiamo visitato con Claude)"
 description: "CIA, SVR russo e giornalisti usano la stessa tecnologia di Drug Hub. Abbiamo navigato il dark web 40 minuti con un container Docker e un'IA. Ecco cosa abbiamo trovato."
-date: 2026-05-06 08:00:00 +0200
+date: 2026-05-05 22:00:00 +0200
 author: stefano-vozzi
 category: scienza-tecnologia
 tags:
