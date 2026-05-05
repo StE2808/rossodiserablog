@@ -7,11 +7,20 @@ date: 2026-05-05 07:11:00 +0200
 author: lino-rialti
 category: politica-interna
 tags:
-  - antimafia · intercettazioni · Melillo · Nordio · Meloni · criminalità organizzata · governo Meloni · giustizia · legalità · colletti bianchi · Commissione antimafia · Colosimo
+  - antimafia
+  - intercettazioni
+  - Melillo
+  - Nordio
+  - Meloni
+  - criminalità organizzata
+  - governo Meloni
+  - giustizia
+  - legalità
+  - Commissione antimafia
 image: /assets/images/uploads/IMG_7228.webp
 image_caption: Il procuratore antimafia Melillo
 image_alt: Un ritratto del procuratore antimafia Melinno durante un congresso
-excerpt: 'Il Procuratore nazionale antimafia Melillo ha scritto al governo per denunciare un grave arretramento nelle indagini contro clan e terrorismo, causato dalla riforma delle intercettazioni voluta da Nordio. Meloni che urla “voglio combattere la mafia” e poi vara norme che la proteggono: il governo dei proclami si mostra ancora una volta nella sua contraddizione più clamorosa.​​​​​​​​​​​​​​​​'
+excerpt: 'Il Procuratore nazionale antimafia Melillo ha scritto al governo per denunciare un grave arretramento nelle indagini contro clan e terrorismo, causato dalla riforma delle intercettazioni voluta da Nordio. Meloni che urla “voglio combattere la mafia” e poi vara norme che la proteggono: il governo dei proclami si mostra ancora una volta nella sua contraddizione più clamorosa.'
 focus_keyword: 'Antimafia a parole: la Meloni alla resa dei conti'
 ---
 

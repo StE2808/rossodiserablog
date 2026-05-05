@@ -89,6 +89,7 @@
               echo "Nothing to commit"
             else
               git commit -m "Fix: rimuove smart quotes dal front matter"
+              git pull --rebase origin main
               git push
             fi
 
