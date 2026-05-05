@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '”Voglio combattere la mafia.” Solo parole.'
-seo_title: 'Meloni: “Voglio combattere la mafia.” Solo parole dal governo'
-description: 'Il Procuratore antimafia Melillo certifica: le norme Nordio indeboliscono le indagini su mafia e terrorismo. Meloni urla “combatto la mafia” e poi la protegge.'
+title: '"Voglio combattere la mafia." Solo parole.'
+seo_title: 'Meloni: "Voglio combattere la mafia." Solo parole dal governo'
+description: 'Il Procuratore antimafia Melillo certifica: le norme Nordio indeboliscono le indagini su mafia e terrorismo. Meloni urla "combatto la mafia" e poi la protegge.'
 date: 2026-05-05 07:11:00 +0200
 author: lino-rialti
 category: politica-interna
