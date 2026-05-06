@@ -140,24 +140,60 @@ Noi abbiamo passato quaranta minuti. Con Docker come guanto in lattice e Claude 
 
 Benvenuti su internet.
 
----
 
-## Domande frequenti sul dark web
-
-**Cos'è il dark web davvero?**
-Il dark web è una parte di internet accessibile solo tramite Tor, un software che anonimizza il traffico instradandolo attraverso tre nodi cifrati. Non è un regno del crimine: contiene siti di giornalisti, organizzazioni per la libertà di stampa, agenzie governative come la CIA, e comunità di dissidenti politici. I "sette livelli di internet" non esistono: è una leggenda urbana nata su Reddit nel 2015.
-
-**Come si naviga il dark web in sicurezza?**
-Il modo più sicuro è usare un container Docker isolato con Tor installato dentro. Tutto il traffico resta confinato nel container: se qualcosa va storto, si spegne il container e non è mai esistito. Sconsigliato installare Tor Browser direttamente sul proprio sistema operativo e navigare senza isolamento.
-
-**La CIA è davvero sul dark web?**
-Sì. La Central Intelligence Agency ha un indirizzo .onion ufficiale e lo usa per ricevere informazioni da fonti anonime. Anche l'SVR, il servizio di intelligence estera russo, ha un sito .onion per raccogliere segnalazioni dalla diaspora russa. CIA e SVR usano la stessa tecnologia di Tor che usano i mercati di droga.
-
-**Il dark web è illegale?**
-Navigare il dark web non è illegale. Tor è uno strumento legale, usato da giornalisti, ricercatori, dissidenti e agenzie governative in tutto il mondo. Sono illegali alcune attività che vi si svolgono, esattamente come su internet normale. La BBC, il Guardian e il New York Times hanno mirror .onion ufficiali.
-
-**Cos'è SecureDrop?**
-SecureDrop è un sistema open source della Freedom of the Press Foundation che permette ai whistleblower di inviare documenti riservati ai giornalisti in modo anonimo e cifrato. Conta 24 istanze attive nel mondo: Guardian, New York Times, Washington Post, Der Spiegel, Bloomberg, BBC e altri. È accessibile solo via Tor.
-
-**Perché i palestinesi non usano il dark web per comunicare?**
-Perché Israele controlla i cavi che connettono Gaza al resto del mondo e ha distrutto gran parte dell'infrastruttura di telecomunicazioni. Dal 7 ottobre 2023 ci sono stati tre blackout totali. Il dark web richiede una connessione internet: senza connessione, non esiste strumento di anonimato che funzioni. Il Guardian ha un'istanza SecureDrop in arabo attiva, ma è inutilizzabile da chi non ha accesso alla rete.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cos'è il dark web davvero?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il dark web è una parte di internet accessibile solo tramite Tor, un software che anonimizza il traffico instradandolo attraverso tre nodi cifrati. Non è un regno del crimine: contiene siti di giornalisti, organizzazioni per la libertà di stampa, agenzie governative come la CIA, e comunità di dissidenti politici. I \"sette livelli di internet\" non esistono: è una leggenda urbana nata su Reddit nel 2015."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come si naviga il dark web in sicurezza?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il modo più sicuro è usare un container Docker isolato con Tor installato dentro. Tutto il traffico resta confinato nel container: se qualcosa va storto, si spegne il container e non è mai esistito. Sconsigliato installare Tor Browser direttamente sul proprio sistema operativo e navigare senza isolamento."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La CIA è davvero sul dark web?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì. La Central Intelligence Agency ha un indirizzo .onion ufficiale e lo usa per ricevere informazioni da fonti anonime. Anche l'SVR, il servizio di intelligence estera russo, ha un sito .onion per raccogliere segnalazioni dalla diaspora russa. CIA e SVR usano la stessa tecnologia di Tor che usano i mercati di droga."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il dark web è illegale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Navigare il dark web non è illegale. Tor è uno strumento legale, usato da giornalisti, ricercatori, dissidenti e agenzie governative in tutto il mondo. Sono illegali alcune attività che vi si svolgono, esattamente come su internet normale. La BBC, il Guardian e il New York Times hanno mirror .onion ufficiali."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cos'è SecureDrop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SecureDrop è un sistema open source della Freedom of the Press Foundation che permette ai whistleblower di inviare documenti riservati ai giornalisti in modo anonimo e cifrato. Conta 24 istanze attive nel mondo: Guardian, New York Times, Washington Post, Der Spiegel, Bloomberg, BBC e altri. È accessibile solo via Tor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché i palestinesi non usano il dark web per comunicare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perché Israele controlla i cavi che connettono Gaza al resto del mondo e ha distrutto gran parte dell'infrastruttura di telecomunicazioni. Dal 7 ottobre 2023 ci sono stati tre blackout totali. Il dark web richiede una connessione internet: senza connessione, non esiste strumento di anonimato che funzioni. Il Guardian ha un'istanza SecureDrop in arabo attiva, ma è inutilizzabile da chi non ha accesso alla rete."
+      }
+    }
+  ]
+}
+</script>
