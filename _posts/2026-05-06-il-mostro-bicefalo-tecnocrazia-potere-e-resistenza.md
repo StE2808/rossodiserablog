@@ -8,7 +8,7 @@ author: lino-rialti
 category: cultura-spettacolo
 tags:
   - Asma Mhalla, Resistere ai tempi oscuri, tecnocrazia, Di-Leviatano, Roberto Saviano, BigTech, Elon Musk, Donald Trump, totalitarismo digitale, cyberdistopia, libertà cognitiva, repressione ergonomica, flussocrazia, oligarchia tecnologica, democrazia, algoritmi, Einaudi, tecnopolitica, potere digitale, resistenza​​​​​​​​​​​​​​​​
-image: /assets/images/uploads/IMG_7234.jpeg
+image: /assets/images/uploads/IMG_7234.webp
 image_caption: Il libro  Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026), il saggio con cui la politologa franco-tunisina Asma Mhalla
 image_alt: La copertina del Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026), il saggio con cui la politologa franco-tunisina Asma Mhalla
 excerpt: 'Breve saggio critico sul libro di Asma Mhalla Resistere ai tempi oscuri (Einaudi 2026), che denuncia il nuovo totalitarismo algoritmico delle BigTech. Centrale il concetto di Di-Leviatano — l’asse Trump-Musk — riletto attraverso la video-recensione di Roberto Saviano. Il potere non governa più: programma. La resistenza è atto cognitivo e politico.​​​​​​​​​​​​​​​​'
