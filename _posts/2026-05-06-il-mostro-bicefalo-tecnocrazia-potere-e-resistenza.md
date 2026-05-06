@@ -1,17 +1,31 @@
 ---
 layout: post
 title: Il mostro bicefalo. Tecnocrazia, potere e resistenza
-seo_title: 'Il mostro bicefalo: tecnocrazia, Di-Leviatano e resistenza digitale secondo Asma Mhalla e Roberto Saviano'
-description: 'Asma Mhalla in “Resistere ai tempi oscuri” svela il nuovo totalitarismo algoritmico. Saviano lo chiama Di-Leviatano: l’alleanza tra Trump e Musk che programma menti e consenso. Come resistere?'
+seo_title: "Tecnocrazia e Di-Leviatano: il mostro bicefalo di Mhalla"
+description: "Asma Mhalla svela il nuovo totalitarismo algoritmico. Saviano lo chiama Di-Leviatano: l'alleanza tra Trump e Musk che programma menti e consenso. Come resistere?"
 date: 2026-05-06 11:24:00 +0200
 author: lino-rialti
 category: cultura-spettacolo
 tags:
-  - Asma Mhalla, Resistere ai tempi oscuri, tecnocrazia, Di-Leviatano, Roberto Saviano, BigTech, Elon Musk, Donald Trump, totalitarismo digitale, cyberdistopia, libertà cognitiva, repressione ergonomica, flussocrazia, oligarchia tecnologica, democrazia, algoritmi, Einaudi, tecnopolitica, potere digitale, resistenza​​​​​​​​​​​​​​​​
+  - Asma Mhalla
+  - Resistere ai tempi oscuri
+  - tecnocrazia
+  - Di-Leviatano
+  - Roberto Saviano
+  - BigTech
+  - Elon Musk
+  - Donald Trump
+  - totalitarismo digitale
+  - cyberdistopia
+  - libertà cognitiva
+  - democrazia
+  - algoritmi
+  - tecnopolitica
+  - resistenza
 image: /assets/images/uploads/IMG_7234.webp
-image_caption: Il libro  Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026), il saggio con cui la politologa franco-tunisina Asma Mhalla
-image_alt: La copertina del Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026), il saggio con cui la politologa franco-tunisina Asma Mhalla
-excerpt: 'Breve saggio critico sul libro di Asma Mhalla Resistere ai tempi oscuri (Einaudi 2026), che denuncia il nuovo totalitarismo algoritmico delle BigTech. Centrale il concetto di Di-Leviatano — l’asse Trump-Musk — riletto attraverso la video-recensione di Roberto Saviano. Il potere non governa più: programma. La resistenza è atto cognitivo e politico.​​​​​​​​​​​​​​​​'
+image_caption: "Il libro Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026) di Asma Mhalla"
+image_alt: "La copertina di Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026) di Asma Mhalla"
+excerpt: "Breve saggio critico sul libro di Asma Mhalla Resistere ai tempi oscuri (Einaudi 2026), che denuncia il nuovo totalitarismo algoritmico delle BigTech. Centrale il concetto di Di-Leviatano — l'asse Trump-Musk — riletto attraverso la video-recensione di Roberto Saviano. Il potere non governa più: programma. La resistenza è atto cognitivo e politico."
 focus_keyword: Tecnocrazia digitale
 ---
 
