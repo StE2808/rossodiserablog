@@ -26,7 +26,7 @@ image: /assets/images/uploads/IMG_7234.webp
 image_caption: "Il libro Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026) di Asma Mhalla"
 image_alt: "La copertina di Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026) di Asma Mhalla"
 excerpt: "Breve saggio critico sul libro di Asma Mhalla Resistere ai tempi oscuri (Einaudi 2026), che denuncia il nuovo totalitarismo algoritmico delle BigTech. Centrale il concetto di Di-Leviatano — l'asse Trump-Musk — riletto attraverso la video-recensione di Roberto Saviano. Il potere non governa più: programma. La resistenza è atto cognitivo e politico."
-focus_keyword: Tecnocrazia digitale
+focus_keyword: "Asma Mhalla Di-Leviatano"
 ---
 
 Vediamo che tutto sta crollando, eppure andiamo avanti come se niente fosse.  
