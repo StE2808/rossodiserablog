@@ -18,7 +18,7 @@ tags:
   - flotilla
   - Ormuz
 focus_keyword: "file UFO Trump 2026"
-image: /assets/images/uploads/ufo.png
+image: /assets/images/uploads/ufo.webp
 image_alt: "Schermata della homepage war.gov/UFO, il portale del Dipartimento della Guerra americano dedicato ai file desecretati sugli UFO"
 excerpt: "Trump rilascia i file sugli UFO. Ma la distrazione dice tutto su quello che non vuole che tu guardi."
 ---
