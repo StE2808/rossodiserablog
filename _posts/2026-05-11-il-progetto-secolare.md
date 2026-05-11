@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7244.jpeg
 image_caption: Bertrand Russel in cattedra
 image_alt: Bertrand Russel in cattedra
-excerpt: 'Nel 1928 H.G. Wells e poi Bertrand Russell teorizzarono apertamente un mondo governato da un’élite tecnocratica, con le masse plasmate attraverso educazione, controllo psicologico e leggi selettive. Non complotti segreti, ma progetti dichiarati e pubblicati. Oggi quella visione sembra trovare compimento: disuguaglianze record, giustizia a doppio binario, nuove fattispecie penali per il dissenso popolare e impunità strutturale per i potenti. Il progetto non ha bisogno di regie occulte: si autoalimenta finché chi sta in basso continua a credere che sia normale.​​​​​​​​​​​​​​​​'
+excerpt: "Nel 1928 H.G. Wells e poi Bertrand Russell teorizzarono apertamente un mondo governato da un'élite tecnocratica, con le masse plasmate attraverso educazione, controllo psicologico e leggi selettive. Non complotti segreti, ma progetti dichiarati e pubblicati. Oggi quella visione sembra trovare compimento: disuguaglianze record, giustizia a doppio binario, nuove fattispecie penali per il dissenso popolare e impunità strutturale per i potenti. Il progetto non ha bisogno di regie occulte: si autoalimenta finché chi sta in basso continua a credere che sia normale."
 focus_keyword: élite e controllo sociale
 ---
 

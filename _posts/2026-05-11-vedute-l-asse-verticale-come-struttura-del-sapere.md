@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 'Vedute: l’asse verticale come struttura del sapere'
-seo_title: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l’asse verticale come struttura del sapere
-description: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l’asse verticale come struttura del sapere
+title: "Vedute: l'asse verticale come struttura del sapere"
+seo_title: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l'asse verticale come struttura del sapere
+description: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l'asse verticale come struttura del sapere
 date: 2026-05-11 06:43:00 +0200
 author: lino-rialti
 category: cultura-spettacolo
 tags:
   - poesia Claudia Gori Vedute asse verticale struttura del sapere raccolta poetica poesia contemporanea epistemologia poesia italiana nuova pubblicazione
 image: /assets/images/uploads/IMG_7241.webp
-image_caption: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l’asse verticale come struttura del sapere
-image_alt: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l’asse verticale come struttura del sapere
-excerpt: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l’asse verticale come struttura del sapere
+image_caption: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l'asse verticale come struttura del sapere
+image_alt: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l'asse verticale come struttura del sapere
+excerpt: Poesia - nuova pubblicazione di Claudia Gori dal titolo Vedute - l'asse verticale come struttura del sapere
 focus_keyword: poesia Claudia Gori Vedute poesia italiana
 ---
 
