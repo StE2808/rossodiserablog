@@ -2,12 +2,21 @@
 layout: post
 title: '"Da oggi non copro più nessuno": il racconto di tre anni di governo disastroso'
 seo_title: 'Meloni: "Da oggi non copro più nessuno". E prima?'
-description: "«Da oggi non copro più nessuno»: la frase di Meloni sulle dimissioni di Santanchè nasconde un''ammissione. Chi copriva prima, e perché ha smesso proprio ora?"
+description: "«Da oggi non copro più nessuno»: la frase di Meloni nasconde un'ammissione. Chi copriva prima, e perché ha smesso proprio ora?"
 date: 2026-04-01 09:40:00 +0200
 author: lino-rialti
 category: politica-interna
 tags:
-  - Giorgia Meloni, Daniela Santanchè, dimissioni Santanchè, governo Meloni, caso Santanchè, referendum giustizia 2026, crisi di governo, Andrea Delmastro, Giusi Bartolozzi, FdI, ministero del Turismo, politica italiana
+  - Giorgia Meloni
+  - Daniela Santanchè
+  - dimissioni Santanchè
+  - governo Meloni
+  - referendum giustizia 2026
+  - crisi di governo
+  - Andrea Delmastro
+  - Giusi Bartolozzi
+  - FdI
+  - politica italiana
 image: /assets/images/uploads/IMG_7141.webp
 image_caption: Meloni imbestialita scarica le due responsabilità sui suoi collaboratori
 image_alt: Meloni imbestialita, Del Mastro, Bartolozzi e Santanche' sono stati costretti alle dimissioni
@@ -17,15 +26,24 @@ focus_keyword: Da oggi non copro più nessuno
 
 La frase è scivolata fuori quasi per caso, nel turbinio dei giorni successivi alla sconfitta referendaria. «Da oggi non copro più nessuno: chi sbaglia paga», ha fatto sapere la premier Meloni  mentre chiedeva le dimissioni della ministra Santanchè. Una dichiarazione che si voleva di svolta, di nuova fermezza. Ma quell’avverbio — da oggi — è una confessione involontaria. E pesa.
 
+
+## L'avverbio che pesa: «da oggi»
+
 Se da oggi non copre più nessuno, prima li copriva. Non è un’illazione dell’opposizione: è la logica elementare della lingua italiana. Lo ha notato con chirurgica sintesi Carlo Verdelli: «E quindi fino a ieri i vari Delmastro, Bartolozzi, Santanchè potevano sbagliare senza pagare? E in nome di quale salvacondotto extra legge?»  La domanda non ha risposta ufficiale. Ma i fatti parlano.
 
-Delmastro ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della “Bisteccheria d’Italia”. Bartolozzi, capo di gabinetto di Nordio, si è dimessa nei giorni convulsi post-referendum. Santanchè reggeva il ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera.  Tutti e tre erano rimasti al proprio posto per mesi, alcuni per anni.
+
+## Tre anni di coperture: Delmastro, Bartolozzi, Santanchè
+
+Delmastro ha lasciato il ruolo di sottosegretario alla Giustizia — [lo stesso dicastero che ha proposto la riforma che indebolisce la magistratura](https://rossodiserablog.it/la-riforma-del-sistema-giudiziario-il-ponte-sullo-stretto-della-giustizia/) — dopo la bufera sulle azioni della “Bisteccheria d’Italia”. Bartolozzi, capo di gabinetto di Nordio, si è dimessa nei giorni convulsi post-referendum. Santanchè reggeva il ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera.  Tutti e tre erano rimasti al proprio posto per mesi, alcuni per anni.
 
 Il motivo della copertura è politico, elementare: la tenuta della coalizione. In un governo che assembla identità diverse, ogni dimissione forzata è una resa dei conti, un precedente. Si copre per non aprire faglie. Si copre per lealtà di corrente, si copre per equilibri interni ma anche per non alimentare gli avversari. Si copre perché, in fondo, il sistema funziona così.
 
+
+## Perché proprio ora: la sconfitta referendaria cambia i calcoli
+
 Allora perché ora non copre più? Le opposizioni non hanno dubbi: «Ci sono voluti tre anni e 14 milioni di cittadini che hanno votato no al referendum», ha detto Conte.  La sconfitta referendaria ha cambiato il calcolo. Ciò che prima era un costo accettabile — tenere in sella ministri imbarazzanti — è diventato insostenibile dopo che il Paese ha bocciato la riforma-bandiera del governo. Meloni ha bisogno di riposizionarsi, di mostrarsi al di sopra dei propri alleati, di riacquistare credibilità. Santanchè è diventata utile da sacrificare.
 
-La questione morale, insomma, non è cambiata. È cambiata la convenienza. E quando la convenienza non coincide o collima con  l’etica così grandemente, l’imbarazzo monta anche in chi ha la faccia tosta, di bronzo per non dire di peggio .​​​​​​​​​​
+[Come già visto sul fronte antimafia](https://rossodiserablog.it/voglio-combattere-la-mafia-solo-parole/), la questione morale, insomma, non è cambiata. È cambiata la convenienza. E quando la convenienza non coincide o collima con  l’etica così grandemente, l’imbarazzo monta anche in chi ha la faccia tosta, di bronzo per non dire di peggio .
 
 <script type="application/ld+json">
 {

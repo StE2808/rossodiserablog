@@ -1,15 +1,23 @@
 ---
 layout: post
 title: 'Rogoredo: la verità che il governo non voleva sentire'
-seo_title: 'Rogoredo: il poliziotto ha ucciso lo spacciatore e ha modificato la scena del crimine'
+seo_title: "Caso Rogoredo: scudo penale per un omicidio depistato"
 description: Rogoredo, un poliziotto accusato di omicidio e depistaggio. Eppure il governo lo difendeva. Il caso che smonta la propaganda sulla sicurezza.
 date: 2026-02-24 07:41:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
 tags:
-  - '#Rogoredo #Sicurezza #GiustiziaItalia #ScudoPenale #StatoDiDiritto #Polizia #Giustizia #Milano #Depistaggio #Legittimadifesa'
-  - '#Salvini #Piantedosi #Meloni #Governo #Opposizione #Destra'
-  - '#Italia #Notizie #Politica #CronacaNera #Diritti'
+  - Rogoredo
+  - sicurezza
+  - giustizia
+  - scudo penale
+  - stato di diritto
+  - Salvini
+  - Piantedosi
+  - Meloni
+  - depistaggio
+  - legittima difesa
+  - cronaca
 image: /assets/images/uploads/IMG_7110.webp
 image_caption: Il boschetto della droga di Rogoredo
 image_alt: Il boschetto della droga di Rogoredo dove il poliziotto ha ucciso con un colpo alla tempia lo spacciatore
@@ -19,9 +27,15 @@ focus_keyword: Rogoredo
 
 Il 26 gennaio, Abderrahim Mansouri, 28 anni, viene ucciso con un colpo alla tempia nel boschetto di Rogoredo dall’assistente capo Carmelo Cinturrino.
 
+
+## Il governo si schiera col poliziotto prima dei fatti
+
 Subito Salvini e Piantedosi si schierano col poliziotto: “Più legittima difesa di così. Serve la tutela legale.”
 
-Il governo usa il caso come argomento principe per inserire lo scudo penale nel decreto Sicurezza. Meloni accusa i magistrati di “doppiopesismo”. Tutta la maggioranza grida: “Io sto col poliziotto.”
+Il governo usa il caso come argomento principe per inserire lo scudo penale nel [decreto Sicurezza — la stessa riforma che ha stretto la morsa sulla magistratura](https://rossodiserablog.it/la-riforma-del-sistema-giudiziario-il-ponte-sullo-stretto-della-giustizia/). Meloni accusa i magistrati di “doppiopesismo”. Tutta la maggioranza grida: “Io sto col poliziotto.”
+
+
+## La verità: depistaggio, pistola piazzata, taglieggiamento
 
 Ora sappiamo come stanno davvero le cose.
 
@@ -31,13 +45,15 @@ Dall’inchiesta emerge che l’agente avrebbe taglieggiato sistematicamente gli
 
 Sulla pistola a salve lasciata accanto al corpo non c’è traccia di DNA della vittima: ci sono solo le impronte genetiche di Cinturrino.  Quattro colleghi sono indagati per favoreggiamento e omissione di soccorso.
 
+
+## Omicidio e corruzione: il governo che trasforma un assassino in eroe
+
 Questa non è una storia di un poliziotto che si difende. È una storia di omicidio, depistaggio e corruzione ma è anche la storia di un governo che, prima ancora che la magistratura potesse fare il suo lavoro, ha trasformato un presunto assassino in un eroe da proteggere con norme ad hoc.
 
 Lo Stato di diritto esiste proprio per questo: per fare emergere la verità, anche quando è scomoda.
 
-Difendiamo la magistratura indipendente. Difendiamo la presunzione di innocenza — per tutti, anche per le vittime.
+Difendiamo la magistratura indipendente. [Come ha dimostrato il caso antimafia](https://rossodiserablog.it/voglio-combattere-la-mafia-solo-parole/), difendiamo la presunzione di innocenza — per tutti, anche per le vittime.
 
-#Rogoredo #GiustiziaPerMansouri #ScudoPenaleNo
 
 <script type="application/ld+json">
 {

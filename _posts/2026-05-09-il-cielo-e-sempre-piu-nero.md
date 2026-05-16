@@ -47,7 +47,7 @@ Un uomo al 34% di gradimento che ti chiede di divertirti con gli alieni. Prendia
 
 Per capire perché Trump fa quello che fa, bisogna partire dagli Epstein files, quelli veri, non quelli sulle svolazzanti saucers.
 
-Jeffrey Epstein era un pedofilo miliardario con un'agenda segreta che andava ben oltre i crimini che tutti conoscono. Ex ufficiali dei servizi israeliani, a partire da Ari Ben-Menashe, hanno dichiarato pubblicamente che Epstein operava all'interno di una rete di intelligence internazionale usata per raccogliere materiale compromettente su politici, uomini d'affari e figure di potere. Un report FBI del 2020, tra gli stessi file Epstein, cita una fonte confidenziale con accuse simili. Non è una teoria del complotto: è una domanda documentata che circola nei corridoi di Washington senza trovare risposta ufficiale.
+Jeffrey Epstein era un pedofilo miliardario con un'agenda segreta che andava ben oltre i crimini che tutti conoscono. Ex ufficiali dei servizi israeliani, a partire da Ari Ben-Menashe, hanno dichiarato pubblicamente che Epstein operava all'interno di una rete di intelligence internazionale usata per raccogliere materiale compromettente su politici, uomini d'affari e figure di potere — il tipo di [progetto secolare di controllo sull'élite](https://rossodiserablog.it/il-progetto-secolare/) che raramente ottiene spazio nel dibattito pubblico. Un report FBI del 2020, tra gli stessi file Epstein, cita una fonte confidenziale con accuse simili. Non è una teoria del complotto: è una domanda documentata che circola nei corridoi di Washington senza trovare risposta ufficiale.
 
 Trump ha ordinato la pubblicazione di una parte di questi file, ma la parte più scomoda, quella che potrebbe riguardarlo, resta sepolta. E intanto si trova a sostenere una guerra voluta da Netanyahu che distrugge la sua popolarità interna e brucia l'economia occidentale.
 
@@ -61,7 +61,7 @@ Il 28 febbraio 2026 gli Stati Uniti e Israele hanno aperto una campagna di bomba
 
 Nessuna consultazione del Consiglio di Sicurezza dell'ONU. Nessun mandato internazionale. Nessun alleato europeo coinvolto nella decisione. Una guerra unilaterale preventiva condotta da due potenze nucleari contro uno stato che la bomba non ce l'aveva. Il diritto internazionale chiama questa cosa con un nome preciso. Quelli che la fanno si chiamano stati canaglia.
 
-Le conseguenze le pagano tutti. Lo stretto di Ormuz, attraverso cui passa il 20% del petrolio mondiale, è di fatto chiuso. La Dallas Federal Reserve ha calcolato 20 milioni di barili al giorno tolti dal mercato globale per ogni giorno di chiusura. Il petrolio ha toccato 126 dollari al barile il 30 aprile 2026, il massimo dal 2022. Fertilizzanti, carburanti, trasporti: l'inflazione riparte in tutto l'Occidente. Al distributore lo vedi già.
+Le conseguenze le pagano tutti. Lo stretto di Ormuz, attraverso cui passa il 20% del petrolio mondiale, è di fatto chiuso. L'impatto sui prezzi dell'energia si somma a [una crisi energetica italiana che precede la guerra](https://rossodiserablog.it/fossili-e-fumo-l-italia-paga-il-conto-di-una-guerra-che-non-doveva-scoppiare/). La Dallas Federal Reserve ha calcolato 20 milioni di barili al giorno tolti dal mercato globale per ogni giorno di chiusura. Il petrolio ha toccato 126 dollari al barile il 30 aprile 2026, il massimo dal 2022. Fertilizzanti, carburanti, trasporti: l'inflazione riparte in tutto l'Occidente. Al distributore lo vedi già.
 
 ---
 

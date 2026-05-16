@@ -1,42 +1,42 @@
 ---
 layout: post
 title: Quella grassa grossa ossessione anti-comunista
-seo_title: "Piano Demagnetize e stragi in Italia: l''ingerenza americana dagli aiuti Marshall a Piazza Fontana"
-description: "Piano Demagnetize (1952): il programma anticomunista USA che condizionò l''Italia. Collegamenti tra CIA, Gladio e le stragi di Piazza Fontana e Bologna documentati."
+seo_title: "Piano Demagnetize: CIA e Gladio nelle stragi italiane"
+description: "Il Piano Demagnetize (1952): CIA e Gladio condizionarono la democrazia italiana. 4.584 attentati, 113 morti, Piazza Fontana. Documenti declassificati."
 date: 2026-01-13 09:52:00 +0100
 author: lino-rialti
 category: inchieste-dossier
 tags:
-  - ∙  Piano Demagnetize
-  - ∙  Strategia della tensione
-  - ∙  Anni di piombo
-  - ∙  Operazione Gladio
-  - ∙  Stragi in Italia
-  - ∙  Guerra Fredda
-  - ∙  CIA Italia
-  - ∙  Piano Marshall
-  - ∙  Piazza Fontana
-  - ∙  Strage di Bologna
-  - ∙  Servizi segreti americani
-  - ∙  Neofascismo italiano
-  - ∙  SID SISMI
-  - ∙  Ordine Nuovo
-  - ∙  Avanguardia Nazionale
-  - ∙  Anticomunismo
-  - ∙  Ingerenze straniere
-  - ∙  Storia italiana
-  - ∙  Terrorismo nero
-  - ∙  Stay behind
-  - ∙  NATO Italia
-  - ∙  Democrazia Cristiana
-  - ∙  PCI
-  - ∙  Bombe anni 70
-  - ∙  Depistaggi
-  - ∙  Stragi di Stato
-  - ∙  Collegamenti CIA stragi Italia
-  - ∙  Finanziamenti USA estremismo destra
-  - ∙  Documenti declassificati Gladio
-  - ∙  Verità anni di piombo
+  - Piano Demagnetize
+  - Strategia della tensione
+  - Anni di piombo
+  - Operazione Gladio
+  - Stragi in Italia
+  - Guerra Fredda
+  - CIA Italia
+  - Piano Marshall
+  - Piazza Fontana
+  - Strage di Bologna
+  - Servizi segreti americani
+  - Neofascismo italiano
+  - SID SISMI
+  - Ordine Nuovo
+  - Avanguardia Nazionale
+  - Anticomunismo
+  - Ingerenze straniere
+  - Storia italiana
+  - Terrorismo nero
+  - Stay behind
+  - NATO Italia
+  - Democrazia Cristiana
+  - PCI
+  - Bombe anni 70
+  - Depistaggi
+  - Stragi di Stato
+  - Collegamenti CIA stragi Italia
+  - Finanziamenti USA estremismo destra
+  - Documenti declassificati Gladio
+  - Verità anni di piombo
 image: /assets/images/uploads/IMG_7036.webp
 image_caption: Manifesto di propaganda anticomunista
 image_alt: Rappresentato un manifesto di propaganda anticomunista
@@ -48,15 +48,24 @@ excerpt: |-
   Una pagina buia della nostra democrazia, dove sovranità nazionale e vite umane furono sacrificate agli equilibri della Guerra Fredda.
 focus_keyword: Piano Demagnetize CIA Italia
 ---
-Questo governo sembra ossessionato dai comunisti, li vede ovunque. Ma c’e’ un motivo storico. Siamo stati, noi italiani, soprattutto certi di noi, rieducati dagli eventi indotti dai vincitori della seconda guerra mondiale. Parliamo del piano "Demagnetize" e la [strategia della tensione](/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/): una storia di ingerenze e violenza. 
+Questo governo sembra ossessionato dai comunisti, li vede ovunque. Ma c’e’ un motivo storico. Siamo stati, noi italiani, soprattutto certi di noi, rieducati dagli eventi indotti dai vincitori della seconda guerra mondiale. Parliamo del piano "Demagnetize" e la [strategia della tensione](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/): una storia di ingerenze e violenza. 
 
 Durante la Guerra Fredda, gli Stati Uniti svilupparono il piano segreto “Demagnetize” con l’obiettivo di ridurre l’influenza dei partiti comunisti in Italia e Francia, specialmente nei sindacati. Un documento top secret americano del 1952 rivela che i governi italiano e francese non dovevano essere informati del piano, dato che interferiva chiaramente con la loro sovranità nazionale.
+
+
+## Il Piano Marshall come strumento di condizionamento
 
 Questo programma si inseriva in un contesto più ampio di dipendenza dell’Italia dagli aiuti americani. Tra il 1948 e il 1951, l’Italia ricevette 1,5 miliardi di dollari tramite il Piano Marshall, ma questi aiuti erano esplicitamente condizionati alla vittoria della Democrazia Cristiana. George Marshall dichiarò apertamente nel marzo 1948, poco prima delle elezioni italiane, che gli aiuti sarebbero cessati in caso di vittoria delle sinistre. L’Italia si trovava quindi in una posizione di forte ricatto economico e militare.
 
 Nel 1949 venne istituita Gladio, un’organizzazione segreta collegata alla CIA, formalizzata nel 1956 con un protocollo d’intesa tra CIA e SIFAR, i servizi segreti militari italiani. Documenti americani declassificati mostrano che erano pronti piani militari segreti da attivare nel caso il Fronte Popolare avesse vinto legittimamente le elezioni del 1948.
 
+
+## La strategia della tensione: 4.584 attentati, 113 morti
+
 Gli anni della strategia della tensione portarono una scia di sangue. Secondo il decreto del giudice Fiorenza Giorgi, dal 1969 al 1975 si contano 4.584 attentati, l’83% dei quali di matrice della destra eversiva, con 113 morti, di cui 50 vittime delle stragi, e 351 feriti.
+
+
+## CIA, Gladio e le stragi: le prove documentali
 
 I collegamenti tra intelligence americana e le stragi sono emersi da diverse indagini. Il capitano della CIA David Carrett aveva appreso in anticipo le date degli attentati precedenti Piazza Fontana dalla sua collaborazione con Ordine Nuovo, ma non allertò mai le autorità italiane. Secondo le testimonianze di Carlo Digilio, ordinovista veneto pentito che lavorava come tramite tra CIA e Ordine Nuovo, molti studiosi parlano di Piazza Fontana come “strage atlantica di Stato”.
 
@@ -66,7 +75,7 @@ Il rapporto tra Gladio e le stragi appare in un documento del 1972 dove di affer
 
 L’obiettivo dichiarato della strategia della tensione era instillare paura nella popolazione per facilitare la costituzione di un governo autoritario e anticomunista. Paradossalmente però, lo storico Giovanni Sabatucci ha rilevato che negli anni delle maggiori stragi, tra il 1972 e il 1976, il PCI passò dal 27% al 34,4% dei voti, e la strage di Bologna del 1980 avvenne quando l’avanzata comunista aveva già cessato di essere una minaccia.
 
-In sintesi, emerge chiaro un quadro in cui l’Italia, in cambio di aiuti economici e protezione militare, accettò una penetrante ingerenza americana che, attraverso i servizi segreti e il finanziamento dell’estremismo di destra, contribuì a una stagione di terrore che costò la vita a almeno 150 persone, nel tentativo di condizionare la democrazia italiana in senso anticomunista e che ancora ​​​​​​​​​​​​​​oggi ci portiamo dietro, una eco ridondante che trova facile applicazione negli slogan dei fautori consapevoli o inconsapevoli di questa attuale politica di governo. L’ignoranza, quando in buona fede,  indotta a suon di miliardi di dollari o il dolo per tornaconto diretto o per il mantenimento di posizione, hanno ridotto questo Parse a servo sciocco e pure povero, senza considerare gli ultimi eventi che minano persino la nostra sopravvivenza.
+In sintesi, emerge chiaro un quadro in cui l’Italia, in cambio di aiuti economici e protezione militare, accettò una penetrante ingerenza americana che, attraverso i servizi segreti e il finanziamento dell’estremismo di destra, contribuì a una stagione di terrore che costò la vita a almeno 150 persone, nel tentativo di condizionare la democrazia italiana in senso anticomunista e che ancora oggi ci portiamo dietro, una eco ridondante che trova facile applicazione negli slogan dei fautori consapevoli o inconsapevoli di questa attuale politica di governo. L’ignoranza, quando in buona fede,  indotta a suon di miliardi di dollari o il dolo per tornaconto diretto o per il mantenimento di posizione, hanno ridotto questo Parse a servo sciocco e pure povero, senza considerare gli ultimi eventi che minano persino la nostra sopravvivenza.
 
 <script type="application/ld+json">
 {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Madman Theory: da Nixon a Trump'
-seo_title: 'Quando il pazzo non recita: Trump e la Madman Theory diventata realtà'
+seo_title: 'Madman Theory: Trump non recita, Nixon si'
 description: Nixon fingeva la follia per strategia. Trump, secondo la sua ex portavoce, "è davvero così". La differenza tra recitare il pazzo e esserlo al comando.
 date: 2026-01-21 08:32:00 +0100
 author: lino-rialti
@@ -42,21 +42,27 @@ excerpt: |-
 focus_keyword: Madman Theory Nixon Trump
 ---
 
-Durante la Guerra Fredda, Richard Nixon sviluppò consapevolmente la “Madman Theory”: convincere i nemici che fosse irrazionale e imprevedibile abbastanza da usare armi nucleari. L’obiettivo era ottenere concessioni attraverso la paura calcolata.
+## Nixon e il teatro della follia
 
-Decenni dopo, Donald Trump sembra aver resuscitato questa strategia. Minacce erratiche, tweet notturni incendiiari, promesse di “fuoco e furia”: un copione già visto, apparentemente.
+Durante la Guerra Fredda, Richard Nixon sviluppò consapevolmente la "Madman Theory": convincere i nemici che fosse irrazionale e imprevedibile abbastanza da usare armi nucleari. L'obiettivo era ottenere concessioni attraverso la paura calcolata.
 
-Ma c’è una differenza cruciale.
+Decenni dopo, Donald Trump sembra aver resuscitato questa strategia. Minacce erratiche, tweet notturni incendiiari, promesse di "fuoco e furia": un copione già visto, apparentemente.
+
+## La differenza che cambia tutto
+
+Ma c'è una differenza cruciale.
 
 Nel caso di Nixon, era teatro. Una performance studiata con Kissinger per fini strategici specifici. Con Trump, secondo le stesse persone a lui vicine, non si tratta di recitazione.
 
-Come ha ammesso una sua ex portavoce in un momento di candore: “Non è una strategia. È davvero così.”
+Come ha ammesso una sua ex portavoce in un momento di candore: "Non è una strategia. È davvero così."
 
-Non è un leader razionale che finge la follia per scopi tattici. È l’imprevedibilità genuina di chi detiene un potere immenso senza i filtri della prudenza diplomatica. Nixon calcolava ogni mossa; Trump reagisce d’istinto.
+Non è un leader razionale che finge la follia per scopi tattici. È l'imprevedibilità genuina di chi detiene un potere immenso senza i filtri della prudenza diplomatica. Nixon calcolava ogni mossa; Trump reagisce d'istinto. Per capire il quadro più ampio, vale la pena leggere anche [l'analisi sulla deriva imperialista americana](https://rossodiserablog.it/la-deriva-imperialista-americana-quando-la-democrazia-cede-al-neocolonialismo/).
+
+## Quando la teoria diventa pericolo reale
 
 La differenza tra un attore che recita il folle e un folle con accesso ai codici nucleari non è sottile. È la differenza tra il rischio calcolato e il pericolo reale.
 
-Quando la Madman Theory non è più teoria ma realtà, il mondo intero diventa ostaggio non di una strategia, ma di un temperamento.
+Quando la Madman Theory non è più teoria ma realtà, il mondo intero diventa ostaggio non di una strategia, ma di un temperamento. Una prospettiva che si intreccia con [la questione morale di Trump](https://rossodiserablog.it/trump-e-il-pericolo-della-sua-morale/) e con le sue conseguenze sul diritto internazionale.
 
 <script type="application/ld+json">
 {

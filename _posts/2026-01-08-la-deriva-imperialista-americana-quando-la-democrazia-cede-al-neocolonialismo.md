@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'La deriva imperialista americana: quando la democrazia cede al neocolonialismo'
-seo_title: 'La deriva imperialista americana: quando la democrazia cede al neocolonialismo'
-description: L'amministrazione Trump vuole acquisire la Groenlandia ignorando l'85% dei cittadini contrari. Operazioni segrete, pressioni diplomatiche e interessi militari minacciano sovranità e ordine internazionale.
+seo_title: "Groenlandia: USA imperialismo e neocolonialismo nel 2026"
+description: "Il Piano Trump sulla Groenlandia: l'85% dei groenlandesi è contrario ma Washington preme con operazioni segrete. Puro neocolonialismo."
 date: 2026-01-08 07:55:00 +0100
 author: lino-rialti
 category: politica-estera
@@ -34,11 +34,17 @@ Si tratta di un attacco frontale alla sovranità democratica. Infatti la Casa Bi
 
 Leggiamo bene questi numeri: una superpotenza nucleare sta pressando per impossessarsi di un territorio i cui abitanti sono contrari per la stragrande maggioranza. Come chiamiamo questo, se non neocolonialismo del XXI secolo?
 
+
+## Operazioni segrete e manipolazione diplomatica
+
 E così partono campagne occulte e manipolazione per preparare la strada.
 
 Secondo i media danesi, cittadini statunitensi legati a Trump avrebbero condotto operazioni segrete di influenza per alimentare il movimento indipendentista groenlandese. Non è diplomazia, è destabilizzazione. Non è cooperazione, è ingerenza negli affari interni di un alleato storico.
 
 L’amministrazione americana sta inoltre spingendo per un “Accordo di libera associazione” che garantirebbe a Washington operatività militare senza restrizioni, trasformando di fatto la Groenlandia in una colonia militare mascherata da partnership.
+
+
+## Risorse, Artico e interessi geopolitici reali
 
 I veri interessi americani sono ovviamente le risorse e il dominio strategico.
 
@@ -48,17 +54,20 @@ L’Europa reagisce, finalmente unita, ma con una vocina flebile e tremolante. I
 
 La Danimarca è stata costretta a stanziare 8 miliardi di euro per potenziare la propria difesa. Un alleato NATO che deve armarsi contro le mire di un altro alleato NATO. Questa è la follia a cui siamo arrivati.
 
+
+## Un precedente devastante per l'ordine internazionale
+
 Siamo dinnanzi ad un precedente devastante.
 
 Se permettiamo che questa aggressione diplomatica abbia successo, quale messaggio inviamo al mondo? Che la forza prevale sul diritto? Che le grandi potenze possono ridisegnare i confini ignorando la volontà dei popoli? Che i trattati internazionali valgono solo finché convengono ai più forti? Tajani docet.
 
-La Russia ha usato argomentazioni simili per la Crimea. La Cina le usa per Taiwan. Ora gli Stati Uniti le ripropongono per la Groenlandia. Il sistema internazionale basato sulle regole sta collassando, e proprio coloro che lo hanno costruito lo stanno demolendo.
+La Russia ha usato argomentazioni simili per la Crimea — [proprio come accadde con l'attacco al Venezuela](https://rossodiserablog.it/venezuela-il-mondo-ha-cambiato-le-regole-mentre-dormivamo/). La Cina le usa per Taiwan. Ora gli Stati Uniti le ripropongono per la Groenlandia. Il sistema internazionale basato sulle regole sta collassando, e proprio coloro che lo hanno costruito lo stanno demolendo.
 
 È tempo di dire basta. L’Europa deve trovare il coraggio di dire chiaramente che questo comportamento è inaccettabile. Non con timide note diplomatiche, ma con azioni concrete. Non possiamo continuare a dipendere militarmente ed economicamente da un partner che tratta gli alleati come pedine di un gioco come Risiko.
 
 La Groenlandia oggi, domani chi? Le Svalbard? L’Islanda? Dove finisce questa logica predatoria?
 
-La posta in gioco non è solo un’isola nell’Artico. È il futuro dell’ordine internazionale, il rispetto della democrazia e dell’autodeterminazione, la credibilità stessa dei valori occidentali. Se restiamo in silenzio ora, non avremo più diritto di parlare quando altri faranno lo stesso.
+[La posta in gioco](https://rossodiserablog.it/lo-schiaffo-di-tucidide/) non è solo un’isola nell’Artico. È il futuro dell’ordine internazionale, il rispetto della democrazia e dell’autodeterminazione, la credibilità stessa dei valori occidentali. Se restiamo in silenzio ora, non avremo più diritto di parlare quando altri faranno lo stesso.
 
 <script type="application/ld+json">
 {

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'La riforma del sistema giudiziario: il ponte sullo stretto della Giustizia'
-seo_title: 'Referendum giustizia: la separazione delle carriere è il "ponte sullo stretto" dei magistrati'
-description: 'La riforma sulla separazione delle carriere dei magistrati promette grandi cambiamenti, ma distrae dai veri problemi della giustizia: tribunali al collasso, processi infiniti, carceri sovraffollate.'
+seo_title: 'Riforma giustizia: separazione carriere non risolve nulla'
+description: "Referendum sulla separazione delle carriere: cos'è, come funziona e perché divide la politica italiana. La riforma che ha fatto cadere il governo Meloni."
 date: 2026-01-28 11:28:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
@@ -29,17 +29,23 @@ excerpt: 'La riforma sulla separazione delle carriere dei magistrati, oggetto di
 focus_keyword: separazione carriere magistrati referendum
 ---
 
+## Un referendum simbolico
+
 Saremo chiamati a votare ad un referendum costituzionale. 
 
-Questa riforma, voluta da Berlusconi,  è il ponte sullo stretto della Giustizia: un’opera faraonica che promette di risolvere tutto, ma che in realtà serve soprattutto a distrarre l’attenzione dai problemi veri.
+Questa riforma, voluta da Berlusconi, è il ponte sullo stretto della Giustizia: un'opera faraonica che promette di risolvere tutto, ma che in realtà serve soprattutto a distrarre l'attenzione dai problemi veri.
 
 Mentre si discute se separare le carriere dei magistrati cambierà le sorti del Paese, i tribunali continuano a crollare, i processi si accumulano, le carceri esplodono, i cittadini attendono anni per un giudizio.
 
- Servirebbero più risorse, più personale, più efficienza attraverso la semplificazione delle incombenze delle fasi procedurali. Invece costruiamo cattedrali nel deserto giudiziario, lo indeboliamo e rallentiamo ulteriormente.
+## Le emergenze che non si affrontano
 
-Come per il ponte, la domanda non è se sia tecnicamente fattibile, ma se sia davvero questa la priorità. O se, semplicemente, sia più facile vendere un grande progetto simbolico che affrontare i cantieri quotidiani di una giustizia che funzioni. Intanto l’Italia cade a pezzi sotto le sferzate dei cambiamenti climatici, del malaffare e del malgoverno che ci lascia alla merce’ delle bordate dei mercati impazziti dalla imprevedibile demenza senile di Trump e dei suoi dazi e dalla politica internazionale nelle mani dell’oligarchia transnazionale MAGA.
+Servirebbero più risorse, più personale, più efficienza attraverso la semplificazione delle incombenze delle fasi procedurali. Invece costruiamo cattedrali nel deserto giudiziario, lo indeboliamo e rallentiamo ulteriormente.
 
-Un dubbio amletico assale: non è che questi non vogliano, tra l’altro, che il sistema giudiziario funzioni?
+Come per il ponte, la domanda non è se sia tecnicamente fattibile, ma se sia davvero questa la priorità. O se, semplicemente, sia più facile vendere un grande progetto simbolico che affrontare i cantieri quotidiani di una giustizia che funzioni. Intanto l'Italia cade a pezzi sotto le sferzate dei cambiamenti climatici, del malaffare e del malgoverno che ci lascia alla merce' delle bordate dei mercati impazziti dalla imprevedibile demenza senile di Trump e dei suoi dazi e dalla politica internazionale nelle mani dell'oligarchia transnazionale MAGA.
+
+## Chi non vuole che la giustizia funzioni
+
+Un dubbio amletico assale: non è che questi non vogliano, tra l'altro, che il sistema giudiziario funzioni? La stessa logica che [voglio combattere la mafia solo a parole](https://rossodiserablog.it/voglio-combattere-la-mafia-solo-parole/) racconta: grandi dichiarazioni, nessuna riforma strutturale che intacchi davvero il potere. E non sorprende che la riforma venga spinta proprio da chi ha storicamente [più interesse a indebolire la magistratura](https://rossodiserablog.it/quando-lo-stato-diventa-un-bancomat-la-teoria-del-racket-spiegata-senza-giri-di-parole/).
 
 Vota NO.
 

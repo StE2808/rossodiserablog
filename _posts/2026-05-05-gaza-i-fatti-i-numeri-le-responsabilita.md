@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Gaza: i fatti, i numeri, le responsabilità'
-seo_title: "Gaza 2026: flottiglia abbordato, 72mila morti, fame come crimine"
-description: 'Gaza: fatti, numeri, responsabilità. La flottiglia Global Sumud abbordato in acque internazionali, due attivisti ancora detenuti, 72.562 palestinesi uccisi, 20.000 bambini morti, mezzo milione affamati. Il silenzio è complicità.'
+seo_title: "Gaza 2026: 72mila morti, fame come crimine di guerra"
+description: "Flottiglia abbordato in acque internazionali, due attivisti detenuti. Gaza: 72.562 morti, 20.000 bambini, mezzo milione affamati. Il silenzio è complicità."
 date: 2026-05-05 16:30:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
@@ -29,6 +29,8 @@ excerpt: "La marina israeliana ha abbordato la Global Sumud Flotilla in acque in
 focus_keyword: Gaza genocidio 2026
 ---
 
+## La flottiglia abbordato in acque internazionali
+
 Notte tra il 29 e il 30 aprile 2026. La marina militare israeliana attacca e abborda le imbarcazioni della Global Sumud Flotilla in acque internazionali, sequestrandone oltre 22 e fermando circa 180 persone.  L’intercettazione avviene al largo di Creta, a centinaia di miglia nautiche da Israele e dalla sua giurisdizione.  Partecipanti riferiscono di essere stati presi a pugni, calci, trascinati sul pavimento con le mani legate; 34 risultano feriti. Sessanta attivisti avviano uno sciopero della fame. 
 
 La maggior parte degli attivisti è stata rilasciata. Due restano detenuti: Thiago Ávila, cittadino brasiliano, e Saif Abukeshek, con doppia cittadinanza palestinese e spagnola.  Il 4 maggio la procura di Roma ha aperto un fascicolo per sequestro di persona. 
@@ -37,7 +39,9 @@ Questo è lo sfondo. Dietro c’è Gaza. Tra il 7 ottobre 2023 e il 22 aprile 20
 
 Gaza è oggi la regione con il più alto numero di bambini amputati al mondo. Oltre 40.000 bambini hanno riportato lesioni permanenti.  Migliaia di loro hanno perso una o entrambe le gambe subendo operazioni senza anestesia, secondo l’UNICEF.  Un rapporto ONU ha definito la fame come «crimine di guerra», documentando almeno 463 morti per fame tra cui 157 bambini.  Lo stesso rapporto riconosce che le condizioni imposte ai palestinesi appaiono «sempre più incompatibili con la loro esistenza» come gruppo. 
 
-Una flottiglia civile e disarmata viene abbordato in alto mare. Due attivisti sono in carcere. E intanto Gaza brucia — con i numeri, i nomi, i corpi. Documentati. Verificati. Ignorati. Il senso di impunità è totale: andare a sequestrare imbarcazioni sotto bandiera di Paesi alleati in acque internazionali significa essere certi che nessuno farà niente per impedirlo. 
+## Il silenzio è complicità
+
+Una flottiglia civile e disarmata viene abbordato in alto mare. Due attivisti sono in carcere. E intanto Gaza brucia — con i numeri, i nomi, i corpi. Documentati. Verificati. Ignorati. Il senso di impunità è totale: andare a sequestrare imbarcazioni sotto bandiera di Paesi alleati in acque internazionali significa essere certi che nessuno farà niente per impedirlo. Il [doppio standard su Iran e Palestina](https://rossodiserablog.it/la-fiamma-della-resistenza-due-pesi-due-misure/) ha radici profonde. 
 
 Questo è il momento in cui il silenzio diventa complicità. Bisogna muoversi — nelle piazze, nei parlamenti, nelle coscienze. Chiedere la liberazione immediata di Ávila e Abukeshek. Chiedere la fine dell’assedio. Chiedere che l’Europa sospenda l’Accordo di Associazione con Israele. La storia non dimentica chi ha visto e taciuto.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La sindrome del nemico interno: quando la democrazia teme i suoi figli'
-seo_title: 'Sindrome del nemico interno: quando la democrazia reprime il dissenso'
+seo_title: 'Sindrome del nemico interno: democrazia reprime il dissenso'
 description: 'Da Pisa a Washington, le democrazie scoprono il nemico in casa. Studenti, attivisti, giudici: quando il dissenso diventa malattia.'
 date: 2026-01-16 10:03:00 +0100
 author: stefano-vozzi
@@ -35,7 +35,7 @@ Non siamo soli. In Francia, a Sainte-Soline, trentamila manifestanti contro un m
 
 Nel Regno Unito, il Public Order Act 2023 punisce chi si incatena con quasi un anno di carcere. Le Serious Disruption Prevention Orders possono vietarti di manifestare anche senza aver commesso reati. Una ragazza rischia cinque anni per aver partecipato a una Zoom call.
 
-E Trump? Nell'ottobre 2024 ha chiamato i democratici "enemy from within" — più pericolosi di Cina e Russia. Ha proposto la Guardia Nazionale contro di loro. McCarthismo, solo che stavolta il nemico è chiunque dissenta.
+E Trump? Nell'ottobre 2024 ha chiamato i democratici "enemy from within" — più pericolosi di Cina e Russia. Ha proposto la Guardia Nazionale contro di loro. McCarthismo, solo che stavolta il nemico è chiunque dissenta. Non è un caso isolato: è la stessa logica raccontata ne [il capro espiatorio perfetto](https://rossodiserablog.it/il-capro-espiatorio-perfetto/), dove basta un'etichetta per trasformare un ragazzo in un nemico pubblico.
 
 ---
 
@@ -71,7 +71,7 @@ La prossima volta che leggete di "professionisti del dissenso" o di "estremisti"
 
 Spesso chiedono cose che, dette in un salotto, sembrerebbero ragionevoli: aria più pulita, politiche climatiche serie, che la polizia non manganelli i minorenni. Cose che, a cena con gli amici e col vino buono, sottoscriveremmo tutti.
 
-Forse il problema non è il messaggio. Forse il problema è che qualcuno ha deciso che certi messaggi, per quanto ragionevoli, non devono più essere pronunciati ad alta voce.
+Forse il problema non è il messaggio. Forse il problema è che qualcuno ha deciso che certi messaggi, per quanto ragionevoli, non devono più essere pronunciati ad alta voce. È la stessa [paura che è più facile della speranza](https://rossodiserablog.it/la-paura-e-piu-facile-della-speranza/): l'ansia del potere davanti a chi non si rassegna.
 
 E se questo è vero, allora la domanda iniziale — "la democrazia sta bene?" — ha una risposta. No, non sta benissimo. Ha la sindrome del nemico interno, e la febbre sale.
 

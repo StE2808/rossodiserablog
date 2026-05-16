@@ -42,7 +42,7 @@ tags:
 
 9. **L'indulgenza per chi si espone alla vita pubblica è sacrosanta, ma vale per tutti.** Vale per il politico che sbaglia una parola, vale per il precario che sbaglia un turno, vale per la donna che denuncia e non viene creduta. L'indulgenza selettiva verso l'élite non è tolleranza, è privilegio.
 
-10. **La depoliticizzazione dell'esistenza ci sta uccidendo.** Chi oggi dice "non occuparti di politica, occupati di te stesso" sta facendo politica, la politica di chi vince finché gli altri guardano altrove. La vita intima e la vita pubblica non sono separabili: chi ti vuole isolato ti vuole più debole.
+10. **La depoliticizzazione dell'esistenza ci sta uccidendo.** Chi oggi dice "non occuparti di politica, occupati di te stesso" sta facendo politica — è la stessa logica che alimenta [la sindrome del nemico interno](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/) —, la politica di chi vince finché gli altri guardano altrove. La vita intima e la vita pubblica non sono separabili: chi ti vuole isolato ti vuole più debole.
 
 11. **La caduta di un avversario non si celebra, ma le responsabilità si accertano.** C'è differenza tra il linciaggio e la giustizia. Chi ha costruito fortune evadendo le tasse, sfruttando lavoratori, manipolando informazioni non merita la nostra compassione preventiva: merita un processo.
 
@@ -54,7 +54,7 @@ tags:
 
 15. **Il riarmo di Germania e Giappone non è una correzione, è un rischio.** Ogni generazione che cresce senza aver visto una guerra tende a sottovalutarla. Spiegare che l'Europa disarmata è stata un errore è esattamente il tipo di pensiero che prepara il prossimo errore, molto più grande.
 
-16. **Sosteniamo chi costruisce, sì, ma distinguiamo chi costruisce da chi estrae.** Musk non ha inventato l'auto elettrica: ha catturato sussidi pubblici, comprato aziende altrui, sfruttato la ricerca finanziata dagli Stati. Confondere l'imprenditore con il rentier è il trucco ideologico del nostro tempo, la stessa operazione culturale analizzata quando abbiamo scritto di [Trump e Musk costruttori di un nuovo stato autoritario](/trump-e-musk-costruttori-di-un-nuovo-stato-autoritario-tecno/).
+16. **Sosteniamo chi costruisce, sì, ma distinguiamo chi costruisce da chi estrae.** Musk non ha inventato l'auto elettrica: ha catturato sussidi pubblici, comprato aziende altrui, sfruttato la ricerca finanziata dagli Stati. Confondere l'imprenditore con il rentier è il trucco ideologico del nostro tempo, la stessa operazione culturale analizzata nel nostro pezzo sul [Di-Leviatano, l'alleanza tra Big Tech e potere politico](https://rossodiserablog.it/il-mostro-bicefalo-tecnocrazia-potere-e-resistenza/).
 
 17. **La Silicon Valley deve contribuire al bene pubblico, cominciando dalle tasse.** Prima di indicare la criminalità violenta come problema, paghino quanto dovuto. Scuole, polizia, servizi sociali si finanziano con il gettito fiscale. Non con la filantropia, che è potere mascherato da generosità.
 

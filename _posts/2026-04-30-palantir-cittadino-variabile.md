@@ -53,7 +53,7 @@ Il salto, invisibile, avviene quando il sistema smette di analizzare il presente
 
 ## La parte che fa più paura non è il controllo
 
-Il controllo, in fondo, è visibile. Lo vedi, ti opponi, organizzi una marcia, scrivi un articolo. È l'attrito sano fra cittadino e potere, esiste da quando esiste lo Stato.
+Il controllo, in fondo, è visibile. Lo vedi, ti opponi, organizzi una marcia, scrivi un articolo. È l'attrito sano fra cittadino e potere, esiste da quando esiste lo Stato. Ma quando la dissidenza è già prevista e catalogata dal sistema, cambia qualcosa — come raccontato in [La sindrome del nemico interno](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/).
 
 Il vero rischio è un altro, più sottile: **l'adattamento**. Il momento in cui cominci a comportarti come è più facile essere interpretato. Eviti la deviazione non perché è sbagliata, ma perché è "rumore". Smussi gli spigoli prima ancora che qualcuno te lo chieda. Diventi prevedibile per default, perché è il modo più comodo di stare al mondo quando il mondo ti legge in tempo reale.
 

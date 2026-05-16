@@ -27,7 +27,7 @@ Ecco. Fine. Potrei chiudere qui l'articolo e avrei già detto tutto.
 
 Ma siccome sono fatto così, non resisto alla tentazione di scavare un po' più a fondo.
 
-**Il ribaltamento**
+## Il ribaltamento
 
 La forza di questa immagine sta nel ribaltamento. Prendi un comportamento che celebriamo quotidianamente — l'accumulo, il successo, il "self-made man" — e lo rimetti nel contesto biologico da cui veniamo. Da primati. Da animali sociali che per milioni di anni hanno condiviso risorse per sopravvivere.
 
@@ -37,7 +37,7 @@ Perché è vero: in natura, l'accumulo compulsivo oltre il bisogno è un segnale
 
 Noi invece gli dedichiamo classifiche, interviste, biografie. Gli chiediamo il segreto del successo. Lo invitiamo ai talk show.
 
-**La fisica della redistribuzione**
+## La fisica della redistribuzione
 
 Ma c'è qualcosa di più profondo. Qualcosa che va oltre la sociologia e tocca le leggi stesse dell'universo.
 
@@ -53,15 +53,15 @@ Un osservatore esterno — un alieno, un'intelligenza artificiale, un dio annoia
 
 E si chiederebbe: perché?
 
-**La risposta che non regge**
+## La risposta che non regge
 
 La risposta non può essere "perché è giusto" — l'universo non conosce giustizia, conosce solo equilibrio.
 
 La risposta non può essere "perché funziona" — funziona per chi? Per l'uno percento? Per la scimmia con tutte le banane? Certo che per lei funziona. Ma il sistema nel suo complesso spreca energia mostruosa per mantenere un equilibrio instabile.
 
-La risposta non può essere "perché è naturale" — e qui torniamo alla citazione iniziale. Non c'è niente di naturale nell'accumulo patologico. È l'esatto contrario: è uno sforzo titanico contro natura.
+La risposta non può essere "perché è naturale" — e qui torniamo alla citazione iniziale. Non c'è niente di naturale nell'accumulo patologico. È l'esatto contrario: è uno sforzo titanico contro natura. Un meccanismo che [l'aporofobia istituzionalizzata](https://rossodiserablog.it/aporofobia-quando-la-poverta-diventa-colpa/) rende invisibile ai più.
 
-**L'acqua trova il suo livello**
+## L'acqua trova il suo livello
 
 Forse il criterio per valutare un sistema economico dovrebbe essere proprio questo: quanta energia spreca per mantenere disuguaglianze artificiali?
 
@@ -73,7 +73,7 @@ I muri crollano. Prima o poi, crollano sempre. L'acqua trova il suo livello. Le 
 
 È solo questione di quanto tempo e quanta energia vogliamo sprecare per ritardare l'inevitabile.
 
-**Epilogo con scimmia**
+## Epilogo con scimmia
 
 E la nostra scimmia sulla copertina di Forbes? Quella con il magazzino pieno di banane che marciscono mentre le altre hanno fame?
 
@@ -81,7 +81,7 @@ I biologi direbbero che è un caso interessante. Un'anomalia comportamentale pro
 
 Direbbero che ha bisogno di aiuto.
 
-E forse, in fondo, avrebbero ragione anche per le versioni umane di quella scimmia. Forse l'accumulo patologico è davvero una malattia. Forse chi non riesce a smettere di accumulare anche quando ha già più di quanto potrebbe consumare in mille vite ha davvero bisogno di qualcuno che lo prenda per mano.
+E forse, in fondo, avrebbero ragione anche per le versioni umane di quella scimmia. Versioni che [il progetto delle élite](https://rossodiserablog.it/il-progetto-secolare/) ha trasformato in modelli da imitare. Forse l'accumulo patologico è davvero una malattia. Forse chi non riesce a smettere di accumulare anche quando ha già più di quanto potrebbe consumare in mille vite ha davvero bisogno di qualcuno che lo prenda per mano.
 
 Ma invece di aiutarlo, lo mettiamo in copertina.
 

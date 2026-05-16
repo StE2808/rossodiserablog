@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '"Voglio combattere la mafia." Solo parole.'
-seo_title: 'Meloni: "Voglio combattere la mafia." Solo parole dal governo'
-description: 'Il Procuratore antimafia Melillo certifica: le norme Nordio indeboliscono le indagini su mafia e terrorismo. Meloni urla "combatto la mafia" e poi la protegge.'
+seo_title: 'Meloni, la mafia e la riforma Nordio: solo proclami'
+description: 'Il Procuratore antimafia Melillo certifica: le norme Nordio indeboliscono le indagini su mafia e terrorismo. Meloni urla di combatterla e poi la protegge.'
 date: 2026-05-05 07:11:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -24,9 +24,15 @@ excerpt: 'Il Procuratore nazionale antimafia Melillo ha scritto al governo per d
 focus_keyword: 'Antimafia a parole: la Meloni alla resa dei conti'
 ---
 
+## I proclami di Atreju
+
+[Il caso si inserisce nel contesto della riforma della magistratura](https://rossodiserablog.it/la-riforma-del-sistema-giudiziario-il-ponte-sullo-stretto-della-giustizia/) che indebolisce gli strumenti di indagine. E ricorda [quanto il governo copra e poi scoperchi](https://rossodiserablog.it/da-oggi-non-copro-piu-nessuno-il-racconto-racconto-tre-anni-di-governo-disastroso/) a seconda della convenienza.
+
 Ad Atreju, davanti alla sua platea osannante, Giorgia Meloni aveva scandito: “Io voglio combattere la mafia, e chiedo a tutto lo Stato italiano e alle persone perbene di aiutarmi a combattere la mafia.”  Applausi. Emozione. Falcone e Borsellino evocati come scudi retorici.
 
 Poi è arrivata la realtà a presentare il conto.
+
+## La lettera di Melillo: una certificazione tecnica
 
 Il Procuratore nazionale antimafia Giovanni Melillo ha scritto ai ministri Nordio e Piantedosi e alla presidente della Commissione antimafia Colosimo per denunciare che l’effetto della riforma sulle intercettazioni “si è rivelato oltremodo grave e allarmante, in ragione dell’obiettivo arretramento della linea di efficacia delle investigazioni in materia di criminalità organizzata e terrorismo.”  
 
@@ -35,6 +41,8 @@ Non un’opinione politica. Una certificazione tecnica firmata dalla massima aut
 Il paradosso è feroce: con le nuove norme restano immuni dall’utilizzo delle intercettazioni incrociate tutti o quasi tutti i reati dei “colletti bianchi” che collaborano con le organizzazioni criminali.  Le mafie del terzo millennio, quelle che non portano più la lupara ma indossano giacca e cravatta, infiltrano la pubblica amministrazione, riciclano denaro, vengono così protette proprio dallo Stato che dice di combatterle.
 
 Come se non bastasse, la lettera è del 20 aprile scorso, e la presidente Colosimo non ne ha dato notizia alla commissione  per giorni. Un silenzio che sa di complicità istituzionale.
+
+## Il governo che smonta gli strumenti antimafia
 
 Questo è il governo dei proclami. Quello che urla “combatto la mafia fin da ragazzina” e poi vara norme che, e sono parole di Melillo, producono un “complessivo e progressivamente sempre più grave indebolimento degli sforzi di contrasto dei più pericolosi fenomeni criminali.” 
 
@@ -50,7 +58,9 @@ I morti di mafia si commemorano. Gli strumenti per combatterla, invece, si smont
       "name": "Cosa ha denunciato il Procuratore antimafia Melillo sulla riforma delle intercettazioni?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il Procuratore nazionale antimafia Giovanni Melillo ha scritto ai ministri Nordio e Piantedosi per denunciare che la riforma sulle intercettazioni ha prodotto un \"obiettivo arretramento della linea di efficacia delle investigazioni in materia di criminalità organizzata e terrorismo\". Secondo Melillo, le nuove norme rendono immuni dall'utilizzo delle intercettazioni incrociate quasi tutti i reati dei \"colletti bianchi\" che collaborano con le organizzazioni criminali."
+        "text": "## La lettera di Melillo: una certificazione tecnica
+
+Il Procuratore nazionale antimafia Giovanni Melillo ha scritto ai ministri Nordio e Piantedosi per denunciare che la riforma sulle intercettazioni ha prodotto un \"obiettivo arretramento della linea di efficacia delle investigazioni in materia di criminalità organizzata e terrorismo\". Secondo Melillo, le nuove norme rendono immuni dall'utilizzo delle intercettazioni incrociate quasi tutti i reati dei \"colletti bianchi\" che collaborano con le organizzazioni criminali."
       }
     },
     {

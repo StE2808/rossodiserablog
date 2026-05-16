@@ -2,7 +2,7 @@
 layout: post
 title: Il mostro bicefalo. Tecnocrazia, potere e resistenza
 seo_title: "Tecnocrazia e Di-Leviatano: il mostro bicefalo di Mhalla"
-description: "Asma Mhalla svela il nuovo totalitarismo algoritmico. Saviano lo chiama Di-Leviatano: l'alleanza tra Trump e Musk che programma menti e consenso. Come resistere?"
+description: "Asma Mhalla svela il totalitarismo algoritmico. Saviano lo chiama Di-Leviatano: Trump e Musk programmano consenso. Il potere non governa: programma."
 date: 2026-05-06 11:24:00 +0200
 author: lino-rialti
 category: cultura-spettacolo
@@ -29,6 +29,8 @@ excerpt: "Breve saggio critico sul libro di Asma Mhalla Resistere ai tempi oscur
 focus_keyword: "Asma Mhalla Di-Leviatano"
 ---
 
+## Il nuovo sistema totalitario algoritmico
+
 Vediamo che tutto sta crollando, eppure andiamo avanti come se niente fosse.  
 
 Con questa affermazione scomoda si apre Resistere ai tempi oscuri. Il nuovo sistema totalitario (Einaudi, 2026), il saggio con cui la politologa franco-tunisina Asma Mhalla radiografa il nuovo regime che ci abita senza che lo riconosciamo.
@@ -37,9 +39,13 @@ Non è una semplice crisi della democrazia: è lo smottamento verso un sistema s
 
 È la cyberdistopia: un mondo in cui la quotidianità stessa è una forma di dominio e la sensazione di impotenza diventa la norma. 
 
-Il totalitarismo ha cambiato forma. Non ha più divise né campi: controlla corpi e menti attraverso gli algoritmi.  Roberto Saviano, nel suo video Cos’è cambiato dopo l’attentato a Trump? Sulla tecnocrazia di Asma Mhalla (YouTube, 29 aprile 2026), chiama questo potere il Di-Leviatano: l’alleanza definitiva tra la politica di Trump e l’impero tecnologico di Elon Musk.  Il mostro è bicefalo. Le sue punte di diamante sono una tecnodestra neoreazionaria, elitaria e antidemocratica.  
+## Il Di-Leviatano: Trump, Musk e il mostro bicefalo
+
+Il totalitarismo ha cambiato forma. Non ha più divise né campi: controlla corpi e menti attraverso gli algoritmi.  Roberto Saviano, nel suo video Cos’è cambiato dopo l’attentato a Trump? Sulla tecnocrazia di Asma Mhalla (YouTube, 29 aprile 2026), chiama questo potere il Di-Leviatano: l’alleanza definitiva tra la politica di Trump e l’impero tecnologico di Elon Musk.  Il mostro è bicefalo. Le sue punte di diamante sono una tecnodestra neoreazionaria, elitaria e antidemocratica — la stessa [élite che costruisce consenso attraverso il controllo sociale](https://rossodiserablog.it/il-progetto-secolare/).  
 
 Lo paghiamo ogni giorno con la nostra attenzione, i nostri dati, la nostra capacità di pensiero autonomo.
+
+## Come resistere alla cyberdistopia
 
 Resistere non è nostalgia. È l’atto minimo di chi vuole ancora pensare con la propria testa. Meno ore sui social, molte di più da dedicare all’attivismo, alla socialità, alla solidarietà.
 

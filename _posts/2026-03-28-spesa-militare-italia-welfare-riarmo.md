@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Armi o ospedali: dove finiscono i soldi dell''Europa"
-seo_title: 'Spesa militare Italia 2026: chi paga il conto del riarmo europeo?'
+seo_title: "Armi o ospedali: la spesa militare 2026 taglia il welfare"
 description: "34 miliardi per le armi, ospedali al minimo. L''Italia riarma mentre taglia welfare e sanità. I numeri che nessuno vuole guardare."
 date: 2026-03-28 00:00:00 +0100
 author: stefano-vozzi
@@ -45,7 +45,7 @@ In Italia la spesa sanitaria in rapporto al PIL resta tra le più basse d'Europa
 
 Mentre gli ospedali arrancano, l'industria delle armi festeggia. Le prime quindici aziende di armi italiane hanno raddoppiato gli utili tra il 2021 e il 2024: 876 milioni di euro di extraprofitti, secondo [Greenpeace Italia](https://www.greenpeace.org/italy/). La sola Leonardo, nei primi nove mesi del 2025, ha registrato ricavi per 13,4 miliardi (+12,4%), con ordini che volano a 18,1 miliardi. Il suo maggiore azionista è il Ministero dell'Economia.
 
-Leggiamo bene: lo Stato italiano è azionista di maggioranza dell'azienda che più beneficia delle scelte di spesa dello Stato italiano. Non serve essere complottisti per vedere il conflitto d'interessi: basta saper leggere un bilancio. L'[Osservatorio Mil€x](https://www.milex.org) documenta questa spirale con precisione da anni, eppure i dati restano fuori dal dibattito pubblico.
+Leggiamo bene: lo Stato italiano è azionista di maggioranza dell'azienda che più beneficia delle scelte di spesa dello Stato italiano. Non serve essere complottisti per vedere il conflitto d'interessi: basta saper leggere un bilancio. L'[Osservatorio Mil€x](https://www.milex.org) documenta questa spirale con precisione da anni — la stessa [logica di potere che il caso Amodei-Pentagono ha reso visibile](https://rossodiserablog.it/amodei-pentagono-etica-intelligenza-artificiale/) —, eppure i dati restano fuori dal dibattito pubblico.
 
 Nel frattempo, l'industria degli armamenti ha aumentato del 40% il budget per il lobbying tra il 2022 e il 2023. I lobbisti delle armi hanno incontrato la Commissione europea 89 volte nel solo 2025 per discutere di riarmo. Sindacati, ONG, scienziati? Quindici volte.
 
@@ -55,7 +55,7 @@ Qualcuno dirà: la Russia è alle porte, l'America non è più affidabile, l'Eur
 
 Ma difendersi non significa accettare che ogni euro in più per la difesa sia un euro in meno per la vita delle persone. Questa equazione non è inevitabile: è il risultato di un sistema che considera la spesa sociale un lusso e quella militare un investimento. Un ospedale che chiude non è un "effetto collaterale" del riarmo: è il riarmo stesso, pagato con la salute di chi non può permettersi il privato.
 
-Una società che sa costruire missili ma non riesce a tenere aperti gli ospedali non è più sicura. È solo più armata. E una società più armata, lo insegna la storia, è quasi sempre una società più pericolosa — per gli altri e per se stessa.
+Una società che sa costruire missili ma non riesce a tenere aperti gli ospedali — come [quella che sta pagando la crisi energetica generata dalla guerra](https://rossodiserablog.it/fossili-e-fumo-l-italia-paga-il-conto-di-una-guerra-che-non-doveva-scoppiare/) — non è più sicura. È solo più armata. E una società più armata, lo insegna la storia, è quasi sempre una società più pericolosa — per gli altri e per se stessa.
 
 I soldi sono quelli. La domanda non è tecnica: è politica. Per chi li spendiamo? Per i missili di Leonardo o per l'ospedale sotto casa che non riesce a tenere aperto il pronto soccorso?
 

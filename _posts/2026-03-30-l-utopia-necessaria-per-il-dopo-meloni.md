@@ -1,13 +1,18 @@
 ---
 layout: post
 title: L'utopia necessaria per il dopo-Meloni
-seo_title: 'Utopia politica e crisi governo Meloni: perché sognare è necessario'
-description: 'Dal "non-luogo" di Tommaso Moro a Camus: perché senza utopia non c''è futuro. E perché la crisi del governo Meloni può restituirci il coraggio di sognare.'
+seo_title: "Crisi Meloni: perché sognare è politicamente necessario"
+description: "Dal 'non-luogo' di Tommaso Moro a Camus: perché senza utopia non c'è futuro. E perché la crisi del governo Meloni può restituirci il coraggio di sognare."
 date: 2026-03-30 09:20:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:
-  - Tommaso Moro Albert Camus Giorgia Meloni
+  - Tommaso Moro
+  - Albert Camus
+  - Giorgia Meloni
+  - utopia
+  - crisi governo
+  - speranza politica
 image: /assets/images/uploads/IMG_7135.webp
 image_caption: Giorgia Meloni in crisi
 image_alt: Giorgia Meloni in Parlamento sbuffa e incrocia le braccia scoraggiata
@@ -15,25 +20,34 @@ excerpt: 'Il termine utopia, coniato da Tommaso Moro nel 1516, significa insieme
 focus_keyword: Crisi governo Meloni
 ---
 
+
+## L'utopia di Tommaso Moro: costruire l'impossibile
+
 Il termine utopia nasce dai fini ragionamenti di Tommaso Moro, che nel 1516 pubblicò il suo celebre trattato immaginando un’isola ideale governata dalla ragione e dalla giustizia.
 
 Il nome è un termine greco volutamente ambiguo: ou-topos, “il luogo che non esiste”, ma anche — nella variante eu-topos — “il luogo felice”.
 
 Moro sapeva bene che stava costruendo un’impossibilità, eppure la costruì con la precisione di un architetto. Perché l’utopia non è l’ingenuità di chi non conosce il mondo: è la lucidità di chi lo conosce troppo bene e rifiuta di accettarlo come definitivo.
 
+
+## Camus e il paradosso: soyez réalistes, demandez l'impossible
+
 Albert Camus, in quello che è diventato uno dei gridi più fraintesi del Novecento — soyez réalistes, demandez l’impossible — rovesciava la logica del pragmatismo politico con un paradosso che è in realtà una diagnosi. Il realismo puro, senza tensione verso ciò che non esiste ancora, non è saggezza: è rassegnazione travestita da maturità.
 
 Chiedere l’impossibile non significa ignorare i vincoli del reale; significa rifiutare che quei vincoli siano eterni.
+
+
+## Il vuoto politico come possibilità
 
 Oggi, nell’Italia in cui il governo Meloni — già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura — vede la propria coalizione sgretolarsi pezzo dopo pezzo, si apre uno di quei momenti rari in cui il vuoto politico non è solo crisi, ma anche possibilità.
 
 Le implosioni di governo non sono mai soltanto macerie: sono, se si ha il coraggio di guardarle così, spazi liberati. Terreni su cui qualcosa di nuovo può, in linea di principio, provare a radicarsi.
 
-Ma perché ciò accada, occorre che i cittadini tornino a desiderare. L’assenza di utopia non produce stabilità: produce apatia. E l’apatia è il miglior alleato di chi al potere vuole restarci comunque, attraverso qualsiasi forma, anche ridotta, anche delegittimata.
+Ma perché ciò accada, occorre che i cittadini tornino a desiderare. L’assenza di utopia non produce stabilità: produce apatia — [la stessa paura che la destra sa sfruttare](https://rossodiserablog.it/la-paura-e-piu-facile-della-speranza/). E l’apatia è il miglior alleato di chi al potere vuole restarci comunque, attraverso qualsiasi forma, anche ridotta, anche delegittimata.
 
 Senza la capacità di immaginare un ordine diverso — più giusto, più aperto, più degno — non si vota e non si partecipa. Si subisce.
 
-L’utopia non è un programma di governo. È la condizione preliminare perché un programma valga la pena di essere scritto. È la domanda che precede tutte le risposte. E in un paese che ha smesso da troppo tempo di farsi domande grandi, forse la crisi che si avvicina potrebbe, paradossalmente, restituire quella domanda ai suoi cittadini.
+L’utopia non è un programma di governo — ma è la condizione che [il progetto secolare delle élite](https://rossodiserablog.it/il-progetto-secolare/) ha tentato di spegnere. È la condizione preliminare perché un programma valga la pena di essere scritto. È la domanda che precede tutte le risposte. E in un paese che ha smesso da troppo tempo di farsi domande grandi, forse la crisi che si avvicina potrebbe, paradossalmente, restituire quella domanda ai suoi cittadini.
 
 Ou-topos: il luogo che non esiste ancora. Ma che, proprio per questo, è ancora possibile.
 

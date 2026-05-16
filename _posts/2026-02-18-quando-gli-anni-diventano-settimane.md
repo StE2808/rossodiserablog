@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quando gli anni diventano settimane"
-seo_title: "Quando gli anni diventano settimane: l'AI che accelera sé stessa"
+seo_title: "Intelligenza artificiale e ricerca: anni in settimane"
 date: 2026-02-18T12:00:00+01:00
 author: stefano-vozzi
 category: scienza-tecnologia
@@ -51,13 +51,13 @@ Fermiamoci un secondo su questa frase.
 
 I ricercatori lo chiamano recursive self-improvement. Ogni ciclo di miglioramento accelera il successivo. Non di poco, potenzialmente di ordini di grandezza. E a un certo punto la curva diventa troppo ripida per starle dietro.
 
-Non è fantascienza. È un paper peer-reviewed della settimana scorsa. E non è nemmeno la prima volta che ci chiediamo [come gestire un'intelligenza artificiale senza farla diventare un Frankenstein 2.0](/intelligenza-artificiale-qui-come-gestirla-senza-farla-diventare-frankenstein-20/). Solo che allora la domanda era teorica. Oggi no.
+Non è fantascienza. È un paper peer-reviewed della settimana scorsa — e già [Anthropic ha dimostrato quanto queste capacità emergenti sorprendano anche i loro creatori](https://rossodiserablog.it/mythos-anthropic-economia-paura/). E non è nemmeno la prima volta che ci chiediamo [come gestire un'intelligenza artificiale senza farla diventare un Frankenstein 2.0](/intelligenza-artificiale-qui-come-gestirla-senza-farla-diventare-frankenstein-20/). Solo che allora la domanda era teorica. Oggi no.
 
 ## Quello che non stiamo facendo
 
 L'AI Act europeo ha richiesto tre anni di negoziati. Tre anni. Nel frattempo, mentre Bruxelles limava l'articolo 6 sulla classificazione del rischio, sono nati e diventati obsoleti GPT-4, Gemini Ultra e Claude 3. Gemini Deep Think è passato da medaglia d'oro alle olimpiadi di matematica a risolvere problemi aperti di ricerca in sei mesi. Il prossimo salto potrebbe richiederne tre. O uno. O due settimane.
 
-Abbiamo commissioni che si riuniscono trimestralmente per discutere di un'entità che impara più in un weekend di quanto un dottorato impari in un anno. Chi decide le regole del gioco si muove ancora con i tempi della politica, mentre [il potere delle Big Tech ridisegna il campo da gioco in tempo reale](/il-grande-scacchiere-globale-big-tech-geopolitica-e-la-necessaria-rinascita-europea/).
+Abbiamo commissioni che si riuniscono trimestralmente per discutere di un'entità che impara più in un weekend di quanto un dottorato impari in un anno. Chi decide le regole del gioco si muove ancora con i tempi della politica — [lo stesso vuoto che ha reso impossibile regolare l'AI militare](https://rossodiserablog.it/amodei-pentagono-etica-intelligenza-artificiale/) — mentre [il potere delle Big Tech ridisegna il campo da gioco in tempo reale](/il-grande-scacchiere-globale-big-tech-geopolitica-e-la-necessaria-rinascita-europea/).
 
 L'automobile è arrivata, abbiamo costruito le strade. Internet è arrivato, abbiamo scritto le regole, più o meno. Ma c'è una differenza fondamentale: l'automobile non migliorava sé stessa. Lo smartphone non diventava più intelligente da solo nel cassetto durante la notte.
 

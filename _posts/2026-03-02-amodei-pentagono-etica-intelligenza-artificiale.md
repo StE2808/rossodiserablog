@@ -27,7 +27,7 @@ E quel no ha fatto più rumore di qualsiasi accordo firmato in silenzio. Al cent
 
 ## Il rifiuto che ha scosso la Silicon Valley
 
-La storia comincia mesi fa, in sordina, con trattative riservate tra Anthropic — l'azienda che ha creato Claude, l'intelligenza artificiale con cui state forse leggendo queste righe — e il Dipartimento della Difesa americano. Il Pentagono voleva che l'azienda togliesse le restrizioni sul proprio modello AI per consentire l'uso in "tutti gli scopi legali". Una formula che suona ragionevole finché non ti chiedi cosa ci sta dentro. Anthropic era la prima azienda di AI a integrare i propri modelli nelle reti classificate militari, tramite Palantir, già dal 2024. Il rapporto funzionava. Il Pentagono voleva di più.
+La storia comincia mesi fa, in sordina, con trattative riservate tra Anthropic — l'azienda che ha creato Claude, l'intelligenza artificiale con cui state forse leggendo queste righe — e il Dipartimento della Difesa americano. Il Pentagono voleva che l'azienda togliesse le restrizioni sul proprio modello AI per consentire l'uso in "tutti gli scopi legali". Una formula che suona ragionevole finché non ti chiedi cosa ci sta dentro. Anthropic era la prima azienda di AI a integrare i propri modelli nelle reti classificate militari, tramite [Palantir](https://rossodiserablog.it/palantir-cittadino-variabile/), già dal 2024. Il rapporto funzionava. Il Pentagono voleva di più.
 
 Dario Amodei, il CEO di Anthropic, aveva tracciato due linee rosse. Due soltanto: niente [sorveglianza di massa sui cittadini americani](/il-capitalismo-di-sorveglianza-quando-noi-siamo-il-prodotto/), niente armi autonome senza un essere umano nella catena decisionale. Su tutto il resto — logistica, intelligence, analisi, supporto operativo — via libera. Due eccezioni. Un oceano di sì e due no.
 
@@ -103,7 +103,7 @@ Intanto, Anthropic contesterà in tribunale la designazione come rischio per la 
 
 Non so se Dario Amodei sia un eroe. Forse è un imprenditore che ha calcolato che la reputazione vale più di un contratto. Forse ci crede davvero. Non importa, alla fine. Quello che importa è la fotografia che questa storia ci restituisce: le decisioni più gravi sulla tecnologia più potente mai costruita vengono prese in negoziati privati, tra [persone che nessuno ha eletto per farlo](/il-potere-globale-delle-tecnologie-oltre-le-urne-verso-il-co/), in assenza di regole che nessuno ha avuto il coraggio di scrivere.
 
-La tecnologia corre. Le leggi camminano. E noi restiamo a guardare una fumata che non è né bianca né nera, in attesa che qualcuno — un CEO, un generale, un presidente su un social — decida per noi cosa può fare una macchina che pensa.
+La tecnologia corre — [la stessa corsa che ha portato l'AI a risolvere problemi matematici aperti in settimane](https://rossodiserablog.it/quando-gli-anni-diventano-settimane/). Le leggi camminano. E noi restiamo a guardare una fumata che non è né bianca né nera, in attesa che qualcuno — un CEO, un generale, un presidente su un social — decida per noi cosa può fare una macchina che pensa.
 
 <script type="application/ld+json">
 {

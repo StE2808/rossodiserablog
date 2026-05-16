@@ -81,7 +81,7 @@ Anthropic ha preso la narrativa oggi. Tra qualche anno, quella narrativa potrebb
 
 Spogliate l'annuncio dei cento milioni di dollari, del nome poetico, della disclosure responsabile, dei comunicati stampa scritti bene.
 
-Quello che rimane è questo: una capacità di fare danni su scala sistemica è emersa in un laboratorio privato, senza che nessuno la pianificasse, senza che nessuna legge la regolasse, senza che nessun parlamento si pronunciasse su cosa farne. L'azienda ha scelto da sola, secondo i propri criteri, di usarla in modo difensivo e di comunicarla al mondo in modo controllato.
+Quello che rimane è questo: una capacità di fare danni su scala sistemica è emersa in un laboratorio privato, senza che nessuno la pianificasse, senza che nessuna legge la regolasse, senza che nessun parlamento si pronunciasse su cosa farne — [lo stesso vuoto che ha portato Anthropic a scontrarsi con il Pentagono](https://rossodiserablog.it/amodei-pentagono-etica-intelligenza-artificiale/). L'azienda ha scelto da sola, secondo i propri criteri, di usarla in modo difensivo e di comunicarla al mondo in modo controllato.
 
 Questa volta ha scelto bene. O almeno, così sembra.
 
@@ -126,7 +126,7 @@ Anthropic ha indicato la luna.
       "name": "Perché Mythos rappresenta un problema per l'open source?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Mythos è accessibile solo a grandi aziende, governi e istituzioni con le risorse per pagarlo. I progetti open source, che producono software usato da miliardi di persone, non hanno accesso agli stessi strumenti di sicurezza. Questo crea un gap strutturale tra chi può permettersi di trovare e correggere le vulnerabilità e chi no, con conseguenze che riguardano l'intera infrastruttura digitale globale."
+        "text": "Mythos è accessibile solo a grandi aziende, governi e istituzioni con le risorse per pagarlo. I progetti open source, che producono software usato da miliardi di persone, non hanno accesso agli stessi strumenti — come [i lavoratori della gig economy che forniscono il corpo che l'AI non ha](https://rossodiserablog.it/corpi-in-affitto-per-macchine-pensanti/) — di sicurezza. Questo crea un gap strutturale tra chi può permettersi di trovare e correggere le vulnerabilità e chi no, con conseguenze che riguardano l'intera infrastruttura digitale globale."
       }
     }
   ]

@@ -1,13 +1,20 @@
 ---
 layout: post
 title: "Il grande flop della destra alla RAI: quando l''offensiva culturale diventa una Caporetto"
-seo_title: 'RAI, il flop della destra: da Petrecca al Pucci-gate, ascolti disastrosi e gaffe olimpiche'
-description: "L'offensiva culturale della destra in RAI si trasforma in disastro: dal Pucci-gate di Petrecca alle Olimpiadi 2026, al flop di Pino Insegno. Ascolti crollati e dati Auditel impietosi."
+seo_title: "Egemonia culturale: RAI e il flop della destra nel 2026"
+description: "Dal Pucci-gate alle Olimpiadi 2026 al flop di Pino Insegno: la destra alla RAI perde ascolti e colleziona gaffe. Auditel impietoso."
 date: 2026-02-10 07:42:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
 tags:
-  - RAI, Ascolti TV, Olimpiadi Milano Cortina 2026, Pino Insegno, Paolo Petrecca, Pucci-gate, Beatrice Venezi, Auditel
+  - RAI
+  - Ascolti TV
+  - Olimpiadi Milano Cortina 2026
+  - Pino Insegno
+  - Paolo Petrecca
+  - Pucci-gate
+  - Beatrice Venezi
+  - Auditel
 image: /assets/images/uploads/IMG_7089.webp
 image_caption: Il cavallo della Rai a Roma
 image_alt: Il cavallo della Rai a Roma
@@ -17,13 +24,15 @@ focus_keyword: Egemonia culturale
 
 L’ambizioso progetto di “riconquista culturale” della RAI da parte della destra italiana si sta rivelando un clamoroso boomerang. Quello che doveva essere il simbolo di una nuova egemonia si sta trasformando in una sequela di gaffe, ascolti disastrosi e figuracce internazionali.
 
-La débâcle delle Olimpiadi Milano-Cortina
+
+## La débâcle delle Olimpiadi Milano-Cortina
 
 Il fiore all’occhiello doveva essere la telecronaca della cerimonia di apertura dei Giochi Olimpici Invernali 2026. Invece, Paolo Petrecca ha trasformato l’evento in un festival dell’imbarazzo. Il telecronista RAI non ha riconosciuto Emilio Pucci nel logo olimpico (ribattezzato erroneamente “Fucci”), scambiando uno dei simboli del made in Italy per chissà quale oscuro personaggio. Il Pucci-gate è diventato virale sui social, regalando alla RAI una figura barbina davanti al mondo intero.
 
 Ma le Olimpiadi hanno riservato altre perle: Beatrice Venezi, direttrice d’orchestra e volto caro alla destra, scelta come presenza fissa della copertura olimpica, ha collezionato critiche per interventi giudicati superficiali e fuori contesto, confermando che il curriculum politico non basta quando servono competenze specifiche.
 
-Il disastro degli ascolti: quando la nostalgia non paga
+
+## Il disastro degli ascolti: quando la nostalgia non paga
 
 Pino Insegno e il suo “Mercante in fiera” rappresentano forse il simbolo più evidente del fallimento. Il programma, riesumato come operazione nostalgia, ha registrato ascolti imbarazzanti:
 
@@ -35,7 +44,8 @@ Pino Insegno e il suo “Mercante in fiera” rappresentano forse il simbolo pi�
 
 La formula è chiara: affidarsi a volti graditi politicamente ma non necessariamente competenti produce risultati catastrofici. Il pubblico non perdona.
 
-I numeri della disfatta
+
+## I numeri della disfatta
 
 Secondo dati Auditel recenti:
 
@@ -45,7 +55,8 @@ Secondo dati Auditel recenti:
 
 	∙	I social sono impietosi: l’hashtag #DisastroRAI ha generato migliaia di interazioni negative
 
-L’egemonia culturale della sinistra? O il vuoto a destra?
+
+## L’egemonia culturale della sinistra? O il vuoto a destra?
 
 Viene da chiedersi: esiste davvero questa fantomatica “egemonia culturale della sinistra” tanto evocata, o semplicemente la destra non ha un progetto culturale credibile da proporre?
 
@@ -61,7 +72,7 @@ I fatti parlano chiaro: quando hai la possibilità di dimostrare la tua visione 
 
 L’egemonia della sinistra esiste solo per il vuoto cosmico che c’è a destra. Quando l’unica proposta culturale è sostituire professionisti con yes-men, il pubblico vota con il telecomando. E il verdetto è impietoso.
 
-La RAI non ha bisogno di colori politici: ha bisogno di competenza, professionalità e rispetto per il servizio pubblico. Fino ad allora, il flop continuerà.
+La RAI non ha bisogno di colori politici: ha bisogno di competenza, professionalità e rispetto. [Il governo che copre e poi scarica](https://rossodiserablog.it/da-oggi-non-copro-piu-nessuno-il-racconto-racconto-tre-anni-di-governo-disastroso/) si ripete anche in cultura. [Il governo che copre e poi scarica](https://rossodiserablog.it/da-oggi-non-copro-piu-nessuno-il-racconto-racconto-tre-anni-di-governo-disastroso/) si ripete anche in cultura. Fino ad allora, il flop continuerà.
 
 <script type="application/ld+json">
 {

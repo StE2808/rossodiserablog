@@ -25,7 +25,8 @@ Alle due di notte del 3 gennaio, mentre qui in Italia sognavamo qualcosa che non
 
 La notizia l'ho letta al mattino, con il caffè in mano, e ho dovuto rileggerla due volte. Non perché fosse incredibile — di questi tempi nulla lo è più — ma perché mi sembrava di aver saltato un passaggio. Tipo quando arrivi a metà di un film e non capisci perché il protagonista sta scappando.
 
----
+
+## La giustificazione ufficiale e il petrolio
 
 **Proviamo a ricostruire.** Gli Stati Uniti hanno bombardato la capitale di uno stato sovrano, sono entrati con le forze speciali, hanno preso il presidente e sua moglie, li hanno caricati su una nave militare e li hanno portati a New York per processarli. Il tutto senza chiedere permesso a nessuno — né al Congresso americano, né alle Nazioni Unite, né tantomeno ai venezuelani.
 
@@ -37,7 +38,8 @@ Ma poi Trump, nelle ore successive all'attacco, ha detto una cosa interessante. 
 
 Ecco, forse il film adesso ha più senso.
 
----
+
+## La violazione del diritto internazionale
 
 **C'è una regola nel diritto internazionale** — l'articolo 2 della Carta delle Nazioni Unite — che dice una cosa semplice: non puoi usare la forza contro un altro stato. Punto. Non ci sono eccezioni per i cattivi, non ci sono clausole in piccolo che dicono "a meno che non ti stiano antipatici". È la regola su cui abbiamo costruito ottant'anni di pace relativa, quella che dovrebbe distinguerci dai secoli in cui i re si invadevano a vicenda perché gli girava così.
 
@@ -45,9 +47,10 @@ La risposta americana a questa obiezione è stata geniale, nel suo cinismo. Sicc
 
 È come se qualcuno entrasse in casa tua, ti portasse via, e poi sostenesse che non era casa tua perché il contratto d'affitto aveva una clausola irregolare.
 
-**Il Segretario Generale dell'ONU**, António Guterres, ha parlato di "pericoloso precedente". Ma la parola "precedente" è quasi un eufemismo. Un precedente è qualcosa che potrebbe ripetersi. Qui siamo di fronte a qualcosa che sta già [ridefinendo le regole del gioco](/la-banalita-del-male-non-e-mai-tramontata/) mentre parliamo.
+**Il Segretario Generale dell'ONU**, António Guterres, ha parlato di "pericoloso precedente". Ma la parola "precedente" è quasi un eufemismo. Un precedente è qualcosa che potrebbe ripetersi. Qui siamo di fronte a qualcosa che sta già [ridefinendo le regole del gioco](https://rossodiserablog.it/la-banalita-del-male-non-e-mai-tramontata/) mentre parliamo.
 
----
+
+## Il precedente che nessuno vuole nominare
 
 Ora, qualcuno potrebbe dire: ma Maduro era un dittatore. E probabilmente lo era. Le elezioni erano truccate? Quasi certamente. Il suo regime violava i diritti umani? Senza dubbio. Quindi dov'è il problema?
 
@@ -67,9 +70,10 @@ Solo il **premier spagnolo Sánchez** ha avuto il coraggio di chiamare le cose c
 
 **L'Italia**, invece, ha dichiarato che "l'azione militare esterna non è la strada da percorrere" — formulazione che non offende nessuno e non significa nulla.
 
-**C'è un termine tecnico per questo atteggiamento**: [vassallaggio](/la-madman-theory-da-nixon-a-trump/). Quando dipendi da qualcuno al punto da non poter dire che sta sbagliando, anche quando sta sbagliando in modo clamoroso.
+**C'è un termine tecnico per questo atteggiamento**: [vassallaggio](https://rossodiserablog.it/la-madman-theory-da-nixon-a-trump/). Quando dipendi da qualcuno al punto da non poter dire che sta sbagliando, anche quando sta sbagliando in modo clamoroso.
 
----
+
+## Il mondo che cambia mentre guardiamo altrove
 
 La cosa che mi inquieta di più, però, non sono le bombe su Caracas. **È quello che viene dopo.**
 
@@ -79,7 +83,6 @@ Se gli Stati Uniti possono fare questo al Venezuela, cosa impedisce alla Russia 
 
 Il filosofo Hans Jonas, quello che ha scritto "Il principio responsabilità", diceva che nell'era tecnologica abbiamo acquisito il potere di distruggere il pianeta, ma non la saggezza per evitarlo. Guardando le immagini di Caracas in fiamme, mi viene da pensare che non parlasse solo dell'ambiente.
 
----
 
 Mentre scrivo, Maduro è in un carcere di Brooklyn. La vicepresidente venezuelana ha preso il suo posto e ha giurato che resisteranno. L'esercito è schierato. Russia, Cina e Iran hanno condannato l'attacco. Almeno 40 persone sono morte.
 

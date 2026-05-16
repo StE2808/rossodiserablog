@@ -2,7 +2,7 @@
 layout: post
 title: 'Quando lo Stato Diventa un Bancomat: La Teoria del Racket Spiegata Senza Giri di Parole'
 seo_title: 'Horkheimer e il Racket: quando lo Stato diventa un club'
-description: "Horkheimer lo aveva già capito: il potere non si conquista, si affitta. La teoria del racket spiega perché lo Stato lavora per chi lo paga. Leggi e riconosci il meccanismo."
+description: "Horkheimer lo aveva già capito: il potere non si conquista, si affitta. La teoria del racket: lo Stato club dei potenti."
 date: 2026-01-23 11:13:00 +0100
 author: stefano-vozzi
 category: societa
@@ -34,7 +34,7 @@ Un racket, in questo senso, è un gruppo di potere – economico, politico, corp
 
 Pensateci. Quante volte avete letto di appalti che finiscono sempre nelle stesse mani? Di [normative scritte su misura](/meloni-contro-i-diritti-dei-lavoratori/) per favorire specifici settori economici? Di porte girevoli tra politica e grandi corporation, dove gli stessi individui passano senza soluzione di continuità da ruoli pubblici a incarichi privati e viceversa?
 
-Non è corruzione nel senso classico del termine. È qualcosa di più strutturale: è la trasformazione dello Stato in un **club privato**  dove l'accesso ai benefici dipende dall'appartenenza, non dai diritti universali.
+Non è corruzione nel senso classico del termine. È qualcosa di più strutturale: è la trasformazione dello Stato in un **club privato**  dove l'accesso ai benefici dipende dall'appartenenza, non dai diritti universali. Lo stesso meccanismo descritto da [la scimmia di Forbes](https://rossodiserablog.it/la-scimmia-di-forbes/): la ricchezza che si autoriproduce escludendo gli altri.
 
 ## La Fine della Neutralità (O l'Illusione Che Sia Mai Esistita)
 

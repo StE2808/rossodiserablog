@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Quaranta minuti nel dark web (con un'IA come guardia del corpo)"
-seo_title: "Dark web: cosa c'è davvero dentro (lo abbiamo visitato con Claude)"
-description: "CIA, SVR russo e giornalisti usano la stessa tecnologia di Drug Hub. Abbiamo navigato il dark web 40 minuti con un container Docker e un'IA. Ecco cosa abbiamo trovato."
+seo_title: "Dark web: cosa c'è davvero dentro. Lo abbiamo esplorato"
+description: "CIA e SVR russo usano la stessa tecnologia di Drug Hub. Quaranta minuti nel dark web con Docker e Claude. Ecco cosa c'è davvero."
 date: 2026-05-05 22:00:00 +0200
 author: stefano-vozzi
 category: scienza-tecnologia
@@ -84,7 +84,7 @@ Se vi dicono ancora che il dark web è "il lato oscuro di internet", chiedete in
 
 ---
 
-Poi Torch (il motore di ricerca del dark web, 15.000 risultati per ogni query) ci ha portato su **EndChan**: un imageboard decentralizzato con mirror Tor, I2P, e tre altri protocolli di anonimato. La board `/polru/` è interamente in russo, pro-Ucraina, anti-Putin, probabilmente frequentata da molti dall'interno della Russia.
+Poi Torch (il motore di ricerca del dark web, 15.000 risultati per ogni query) ci ha portato su **EndChan**: un imageboard decentralizzato con mirror Tor, I2P, e tre altri protocolli di anonimato. La board `/polru/` è interamente in russo, pro-Ucraina, anti-Putin, probabilmente frequentata da molti dall'interno della Russia — il rovescio esatto del [doppio standard su Iran e Palestina](https://rossodiserablog.it/la-fiamma-della-resistenza-due-pesi-due-misure/) che l'Occidente tollera in superficie.
 
 Il thread più vecchio si chiama *"Thread del Rublo Impazzito"* ed è alla sua **694esima iterazione**. Dal 2015. Ogni iterazione raccoglie link per donare all'esercito ucraino: Azov, droni Sternenko, Russian Volunteer Corps, IT Army Ucraina. Da dentro Tor. Anonimi. Irrintracciabili.
 
@@ -124,7 +124,7 @@ In Iran, durante il blackout di gennaio 2026, la connettività è scesa all'1%. 
 
 Il dark web non è dove i poveri e gli oppressi trovano rifugio. È dove i tecnici delle nazioni libere si organizzano in solidarietà, o dove le opposizioni di paesi semi-repressivi (come i russi al loro 694esimo thread) costruiscono le proprie basi digitali. Le popolazioni più vulnerabili, quelle in guerra, quelle sotto blackout totale, non hanno accesso nemmeno a questo.
 
-**Il dark web è già un privilegio.**
+**Il dark web è già un privilegio.** Chi ne avrebbe più bisogno — i giornalisti palestinesi, ad esempio — non riesce ad usarlo: [i fatti e i numeri di Gaza](https://rossodiserablog.it/gaza-i-fatti-i-numeri-le-responsabilita/) lo documentano.
 
 ---
 
