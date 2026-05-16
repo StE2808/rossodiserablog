@@ -1,35 +1,35 @@
 ---
 layout: post
 title: Il capro espiatorio perfetto
-seo_title: Il capro espiatorio: arrestato cameriere ad Arcidosso
+seo_title: "Il capro espiatorio: arrestato cameriere ad Arcidosso"
 description: Dopo i disordini di Torino, arrestato un cameriere 22enne di Arcidosso. Nessun precedente, etichettato anarchico. La ricerca del capro espiatorio perfetto.
 date: 2026-02-04 08:13:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
 tags:
-  - ∙  Torino
-  - ∙  disordini Torino
-  - ∙  capro espiatorio
-  - ∙  Arcidosso
-  - ∙  anarchici
-  - ∙  repressione
-  - ∙  giovani
-  - ∙  cronaca Torino
-  - ∙  Grosseto
-  - ∙  cameriere arrestato
-  - ∙  proteste 2026
-  - ∙  ordine pubblico
-  - ∙  schedature politiche
-  - ∙  giustizia
-  - ∙  libertà di manifestazione
-  - ∙  etichette politiche
-  - ∙  criminalizzazione del dissenso
-  - ∙  narrativa mediatica
-  - ∙  propaganda
-  - ∙  arresto Torino sabato
-  - ∙  chi è arrestato Torino
-  - ∙  disordini weekend Torino
-  - ∙  giovane anarchico Arcidosso
+  - Torino
+  - disordini Torino
+  - capro espiatorio
+  - Arcidosso
+  - anarchici
+  - repressione
+  - giovani
+  - cronaca Torino
+  - Grosseto
+  - cameriere arrestato
+  - proteste 2026
+  - ordine pubblico
+  - schedature politiche
+  - giustizia
+  - libertà di manifestazione
+  - etichette politiche
+  - criminalizzazione del dissenso
+  - narrativa mediatica
+  - propaganda
+  - arresto Torino sabato
+  - chi è arrestato Torino
+  - disordini weekend Torino
+  - giovane anarchico Arcidosso
 image: /assets/images/uploads/IMG_7074.webp
 image_caption: Cameriere ventiduenne arrestato per i disordini di Torino
 image_alt: Cameriere ventiduenne arrestato per i disordini di Torino
