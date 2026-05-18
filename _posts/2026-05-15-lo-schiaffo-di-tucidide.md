@@ -17,7 +17,7 @@ tags:
   - geopolitica
   - Pechino 2026
   - storia e politica
-image: /assets/images/uploads/IMG_7248.jpeg
+image: /assets/images/uploads/IMG_7248.webp
 image_caption: Trump e Xi a Pechino
 image_alt: Trump e Xi a Pechino
 excerpt: "Xi Jinping ha accolto Trump a Pechino con la pazienza di chi sa di avere il tempo dalla sua parte. Mentre il presidente americano si entusiasmava per i giardini imperiali, il leader cinese ribadiva un concetto che Washington non riesce ad assimilare da trent'anni: la Trappola di Tucidide non punisce la potenza emergente, ma quella dominante che vuole schiacciarla. Il vertice si è chiuso con pochi accordi concreti e molti convenevoli. La storia, però, prende appunti."
