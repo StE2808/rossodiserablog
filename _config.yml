@@ -49,6 +49,7 @@ plugins:
 feed:
   path: feed.xml
   excerpt_only: true
+  posts_limit: 250
 
 # Defaults
 defaults:
