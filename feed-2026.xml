@@ -1,0 +1,31 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it_IT">
+  <title>Rosso di Sera — 2026</title>
+  <link href="{{ site.url }}/feed-2026.xml" rel="self" type="application/atom+xml"/>
+  <link href="{{ site.url }}/" rel="alternate" type="text/html"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/feed-2026.xml</id>
+  <author>
+    <name>{{ site.author.name }}</name>
+    <email>{{ site.author.email }}</email>
+  </author>
+  {% assign posts_2026 = site.posts | where_exp: "post", "post.date contains '2026'" %}
+  {% for post in posts_2026 %}
+  <entry>
+    <title type="html">{{ post.title | xml_escape }}</title>
+    <link href="{{ site.url }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}"/>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}{{ post.url }}</id>
+    <author><name>{{ post.author }}</name></author>
+    <content type="html"><![CDATA[{{ post.content }}]]></content>
+    <summary type="html"><![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 }}]]></summary>
+    {% if post.image %}
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}{{ post.image }}"/>
+    {% endif %}
+  </entry>
+  {% endfor %}
+</feed>
