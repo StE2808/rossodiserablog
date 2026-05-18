@@ -21,7 +21,7 @@ layout: null
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.url }}</id>
     <author><name>{{ post.author }}</name></author>
-    <content type="html"><![CDATA[{{ post.content }}]]></content>
+    <content type="html"><![CDATA[{{ post.excerpt | strip_html }}<br><br><a href="{{ site.url }}">Leggi su Rosso di Sera →</a>]]></content>
     <summary type="html"><![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 }}]]></summary>
     {% if post.image %}
     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}{{ post.image }}"/>
