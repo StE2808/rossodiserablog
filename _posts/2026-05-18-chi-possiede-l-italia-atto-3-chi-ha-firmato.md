@@ -19,9 +19,9 @@ tags:
   - chi possiede l'Italia
   - investimento produttivo
   - acquisizione estrattiva
-image: /assets/images/uploads/la-repubblica-dei-cittadini.webp
-image_caption: Chi ha firmato la cessione delle infrastrutture strategiche italiane
-image_alt: Palazzo Chigi e golden power italiano
+image: /assets/images/uploads/venere-botticelli-chi-possiede-italia.webp
+image_caption: La Venere di Botticelli — povera patria, schiacciata dagli abusi del potere
+image_alt: Volto della Venere di Botticelli — chi ha firmato la cessione delle infrastrutture italiane
 excerpt: "Il golden power esiste dal 2012. Renzi non lo ha usato quando Vivendi entrava in TIM. Meloni lo ha usato per dire sì a KKR e a BlackRock. Una storia bipartisan di sovranità svenduta, con la sinistra a Toronto con Obama mentre il paese veniva venduto. Con Jameson e Battiato."
 focus_keyword: golden power Italia fondi stranieri governo
 ---

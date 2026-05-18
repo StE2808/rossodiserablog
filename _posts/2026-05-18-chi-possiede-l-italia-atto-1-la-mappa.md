@@ -19,9 +19,9 @@ tags:
   - CDP
   - fondi passivi
   - chi possiede l'Italia
-image: /assets/images/uploads/la-mossa-del-cavallo.webp
-image_caption: La scacchiera degli azionisti stranieri nelle aziende italiane
-image_alt: Scacchiera con pezzi che rappresentano fondi di investimento stranieri nelle aziende italiane
+image: /assets/images/uploads/venere-botticelli-chi-possiede-italia.webp
+image_caption: La Venere di Botticelli — simbolo di un paese di cui tutti vogliono un pezzo
+image_alt: Volto della Venere di Botticelli, simbolo dell'Italia contesa da fondi stranieri
 excerpt: "BlackRock al 5% di Eni, Enel, Leonardo, Terna e Snam. La Cina di Stato nella rete del gas attraverso CDP Reti. I francesi nel latte, nelle banche, nelle telecomunicazioni. Una mappa dell'azionariato straniero nelle aziende italiane che nessuno ha mai spiegato."
 focus_keyword: fondi stranieri aziende strategiche italiane
 ---
