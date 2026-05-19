@@ -8,7 +8,7 @@ author: lino-rialti
 category: opinioni-editoriali
 tags:
   - populismo, Salvini, Global Sumud Flotilla, Gaza, genocidio, solidarietà, immigrazione, demagogia, politica italiana, diritti umani
-image: /assets/images/uploads/IMG_7257.jpeg
+image: /assets/images/uploads/IMG_7257.webp
 image_caption: Una caricatura di Salvini
 image_alt: Una caricatura di Salvini vestito da troglodita
 excerpt: Mentre la flottiglia civile torna in mare verso Gaza e le piazze italiane scendono in strada, Salvini e i suoi trasformano il coraggio civile in bersaglio. Un editoriale sulla strumentalizzazione della paura come unico programma politico.​​​​​​​​​​​​​​​​
