@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Populismo e demagogia: il nemico che non c’è'
-seo_title: 'Il nemico che non c’è: quando il populismo trasforma la solidarietà in reato'
+title: "Populismo e demagogia: il nemico che non c'è"
+seo_title: "Il nemico che non c'è: quando il populismo trasforma la solidarietà in reato"
 description: Salvini e i populisti italiani soffiano sulla paura e deridono chi manifesta in solidarietà con la Global Sumud Flotilla e Gaza. Ma indicare un nemico non è un programma politico.
 date: 2026-05-19 07:25:00 +0200
 author: lino-rialti
@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7257.webp
 image_caption: Una caricatura di Salvini
 image_alt: Una caricatura di Salvini vestito da troglodita
-excerpt: Mentre la flottiglia civile torna in mare verso Gaza e le piazze italiane scendono in strada, Salvini e i suoi trasformano il coraggio civile in bersaglio. Un editoriale sulla strumentalizzazione della paura come unico programma politico.​​​​​​​​​​​​​​​​
+excerpt: Mentre la flottiglia civile torna in mare verso Gaza e le piazze italiane scendono in strada, Salvini e i suoi trasformano il coraggio civile in bersaglio. Un editoriale sulla strumentalizzazione della paura come unico programma politico.
 focus_keyword: populismo e immigrazione Italia 2026
 ---
 
