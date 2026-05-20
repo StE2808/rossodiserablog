@@ -2,7 +2,7 @@
 layout: post
 title: La merce siamo noi. Feticismo, sfruttamento e capro espiatorio
 seo_title: 'Feticismo delle merci, sfruttamento e odio sociale: da Marx a Modena'
-description: 'Dal feticismo delle merci marxiano allo sfruttamento dei lavoratori immigrati, fino alla strumentalizzazione politica dei fatti di Modena da parte di Salvini: un’analisi della crisi sociale italiana e dei suoi capri espiatori.'
+description: "Dal feticismo delle merci marxiano allo sfruttamento dei lavoratori immigrati, fino alla strumentalizzazione politica dei fatti di Modena da parte di Salvini: un'analisi della crisi sociale italiana e dei suoi capri espiatori."
 date: 2026-05-20 07:20:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7259.webp
 image_caption: Salvini espone un rosario che poi bacerà
 image_alt: Matteo Salvini espone alla telecamera un rosario che di lì a poco bacerà
-excerpt: 'In un mercato del lavoro che riduce il lavoratore a merce, la corruzione e lo sfruttamento colpiscono soprattutto i più fragili — spesso immigrati o figli di immigrati esclusi dalla scala sociale nonostante titoli di studio e cittadinanza italiana. Il caso di Modena, strumentalizzato da Salvini in chiave anti-immigrazione, rivela il meccanismo classico del capro espiatorio: in tempi di impoverimento generalizzato, la rabbia delle classi medie impoverite viene direzionata verso il “diverso”, sottraendo attenzione alle cause strutturali della crisi.'
+excerpt: 'In un mercato del lavoro che riduce il lavoratore a merce, la corruzione e lo sfruttamento colpiscono soprattutto i più fragili — spesso immigrati o figli di immigrati esclusi dalla scala sociale nonostante titoli di studio e cittadinanza italiana. Il caso di Modena, strumentalizzato da Salvini in chiave anti-immigrazione, rivela il meccanismo classico del capro espiatorio: in tempi di impoverimento generalizzato, la rabbia delle classi medie impoverite viene direzionata verso il "diverso", sottraendo attenzione alle cause strutturali della crisi.'
 focus_keyword: feticismo delle merci sfruttamento immigrati Italia
 ---
 
