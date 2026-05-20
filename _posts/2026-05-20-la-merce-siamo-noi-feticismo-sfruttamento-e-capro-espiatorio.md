@@ -8,7 +8,7 @@ author: lino-rialti
 category: opinioni-editoriali
 tags:
   - feticismo delle merci, sfruttamento del lavoro, immigrazione, Modena, Salvini, seconde generazioni, esclusione sociale, corruzione, impoverimento, populismo, razzismo, marginalizzazione, Marx, crisi economica, capro espiatorio
-image: /assets/images/uploads/IMG_7259.jpeg
+image: /assets/images/uploads/IMG_7259.webp
 image_caption: Salvini espone un rosario che poi bacerà
 image_alt: Matteo Salvini espone alla telecamera un rosario che di lì a poco bacerà
 excerpt: 'In un mercato del lavoro che riduce il lavoratore a merce, la corruzione e lo sfruttamento colpiscono soprattutto i più fragili — spesso immigrati o figli di immigrati esclusi dalla scala sociale nonostante titoli di studio e cittadinanza italiana. Il caso di Modena, strumentalizzato da Salvini in chiave anti-immigrazione, rivela il meccanismo classico del capro espiatorio: in tempi di impoverimento generalizzato, la rabbia delle classi medie impoverite viene direzionata verso il “diverso”, sottraendo attenzione alle cause strutturali della crisi.'
