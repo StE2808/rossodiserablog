@@ -8,7 +8,7 @@ author: lino-rialti
 category: lifestyle-moda
 tags:
   - '#Bourdieu #LaDistinzione #SociologiaDellaModa #Habitus #PierreBourdieu #CapitaleCulturale #LottaDiClasse #FilosofiaContemporanea #Estetica #CriticaDelGusto'
-image: /assets/images/uploads/IMG_7263.jpeg
+image: /assets/images/uploads/IMG_7263.webp
 image_caption: Pierre Bourdieu, filosofo francese
 image_alt: Un ritratto in bianco e nero di Pierre Bourdieu, filosofo francese
 excerpt: Basandosi su Bourdieu, il testo sostiene che il gusto nel vestire non è una scelta libera, ma un atto di classe dettato dall'habitus, che trasforma la moda in un campo di battaglia simbolico per la distinzione sociale. Nonostante la democratizzazione del fast fashion, ogni scelta stilistica comunica appartenenza e conferma le gerarchie di potere esistenti.
