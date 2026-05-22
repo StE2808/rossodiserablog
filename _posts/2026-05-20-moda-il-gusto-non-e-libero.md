@@ -88,17 +88,6 @@ Sul tema del lavoro come merce e della distinzione di classe nel capitalismo con
 
 **In sintesi.** Bourdieu ci consegna uno strumento critico formidabile per leggere la moda contemporanea: non come espressione dell'individuo sovrano kantiano, ma come campo di battaglia simbolico in cui i gruppi sociali negoziano identità, prestigio e potere. Il guardaroba non è uno specchio dell'anima. È una mappa del territorio sociale in cui siamo nati e da cui fatichiamo enormemente a uscire.
 
-## Domande frequenti su Bourdieu e la moda
-
-**Cos'è l'habitus secondo Bourdieu e come si applica alla moda?**
-L'habitus è il sistema di disposizioni incorporate sin dall'infanzia che orienta il gusto in modo automatico. Nella moda, determina perché un individuo sente certe scelte vestimentarie come "naturalmente" sue: non è libertà individuale, ma il prodotto del proprio gruppo sociale di appartenenza.
-
-**Il fast fashion ha davvero democratizzato la moda?**
-No, secondo la logica bourdieusiana. La disponibilità economica di un capo non elimina la distinzione sociale: la replica su scala più larga. Chi può permettersi di rifiutare il fast fashion — in nome della qualità o dell'etica — usa proprio questo rifiuto come nuovo marcatore di status.
-
-**Perché il quiet luxury è il lusso più escludente?**
-Perché presuppone un capitale culturale che non si compra: il riconoscimento del marchio, la lettura del codice estetico, la distinzione tra ostentazione e discrezione. Esclude non per il prezzo — che pure è altissimo — ma per la competenza richiesta. Chi non sa, non può neanche aspirarci.
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
