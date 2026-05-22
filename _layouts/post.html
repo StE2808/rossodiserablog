@@ -106,6 +106,15 @@ layout: default
     <!-- Sezione Commenti -->
     <section class="post-comments">
         <h3 class="comments-title">Commenti</h3>
+        <script>
+          // Salva il titolo prima che Giscus lo sovrascriva
+          (function() {
+            var _t = document.title;
+            new MutationObserver(function() {
+              if (document.title === 'giscus' || document.title === '') document.title = _t;
+            }).observe(document.querySelector('title'), { childList: true });
+          })();
+        </script>
         <script src="https://giscus.app/client.js"
                 data-repo="StE2808/rossodiserablog"
                 data-repo-id="R_kgDOQodhxA"
