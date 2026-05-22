@@ -58,17 +58,6 @@ Soffiare sul fuoco in un momento di particolare fragilità sociale non è un err
 
 Sul tema della distinzione di classe e della mercificazione del lavoro, leggi anche: [Moda: il gusto non è libero](https://rossodiserablog.it/moda-il-gusto-non-e-libero/) e [Il capro espiatorio perfetto](https://rossodiserablog.it/il-capro-espiatorio-perfetto/).
 
-## Domande frequenti su feticismo, sfruttamento e capro espiatorio
-
-**Cos'è il feticismo delle merci secondo Marx e cosa significa oggi?**
-Il feticismo delle merci (Marx, *Il Capitale*, 1867) è il processo per cui i rapporti sociali vengono mascherati da rapporti tra cose. Oggi ha assunto una forma nuova: non è solo l'oggetto prodotto a diventare merce, ma il lavoratore stesso, ridotto a variabile di costo in un mercato sempre più precarizzato.
-
-**Chi era Salim El Koudri e perché il suo caso è significativo?**
-Salim El Koudri era un 31enne laureato in economia, cittadino italiano nato a Bergamo da famiglia di origini marocchine, che il 16 maggio 2026 ha travolto con un'auto alcune persone in via Emilia a Modena. Aveva già espresso nel 2021 la sua frustrazione per l'esclusione dal mercato del lavoro. Il suo caso illustra il fallimento dell'integrazione strutturale, non culturale.
-
-**Cos'è il meccanismo del capro espiatorio e perché funziona in tempi di crisi?**
-Il capro espiatorio è un meccanismo per cui, in tempi di impoverimento generalizzato, la rabbia collettiva viene direzionata verso un gruppo esterno — il "diverso" — invece di interrogare le cause strutturali della crisi: precarizzazione, evasione fiscale, corruzione, tagli ai servizi. Funziona perché offre un nemico visibile al posto di cause invisibili e strutturali.
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
