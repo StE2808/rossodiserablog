@@ -3,7 +3,7 @@ layout: post
 title: Il vero maestro
 seo_title: "Il vero maestro: la violenza la insegnano i potenti"
 description: "Due professori picchiati e la colpa è dei social. Ma i ragazzi imparano da Trump, Musk e dai politici che insultano: il vero maestro è al piano di sopra."
-date: 2026-05-26 16:00:00 +0200
+date: 2026-05-26 09:45:00 +0200
 author: stefano-vozzi
 category: politica-interna
 tags:
