@@ -17,7 +17,7 @@ tags:
   - giovani
   - politica
   - capro espiatorio
-image: /assets/images/uploads/ricco_potente_spregiudicato.png
+image: /assets/images/uploads/ricco_potente_spregiudicato.webp
 image_caption: Un uomo potente e spregiudicato seduto dietro una scrivania
 image_alt: Un uomo in abito scuro seduto a una scrivania elegante con ornamenti dorati, sguardo di disprezzo
 excerpt: Due professori picchiati e la risposta immediata è sempre la stessa: colpa dei social, di TikTok, dei videogiochi. Ma la domanda vera è un'altra. Da chi hanno imparato i ragazzi che la forza è una risposta accettabile? Il modello non viene dagli schermi piccoli.
