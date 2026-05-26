@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7272.jpeg
 image_caption: Una gondola che sta affondando a Venezia
 image_alt: Una gondola sta affondando tra le briccole, sullo sfondo Venezia
-excerpt: Il centrosinistra perde Venezia nonostante l’unità dal campo largo. Astensione di massa, periferie fedeli alla destra e una narrazione distante dalla realtà quotidiana dei cittadini decretano la sconfitta di Martella. La città, dominata dall’industria turistica e attraversata da tensioni sull’immigrazione, resta terreno fertile per la destra. Meloni osserva e replica il modello.
+excerpt: Il centrosinistra perde Venezia nonostante l'unità dal campo largo. Astensione di massa, periferie fedeli alla destra e una narrazione distante dalla realtà quotidiana dei cittadini decretano la sconfitta di Martella. La città, dominata dall'industria turistica e attraversata da tensioni sull'immigrazione, resta terreno fertile per la destra. Meloni osserva e replica il modello.
 focus_keyword: Il centrodestra tiene e riconferma Venezia
 ---
 
