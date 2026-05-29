@@ -32,3 +32,10 @@ _local/
 
 # Claude Code documentation (internal only — anche in global gitignore)
 CLAUDE.md
+
+# Note di lavoro interne (non pubblicare)
+workflow_rossodisera.md
+
+# Graphify — knowledge graph locale (non pubblicare)
+graphify-out/
+.graphifyignore
