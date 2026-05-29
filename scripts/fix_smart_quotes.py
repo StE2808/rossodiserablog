@@ -1,67 +1,107 @@
 #!/usr/bin/env python3
 """
-Fix smart quotes in Jekyll post front matter.
-Replaces curly quotes with straight quotes to fix YAML parsing issues.
+Fix YAML front matter dei post Jekyll (problemi introdotti da Sveltia CMS).
+
+Normalizza, SOLO nel front matter:
+  - smart quotes Unicode (U+201C/D, U+2018/9) → dritte
+  - zero-width spaces (U+200B/200C/200D/FEFF) → rimossi
+  - scalari single-quoted con apostrofi e/o doppie → riquotati JSON-safe
+    (double-quoted con escape): è l'unica forma sempre YAML-valida quando il
+    valore contiene insieme apostrofi (l'inserimento) e doppie ("Uccelli").
+
+Questa logica è gemella del blocco inline nel CI (.github/workflows/jekyll.yml).
+Sintomo che risolve: schede articolo in home con solo la data, title/excerpt vuoti.
 """
 
 import glob
 import re
+import json
+import sys
 
-def fix_smart_quotes(content):
-    """Replace smart quotes with straight quotes"""
-    # Replace smart double quotes
-    content = content.replace('\u201c', '"')  # LEFT DOUBLE QUOTATION MARK
-    content = content.replace('\u201d', '"')  # RIGHT DOUBLE QUOTATION MARK
-    # Replace smart single quotes/apostrophes
-    content = content.replace('\u2018', "'")  # LEFT SINGLE QUOTATION MARK
-    content = content.replace('\u2019', "'")  # RIGHT SINGLE QUOTATION MARK
-    return content
+try:
+    import yaml  # validazione opzionale (presente in locale)
+except ImportError:
+    yaml = None
+
+REPLACEMENTS = {
+    '“': '"', '”': '"',
+    '‘': "'", '’': "'",
+    '​': '', '‌': '', '‍': '', '﻿': '',
+}
+
+
+def fix_single_quoted_apostrophes(fm):
+    """Riquota gli scalari single-quoted come stringhe double-quoted JSON-safe.
+    Gestisce i valori con apostrofi E doppie insieme, caso che spezzava il YAML."""
+    out = []
+    for line in fm.split('\n'):
+        m = re.match(r"^(\s*\w[\w_]*:\s*)'(.*)'(\s*)$", line)
+        if m:
+            key, value, trail = m.group(1), m.group(2), m.group(3)
+            # single-quoted è valido se ogni apostrofo interno è raddoppiato ('');
+            # se dopo aver rimosso le coppie resta un apostrofo singolo, il YAML è rotto.
+            if "'" in value.replace("''", ""):
+                unescaped = value.replace("''", "'")  # YAML: '' = apostrofo letterale
+                line = f'{key}{json.dumps(unescaped, ensure_ascii=False)}{trail}'
+        out.append(line)
+    return '\n'.join(out)
+
+
+def fix_front_matter(fm):
+    for bad, good in REPLACEMENTS.items():
+        fm = fm.replace(bad, good)
+    return fix_single_quoted_apostrophes(fm)
+
 
 def process_file(filepath):
-    """Process a single markdown file"""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Check if file has smart quotes in front matter
-    front_matter_end = content.find('---', 3)
-    if front_matter_end == -1:
-        return False
+    parts = content.split('---', 2)
+    if len(parts) < 3:
+        return False, True  # nessun front matter: niente da fare
 
-    front_matter = content[:front_matter_end + 3]
+    fm_fixed = fix_front_matter(parts[1])
+    valid = True
+    if yaml is not None:
+        try:
+            yaml.safe_load(fm_fixed)
+        except yaml.YAMLError:
+            valid = False
 
-    # Check if smart quotes exist
-    has_smart_quotes = any(c in front_matter for c in ['\u201c', '\u201d', '\u2018', '\u2019'])
-
-    if has_smart_quotes:
-        # Fix the content
-        fixed_content = fix_smart_quotes(content)
-
-        # Write back
+    if fm_fixed != parts[1]:
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(fixed_content)
+            f.write('---' + fm_fixed + '---' + parts[2])
+        return True, valid
 
-        return True
+    return False, valid
 
-    return False
 
 def main():
-    """Main function"""
-    print("Fixing smart quotes in Jekyll posts...")
-    print()
-
+    print("Fix YAML front matter nei post Jekyll...\n")
     fixed_count = 0
-    total_count = 0
+    total = 0
+    broken = []
 
     for filepath in glob.glob('_posts/*.md'):
-        total_count += 1
-        if process_file(filepath):
+        total += 1
+        changed, valid = process_file(filepath)
+        if changed:
             fixed_count += 1
             print(f"✓ Fixed: {filepath}")
+        if not valid:
+            broken.append(filepath)
 
-    print()
-    print(f"Total posts processed: {total_count}")
-    print(f"Posts fixed: {fixed_count}")
-    print(f"Posts unchanged: {total_count - fixed_count}")
+    print(f"\nPost processati: {total}")
+    print(f"Post corretti:   {fixed_count}")
+    print(f"Post invariati:  {total - fixed_count}")
+
+    if broken:
+        print("\n⚠️  Front matter ANCORA invalido dopo il fix:")
+        for b in broken:
+            print(f"   - {b}")
+        sys.exit(1)
+
 
 if __name__ == '__main__':
     main()

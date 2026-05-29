@@ -31,7 +31,7 @@
         - name: Fix smart quotes in front matter
           run: |
             python3 << 'PYTHON_SCRIPT'
-            import os, re
+            import os, re, json
 
             posts_dir = '_posts'
             replacements = {
@@ -41,16 +41,21 @@
             }
 
             def fix_single_quoted_apostrophes(fm):
-                """Switch single-quoted YAML values to double-quoted when they contain apostrophes."""
+                """Re-quota gli scalari YAML single-quoted come stringhe double-quoted
+                JSON-safe. Gestisce i valori che contengono apostrofi E virgolette doppie
+                insieme (es. excerpt con l'inserimento e "Uccelli"), caso che la versione
+                precedente saltava — lasciando il YAML rotto e la card vuota in home."""
                 lines = fm.split('\n')
                 result = []
                 for line in lines:
                     m = re.match(r"^(\s*\w[\w_]*:\s*)'(.*)'(\s*)$", line)
                     if m:
                         key, value, trail = m.group(1), m.group(2), m.group(3)
-                        # Apostrophe inside value but no double quotes → switch to double quotes
-                        if "'" in value and '"' not in value:
-                            line = f"{key}\"{value}\"{trail}"
+                        # single-quoted è valido se ogni apostrofo interno è raddoppiato ('');
+                        # se dopo aver rimosso le coppie resta un apostrofo singolo, il YAML è rotto.
+                        if "'" in value.replace("''", ""):
+                            unescaped = value.replace("''", "'")  # YAML: '' = apostrofo letterale
+                            line = f'{key}{json.dumps(unescaped, ensure_ascii=False)}{trail}'
                     result.append(line)
                 return '\n'.join(result)
 
