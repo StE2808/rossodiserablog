@@ -8,7 +8,7 @@ author: lino-rialti
 category: politica-interna
 tags:
   - caccia, DDL caccia, legge 157/1992, Lollobrigida, governo Meloni, fauna selvatica, specie protette, stambecco, lupo, oca selvatica, direttiva Uccelli, direttiva Habitat, Commissione Europea, WWF, LAC, bracconaggio, ambiente, natura, caccia in spiaggia, Convenzione di Berna, destra italiana, politica ambientale, lobby venatorie, diritti degli animali, opposizione
-image: /assets/images/uploads/IMG_7275.jpeg
+image: /assets/images/uploads/IMG_7275.webp
 image_caption: Cacciatori sparano ad uccelli in una palude
 image_alt: Cacciatori sparano ad uccelli in una palude
 excerpt: 'Il DDL caccia promosso dal ministro Lollobrigida rappresenta uno dei provvedimenti più lesivi per la fauna selvatica italiana degli ultimi decenni. Peggiorato ulteriormente dopo il passaggio nelle Commissioni congiunte del Senato, il testo viola le direttive europee “Uccelli” e “Habitat” — come ha formalmente contestato la Commissione Europea in una lettera rimasta senza risposta. Tra le misure più aberranti: la caccia sulle spiagge, l’inserimento di nuove specie cacciabili tra cui lo stambecco e l’oca selvatica, l’uso di sistemi di puntamento notturno vietati dalla Convenzione di Berna, la cancellazione del lupo dalle specie particolarmente protette e una norma che di fatto criminalizza il dissenso pacifico nei confronti della caccia. Un regalo alle lobby venatorie e armiere che riguarda meno dell’1% della popolazione, a spese dell’intero patrimonio naturale del Paese. La responsabilità politica è di Giorgia Meloni.'
