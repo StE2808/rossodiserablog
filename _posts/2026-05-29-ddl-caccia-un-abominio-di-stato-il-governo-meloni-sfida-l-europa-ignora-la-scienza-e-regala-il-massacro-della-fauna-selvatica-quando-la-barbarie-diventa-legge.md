@@ -2,7 +2,7 @@
 layout: post
 title: "DDL CACCIA: UN ABOMINIO DI STATO Il governo Meloni sfida l'Europa, ignora la scienza e regala il massacro della fauna selvatica  Quando la barbarie diventa legge"
 seo_title: "DDL CACCIA: UN ABOMINIO DI STATO Il governo Meloni sfida l'Europa, ignora la scienza e regala il massacro della fauna selvatica  Quando la barbarie diventa legge"
-description: Il DDL caccia del governo Meloni viola le direttive europee, apre la strada all’abbattimento di specie protette come stambecco e lupo, e introduce persino la caccia in spiaggia. Un abominio che l’Europa ha già bocciato — e che il governo ha scelto di ignorare.
+description: Il DDL caccia del governo Meloni viola le direttive europee, apre la strada all'abbattimento di specie protette come stambecco e lupo, e introduce persino la caccia in spiaggia. Un abominio che l'Europa ha già bocciato — e che il governo ha scelto di ignorare.
 date: 2026-05-29 09:39:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7275.webp
 image_caption: Cacciatori sparano ad uccelli in una palude
 image_alt: Cacciatori sparano ad uccelli in una palude
-excerpt: 'Il DDL caccia promosso dal ministro Lollobrigida rappresenta uno dei provvedimenti più lesivi per la fauna selvatica italiana degli ultimi decenni. Peggiorato ulteriormente dopo il passaggio nelle Commissioni congiunte del Senato, il testo viola le direttive europee “Uccelli” e “Habitat” — come ha formalmente contestato la Commissione Europea in una lettera rimasta senza risposta. Tra le misure più aberranti: la caccia sulle spiagge, l’inserimento di nuove specie cacciabili tra cui lo stambecco e l’oca selvatica, l’uso di sistemi di puntamento notturno vietati dalla Convenzione di Berna, la cancellazione del lupo dalle specie particolarmente protette e una norma che di fatto criminalizza il dissenso pacifico nei confronti della caccia. Un regalo alle lobby venatorie e armiere che riguarda meno dell’1% della popolazione, a spese dell’intero patrimonio naturale del Paese. La responsabilità politica è di Giorgia Meloni.'
+excerpt: 'Il DDL caccia promosso dal ministro Lollobrigida rappresenta uno dei provvedimenti più lesivi per la fauna selvatica italiana degli ultimi decenni. Peggiorato ulteriormente dopo il passaggio nelle Commissioni congiunte del Senato, il testo viola le direttive europee "Uccelli" e "Habitat" — come ha formalmente contestato la Commissione Europea in una lettera rimasta senza risposta. Tra le misure più aberranti: la caccia sulle spiagge, l'inserimento di nuove specie cacciabili tra cui lo stambecco e l'oca selvatica, l'uso di sistemi di puntamento notturno vietati dalla Convenzione di Berna, la cancellazione del lupo dalle specie particolarmente protette e una norma che di fatto criminalizza il dissenso pacifico nei confronti della caccia. Un regalo alle lobby venatorie e armiere che riguarda meno dell'1% della popolazione, a spese dell'intero patrimonio naturale del Paese. La responsabilità politica è di Giorgia Meloni.'
 focus_keyword: DDL caccia un abominio per la natura
 ---
 
