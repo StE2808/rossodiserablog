@@ -17,7 +17,7 @@ tags:
   - libertà individuale
   - coscienza
 focus_keyword: 'Silicon Valley controcultura'
-image: /assets/images/uploads/silicon-valley-hippie.jpeg
+image: /assets/images/uploads/silicon-valley-hippie.webp
 image_caption: Una comune hippie in California, fine anni Sessanta
 image_alt: Giovani hippie seduti in un bosco della California attorno a uno striscione con la scritta LOVE
 excerpt: "Nella stessa California che sognava pace e liberazione sono nati i nuovi templi del potere. Non per un furto, ma per un avveramento: la promessa era espandere la coscienza, il risultato è stato espandere il calcolo. E forse il punto non è temere le macchine, ma ricordarci la fatica più vecchia del mondo, imparare a stare insieme."
