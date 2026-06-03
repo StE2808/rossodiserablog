@@ -5,6 +5,12 @@ on:
     paths:
       - 'assets/images/uploads/**'
 
+# Group condiviso con jekyll.yml: serializza i due workflow per evitare
+# la race condition sul git push (entrambi committano sul main toccando i post).
+concurrency:
+  group: "rossodisera-publish"
+  cancel-in-progress: false
+
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -131,4 +137,5 @@ jobs:
             exit 0
           fi
           git commit -m "🖼️ Convert images to WebP and update references"
+          git pull --rebase origin main
           git push
