@@ -2,16 +2,16 @@
 layout: post
 title: La salute non è una merce. La sanità è un bene comune.
 seo_title: 'La salute non è una merce: eccellenze sanitarie, disuguaglianze e il paradosso del modello lombardo'
-description: Ospedali lombardi ai vertici mondiali, eppure liste d’attesa infinite e privatizzazione crescente. Un’analisi dei dati OCSE 2025 e Newsweek 2026 per capire perché nella sanità conta la media, non il picco — e cosa insegna il fallimento americano.
+description: Ospedali lombardi ai vertici mondiali, eppure liste d'attesa infinite e privatizzazione crescente. Un'analisi dei dati OCSE 2025 e Newsweek 2026 per capire perché nella sanità conta la media, non il picco — e cosa insegna il fallimento americano.
 date: 2026-06-03 07:58:00 +0200
 author: lino-rialti
 category: inchieste-dossier
 tags:
-  - sanità pubblica, SSN, sistema sanitario nazionale, eccellenze ospedaliere, Lombardia sanità, ospedali migliori Italia 2026, Newsweek World’s Best Hospitals, disuguaglianze sanitarie, privatizzazione sanità, liste d’attesa, sanità USA, spesa sanitaria pro capite, OCSE salute Italia, bene comune, diritto alla salute
+  - sanità pubblica, SSN, sistema sanitario nazionale, eccellenze ospedaliere, Lombardia sanità, ospedali migliori Italia 2026, Newsweek World's Best Hospitals, disuguaglianze sanitarie, privatizzazione sanità, liste d'attesa, sanità USA, spesa sanitaria pro capite, OCSE salute Italia, bene comune, diritto alla salute
 image: /assets/images/uploads/IMG_7284.webp
 image_caption: Una stanza di un ospedale
 image_alt: Una stanza con più letti in un ospedale
-excerpt: 'La sanità non è misurabile solo per le sue eccellenze. La Lombardia domina le classifiche internazionali — 16 ospedali tra i migliori al mondo secondo Newsweek 2026 — ma parallelamente privatizza l’accesso alle cure, creando una sanità a due velocità. Gli USA dimostrano dove porta questa logica: spesa pro capite record (12.318 dollari), aspettativa di vita sotto gli 80 anni, 8% di adulti che rinunciano alle cure per ragioni economiche. L’Italia, con il suo SSN universalistico e una spesa del 19% inferiore alla media UE, raggiunge 84,1 anni di aspettativa di vita — la più alta d’Europa. Il criterio di giudizio di un sistema sanitario non è il picco dell’eccellenza, ma la qualità media garantita a ogni cittadino, indipendentemente dal reddito.'
+excerpt: "La sanità non è misurabile solo per le sue eccellenze. La Lombardia domina le classifiche internazionali — 16 ospedali tra i migliori al mondo secondo Newsweek 2026 — ma parallelamente privatizza l'accesso alle cure, creando una sanità a due velocità. Gli USA dimostrano dove porta questa logica: spesa pro capite record (12.318 dollari), aspettativa di vita sotto gli 80 anni, 8% di adulti che rinunciano alle cure per ragioni economiche. L'Italia, con il suo SSN universalistico e una spesa del 19% inferiore alla media UE, raggiunge 84,1 anni di aspettativa di vita — la più alta d'Europa. Il criterio di giudizio di un sistema sanitario non è il picco dell'eccellenza, ma la qualità media garantita a ogni cittadino, indipendentemente dal reddito."
 focus_keyword: sanità bene comune
 ---
 
