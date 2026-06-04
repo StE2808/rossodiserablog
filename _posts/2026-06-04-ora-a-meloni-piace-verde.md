@@ -2,7 +2,7 @@
 layout: post
 title: Ora a Meloni piace verde
 seo_title: 'Green Deal e governo Meloni: la flessibilità energetica UE non è una vittoria'
-description: 'L’Italia ottiene 14 miliardi di flessibilità energetica da Bruxelles. Meloni esulta, ma i dati raccontano un’altra storia: non è una deroga alla transizione, è un ammortizzatore temporaneo. E l’Europa chiede di accelerare.'
+description: "L'Italia ottiene 14 miliardi di flessibilità energetica da Bruxelles. Meloni esulta, ma i dati raccontano un'altra storia: non è una deroga alla transizione, è un ammortizzatore temporaneo. E l'Europa chiede di accelerare."
 date: 2026-06-04 07:24:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -18,7 +18,7 @@ tags:
 image: /assets/images/uploads/IMG_7286.jpeg
 image_caption: Panorama
 image_alt: Panorama
-excerpt: La Commissione Europea ha concesso all’Italia 14 miliardi di flessibilità energetica per il biennio 2025–2026. Il governo Meloni presenta la misura come un successo politico, ma si tratta di uno strumento congiunturale di sostegno alle filiere — non di una deroga agli obiettivi climatici. Bruxelles chiede anzi di accelerare su elettrificazione e rinnovabili, le stesse direttrici che il governo ha frenato per tre anni.
+excerpt: La Commissione Europea ha concesso all'Italia 14 miliardi di flessibilità energetica per il biennio 2025–2026. Il governo Meloni presenta la misura come un successo politico, ma si tratta di uno strumento congiunturale di sostegno alle filiere — non di una deroga agli obiettivi climatici. Bruxelles chiede anzi di accelerare su elettrificazione e rinnovabili, le stesse direttrici che il governo ha frenato per tre anni.
 focus_keyword: flessibilità energetica UE Italia 2026
 ---
 
