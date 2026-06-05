@@ -7,20 +7,20 @@ date: 2026-06-05 08:26:00 +0200
 author: lino-rialti
 category: politica-estera
 tags:
-  - Albania,
-  - Edi Rama,
-  - Jared Kushner,
-  - Vjosa-Narta,
-  - Sazan,
-  - Meloni,
-  - CPR Albania,
-  - accordo migranti Italia-Albania,
-  - aree protette,
-  - speculazione immobiliare,
-  - Accordi di Abramo,
-  - Affinity Partners,
-  - geopolitica,
-  - ambiente,
+  - Albania
+  - Edi Rama
+  - Jared Kushner
+  - Vjosa-Narta
+  - Sazan
+  - Meloni
+  - CPR Albania
+  - accordo migranti Italia-Albania
+  - aree protette
+  - speculazione immobiliare
+  - Accordi di Abramo
+  - Affinity Partners
+  - geopolitica
+  - ambiente
   - sovranità
 image: /assets/images/uploads/IMG_7289.webp
 image_caption: Rama e Meloni
@@ -35,9 +35,9 @@ La scintilla è arrivata da Zvërnec, una striscia di costa protetta nel sud del
 
 Il video che ha fatto esplodere la piazza mostra guardie di sicurezza private che trascinano un attivista lungo una scogliera. Le autorità albanesi hanno revocato le licenze a due società di sicurezza private, arrestato una guardia e rimosso il capo della polizia locale. Quindici manifestanti sono stati invece denunciati. Il rapporto di forza, in sintesi, è già scritto.
 
-I manifestanti sono scesi in piazza con fenicotteri gonfiabili e striscioni con la scritta “La nazione non è in vendita” e “Non voglio un’Albania come Dubai”. Chiedono non soltanto l’annullamento del progetto ma anche le dimissioni del premier Rama, accusato di aver piegato le norme urbanistiche e ambientali agli interessi di un investitore straniero influente. Lo SPAK, la procura speciale anticorruzione, ha aperto un’indagine sui fondi utilizzati per acquistare i titoli fondiari e la loro vendita agli investitori.
+I manifestanti sono scesi in piazza con fenicotteri gonfiabili e striscioni con la scritta “La nazione non è in vendita” e “Non voglio un’Albania come Dubai”. Chiedono non soltanto l’annullamento del progetto ma anche le dimissioni del premier Rama, accusato di aver piegato le norme urbanistiche e ambientali agli interessi di [un investitore straniero influente](https://rossodiserablog.it/chi-possiede-l-italia-atto-1-la-mappa/). Lo SPAK, la procura speciale anticorruzione, ha aperto un’indagine sui fondi utilizzati per acquistare i titoli fondiari e la loro vendita agli investitori.
 
-Il nodo Rama-Meloni e il silenzio italiano
+## Il nodo Rama-Meloni e il silenzio italiano
 
 Perché questa vicenda riguarda anche l’Italia, e perché la stampa italiana la tratta in sordina, relegandola a notizia di agenzia senza il peso editoriale che meriterebbe, è presto detto. Le relazioni tra Rama e Meloni sono definite “eccellenti”: su questa base è stato costruito l’accordo sui CPR in Albania, ratificato nel 2024 e della durata di cinque anni, che consente all’Italia di utilizzare le strutture di Gjader e Shengjin come centri di detenzione per migranti. Roma ha bisogno di Tirana come sponda esterna per la propria politica migratoria. Meloni ha bisogno di Rama. Rama lo sa, e lo sfrutta.
 
@@ -45,18 +45,60 @@ Come ha denunciato il deputato di AVS Angelo Bonelli: “Quello che accade in Al
 
 La stampa di governo o filogovernativa italiana ha tutto l’interesse a non ingigantire una vicenda che mette in imbarazzo un alleato prezioso. Raccontare le proteste albanesi significherebbe raccontare il sistema: Rama che modifica le leggi sulle aree protette per favorire gli investitori, Rama che monetizza la detenzione dei migranti per conto di Roma, Rama che difende il progetto davanti al Parlamento di Tirana mentre fuori infuria la piazza.
 
-La geopolitica del cemento: Kushner, il Qatar, e la pista degli Accordi di Abramo
+## La geopolitica del cemento: Kushner, il Qatar, e la pista degli Accordi di Abramo
 
 Il progetto non è solo affare di famiglia Trump. Dietro l’investimento ci sono anche i fratelli Moutaz e Ramez Al-Khayyat, del Qatar, che gestiscono il conglomerato Power International Holding, i quali hanno già speso circa 200 milioni di dollari per l’acquisto dei terreni, i cui proprietari albanesi sono sotto inchiesta.
 
-Analisi della rete finanziaria che converge sulla costa albanese evidenziano come il progetto di Sazan si inserisca nella logica degli Accordi di Abramo: turismo, infrastrutture e rotte commerciali come strumenti per rendere durature e profittevoli le nuove geometrie politiche mediorientali. Un’isola adriatica strategica, trasformata in resort di lusso con il sostegno dello Stato albanese, dai soci di Kushner e da capitali del Golfo, si adatta perfettamente a quella catena.
+Analisi della rete finanziaria che converge sulla costa albanese evidenziano come il progetto di Sazan si inserisca nella [logica degli Accordi di Abramo](https://rossodiserablog.it/gaza-i-fatti-i-numeri-le-responsabilita/): turismo, infrastrutture e rotte commerciali come strumenti per rendere durature e profittevoli le nuove geometrie politiche mediorientali. Un’isola adriatica strategica, trasformata in resort di lusso con il sostegno dello Stato albanese, dai soci di Kushner e da capitali del Golfo, si adatta perfettamente a quella catena.
 
 Il fondo Affinity Partners di Kushner è sostenuto da circa 4,6 miliardi di dollari provenienti dall’Arabia Saudita e da altri fondi sovrani del Medio Oriente. Non si tratta, dunque, di turismo. Si tratta di un progetto di riconfigurazione geopolitica che usa il cemento come lingua e un paese piccolo e bisognoso come pagina bianca.
 
-Perché la gente resiste
+## Perché la gente resiste
 
 L’area di Vjosa-Narta ospita oltre 70 specie a rischio di estinzione e più di 200 specie di uccelli, tra cui fenicotteri e pellicani dalmati, e si trova sull’Adriatic Flyway, uno dei corridoi migratori più importanti tra Africa ed Europa. Le acque circostanti sono tra gli ultimi rifugi mediterranei per la foca monaca, uno degli animali marini più minacciati al mondo.
 
 La scintilla che ha trasformato l’inquietudine locale in rabbia nazionale è stata la dichiarazione di Ivanka Trump su un podcast, in cui ha detto di aver “scoperto” Sazan mentre nuotava dalla barca di un amico, e ha parlato della coppia che costruisce una “isola privata”. In un paese in cui Sazan era terra pubblica da generazioni, l’idea che potesse essere “scoperta” e resa privata ha fatto più danni di qualsiasi recinzione di filo spinato.
 
 **_“L’Albania non è in vendita” non è uno slogan. È una diagnosi: di un governo che ha confuso la sovranità con la liquidità, di un’Europa che guarda altrove purché i confini tengano, di un’informazione italiana che tace perché il silenzio conviene ai suoi referenti politici. Gli albanesi in piazza, invece, hanno già capito tutto._**
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Perché gli albanesi protestano contro il resort di Kushner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jared Kushner, tramite il fondo Affinity Partners, punta a costruire un mega-resort da 4 miliardi di dollari sull'isola di Sazan e nella zona umida protetta di Vjosa-Narta, con ruspe già al lavoro senza permessi né valutazione d'impatto ambientale. I manifestanti sono scesi in piazza con lo slogan La nazione non è in vendita."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Che ruolo ha Giorgia Meloni nella vicenda Albania-Kushner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le relazioni tra Edi Rama e Giorgia Meloni sono definite eccellenti: su questa base è stato costruito l'accordo sui CPR in Albania, ratificato nel 2024, che consente all'Italia di usare le strutture di Gjader e Shengjin come centri di detenzione per migranti. Roma ha bisogno di Tirana come sponda esterna e la stampa italiana tratta la vicenda in sordina."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Chi finanzia il progetto di Kushner in Albania?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il fondo Affinity Partners di Kushner è sostenuto da circa 4,6 miliardi di dollari provenienti dall'Arabia Saudita e da altri fondi sovrani mediorientali. Dietro l'investimento ci sono anche i fratelli Moutaz e Ramez Al-Khayyat del Qatar, che hanno già speso circa 200 milioni di dollari per i terreni, in una logica che richiama gli Accordi di Abramo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché Vjosa-Narta è un'area da proteggere?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'area di Vjosa-Narta ospita oltre 70 specie a rischio di estinzione e più di 200 specie di uccelli, tra cui fenicotteri e pellicani dalmati, e si trova sull'Adriatic Flyway, uno dei corridoi migratori più importanti tra Africa ed Europa. Le acque circostanti sono tra gli ultimi rifugi mediterranei per la foca monaca."
+      }
+    }
+  ]
+}
+</script>

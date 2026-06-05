@@ -7,13 +7,13 @@ date: 2026-06-04 07:24:00 +0200
 author: lino-rialti
 category: politica-interna
 tags:
-  - Green Deal,
-  - transizione energetica,
-  - Meloni,
-  - Commissione Europea,
-  - rinnovabili,
-  - politica energetica,
-  - flessibilità UE,
+  - Green Deal
+  - transizione energetica
+  - Meloni
+  - Commissione Europea
+  - rinnovabili
+  - politica energetica
+  - flessibilità UE
   - elettrificazione
 image: /assets/images/uploads/IMG_7286.webp
 image_caption: Panorama
@@ -26,10 +26,50 @@ Meloni rivendica la flessibilità energetica concessa da Bruxelles. Ma i 14 mili
  
 Giorgia Meloni esulta. La Commissione Europea ha accordato all’Italia una flessibilità aggiuntiva sul fronte energetico pari a 14 miliardi di euro nel biennio 2025–2026, di cui 6,8 miliardi destinati al solo 2026. Per la presidente del Consiglio, si tratta dell’ennesima conferma che «l’Italia indica la strada». Peccato che la strada, a guardarla bene, porti esattamente dove Meloni ha sempre detto di non voler andare.
 
+## Non è una deroga, è un ammortizzatore temporaneo
+
 La flessibilità concessa da Bruxelles non è una deroga, né un’inversione di rotta rispetto alla transizione ecologica. Non ci sono sconti sulle misure strutturali, non ci sono proroghe sui target climatici, non c’è nessun allentamento degli obblighi sull’elettrificazione. È uno spazio di manovra finanziaria temporaneo, pensato per attutire l’impatto del calo dei prezzi energetici sulle filiere produttive, non per rimandare la trasformazione del sistema.
 
-L’Europa, semmai, chiede di accelerare: completare la transizione, spingere sull’elettrificazione dei consumi, incrementare la quota di rinnovabili nel mix energetico. Sono le stesse direttrici che il governo Meloni ha ostacolato, rallentato o dichiarato ideologiche per tre anni — dal freno all’agrivoltaico alle resistenze sul phase-out del gas, dalla difesa dei motori termici alla narrativa contro il «Green Deal delle élite».
+## L'Europa chiede di accelerare, non di frenare
+
+L’Europa, semmai, chiede di accelerare: completare la transizione, spingere sull’elettrificazione dei consumi, incrementare la quota di rinnovabili nel mix energetico. Sono le stesse direttrici che il governo Meloni ha ostacolato, rallentato o dichiarato ideologiche per tre anni — dal freno all’agrivoltaico alle resistenze sul [phase-out del gas](https://rossodiserablog.it/fossili-e-fumo-l-italia-paga-il-conto-di-una-guerra-che-non-doveva-scoppiare/), dalla difesa dei motori termici alla narrativa contro il «Green Deal delle élite».
+
+## La giravolta della comunicazione
 
 Oggi quella stessa agenda diventa un successo da rivendicare. La coerenza è un lusso che la comunicazione politica non può permettersi, evidentemente. Ma i dati restano: la flessibilità aggiuntiva è uno strumento congiunturale, non una vittoria strategica. E l’Italia, sul fronte della transizione energetica, è ancora in ritardo su capacità installata, efficienza degli edifici e reti di distribuzione.
 
 Raccontare un ammortizzatore come una svolta di sistema è propaganda. Funziona finché non si leggono i documenti.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa sono i 14 miliardi di flessibilità energetica concessi all'Italia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La Commissione Europea ha accordato all'Italia una flessibilità aggiuntiva di 14 miliardi di euro nel biennio 2025-2026, di cui 6,8 miliardi per il solo 2026. Si tratta di uno strumento congiunturale per attutire l'impatto del calo dei prezzi energetici sulle filiere produttive, non di una deroga ai target climatici."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La flessibilità UE è una deroga agli obiettivi del Green Deal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Non ci sono sconti sulle misure strutturali, né proroghe sui target climatici, né allentamenti degli obblighi sull'elettrificazione. E' uno spazio di manovra finanziaria temporaneo, non un'inversione di rotta rispetto alla transizione ecologica."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cosa chiede davvero l'Europa all'Italia sull'energia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bruxelles chiede di accelerare: completare la transizione, spingere sull'elettrificazione dei consumi e incrementare la quota di rinnovabili nel mix energetico. Sono le stesse direttrici che il governo Meloni ha ostacolato o dichiarato ideologiche per tre anni."
+      }
+    }
+  ]
+}
+</script>
