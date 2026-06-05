@@ -3,7 +3,7 @@ layout: post
 title: "«Fermateci». La paura di Anthropic, i creatori dell'intelligenza artificiale"
 seo_title: "«Fermateci». La paura di Anthropic e l'enciclica sull'IA"
 description: "Anthropic corre verso l'IA che si costruisce da sé e insieme chiede di fermarla. Tra l'enciclica di Leone XIV e una creatura intervistata, chi decide davvero."
-date: 2026-06-06 09:00:00 +0200
+date: 2026-06-06 00:34:52 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:
