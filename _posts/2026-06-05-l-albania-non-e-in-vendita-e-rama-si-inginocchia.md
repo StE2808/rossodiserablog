@@ -1,8 +1,8 @@
 ---
 layout: post
-title: L’Albania non è in vendita. E Rama si inginocchia
-seo_title: 'Albania non è in vendita: Rama cede coste e isole a Kushner mentre l’Italia tace'
-description: Migliaia di albanesi in piazza contro il mega-resort di Kushner a Vjosa-Narta e sull’isola di Sazan. Rama modifica le leggi, monetizza i migranti per Meloni e la stampa italiana guarda altrove. Analisi di una svendita geopolitica.
+title: L'Albania non è in vendita. E Rama si inginocchia
+seo_title: "Albania non è in vendita: Rama cede coste e isole a Kushner mentre l'Italia tace"
+description: Migliaia di albanesi in piazza contro il mega-resort di Kushner a Vjosa-Narta e sull'isola di Sazan. Rama modifica le leggi, monetizza i migranti per Meloni e la stampa italiana guarda altrove. Analisi di una svendita geopolitica.
 date: 2026-06-05 08:26:00 +0200
 author: lino-rialti
 category: politica-estera
@@ -25,7 +25,7 @@ tags:
 image: /assets/images/uploads/IMG_7289.webp
 image_caption: Rama e Meloni
 image_alt: Edi Rama in un abbraccio poco istituzionale con Giorgia Meloni
-excerpt: 'Tirana è in piazza da settimane. La scintilla è il mega-resort da 4 miliardi di dollari che Jared Kushner vuole costruire sull’isola di Sazan e nella zona umida protetta di Vjosa-Narta, con ruspe già al lavoro senza permessi né valutazione d’impatto. Rama ha modificato le leggi per favorire gli investitori, la procura anticorruzione SPAK ha aperto un’indagine, ma il premier difende il progetto. Sullo sfondo, l’intreccio con Meloni: l’accordo sui CPR trasforma l’Albania in piattaforma esternalizzata delle politiche migratorie italiane, rendendo Rama un alleato troppo comodo per essere imbarazzato. Dietro Kushner ci sono i fratelli Al-Khayyat del Qatar e capitali del Golfo, in una logica che richiama gli Accordi di Abramo. La stampa italiana tace. Gli albanesi in piazza no.'
+excerpt: "Tirana è in piazza da settimane. La scintilla è il mega-resort da 4 miliardi di dollari che Jared Kushner vuole costruire sull'isola di Sazan e nella zona umida protetta di Vjosa-Narta, con ruspe già al lavoro senza permessi né valutazione d'impatto. Rama ha modificato le leggi per favorire gli investitori, la procura anticorruzione SPAK ha aperto un'indagine, ma il premier difende il progetto. Sullo sfondo, l'intreccio con Meloni: l'accordo sui CPR trasforma l'Albania in piattaforma esternalizzata delle politiche migratorie italiane, rendendo Rama un alleato troppo comodo per essere imbarazzato. Dietro Kushner ci sono i fratelli Al-Khayyat del Qatar e capitali del Golfo, in una logica che richiama gli Accordi di Abramo. La stampa italiana tace. Gli albanesi in piazza no."
 focus_keyword: proteste Albania Kushner Vjosa-Narta
 ---
 
