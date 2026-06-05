@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Archiviazione, non canonizzazione. La memoria corta del centrodestra
-seo_title: 'Archiviazione, non santità: Dell’Utri condannato resta condannato, Berlusconi non era un martire'
-description: La sesta archiviazione fiorentina sulle stragi del ‘93 non cancella la condanna definitiva di Dell’Utri per mafia né i processi evaporati per leggi ad personam. Meloni esulta, ma il centrodestra non è l’erede di Falcone e Borsellino.
+seo_title: "Archiviazione, non santità: Dell'Utri condannato resta condannato, Berlusconi non era un martire"
+description: La sesta archiviazione fiorentina sulle stragi del '93 non cancella la condanna definitiva di Dell'Utri per mafia né i processi evaporati per leggi ad personam. Meloni esulta, ma il centrodestra non è l'erede di Falcone e Borsellino.
 date: 2026-06-05 06:46:00 +0200
 author: lino-rialti
 category: politica-interna
 tags:
-  - Dell’Utri,
+  - Dell'Utri,
   - Berlusconi,
   - mafia,
   - stragi 1993,
@@ -24,9 +24,9 @@ tags:
   - Seconda Repubblica
 image: /assets/images/uploads/IMG_7288.jpeg
 image_caption: Silvio Berlusconi
-image_alt: Silvio Berlusconi in un disegno che lo ritrae come Santo con l’aureola
-excerpt: 'L’archiviazione del gip di Firenze sulle stragi del ‘93 non è una riabilitazione. Dell’Utri resta condannato in via definitiva per concorso esterno in associazione mafiosa, e la Cassazione ha accertato che Berlusconi era al corrente dei suoi contatti con Cosa Nostra. Il trionfalismo di Meloni, Marina e Barbara Berlusconi distorce la realtà giudiziaria: molte accuse contro il Cavaliere non caddero per infondatezza, ma per prescrizioni e leggi ad personam. Un’archiviazione dice che non bastava per processare — non che tutto fosse innocente.'
-focus_keyword: archiviazione Dell’Utri Berlusconi stragi 1993
+image_alt: Silvio Berlusconi in un disegno che lo ritrae come Santo con l'aureola
+excerpt: "L'archiviazione del gip di Firenze sulle stragi del '93 non è una riabilitazione. Dell'Utri resta condannato in via definitiva per concorso esterno in associazione mafiosa, e la Cassazione ha accertato che Berlusconi era al corrente dei suoi contatti con Cosa Nostra. Il trionfalismo di Meloni, Marina e Barbara Berlusconi distorce la realtà giudiziaria: molte accuse contro il Cavaliere non caddero per infondatezza, ma per prescrizioni e leggi ad personam. Un'archiviazione dice che non bastava per processare — non che tutto fosse innocente."
+focus_keyword: archiviazione Dell'Utri Berlusconi stragi 1993
 ---
 
 Il 4 giugno 2026 il centrodestra italiano ha imbracciato l'archiviazione del gip fiorentino Patrizia Martucci — firmata il 15 gennaio scorso ma diventata pubblica solo ieri — come se fosse una sentenza di Norimberga che riscrive la storia. Giorgia Meloni ha parlato di "verità storica e giudiziaria incontrovertibile" e di "assoluta inesistenza di rapporti tra Silvio Berlusconi e la criminalità organizzata". Antonio Tajani ha evocato persecuzioni e "false accuse usate come una clava politica". Marina Berlusconi ha denunciato un teorema costruito "non con il cemento delle prove ma con il fango del pregiudizio ideologico". Barbara Berlusconi ha dichiarato che "la verità crolla addosso ai suoi accusatori".
