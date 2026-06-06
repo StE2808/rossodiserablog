@@ -2,7 +2,7 @@
 layout: post
 title: "La scuola pubblica in vendita Il progetto Valditara di privatizzazione dell'istruzione   Il progetto: i privati costruiscono, i privati gestiscono"
 seo_title: "La scuola pubblica in vendita Il progetto Valditara di privatizzazione dell'istruzione   Il progetto: i privati costruiscono, i privati gestiscono"
-description: 'La scuola pubblica italiana a rischio privatizzazione: il piano Valditara di project financing affida edifici scolastici e servizi — mensa, pulizie, laboratori — a privati per vent’anni. Un progetto che coinvolge 40.000 edifici e 7 milioni di studenti, in contrasto con l’art. 33 della Costituzione.'
+description: "La scuola pubblica italiana a rischio privatizzazione: il piano Valditara di project financing affida edifici scolastici e servizi — mensa, pulizie, laboratori — a privati per vent'anni. Un progetto che coinvolge 40.000 edifici e 7 milioni di studenti, in contrasto con l'art. 33 della Costituzione."
 date: 2026-06-06 07:14:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -17,7 +17,7 @@ tags:
   - riforma istruzione,
   - governo Meloni,
   - articolo 33 Costituzione,
-  - diritto all’istruzione,
+  - diritto all'istruzione,
   - ANCE,
   - Partenariato pubblico-privato,
   - scuole paritarie,
@@ -25,7 +25,7 @@ tags:
 image: /assets/images/uploads/IMG_7292.webp
 image_caption: Il ministro Valditara
 image_alt: IlMinistro Valditara
-excerpt: 'Il ministro Valditara ha annunciato un piano di privatizzazione dell’edilizia e dei servizi scolastici basato sul project financing: soggetti privati costruiranno o ristruttureranno edifici pubblici in cambio della gestione ventennale di mensa, pulizie, riscaldamento e laboratori. Il contributo pubblico sarà “minoritario”, ma presente — in aperta tensione con l’art. 33 della Costituzione. Il modello, presentato al convegno ANCE del 12 febbraio 2026, riguarda un patrimonio di 40.000 edifici e 7 milioni di studenti. A ciò si aggiungono i 750 milioni stanziati per le scuole paritarie (2024-2025) e l’apertura delle imprese alla programmazione didattica nelle filiere tecnico-professionali. Il risultato è una scuola a due velocità, in cui l’istruzione da diritto universale diventa servizio di mercato.'
+excerpt: "Il ministro Valditara ha annunciato un piano di privatizzazione dell'edilizia e dei servizi scolastici basato sul project financing: soggetti privati costruiranno o ristruttureranno edifici pubblici in cambio della gestione ventennale di mensa, pulizie, riscaldamento e laboratori. Il contributo pubblico sarà \"minoritario\", ma presente — in aperta tensione con l'art. 33 della Costituzione. Il modello, presentato al convegno ANCE del 12 febbraio 2026, riguarda un patrimonio di 40.000 edifici e 7 milioni di studenti. A ciò si aggiungono i 750 milioni stanziati per le scuole paritarie (2024-2025) e l'apertura delle imprese alla programmazione didattica nelle filiere tecnico-professionali. Il risultato è una scuola a due velocità, in cui l'istruzione da diritto universale diventa servizio di mercato."
 focus_keyword: ''
 ---
 
