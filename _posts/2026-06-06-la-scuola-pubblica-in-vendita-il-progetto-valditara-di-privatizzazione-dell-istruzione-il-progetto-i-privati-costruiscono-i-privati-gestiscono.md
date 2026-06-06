@@ -22,7 +22,7 @@ tags:
   - Partenariato pubblico-privato,
   - scuole paritarie,
   - filiera tecnico-professionale
-image: /assets/images/uploads/IMG_7292.jpeg
+image: /assets/images/uploads/IMG_7292.webp
 image_caption: Il ministro Valditara
 image_alt: IlMinistro Valditara
 excerpt: 'Il ministro Valditara ha annunciato un piano di privatizzazione dell’edilizia e dei servizi scolastici basato sul project financing: soggetti privati costruiranno o ristruttureranno edifici pubblici in cambio della gestione ventennale di mensa, pulizie, riscaldamento e laboratori. Il contributo pubblico sarà “minoritario”, ma presente — in aperta tensione con l’art. 33 della Costituzione. Il modello, presentato al convegno ANCE del 12 febbraio 2026, riguarda un patrimonio di 40.000 edifici e 7 milioni di studenti. A ciò si aggiungono i 750 milioni stanziati per le scuole paritarie (2024-2025) e l’apertura delle imprese alla programmazione didattica nelle filiere tecnico-professionali. Il risultato è una scuola a due velocità, in cui l’istruzione da diritto universale diventa servizio di mercato.'
