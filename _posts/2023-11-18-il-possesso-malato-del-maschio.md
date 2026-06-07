@@ -19,8 +19,8 @@ Un evento, come questo ultimo, è il tragico risultato dell'oppressione di gener
 
 Le donne diventano vittime di una dinamica relazionale distorta, in cui il possessivo dominio dell'uomo sfocia in episodi di violenza crescente che troppo spesso diventa estrema, culminando, a volte, nella perdita irreparabile della vita.
 
-Affrontare il femminicidio richiede un impegno diffuso per cambiare le mentalità, educare sulla parità di genere e creare sistemi di supporto per le vittime.
+Affrontare il femminicidio richiede un impegno diffuso per cambiare le mentalità, [educare sulla parità di genere](https://rossodiserablog.it/violenza-di-genere-conoscere-per-cambiare/) e creare sistemi di supporto per le vittime.
 
-È essenziale sfidare e cambiare le norme culturali dannose che alimentano il senso di possesso e la dominanza maschile, contribuendo così a creare società più sicure ed equilibrate.
+È essenziale sfidare e cambiare le [norme culturali dannose](https://rossodiserablog.it/rompiamo-le-catene-viaggio-verso-la-liberta-dalla-violenza-d/) che alimentano il senso di possesso e la dominanza maschile, contribuendo così a creare società più sicure ed equilibrate.
 
-Queste politiche non si attuano peggiorando le punizioni, il colpevole è disposto anche a perdere la propria vita , figuriamoci cosa cambia una minaccia di inasprire una pena. Di converso, l'educazione, a partire dall'adozione nelle scuole di materie specifiche ed argomenti trattati interdisciplinarmente, sono l'unica cura per questa tremenda piaga.
+Queste politiche non si attuano [peggiorando le punizioni](https://rossodiserablog.it/violenza-sulle-donne-la-ricetta-disastrosa-del-governo/), il colpevole è disposto anche a perdere la propria vita , figuriamoci cosa cambia una minaccia di inasprire una pena. Di converso, l'educazione, a partire dall'adozione nelle scuole di materie specifiche ed argomenti trattati interdisciplinarmente, sono l'unica cura per questa tremenda piaga.
