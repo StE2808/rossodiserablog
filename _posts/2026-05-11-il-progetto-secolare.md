@@ -54,7 +54,7 @@ Leggere questi testi come prove di una cospirazione occulta sarebbe però un err
 
 ## La disuguaglianza come normalità programmata
 
-Viviamo in un'epoca in cui la disuguaglianza di ricchezza ha raggiunto livelli che non si vedevano dal 1929, in cui l'evasione fiscale dei grandi patrimoni è strutturalmente facilitata da giurisdizioni compiacenti, in cui i reati dei colletti bianchi si prescrivono mentre si costruiscono nuove fattispecie penali per il dissenso di piazza.
+Viviamo in un'epoca in cui la [disuguaglianza di ricchezza](https://rossodiserablog.it/la-scimmia-di-forbes/) ha raggiunto livelli che non si vedevano dal 1929, in cui l'[evasione fiscale dei grandi patrimoni](https://rossodiserablog.it/l-uomo-ombra-andrea-pignataro-ricchissimo-e-sconosciuto/) è strutturalmente facilitata da giurisdizioni compiacenti, in cui i reati dei colletti bianchi si prescrivono mentre si costruiscono nuove fattispecie penali per il dissenso di piazza.
 
 Il progetto, se di progetto si vuole parlare, non ha bisogno di riunioni segrete. Ha bisogno solo che chi sta in cima continui a fare esattamente ciò che gli conviene fare. E che chi sta in basso continui a credere che sia normale.
 

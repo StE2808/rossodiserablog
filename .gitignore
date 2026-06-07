@@ -39,3 +39,9 @@ workflow_rossodisera.md
 # Graphify — knowledge graph locale (non pubblicare)
 graphify-out/
 .graphifyignore
+
+# Dashboard — snapshot dati Search Console (non pubblicare)
+dashboard/gsc_snapshot.json
+# Dashboard — versione pubblicata e script di deploy/lettura (path nascosto, host, logica VPS)
+dashboard/publish/
+dashboard/*.sh

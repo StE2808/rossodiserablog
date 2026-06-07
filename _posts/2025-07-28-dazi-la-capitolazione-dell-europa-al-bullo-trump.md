@@ -27,7 +27,7 @@ Dopo mesi di tensioni e minacce, l'accordo raggiunto tra Stati Uniti e Unione Eu
 
 Il cosiddetto "dazio reciproco" del 15% sulle merci europee ha di reciproco solo il nome: mentre Washington impone barriere commerciali punitive, l'UE ha scelto la via della capitolazione, rinunciando a qualsiasi misura di ritorsione sui 93 miliardi di euro di beni americani e sui servizi USA in Europa.
 
-L'impatto economico di questa decisione sarà devastante per l'economia europea. Germania e Italia, i paesi più esposti commercialmente verso gli Stati Uniti, vedranno i loro PIL contrarsi rispettivamente dello 0,3% e 0,2% (Centro Studi Confindustria, 2025). Ma il danno non si limita ai dazi: la svalutazione del 13% del dollaro dall'insediamento di Trump ha reso i prodotti europei ancora più costosi per i consumatori americani. Per un esportatore italiano, l'onere complessivo raggiunge un insostenibile 21%.
+L'impatto economico di questa decisione sarà devastante per l'economia europea. Germania e Italia, i paesi più esposti commercialmente verso gli Stati Uniti, vedranno i loro PIL contrarsi rispettivamente dello 0,3% e 0,2% ([Centro Studi Confindustria](https://www.confindustria.it/), 2025). Ma il danno non si limita ai dazi: la svalutazione del 13% del dollaro dall'insediamento di Trump ha reso i prodotti europei ancora più costosi per i consumatori americani. Per un esportatore italiano, l'onere complessivo raggiunge un insostenibile 21%.
 
 Trump, dal canto suo, incasserà entrate doganali aggiuntive per 66 miliardi di dollari annui — nove volte i livelli pre-Trump — mentre l'Europa si limita a subire passivamente un colpo che ridurrà le esportazioni verso gli USA del 25-30% (ICE, stima luglio 2025).
 
@@ -35,7 +35,7 @@ Trump, dal canto suo, incasserà entrate doganali aggiuntive per 66 miliardi di 
 
 La situazione si complica ulteriormente quando si considera la "deviazione del commercio": molti paesi colpiti dai dazi americani stanno ora puntando sul mercato europeo per compensare le perdite. Cina (indice 100), India (75) e ASEAN (61) — proprio i partner con cui l'UE vorrebbe stringere nuovi accordi — stanno già deviando i loro flussi commerciali verso l'Europa, rendendo più difficili e meno vantaggiose future negoziazioni.
 
-Ridicolo appare il gongolare di Meloni, Salvini e Tajani di fronte a questo disastroso accordo. La loro giustificazione di un'intesa che penalizza gravemente l'Italia rivela una preoccupante mancanza di visione strategica e di difesa degli interessi nazionali. Come si può celebrare un accordo che impone ai nostri esportatori un onere aggiuntivo del 21%?
+Ridicolo appare [il gongolare di Meloni, Salvini e Tajani](https://rossodiserablog.it/la-grande-mediatrice-ovvero-come-meloni-divenne-il-ponte-di-/) di fronte a questo disastroso accordo. La loro giustificazione di un'intesa che penalizza gravemente l'Italia rivela una preoccupante mancanza di visione strategica e di difesa degli interessi nazionali. Come si può celebrare un accordo che impone ai nostri esportatori un onere aggiuntivo del 21%?
 
 ## Un'occasione storica sprecata
 

@@ -34,9 +34,9 @@ Il "buon rapporto personale" con Trump doveva essere la carta vincente. Quella t
 
 ## La realtà morde
 
-E invece Trump ha fatto quello che Trump fa sempre: ha cambiato idea ogni cinque minuti, ha usato i dazi come una clava negoziale, e ha sostanzialmente ignorato ogni tentativo di mediazione italiana. Dal 2,5% al 10%, poi minacce del 20%, poi del 50%, infine il 30%. Un festival dell'improvvisazione che ha reso ogni strategia italiana completamente inutile.
+E invece Trump ha fatto quello che Trump fa sempre: ha cambiato idea ogni cinque minuti, ha usato [i dazi come una clava negoziale](https://rossodiserablog.it/dazi-la-capitolazione-dell-europa-al-bullo-trump/), e ha sostanzialmente ignorato ogni tentativo di mediazione italiana. Dal 2,5% al 10%, poi minacce del 20%, poi del 50%, infine il 30%. Un festival dell'improvvisazione che ha reso ogni strategia italiana completamente inutile.
 
-I numeri raccontano il fallimento meglio di qualsiasi analisi politica: la svalutazione del 13% del dollaro dall'insediamento di Trump ha reso i prodotti europei più costosi per i consumatori americani. Per un esportatore italiano, l'onere complessivo raggiunge un insostenibile 21% (ICE, luglio 2025). Le esportazioni italiane verso gli USA si ridurranno del 25-30%, con un impatto sul PIL dell'0,2%, secondo le stime del Centro Studi di Confindustria.
+I numeri raccontano il fallimento meglio di qualsiasi analisi politica: la svalutazione del 13% del dollaro dall'insediamento di Trump ha reso i prodotti europei più costosi per i consumatori americani. Per un esportatore italiano, l'onere complessivo raggiunge un insostenibile 21% (ICE, luglio 2025). Le esportazioni italiane verso gli USA si ridurranno del 25-30%, con un impatto sul PIL dell'0,2%, secondo le stime del [Centro Studi di Confindustria](https://www.confindustria.it/).
 
 Ma la cosa davvero esilarante è il comunicato del governo italiano. Mentre la Francia minaccia contromisure serie e la Germania almeno ammette apertamente le proprie preoccupazioni economiche, l'Italia che fa? Confida nella "buona volontà" delle parti. Buona volontà! Come se Trump fosse un vicino di casa con cui discutere del volume della musica, non un presidente che ha fatto della guerra commerciale il suo sport preferito.
 

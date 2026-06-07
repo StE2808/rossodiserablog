@@ -17,14 +17,14 @@ Stiamo assistendo a una riconfigurazione globale del potere senza precedenti nel
 ## Le Big Tech e la Politica: Un Matrimonio di Convenienza
 Le Big Tech stanno rapidamente ristrutturando la loro strategia per i prossimi decenni. La novità più significativa è che non dipendono più dalla politica nel senso tradizionale del termine. Perché cercare mediazioni con i rappresentanti eletti quando possono influenzare direttamente le masse attraverso gli algoritmi e le piattaforme che controllano?
 
-Il caso delle ultime elezioni americane è emblematico: l'alleanza tra Trump ed Elon Musk ha dimostrato come il potere mediatico di un singolo magnate della tecnologia possa tradursi in influenza politica concreta. X (ex Twitter), sotto la guida di Musk, è diventato un potentissimo strumento di mobilitazione elettorale, capace di orientare l'opinione pubblica in maniera determinante.
+Il caso delle ultime elezioni americane è emblematico: l'alleanza tra Trump ed Elon Musk ha dimostrato come il [potere mediatico di un singolo magnate della tecnologia](https://rossodiserablog.it/il-potere-globale-delle-tecnologie-oltre-le-urne-verso-il-co/) possa tradursi in influenza politica concreta. X (ex Twitter), sotto la guida di Musk, è diventato un potentissimo strumento di mobilitazione elettorale, capace di orientare l'opinione pubblica in maniera determinante.
 
 Questa capacità di influenza diretta rappresenta un cambiamento epocale: le Big Tech non sono più supplicanti che chiedono favori ai politici, ma kingmaker che possono determinare chi siederà nelle stanze del potere.
 
 ## L'Efficienza del Modello Autoritario
 La strategia che sembra emergere da parte delle Big Tech è puramente utilitaristica. Un sistema globale con pochi, potenti interlocutori risulta estremamente più "efficiente" dal punto di vista negoziale rispetto a un mondo frammentato in decine di democrazie con processi decisionali complessi.
 
-In questa ottica, un leader autoritario come Putin rappresenta un partner ideale: decisioni rapide, implementazione immediata, stabilità di lungo periodo. È infinitamente più semplice concludere accordi con il Cremlino che navigare la complessa burocrazia dell'Unione Europea, con le sue 27 visioni nazionali diverse, i suoi processi di consultazione e i suoi meccanismi di veto incrociato.
+In questa ottica, [un leader autoritario come Putin](https://rossodiserablog.it/sos-autoritarismo/) rappresenta un partner ideale: decisioni rapide, implementazione immediata, stabilità di lungo periodo. È infinitamente più semplice concludere accordi con il Cremlino che navigare la complessa burocrazia dell'Unione Europea, con le sue 27 visioni nazionali diverse, i suoi processi di consultazione e i suoi meccanismi di veto incrociato.
 
 Questa preferenza per l'"efficienza autoritaria" potrebbe tradursi in un disegno geopolitico in cui:
 
@@ -43,7 +43,7 @@ Continuare a fare affidamento sulla protezione americana, accettando il proprio 
 ### La Via dell'Autonomia Strategica
 Un percorso arduo ma necessario, che richiederebbe una trasformazione profonda delle istituzioni e delle priorità europee:
 
-- **Creazione di una difesa comune europea** realmente integrata e operativa, capace di proteggere i confini dell'Unione senza dipendere dal supporto americano.
+- **Creazione di una [difesa comune europea](https://rossodiserablog.it/storie-di-saggi-selvaggi-diritti-e-doveri/)** realmente integrata e operativa, capace di proteggere i confini dell'Unione senza dipendere dal supporto americano.
 - **Sviluppo di un'intelligence unificata europea** che superi la frammentazione attuale e la competizione tra servizi nazionali.
 - **Investimento massiccio in innovazione tecnologica**, con l'obiettivo di creare una "Silicon Valley europea" capace di competere con i giganti americani e cinesi.
 - **Unificazione dei mercati finanziari europei** per creare un contrappeso a Wall Street e aumentare la capacità di mobilitare capitali per progetti strategici.

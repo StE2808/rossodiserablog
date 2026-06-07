@@ -35,7 +35,7 @@ Il governo italiano ha votato contro ogni sanzione a Israele, benedetto i massac
 
 Non esistono errori quando si spara contro ospedali, scuole e luoghi di culto. Esiste solo la complicità di chi fornisce copertura politica agli assassini. Meloni ha scelto: non la pace, non il diritto, non la pietà cristiana che tanto millanta, ma l'alleanza con chi uccide bambini e bombarda chiese.
 
-I numeri del conflitto parlano da soli: al momento, oltre 145 paesi nel mondo hanno riconosciuto lo Stato di Palestina (Nazioni Unite, 2025). Il Parlamento Europeo ha votato risoluzioni che chiedono il cessate il fuoco con oltre il 60% dei voti. L'Italia è rimasta ferma mentre i suoi principali partner — Francia, Spagna, Irlanda, Norvegia — compivano scelte storiche.
+I numeri del conflitto parlano da soli: al momento, [oltre 145 paesi nel mondo hanno riconosciuto lo Stato di Palestina](https://rossodiserablog.it/il-riconoscimento-della-palestina-e-l-inadeguatezza-italiana/) (Nazioni Unite, 2025). Il Parlamento Europeo ha votato risoluzioni che chiedono il cessate il fuoco con oltre il 60% dei voti. L'Italia è rimasta ferma mentre i suoi principali partner — Francia, Spagna, Irlanda, Norvegia — compivano scelte storiche.
 
 ## Il paria d'Europa
 

@@ -44,11 +44,11 @@ Non basta. Il DDL introduce anche un nuovo divieto di 'ostacolare o rallentare' 
 
 ## Chi paga il prezzo
 
-Il WWF parla di profili di incostituzionalità, rischi per la sicurezza pubblica e favore al bracconaggio. La LAC — Lega per l'Abolizione della Caccia — definisce il testo 'uno sfacelo per la natura'. Tutto questo, secondo le stime, per accontentare meno dell'1% della popolazione italiana. Il resto del Paese, compresi i milioni di cittadini che amano la natura, pagherà il conto.
+Il [WWF](https://www.wwf.it/) parla di profili di incostituzionalità, rischi per la sicurezza pubblica e favore al bracconaggio. La LAC — Lega per l'Abolizione della Caccia — definisce il testo 'uno sfacelo per la natura'. Tutto questo, secondo le stime, per accontentare meno dell'1% della popolazione italiana. Il resto del Paese, compresi i milioni di cittadini che amano la natura, pagherà il conto.
 
 ## La responsabilità politica
 
-Sarebbe comodo fermarsi al bersaglio più facile. Ma dietro Lollobrigida c'è Giorgia Meloni. È lei a guidare questo governo, è lei ad averne costruito la linea politica, è lei ad aver scelto i propri ministri. Il DDL caccia è il prodotto diretto di una destra che ha costruito la propria identità sul rifiuto dell'ambientalismo, sulla subalternità alle lobby venatorie e armiere, e su una visione del territorio come terreno di conquista anziché bene comune da tutelare.
+Sarebbe comodo fermarsi al bersaglio più facile. Ma dietro Lollobrigida c'è Giorgia Meloni. È lei a guidare questo governo, è lei ad averne costruito la linea politica, è lei ad aver scelto i propri ministri. Il DDL caccia è il prodotto diretto di una destra che ha costruito la propria identità sul rifiuto dell'[ambientalismo](https://rossodiserablog.it/ora-a-meloni-piace-verde/), sulla subalternità alle lobby venatorie e armiere, e su una visione del territorio come terreno di conquista anziché bene comune da tutelare.
 
 Se esiste un'opposizione degna di questo nome — e una società civile che non si rassegna — questo è il momento di alzare la voce. Non domani. Adesso.
 

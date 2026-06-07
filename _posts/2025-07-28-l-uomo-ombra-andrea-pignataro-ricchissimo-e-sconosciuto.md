@@ -38,7 +38,7 @@ Questa strategia dell'invisibilità lo ha reso uno dei miliardari più enigmatic
 
 ## L'accordo che svela l'ombra
 
-Nel 2025, per la prima volta, il nome di Andrea Pignataro è emerso dalle pagine economiche specializzate per approdare alla cronaca nazionale. L'Agenzia delle Entrate italiana aveva contestato al finanziere bolognese una presunta evasione fiscale di circa 500 milioni di euro per il periodo 2013-2023, che con interessi e sanzioni sarebbe salita a 1,2 miliardi.
+Nel 2025, per la prima volta, il nome di Andrea Pignataro è emerso dalle pagine economiche specializzate per approdare alla cronaca nazionale. L'Agenzia delle Entrate italiana aveva contestato al finanziere bolognese una [presunta evasione fiscale](https://rossodiserablog.it/il-progetto-secolare/) di circa 500 milioni di euro per il periodo 2013-2023, che con interessi e sanzioni sarebbe salita a 1,2 miliardi.
 
 L'accordo stragiudiziale raggiunto a giugno 2025 per 280 milioni di euro — da pagare in cinque rate — ha rappresentato un momento di involontaria esposizione mediatica per l'uomo che aveva fatto della riservatezza il suo marchio di fabbrica. Secondo le autorità fiscali italiane, la sua residenza svizzera era "fittizia" e avrebbe dovuto essere considerato fiscalmente residente in Italia.
 
