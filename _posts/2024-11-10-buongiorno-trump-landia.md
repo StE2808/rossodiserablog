@@ -19,9 +19,9 @@ La coalizione vincente? Un'allegra brigata di bianchi arrabbiati, neri spaventat
 
 Netanyahu festeggia licenziando il ministro della Difesa come se fosse un cameriere in prova. Tanto, chi ha bisogno di un ministro della Difesa quando hai una guerra in corso?
 
-Le destre europee brindano alla vittoria di Trump come tacchini che festeggiano il Giorno del Ringraziamento. Non hanno ancora capito che saranno i prossimi sul menu: vino francese tassato al 200%, auto tedesche trattate come carriole cinesi, e l'Italia costretta a spendere in armi quanto pesa il suo debito pubblico.
+[Le destre europee brindano alla vittoria di Trump](https://rossodiserablog.it/salvini-in-spagna-magnifico-teatro-dell-assurdo/) come tacchini che festeggiano il Giorno del Ringraziamento. Non hanno ancora capito che saranno i prossimi sul menu: [vino francese tassato al 200%](https://rossodiserablog.it/dazi-la-capitolazione-dell-europa-al-bullo-trump/), auto tedesche trattate come carriole cinesi, e l'Italia costretta a spendere in armi quanto pesa il suo debito pubblico.
 
-L'impero americano ha finalmente gettato la maschera del 'difensore della democrazia': ora è solo muscoli e niente cervello. Come un bodybuilder che ha esagerato con gli steroidi.
+L'impero americano ha finalmente gettato la maschera del 'difensore della democrazia': [ora è solo muscoli e niente cervello](https://rossodiserablog.it/sos-autoritarismo/). Come un bodybuilder che ha esagerato con gli steroidi.
 
 Bentornati nel Medioevo 2.0, dove l'unica frontiera è quella del buon senso!"
 

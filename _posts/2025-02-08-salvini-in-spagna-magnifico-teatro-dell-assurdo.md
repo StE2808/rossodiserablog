@@ -11,9 +11,9 @@ tags: ["GovernoMeloni", "LePen", "Orban", "patrioti", "politica", "salvini", "so
 ---
 Ladies and gentlemen, ecco a voi il grande trasformista italiano, che si presenta come "patriota" (della Repubblica di TikTok, presumibilmente). Il nostro eroe, armato di un foglio e di uno spagnolo degno di una pizzeria turistica a Rimini, ha deliziato il pubblico con il suo one-man-show "Come salvare l'Italia distruggendo tutto ciò che la sostiene".
 
-Nel suo repertorio, l'artista ha magistralmente eseguito tutti i suoi più grandi successi: dalla hit "L'UE ci opprime" (mentre incassa fondi europei), al classico "No ai migranti" (mentre l'economia implora manodopera), fino alla ballata "Viva Trump" (che nel frattempo progetta di far pagare dazi astronomici proprio ai suoi fan europei).
+Nel suo repertorio, l'artista ha magistralmente eseguito tutti i suoi più grandi successi: dalla hit "L'UE ci opprime" (mentre incassa fondi europei), al classico "No ai migranti" (mentre l'economia implora manodopera), fino alla ballata "Viva Trump" (che nel frattempo progetta di [far pagare dazi astronomici proprio ai suoi fan europei](https://rossodiserablog.it/dazi-la-capitolazione-dell-europa-al-bullo-trump/)).
 
-Sul palco, un'eccezionale reunion di star internazionali: Orbán, Wilders, Le Pen - praticamente i Backstreet Boys del nazionalismo! Ognuno determinato a mettere il proprio paese prima di tutti gli altri, in una competizione che fa sembrare Eurovision un pranzo domenicale.
+Sul palco, un'eccezionale reunion di star internazionali: [Orbán, Wilders, Le Pen](https://rossodiserablog.it/buongiorno-trump-landia/) - praticamente i [Backstreet Boys del nazionalismo](https://rossodiserablog.it/la-deriva-autoritaria-e-la-normalizzazione-dell-aggressivita/)! Ognuno determinato a mettere il proprio paese prima di tutti gli altri, in una competizione che fa sembrare Eurovision un pranzo domenicale.
 
 E che dire della sua commovente dedizione nel leccare i stivali di chi vuole esplicitamente danneggiare l'economia italiana? Un vero capolavoro di coerenza! È come proclamarsi vegani mentre si divora una bistecca.
 
