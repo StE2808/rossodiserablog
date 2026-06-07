@@ -13,10 +13,10 @@ Lui, con i palmi spalancati che si muovono solo orizzontalmente, poi col dito pu
 
 Lui aveva preparato l’imboscata, l’altro c’è caduto con tutto quello che rimane della sua nazione.
 
-Poi si separano in malo modo e lui prende il telefono in mano e, con quel ditone ancora rigido scarabocchia frasi da bullo, da ricattatore, da allibratore.
+Poi si separano in malo modo e lui prende il telefono in mano e, con quel ditone ancora rigido scarabocchia [frasi da bullo, da ricattatore, da allibratore](https://rossodiserablog.it/la-volpe-d-oro-e-l-uccellino-azzurro/).
 
 Addirittura neanche scrivere correttamente il nome del capro espiatorio, infatti digita e pubblica un post su Truth con frasi acide come il solforico e le indirizza a "Zelenskyy", dimostrando di ignorare persino il nome più digitato sul web negli ultimi tre anni.
 
 Il suo nome sarebbe Volodymyr Oleksandrovyč Zelens'kyj ma tutti lo scrivono semplificando in Zelensky, nessuno lo scrive con due y alla fine, tranne il correttore di Truth. Ecco spiegato l’arcano.
 
-Ma che importa? Chi ha tempo per l'ortografia quando si è impegnati a decretare che Plutone torni ad essere un pianeta, che la gravità diventi opzionale il martedì, e che le leggi della fisica debbano prima passare dalla sua scrivania per l'approvazione? D'altronde, quando sei convinto che l'universo si scriva con il trattino, governarlo sembra il passo logico successivo.
+Ma che importa? Chi ha tempo per l'ortografia quando si è impegnati a [decretare che Plutone torni ad essere un pianeta](https://rossodiserablog.it/il-balletto-di-trump-tra-cocktail-e-pessimo-gusto/), che la gravità diventi opzionale il martedì, e che le leggi della fisica debbano prima passare dalla sua scrivania per l'approvazione? D'altronde, quando sei convinto che l'universo si scriva con il trattino, governarlo sembra il passo logico successivo.

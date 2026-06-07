@@ -9,13 +9,13 @@ description: "Il saluto romano appare contagioso: oggi, l'ideologo di Donald Tru
 category: politica-estera
 tags: ["Bannon", "diritti", "Economia", "Etica", "Europa", "fascismo", "fascista", "giustizia", "Governo", "Meloni", "migranti", "odio", "politica", "Russia", "sociale", "societ\u00e0", "trogloditi", "Trump", "Ucraina", "USA", "Zelensky"]
 ---
-Il saluto romano appare contagioso: oggi, l'ideologo di Donald Trump, Steve Bannon si è esibito in un saluto fascista o nazista, che dir si voglia, al raduno dei suprematisti ultraconservatori di Washington.
+Il saluto romano appare contagioso: oggi, l'[ideologo di Donald Trump, Steve Bannon](https://rossodiserablog.it/il-movimento-per-le-citta-stato-aziendali-e-il-fascismo-da-f/) si è esibito in un saluto fascista o nazista, che dir si voglia, al raduno dei suprematisti ultraconservatori di Washington.
 
 Fatto così grave che, come scrive Lorenzo Tosa, "persino uno di estrema destra come il francese Bardella ha annullato immediatamente la sua partecipazione alla convention".
 
 Nonostante tutto questo, il silenzio della nostra premier Giorgia Meloni è stato assordante. Meloni, infatti, non solo non si è dissociata ma non ha annullato la sua partecipazione, partecipazione già prevista in videoconferenza.
 
-Dopo il saluto a braccio teso del suo Musk, ora Bannon sdogana il saluto nazi-fascista e Giorgia Meloni non batte ciglio.
+Dopo [il saluto a braccio teso del suo Musk](https://rossodiserablog.it/il-saluto-romano-di-musk-la-storia-si-ripete/), ora [Bannon sdogana il saluto nazi-fascista](https://rossodiserablog.it/sos-autoritarismo/) e Giorgia Meloni non batte ciglio.
 
 Chi non si dissocia , ovviamente, approva e si carica della responsabilità conseguente.
 

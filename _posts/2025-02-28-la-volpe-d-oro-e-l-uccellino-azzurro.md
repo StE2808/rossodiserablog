@@ -33,11 +33,11 @@ Il silenzio calò nella Grande Tana. Solo il ticchettio di una goccia d'acqua ch
 
 "Una volta che avrai firmato questo accordo, avrai molti più semi per nutrirti," continuò la Volpe, con un tono appena più basso. "Però non stai mostrando alcuna gratitudine per tutto ciò che ti abbiamo dato finora, e questo non è gentile da parte tua."
 
-L'Uccellino Azzurro, con gli occhi lucidi, guardò attorno. Nessuno osava intervenire. Questa non era diplomazia tra animali della foresta. Era la legge del più forte, la minaccia del predatore verso una preda già ferita.
+L'Uccellino Azzurro, con gli occhi lucidi, guardò attorno. Nessuno osava intervenire. [Questa non era diplomazia tra animali della foresta](https://rossodiserablog.it/un-capo-fiero-di-essere-ignorante/). [Era la legge del più forte](https://rossodiserablog.it/il-grande-scacchiere-globale-big-tech-geopolitica-e-la-neces/), la minaccia del predatore verso una preda già ferita.
 
 Nei suoi ottant'anni di vita, il vecchio Gufo Saggio, appollaiato in un angolo buio, non aveva mai assistito a una scena simile tra il Re della Foresta e un suo alleato.
 
-Fuori dalla tana, alcune volpi rosse inneggiavano al loro leader: "Ecco il nostro pacificatore!" gridavano. "Il nostro salvatore che riporterà ordine nella foresta!"
+Fuori dalla tana, [alcune volpi rosse inneggiavano al loro leader](https://rossodiserablog.it/stiamo-rotolando-verso-l-abisso/): "Ecco il nostro pacificatore!" gridavano. "Il nostro salvatore che riporterà ordine nella foresta!"
 
 Ma il Gufo Saggio, nel suo silenzio, si domandava come potessero ancora inneggiare, esaltare, difendere una volpe che mostrava i denti così apertamente, non contro un nemico, ma contro chi cercava solo aiuto.
 
