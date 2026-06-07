@@ -55,7 +55,7 @@ Capito?  Già, perché magari quegli stessi algoritmi sono stati "educati" con d
 
 E il bello è che tutto questo può avere conseguenze pesanti: crediti negati, assicurazioni più care, e anche la polizia che bussa alla tua porta per errori di identificazione. Insomma, non è proprio roba da prendere alla leggera.
 
-Allora, cosa facciamo? Già, perché se lasciamo che la nostra bella IA diventi un Frankenstein 2.0, poi non lamentiamoci se le cose vanno storte. Qui non c'è solo la questione della tecnologia; c'è anche un sacco di etica e responsabilità da mettere in campo. Come sempre, l'idea è di usare la testa per non lasciare che la tecnologia ci porti dove non vogliamo andare. Che dite? Ognuno di noi ha un ruolo in tutto questo. Nessuna scusa.
+Allora, cosa facciamo? Già, perché se lasciamo che la nostra bella IA diventi un Frankenstein 2.0, poi non lamentiamoci se le cose vanno storte. Qui non c'è solo la questione della tecnologia; c'è anche un sacco di etica e responsabilità da mettere in campo. Come sempre, l'idea è di usare la testa per non lasciare che [la tecnologia ci porti dove non vogliamo andare](https://rossodiserablog.it/il-potere-globale-delle-tecnologie-oltre-le-urne-verso-il-co/). Che dite? Ognuno di noi ha un ruolo in tutto questo. Nessuna scusa.
 
 ## Team perfetto? Umano + AI
 
@@ -67,7 +67,7 @@ Siamo in un'epoca di cambio radicale, dove le macchine stanno cominciando a fare
 
 ## Reddito di base:
 
-Cara Meloni tieniti stretta! Uno dei temi più caldi è il Reddito di Base Universale (RBU). Sembra che ci sia una specie di bussola morale che ci spinge a proteggere le persone dai colpi duri dell'automazione. E indovina un po'? Non è solo un dibattito teorico; in Finlandia, stanno già facendo un test drive!
+Cara Meloni tieniti stretta! Uno dei temi più caldi è il [Reddito di Base Universale (RBU)](https://rossodiserablog.it/il-reddito-universale-una-soluzione-sconfiggere-la-disuguagl/). Sembra che ci sia una specie di bussola morale che ci spinge a proteggere le persone dai colpi duri dell'automazione. E indovina un po'? Non è solo un dibattito teorico; in Finlandia, stanno già facendo un test drive!
 
 ## Economia della condivisione
 
@@ -83,7 +83,7 @@ E poi c'è la questione etica. Dovremo affrontare un sacco di decisioni difficil
 
 ## La sfida del futuro? Equilibrio!
 
-In conclusione, la vera sfida è trovare un equilibrio tra l'innovazione spinta dall'IA e la necessità di avere un sistema economico equo e sostenibile. Un futuro con IA senza etica o responsabilità sociale? No grazie!
+In conclusione, la vera sfida è trovare un equilibrio tra l'innovazione spinta dall'IA e la necessità di avere un sistema economico equo e sostenibile. [Un futuro con IA senza etica o responsabilità sociale](https://rossodiserablog.it/mythos-anthropic-economia-paura/)? No grazie!
 
 <script type="application/ld+json">
 {
