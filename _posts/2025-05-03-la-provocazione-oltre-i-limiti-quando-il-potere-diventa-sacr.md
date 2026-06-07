@@ -9,7 +9,7 @@ description: "L'immagine è apparsa all'improvviso, scioccante nella sua arrogan
 category: politica-estera
 tags: ["diritti", "Economia", "Etica", "giustizia", "Governo", "mercato", "odio", "Pace", "Papa", "politica", "repressione", "sociale", "societ\u00e0", "Trump", "USA", "vaticano", "violenza"]
 ---
-L'immagine è apparsa all'improvviso, scioccante nella sua arroganza: Donald Trump vestito da Pontefice. Non un meme anonimo circolato nei meandri dei social, ma un contenuto ufficialmente pubblicato sulla pagina della Casa Bianca e sull'account personale del Presidente.
+L'immagine è apparsa all'improvviso, scioccante nella sua arroganza: [Donald Trump vestito da Pontefice](https://rossodiserablog.it/la-grande-visita-alla-tana-del-leone/). Non un meme anonimo circolato nei meandri dei social, ma un contenuto ufficialmente pubblicato sulla pagina della Casa Bianca e sull'account personale del Presidente.
 
 È il culmine di una dichiarazione che solo 24 ore prima aveva già sollevato onde di indignazione: "Vorrei diventare Papa. Sarebbe la mia prima scelta. Penso che sarei un grande Papa. Nessuno lo farebbe meglio di me". Parole che, in bocca a qualsiasi altro leader mondiale, avrebbero provocato una crisi diplomatica immediata.
 
@@ -19,7 +19,7 @@ In primo luogo, è la manifestazione di un ego smisurato che non conosce limiti,
 
 In secondo luogo, è un insulto diretto alla comunità cattolica, proprio quella che Trump corteggia assiduamente come bacino elettorale. La strumentalizzazione del sacro per fini politici raggiunge qui vette inedite di spregiudicatezza.
 
-Ma c'è un terzo livello, forse il più inquietante. Il messaggio implicito: Trump sta segnalando al mondo la sua influenza sul futuro Conclave, attraverso i dieci cardinali americani. È un avvertimento nemmeno troppo velato che l'amministrazione americana non resterà passiva di fronte alla possibilità di un Papa progressista, nella scia di Francesco, di un Zuppi, o di qualsiasi figura che possa proseguire sulla linea delle aperture sociali che hanno caratterizzato l'attuale pontificato.
+Ma c'è un terzo livello, forse il più inquietante. Il messaggio implicito: Trump sta segnalando al mondo [la sua influenza sul futuro Conclave](https://rossodiserablog.it/il-tempo-sospeso-del-conclave-un-antidoto-all-immediatezza-d/), attraverso i dieci cardinali americani. È un avvertimento nemmeno troppo velato che l'amministrazione americana non resterà passiva di fronte alla possibilità di [un Papa progressista, nella scia di Francesco](https://rossodiserablog.it/habemus-papam-un-leone-tra-i-leoni-del-mondo/), di un Zuppi, o di qualsiasi figura che possa proseguire sulla linea delle aperture sociali che hanno caratterizzato l'attuale pontificato.
 
 Non si tratta dunque di una semplice bravata social. È la dichiarazione pubblica di un'intenzione di ingerenza negli affari della Chiesa Cattolica, un'istituzione sovrana e indipendente. È un segnale che dovrebbe allarmare non solo i cattolici, ma chiunque creda nella separazione tra potere politico e potere religioso.
 
