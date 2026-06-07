@@ -13,7 +13,7 @@ L'articolo 1 della Carta è chiarissimo, la Repubblica democratica è fondata su
 È il lavoro, per la Costituzione, il valore di base dell'Ordinamento nazionale.
 Né il lavoratore né l'imprenditore, ma il lavoro, elevato al rango di diritto sociale in quanto fonte del sostentamento per l'individuo e strumento con il quale il singolo afferma la sua indipendenza e sviluppa la sua persona, è il diritto principe che garantisce a tutti la libertà.
 
-Qualcosa oggi non quadra. Le norme approvate negli ultimi decenni non solo hanno depotenziato questo diritto, ma lasciato carta bianca agli imprenditori che usano il lavoro a proprio vantaggio mentre i lavoratori sono stati declassati a merce.
+Qualcosa oggi non quadra. Le norme approvate negli ultimi decenni non solo hanno depotenziato questo diritto, ma lasciato carta bianca agli imprenditori che usano il lavoro a proprio vantaggio mentre [i lavoratori sono stati declassati a merce](https://rossodiserablog.it/l-integrita-della-vita-ed-il-lavoro/).
 
 L'Italia continua a mostrare criticità significative nel mercato del lavoro rispetto alla media europea. Il tasso di occupazione italiano si attesta al 66,1% (dati ISTAT 2024), ben 8 punti percentuali sotto la media UE del 74,6%. Particolarmente preoccupante è il divario di genere: il tasso di occupazione femminile è fermo al 55,2%, contro una media europea del 69,8%.
 
@@ -21,9 +21,9 @@ La situazione dei giovani risulta ancora più drammatica: solo il 28,7% dei giov
 
 Sul fronte salariale, il quadro è altrettanto sconfortante. Mentre in Germania il salario medio annuo lordo supera i 44.000 euro e in Francia si attesta intorno ai 39.000 euro, in Italia si ferma a circa 29.500 euro. Il potere d'acquisto dei salari italiani è diminuito del 2,9% nell'ultimo decennio, mentre nella maggior parte dei paesi UE è aumentato.
 
-La precarietà lavorativa continua a crescere: oltre il 17% dei lavoratori italiani ha un contratto a tempo determinato, e il 12% è considerato "working poor", cioè lavoratori che, nonostante abbiano un impiego, vivono sotto la soglia di povertà.
+La precarietà lavorativa continua a crescere: oltre il 17% dei lavoratori italiani ha un contratto a tempo determinato, e il 12% è considerato "[working poor](https://rossodiserablog.it/il-reddito-universale-una-soluzione-sconfiggere-la-disuguagl/)", cioè lavoratori che, nonostante abbiano un impiego, vivono sotto la soglia di povertà.
 
-I dati sulle morti sul lavoro rappresentano una tragedia nazionale continua. Nel 2023 si sono registrate 1.041 vittime sul lavoro, con una media di quasi 3 morti al giorno. I primi quattro mesi del 2024 mostrano un trend in ulteriore peggioramento, con un incremento del 4,5% rispetto allo stesso periodo dell'anno precedente.
+[I dati sulle morti sul lavoro](https://rossodiserablog.it/l-omicidio-plurimo-di-stato-di-firenze/) rappresentano una tragedia nazionale continua. Nel 2023 si sono registrate 1.041 vittime sul lavoro, con una media di quasi 3 morti al giorno. I primi quattro mesi del 2024 mostrano un trend in ulteriore peggioramento, con un incremento del 4,5% rispetto allo stesso periodo dell'anno precedente.
 
 Gli infortuni denunciati superano i 585.000 all'anno, con settori particolarmente a rischio come l'edilizia, l'agricoltura e l'industria manifatturiera.
 
