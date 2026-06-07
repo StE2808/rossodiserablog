@@ -32,4 +32,4 @@ L’educazione al rispetto dell’altra parte appare più che mai urgente: l’i
 
 Ne abbiamo già parlato in questo articolo 
 
-    https://svozzi.wordpress.com/2023/09/04/violenza-sulle-donne-la-ricetta-disastrosa-del-governo/
+    https://rossodiserablog.it/violenza-sulle-donne-la-ricetta-disastrosa-del-governo/
