@@ -9,7 +9,7 @@ description: "L'intervento dell'ONU contro il recente Decreto Sicurezza del gove
 category: politica-interna
 tags: ["diritti", "diritti umani", "Etica", "Europa", "fascismo", "fascista", "giustizia", "Governo", "Identit\u00e0", "immigrazione", "Meloni", "migranti", "Migrazione", "odio", "politica", "repressione", "sicurezza", "sociale", "societ\u00e0", "Solidariet\u00e0", "UE", "violenza"]
 ---
-L'intervento dell'ONU contro il recente Decreto Sicurezza del governo Meloni rappresenta solo l'ultimo segnale d'allarme su un provvedimento che bypassa le normali procedure democratiche per imporre misure restrittive in assenza di una reale emergenza. Analizzando i dati sulla criminalità in Italia, emerge un quadro ben diverso da quello rappresentato dall'esecutivo per giustificare l'urgenza del decreto.
+L'intervento dell'ONU contro il [recente Decreto Sicurezza del governo Meloni](https://rossodiserablog.it/per-fortuna-che-abbiamo-mattarella-l-ultimo-baluardo-della-c/) rappresenta solo l'ultimo segnale d'allarme su un provvedimento che bypassa le normali procedure democratiche per imporre misure restrittive in assenza di una reale emergenza. Analizzando i dati sulla criminalità in Italia, emerge un quadro ben diverso da quello rappresentato dall'esecutivo per giustificare l'urgenza del decreto.
 
 ## Un decreto senza emergenza: cosa dicono i numeri
 Secondo i dati del Ministero dell'Interno, i reati in Italia sono diminuiti del 5,5% nel periodo 2018-2023, con un calo ancora più marcato durante la pandemia. I delitti contro la persona hanno registrato una flessione del 7,2% nello stesso quinquennio.
@@ -45,4 +45,4 @@ L'Osservatorio per la Sicurezza Democratica ha evidenziato come nell'ultimo anno
 
 La scelta di bypassare il normale iter parlamentare per un provvedimento così incisivo sui diritti fondamentali, come denunciato dall'ONU, solleva interrogativi sulla reale motivazione dietro questa accelerazione normativa in assenza di un'emergenza oggettiva.
 
-I numeri raccontano una verità diversa dalla narrazione dell'emergenza sicurezza: l'Italia rimane uno dei paesi più sicuri d'Europa, mentre le libertà costituzionali vengono progressivamente erose in nome di una sicurezza che, dati alla mano, non è affatto minacciata.
+I numeri raccontano una verità diversa dalla narrazione dell'emergenza sicurezza: l'Italia rimane uno dei paesi più sicuri d'Europa, mentre [le libertà costituzionali vengono progressivamente erose](https://rossodiserablog.it/l-importanza-di-preservare-la-democrazia-con-i-suoi-tempi-lu/) in nome di una sicurezza che, dati alla mano, non è affatto minacciata.
