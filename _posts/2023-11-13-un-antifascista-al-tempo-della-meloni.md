@@ -29,8 +29,8 @@ Essere antifascisti vuol dire credere nella libertà , nella repubblica, nel soc
 
 L'antifascista è fervente in una fede positiva in un mondo nuovo fatto di dignità e autonomia della persona e di tutti i gruppi umani spontaneamente formati. Ma anche emancipazione della donna e dell'uomo da qualunque restrizione e gabbia che limiti i diritti di tutti siano essi affettivi o amorosi. Insomma un nuovo Umanesimo a tutto tondo.
 
-Dopo 80 anni siamo tornati a vedere al governo un gruppo ( familiare e familistico) che sta comprimendo i diritti fondamentali in una forma moderna della reazione capitalistica, anzi ormai forma tipica di governo verso cui tende in tutti i paesi la classe dominante non appena senta minacciati i suoi privilegi.
+Dopo 80 anni siamo tornati a vedere al governo un gruppo ( familiare e familistico) che sta [comprimendo i diritti fondamentali](https://rossodiserablog.it/meloni-parola-d-ordine-fare-la-vittima/) in [una forma moderna della reazione capitalistica](https://rossodiserablog.it/sos-autoritarismo/), anzi ormai forma tipica di governo verso cui tende in tutti i paesi la classe dominante non appena senta minacciati i suoi privilegi.
 
-I nostri governanti non riescono a rinnegare, a superare il fascismo poiché questo esprime la feroce volontà di difesa dei poteri e la conseguente capacità di perpetuare il potere.
+I nostri governanti [non riescono a rinnegare, a superare il fascismo](https://rossodiserablog.it/2024-odio-paura-rancore-violenza-ma-niente-fascismo/) poiché questo esprime la feroce volontà di difesa dei poteri e la conseguente capacità di perpetuare il potere.
 
 Va da sé che, quindi l'antifascismo sia sinonimo di anticapitalismo. Non tanto per rinnegare un metodo di gestione quanto per i guasti che porta sempre quale conseguenza, ossia di sofferenze materiali e morali delle grandi masse oramai non più sempre nemmeno lavoratrici, il cui destino è il destino di tutti e con la constatata incapacità di una classe dirigente che non riesce neppure a sfamare i suoi servi.
