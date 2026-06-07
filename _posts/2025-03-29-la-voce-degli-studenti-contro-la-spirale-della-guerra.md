@@ -11,9 +11,9 @@ tags: ["diritti", "Etica", "Europa", "fascismo", "gaza", "Generazioni Future", "
 ---
 In un'epoca in cui i venti di guerra soffiano con forza crescente alle porte dell'Europa e nel Medio Oriente, gli studenti del liceo Minghetti hanno scelto di alzare la voce. La loro protesta pacifica, culminata nell'occupazione dell'istituto, rappresenta un raro barlume di speranza in un panorama internazionale sempre più cupo.
 
-Mentre i potenti del mondo continuano a muovere le loro pedine sullo scacchiere geopolitico – dalla devastante offensiva a Gaza all'escalation del conflitto russo-ucraino – sono i più giovani a ricordarci che la guerra non è mai inevitabile, ma una scelta. Una scelta che qualcuno compie in nome di tutti, spesso senza consultare coloro che ne pagheranno il prezzo più alto.
+Mentre i potenti del mondo continuano a muovere le loro pedine sullo scacchiere geopolitico – dalla devastante offensiva a Gaza all'[escalation del conflitto russo-ucraino](https://rossodiserablog.it/ucraina-sul-ciglio-del-baratro-zelensky-e-sempre-piu-solo/) – sono i più giovani a ricordarci che la guerra non è mai inevitabile, ma una scelta. Una scelta che qualcuno compie in nome di tutti, spesso senza consultare coloro che ne pagheranno il prezzo più alto.
 
-L'Italia, paese fondato sui valori della pace e della cooperazione internazionale, si trova oggi pericolosamente attratta in questo vortice bellico. Le recenti decisioni politiche sembrano segnare un progressivo abbandono della nostra tradizionale vocazione diplomatica in favore di posizioni sempre più militarizzate.
+L'Italia, [paese fondato sui valori della pace](https://rossodiserablog.it/25-aprile-pace-e-liberazione/) e della cooperazione internazionale, si trova oggi pericolosamente attratta in questo vortice bellico. Le recenti decisioni politiche sembrano segnare un progressivo abbandono della nostra tradizionale vocazione diplomatica in favore di [posizioni sempre più militarizzate](https://rossodiserablog.it/la-pace-a-brandelli/).
 
 Il coraggio civico dimostrato dagli studenti merita rispetto, non punizioni. La loro occupazione non è un atto di ribellione fine a se stesso, ma uno spazio di riflessione collettiva, un'occasione per interrogarsi sul futuro che stanno ereditando. Un futuro che vorrebbero plasmare con gli strumenti della pace, non con quelli della guerra.
 
