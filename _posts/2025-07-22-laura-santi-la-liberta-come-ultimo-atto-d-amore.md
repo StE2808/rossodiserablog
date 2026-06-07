@@ -30,11 +30,11 @@ Laura Santi se n'è andata a casa sua, nel suo letto, a 50 anni. Se n'è andata 
 
 Le sue ultime parole, affidate all'associazione Luca Coscioni, sono il suo testamento più potente: "La vita è degna di essere vissuta, se uno lo vuole, anche fino a cent'anni e nelle condizioni più feroci, ma dobbiamo essere noi che viviamo questa sofferenza estrema a decidere e nessun altro".
 
-L'Italia rimane tra i pochi paesi europei privi di una legge organica sul fine vita. Paesi Bassi, Belgio, Svizzera, Spagna e Austria hanno già legiferato. In Italia, solo la sentenza della Corte Costituzionale del 2019 sul caso Cappato ha aperto uno spiraglio per il suicidio medicalmente assistito, ma in assenza di una legge nazionale le procedure rimangono disomogenee e spesso inaccessibili: l'associazione Coscioni stima che il 90% delle richieste venga respinto o lasciato cadere per inerzia delle strutture sanitarie.
+L'Italia rimane tra i pochi paesi europei [privi di una legge organica sul fine vita](https://rossodiserablog.it/la-salute-non-e-una-merce-la-sanita-e-un-bene-comune/). Paesi Bassi, Belgio, Svizzera, Spagna e Austria hanno già legiferato. In Italia, solo la sentenza della Corte Costituzionale del 2019 sul caso Cappato ha aperto uno spiraglio per il suicidio medicalmente assistito, ma in assenza di una legge nazionale le procedure rimangono disomogenee e spesso inaccessibili: l'associazione Coscioni stima che il 90% delle richieste venga respinto o lasciato cadere per inerzia delle strutture sanitarie.
 
 ## Il testamento di Laura
 
-Ecco la lezione che ci lascia Laura: la libertà di autodeterminazione non è un lusso filosofico, è un diritto umano fondamentale. È il coraggio di dire che l'amore per la vita include anche il diritto di decidere quando e come congedarsi da essa, quando il dolore diventa insostenibile.
+Ecco la lezione che ci lascia Laura: la libertà di autodeterminazione non è un lusso filosofico, è [un diritto umano fondamentale](https://rossodiserablog.it/e-morto-il-presidente-pepe-mujica-una-vita-spesa-per-il-diri/). È il coraggio di dire che l'amore per la vita include anche il diritto di decidere quando e come congedarsi da essa, quando il dolore diventa insostenibile.
 
 "Io sto per morire. Non potete capire che senso di libertà dalle sofferenze, dall'inferno quotidiano che ormai sto vivendo", ci ha detto. E poi: "State tranquilli per me. Io mi porto di là sorrisi, credo che sia così. Mi porto di là un sacco di bellezza che mi avete regalato. E vi prego: ricordatemi".
 

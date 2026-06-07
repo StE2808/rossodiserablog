@@ -15,6 +15,6 @@ Il DAY X fissato dall'Alta corte di Londra per il 20-21 febbraio 2024, vi sarà 
 
 Se questo dovesse essere respinto, Assange potrebbe essere estradato immediatamente negli Stati Uniti dove lo attende un processo già scritto in cui non potrebbe difendersi.
 
-Si tratta di un giorno decisivo per il destino di Julian e per la nostra stessa libertà, il nostro diritto di essere informati.
+Si tratta di un giorno decisivo per il destino di Julian e per la nostra stessa libertà, [il nostro diritto di essere informati](https://rossodiserablog.it/ci-vorrebbe-un-nemico/).
 
-Rischiare 175 anni di carcere senza possibilità di uscire equivale ad una condanna a morte ma la colpa è solo quella di aver scoperchiato il vaso di Pandora dei misfatti USA, del suo esercito, dei suoi politici e della connivenza di tutti gli Stati e di tutti i governi che sono intervenuti in quelle operazioni, dove sono avvenuti crimini commessi contro la popolazione civile, crimini contro l'umanità compreso tutti gli stati ed i governi conniventi e che hanno prestato territori, basi come l'Italia.
+Rischiare 175 anni di carcere senza possibilità di uscire equivale ad una condanna a morte ma la colpa è solo quella di aver [scoperchiato il vaso di Pandora dei misfatti USA](https://rossodiserablog.it/russia-navalny-muore-tra-le-polemiche/), del suo esercito, dei suoi politici e della connivenza di tutti gli Stati e di tutti i governi che sono intervenuti in quelle operazioni, dove sono avvenuti crimini commessi contro la popolazione civile, crimini contro l'umanità compreso tutti gli stati ed i governi conniventi e che hanno prestato territori, basi come l'Italia.
