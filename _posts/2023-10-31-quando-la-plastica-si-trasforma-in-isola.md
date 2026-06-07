@@ -9,7 +9,7 @@ description: "Bottiglie, flaconi, contenitori, cassette, imballaggi, fogli e sac
 category: ambiente
 tags: ["inquinamento", "isola", "isola di plastica", "microplastica. microplastiche", "The great Pacific garbage patch"]
 ---
-Bottiglie, flaconi, contenitori, cassette, imballaggi, fogli e sacchetti: così siamo abituati ad immaginarci la plastica. Tutti sappiamo, poi, che è presente nei corsi d'acqua e quindi nei mari. Sempre più comune è poi la conoscenza dell'esistenza e dei problemi connessi al suo sfaldamento che genera microplastiche: parliamo di piccole particelle, appunto, di materiale plastico generalmente più piccole di un millimetro fino a livello micrometrico. Queste piccole e piccolissime parti di plastica si infiltrano nell’ambiente e negli alimenti ed entrano pericolosamente nell'ecosistema e quindi negli esseri viventi sia animali che piante e mettono a repentaglio la salute umana.
+Bottiglie, flaconi, contenitori, cassette, imballaggi, fogli e sacchetti: così siamo abituati ad immaginarci la plastica. Tutti sappiamo, poi, che è presente nei corsi d'acqua e quindi nei mari. Sempre più comune è poi la conoscenza dell'esistenza e dei problemi connessi al [suo sfaldamento che genera microplastiche](https://rossodiserablog.it/l-importanza-della-conservazione-dei-mari-e-degli-oceani/): parliamo di piccole particelle, appunto, di materiale plastico generalmente più piccole di un millimetro fino a livello micrometrico. Queste piccole e piccolissime parti di plastica si infiltrano nell’ambiente e negli alimenti ed entrano pericolosamente nell'ecosistema e quindi negli esseri viventi sia animali che piante e mettono a repentaglio la salute umana.
 
 Come detto, le plastiche ma anche già le microplastiche sono trasportate dai fiumi e sversate nei mari ed ovviamente negli oceani.
 
@@ -19,13 +19,13 @@ Stiamo parlando  di una superficie interessata da quest'isola tra lo 0,41% e il 
 
 Alcune stime effettuate dalla Marina degli Stati Uniti hanno ipotizzato un peso complessivo  di oltre tre milioni di tonnellate di plastica ma per altri organi ed enti l'ammontare complessivo potrebbe raggiungere i 100 milioni di tonnellate.
 
-Come abbiamo già detto dell'articolo "[Spagna: il Mar de Plastico cresce e cambia il clima](https://svozzi.wordpress.com/2023/10/30/spagna-il-mar-de-plastico-cresce-e-cambia-il-clima/)", anche nel Mediterraneo abbiamo problemi simili, ovviamente in proporzione. Infatti grazie all’inquinamento causato dalla plastica , a nord ovest dell’isola d’Elba, tra la punta della Corsica e Capraia, abbiamo la nostra isola di rifiuti di plastica. Questa è composta da frammenti più piccoli di 2 millimetri, insomma un ammasso due volte più denso e pericoloso di quello del Pacifico.
+Come abbiamo già detto dell'articolo "[Spagna: il Mar de Plastico cresce e cambia il clima](https://rossodiserablog.it/spagna-il-mar-de-plastico-cresce-e-cambia-il-clima/)", anche nel Mediterraneo abbiamo problemi simili, ovviamente in proporzione. Infatti grazie all’inquinamento causato dalla plastica , a nord ovest dell’isola d’Elba, tra la punta della Corsica e Capraia, abbiamo la nostra isola di rifiuti di plastica. Questa è composta da frammenti più piccoli di 2 millimetri, insomma un ammasso due volte più denso e pericoloso di quello del Pacifico.
 
 La nostra isola è, si fa per dire, fortunatamente molto più piccola, qualche decina di chilometri ma è anch'essa in crescita.
 
 Quest'isola è alimentata principalmente da tre fiumi che sfociano nel Tirreno: l’Arno, il Tevere ed il Sarno.
 
-In uno studio il Wwf (World Wide Fund) pubblica che nel Mar Mediterraneo siano "già presenti oltre 570 mila tonnellate di rifiuti plastici" ed ogni anno ne aggiungiamo tra le 150.000 e le 500.000 (tonnellate).
+In uno studio il [Wwf (World Wide Fund)](https://www.wwf.it/) pubblica che nel Mar Mediterraneo siano "già presenti oltre 570 mila tonnellate di rifiuti plastici" ed ogni anno ne aggiungiamo tra le 150.000 e le 500.000 (tonnellate).
 
 Ovviamente questa quantità di piccoli pezzetti di plastica impatta sulla vita di chi abita le acque:   pesci, cetacei, tartarughe e uccelli muoiono a causa di questo inquinamento. Soprattutto causato dalla ingestione di questo particolato che può provocare occlusioni o perforamento dell’apparato digestivo. C'è poi da considerare che le plastiche spesso sono impregnate o comunque contengono sostanze inquinanti che quindi apportano elementi gravemente nocivi per gli ecosistemi.
 
