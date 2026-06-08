@@ -14,7 +14,7 @@ tags:
   - Spotify
   - controcultura
 focus_keyword: egemonia culturale
-image: /assets/images/uploads/cassa-automatica.png
+image: /assets/images/uploads/cassa-automatica.webp
 image_alt: "Un uomo abbraccia teneramente un grande codice a barre come fosse la sua compagna"
 excerpt: "Dalla pistola laser alla cassa fai-da-te, fino all'algoritmo che ci sceglie la musica: come la comodità è diventata il modo più dolce di renderci passivi. E perché non ha ancora vinto."
 ---
