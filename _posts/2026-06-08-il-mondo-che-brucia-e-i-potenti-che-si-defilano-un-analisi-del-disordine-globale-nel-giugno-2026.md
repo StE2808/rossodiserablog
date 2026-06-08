@@ -25,7 +25,7 @@ tags:
 image: /assets/images/uploads/IMG_7299.jpeg
 image_caption: Il Papa in visita pastorale in Spagna accolto da la folla
 image_alt: Il Papa in visita pastorale in Spagna accolto da la folla
-excerpt: 'Quattro anni dopo l’invasione russa, l’Ucraina sopravvive grazie a 90 miliardi europei e a una promessa di ricostruzione da 600 miliardi mai garantita. Gli USA gestiscono la crisi per convenienza propria, mentre Netanyahu impone la propria agenda a Washington — con la Sezione 224 che fonde le strutture militari dei due paesi su richiesta di Tel Aviv — e ignora qualsiasi pressione internazionale. I file Epstein restano la domanda senza risposta su questa impunità strutturale. L’Italia, con Meloni assente al vertice UE-Balcani per un francobollo celebrativo, conferma la propria irrilevanza diplomatica. A Madrid, un milione e duecentomila fedeli chiedono a Papa Leone XIV quello che nessun governo sa più offrire: la pace.'
+excerpt: "Quattro anni dopo l'invasione russa, l'Ucraina sopravvive grazie a 90 miliardi europei e a una promessa di ricostruzione da 600 miliardi mai garantita. Gli USA gestiscono la crisi per convenienza propria, mentre Netanyahu impone la propria agenda a Washington — con la Sezione 224 che fonde le strutture militari dei due paesi su richiesta di Tel Aviv — e ignora qualsiasi pressione internazionale. I file Epstein restano la domanda senza risposta su questa impunità strutturale. L'Italia, con Meloni assente al vertice UE-Balcani per un francobollo celebrativo, conferma la propria irrilevanza diplomatica. A Madrid, un milione e duecentomila fedeli chiedono a Papa Leone XIV quello che nessun governo sa più offrire: la pace."
 focus_keyword: Pace geopolitica 2026
 ---
 
