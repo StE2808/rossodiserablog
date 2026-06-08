@@ -22,10 +22,10 @@ tags:
   - pace geopolitica 2026,
   - disordine globale,
   - politica estera italiana
-image: /assets/images/uploads/IMG_7299.webp
+image: /assets/images/uploads/IMG_7299.jpeg
 image_caption: Il Papa in visita pastorale in Spagna accolto da la folla
 image_alt: Il Papa in visita pastorale in Spagna accolto da la folla
-excerpt: "Quattro anni dopo l'invasione russa, l'Ucraina sopravvive grazie a 90 miliardi europei e a una promessa di ricostruzione da 600 miliardi mai garantita. Gli USA gestiscono la crisi per convenienza propria, mentre Netanyahu impone la propria agenda a Washington — con la Sezione 224 che fonde le strutture militari dei due paesi su richiesta di Tel Aviv — e ignora qualsiasi pressione internazionale. I file Epstein restano la domanda senza risposta su questa impunità strutturale. L'Italia, con Meloni assente al vertice UE-Balcani per un francobollo celebrativo, conferma la propria irrilevanza diplomatica. A Madrid, un milione e duecentomila fedeli chiedono a Papa Leone XIV quello che nessun governo sa più offrire: la pace."
+excerpt: 'Quattro anni dopo l’invasione russa, l’Ucraina sopravvive grazie a 90 miliardi europei e a una promessa di ricostruzione da 600 miliardi mai garantita. Gli USA gestiscono la crisi per convenienza propria, mentre Netanyahu impone la propria agenda a Washington — con la Sezione 224 che fonde le strutture militari dei due paesi su richiesta di Tel Aviv — e ignora qualsiasi pressione internazionale. I file Epstein restano la domanda senza risposta su questa impunità strutturale. L’Italia, con Meloni assente al vertice UE-Balcani per un francobollo celebrativo, conferma la propria irrilevanza diplomatica. A Madrid, un milione e duecentomila fedeli chiedono a Papa Leone XIV quello che nessun governo sa più offrire: la pace.'
 focus_keyword: Pace geopolitica 2026
 ---
 
@@ -33,7 +33,7 @@ Ci sono settimane in cui il mondo sembra camminare sul bordo. Questa è una di q
 
 Lo stallo ucraino e il conto europeo
 
-Come ricorda l’ISPI — l’Istituto per gli Studi di Politica Internazionale — in un’analisi pubblicata lo scorso febbraio, "la guerra in Ucraina resta in uno stallo sanguinoso: Mosca avanza poco e pagando costi umani enormi, i negoziati procedono a rilento". Quattro anni dopo l’invasione, "la Russia scommette sulla stanchezza occidentale e sul logoramento delle forze ucraine, adottando un’economia di guerra e aggirando le sanzioni". La guerra si trascinerà nel 2026. Questo è ormai il consensus tra gli analisti.
+Come ricorda l’ISPI — l’Istituto per gli Studi di Politica Internazionale — in un’analisi pubblicata lo scorso febbraio, "la guerra in Ucraina resta in uno stallo sanguinoso: Mosca avanza poco e pagando costi umani enormi, i negoziati procedono a rilento". Quattro anni dopo l’invasione, "la Russia scommette sulla stanchezza occidentale e sul logoramento delle forze ucraine, adottando un’economia di guerra e aggirando le sanzioni". La guerra si trascinerà nel 2026. Questo è ormai il comune sentire degli analisti.
 
 A pagare il conto, come sempre, è l’Europa. Il Parlamento europeo ha approvato un prestito da 90 miliardi di euro a sostegno dell’Ucraina per il biennio 2026-2027. Una cifra che Kiev dovrà restituire “una volta ottenute le riparazioni di guerra dalla Russia”: una promessa su una promessa, con scadenza incerta. E il sito di Ore12.net, in un’analisi pubblicata due giorni fa, ricorda che la ricostruzione ucraina — secondo il rapporto congiunto di Banca Mondiale, ONU e governo ucraino del febbraio 2026 — costerà almeno 600 miliardi di dollari in dieci anni: il doppio esatto dei 300 miliardi di beni russi congelati offerti dall’Unione Europea come garanzia.
 
