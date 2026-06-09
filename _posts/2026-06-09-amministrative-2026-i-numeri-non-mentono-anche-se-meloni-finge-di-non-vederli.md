@@ -22,7 +22,7 @@ tags:
   - Lecco,
   - Macerata,
   - propaganda destra
-image: /assets/images/uploads/IMG_7301.jpeg
+image: /assets/images/uploads/IMG_7301.webp
 image_caption: Elezioni amministrative 2026
 image_alt: Una urna, in primo piano, per le elezioni amministrative 2026
 excerpt: 'I ballottaggi delle amministrative 2026 consegnano un risultato chiaro: il campo largo cresce, portando il centrosinistra da 8 a 10 capoluoghi governati (dati YouTrend), mentre il centrodestra sale da 5 a 6. Nonostante questo, Meloni, Tajani e Donzelli rivendicano la vittoria sui social. L’analisi smonta la narrazione della destra confrontando le dichiarazioni dei leader con i dati reali, dai capoluoghi alle città simbolo come Agrigento, Chieti, Trani e Somma Vesuviana.'
