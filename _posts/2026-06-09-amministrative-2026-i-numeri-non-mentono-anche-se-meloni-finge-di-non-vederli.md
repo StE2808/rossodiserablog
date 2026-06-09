@@ -2,7 +2,7 @@
 layout: post
 title: 'Amministrative 2026: i numeri non mentono, anche se Meloni finge di non vederli'
 seo_title: 'Amministrative 2026, i numeri smentiscono Meloni: il campo largo cresce, la destra mente sui risultati'
-description: Dopo i ballottaggi del 7-8 giugno 2026, il centrosinistra passa da 8 a 10 capoluoghi, il centrodestra da 5 a 6. Eppure Meloni parla di “forza confermata”. Un’analisi dei dati reali contro la narrazione distorta della destra.
+description: Dopo i ballottaggi del 7-8 giugno 2026, il centrosinistra passa da 8 a 10 capoluoghi, il centrodestra da 5 a 6. Eppure Meloni parla di "forza confermata". Un'analisi dei dati reali contro la narrazione distorta della destra.
 date: 2026-06-09 06:53:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -25,7 +25,7 @@ tags:
 image: /assets/images/uploads/IMG_7301.jpeg
 image_caption: Elezioni amministrative 2026
 image_alt: Una urna, in primo piano, per le elezioni amministrative 2026
-excerpt: 'I ballottaggi delle amministrative 2026 consegnano un risultato chiaro: il campo largo cresce, portando il centrosinistra da 8 a 10 capoluoghi governati (dati YouTrend), mentre il centrodestra sale da 5 a 6. Nonostante questo, Meloni, Tajani e Donzelli rivendicano la vittoria sui social. L’analisi smonta la narrazione della destra confrontando le dichiarazioni dei leader con i dati reali, dai capoluoghi alle città simbolo come Agrigento, Chieti, Trani e Somma Vesuviana.'
+excerpt: "I ballottaggi delle amministrative 2026 consegnano un risultato chiaro: il campo largo cresce, portando il centrosinistra da 8 a 10 capoluoghi governati (dati YouTrend), mentre il centrodestra sale da 5 a 6. Nonostante questo, Meloni, Tajani e Donzelli rivendicano la vittoria sui social. L'analisi smonta la narrazione della destra confrontando le dichiarazioni dei leader con i dati reali, dai capoluoghi alle città simbolo come Agrigento, Chieti, Trani e Somma Vesuviana."
 focus_keyword: amministrative 2026 risultati campo largo
 ---
 
