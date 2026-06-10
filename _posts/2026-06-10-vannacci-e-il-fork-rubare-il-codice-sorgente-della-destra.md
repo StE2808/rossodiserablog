@@ -19,7 +19,7 @@ tags:
   - FdI,
   - Meloni,
   - politica italiana 2026
-image: /assets/images/uploads/IMG_7304.webp
+image: /assets/images/uploads/IMG_7304.jpeg
 image_caption: Roberto Vannacci
 image_alt: Una immagine di Roberto Vannacci
 excerpt: "Roberto Vannacci è il caso politico più interessante e inquietante dell'Italia contemporanea. Non perché sia un pensatore originale — non lo è — ma perché ha applicato alla politica italiana una tecnica di marketing mutuata dal mondo del software: il fork. Ha preso il codice sorgente della destra sovranista, lo ha copiato, ribrandizzato e rilanciato come prodotto autonomo, usando come rampa di lancio proprio la Lega che lo aveva candidato alle europee del 2024. Con 532.000 preferenze personali — un risultato che nessun leghista storico aveva mai raggiunto — ha dimostrato che l'audience era sua, non di Salvini. Ora ha un partito proprio, il Movimento Vannacci, e sta cannibalizzando sistematicamente l'elettorato di destra. Lo scenario prossimo futuro non è rassicurante per nessuno dei partiti della coalizione di governo."
@@ -33,7 +33,7 @@ Roberto Vannacci, generale paracadutista, ex comandante della Folgore, autore de
 Il fork politico funziona così: individui un elettorato già formato e frustrato, adotti il suo stesso linguaggio, le sue stesse ossessioni, la sua stessa mitologia — e poi proponi te stesso come versione migliorata, più autentica, meno compromessa con il potere, del brand che li ha delusi.
 
 La destra italiana era il progetto open source perfetto da forkarsi. Un elettorato ampio, ideologicamente coeso su pochi temi forti (sicurezza, immigrazione, identità nazionale, anti-woke), ma servito da partiti percepiti come sempre più lontani, compromessi con il governo, costretti alla responsabilità istituzionale. Salvini non urlava più come un tempo. Meloni governava e mediava. Il vecchio elettore della destra radicale si sentiva orfano. Vannacci ha capito, o forse ha semplicemente sentito con i suoi stessi istinti da uomo di destra viscerale, che quello spazio era libero.
- 
+
 La rampa di lancio: Salvini regala il palcoscenico
 
 La storia dell'errore di Salvini merita di essere raccontata perché è un classico della politica contemporanea: la sottovalutazione sistematica di chi si pensa di controllare.
@@ -45,17 +45,17 @@ Il problema è che Vannacci non era uno chef stellato. Era un generale con una v
 Il risultato delle europee 2024 è stato un terremoto in miniatura che solo i sismografi più sensibili hanno registrato nella sua vera portata: 532.000 preferenze personali a Vannacci, quasi il 6% dei voti totali della Lega. Un record assoluto per le preferenze in Italia.
 
 Salvini ha letto quei 532.000 voti come voti della Lega raccolti da Vannacci. Vannacci li ha letti — correttamente — come voti suoi, temporaneamente ospitati nella lista della Lega. La differenza non è semantica: è la differenza tra un dipendente e un fornitore con il suo brand. Tra un asset e un competitor in incubazione.
- 
+
 L'ascesa: dal libro al partito
 
 La storia di Vannacci è breve ma rapida come un'avanzata militare. Agosto 2023: pubblica Il Mondo al Contrario, autoprodotto, distribuito inizialmente solo online. Il libro è un catalogo di provocazioni identitarie — sui gay, sulle donne, sull'identità italiana, sull'immigrazione — scritto con la sicumera di chi non ha mai dovuto rispondere a un editore né a un ufficio stampa. Piace esattamente perché è grezzo. Perché dice cose che la destra istituzionale non può più permettersi di dire.
 
-La macchina mediatica progressista fa il resto: scandalo, indignazione, articoli, repliche, controrepliche. Ogni attacco è un'ulteriore amplificazione. Vannacci diventa il martire della cancel culture italiana, il soldato che dice la verità al potere corretto. È il meccanismo che ha reso Trump, Farage, Wilders e Le Pen: la persecuzione del politicamente corretto come pubblicità gratuita.
+La macchina mediatica progressista fa il resto: scandalo, indignazione, articoli, repliche, controrepliche. Ogni attacco è un'ulteriore amplificazione. Vannacci diventa il martire della cancel culture italiana, il soldato che dice la verità al potere corretto. È il meccanismo che ha reso eroi Trump, Farage, Wilders e Le Pen: la persecuzione del politicamente corretto come pubblicità gratuita.
 
 Giugno 2024: le europee. 532.000 voti. Eletto al Parlamento europeo. Ma già durante la campagna è chiaro che Vannacci considera la Lega una piattaforma temporanea, non una casa. Le sue dichiarazioni sono autonome, spesso imbarazzanti per il partito ospitante, mai coordinate con via Bellerio. Salvini tollera perché i sondaggi gli dicono che funziona.
 
 Autunno 2024: nascono le prime strutture del Movimento Vannacci, ancora informali. Primavera 2025: il Movimento si costituisce formalmente. Fine 2025: i sondaggi lo accreditano tra il 4 e il 7 percento. Giugno 2026: è un attore autonomo dello spazio politico italiano, con rappresentanza europea, struttura organizzativa e — soprattutto — un elettorato che lo segue con la devozione tribale che un tempo si riservava a Salvini.
- 
+
 La cannibalizzazione: chi sta mangiando e chi sta perdendo
 
 Il fork di Vannacci sta consumando la destra italiana con la lentezza metodica di un'erosione costiera. Non è un crollo, è un drenaggio. E colpisce in modo asimmetrico i diversi attori.
@@ -67,7 +67,7 @@ FdI di Meloni subisce un danno meno evidente ma forse più insidioso. Meloni gov
 Vannacci offre ciò che ogni partito al governo non può più offrire: la purezza dell'opposizione. Il lusso di dire sempre sì ai propri elettori perché non ha ancora mai dovuto gestire un ministero, firmare una legge di bilancio, trattare con Bruxelles.
 
 Perfino i residui di Forza Italia, il partito-fantasma che sopravvive a se stesso nel centro-destra, perdono quote marginali verso Vannacci tra chi cerca un voto di protesta interno alla coalizione senza passare alle opposizioni.
- 
+
 Lo scenario prossimo futuro: tre ipotesi
 
 Guardando ai prossimi 18-24 mesi, tre scenari appaiono plausibili — non necessariamente in alternativa tra loro.
@@ -77,7 +77,7 @@ Il primo scenario è quello della stabilizzazione competitiva. Vannacci si asses
 Il secondo scenario è quello dell'accelerazione cannibale. Se la legislatura dovesse entrare in crisi — per scandali, per deterioramento economico, per la solita fragilità delle coalizioni italiane — Vannacci potrebbe capitalizzare la delusione dell'elettorato di governo con una velocità che gli attuali sondaggi non riescono ancora a misurare. In elezioni anticipate in clima di forte malcontento, un 10-12% non è fantascienza. Significherebbe la fine della Lega come la conosciamo e l'inizio di una difficile coabitazione tra Meloni e un socio ingombrante e ingovernabile.
 
 Il terzo scenario, il meno probabile ma il più sistemicamente rilevante, è quello della rottura della coalizione. Vannacci non ha mai fatto mistero di considerare FdI e Lega partiti troppo compromessi con l'establishment europeo e atlantico. Se si aprisse uno spazio per una destra anti-NATO, anti-euro, filo-Putin esplicita — uno spazio che la guerra in Ucraina ha finora tenuto marginale ma che un eventuale accordo di pace potrebbe riaprire — Vannacci potrebbe diventare il fulcro di una forza antisistema capace di scardinare l'architettura del centrodestra.
- 
+
 Il generale ha capito una cosa che i politici di professione faticano ad ammettere:
 
 in politica, come nel software, il fork che funziona non si chiede il permesso all'originale. Lo clona, lo migliora agli occhi dell'utente e lo lascia invecchiare.
