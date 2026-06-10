@@ -22,7 +22,7 @@ tags:
 image: /assets/images/uploads/IMG_7304.jpeg
 image_caption: Roberto Vannacci
 image_alt: Una immagine di Roberto Vannacci
-excerpt: "Roberto Vannacci è il caso politico più interessante e inquietante dell'Italia contemporanea. Non perché sia un pensatore originale — non lo è — ma perché ha applicato alla politica italiana una tecnica di marketing mutuata dal mondo del software: il fork. Ha preso il codice sorgente della destra sovranista, lo ha copiato, ribrandizzato e rilanciato come prodotto autonomo, usando come rampa di lancio proprio la Lega che lo aveva candidato alle europee del 2024. Con 532.000 preferenze personali — un risultato che nessun leghista storico aveva mai raggiunto — ha dimostrato che l'audience era sua, non di Salvini. Ora ha un partito proprio, il Movimento Vannacci, e sta cannibalizzando sistematicamente l'elettorato di destra. Lo scenario prossimo futuro non è rassicurante per nessuno dei partiti della coalizione di governo."
+excerpt: "Roberto Vannacci è il caso politico più interessante e inquietante dell'Italia contemporanea. Non perché sia un pensatore originale — non lo è — ma perché ha applicato alla politica italiana una tecnica di marketing mutuata dal mondo del software: il fork. Ha preso il codice sorgente della destra sovranista, lo ha copiato, ribrandizzato e rilanciato come prodotto autonomo, usando come rampa di lancio proprio la Lega che lo aveva candidato alle europee del 2024. Con 532.000 preferenze personali — un risultato che nessun leghista storico aveva mai raggiunto — ha dimostrato che l'audience era sua, non di Salvini. Ora ha un partito proprio, il Movimento di Vannacci, Futuro Nazionale, e sta cannibalizzando sistematicamente l'elettorato di destra. Lo scenario prossimo futuro non è rassicurante per nessuno dei partiti della coalizione di governo."
 focus_keyword: Vannacci partito destra 2026
 ---
 
@@ -54,7 +54,7 @@ La macchina mediatica progressista fa il resto: scandalo, indignazione, articoli
 
 Giugno 2024: le europee. 532.000 voti. Eletto al Parlamento europeo. Ma già durante la campagna è chiaro che Vannacci considera la Lega una piattaforma temporanea, non una casa. Le sue dichiarazioni sono autonome, spesso imbarazzanti per il partito ospitante, mai coordinate con via Bellerio. Salvini tollera perché i sondaggi gli dicono che funziona.
 
-Autunno 2024: nascono le prime strutture del Movimento Vannacci, ancora informali. Primavera 2025: il Movimento si costituisce formalmente. Fine 2025: i sondaggi lo accreditano tra il 4 e il 7 percento. Giugno 2026: è un attore autonomo dello spazio politico italiano, con rappresentanza europea, struttura organizzativa e — soprattutto — un elettorato che lo segue con la devozione tribale che un tempo si riservava a Salvini.
+Autunno 2024: nascono le prime strutture del Movimento di Vannacci, ancora informali. Primavera 2025: il Movimento si costituisce formalmente in Futuro Nazionale. Fine 2025: i sondaggi lo accreditano tra il 4 e il 7 percento. Giugno 2026: è un attore autonomo dello spazio politico italiano, con rappresentanza europea, struttura organizzativa e — soprattutto — un elettorato che lo segue con la devozione tribale che un tempo si riservava a Salvini.
 
 La cannibalizzazione: chi sta mangiando e chi sta perdendo
 
