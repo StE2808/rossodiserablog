@@ -45,3 +45,4 @@ dashboard/gsc_snapshot.json
 # Dashboard — versione pubblicata e script di deploy/lettura (path nascosto, host, logica VPS)
 dashboard/publish/
 dashboard/*.sh
+.superpowers/
