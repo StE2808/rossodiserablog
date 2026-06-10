@@ -14,7 +14,7 @@ Blog editoriale italiano di politica, società e cultura. Pubblica analisi criti
 - **Opinioni editoriali** (31 articoli): analisi e commenti su attualità
 - **Diritti umani** (16 articoli): migranti, discriminazione, aporofobia, fine vita
 - **Ambiente** (13 articoli): clima, energie rinnovabili, politiche ambientali
-- **Intelligenza artificiale** (7 articoli): etica AI, accelerazione tecnologica, lavoro, sorveglianza predittiva
+- **Intelligenza artificiale** (8 articoli): etica AI, accelerazione tecnologica, lavoro, sorveglianza predittiva, accesso alla conoscenza
 
 ## Articoli chiave — Filosofia politica e democrazia
 
@@ -42,6 +42,7 @@ Blog editoriale italiano di politica, società e cultura. Pubblica analisi criti
 
 ## Articoli chiave — Intelligenza artificiale ed etica
 
+- [Addestrati su di noi, venduti a loro: il caso Claude Fable 5](https://rossodiserablog.it/claude-fable-5-sapere-elite/): Il modello AI più potente mai reso pubblico, costruito sul sapere collettivo ma riservato a chi può spendere
 - [Mythos, il modello che trova i bug di tutti](https://rossodiserablog.it/mythos-anthropic-economia-paura/): Anthropic e i zero-day ovunque — la nuova economia della paura digitale
 - [Il No di Amodei al Pentagono](https://rossodiserablog.it/amodei-pentagono-etica-intelligenza-artificiale/): Chi decide i limiti etici dell'AI quando non esiste nessuna legge?
 - [Quando gli anni diventano settimane](https://rossodiserablog.it/quando-gli-anni-diventano-settimane/): Google DeepMind, Gemini e l'accelerazione dell'intelligenza artificiale
