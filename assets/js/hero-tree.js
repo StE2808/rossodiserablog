@@ -121,6 +121,11 @@
     return;
   }
 
+  // CTA e "Scorri" restano nascosti fino alla fine del volo
+  hero.classList.add('hero-cta-pending');
+  function revealCta() { hero.classList.remove('hero-cta-pending'); }
+  setTimeout(revealCta, 8400); // rete di sicurezza se il volo non parte
+
   // doppio rAF: lo stato nascosto viene renderizzato prima del via
   requestAnimationFrame(function () {
     requestAnimationFrame(function () { showAll(false); });
@@ -131,7 +136,7 @@
 
   function flight() {
     var logo = document.querySelector('.navbar-logo');
-    if (!logo || !Element.prototype.animate) return;
+    if (!logo || !Element.prototype.animate) { revealCta(); return; }
     var heroRect = hero.getBoundingClientRect();
     var mRect = svg.querySelector('#hero-top-marker').getBoundingClientRect();
     var lRect = logo.getBoundingClientRect();
@@ -157,6 +162,7 @@
       { transform: 'translate(' + (startX + dx * 0.8) + 'px,' + (startY + dy * 0.95 - 25) + 'px) scaleX(-1) scale(0.68)', opacity: 1, offset: 0.8 },
       { transform: 'translate(' + (startX + dx * 0.96) + 'px,' + (startY + dy * 0.99 - 5) + 'px) scaleX(-1) scale(0.5)', opacity: 1, offset: 0.92 },
       { transform: 'translate(' + endX + 'px,' + endY + 'px) scaleX(-1) scale(0)', opacity: 0, offset: 1 }
-    ], { duration: 2000, easing: 'cubic-bezier(0.35, 0.2, 0.35, 1)', fill: 'forwards' });
+    ], { duration: 2000, easing: 'cubic-bezier(0.35, 0.2, 0.35, 1)', fill: 'forwards' })
+      .onfinish = revealCta;
   }
 })();

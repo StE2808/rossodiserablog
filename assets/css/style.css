@@ -377,6 +377,21 @@ body.menu-open {
     .hero-tree .tree-g.swaying { animation: none; }
 }
 
+/* CTA e indicatore di scroll nascosti fino a fine volo (classe gestita da hero-tree.js) */
+.hero-cta-pending .hero-cta {
+    opacity: 0;
+    animation: none;
+    pointer-events: none;
+}
+
+.hero-cta-pending .scroll-indicator {
+    opacity: 0;
+}
+
+.scroll-indicator {
+    transition: opacity 0.9s ease;
+}
+
 .hero-content {
     position: absolute;
     top: 40%;

@@ -23,6 +23,7 @@ Sostituire l'albero stilizzato "a ventaglio" nell'hero della homepage con un alb
 | ~3.1 s | L'uccellino appare in dissolvenza sulla cima (0.7 s) |
 | ~4.2 s | L'albero inizia a oscillare (rotate 0.8°, 5 s, infinito, origine alla base del tronco) |
 | ~5.4 s | L'uccellino decolla: traiettoria ad arco verso il logo della navbar (2 s, Web Animations API); negli ultimi millimetri (offset 0.92→1) si rimpicciolisce rapidamente fino a scala 0 e sparisce "dentro" il logo |
+| ~7.4 s | A fine volo (`onfinish`, fallback a 8.4 s) compaiono "Esplora gli articoli" (replay del suo fadeInUp) e l'indicatore "Scorri" (dissolvenza 0.9 s) — classe `hero-cta-pending` rimossa da `.hero`. Con reduced-motion o senza JS restano sempre visibili (aggiunta 2026-06-10 pomeriggio) |
 
 ## Requisiti vincolanti
 
