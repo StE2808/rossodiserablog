@@ -17,7 +17,7 @@ tags:
   - magistratura
   - Iezzi
   - Ravetto
-image: /assets/images/uploads/IMG_7315.jpeg
+image: /assets/images/uploads/IMG_7315.webp
 image_caption: Polizia in tenuta antisommossa
 image_alt: Polizia in tenuta antisommossa
 excerpt: La Lega ripropone l'emendamento che toglierebbe alla Procura il potere di indagare sui possibili reati commessi da agenti di polizia in servizio, affidando tutto all'Avvocatura dello Stato — l'organo che per legge difende l'amministrazione pubblica. Le spese legali degli indagati sarebbero a carico dello Stato. Un meccanismo che trasforma un conflitto di interessi in norma processuale, scardinando il principio costituzionale di uguaglianza.
