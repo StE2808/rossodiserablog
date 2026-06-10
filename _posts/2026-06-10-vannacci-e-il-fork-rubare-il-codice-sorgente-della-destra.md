@@ -19,7 +19,7 @@ tags:
   - FdI,
   - Meloni,
   - politica italiana 2026
-image: /assets/images/uploads/IMG_7304.jpeg
+image: /assets/images/uploads/IMG_7304.webp
 image_caption: Roberto Vannacci
 image_alt: Una immagine di Roberto Vannacci
 excerpt: "Roberto Vannacci è il caso politico più interessante e inquietante dell'Italia contemporanea. Non perché sia un pensatore originale — non lo è — ma perché ha applicato alla politica italiana una tecnica di marketing mutuata dal mondo del software: il fork. Ha preso il codice sorgente della destra sovranista, lo ha copiato, ribrandizzato e rilanciato come prodotto autonomo, usando come rampa di lancio proprio la Lega che lo aveva candidato alle europee del 2024. Con 532.000 preferenze personali — un risultato che nessun leghista storico aveva mai raggiunto — ha dimostrato che l'audience era sua, non di Salvini. Ora ha un partito proprio, il Movimento Vannacci, e sta cannibalizzando sistematicamente l'elettorato di destra. Lo scenario prossimo futuro non è rassicurante per nessuno dei partiti della coalizione di governo."
