@@ -390,6 +390,7 @@ body.menu-open {
 
 .scroll-indicator {
     transition: opacity 0.9s ease;
+    z-index: 2; /* sopra l'albero (z-index 1): il tronco non lo copre */
 }
 
 .hero-content {
