@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Addestrati su di noi, venduti a loro: il caso Claude Fable 5"
-date: 2026-06-10 00:00:00 +0200
+date: 2026-06-10 18:00:00 +0200
 author: stefano-vozzi
 image: /assets/images/uploads/mythos-fable-fiale-biblioteca.webp
 image_alt: "Due fiale da laboratorio con liquido rosso, marcate Mythos e Fable, in primo piano dentro una biblioteca: il sapere collettivo distillato in un prodotto"
