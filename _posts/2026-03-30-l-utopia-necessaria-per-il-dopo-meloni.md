@@ -4,6 +4,7 @@ title: L'utopia necessaria per il dopo-Meloni
 seo_title: "Crisi Meloni: perché sognare è politicamente necessario"
 description: "Dal 'non-luogo' di Tommaso Moro a Camus: perché senza utopia non c'è futuro. E perché la crisi del governo Meloni può restituirci il coraggio di sognare."
 date: 2026-03-30 09:20:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

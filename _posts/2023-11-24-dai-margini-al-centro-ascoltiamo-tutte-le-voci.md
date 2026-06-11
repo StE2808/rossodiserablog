@@ -2,6 +2,7 @@
 layout: post
 title: "Dai margini al centro: ascoltiamo tutte le voci."
 date: 2023-11-24 00:00:00 +0100
+last_modified_at: 2026-06-07 17:59:08 +0200
 author: stefano-vozzi
 image: /assets/images/2023/11/dallc2b7e-2023-11-24-10.05.31-create-an-impactful-image-that-depicts-marginalized-subaltern-groups-in-black-and-white-stepping-into-a-vibrant-colorful-world.-the-black-and-whit.webp
 image_alt: "Gruppo di persone di diverse origini che camminano insieme verso un futuro di inclusione, passando dal bianco e nero al colore"

@@ -2,6 +2,7 @@
 layout: post
 title: "Il Capitalismo di Sorveglianza: Quando Noi Siamo il Prodotto"
 date: 2025-03-18 00:00:00 +0100
+last_modified_at: 2026-04-30 10:30:41 +0200
 author: stefano-vozzi
 image: /assets/images/2025/03/capitalismo_di_sorveglianza.webp
 image_alt: "Illustrazione del capitalismo di sorveglianza con occhi digitali e flussi di dati che attraversano una rete globale"

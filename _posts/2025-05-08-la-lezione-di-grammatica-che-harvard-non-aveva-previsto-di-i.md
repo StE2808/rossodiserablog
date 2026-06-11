@@ -2,6 +2,7 @@
 layout: post
 title: "La lezione di grammatica che Harvard non aveva previsto di impartire"
 date: 2025-05-08 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 image: /assets/images/2025/05/1c04ce84-2392-4051-b7fd-a3c740da0921-1.webp
 image_alt: "Immagine di copertina dell'articolo"

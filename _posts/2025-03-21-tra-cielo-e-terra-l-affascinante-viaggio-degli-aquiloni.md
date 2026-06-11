@@ -2,6 +2,7 @@
 layout: post
 title: "Tra cielo e terra: L'affascinante viaggio degli aquiloni"
 date: 2025-03-21 00:00:00 +0100
+last_modified_at: 2026-04-30 10:44:43 +0200
 author: stefano-vozzi
 image: /assets/images/2025/03/pexels-photo-29963661.webp
 image_alt: "Aquilone colorato che volteggia nel cielo azzurro, simbolo di libertà e del paradosso tra vincolo e libertà nell'esistenza umana"

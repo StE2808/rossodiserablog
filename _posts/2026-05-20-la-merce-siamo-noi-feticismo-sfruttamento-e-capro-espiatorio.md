@@ -4,6 +4,7 @@ title: 'La merce siamo noi. Feticismo, sfruttamento e capro espiatorio'
 seo_title: 'Da Marx a Modena: sfruttamento e capro espiatorio'
 description: "Dal feticismo delle merci di Marx al caso Modena: come Salvini usa il capro espiatorio per nascondere le cause strutturali dell'impoverimento."
 date: 2026-05-20 07:20:00 +0200
+last_modified_at: 2026-05-22 09:21:17 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

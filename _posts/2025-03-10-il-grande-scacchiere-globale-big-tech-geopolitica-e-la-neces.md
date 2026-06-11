@@ -2,6 +2,7 @@
 layout: post
 title: "Il Grande Scacchiere Globale: Big Tech, Geopolitica e la Necessaria Rinascita Europea"
 date: 2025-03-10 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: stefano-vozzi
 image: /assets/images/2025/03/scacchiera.webp
 image_alt: "Scacchiera con pezzi che rappresentano le potenze globali, metafora del grande scacchiere geopolitico tra Big Tech e nazioni"

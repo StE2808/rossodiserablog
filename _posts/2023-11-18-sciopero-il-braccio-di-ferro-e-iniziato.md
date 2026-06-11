@@ -2,6 +2,7 @@
 layout: post
 title: "Sciopero: il braccio di ferro è iniziato"
 date: 2023-11-18 00:00:00 +0100
+last_modified_at: 2026-01-24 23:55:33 +0100
 author: lino-rialti
 image: /assets/images/2023/11/img_4275.webp
 image_alt: "Immagine di copertina dell'articolo"

@@ -2,6 +2,7 @@
 layout: post
 title: Il vento nei capelli
 date: 2025-12-20 21:36:00 +0100
+last_modified_at: 2026-04-30 10:44:43 +0200
 author: stefano-vozzi
 category: cultura-spettacolo
 tags:

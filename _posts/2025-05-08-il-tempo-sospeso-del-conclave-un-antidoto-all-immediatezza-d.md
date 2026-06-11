@@ -2,6 +2,7 @@
 layout: post
 title: "Il Tempo Sospeso del Conclave: Un Antidoto all'Immediatezza Digitale"
 date: 2025-05-08 00:00:00 +0100
+last_modified_at: 2026-06-07 17:18:00 +0200
 author: stefano-vozzi
 image: /assets/images/2025/05/img_8936.webp
 image_alt: "Fumata bianca dal comignolo della Cappella Sistina che annuncia l'elezione del nuovo Papa durante il Conclave"

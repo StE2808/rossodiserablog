@@ -4,6 +4,7 @@ title: Il Progetto Secolare
 seo_title: "Il progetto secolare delle élite: Russell, Wells e oggi"
 description: "Wells e Russell negli anni Venti scrissero il copione del mondo di oggi: élite immune, masse controllate, giustizia selettiva. Non un complotto segreto, ma un progetto dichiarato."
 date: 2026-05-11 07:55:00 +0200
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

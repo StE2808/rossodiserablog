@@ -3,6 +3,7 @@ layout: post
 title: "Meloni contro i diritti dei lavoratori"
 seo_title: "Decreto Ilva: Meloni cancella i diritti dei lavoratori"
 date: 2025-07-21 00:00:00 +0100
+last_modified_at: 2026-05-24 08:14:27 +0200
 author: lino-rialti
 category: politica-interna
 focus_keyword: "decreto Ilva diritti lavoratori Meloni"

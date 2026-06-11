@@ -2,6 +2,7 @@
 layout: post
 title: "Sicurezza: non solo criminalità"
 date: 2025-02-15 00:00:00 +0100
+last_modified_at: 2026-01-24 21:00:31 +0100
 author: lino-rialti
 image: /assets/images/2025/02/img_6115-1.webp
 image_alt: "Immagine di copertina dell'articolo"

@@ -2,6 +2,7 @@
 layout: post
 title: "Il Cioccolato: Un Viaggio Sensoriale nel Regno della Neurogastronomia"
 date: 2023-09-25 00:00:00 +0100
+last_modified_at: 2026-06-07 17:55:26 +0200
 author: stefano-vozzi
 image: /assets/images/2023/09/pexels-photo-7538069.webp
 image_alt: "Tavoletta di cioccolato fondente con pezzi spezzati, ricca di flavonoidi benefici per la memoria e il cervello"

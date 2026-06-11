@@ -2,6 +2,7 @@
 layout: post
 title: "Voci Inascoltate: L'Iran e il (non) dialogo globale sui Diritti Umani"
 date: 2023-11-01 00:00:00 +0100
+last_modified_at: 2026-06-07 17:33:11 +0200
 author: stefano-vozzi
 image: /assets/images/2023/11/img_5619.webp
 image_alt: "Fotografia simbolica di manifestanti iraniani che lottano per i diritti delle donne, rappresentazione della resistenza civile in Iran"

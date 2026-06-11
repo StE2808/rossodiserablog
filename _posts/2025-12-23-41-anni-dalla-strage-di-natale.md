@@ -3,6 +3,7 @@ layout: post
 title: 41 anni dalla strage di Natale
 seo_title: "Strage di Natale 1984: 41 anni dal Rapido 904"
 date: 2025-12-23 11:50:00 +0100
+last_modified_at: 2026-05-24 08:05:31 +0200
 author: lino-rialti
 category: politica-interna
 focus_keyword: "strage di Natale 1984"

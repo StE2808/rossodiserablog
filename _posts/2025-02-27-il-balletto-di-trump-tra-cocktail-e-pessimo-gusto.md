@@ -2,6 +2,7 @@
 layout: post
 title: "Il Balletto di Trump: tra cocktail e pessimo gusto"
 date: 2025-02-27 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 image: /assets/images/2025/02/img_6149-1.webp
 image_alt: "Immagine di copertina dell'articolo"

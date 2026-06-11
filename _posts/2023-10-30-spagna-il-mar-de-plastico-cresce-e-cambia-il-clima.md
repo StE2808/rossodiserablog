@@ -2,6 +2,7 @@
 layout: post
 title: "Spagna: il Mar de Plastico cresce e cambia il clima"
 date: 2023-10-30 00:00:00 +0100
+last_modified_at: 2026-01-24 23:55:33 +0100
 author: lino-rialti
 image: /assets/images/2023/10/mar-de-plastico.webp
 image_alt: "Immagine di copertina dell'articolo"

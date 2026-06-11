@@ -3,6 +3,7 @@ layout: post
 title: "L'Uomo-Ombra: Andrea Pignataro ricchissimo e sconosciuto"
 seo_title: "Andrea Pignataro: il miliardario italiano sconosciuto di ION Group"
 date: 2025-07-28 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 category: economia-finanza
 focus_keyword: "Andrea Pignataro ION Group miliardario italiano"

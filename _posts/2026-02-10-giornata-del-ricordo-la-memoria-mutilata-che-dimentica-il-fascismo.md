@@ -4,6 +4,7 @@ title: 'Giornata del Ricordo: la memoria mutilata che dimentica il fascismo'
 seo_title: "Giornata del Ricordo: le foibe e il fascismo rimosso"
 description: "Senza fascismo non ci sarebbero le foibe. La Commissione italo-slovena del 2000 lo certifica — ma in Italia non è mai stata pubblicata."
 date: 2026-02-10 08:17:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

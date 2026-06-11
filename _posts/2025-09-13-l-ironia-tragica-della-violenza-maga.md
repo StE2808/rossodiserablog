@@ -3,6 +3,7 @@ layout: post
 title: "L'ironia tragica della violenza MAGA"
 seo_title: "La violenza MAGA divora i propri figli: il caso Charlie Kirk"
 date: 2025-09-13 00:00:00 +0100
+last_modified_at: 2026-05-24 08:05:31 +0200
 author: lino-rialti
 category: politica-estera
 focus_keyword: "violenza MAGA movimento conservatore"

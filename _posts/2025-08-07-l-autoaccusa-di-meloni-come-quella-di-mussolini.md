@@ -3,6 +3,7 @@ layout: post
 title: "L'autoaccusa di Meloni come quella di Mussolini"
 seo_title: "Meloni e Mussolini: la stessa retorica dell'autoaccusa"
 date: 2025-08-07 00:00:00 +0100
+last_modified_at: 2026-05-24 08:05:31 +0200
 author: lino-rialti
 category: politica-interna
 focus_keyword: "Meloni caso Almasri parallelo Mussolini"

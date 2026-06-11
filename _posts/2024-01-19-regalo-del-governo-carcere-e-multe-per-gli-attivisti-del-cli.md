@@ -2,6 +2,7 @@
 layout: post
 title: "Regalo del governo: carcere e multe per gli attivisti del clima"
 date: 2024-01-19 00:00:00 +0100
+last_modified_at: 2026-01-23 07:09:50 +0100
 author: lino-rialti
 image: /assets/images/2024/01/ultima-generazione_tradimenti-1024x496-2.webp
 image_alt: "Immagine di copertina dell'articolo"

@@ -3,6 +3,7 @@ layout: post
 title: "Leoncavallo: quando la comunità diventa 'minaccia'"
 seo_title: "Leoncavallo sgomberato: la solidarietà trasformata in crimine"
 date: 2025-08-22 00:00:00 +0100
+last_modified_at: 2026-05-24 08:05:31 +0200
 author: lino-rialti
 category: societa
 focus_keyword: "sgombero Leoncavallo centri sociali"

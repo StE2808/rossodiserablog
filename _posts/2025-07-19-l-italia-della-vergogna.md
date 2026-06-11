@@ -3,6 +3,7 @@ layout: post
 title: "L'Italia della Vergogna"
 seo_title: "L'Italia di Meloni si isola dall'Europa su Gaza e Ucraina"
 date: 2025-07-19 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 category: politica-interna
 focus_keyword: "Italia isolamento diplomatico Gaza Europa Meloni"

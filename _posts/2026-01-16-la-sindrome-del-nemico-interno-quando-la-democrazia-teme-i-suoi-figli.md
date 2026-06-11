@@ -4,6 +4,7 @@ title: 'La sindrome del nemico interno: quando la democrazia teme i suoi figli'
 seo_title: 'Sindrome del nemico interno: democrazia reprime il dissenso'
 description: 'Da Pisa a Washington, le democrazie scoprono il nemico in casa. Studenti, attivisti, giudici: quando il dissenso diventa malattia.'
 date: 2026-01-16 10:03:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:

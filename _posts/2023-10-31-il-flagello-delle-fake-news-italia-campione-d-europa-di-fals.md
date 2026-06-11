@@ -2,6 +2,7 @@
 layout: post
 title: "Il flagello delle fake news: Italia campione d' Europa di 'falsità'"
 date: 2023-10-31 00:00:00 +0100
+last_modified_at: 2026-06-07 17:57:02 +0200
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5612.webp
 image_alt: "Schermata di smartphone con articoli di notizie online, simbolo della disinformazione e delle fake news in Italia"

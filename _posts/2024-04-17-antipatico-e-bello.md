@@ -2,6 +2,7 @@
 layout: post
 title: "Antipatico e' bello"
 date: 2024-04-17 00:00:00 +0100
+last_modified_at: 2026-01-23 07:04:18 +0100
 author: lino-rialti
 image: /assets/images/2024/04/img_4811-1.webp
 image_alt: "Immagine di copertina dell'articolo"

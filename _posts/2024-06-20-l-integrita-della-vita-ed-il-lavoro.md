@@ -2,6 +2,7 @@
 layout: post
 title: "L'integrità della vita ed il lavoro"
 date: 2024-06-20 00:00:00 +0100
+last_modified_at: 2026-06-07 17:24:57 +0200
 author: lino-rialti
 image: /assets/images/2024/06/img_5078-1.webp
 image_alt: "Immagine di copertina dell'articolo"

@@ -2,6 +2,7 @@
 layout: post
 title: "Israele bombarda l'Iran: l'ipocrisia dell'Occidente di fronte all'ennesima aggressione"
 date: 2025-06-17 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 image: /assets/images/2025/06/img_6511-1.webp
 image_alt: "Immagine di copertina dell'articolo"

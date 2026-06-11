@@ -2,6 +2,7 @@
 layout: post
 title: "Israele senza linea politica accelera l'ecatombe Palestina"
 date: 2023-12-11 00:00:00 +0100
+last_modified_at: 2026-01-23 07:28:31 +0100
 author: lino-rialti
 image: /assets/images/2023/12/img_4362-1.webp
 image_alt: "Immagine di copertina dell'articolo"

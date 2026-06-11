@@ -2,6 +2,7 @@
 layout: post
 title: Elogio del silenzio imbarazzante
 date: 2025-12-24 14:20:00 +0100
+last_modified_at: 2026-04-29 22:15:51 +0200
 author: stefano-vozzi
 category: societa
 tags:

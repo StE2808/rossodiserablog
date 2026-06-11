@@ -2,6 +2,7 @@
 layout: post
 title: "Alle prossime generazioni: Buon Natale"
 date: 2023-11-07 00:00:00 +0100
+last_modified_at: 2026-06-07 18:01:57 +0200
 author: stefano-vozzi
 image: /assets/images/2023/11/img_5671.webp
 image_alt: "Bambini che guardano verso l'orizzonte, simbolo del futuro che stiamo costruendo per le prossime generazioni"

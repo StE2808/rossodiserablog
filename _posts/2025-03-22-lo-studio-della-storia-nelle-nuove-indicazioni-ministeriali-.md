@@ -2,6 +2,7 @@
 layout: post
 title: "Lo studio della storia nelle nuove indicazioni ministeriali: eurocentrismo e assenza di metodo scientifico"
 date: 2025-03-22 00:00:00 +0100
+last_modified_at: 2026-06-07 17:49:30 +0200
 author: stefano-vozzi
 image: /assets/images/2025/03/storia.webp
 image_alt: "Libro di storia aperto con mappe e documenti storici, simbolo dell'insegnamento della storia nelle scuole italiane"

@@ -4,6 +4,7 @@ title: 'Gaza: i fatti, i numeri, le responsabilità'
 seo_title: "Gaza 2026: 72mila morti, fame come crimine di guerra"
 description: "Flottiglia abbordato in acque internazionali, due attivisti detenuti. Gaza: 72.562 morti, 20.000 bambini, mezzo milione affamati. Il silenzio è complicità."
 date: 2026-05-05 16:30:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

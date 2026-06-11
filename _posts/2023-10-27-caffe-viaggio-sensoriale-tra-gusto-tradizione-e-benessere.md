@@ -2,6 +2,7 @@
 layout: post
 title: "Caffè: Viaggio Sensoriale tra Gusto, Tradizione e Benessere"
 date: 2023-10-27 00:00:00 +0100
+last_modified_at: 2026-06-07 17:55:26 +0200
 author: stefano-vozzi
 image: /assets/images/2023/10/pexels-photo-18724101.webp
 image_alt: "Tazzina di caffè espresso italiano con crema densa, simbolo del rito del caffè nella cultura italiana"

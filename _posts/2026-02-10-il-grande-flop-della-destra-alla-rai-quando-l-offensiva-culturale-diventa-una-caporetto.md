@@ -4,6 +4,7 @@ title: "Il grande flop della destra alla RAI: quando l''offensiva culturale dive
 seo_title: "Egemonia culturale: RAI e il flop della destra nel 2026"
 description: "Dal Pucci-gate alle Olimpiadi 2026 al flop di Pino Insegno: la destra alla RAI perde ascolti e colleziona gaffe. Auditel impietoso."
 date: 2026-02-10 07:42:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

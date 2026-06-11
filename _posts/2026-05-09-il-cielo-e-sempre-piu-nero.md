@@ -4,6 +4,7 @@ title: "Il cielo è sempre più nero"
 seo_title: "Il cielo è sempre più nero: UFO, Gaza e la guerra"
 description: "Trump rilascia i file UFO al 34% di gradimento. Ma dietro la distrazione: guerra all'Iran, Gaza, pirateria nel Mediterraneo, petrolio a 126 dollari."
 date: 2026-05-09 10:00:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:

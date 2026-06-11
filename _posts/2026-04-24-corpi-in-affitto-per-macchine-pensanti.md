@@ -4,6 +4,7 @@ title: Corpi in affitto per macchine pensanti
 seo_title: "Quando l'AI affitta corpi umani: RentAHuman.ai"
 description: "RentAHuman.ai è il marketplace dove gli agenti AI noleggiano esseri umani per compiti fisici: l'inversione radicale in cui lo strumento usa l'uomo."
 date: 2026-04-24 10:47:00 +0200
+last_modified_at: 2026-05-16 19:08:11 +0200
 author: lino-rialti
 category: scienza-tecnologia
 tags:

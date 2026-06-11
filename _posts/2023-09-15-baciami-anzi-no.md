@@ -4,6 +4,7 @@ title: Baciami. Anzi no!
 seo_title: ''
 description: Il bacio alla francese è presente nel 90% delle culture. E il 10% delle culture che non si baciano, quali altri gesti romantici usano al posto del bacio
 date: 2023-09-15 00:00:00 +0100
+last_modified_at: 2026-01-24 23:55:33 +0100
 author: stefano-vozzi
 category: cultura-spettacolo
 tags:

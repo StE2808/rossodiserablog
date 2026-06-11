@@ -2,6 +2,7 @@
 layout: post
 title: "Uccisi tutti i mufloni del Giglio"
 date: 2023-12-12 00:00:00 +0100
+last_modified_at: 2026-06-07 17:59:08 +0200
 author: lino-rialti
 image: /assets/images/2023/12/img_4370-1.webp
 image_alt: "Immagine di copertina dell'articolo"

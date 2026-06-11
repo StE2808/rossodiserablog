@@ -4,6 +4,7 @@ title: 'La deriva imperialista americana: quando la democrazia cede al neocoloni
 seo_title: "Groenlandia: USA imperialismo e neocolonialismo nel 2026"
 description: "Il Piano Trump sulla Groenlandia: l'85% dei groenlandesi è contrario ma Washington preme con operazioni segrete. Puro neocolonialismo."
 date: 2026-01-08 07:55:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: politica-estera
 tags:

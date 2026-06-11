@@ -3,6 +3,7 @@ layout: post
 title: "Quando gli anni diventano settimane"
 seo_title: "Intelligenza artificiale e ricerca: anni in settimane"
 date: 2026-02-18T12:00:00+01:00
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: scienza-tecnologia
 description: "Gemini Deep Think risolve problemi matematici aperti da decenni. In settimane. E ora migliora gli algoritmi con cui si costruisce. Siamo pronti?"

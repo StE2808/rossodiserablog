@@ -3,6 +3,7 @@ layout: post
 title: "Il riconoscimento della Palestina e l'inadeguatezza italiana"
 seo_title: "La Francia riconosce la Palestina: l'Italia resta immobile"
 date: 2025-07-25 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 category: politica-estera
 focus_keyword: "riconoscimento Palestina Francia Italia G7"

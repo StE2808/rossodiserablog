@@ -2,6 +2,7 @@
 layout: post
 title: "Armita Geravand: la sedicenne in coma per la lotta contro il velo in Iran."
 date: 2023-10-04 00:00:00 +0100
+last_modified_at: 2026-04-30 10:44:43 +0200
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5287.webp
 image_alt: "Fotografia simbolica di una giovane donna in Iran che rappresenta la lotta per la libertà contro l'obbligo del velo"

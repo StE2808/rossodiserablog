@@ -4,6 +4,7 @@ title: "Il No di Amodei al Pentagono: chi decide l''etica dell''intelligenza art
 seo_title: "Il No di Amodei al Pentagono: chi decide l''etica dell''AI?"
 description: "Anthropic rifiuta il Pentagono sull''AI militare. Trump la mette al bando. Ma chi ha il diritto di decidere i limiti dell''intelligenza artificiale?"
 date: 2026-03-02 00:00:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:

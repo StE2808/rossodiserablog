@@ -2,6 +2,7 @@
 layout: post
 title: "Jefferson Airplane: La Rivoluzione Psichedelica in Musica"
 date: 2023-10-04 00:00:00 +0100
+last_modified_at: 2026-04-30 10:30:41 +0200
 author: stefano-vozzi
 image: /assets/images/2023/10/img_4886.webp
 image_alt: "Fotografia d'archivio di un concerto psichedelico degli anni '60, nel periodo d'oro dei Jefferson Airplane a San Francisco"

@@ -3,6 +3,7 @@ layout: post
 title: "La Grande Mediatrice: Ovvero Come Meloni Divenne il Ponte di Carta"
 seo_title: "Meloni e Trump: il fallimento del ponte italiano sui dazi"
 date: 2025-07-13 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 category: societa
 focus_keyword: "Meloni mediazione Trump dazi fallimento"

@@ -4,6 +4,7 @@ title: Quella grassa grossa ossessione anti-comunista
 seo_title: "Piano Demagnetize: CIA e Gladio nelle stragi italiane"
 description: "Il Piano Demagnetize (1952): CIA e Gladio condizionarono la democrazia italiana. 4.584 attentati, 113 morti, Piazza Fontana. Documenti declassificati."
 date: 2026-01-13 09:52:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: inchieste-dossier
 tags:

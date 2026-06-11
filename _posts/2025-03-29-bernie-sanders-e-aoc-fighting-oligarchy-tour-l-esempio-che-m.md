@@ -2,6 +2,7 @@
 layout: post
 title: "Bernie Sanders e AOC | Fighting Oligarchy Tour: L'Esempio che Manca alla Politica Progressista"
 date: 2025-03-29 00:00:00 +0100
+last_modified_at: 2026-04-30 10:44:43 +0200
 author: stefano-vozzi
 image: /assets/images/2025/03/foto.png.webp
 image_alt: "Comizio politico con folle oceaniche, simbolo della mobilitazione del Fighting Oligarchy Tour di Bernie Sanders e AOC"

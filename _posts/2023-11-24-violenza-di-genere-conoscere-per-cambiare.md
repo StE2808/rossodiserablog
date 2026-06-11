@@ -2,6 +2,7 @@
 layout: post
 title: "Violenza di genere: conoscere per cambiare"
 date: 2023-11-24 00:00:00 +0100
+last_modified_at: 2026-06-07 17:35:36 +0200
 author: lino-rialti
 image: /assets/images/2023/11/jina.webp
 image_alt: "Immagine di copertina dell'articolo"

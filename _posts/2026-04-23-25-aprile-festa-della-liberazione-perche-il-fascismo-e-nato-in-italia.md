@@ -4,6 +4,7 @@ title: '25 aprile, festa della Liberazione: perché il fascismo è nato in Itali
 seo_title: "Origini del fascismo: quattro veleni e il 25 aprile"
 description: "Il fascismo nacque da quattro veleni: violenza dei reduci, paura borghese, complicità dello Stato, risentimento. La Resistenza fu l'antidoto."
 date: 2026-04-23 09:58:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

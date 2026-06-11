@@ -4,6 +4,7 @@ title: '"Voglio combattere la mafia." Solo parole.'
 seo_title: 'Meloni, la mafia e la riforma Nordio: solo proclami'
 description: 'Il Procuratore antimafia Melillo certifica: le norme Nordio indeboliscono le indagini su mafia e terrorismo. Meloni urla di combatterla e poi la protegge.'
 date: 2026-05-05 07:11:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: politica-interna
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Il Paradosso del Risparmio tra Insicurezza e Povertà in Italia"
 seo_title: "Risparmio e povertà in Italia: il paradosso delle famiglie"
 date: 2025-08-15 00:00:00 +0100
+last_modified_at: 2026-05-24 08:05:31 +0200
 author: lino-rialti
 category: economia-finanza
 focus_keyword: "risparmio precauzionale famiglie italiane"

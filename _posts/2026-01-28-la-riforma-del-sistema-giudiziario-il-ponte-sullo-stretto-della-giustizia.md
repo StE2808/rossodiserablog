@@ -4,6 +4,7 @@ title: 'La riforma del sistema giudiziario: il ponte sullo stretto della Giustiz
 seo_title: 'Riforma giustizia: separazione carriere non risolve nulla'
 description: "Referendum sulla separazione delle carriere: cos'è, come funziona e perché divide la politica italiana. La riforma che ha fatto cadere il governo Meloni."
 date: 2026-01-28 11:28:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

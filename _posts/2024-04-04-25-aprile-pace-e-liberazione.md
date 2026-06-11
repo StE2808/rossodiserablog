@@ -2,6 +2,7 @@
 layout: post
 title: "25 aprile: pace e Liberazione"
 date: 2024-04-04 00:00:00 +0100
+last_modified_at: 2026-01-24 21:00:31 +0100
 author: lino-rialti
 image: /assets/images/2024/04/salvini_berlusconi_meloni_2018_collage.webp
 image_alt: "Immagine di copertina dell'articolo"

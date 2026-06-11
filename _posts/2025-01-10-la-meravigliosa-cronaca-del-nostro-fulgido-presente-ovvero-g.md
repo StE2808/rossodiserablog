@@ -2,6 +2,7 @@
 layout: post
 title: "La meravigliosa cronaca del nostro fulgido presente! Ovvero Giorgia Meloni che si concede ai giornalisti."
 date: 2025-01-10 00:00:00 +0100
+last_modified_at: 2026-01-23 07:09:50 +0100
 author: lino-rialti
 image: /assets/images/2025/01/img_5982-1.webp
 image_alt: "Immagine di copertina dell'articolo"

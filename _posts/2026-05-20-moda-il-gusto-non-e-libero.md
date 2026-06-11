@@ -4,6 +4,7 @@ title: 'Moda: il gusto non è libero'
 seo_title: 'Il gusto non è libero: Bourdieu e la moda di classe'
 description: 'Bourdieu spiega perché ogni scelta di moda è un atto di classe: dal quiet luxury allo streetwear, il guardaroba rivela il nostro habitus sociale.'
 date: 2026-05-20 14:52:00 +0200
+last_modified_at: 2026-05-22 09:20:43 +0200
 author: lino-rialti
 category: lifestyle-moda
 tags:

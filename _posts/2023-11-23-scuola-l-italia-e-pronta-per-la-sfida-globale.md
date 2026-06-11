@@ -2,6 +2,7 @@
 layout: post
 title: "Scuola: l'Italia è pronta per la sfida globale?"
 date: 2023-11-23 00:00:00 +0100
+last_modified_at: 2026-04-30 10:44:43 +0200
 author: stefano-vozzi
 image: /assets/images/2023/11/dallc2b7e-2023-11-10-08.52.57-a-dynamic-and-symbolic-representation-of-italys-education-system-embracing-the-future.-the-image-includes-a-vibrant-classroom-filled-with-students-of.webp
 image_alt: "Aula scolastica moderna con studenti che guardano al futuro, simbolo della sfida dell'istruzione italiana nel contesto globale"

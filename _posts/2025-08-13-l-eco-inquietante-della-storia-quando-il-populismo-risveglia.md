@@ -3,6 +3,7 @@ layout: post
 title: "L'eco inquietante della storia: quando il populismo risveglia gli spettri del passato"
 seo_title: "La retorica di Salvini sui rom e gli spettri del nazismo"
 date: 2025-08-13 00:00:00 +0100
+last_modified_at: 2026-05-24 08:05:31 +0200
 author: lino-rialti
 category: diritti-umani
 focus_keyword: "retorica razzista Salvini rom"

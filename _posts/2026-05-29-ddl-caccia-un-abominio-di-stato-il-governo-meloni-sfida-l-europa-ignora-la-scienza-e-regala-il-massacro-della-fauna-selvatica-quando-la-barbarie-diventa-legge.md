@@ -4,6 +4,7 @@ title: "DDL CACCIA: UN ABOMINIO DI STATO. Il governo Meloni sfida l'Europa, igno
 seo_title: "DDL caccia Meloni: l'abominio contro la fauna selvatica"
 description: "Il DDL caccia di Meloni e Lollobrigida viola le direttive europee, apre alla caccia di lupo e stambecco e perfino in spiaggia. Un abominio di Stato."
 date: 2026-05-29 09:39:00 +0200
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 category: politica-interna
 tags:

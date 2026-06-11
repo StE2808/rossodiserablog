@@ -4,6 +4,7 @@ title: Trump e il pericolo della sua morale
 seo_title: "Diritto vs morale in democrazia: il pericolo Trump-Meloni"
 description: "Governare secondo la propria morale trasforma lo Stato in strumento di parte. Il diritto garantisce regole condivise per la convivenza democratica."
 date: 2026-01-12 09:06:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: politica-estera
 tags:

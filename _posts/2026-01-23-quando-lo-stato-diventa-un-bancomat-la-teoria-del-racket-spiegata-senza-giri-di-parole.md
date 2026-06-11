@@ -4,6 +4,7 @@ title: 'Quando lo Stato Diventa un Bancomat: La Teoria del Racket Spiegata Senza
 seo_title: 'Horkheimer e il Racket: quando lo Stato diventa un club'
 description: "Horkheimer lo aveva già capito: il potere non si conquista, si affitta. La teoria del racket: lo Stato club dei potenti."
 date: 2026-01-23 11:13:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: societa
 tags:

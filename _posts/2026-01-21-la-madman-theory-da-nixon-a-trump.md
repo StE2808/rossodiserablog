@@ -4,6 +4,7 @@ title: 'La Madman Theory: da Nixon a Trump'
 seo_title: 'Madman Theory: Trump non recita, Nixon si'
 description: Nixon fingeva la follia per strategia. Trump, secondo la sua ex portavoce, "è davvero così". La differenza tra recitare il pazzo e esserlo al comando.
 date: 2026-01-21 08:32:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

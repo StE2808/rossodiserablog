@@ -2,6 +2,7 @@
 layout: post
 title: "Trump e Musk: Costruttori di un Nuovo Stato Autoritario Tecnologico"
 date: 2025-02-22 00:00:00 +0100
+last_modified_at: 2026-04-30 10:44:43 +0200
 author: stefano-vozzi
 image: /assets/images/2025/02/image.webp
 image_alt: "Silhouette di una figura di potere davanti a uno schermo digitale, simbolo dell'autoritarismo tecnologico di Trump e Musk"

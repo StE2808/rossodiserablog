@@ -2,6 +2,7 @@
 layout: post
 title: "Migranti: persone o numeri?"
 date: 2023-09-14 00:00:00 +0100
+last_modified_at: 2026-01-24 23:55:33 +0100
 author: lino-rialti
 image: /assets/images/2023/09/migranti_2.webp
 image_alt: "Immagine di copertina dell'articolo"

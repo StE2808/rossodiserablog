@@ -2,6 +2,7 @@
 layout: post
 title: "Buongiorno Trump-landia"
 date: 2024-11-10 00:00:00 +0100
+last_modified_at: 2026-06-07 17:27:28 +0200
 author: lino-rialti
 image: /assets/images/2024/11/img_5655-1.webp
 image_alt: "Immagine di copertina dell'articolo"

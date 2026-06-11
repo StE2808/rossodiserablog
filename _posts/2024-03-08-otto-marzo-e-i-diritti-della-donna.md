@@ -2,6 +2,7 @@
 layout: post
 title: "Otto marzo e i diritti della donna"
 date: 2024-03-08 00:00:00 +0100
+last_modified_at: 2026-06-07 17:35:36 +0200
 author: lino-rialti
 image: /assets/images/2024/03/25301279295_58a4cc9960_c.webp
 image_alt: "Immagine di copertina dell'articolo"

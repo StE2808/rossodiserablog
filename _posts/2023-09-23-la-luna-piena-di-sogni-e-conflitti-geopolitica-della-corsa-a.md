@@ -2,6 +2,7 @@
 layout: post
 title: "'La Luna Piena' di Sogni e Conflitti: Geopolitica della Corsa alla Luna"
 date: 2023-09-23 00:00:00 +0100
+last_modified_at: 2026-04-30 10:44:43 +0200
 author: stefano-vozzi
 image: /assets/images/2023/09/sliver_moon.webp
 image_alt: "Luna crescente fotografata dal basso con sfondo notturno, simbolo della corsa allo spazio tra le grandi potenze mondiali"

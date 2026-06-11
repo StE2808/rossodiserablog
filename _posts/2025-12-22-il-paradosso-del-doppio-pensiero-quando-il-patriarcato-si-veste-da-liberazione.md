@@ -3,6 +3,7 @@ layout: post
 title: 'Il paradosso del doppio pensiero: quando il patriarcato si veste da liberazione'
 seo_title: "Il patriarcato capitalista si vende come femminismo"
 date: 2025-12-22 08:47:00 +0100
+last_modified_at: 2026-05-24 08:05:31 +0200
 author: lino-rialti
 category: societa
 focus_keyword: "patriarcato capitalismo corpo femminile"

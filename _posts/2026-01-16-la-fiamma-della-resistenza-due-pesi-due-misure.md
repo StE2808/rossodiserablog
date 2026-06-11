@@ -4,6 +4,7 @@ title: 'La fiamma della resistenza: due pesi, due misure'
 seo_title: 'Resistenza Iran e Palestina: doppio standard mediatico'
 description: La resistenza iraniana celebrata, quella palestinese condannata. Due popoli oppressi, due narrazioni opposte. Quando l'empatia diventa selettiva.
 date: 2026-01-16 09:13:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

@@ -4,6 +4,7 @@ title: Il capro espiatorio perfetto
 seo_title: "Il capro espiatorio: arrestato cameriere ad Arcidosso"
 description: Dopo i disordini di Torino, arrestato un cameriere 22enne di Arcidosso. Nessun precedente, etichettato anarchico. La ricerca del capro espiatorio perfetto.
 date: 2026-02-04 08:13:00 +0100
+last_modified_at: 2026-05-16 19:55:32 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

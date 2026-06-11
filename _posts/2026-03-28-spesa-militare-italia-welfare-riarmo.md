@@ -4,6 +4,7 @@ title: "Armi o ospedali: dove finiscono i soldi dell''Europa"
 seo_title: "Armi o ospedali: la spesa militare 2026 taglia il welfare"
 description: "34 miliardi per le armi, ospedali al minimo. L''Italia riarma mentre taglia welfare e sanità. I numeri che nessuno vuole guardare."
 date: 2026-03-28 00:00:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:

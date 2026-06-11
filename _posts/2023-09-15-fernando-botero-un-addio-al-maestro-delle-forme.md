@@ -2,6 +2,7 @@
 layout: post
 title: "Fernando Botero: Un Addio al Maestro delle Forme"
 date: 2023-09-15 00:00:00 +0100
+last_modified_at: 2026-04-30 10:30:41 +0200
 author: stefano-vozzi
 image: /assets/images/2023/09/botero-la-famigliaebay.webp
 image_alt: "Dipinto di Fernando Botero con figure volumetriche, opera La Famiglia, tipico dello stile del maestro colombiano"

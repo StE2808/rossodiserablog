@@ -4,6 +4,7 @@ title: "Populismo e demagogia: il nemico che non c'è"
 seo_title: "Populismo italiano: Salvini e il capro espiatorio"
 description: "Salvini deroga chi si mobilita per Gaza e la Global Sumud Flotilla. La frustrazione reale, il bersaglio comodo, la paura come unico programma politico."
 date: 2026-05-19 07:25:00 +0200
+last_modified_at: 2026-05-22 08:39:45 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

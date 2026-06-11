@@ -2,6 +2,7 @@
 layout: post
 title: "Il potere globale delle tecnologie: oltre le urne, verso il controllo digitale"
 date: 2025-02-04 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: stefano-vozzi
 image: /assets/images/2025/02/articolo.webp
 image_alt: "Illustrazione di server e infrastrutture digitali globali che rappresentano il controllo tecnologico delle Big Tech sul mondo"

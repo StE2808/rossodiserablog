@@ -2,6 +2,7 @@
 layout: post
 title: "La via tortuosa verso la Pace: preservare l'Umanità nel Medio Oriente"
 date: 2023-10-11 00:00:00 +0100
+last_modified_at: 2026-06-07 17:57:02 +0200
 author: stefano-vozzi
 image: /assets/images/2023/10/pexels-photo-12018418.webp
 image_alt: "Fotografia di bambini e civili in una zona di conflitto nel Medio Oriente, simbolo della necessità urgente di pace e corridoi umanitari"

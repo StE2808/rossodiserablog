@@ -2,6 +2,7 @@
 layout: post
 title: "La Tecnica Feynman: Un Percorso per un Apprendimento Profondo e Autonomo"
 date: 2023-11-03 00:00:00 +0100
+last_modified_at: 2026-04-30 10:30:41 +0200
 author: stefano-vozzi
 image: /assets/images/2023/11/richard_feynman_1959.webp
 image_alt: "Richard Feynman, fisico teorico premio Nobel, in una fotografia del 1959"

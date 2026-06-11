@@ -2,6 +2,7 @@
 layout: post
 title: "La Cina sta lanciando aiuti umanitari su Gaza: il paradosso di quando i ruoli si invertono"
 date: 2025-05-13 00:00:00 +0100
+last_modified_at: 2026-01-23 07:28:31 +0100
 author: lino-rialti
 image: /assets/images/2025/05/img_6425-1.webp
 image_alt: "Immagine di copertina dell'articolo"

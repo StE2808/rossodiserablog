@@ -2,6 +2,7 @@
 layout: post
 title: "La magia dei numeri e la loro origine"
 date: 2023-09-21 00:00:00 +0100
+last_modified_at: 2026-01-24 23:55:33 +0100
 author: lino-rialti
 image: /assets/images/2023/09/ste_spi_roman_and_indian_numerals_95ebf0a4-d144-4d97-b4cb-ff6927f2216c.webp
 image_alt: "Immagine di copertina dell'articolo"

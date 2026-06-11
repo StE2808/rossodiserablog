@@ -3,6 +3,7 @@ layout: post
 title: 'Treni: ennesima giornata di caos'
 seo_title: "Treni in ritardo: il caos ferroviario quotidiano in Italia"
 date: 2025-12-17 11:09:00 +0100
+last_modified_at: 2026-05-24 08:05:31 +0200
 author: lino-rialti
 category: politica-interna
 focus_keyword: "ritardi treni italia"

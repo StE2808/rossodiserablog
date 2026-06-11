@@ -2,6 +2,7 @@
 layout: post
 title: "Grafene e nanoparticelle, i misteri degli ignoranti"
 date: 2023-09-04 00:00:00 +0100
+last_modified_at: 2026-01-24 23:55:33 +0100
 author: lino-rialti
 image: /assets/images/2023/09/black-eyed-kids-legend.webp
 image_alt: "Immagine di copertina dell'articolo"

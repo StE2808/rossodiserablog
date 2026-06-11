@@ -3,6 +3,7 @@ layout: post
 title: "Laura Santi: La Libertà Come Ultimo Atto d'Amore"
 seo_title: "Laura Santi e il fine vita: la liberta come ultimo atto d'amore"
 date: 2025-07-22 00:00:00 +0100
+last_modified_at: 2026-06-07 17:52:41 +0200
 author: lino-rialti
 category: diritti-umani
 focus_keyword: "Laura Santi fine vita eutanasia Italia"

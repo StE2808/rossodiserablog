@@ -4,6 +4,7 @@ title: La scimmia di Forbes
 seo_title: "La scimmia di Forbes: quando l'accumulo diventa patologia"
 description: Se una scimmia accumulasse tutte le banane, la studieremmo come anomalia. Se lo fa un uomo, finisce in copertina. Riflessione su ricchezza e natura.
 date: 2026-01-08 20:25:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:

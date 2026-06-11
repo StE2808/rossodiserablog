@@ -2,6 +2,7 @@
 layout: post
 title: "Incidenti sul lavoro e la logica del sub-appalto"
 date: 2023-09-06 00:00:00 +0100
+last_modified_at: 2026-01-24 21:00:31 +0100
 author: lino-rialti
 image: /assets/images/2023/09/incidente-ferroviario-brandizzo-strage-cosa-e-successo-prassi.webp
 image_alt: "Immagine di copertina dell'articolo"

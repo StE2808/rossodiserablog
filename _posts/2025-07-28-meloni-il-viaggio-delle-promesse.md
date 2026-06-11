@@ -3,6 +3,7 @@ layout: post
 title: "Meloni: il viaggio delle promesse"
 seo_title: "Meloni in Etiopia: retorica e promesse senza fatti concreti"
 date: 2025-07-28 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 category: politica-estera
 focus_keyword: "Meloni Etiopia Africa cooperazione Piano Mattei"

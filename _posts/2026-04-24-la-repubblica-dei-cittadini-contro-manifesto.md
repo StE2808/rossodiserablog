@@ -2,6 +2,7 @@
 layout: post
 title: "La Repubblica dei Cittadini"
 date: 2026-04-24 10:00:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 excerpt: "Un contro-manifesto in 22 punti in risposta ai tecno-oligarchi della Silicon Valley che ci spiegano cos'è la civiltà, e chi paga davvero il conto."

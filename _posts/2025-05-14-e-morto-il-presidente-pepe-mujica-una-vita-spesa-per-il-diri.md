@@ -2,6 +2,7 @@
 layout: post
 title: "E' morto il Presidente Pepe Mujica, una vita spesa per il 'diritto ad essere felici'"
 date: 2025-05-14 00:00:00 +0100
+last_modified_at: 2026-06-07 17:52:41 +0200
 author: lino-rialti
 image: /assets/images/2025/05/img_6433-1.webp
 image_alt: "Immagine di copertina dell'articolo"

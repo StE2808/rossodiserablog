@@ -4,6 +4,7 @@ title: Lo schiaffo di Tucidide
 seo_title: Lo schiaffo di Tucidide di Xi a Trump
 description: 'Xi cita Tucidide, Trump ammira i giardini: a Pechino la potenza dominante non ha capito che soggiogare quella emergente porta rovina, non stabilità.'
 date: 2026-05-15 12:04:00 +0200
+last_modified_at: 2026-05-18 11:25:55 +0000
 author: lino-rialti
 category: politica-estera
 tags:

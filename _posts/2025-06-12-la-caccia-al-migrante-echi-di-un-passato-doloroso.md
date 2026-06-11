@@ -2,6 +2,7 @@
 layout: post
 title: "La caccia al migrante: echi di un passato doloroso"
 date: 2025-06-12 00:00:00 +0100
+last_modified_at: 2026-06-07 18:01:57 +0200
 author: lino-rialti
 image: /assets/images/2025/06/img_6500-1.webp
 image_alt: "Immagine di copertina dell'articolo"

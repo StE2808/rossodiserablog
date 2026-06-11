@@ -2,6 +2,7 @@
 layout: post
 title: "Il Fattore Determinante per una Vita Appagante"
 date: 2023-10-09 00:00:00 +0100
+last_modified_at: 2026-06-07 18:01:57 +0200
 author: stefano-vozzi
 image: /assets/images/2023/10/ste_spi_impactful_image_quantum_physics_and_love_df253174-69c5-4670-a9d9-cff952b7e7cf.webp
 image_alt: "Immagine artistica che rappresenta la fisica quantistica e l'amore come forze fondamentali dell'esistenza umana"

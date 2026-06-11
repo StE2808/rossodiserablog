@@ -2,6 +2,7 @@
 layout: post
 title: "L'Intelligenza Artificiale è qui: come gestirla senza farla diventare un Frankenstein 2.0"
 date: 2023-09-27 00:00:00 +0100
+last_modified_at: 2026-06-07 17:55:26 +0200
 author: stefano-vozzi
 image: /assets/images/2023/09/ste_spi_artificial_intelligence_collaborates_with_human_intelli_75784460-8fe4-4c33-a3f5-2af93a85f18e.webp
 image_alt: "Illustrazione di un'intelligenza artificiale che collabora con un essere umano, simbolo della coesistenza tra uomo e macchina"

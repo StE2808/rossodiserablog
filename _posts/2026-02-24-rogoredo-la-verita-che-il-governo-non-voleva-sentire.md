@@ -4,6 +4,7 @@ title: 'Rogoredo: la verità che il governo non voleva sentire'
 seo_title: "Caso Rogoredo: scudo penale per un omicidio depistato"
 description: Rogoredo, un poliziotto accusato di omicidio e depistaggio. Eppure il governo lo difendeva. Il caso che smonta la propaganda sulla sicurezza.
 date: 2026-02-24 07:41:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

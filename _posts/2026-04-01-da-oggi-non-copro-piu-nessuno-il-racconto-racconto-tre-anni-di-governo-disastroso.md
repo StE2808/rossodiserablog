@@ -4,6 +4,7 @@ title: '"Da oggi non copro più nessuno": il racconto di tre anni di governo dis
 seo_title: 'Meloni: "Da oggi non copro più nessuno". E prima?'
 description: "«Da oggi non copro più nessuno»: la frase di Meloni nasconde un'ammissione. Chi copriva prima, e perché ha smesso proprio ora?"
 date: 2026-04-01 09:40:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: politica-interna
 tags:

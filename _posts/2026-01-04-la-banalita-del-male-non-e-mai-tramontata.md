@@ -4,6 +4,7 @@ title: La banalità del male non è mai tramontata
 seo_title: "La banalità del male non è mai tramontata: Arendt oggi"
 description: "Hannah Arendt e la banalità del male: dal processo Eichmann alle sanzioni USA al Venezuela e Gaza. Il male nasce quando smettiamo di pensare."
 date: 2026-01-04 18:23:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: societa
 tags:

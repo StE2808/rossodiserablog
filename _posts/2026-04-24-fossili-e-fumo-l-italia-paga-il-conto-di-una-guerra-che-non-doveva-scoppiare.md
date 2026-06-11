@@ -4,6 +4,7 @@ title: Fossili e fumo. L'Italia paga il conto di una guerra che non doveva scopp
 seo_title: "Crisi energetica 2026: bollette italiane a 130 €/MWh"
 description: "L'Italia paga 130 €/MWh contro i 44 della Spagna: il conto della dipendenza fossile e degli attacchi a Ras Laffan e Ras Tanura."
 date: 2026-04-24 08:16:00 +0200
+last_modified_at: 2026-05-16 19:11:27 +0200
 author: lino-rialti
 category: economia-finanza
 tags:

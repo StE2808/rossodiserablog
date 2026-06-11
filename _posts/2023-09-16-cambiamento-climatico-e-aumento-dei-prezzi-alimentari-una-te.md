@@ -2,6 +2,7 @@
 layout: post
 title: "Cambiamento Climatico e Aumento dei Prezzi Alimentari: Una Tendenza Preoccupante"
 date: 2023-09-16 00:00:00 +0100
+last_modified_at: 2026-06-07 17:31:13 +0200
 author: stefano-vozzi
 image: /assets/images/2023/09/climate_change_food.webp
 image_alt: "Campo agricolo colpito dalla siccità, simbolo dell'impatto del cambiamento climatico sui prezzi alimentari globali"

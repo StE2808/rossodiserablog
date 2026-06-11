@@ -2,6 +2,7 @@
 layout: post
 title: "I politici sono tutti uguali?La politica e' tutto un magna-magna? O è la polarizzazione?"
 date: 2023-09-29 00:00:00 +0100
+last_modified_at: 2026-01-24 23:55:33 +0100
 author: lino-rialti
 image: /assets/images/2023/09/img_4068.webp
 image_alt: "Immagine di copertina dell'articolo"

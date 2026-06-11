@@ -4,6 +4,7 @@ title: Il mostro bicefalo. Tecnocrazia, potere e resistenza
 seo_title: "Tecnocrazia e Di-Leviatano: il mostro bicefalo di Mhalla"
 description: "Asma Mhalla svela il totalitarismo algoritmico. Saviano lo chiama Di-Leviatano: Trump e Musk programmano consenso. Il potere non governa: programma."
 date: 2026-05-06 11:24:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: cultura-spettacolo
 tags:

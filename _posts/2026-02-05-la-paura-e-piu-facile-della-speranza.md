@@ -4,6 +4,7 @@ title: LA PAURA È PIÙ FACILE DELLA SPERANZA
 seo_title: "Paura vs speranza: perché la destra vince la sfida politica"
 description: "La destra vince perché la paura è immediata. La sinistra fatica perché la speranza richiede tempo e fiducia. L'asimmetria del confronto politico."
 date: 2026-02-05 11:40:00 +0100
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
 category: opinioni-editoriali
 tags:

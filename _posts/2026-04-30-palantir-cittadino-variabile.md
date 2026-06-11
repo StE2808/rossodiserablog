@@ -3,6 +3,7 @@ layout: post
 title: "Palantir e il giorno in cui il cittadino è diventato una variabile"
 seo_title: "Palantir in Italia: il cittadino è diventato una variabile"
 date: 2026-04-30 10:00:00 +0200
+last_modified_at: 2026-05-16 19:44:53 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 excerpt: "Palantir è già nei contratti della Difesa italiana dal 2015. La promessa è sicurezza in cambio di leggibilità. Il vero rischio non è la sorveglianza: è l'adattamento silenzioso."

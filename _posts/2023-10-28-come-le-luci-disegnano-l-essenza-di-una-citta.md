@@ -2,6 +2,7 @@
 layout: post
 title: "Come le luci disegnano l'essenza di una città"
 date: 2023-10-28 00:00:00 +0100
+last_modified_at: 2026-06-07 18:01:57 +0200
 author: stefano-vozzi
 image: /assets/images/2023/10/img_5609.webp
 image_alt: "Panoramica notturna di una città con giochi di luci urbane che illuminano strade e piazze, creando un'atmosfera unica"

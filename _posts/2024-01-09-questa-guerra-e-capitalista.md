@@ -2,6 +2,7 @@
 layout: post
 title: "Questa guerra è capitalista"
 date: 2024-01-09 00:00:00 +0100
+last_modified_at: 2026-01-23 07:28:31 +0100
 author: lino-rialti
 image: /assets/images/2024/01/img_4477-1.webp
 image_alt: "Immagine di copertina dell'articolo"

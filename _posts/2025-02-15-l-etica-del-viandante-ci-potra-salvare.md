@@ -4,6 +4,7 @@ title: "L'etica del viandante: ci potrà salvare?"
 seo_title: ''
 description: "C'è un'antica figura che attraversa il tempo con passo leggero e sguardo attento: il viandante. Non è un turista, non è un pellegrino, non è un semplice..."
 date: 2025-02-15 00:00:00 +0100
+last_modified_at: 2026-06-07 17:59:08 +0200
 author: stefano-vozzi
 category: ambiente
 tags:

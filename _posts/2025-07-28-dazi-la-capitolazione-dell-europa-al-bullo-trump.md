@@ -3,6 +3,7 @@ layout: post
 title: "Dazi: la capitolazione dell'Europa al bullo Trump"
 seo_title: "Dazi USA-Europa: la capitolazione di Von der Leyen a Trump"
 date: 2025-07-28 00:00:00 +0100
+last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 category: economia-finanza
 focus_keyword: "dazi USA Europa accordo capitolazione Trump"

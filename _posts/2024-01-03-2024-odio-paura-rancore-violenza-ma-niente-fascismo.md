@@ -2,6 +2,7 @@
 layout: post
 title: "2024? Odio, paura, rancore, violenza ma niente fascismo"
 date: 2024-01-03 00:00:00 +0100
+last_modified_at: 2026-06-07 17:44:08 +0200
 author: lino-rialti
 image: /assets/images/2024/01/5900204512_2bfc43bae9_w.webp
 image_alt: "Immagine di copertina dell'articolo"
