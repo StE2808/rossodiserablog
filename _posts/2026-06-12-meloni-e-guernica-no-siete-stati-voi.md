@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Meloni e Guernica: “No, siete stati voi”'
+title: 'Meloni e Guernica: "No, siete stati voi"'
 seo_title: "Meloni e la Guernica: come Picasso rispose all'ambasciatore nazista"
 description: Fratoianni ricorda in Parlamento l'aneddoto di Picasso e l'ambasciatore nazista davanti alla Guernica. Un parallelismo feroce con quattro anni di governo Meloni e la sua sistematica fuga dalle responsabilità.
 date: 2026-06-12 07:35:00 +0200
