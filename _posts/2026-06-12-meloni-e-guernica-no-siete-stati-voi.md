@@ -17,7 +17,7 @@ tags:
   - povertà
   - destra italiana
   - responsabilità politica
-image: /assets/images/uploads/IMG_7321.jpeg
+image: /assets/images/uploads/IMG_7321.webp
 image_caption: La Guernica
 image_alt: Il celebre capolavoro di Pablo Picasso Guernica
 excerpt: "Quattro anni di governo Meloni, una maggioranza assoluta, e un paese impoverito. Eppure la premier non è mai responsabile di niente. Fratoianni lo ricorda con un aneddoto: quando l'ambasciatore nazista chiese a Picasso se avesse fatto lui quell'obbrobrio chiamato Guernica, il pittore rispose: 'No. Siete stati voi'."
