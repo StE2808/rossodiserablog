@@ -7,6 +7,8 @@
 (function () {
   'use strict';
 
+  window.__heroVer = 'svgrect-2026-06-13';
+
   var hero = document.querySelector('.hero');
   var holder = document.getElementById('hero-tree-holder');
   if (!hero || !holder) return;

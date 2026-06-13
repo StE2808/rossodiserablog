@@ -95,3 +95,34 @@ layout: default
 </section>
 
 <script src="{{ '/assets/js/hero-tree.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+
+<!-- Diagnostica hero temporanea: attiva solo con ?herodebug nell'URL, invisibile ai visitatori -->
+<script>
+if (location.search.indexOf('herodebug') >= 0) {
+  (function () {
+    var box = document.createElement('pre');
+    box.style.cssText = 'position:fixed;bottom:0;left:0;right:0;z-index:99999;background:rgba(255,255,255,.95);color:#000;font:10px/1.3 monospace;padding:5px;margin:0;white-space:pre-wrap;max-height:30vh;overflow:auto;border-top:2px solid #000';
+    var lines = [];
+    function L(s) { lines.push(s); box.textContent = lines.join('\n'); }
+    function ready(fn) { if (document.body) fn(); else document.addEventListener('DOMContentLoaded', fn); }
+    ready(function () { document.body.appendChild(box); });
+    window.addEventListener('error', function (e) { L('!!ERR ' + e.message + ' @' + (e.filename || '').split('/').pop() + ':' + e.lineno); });
+    L('ver=' + (window.__heroVer || '??') + ' animate=' + (typeof Element.prototype.animate === 'function') + ' reduced=' + matchMedia('(prefers-reduced-motion: reduce)').matches + ' vw=' + innerWidth + ' vh=' + innerHeight);
+    function snap(t) {
+      var fb = document.querySelector('.hero-flybird');
+      if (!fb) { L('t' + t + ' FLY=none'); return; }
+      var cs = getComputedStyle(fb), r = fb.getBoundingClientRect();
+      var cx = Math.round(r.left + r.width / 2), cy = Math.round(r.top + r.height / 2);
+      var hit = document.elementFromPoint(cx, cy);
+      L('t' + t + ' rect=' + Math.round(r.left) + ',' + Math.round(r.top) + ' ' + Math.round(r.width) + 'x' + Math.round(r.height) +
+        ' op=' + cs.opacity + ' vis=' + cs.visibility + ' disp=' + cs.display + ' z=' + cs.zIndex +
+        '\n  hit@' + cx + ',' + cy + '=' + (hit ? (hit.getAttribute && hit.getAttribute('class')) || hit.tagName : 'null'));
+    }
+    setTimeout(function () {
+      var fb = document.querySelector('.hero-flybird');
+      L('ver-recheck=' + (window.__heroVer || '??') + ' flybird-at-5.6s=' + !!fb);
+    }, 5600);
+    [5700, 6000, 6300, 6700, 8600].forEach(function (t) { setTimeout(function () { snap(t); }, t); });
+  })();
+}
+</script>
