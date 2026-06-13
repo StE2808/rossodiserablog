@@ -138,11 +138,21 @@
     var logo = document.querySelector('.navbar-logo');
     if (!logo || !Element.prototype.animate) { revealCta(); return; }
     var heroRect = hero.getBoundingClientRect();
-    var mRect = svg.querySelector('#hero-top-marker').getBoundingClientRect();
     var lRect = logo.getBoundingClientRect();
 
-    var startX = mRect.left - heroRect.left - 15;
-    var startY = mRect.top - heroRect.top - 20;
+    // Posizione della cima dell'albero: calcolata dal box dell'<svg> (elemento
+    // affidabile e fuori dal gruppo che oscilla) mappato sul viewBox 0 0 400 500.
+    // Evita getBoundingClientRect() sul marker SVG (circle r=1 fill=none): su
+    // WebKit/iOS i sotto-elementi SVG non disegnati restituiscono coordinate
+    // errate/zero, il volo partiva ma fuori schermo. Vedi backup 2026-06-13.
+    var svgRect = svg.getBoundingClientRect();
+    if (!svgRect.width) { revealCta(); return; }
+    var scale = svgRect.width / 400;
+    var markerLeft = svgRect.left + TOP[0] * scale;
+    var markerTop = svgRect.top + TOP[1] * scale;
+
+    var startX = markerLeft - heroRect.left - 15;
+    var startY = markerTop - heroRect.top - 20;
     // atterraggio: bordo alto del cerchio del logo, come nel logo originale
     var endX = lRect.left - heroRect.left + lRect.width / 2 - 9;
     var endY = lRect.top - heroRect.top + lRect.height * 0.13 - 18;
