@@ -1679,3 +1679,22 @@ footer {
         font-size: 1.1rem;
     }
 }
+
+/* Commenti (sistema self-hosted Cloudflare) */
+.rds-comments { margin-top: 2rem; }
+.rds-reactions { display: flex; gap: .5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+.rds-react { border: 1px solid var(--ombra, #ccc); background: transparent; border-radius: 999px; padding: .3rem .8rem; cursor: pointer; font-size: 1rem; transition: background .2s; }
+.rds-react.mine { background: rgba(139,26,26,.1); border-color: var(--rosso-primario, #8b1a1a); }
+.rds-comment { padding: .8rem 0; border-top: 1px solid rgba(0,0,0,.08); }
+.rds-meta { font-size: .85rem; color: #666; margin-bottom: .3rem; }
+.rds-body { line-height: 1.6; }
+.rds-children { margin-left: 1.5rem; border-left: 2px solid rgba(0,0,0,.06); padding-left: 1rem; }
+.rds-reply, .rds-del { background: none; border: none; color: var(--rosso-primario, #8b1a1a); cursor: pointer; font-size: .8rem; padding: .2rem 0; }
+.rds-del { color: #b00; margin-left: .5rem; }
+.rds-form { display: flex; flex-direction: column; gap: .6rem; margin: 1rem 0; }
+.rds-form input, .rds-form textarea { padding: .6rem; border: 1px solid #ccc; border-radius: 6px; font: inherit; }
+.rds-form textarea { min-height: 90px; resize: vertical; }
+.rds-form button[type=submit] { align-self: flex-start; background: var(--rosso-primario, #8b1a1a); color: #fff; border: none; border-radius: 6px; padding: .5rem 1.2rem; cursor: pointer; }
+.rds-form button[type=submit]:disabled { opacity: .6; cursor: default; }
+.rds-note { font-size: .75rem; color: #888; }
+.rds-empty { color: #888; }

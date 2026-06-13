@@ -103,33 +103,16 @@ layout: default
     </footer>
     {% endif %}
 
-    <!-- Sezione Commenti -->
-    <section class="post-comments">
+    <!-- Sezione Commenti (self-hosted Cloudflare) -->
+    <section class="post-comments rds-comments">
         <h3 class="comments-title">Commenti</h3>
-        <script>
-          // Salva il titolo prima che Giscus lo sovrascriva
-          (function() {
-            var _t = document.title;
-            new MutationObserver(function() {
-              if (document.title === 'giscus' || document.title === '') document.title = _t;
-            }).observe(document.querySelector('title'), { childList: true });
-          })();
-        </script>
-        <script src="https://giscus.app/client.js"
-                data-repo="StE2808/rossodiserablog"
-                data-repo-id="R_kgDOQodhxA"
-                data-category="Commenti"
-                data-category-id="DIC_kwDOQodhxM4C0HE9"
-                data-mapping="pathname"
-                data-strict="0"
-                data-reactions-enabled="1"
-                data-emit-metadata="0"
-                data-input-position="bottom"
-                data-theme="light"
-                data-lang="it"
-                crossorigin="anonymous"
-                async>
-        </script>
+        <div id="rds-comments">
+            <div class="rds-reactions"></div>
+            <div class="rds-newform"></div>
+            <div class="rds-list"></div>
+        </div>
+        <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+        <script src="{{ '/assets/js/comments.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
     </section>
 
     <!-- Navigazione articoli (dopo i commenti) -->
