@@ -352,8 +352,8 @@ body.menu-open {
 }
 
 @keyframes hero-sway {
-    0%, 100% { transform: rotate(0deg); }
-    50% { transform: rotate(0.8deg); }
+    0%, 100% { transform: rotate(-1.1deg); }
+    50% { transform: rotate(1.1deg); }
 }
 
 /* Uccellino in volo verso il logo (creato da hero-tree.js) */
