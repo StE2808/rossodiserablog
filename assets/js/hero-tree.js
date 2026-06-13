@@ -169,12 +169,12 @@
 
     var dx = endX - startX, dy = endY - startY;
     fb.animate([
-      { transform: 'translate(' + startX + 'px,' + startY + 'px) scaleX(-1) scale(1)', opacity: 1, offset: 0 },
-      { transform: 'translate(' + (startX + dx * 0.35) + 'px,' + (startY + dy * 0.55 - 60) + 'px) scaleX(-1) scale(0.85)', opacity: 1, offset: 0.45 },
-      { transform: 'translate(' + (startX + dx * 0.8) + 'px,' + (startY + dy * 0.95 - 25) + 'px) scaleX(-1) scale(0.68)', opacity: 1, offset: 0.8 },
-      { transform: 'translate(' + (startX + dx * 0.96) + 'px,' + (startY + dy * 0.99 - 5) + 'px) scaleX(-1) scale(0.5)', opacity: 1, offset: 0.92 },
+      { transform: 'translate(' + startX + 'px,' + startY + 'px) scaleX(-1) scale(1.5)', opacity: 1, offset: 0 },
+      { transform: 'translate(' + (startX + dx * 0.35) + 'px,' + (startY + dy * 0.55 - 60) + 'px) scaleX(-1) scale(1.3)', opacity: 1, offset: 0.45 },
+      { transform: 'translate(' + (startX + dx * 0.8) + 'px,' + (startY + dy * 0.95 - 25) + 'px) scaleX(-1) scale(1.0)', opacity: 1, offset: 0.8 },
+      { transform: 'translate(' + (startX + dx * 0.96) + 'px,' + (startY + dy * 0.99 - 5) + 'px) scaleX(-1) scale(0.6)', opacity: 1, offset: 0.92 },
       { transform: 'translate(' + endX + 'px,' + endY + 'px) scaleX(-1) scale(0)', opacity: 0, offset: 1 }
-    ], { duration: 2000, easing: 'cubic-bezier(0.35, 0.2, 0.35, 1)', fill: 'forwards' })
+    ], { duration: 2600, easing: 'cubic-bezier(0.35, 0.2, 0.35, 1)', fill: 'forwards' })
       .onfinish = revealCta;
   }
 })();

@@ -365,6 +365,8 @@ body.menu-open {
     height: 22px;
     z-index: 1002;
     pointer-events: none;
+    /* alone caldo: stacca l'uccellino scuro dal rosso scuro durante il volo */
+    filter: drop-shadow(0 0 5px rgba(255, 238, 210, 0.95)) drop-shadow(0 0 12px rgba(255, 140, 70, 0.5));
 }
 
 .hero-flybird svg {
