@@ -1,0 +1,9 @@
+name = "rossodisera-commenti"
+main = "src/index.js"
+compatibility_date = "2026-06-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rossodisera-commenti"
+database_id = "DA_RIEMPIRE_DOPO_D1_CREATE"

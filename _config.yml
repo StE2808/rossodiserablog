@@ -87,3 +87,4 @@ exclude:
   - .jekyll-cache
   - _dev
   - _docs
+  - comments-worker
