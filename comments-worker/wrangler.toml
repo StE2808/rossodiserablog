@@ -6,4 +6,4 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "rossodisera-commenti"
-database_id = "DA_RIEMPIRE_DOPO_D1_CREATE"
+database_id = "9c542da1-0a0b-4220-8104-8ddc6b6acf46"
