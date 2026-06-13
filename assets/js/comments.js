@@ -61,7 +61,7 @@
       '<input class="rds-name" type="text" placeholder="Il tuo nome" maxlength="50" required>' +
       '<textarea class="rds-text" placeholder="Scrivi un commento…" maxlength="2000" required></textarea>' +
       '<input type="text" class="rds-hp" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px">' +
-      '<div class="cf-turnstile" data-sitekey="' + SITEKEY + '"></div>' +
+      '<div class="cf-turnstile" data-sitekey="' + SITEKEY + '" data-theme="light" data-size="flexible"></div>' +
       '<button type="submit">Invia</button>' +
       '<p class="rds-note">Nessun account richiesto. Salviamo nome e testo; nessun tracciamento pubblicitario.</p>';
     f.onsubmit = function (ev) {
