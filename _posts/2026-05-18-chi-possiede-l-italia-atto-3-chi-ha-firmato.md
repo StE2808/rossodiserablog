@@ -28,7 +28,7 @@ focus_keyword: golden power Italia fondi stranieri governo
 
 C'è una parola che ogni governo degli ultimi vent'anni ha usato come scudo e come spada, spesso nello stesso discorso: *sovranità*. Poi hai visto cosa fanno con gli strumenti concreti che quella parola richiederebbe. E lì la conversazione si fa interessante.
 
-## Lo strumento c'era
+## Lo strumento c'era: il golden power dal 2012 a KKR e BlackRock
 
 Il golden power esiste dal 2012. Non è una proposta, non è una discussione parlamentare da fare. È legge. Permette al governo italiano di bloccare, condizionare o imporre requisiti quando un investitore straniero entra in settori critici: difesa, energia, telecomunicazioni, infrastrutture. È esattamente lo strumento che un paese "sovranista" dovrebbe brandire con entusiasmo.
 
@@ -44,9 +44,17 @@ Questo governo ha usato il golden power più di qualsiasi predecessore. Per dire
 
 Gennaio 2024: golden power firmato per approvare la vendita della rete fissa TIM al fondo americano KKR. La rete telefonica nazionale — quella costruita in trent'anni di abbonamenti degli italiani — passa in mani americane. Luglio 2024: nasce FiberCop. Settembre 2024: golden power firmato per consentire a BlackRock di salire oltre il 3% in Leonardo. Azienda di difesa. Missili, sistemi d'arma, tecnologie militari. BlackRock: fondo di investimento americano, privato, che risponde ai suoi azionisti. Gennaio 2025: CDP vende circa il 14% di Poste Italiane. 2025: Crédit Agricole sale al 20% di Banco BPM. Nessun golden power usato.
 
+| Operazione | Data | Governo | Golden power |
+|---|---|---|---|
+| Vivendi (Bolloré) primo azionista TIM (23,75%) | Giu 2015 | Renzi | Non usato |
+| Vendita rete fissa TIM a KKR (poi FiberCop) | Gen 2024 | Meloni | **Firmato (sì)** |
+| BlackRock oltre il 3% in Leonardo (difesa) | Set 2024 | Meloni | **Firmato (sì)** |
+| CDP vende ~14% di Poste Italiane | Gen 2025 | Meloni | Non usato |
+| Crédit Agricole al 20% di Banco BPM | 2025 | Meloni | Non usato |
+
 Il golden power esiste dal 2012. Renzi non lo ha usato quando Vivendi entrava in TIM. Meloni lo ha usato — per dire sì a KKR e a BlackRock. Lo strumento c'era. La volontà di usarlo come scudo non c'è mai stata.
 
-## La distinzione che nessuno fa
+## La distinzione che nessuno fa: investimento produttivo o acquisizione estrattiva
 
 Il governo chiama tutto "attrazione di capitali stranieri". Il termine è deliberatamente generico. Nasconde una differenza enorme che nessuno ha interesse a nominare.
 
@@ -58,7 +66,7 @@ BlackRock che compra il 5% di Eni non è Toyota che apre uno stabilimento a Tara
 
 Il governo usa deliberatamente l'ambiguità del termine "capitali stranieri" per far sembrare la seconda cosa uguale alla prima. Come abbiamo già osservato analizzando [l'utopia del dopo-Meloni](https://rossodiserablog.it/l-utopia-necessaria-per-il-dopo-meloni/), la mancanza di una visione industriale alternativa lascia il campo libero a chi una visione ce l'ha — ed è quella del rendimento.
 
-## La sinistra e Obama a Toronto
+## La sinistra e Obama a Toronto: Schlein e la rete progressista
 
 Fin qui la destra. Ma l'altro corno della responsabilità è meno comodo da raccontare, e per questo più necessario.
 
@@ -72,7 +80,7 @@ La sinistra italiana non ha ancora risposto alla domanda che Mamdani a New York 
 
 Finché la risposta è "costruire reti internazionali di progressisti con Obama a Toronto", la domanda non ha ancora trovato l'interlocutore giusto.
 
-## Come fanno gli altri
+## Come fanno gli altri: Francia, Norvegia e Germania a confronto
 
 Nel 2022 la Francia ha nazionalizzato EDF piuttosto che lasciarla esposta alla finanziarizzazione. Costo: 9,7 miliardi. Stesso paese che ha comprato Parmalat, scalato TIM attraverso Vivendi, punta a Banco BPM. Protegge il proprio. Acquisisce l'altrui. Lo fa con una coerenza che fa quasi sorridere.
 
@@ -82,7 +90,7 @@ La Germania ha mantenuto la Mittelstand in mani tedesche attraverso fondazioni d
 
 L'Italia non ha avuto nessuna di queste scelte. O meglio: le ha avute, non le ha fatte.
 
-## La domanda ben posta
+## La domanda ben posta: quale modello di proprietà per le infrastrutture
 
 L'Italia ha davvero bisogno di capitali. Non è una provocazione: è aritmetica. La sola Terna ha un piano di investimenti da 23 miliardi entro il 2034 per la transizione energetica. Quindi non è questione di "basta con gli stranieri". Quella è la domanda sbagliata.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Chi possiede l'Italia? Atto II: La rendita perfetta"
 seo_title: "La rendita perfetta: bollette e fondi stranieri"
-description: "Bollette, internet, latte: i settori dove non puoi dire no. Il meccanismo che drena ricchezza dall'Italia verso Boston e Stoccolma. E il caso Cingolani che la realtà supera la fiction."
+description: "Bollette, internet, latte: i settori dove non puoi dire no. Il meccanismo che drena ricchezza dall'Italia, e il caso Cingolani in Leonardo."
 date: 2026-05-18 08:05:00 +0200
 author: stefano-vozzi
 category: economia-finanza

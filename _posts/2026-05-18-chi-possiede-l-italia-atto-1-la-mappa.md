@@ -26,6 +26,8 @@ excerpt: "BlackRock al 5% di Eni, Enel, Leonardo, Terna e Snam. La Cina di Stato
 focus_keyword: fondi stranieri aziende strategiche italiane
 ---
 
+*Serie in tre atti «Chi possiede l'Italia». Sei nell'Atto I: La mappa. Prosegui con [Atto II: La rendita perfetta](https://rossodiserablog.it/chi-possiede-l-italia-atto-2-la-rendita-perfetta/) e [Atto III: Chi ha firmato](https://rossodiserablog.it/chi-possiede-l-italia-atto-3-chi-ha-firmato/).*
+
 > *"È più facile immaginare la fine del mondo che la fine del capitalismo."*
 > — Fredric Jameson
 
