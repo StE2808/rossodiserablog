@@ -2,7 +2,7 @@
 layout: post
 title: "Chi possiede l'Italia? Atto III: Chi ha firmato"
 seo_title: "Chi ha firmato la vendita dell'Italia"
-description: "Il golden power usato per dire sì a KKR e BlackRock. La storia bipartisan di come l'Italia ha ceduto le sue infrastrutture strategiche. Con Jameson, Battiato e i nomi e le date."
+description: "Il golden power usato per dire sì a KKR e BlackRock: la storia bipartisan, con nomi e date, di come l'Italia ha ceduto le sue infrastrutture strategiche."
 date: 2026-05-18 08:10:00 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
@@ -22,7 +22,7 @@ tags:
 image: /assets/images/uploads/venere-botticelli-chi-possiede-italia.jpg
 image_caption: La Venere di Botticelli — povera patria, schiacciata dagli abusi del potere
 image_alt: Volto della Venere di Botticelli — chi ha firmato la cessione delle infrastrutture italiane
-excerpt: "Il golden power esiste dal 2012. Renzi non lo ha usato quando Vivendi entrava in TIM. Meloni lo ha usato per dire sì a KKR e a BlackRock. Una storia bipartisan di sovranità svenduta, con la sinistra a Toronto con Obama mentre il paese veniva venduto. Con Jameson e Battiato."
+excerpt: "Il golden power esiste dal 2012. Renzi non lo ha usato quando Vivendi entrava in TIM. Meloni lo ha usato per dire sì a KKR e a BlackRock. Una storia bipartisan di sovranità svenduta, con la sinistra a Toronto con Obama mentre il paese veniva venduto. Con Battiato."
 focus_keyword: golden power Italia fondi stranieri governo
 ---
 
@@ -54,7 +54,7 @@ Un investimento produttivo crea qualcosa che non esisteva. Una fabbrica, un brev
 
 Un'acquisizione estrattiva compra qualcosa che già esiste. Il compratore non porta un euro all'azienda — compra dal venditore precedente sul mercato secondario. Da quel momento, estrae: dividendi, canoni, profitti. La ricchezza non entra, esce.
 
-BlackRock che compra il 5% di Eni non è Toyota che apre uno stabilimento a Taranto. KKR che compra la rete TIM costruita in trent'anni di abbonamenti italiani non è un investimento: è la monetizzazione di qualcosa che già esisteva. Lactalis che acquista Parmalat non porta nuove fabbriche: compra quelle che ci sono già, e i profitti prendono la via della Francia.
+BlackRock che compra il 5% di Eni non è Toyota che apre uno stabilimento a Taranto. È uno dei nodi della [mappa di chi possiede l'Italia](https://rossodiserablog.it/chi-possiede-l-italia-atto-1-la-mappa/) che abbiamo tracciato nell'Atto I. KKR che compra la rete TIM costruita in trent'anni di abbonamenti italiani non è un investimento: è la monetizzazione di qualcosa che già esisteva, [la rendita perfetta](https://rossodiserablog.it/chi-possiede-l-italia-atto-2-la-rendita-perfetta/) raccontata nell'Atto II. Lactalis che acquista Parmalat non porta nuove fabbriche: compra quelle che ci sono già, e i profitti prendono la via della Francia.
 
 Il governo usa deliberatamente l'ambiguità del termine "capitali stranieri" per far sembrare la seconda cosa uguale alla prima. Come abbiamo già osservato analizzando [l'utopia del dopo-Meloni](https://rossodiserablog.it/l-utopia-necessaria-per-il-dopo-meloni/), la mancanza di una visione industriale alternativa lascia il campo libero a chi una visione ce l'ha — ed è quella del rendimento.
 

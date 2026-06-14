@@ -109,9 +109,9 @@ Nessuna di queste cose è illegale. Nessuna è nascosta. Alcune sono addirittura
 
 Ma rimane una domanda. Chi ha permesso che andasse così? Quali scelte, quali leggi, quali silenzi hanno costruito questa mappa?
 
-La risposta esiste. È nei bilanci pubblici, nei verbali di assemblea, nei decreti che nessuno ha letto.
+La risposta esiste. È nei bilanci pubblici, nei verbali di assemblea, nei [decreti che nessuno ha letto](https://rossodiserablog.it/chi-possiede-l-italia-atto-3-chi-ha-firmato/).
 
-*Continua nell'Atto II: come funziona il meccanismo.*
+*Continua nell'[Atto II: come funziona il meccanismo](https://rossodiserablog.it/chi-possiede-l-italia-atto-2-la-rendita-perfetta/).*
 
 <script type="application/ld+json">
 {

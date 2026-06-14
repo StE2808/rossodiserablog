@@ -114,7 +114,7 @@ La bolletta che hai pagato, i licenziamenti di Cerreto d'Esi, il Michelangelo Do
 
 Chi ha aperto la porta?
 
-*Continua nell'Atto III: chi ha firmato.*
+*Continua nell'[Atto III: chi ha firmato](https://rossodiserablog.it/chi-possiede-l-italia-atto-3-chi-ha-firmato/).*
 
 <script type="application/ld+json">
 {
