@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chi possiede l'Italia? Atto III: Chi ha firmato"
-seo_title: "Chi ha firmato la vendita dell'Italia"
+seo_title: "Golden power: chi ha firmato la vendita dell'Italia"
 description: "Il golden power usato per dire sì a KKR e BlackRock: la storia bipartisan, con nomi e date, di come l'Italia ha ceduto le sue infrastrutture strategiche."
 date: 2026-05-18 08:10:00 +0200
 author: stefano-vozzi
@@ -25,6 +25,8 @@ image_alt: Volto della Venere di Botticelli — chi ha firmato la cessione delle
 excerpt: "Il golden power esiste dal 2012. Renzi non lo ha usato quando Vivendi entrava in TIM. Meloni lo ha usato per dire sì a KKR e a BlackRock. Una storia bipartisan di sovranità svenduta, con la sinistra a Toronto con Obama mentre il paese veniva venduto. Con Battiato."
 focus_keyword: golden power Italia fondi stranieri governo
 ---
+
+*Serie in tre atti «Chi possiede l'Italia». Sei nell'Atto III: Chi ha firmato. Torna all'[Atto I: La mappa](https://rossodiserablog.it/chi-possiede-l-italia-atto-1-la-mappa/) e all'[Atto II: La rendita perfetta](https://rossodiserablog.it/chi-possiede-l-italia-atto-2-la-rendita-perfetta/).*
 
 C'è una parola che ogni governo degli ultimi vent'anni ha usato come scudo e come spada, spesso nello stesso discorso: *sovranità*. Poi hai visto cosa fanno con gli strumenti concreti che quella parola richiederebbe. E lì la conversazione si fa interessante.
 
