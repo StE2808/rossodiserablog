@@ -28,8 +28,32 @@ async function verifyTurnstile(token, ip, secret) {
   return d.success === true;
 }
 
+// Notifica Telegram a ogni nuovo commento (fire-and-forget via ctx.waitUntil).
+// Inattiva finché non sono settati i secret TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_IDS.
+async function notifyTelegram(env, { author, body, post }) {
+  const token = env.TELEGRAM_BOT_TOKEN;
+  const chatIds = (env.TELEGRAM_CHAT_IDS || '').split(',').map(s => s.trim()).filter(Boolean);
+  if (!token || !chatIds.length) return;
+  const articleUrl = 'https://rossodiserablog.it' + post;          // post = pathname, già /slug/
+  const modUrl = articleUrl + '#mod=' + (env.ADMIN_TOKEN || '');    // tap per moderare/eliminare
+  const text =
+    '💬 Nuovo commento su Rosso di Sera\n\n' +
+    '👤 ' + author + '\n' +
+    '📝 ' + body + '\n\n' +
+    '🔗 Articolo: ' + articleUrl + '\n' +
+    '🛡 Modera/elimina: ' + modUrl;
+  // niente parse_mode: testo grezzo, così il commento non può rompere il messaggio
+  await Promise.all(chatIds.map(id =>
+    fetch('https://api.telegram.org/bot' + token + '/sendMessage', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ chat_id: id, text, disable_web_page_preview: true }),
+    }).catch(() => {})
+  ));
+}
+
 export default {
-  async fetch(req, env) {
+  async fetch(req, env, ctx) {
     const url = new URL(req.url);
     const origin = req.headers.get('Origin') || '';
     const ch = corsHeaders(origin);
@@ -67,6 +91,7 @@ export default {
         const res = await env.DB.prepare(
           "INSERT INTO comments(post,parent_id,author,body,created_at,status,ip_hash) VALUES(?,?,?,?,?,'visible',?)"
         ).bind(post, parent, author, body, now, ipHash).run();
+        ctx.waitUntil(notifyTelegram(env, { author, body, post }));
         return json({ comment: { id: res.meta.last_row_id, parent_id: parent, author, body, created_at: now } }, 201, ch);
       }
 
