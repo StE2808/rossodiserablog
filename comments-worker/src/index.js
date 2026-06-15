@@ -35,21 +35,25 @@ function htmlEsc(s) {
 
 // Notifica Telegram a ogni nuovo commento (fire-and-forget via ctx.waitUntil).
 // Inattiva finché non sono settati i secret TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_IDS.
-async function notifyTelegram(env, { author, body, post }) {
+async function notifyTelegram(env, { author, body, post, parent }) {
   const token = env.TELEGRAM_BOT_TOKEN;
   const chatIds = (env.TELEGRAM_CHAT_IDS || '').split(',').map(s => s.trim()).filter(Boolean);
   if (!token || !chatIds.length) return;
   const articleUrl = 'https://rossodiserablog.it' + post;          // post = pathname, già /slug/
   const modUrl = articleUrl + '#mod=' + (env.ADMIN_TOKEN || '');    // tap per moderare/eliminare
   const slug = post.replace(/^\/|\/$/g, '');                        // slug nudo per la tabellina
-  // <pre> = tabellina monospace per i metadati; il commento intero va sotto in <blockquote>
+  const isReply = parent != null;                                  // risposta annidata vs commento nuovo
+  const titolo = isReply ? 'Nuova risposta su Rosso di Sera' : 'Nuovo commento su Rosso di Sera';
+  const label = isReply ? 'Risposta:' : 'Commento:';
+  // <pre> = tabellina monospace per i metadati; il testo intero va sotto in <blockquote>
   // (regge testi lunghi senza troncare/spezzare l'allineamento). Contenuto utente escapato.
   const text =
-    '💬 <b>Nuovo commento su Rosso di Sera</b>\n\n' +
+    '💬 <b>' + titolo + '</b>\n\n' +
     '<pre>' +
     'Autore   | ' + htmlEsc(author) + '\n' +
     'Articolo | ' + htmlEsc(slug) +
     '</pre>\n' +
+    '<b>' + label + '</b>\n' +
     '<blockquote>' + htmlEsc(body) + '</blockquote>\n\n' +
     '🔗 <a href="' + articleUrl + '">Apri articolo</a>\n' +
     '🛡 <a href="' + modUrl + '">Modera / elimina</a>';
@@ -101,7 +105,7 @@ export default {
         const res = await env.DB.prepare(
           "INSERT INTO comments(post,parent_id,author,body,created_at,status,ip_hash) VALUES(?,?,?,?,?,'visible',?)"
         ).bind(post, parent, author, body, now, ipHash).run();
-        ctx.waitUntil(notifyTelegram(env, { author, body, post }));
+        ctx.waitUntil(notifyTelegram(env, { author, body, post, parent }));
         return json({ comment: { id: res.meta.last_row_id, parent_id: parent, author, body, created_at: now } }, 201, ch);
       }
 
