@@ -28,6 +28,11 @@ async function verifyTurnstile(token, ip, secret) {
   return d.success === true;
 }
 
+// Escape per parse_mode HTML: solo & < > vanno neutralizzati
+function htmlEsc(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
 // Notifica Telegram a ogni nuovo commento (fire-and-forget via ctx.waitUntil).
 // Inattiva finché non sono settati i secret TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_IDS.
 async function notifyTelegram(env, { author, body, post }) {
@@ -36,18 +41,23 @@ async function notifyTelegram(env, { author, body, post }) {
   if (!token || !chatIds.length) return;
   const articleUrl = 'https://rossodiserablog.it' + post;          // post = pathname, già /slug/
   const modUrl = articleUrl + '#mod=' + (env.ADMIN_TOKEN || '');    // tap per moderare/eliminare
+  const slug = post.replace(/^\/|\/$/g, '');                        // slug nudo per la tabellina
+  // <pre> = tabellina monospace per i metadati; il commento intero va sotto in <blockquote>
+  // (regge testi lunghi senza troncare/spezzare l'allineamento). Contenuto utente escapato.
   const text =
-    '💬 Nuovo commento su Rosso di Sera\n\n' +
-    '👤 ' + author + '\n' +
-    '📝 ' + body + '\n\n' +
-    '🔗 Articolo: ' + articleUrl + '\n' +
-    '🛡 Modera/elimina: ' + modUrl;
-  // niente parse_mode: testo grezzo, così il commento non può rompere il messaggio
+    '💬 <b>Nuovo commento su Rosso di Sera</b>\n\n' +
+    '<pre>' +
+    'Autore   | ' + htmlEsc(author) + '\n' +
+    'Articolo | ' + htmlEsc(slug) +
+    '</pre>\n' +
+    '<blockquote>' + htmlEsc(body) + '</blockquote>\n\n' +
+    '🔗 <a href="' + articleUrl + '">Apri articolo</a>\n' +
+    '🛡 <a href="' + modUrl + '">Modera / elimina</a>';
   await Promise.all(chatIds.map(id =>
     fetch('https://api.telegram.org/bot' + token + '/sendMessage', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ chat_id: id, text, disable_web_page_preview: true }),
+      body: JSON.stringify({ chat_id: id, text, parse_mode: 'HTML', disable_web_page_preview: true }),
     }).catch(() => {})
   ));
 }
