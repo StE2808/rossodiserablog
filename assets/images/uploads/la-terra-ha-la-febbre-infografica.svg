@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 580" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" style="max-width:100%;height:auto">
+  <title id="ttl">Se la Terra fosse una persona di 46 anni</title>
+  <desc id="desc">I 4,54 miliardi di anni della Terra portati alla scala di una vita di 46 anni. Per quasi tutta la sua esistenza c'è equilibrio. L'Homo sapiens compare poco più di un giorno fa, la storia scritta 26 minuti fa, una vita umana dura 26 secondi e l'era industriale, cioè la febbre del clima, è l'ultimo minuto.</desc>
+
+  <defs>
+    <linearGradient id="gTeal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#15324f"/>
+      <stop offset="0.55" stop-color="#1f6f6a"/>
+      <stop offset="1" stop-color="#2e7d4f"/>
+    </linearGradient>
+    <linearGradient id="gFever" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8a2a"/>
+      <stop offset="1" stop-color="#ff3b1f"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="978" height="578" rx="16" fill="#f7f5ef" stroke="#e3ddd0"/>
+
+  <!-- Titolo -->
+  <text x="490" y="44" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#16324f">Se la Terra fosse una persona di 46 anni</text>
+  <text x="490" y="68" text-anchor="middle" font-size="14.5" fill="#6b7a85">I 4,54 miliardi di anni del pianeta, portati alla scala di una vita</text>
+
+  <!-- ===== BARRA A: tutta la vita ===== -->
+  <text x="60" y="110" font-size="13" font-weight="700" letter-spacing="1.5" fill="#16324f">TUTTA LA SUA VITA</text>
+  <text x="920" y="110" text-anchor="end" font-size="12.5" fill="#6b7a85">4,54 miliardi di anni</text>
+  <rect x="60" y="122" width="860" height="36" rx="8" fill="url(#gTeal)"/>
+  <text x="78" y="145" font-size="13.5" fill="#eaf6f2">Per ere geologiche: equilibrio</text>
+  <rect x="902" y="122" width="18" height="36" rx="3" fill="url(#gFever)"/>
+  <rect x="898" y="118" width="26" height="44" rx="4" fill="none" stroke="#d94f2a" stroke-width="1.5"/>
+  <text x="60" y="177" font-size="12.5" fill="#5a6b76">Nascita della Terra · 4,54 mld di anni fa</text>
+  <text x="920" y="177" text-anchor="end" font-size="12.5" fill="#5a6b76">oggi</text>
+
+  <!-- Funnel A -> B -->
+  <polygon points="898,162 924,162 920,232 60,232" fill="#d94f2a" opacity="0.06"/>
+
+  <!-- ===== BARRA B: l'ultimo giorno ===== -->
+  <text x="60" y="224" font-size="13" font-weight="700" letter-spacing="1.5" fill="#16324f">LE ULTIME 24 ORE</text>
+  <text x="920" y="224" text-anchor="end" font-size="12.5" fill="#6b7a85">1 giorno di lei = ~270.000 anni</text>
+  <rect x="60" y="234" width="860" height="36" rx="8" fill="url(#gTeal)"/>
+  <rect x="902" y="234" width="18" height="36" rx="3" fill="url(#gFever)"/>
+  <rect x="898" y="230" width="26" height="44" rx="4" fill="none" stroke="#d94f2a" stroke-width="1.5"/>
+  <circle cx="66" cy="252" r="4" fill="#c79a3a"/>
+  <text x="78" y="257" font-size="12.5" fill="#eaf6f2">Compare l'Homo sapiens · poco più di 1 giorno fa</text>
+  <text x="920" y="289" text-anchor="end" font-size="12.5" fill="#5a6b76">oggi</text>
+
+  <!-- Funnel B -> C -->
+  <polygon points="898,274 924,274 920,344 60,344" fill="#d94f2a" opacity="0.06"/>
+
+  <!-- ===== BARRA C: l'ultima mezz'ora ===== -->
+  <text x="60" y="336" font-size="13" font-weight="700" letter-spacing="1.5" fill="#16324f">L'ULTIMA MEZZ'ORA</text>
+  <text x="920" y="336" text-anchor="end" font-size="12.5" fill="#6b7a85">30 minuti di lei = ~5.600 anni</text>
+  <rect x="60" y="346" width="860" height="36" rx="8" fill="url(#gTeal)"/>
+  <!-- era industriale = ultimo minuto, rosso -->
+  <rect x="876" y="346" width="44" height="36" rx="3" fill="url(#gFever)"/>
+  <!-- tick storia scritta -->
+  <line x1="150" y1="342" x2="150" y2="386" stroke="#c79a3a" stroke-width="2"/>
+  <circle cx="150" cy="346" r="4" fill="#c79a3a"/>
+  <text x="150" y="404" text-anchor="middle" font-size="12.5" fill="#5a6b76">Storia scritta · 26 minuti fa</text>
+  <!-- etichetta febbre -->
+  <text x="898" y="404" text-anchor="end" font-size="12.5" font-weight="700" fill="#c0392b">Era industriale: la febbre · l'ultimo minuto</text>
+
+  <!-- ===== Legenda ===== -->
+  <rect x="60" y="430" width="860" height="78" rx="10" fill="#fbf9f4" stroke="#e3ddd0"/>
+  <text x="78" y="453" font-size="12" font-weight="700" letter-spacing="1.5" fill="#16324f">LA SCALA</text>
+  <text x="78" y="476" font-size="13.5" fill="#3a4a55">1 anno di lei = 99 milioni di anni&#160;&#160;·&#160;&#160;1 secondo = 3 anni&#160;&#160;·&#160;&#160;una vita umana (80 anni) = 26 secondi</text>
+  <rect x="78" y="488" width="16" height="12" rx="2" fill="url(#gFever)"/>
+  <text x="102" y="498" font-size="12.5" fill="#5a6b76">La febbre: il riscaldamento del clima dall'era industriale (dal 1850, +1,6 °C nel 2024)</text>
+
+  <!-- Fonti -->
+  <text x="490" y="534" text-anchor="middle" font-size="11.5" fill="#8a96a0">Fonti: USGS (età della Terra) · Jebel Irhoud (Homo sapiens) · IPCC e WMO (era industriale e riscaldamento)</text>
+</svg>
