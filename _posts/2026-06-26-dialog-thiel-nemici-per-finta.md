@@ -3,7 +3,7 @@ layout: post
 title: "Nemici per finta: il club segreto di Peter Thiel"
 seo_title: "Dialog, il club segreto di Peter Thiel: il leak"
 description: "Un leak svela Dialog, la società segreta di Peter Thiel: 222 nomi, sessioni deliranti e avversari politici che fingono di odiarsi. Cosa significa per noi."
-date: 2026-06-26 10:00:00 +0200
+date: 2026-06-26 00:30:00 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:
