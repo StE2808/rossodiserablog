@@ -14,7 +14,7 @@ tags:
   - Europa
   - oligarchia
 focus_keyword: "Dialog Peter Thiel"
-image: /assets/images/uploads/dialog-thiel.jpg
+image: /assets/images/uploads/dialog-thiel.webp
 image_alt: "Insegna luminosa di un finto ristorante Da Dialog - Cucina Irlandese, di sera, con la mappa dell'Irlanda serigrafata sulla vetrina, tappeto rosso e buttafuori all'ingresso"
 excerpt: "Un leak ha aperto le porte di Dialog, il club segreto di Peter Thiel. Dentro, gente che dovrebbe odiarsi cena allo stesso tavolo. E il ritiro è in Europa."
 ---
