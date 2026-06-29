@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Chi di spada ferisce La tragedia del marito di Roccella, i demoni del web e l'ipocrisia di chi predica il rispetto dopo anni ad aizzarlo
-seo_title: Caso Roccella, l’odio sui social e l’ipocrisia della destra che predica rispetto dopo anni ad aizzarlo
-description: 'Il marito della ministra Roccella è scomparso nel lago di Vico: una tragedia vera, seguita da commenti abietti sui social. Ma quando Meloni denuncia il “clima d’odio”, dimentica chi lo ha seminato per anni. Un’analisi senza sconti.'
+seo_title: Caso Roccella, l'odio sui social e l'ipocrisia della destra che predica rispetto dopo anni ad aizzarlo
+description: "Il marito della ministra Roccella è scomparso nel lago di Vico: una tragedia vera, seguita da commenti abietti sui social. Ma quando Meloni denuncia il \"clima d'odio\", dimentica chi lo ha seminato per anni. Un'analisi senza sconti."
 date: 2026-06-29 06:59:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
@@ -13,16 +13,16 @@ tags:
   - Giorgia Meloni
   - odio social
   - destra italiana
-  - linguaggio d’odio
+  - linguaggio d'odio
   - governo Meloni
   - comunicazione politica
   - cronaca e politica
   - vittimismo strumentale
-  - Fratelli d’Italia
+  - Fratelli d'Italia
 image: /assets/images/uploads/IMG_7360.jpeg
 image_caption: Il lago di Vico dove si è consumata la tragedia
 image_alt: Il lago di Vico visto da un aereo nella sua interezza
-excerpt: 'Luigi Cavallari, marito della ministra Eugenia Roccella, è scomparso nelle acque del lago di Vico il 27 giugno dopo un probabile shock termico. Mentre i soccorritori cercavano, sui social esplodevano commenti di odio contro la ministra. La premier Meloni ha denunciato il “clima avvelenato” alimentato dagli avversari — ma è una denuncia che suona ipocrita da chi ha costruito la propria fortuna politica sull’incitamento sistematico. Il vero problema non è solo l’abiezione di qualche utente anonimo: è chi, dal palco e dai social ufficiali, ha sdoganato la desumanizzazione dell’avversario come stile di governo.'
+excerpt: "Luigi Cavallari, marito della ministra Eugenia Roccella, è scomparso nelle acque del lago di Vico il 27 giugno dopo un probabile shock termico. Mentre i soccorritori cercavano, sui social esplodevano commenti di odio contro la ministra. La premier Meloni ha denunciato il \"clima avvelenato\" alimentato dagli avversari — ma è una denuncia che suona ipocrita da chi ha costruito la propria fortuna politica sull'incitamento sistematico. Il vero problema non è solo l'abiezione di qualche utente anonimo: è chi, dal palco e dai social ufficiali, ha sdoganato la desumanizzazione dell'avversario come stile di governo."
 focus_keyword: odio social Roccella destra
 ---
 
