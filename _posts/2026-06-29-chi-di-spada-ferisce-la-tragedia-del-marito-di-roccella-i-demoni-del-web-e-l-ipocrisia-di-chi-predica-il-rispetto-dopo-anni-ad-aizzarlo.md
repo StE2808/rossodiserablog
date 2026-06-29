@@ -19,7 +19,7 @@ tags:
   - cronaca e politica
   - vittimismo strumentale
   - Fratelli d’Italia
-image: /assets/images/uploads/IMG_7360.webp
+image: /assets/images/uploads/IMG_7360.jpeg
 image_caption: Il lago di Vico dove si è consumata la tragedia
 image_alt: Il lago di Vico visto da un aereo nella sua interezza
 excerpt: 'Luigi Cavallari, marito della ministra Eugenia Roccella, è scomparso nelle acque del lago di Vico il 27 giugno dopo un probabile shock termico. Mentre i soccorritori cercavano, sui social esplodevano commenti di odio contro la ministra. La premier Meloni ha denunciato il “clima avvelenato” alimentato dagli avversari — ma è una denuncia che suona ipocrita da chi ha costruito la propria fortuna politica sull’incitamento sistematico. Il vero problema non è solo l’abiezione di qualche utente anonimo: è chi, dal palco e dai social ufficiali, ha sdoganato la disumanizzazione dell’avversario come stile di governo.'
@@ -30,7 +30,7 @@ Il lago di Vico, nel viterbese, è un posto di quiete vulcanica: acque fredde an
 
 La dinamica è purtroppo nota a quel lago, che negli ultimi quindici anni ha già inghiottito sei persone: lo shock termico, quella trappola invisibile in cui le acque gelide sotto la superficie colpiscono un organismo riscaldato dal sole estivo. Nessun mistero, nessun giallo. Una tragedia, nella sua forma più elementare e crudele: un uomo anziano con un malore in acqua, e la moglie che guarda e non può fare nulla.
 
-Ma i social network non sanno stare con il silenzio. Non ci riescono, strutturalmente. E così, mentre le squadre di soccorso scandagliavano i fondali del lago, sui profili di mezzo paese comparivano commenti che è difficile anche solo citare senza provare vergogna: "Convivere con quella troglodita razzista e omofoba non sarà stato facile". "Fuga volontaria?". "Pora stella, poteva tuffarsi anche lei a cercarlo...". Insulti indirizzati a una donna che in quel momento stava probabilmente fissando l'acqua in attesa di rivedere il volto di chi aveva incontrato a diciott'anni e non aveva più lasciato.
+Ma i social network non sanno stare in silenzio. Non ci riescono, strutturalmente. E così, mentre le squadre di soccorso scandagliavano i fondali del lago, sui profili di mezzo paese comparivano commenti che è difficile anche solo citare senza provare vergogna: "Convivere con quella troglodita razzista e omofoba non sarà stato facile". "Fuga volontaria?". "Pora stella, poteva tuffarsi anche lei a cercarlo...". Insulti indirizzati a una donna che in quel momento stava probabilmente fissando l'acqua in attesa di rivedere il volto di chi aveva incontrato a diciott'anni e non aveva più lasciato.
 
 Intendiamoci: nessuno è obbligato ad amare Eugenia Roccella. Le sue posizioni sui diritti riproduttivi, sulla famiglia, sull'identità di genere sono state combattute — e continuano ad esserlo — da ampie fette della società civile italiana, con argomenti solidi e spesso documentati. Il dissenso politico non è solo legittimo, è necessario. Ma esultare mentre i sommozzatori cercano il corpo di suo marito non è dissenso politico: è il nulla morale che si annida nei meandri di ogni tribù umana quando si sente al sicuro nell'anonimato digitale.
 
@@ -44,7 +44,7 @@ Parole giuste, nella loro prima parte. Ineccepibili, persino. Il problema è la 
 
 E qui scatta il meccanismo che dovremmo riconoscere senza infingimenti. Questa destra — dalla Meloni alla Lega al loro indotto mediatico — ha costruito la propria ascesa politica sull'incitamento sistematico. Non i commenti anonimi di qualche esaltato su Facebook: i comizi, i tweet, le dirette social dei loro leader. Salvini che condivide foto di migranti con didascalie da spaventapasseri. Meloni che urla "io sono una madre, sono una cristiana" come se l'identità altrui fosse un'aggressione. Il caso Kirk — quando la morte dell'influencer americano d'ultradestra fu trasformata in crociata contro la "sinistra violenta" — è forse l'esempio più cristallino di come questa macchina funzioni: un evento tragico viene immediatamente arruolato nella guerra culturale, i toni si alzano, i militanti si mobilitano, i giornali ne parlano per giorni.
 
-Quella stessa macchina, nei mesi scorsi, ha trasformato ogni sentenza dei magistrati in un complotto delle "toghe rosse", ogni manifestazione studentesca in un atto di violenza contro lo Stato, ogni critica alla politica estera in un tradimento nazionale. Quei toni non cadono nel vuoto: producono minacce di morte ai giudici, aggressioni a giornalisti, un clima in cui l'avversario politico viene costantemente desumanizzato — privato della sua umanità ordinaria, ridotto a nemico da abbattere.
+Quella stessa macchina, nei mesi scorsi, ha trasformato ogni sentenza dei magistrati in un complotto delle "toghe rosse", ogni manifestazione studentesca in un atto di violenza contro lo Stato, ogni critica alla politica estera in un tradimento nazionale. Quei toni non cadono nel vuoto: producono minacce di morte ai giudici, aggressioni a giornalisti, un clima in cui l'avversario politico viene costantemente disumanizzato — privato della sua umanità ordinaria, ridotto a nemico da abbattere.
 
 Chi semina vento, raccoglie tempesta. O, nel lessico proverbiale che dovrebbe essere più familiare alla destra nazional-popolare: chi di spada ferisce, di spada perisce.
 
