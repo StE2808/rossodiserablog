@@ -10,7 +10,7 @@ description: "La pace ridotta ad un ideale, dovrebbe unire le nazioni in una ric
 category: diritti-umani
 tags: ["Conflitto", "crisi", "diritti", "Economia", "Etica", "Europa", "gaza", "giustizia", "Governo", "guerra", "hamas", "israele", "Meloni", "odio", "Pace", "palestina", "politica", "Russia", "Ucraina", "USA", "violenza", "Zelensky"]
 ---
-La pace ridotta ad un ideale, dovrebbe unire le nazioni in una ricerca comune di armonia e stabilità, è, invece, stata fatta a brandelli dall'orrore della guerra in Ucraina e dal genocidio in corso nella striscia di Gaza.
+La pace ridotta ad un ideale, dovrebbe unire le nazioni in una ricerca comune di armonia e stabilità, è, invece, stata fatta a brandelli dall'[orrore della guerra in Ucraina](/spiragli-di-pace-in-ucraina/) e dal genocidio in corso nella striscia di Gaza.
 
 In Ucraina, gli interessi occidentali ma soprattutto americani hanno, dapprima creato tensioni tra forze governative e ribelli filo-russi, poi trasformato molte comunità in teatri di conflitto armato, infine , gradualmente, armato un governo corrotto, quello di Zelensky e provocato situazioni instabili che hanno portato Putin a sentirsi giustificato di intraprendere una operazione speciale, che poi è diventata presto una guerra vera e propria, che ha lasciato e sta lasciando dietro di sé, una scia di distruzione e disperazione.
 

@@ -20,7 +20,7 @@ Per adesso l'ipotesi più plausibile sarebbe quella che gli internamenti dovrebb
 
 Il vero costo di questa operazione appare stratosferico: 100 milioni e non le cifre modeste circolate nelle settimane scorse. Le strutture saranno tre: un hotspot al porto di Shengjin, un centro per il trattenimento dei richiedenti asilo sottoposti a procedura d’asilo accelerata in frontiera a Gjader e un Cpr nello stesso luogo. Nel complesso, da indiscrezioni di stampa, dovrebbero essere trattenute 720 persone. La realizzazione dei campi sarà a cura della Difesa.
 
-Della vicenda ce ne eravamo già occupati e già apparivano farlocchi i numeri dati dalla Meloni che, parlando dell'accordo con Edi Rama, aveva detto che sarebbero stati tre mila i migranti lì ricoverati per un totale di 36mila l’anno. Ovviamente cifre lontanissime dalla realtà.
+Della vicenda [ce ne eravamo già occupati](/patto-con-l-albania-sfruttando-la-disperazione/) e già apparivano farlocchi i numeri dati dalla Meloni che, parlando dell'accordo con Edi Rama, aveva detto che sarebbero stati tre mila i migranti lì ricoverati per un totale di 36mila l’anno. Ovviamente cifre lontanissime dalla realtà.
 
 L'operazione Albania si inquadra in un progetto goffo e avventato, volto a mascherare gli insuccessi del governo Meloni, riguardo allo sbandierato contenimento dell'immigrazione tanto pompato in campagna elettorale e mai realizzato. Con questa meschina opera, economicamente devastante, dal costo stimato, in base ai dati forniti, in 139.000 euro a migrante, per il primo anno, si vorrebbero scoraggiare le partenze che dovrebbero interrompersi, secondo lo spirito di questo malsano progetto, dietro la minaccia del trasferimento in Albania. 
 
