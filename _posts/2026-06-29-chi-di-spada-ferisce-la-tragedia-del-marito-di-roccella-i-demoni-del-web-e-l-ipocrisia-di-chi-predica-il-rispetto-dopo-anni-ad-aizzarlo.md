@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Chi di spada ferisce La tragedia del marito di Roccella, i demoni del web e l'ipocrisia di chi predica il rispetto dopo anni ad aizzarlo
-seo_title: Caso Roccella, l'odio sui social e l'ipocrisia della destra che predica rispetto dopo anni ad aizzarlo
-description: "Il marito della ministra Roccella è scomparso nel lago di Vico: una tragedia vera, seguita da commenti abietti sui social. Ma quando Meloni denuncia il \"clima d'odio\", dimentica chi lo ha seminato per anni. Un'analisi senza sconti."
+seo_title: Odio social sul caso Roccella e l'ipocrisia della destra
+description: "Il marito di Eugenia Roccella scompare nel lago di Vico e sui social esplode l'odio. Meloni denuncia un clima avvelenato che la sua destra ha alimentato."
 date: 2026-06-29 06:59:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
@@ -30,24 +30,75 @@ Il lago di Vico, nel viterbese, è un posto di quiete vulcanica: acque fredde an
 
 La dinamica è purtroppo nota a quel lago, che negli ultimi quindici anni ha già inghiottito sei persone: lo shock termico, quella trappola invisibile in cui le acque gelide sotto la superficie colpiscono un organismo riscaldato dal sole estivo. Nessun mistero, nessun giallo. Una tragedia, nella sua forma più elementare e crudele: un uomo anziano con un malore in acqua, e la moglie che guarda e non può fare nulla.
 
+## L'odio social contro Eugenia Roccella mentre si cerca il marito
+
 Ma i social network non sanno stare in silenzio. Non ci riescono, strutturalmente. E così, mentre le squadre di soccorso scandagliavano i fondali del lago, sui profili di mezzo paese comparivano commenti che è difficile anche solo citare senza provare vergogna: "Convivere con quella troglodita razzista e omofoba non sarà stato facile". "Fuga volontaria?". "Pora stella, poteva tuffarsi anche lei a cercarlo...". Insulti indirizzati a una donna che in quel momento stava probabilmente fissando l'acqua in attesa di rivedere il volto di chi aveva incontrato a diciott'anni e non aveva più lasciato.
 
-Intendiamoci: nessuno è obbligato ad amare Eugenia Roccella. Le sue posizioni sui diritti riproduttivi, sulla famiglia, sull'identità di genere sono state combattute — e continuano ad esserlo — da ampie fette della società civile italiana, con argomenti solidi e spesso documentati. Il dissenso politico non è solo legittimo, è necessario. Ma esultare mentre i sommozzatori cercano il corpo di suo marito non è dissenso politico: è il nulla morale che si annida nei meandri di ogni tribù umana quando si sente al sicuro nell'anonimato digitale.
+Intendiamoci: nessuno è obbligato ad amare Eugenia Roccella. Le sue posizioni sui diritti riproduttivi, sulla famiglia, sull'identità di genere sono state combattute — e continuano ad esserlo — da ampie fette della società civile italiana, con argomenti solidi e spesso documentati. Il dissenso politico non è solo legittimo, è necessario. Ma esultare mentre i sommozzatori cercano il corpo di suo marito non è dissenso politico: è [il nulla morale che si annida nei meandri di ogni tribù umana](/odio-la-malattia-sociale-del-nostro-tempo/) quando si sente al sicuro nell'anonimato digitale.
 
 Fin qui, la cronaca. Il problema però comincia adesso, con la risposta.
+
+## Il tweet di Meloni sul «clima avvelenato»
 
 Giorgia Meloni scrive su X: «Leggere in queste ore commenti ignobili e disumani contro Eugenia Roccella è qualcosa che fa rabbrividire. C'è un limite che non dovrebbe mai essere superato, ed è quello del rispetto dovuto alla sofferenza umana. Quando si arriva a colpire una persona e una famiglia in un momento così drammatico, non si è più nel campo dello scontro politico, ma in quello della miseria morale. È anche il frutto di un clima avvelenato che alcuni hanno alimentato per troppo tempo, legittimando odio, disumanizzazione e disprezzo.»
 
 Parole giuste, nella loro prima parte. Ineccepibili, persino. Il problema è la seconda: quel "clima avvelenato" imputato ad "alcuni" che avrebbero "alimentato per troppo tempo" odio e disprezzo. Perché qui Meloni smette di parlare come presidente del Consiglio davanti a una tragedia umana, e riprende il suo ruolo preferito: quello della guerriera culturale che usa ogni fatto di cronaca come proiettile nella battaglia politica permanente.
 
-È il metodo. Non un'improvvisazione, non uno scivolone: è la grammatica comunicativa di questa destra, affinata in anni di opposizione e perfezionata al governo. Un incidente in cui è coinvolto un migrante? Decreto sicurezza. Un caso di violenza urbana? Campagna sull'invasione. Un attentato all'estero? Monito contro i "falsi maestri nascosti nei salotti". La cronaca nera non viene elaborata come segnale di complessità sociale: viene metabolizzata come munizione.
+## La cronaca come munizione: il metodo comunicativo della destra
 
-E qui scatta il meccanismo che dovremmo riconoscere senza infingimenti. Questa destra — dalla Meloni alla Lega al loro indotto mediatico — ha costruito la propria ascesa politica sull'incitamento sistematico. Non i commenti anonimi di qualche esaltato su Facebook: i comizi, i tweet, le dirette social dei loro leader. Salvini che condivide foto di migranti con didascalie da spaventapasseri. Meloni che urla "io sono una madre, sono una cristiana" come se l'identità altrui fosse un'aggressione. Il caso Kirk — quando la morte dell'influencer americano d'ultradestra fu trasformata in crociata contro la "sinistra violenta" — è forse l'esempio più cristallino di come questa macchina funzioni: un evento tragico viene immediatamente arruolato nella guerra culturale, i toni si alzano, i militanti si mobilitano, i giornali ne parlano per giorni.
+È il metodo. Non un'improvvisazione, non uno scivolone: è [la grammatica comunicativa di questa destra](/la-politica-di-plastica/), affinata in anni di opposizione e perfezionata al governo. Un incidente in cui è coinvolto un migrante? Decreto sicurezza. Un caso di violenza urbana? Campagna sull'invasione. Un attentato all'estero? Monito contro i "falsi maestri nascosti nei salotti". La cronaca nera non viene elaborata come segnale di complessità sociale: viene metabolizzata come munizione.
+
+## Da Salvini al caso Kirk: la macchina dell'incitamento
+
+E qui scatta il meccanismo che dovremmo riconoscere senza infingimenti. Questa destra — dalla Meloni alla Lega al loro indotto mediatico — ha costruito la propria ascesa politica [sull'incitamento sistematico](/ci-vorrebbe-un-nemico/). Non i commenti anonimi di qualche esaltato su Facebook: i comizi, i tweet, le dirette social dei loro leader. Salvini che condivide foto di migranti con didascalie da spaventapasseri. Meloni che urla "io sono una madre, sono una cristiana" come se l'identità altrui fosse un'aggressione. Il caso Kirk — quando la morte dell'influencer americano d'ultradestra fu trasformata in crociata contro la "sinistra violenta" — è forse l'esempio più cristallino di come questa macchina funzioni: un evento tragico viene immediatamente arruolato nella guerra culturale, i toni si alzano, i militanti si mobilitano, i giornali ne parlano per giorni.
 
 Quella stessa macchina, nei mesi scorsi, ha trasformato ogni sentenza dei magistrati in un complotto delle "toghe rosse", ogni manifestazione studentesca in un atto di violenza contro lo Stato, ogni critica alla politica estera in un tradimento nazionale. Quei toni non cadono nel vuoto: producono minacce di morte ai giudici, aggressioni a giornalisti, un clima in cui l'avversario politico viene costantemente disumanizzato — privato della sua umanità ordinaria, ridotto a nemico da abbattere.
 
 Chi semina vento, raccoglie tempesta. O, nel lessico proverbiale che dovrebbe essere più familiare alla destra nazional-popolare: chi di spada ferisce, di spada perisce.
 
-Questo non significa — è bene dirlo esplicitamente — che i commenti odiosi verso la Roccella siano giustificati, tantomeno giustificabili. Non lo sono. Chi ha scritto quelle cose ha torto, punto. Ma la Meloni che denuncia il "clima avvelenato" dopo averlo alimentato sistematicamente è una figura retorica che dovremmo imparare a riconoscere: si chiama vittimismo strumentale, e ha una funzione precisa. Produce consenso, compatta la base, sposta l'attenzione dai contenuti alla forma, dai programmi alle emozioni.
+## Vittimismo strumentale: seminare odio e poi denunciarlo
+
+Questo non significa — è bene dirlo esplicitamente — che i commenti odiosi verso la Roccella siano giustificati, tantomeno giustificabili. Non lo sono. Chi ha scritto quelle cose ha torto, punto. Ma la Meloni che denuncia il "clima avvelenato" dopo averlo alimentato sistematicamente è una figura retorica che dovremmo imparare a riconoscere: si chiama [vittimismo strumentale](/meloni-parola-d-ordine-fare-la-vittima/), e ha una funzione precisa. Produce consenso, compatta la base, sposta l'attenzione dai contenuti alla forma, dai programmi alle emozioni.
 
 Nel frattempo, sul lago di Vico, i sommozzatori continuano a cercare. E questa — la tragedia di un uomo e della sua famiglia — è l'unica cosa che in questo momento merita silenzio e rispetto. Il resto è politica. E la politica può aspettare.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa è successo al marito di Eugenia Roccella?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Luigi Cavallari, ingegnere e accademico di 84 anni, marito della ministra Eugenia Roccella, è scomparso nel lago di Vico il 27 giugno dopo essersi tuffato da una piccola imbarcazione. La causa probabile è uno shock termico. Le ricerche con sommozzatori, elicotteri e sonar sono proseguite senza restituire un corpo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché Meloni ha parlato di «clima avvelenato»?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dopo i commenti odiosi comparsi sui social contro Eugenia Roccella durante le ricerche del marito, Giorgia Meloni ha denunciato su X commenti «ignobili e disumani» e un «clima avvelenato» che alcuni avversari avrebbero alimentato per troppo tempo, legittimando odio e disumanizzazione."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cos'è il vittimismo strumentale in politica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "È la figura retorica di chi denuncia un clima d'odio che ha contribuito ad alimentare. Secondo l'articolo ha una funzione precisa: produrre consenso, compattare la base e spostare l'attenzione dai contenuti alla forma, dai programmi alle emozioni."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cos'è lo shock termico avvenuto nel lago di Vico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "È la trappola invisibile per cui le acque gelide sotto la superficie colpiscono un organismo riscaldato dal sole estivo. Il lago di Vico, di origine vulcanica e con acque fredde anche d'estate, ha già inghiottito sei persone negli ultimi quindici anni."
+      }
+    }
+  ]
+}
+</script>
