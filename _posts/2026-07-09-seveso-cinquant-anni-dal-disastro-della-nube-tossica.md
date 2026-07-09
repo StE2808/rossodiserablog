@@ -23,7 +23,7 @@ excerpt: A cinquant’anni dal disastro ambientale dell’ICMESA di Meda, più f
 focus_keyword: Disastro di Seveso
 ---
 
-Sono passati cinquant'anni dal disastro di Seveso: era il 10 luglio 1976, la Brianza, la Lombardia, l'Italia e l'Europa intera si dovrebbero fermare a riflettere su una tragedia che ha ridefinito per sempre il rapporto tra industria, ambiente e salute pubblica. 
+Sono passati cinquant'anni dal disastro di Seveso: era il 10 luglio 1976, la Brianza, la Lombardia, l'Italia e l'Europa intera si fermarono nello sconcerto e nel terrore. Oggi, parimenti,  si dovrebbero fermare a riflettere su una tragedia che ha ridefinito per sempre il rapporto tra industria, ambiente e salute pubblica. 
 
 Mezzo secolo fa, il malfunzionamento di un reattore nello stabilimento ICMESA di Meda sprigionò una nube tossica di diossina (per i tecnici TCDD), contaminando oltre 1.800 ettari di terreno, avvelenando la popolazione e costringendo a evacuazioni di massa. Oggi, nel  cinquantesimo anniversario, il bilancio tra la sicurezza conquistata e i nodi irrisolti resta profondamente scisso.
 
