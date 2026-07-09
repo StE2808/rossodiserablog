@@ -16,7 +16,7 @@ tags:
   - '#BoscoDelleQuerce'
   - '#AutostradaPedemontana'
   - '# SicurezzaIndustriale'
-image: /assets/images/uploads/IMG_7369.jpeg
+image: /assets/images/uploads/IMG_7369.webp
 image_caption: Un giornale locale titola sul disastro
 image_alt: Il titolo di un giornale di cinquant’anni fa che lancia  la notizia del disastro
 excerpt: A cinquant’anni dal disastro ambientale dell’ICMESA di Meda, più famoso come il disastro della nube tossica di Seveso, con 1800 ettari di terreno contaminati e gravi danni alle persone ed all’intero ecosistema, restano ancora ombre, dubbi e si torna a parlare di sicurezza quando, per la costruzione dell’autostrada Pedemontana vengono movimentati grandi quantità di terra nelle zone più contaminate. Il rischio è quello di permettere la percolazione degli inquinanti nelle falde e la dispersione della diossina ancora presente anche nell’atmosfera.
