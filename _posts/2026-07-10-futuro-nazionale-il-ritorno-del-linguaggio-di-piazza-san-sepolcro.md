@@ -15,7 +15,7 @@ tags:
   - piazza San Sepolcro
   - destra radicale
   - estrema destra italiana
-image: /assets/images/uploads/IMG_7372.jpeg
+image: /assets/images/uploads/IMG_7372.webp
 image_caption: Roberto Vannacci
 image_alt: Roberto Vannacci In un ritratto a mezzo busto
 excerpt: Il lancio di Futuro Nazionale a Roma ripropone un linguaggio — l’orgoglio dell’esclusione, il culto militaresco, il vitalismo del manifesto — che affonda le radici nella retorica del 1919. L’articolo ricostruisce i riferimenti simbolici e verbali del partito di Vannacci, distinguendo tra continuità retoriche documentabili e accuse più gravi che restano, allo stato, prive di riscontro.
