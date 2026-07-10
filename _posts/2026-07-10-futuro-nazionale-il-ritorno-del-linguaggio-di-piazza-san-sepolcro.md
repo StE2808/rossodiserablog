@@ -2,7 +2,7 @@
 layout: post
 title: Futuro Nazionale, il ritorno del linguaggio di piazza San Sepolcro
 seo_title: Futuro Nazionale, il ritorno del linguaggio di piazza San Sepolcro
-description: 'Dal culto degli “scartati” al vitalismo del manifesto: perché la retorica di Vannacci richiama il diciannovismo e l’arditismo del 1919, e dove finisce l’analisi e comincia l’illazione.'
+description: "Dal culto degli \"scartati\" al vitalismo del manifesto: perché la retorica di Vannacci richiama il diciannovismo e l'arditismo del 1919, e dove finisce l'analisi e comincia l'illazione."
 date: 2026-07-10 12:32:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -18,7 +18,7 @@ tags:
 image: /assets/images/uploads/IMG_7372.webp
 image_caption: Roberto Vannacci
 image_alt: Roberto Vannacci In un ritratto a mezzo busto
-excerpt: Il lancio di Futuro Nazionale a Roma ripropone un linguaggio — l’orgoglio dell’esclusione, il culto militaresco, il vitalismo del manifesto — che affonda le radici nella retorica del 1919. L’articolo ricostruisce i riferimenti simbolici e verbali del partito di Vannacci, distinguendo tra continuità retoriche documentabili e accuse più gravi che restano, allo stato, prive di riscontro.
+excerpt: Il lancio di Futuro Nazionale a Roma ripropone un linguaggio — l'orgoglio dell'esclusione, il culto militaresco, il vitalismo del manifesto — che affonda le radici nella retorica del 1919. L'articolo ricostruisce i riferimenti simbolici e verbali del partito di Vannacci, distinguendo tra continuità retoriche documentabili e accuse più gravi che restano, allo stato, prive di riscontro.
 focus_keyword: Futuro Nazionale Vannacci diciannovismo
 ---
 
