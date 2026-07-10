@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Seveso: cinquant’anni dal disastro della nube tossica'
-seo_title: 'Seveso: cinquant’anni dal disastro della nube tossica'
-description: Il disastro di Seveso a 50 anni dalla tragedia. L’incidente, l’esplosione e la dispersione di diossina attraverso una nube tossica. I successi normativi europei ed italiani, i misteri irrisolti, i rischi attuali dei cantieri in Brianza dove si sta scavando terreno contaminato per realizzare la la strada Pedemontana col rischio di far tornare attivi contaminanti ora sepolti negli strati profondi del terreno. Pericolo per le falde ma anche per le coltivazioni.
+title: "Seveso: cinquant'anni dal disastro della nube tossica"
+seo_title: "Seveso: cinquant'anni dal disastro della nube tossica"
+description: Il disastro di Seveso a 50 anni dalla tragedia. L'incidente, l'esplosione e la dispersione di diossina attraverso una nube tossica. I successi normativi europei ed italiani, i misteri irrisolti, i rischi attuali dei cantieri in Brianza dove si sta scavando terreno contaminato per realizzare la la strada Pedemontana col rischio di far tornare attivi contaminanti ora sepolti negli strati profondi del terreno. Pericolo per le falde ma anche per le coltivazioni.
 date: 2026-07-09 09:58:00 +0200
 author: lino-rialti
 category: ambiente
@@ -18,8 +18,8 @@ tags:
   - '# SicurezzaIndustriale'
 image: /assets/images/uploads/IMG_7369.jpeg
 image_caption: Un giornale locale titola sul disastro
-image_alt: Il titolo di un giornale di cinquant’anni fa che lancia  la notizia del disastro
-excerpt: A cinquant’anni dal disastro ambientale dell’ICMESA di Meda, più famoso come il disastro della nube tossica di Seveso, con 1800 ettari di terreno contaminati e gravi danni alle persone ed all’intero ecosistema, restano ancora ombre, dubbi e si torna a parlare di sicurezza quando, per la costruzione dell’autostrada Pedemontana vengono movimentati grandi quantità di terra nelle zone più contaminate. Il rischio è quello di permettere la percolazione degli inquinanti nelle falde e la dispersione della diossina ancora presente anche nell’atmosfera.
+image_alt: Il titolo di un giornale di cinquant'anni fa che lancia  la notizia del disastro
+excerpt: A cinquant'anni dal disastro ambientale dell'ICMESA di Meda, più famoso come il disastro della nube tossica di Seveso, con 1800 ettari di terreno contaminati e gravi danni alle persone ed all'intero ecosistema, restano ancora ombre, dubbi e si torna a parlare di sicurezza quando, per la costruzione dell'autostrada Pedemontana vengono movimentati grandi quantità di terra nelle zone più contaminate. Il rischio è quello di permettere la percolazione degli inquinanti nelle falde e la dispersione della diossina ancora presente anche nell'atmosfera.
 focus_keyword: Disastro di Seveso
 ---
 
