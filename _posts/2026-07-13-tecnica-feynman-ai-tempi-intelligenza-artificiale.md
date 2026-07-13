@@ -14,7 +14,7 @@ tags:
   - scienza
   - divulgazione
 focus_keyword: "tecnica Feynman"
-image: /assets/images/uploads/Richard_Feynman_1988.jpeg
+image: /assets/images/uploads/Richard_Feynman_1988.webp
 image_alt: "Richard Feynman sorridente in una fotografia del 1988"
 excerpt: "Ho chiesto a un'AI di spiegarmi una cosa difficile. Risposta perfetta, io soddisfatto. Il giorno dopo non sapevo ripeterla. Un signore col Nobel e i bonghi questo problema l'aveva capito cinquant'anni fa, e la sua tecnica, ai tempi dell'AI, non è in pensione: si è capovolta."
 ---
