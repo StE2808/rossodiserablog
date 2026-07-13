@@ -2,7 +2,7 @@
 layout: post
 title: "La Tecnica Feynman: Un Percorso per un Apprendimento Profondo e Autonomo"
 date: 2023-11-03 00:00:00 +0100
-last_modified_at: 2026-04-30 10:30:41 +0200
+last_modified_at: 2026-07-13 11:05:00 +0200
 author: stefano-vozzi
 image: /assets/images/2023/11/richard_feynman_1959.webp
 image_alt: "Richard Feynman, fisico teorico premio Nobel, in una fotografia del 1959"
@@ -15,7 +15,7 @@ tags: ["Apprendimento Profondo", "Autonomia nell'Apprendimento", "Autovalutazion
 ---
 Se stai cercando un modo per rivoluzionare il tuo approccio all'apprendimento e alla comprensione dei concetti, la Tecnica Feynman fa al caso tuo. Sviluppata dal geniale fisico Richard Feynman, Premio Nobel per la Fisica nel 1965, questa tecnica offre un quadro strutturato in quattro fasi per assimilare, elaborare e comunicare conoscenze in modo più efficace e duraturo. Non solo migliorerà il tuo modo di studiare, ma potrà anche arricchire il tuo modo di pensare e le tue competenze trasversali, dal pensiero critico all'autovalutazione. Scopriamo insieme come funziona.
 
-l’inizio: era un preambolo al vero studio, un invito a stringere la mano al mistero prima di scortare le risposte fuori dal caos. E se mai incontrava un muro, lanciava uno sguardo furtivo ai passaggi successivi, giusto per carpire la direzione, per poi tornare a scolpire la soluzione con le sue mani. “Questo è il modo in cui studio", diceva, "lavorandoci sopra, creandolo, in un certo senso”.
+Per Feynman, incontrare un problema nuovo e leggerne l’enunciato non era che l’inizio: era un preambolo al vero studio, un invito a stringere la mano al mistero prima di scortare le risposte fuori dal caos. E se mai incontrava un muro, lanciava uno sguardo furtivo ai passaggi successivi, giusto per carpire la direzione, per poi tornare a scolpire la soluzione con le sue mani. “Questo è il modo in cui studio", diceva, "lavorandoci sopra, creandolo, in un certo senso”.
 
 Il primo vero passo, poi, era semplice come un titolo preciso all’inizio di un foglio bianco. Ma non fatevi ingannare dalla sua apparente banalità. Feynman sapeva che definire il campo di battaglia era essenziale quanto conoscere l'arma da brandire. Era la bussola per non perdersi nei meandri del pensiero, il punto di partenza da cui non deviare.
 
