@@ -12,7 +12,7 @@ tags:
   - LeggeElettorale
   - Preferenze
   - FranchiTiratori
-image: /assets/images/uploads/IMG_7382.jpeg
+image: /assets/images/uploads/IMG_7382.webp
 image_caption: Giorgia Meloni
 image_alt: Il Presidente del Consiglio dei Ministri, Giorgia Meloni, in abito nero
 excerpt: Il governo Meloni ha subito una significativa sconfitta alla Camera, con l'emendamento di Fratelli d'Italia sulle preferenze elettorali bocciato a scrutinio segreto per un solo voto. Il voto ha evidenziato una spaccatura interna alla maggioranza con circa 30-37 "franchi tiratori", innescando polemiche sulla parità di genere e scatenando la reazione dura della premier contro la "palude" parlamentare.
