@@ -69,6 +69,8 @@ Per Giorgia Meloni il pericolo più grande è adesso la paralisi interna: la con
 
 Le elezioni anticipate sembrano ormai ogni giorno più vicine, anche se l'amore per la poltrona sembra tenere saldamente ancorati tutti i membri di questa accozzaglia che alcuni ancora si ostinano a chiamare maggioranza. Su cosa potrebbe venire dopo, resta valido quanto scritto a marzo sull'[utopia necessaria per il dopo-Meloni](/l-utopia-necessaria-per-il-dopo-meloni/).
 
+**Aggiornamento del 16 luglio 2026**: due giorni dopo questo voto la Camera ha approvato l'intera riforma elettorale con 217 sì e 152 no, senza un solo franco tiratore sul meccanismo di fondo. Stefano ha smontato pezzo per pezzo cosa prevede il [Melonellum](/melonellum-dittatura-della-minoranza/).
+
 *Fonti: Ansa, Il Post, Il Tempo, AgenSIR (14-15 luglio 2026).*
 
 <script type="application/ld+json">
