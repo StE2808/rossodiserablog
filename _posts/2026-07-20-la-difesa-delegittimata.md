@@ -26,7 +26,7 @@ Vicenda Roggero: arma di distrazione di massa, utile a coprire imbarazzanti divi
 
 Così mentre il popolo si impoverisce sempre più, siamo invitati a salire sulla giostra, tra colpevolisti ed innocentisti. 
 
-Premesso che,  proprio per la Legge, Roggero è un colpevole perché responsabile di duplice assassino, cerchiamo di capirci un pochino di più. 
+Premesso che,  proprio per la Legge, Roggero è un colpevole perché responsabile di duplice assassinio, cerchiamo di capirci un pochino di più. 
 
 La legittima difesa in Italia è storicamente regolata dall'articolo 52 del Codice Penale, che richiede la proporzione tra l'offesa e la difesa. Nel 2019, la riforma promossa da Matteo Salvini ha introdotto il principio per cui la difesa all'interno del proprio domicilio o negozio è "sempre" legittima se si respinge un'intrusione violenta o minacciosa. 
 
