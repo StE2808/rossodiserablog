@@ -15,7 +15,7 @@ tags:
   - GovernoItalianoDistrazioneDiMassa
   - SicurezzaPubblica
   - PropagandaPolitica
-image: /assets/images/uploads/IMG_7384.jpeg
+image: /assets/images/uploads/IMG_7384.webp
 image_caption: Lo scranno di un tribunale
 image_alt: Lo scranno di un tribunale italiano con una bilancia con un piatto che pende
 excerpt: La Cassazione ha condannato definitivamente il gioielliere Mario Roggero a 14 anni e 9 mesi.La legittima difesa è stata esclusa perché l'uomo ha inseguito e ucciso i rapinatori in fuga.Il tragico episodio è avvenuto a Grinzane Cavour nel 2021 dopo una rapina nel suo negozio.Il caso ha spaccato la politica tra la solidarietà della Lega e la cautela dei moderati.L'opinione pubblica resta divisa tra la propaganda sulla sicurezza e il rispetto della Costituzione.Se desideri, possiamo approfondire:Lo stato attuale della richiesta di graziaI precedenti giudiziari simili in Italia
