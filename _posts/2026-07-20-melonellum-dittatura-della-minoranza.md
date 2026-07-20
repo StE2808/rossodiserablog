@@ -17,7 +17,7 @@ tags:
   - Parlamento
   - voto segreto
   - democrazia
-image: /assets/images/uploads/melonellum-legge-elettorale.jpeg
+image: /assets/images/uploads/melonellum-legge-elettorale.webp
 image_caption: "L'aula di Montecitorio durante il Parlamento in seduta comune (foto: Francesco Ammendola, Quirinale.it)"
 image_alt: "L'emiciclo di Montecitorio gremito di parlamentari, visto dall'alto, con i tricolori sulle tribune"
 excerpt: "Il 14 luglio la maggioranza va sotto per un voto, il 16 la legge elettorale passa con 217 sì. Il caos sulle preferenze ci ha fatto guardare il dito: il Melonellum trasforma il 42% dei voti nel 55% dei seggi e consegna la scelta dei parlamentari alle segreterie di partito."
