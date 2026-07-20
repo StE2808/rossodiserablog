@@ -3,7 +3,7 @@ layout: post
 title: "Melonellum, la dittatura della minoranza"
 seo_title: "Melonellum: cosa prevede la nuova legge elettorale"
 description: "Premio di maggioranza, liste bloccate, candidato premier: perché il Melonellum, la nuova legge elettorale, è una dittatura della minoranza."
-date: 2026-07-20 08:00:00 +0200
+date: 2026-07-20 17:30:00 +0200
 author: stefano-vozzi
 category: politica-interna
 tags:
