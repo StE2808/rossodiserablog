@@ -2,7 +2,7 @@
 layout: post
 title: La difesa delegittimata
 seo_title: 'Caso Roggero: la difesa delegittimata'
-description: 'Caso Roggero e legittima difesa: art 52 cp e la riforma Salvini sono un’arma di distrazione di massa dai fallimenti del governo? Scopri l’analisi.'
+description: "Caso Roggero e legittima difesa: art 52 cp e la riforma Salvini sono un'arma di distrazione di massa dai fallimenti del governo? Scopri l'analisi."
 date: 2026-07-20 09:02:00 +0200
 author: lino-rialti
 category: opinioni-editoriali
