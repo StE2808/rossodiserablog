@@ -27,7 +27,7 @@ tags:
   - riformaPenale
   - welfare
   - italia
-image: /assets/images/uploads/IMG_7388.jpeg
+image: /assets/images/uploads/IMG_7388.webp
 image_caption: Scontri in città
 image_alt: Un poliziotto affronta i manifestanti
 excerpt: 'La nuova stretta sulla giustizia minorile segna un ulteriore passo verso una politica fondata sulla repressione più che sulla prevenzione. Mentre il governo inasprisce le norme per i minori, restano irrisolti i problemi strutturali che alimentano il disagio giovanile: povertà educativa, dispersione scolastica, marginalità sociale e carenza di servizi. Punire senza investire nel futuro dei ragazzi rischia di essere una risposta tanto semplice quanto inefficace.'
