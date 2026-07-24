@@ -3,7 +3,7 @@ layout: post
 title: "Il cane da guardia addestrato a non abbaiare"
 seo_title: "AI USA-Cina 2026: modelli open, guardrail e la sfida di Xi"
 description: "L'attacco a Hugging Face svela il paradosso AI 2026: gli USA blindano i modelli con guardrail, la Cina apre i pesi. GLM, Kimi, Qwen a confronto."
-date: 2026-07-24 10:00:00 +0200
+date: 2026-07-24 07:00:00 +0200
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:
