@@ -17,7 +17,7 @@ tags:
   - guardrail
   - Xi Jinping
   - GLM
-image: /assets/images/uploads/hugging-face-bandiera-usa.jpeg
+image: /assets/images/uploads/hugging-face-bandiera-usa.webp
 image_alt: "Bandiera degli Stati Uniti con il logo emoji di Hugging Face al posto delle stelle"
 excerpt: "Hugging Face, sotto attacco di due modelli OpenAI, chiede aiuto ai migliori modelli americani. Rifiutano. Si salva con uno cinese, gratis e senza museruola. E' l'istantanea di un'estate in cui l'America blinda l'AI e la Cina apre i pesi: chi ci protegge davvero, e da cosa?"
 focus_keyword: "modelli AI open source cinesi"
