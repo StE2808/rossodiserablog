@@ -19,7 +19,7 @@ tags:
   - beni comuni
   - JP Morgan
   - Thrive Eternal
-image: /assets/images/uploads/pallone-spiaggia-mondiale.jpeg
+image: /assets/images/uploads/pallone-spiaggia-mondiale.webp
 image_caption: Una spiaggia fa un mondiale
 image_alt: Ragazzini giocano a calcio con un pallone consumato su una spiaggia al tramonto
 excerpt: "La FIFA di Infantino propone la Forward Enterprise: una società da 20 miliardi di dollari che aprirebbe la proprietà del Mondiale a fondi privati, con 4,2 miliardi da raccogliere entro fine anno e un voto-ultimatum fissato al 19 settembre. La UEFA e le sue 55 federazioni rispondono all'unanimità col boicottaggio: nessuna nazionale europea alle competizioni FIFA finché la proposta non sarà ritirata. Ma la questione non è tecnica, è di principio: il calcio è lo sport di tutti perché per giocarci basta un pallone e un prato. E le cose costruite da tutti non si vendono."
