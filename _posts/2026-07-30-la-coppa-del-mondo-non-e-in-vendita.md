@@ -42,7 +42,7 @@ Il metodo è perfino peggiore del piano. Le 211 federazioni nazionali FIFA dovra
 
 La UEFA lo ha chiamato con il suo nome: "un governo basato sull'intimidazione, un atto di coercizione indegno di un'istituzione a cui è affidata la gestione del calcio mondiale". Nel calcio di prato questo meccanismo lo conoscevamo tutti: si chiamava "o si gioca come dico io, o mi porto via il pallone". C'era sempre, quel bambino. Non è mai stato simpatico a nessuno.
 
-## Il boicottaggio UEFA: nessuna nazionale europea se il Mondiale si vende
+## Il boicottaggio UEFA: nessuna nazionale europea giocherà se il Mondiale si vende
 
 La risposta è arrivata il 30 luglio, al termine di una riunione d'urgenza: le 55 federazioni affiliate alla UEFA, all'unanimità. "Respingiamo senza riserve la proposta della FIFA di trasferire la proprietà della Coppa del Mondo a investitori privati. La Coppa del Mondo non può essere considerata un prodotto di investimento". E ancora: è "irresponsabile e indifendibile" che una proposta simile sia stata "concepita in segreto", una "vera e propria abdicazione al dovere della FIFA in quanto custode del calcio mondiale".
 
