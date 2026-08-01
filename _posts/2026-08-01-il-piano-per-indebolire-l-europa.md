@@ -29,7 +29,7 @@ tags:
   - Giorgia Meloni
   - Pedro Sanchez
 focus_keyword: "piano USA per indebolire l'Europa"
-image: /assets/images/uploads/ceuta-frontiera-mare.jpeg
+image: /assets/images/uploads/ceuta-frontiera-mare.webp
 image_caption: La barriera di Ceuta finisce dove comincia il mare (foto Mario Sánchez Bueno, CC BY-SA 2.0)
 image_alt: La recinzione di confine di Ceuta che termina in mare sulla spiaggia, con le case del versante marocchino alle spalle
 excerpt: "All'alba del 30 luglio cinquantamila persone, sessantamila per le stime locali, hanno attraversato a nuoto e a piedi il confine di Ceuta, città spagnola in territorio africano. Davanti al giorno peggiore di un alleato, il governo Meloni ha sospeso Schengen con la Spagna. Non è cinismo estemporaneo: è la terza mossa di un piano scritto nei documenti americani. Ritirare la protezione, imporre il riarmo Made in USA, coltivare la destra sovranista per dividere l'Europa."
