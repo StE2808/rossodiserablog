@@ -1815,3 +1815,48 @@ footer {
     margin: 0 auto;
     padding: 0 2rem 4rem;
 }
+
+/* Tabelle negli articoli */
+.post-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.75rem 0;
+    font-size: 0.9em;
+    line-height: 1.55;
+}
+
+.post-content th {
+    background: var(--rosso-primario);
+    color: #fff;
+    text-align: left;
+    font-weight: 600;
+    padding: 0.65em 0.85em;
+    letter-spacing: 0.02em;
+    border: 1px solid var(--rosso-scuro);
+}
+
+.post-content th:first-child {
+    border-top-left-radius: 6px;
+}
+
+.post-content th:last-child {
+    border-top-right-radius: 6px;
+}
+
+.post-content td {
+    padding: 0.65em 0.85em;
+    border: 1px solid var(--crema-scuro);
+    vertical-align: top;
+}
+
+.post-content tbody tr:nth-child(even) {
+    background: var(--crema);
+}
+
+@media (max-width: 768px) {
+    .post-content table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+}
