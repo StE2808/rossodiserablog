@@ -1,0 +1,45 @@
+<section class="rds-nl" aria-label="Iscrizione alla newsletter">
+    <h3 class="rds-nl-title">La newsletter di Rosso di Sera</h3>
+    <p class="rds-nl-text">Un'email quando esce un nuovo articolo. Niente spam, cancellazione con un click in ogni email.</p>
+    <form class="rds-nl-form" action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" method="post" target="_blank">
+        <div class="rds-nl-row">
+            <input type="email" name="fields[email]" class="rds-nl-input" placeholder="la-tua@email.it" aria-label="Il tuo indirizzo email" autocomplete="email" required>
+            <button type="submit" class="rds-nl-btn">Iscriviti</button>
+        </div>
+        <input type="text" name="website" class="rds-nl-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <input type="hidden" name="ml-submit" value="1">
+        <input type="hidden" name="anticsrf" value="true">
+        <p class="rds-nl-status" role="status" aria-live="polite"></p>
+    </form>
+</section>
+<script>
+(function () {
+    document.querySelectorAll('.rds-nl-form').forEach(function (form) {
+        if (form.dataset.nlReady) { return; }
+        form.dataset.nlReady = '1';
+        form.addEventListener('submit', function (ev) {
+            ev.preventDefault();
+            var status = form.querySelector('.rds-nl-status');
+            var hp = form.querySelector('.rds-nl-hp');
+            if (hp && hp.value) { return; }
+            var btn = form.querySelector('.rds-nl-btn');
+            btn.disabled = true;
+            status.textContent = 'Invio in corso...';
+            fetch(form.action, { method: 'POST', body: new FormData(form) })
+                .then(function (r) { return r.json(); })
+                .then(function (d) {
+                    if (d && d.success) {
+                        form.querySelector('.rds-nl-row').hidden = true;
+                        status.textContent = 'Quasi fatto! Ti abbiamo inviato un\'email di conferma: apri il messaggio e clicca il pulsante per completare l\'iscrizione.';
+                    } else {
+                        throw new Error('subscribe failed');
+                    }
+                })
+                .catch(function () {
+                    btn.disabled = false;
+                    status.textContent = 'Qualcosa non ha funzionato. Riprova tra poco.';
+                });
+        });
+    });
+})();
+</script>
