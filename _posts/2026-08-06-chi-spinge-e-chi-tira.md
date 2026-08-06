@@ -15,7 +15,7 @@ tags:
   - chatbot AI
   - disinformazione
 focus_keyword: "manipolazione algoritmica"
-image: /assets/images/uploads/manipolazione-algoritmica.jpeg
+image: /assets/images/uploads/manipolazione-algoritmica.webp
 image_caption: "I fili della manipolazione algoritmica non si vedono, ma ci sono"
 image_alt: "Illustrazione di una mano che manovra come un burattino la testa spaccata di una persona china sullo smartphone, circondata da icone di Facebook, Instagram, Twitter e TikTok, con due occhi enormi sullo sfondo"
 excerpt: "Internet è nata come un posto dove andavi a prendere le cose. Poi le cose hanno cominciato a venire da te, e adesso rispondono anche alle domande."
