@@ -67,6 +67,25 @@ Una precisazione doverosa: qui si discute di diritto e di uso politico di una se
 
 *Fonti: Ansa, Il Fatto Quotidiano, Open, Adnkronos (15 luglio 2026).*
 
+## Domande frequenti
+
+**A quanti anni è stato condannato Mario Roggero?**
+
+La condanna definitiva è di 14 anni e 9 mesi. In primo grado la Corte d'Assise di Asti aveva stabilito 17 anni, ridotti in appello dalla Corte d'Assise d'Appello di Torino nel dicembre 2025. Il 15 luglio 2026 la Cassazione ha reso la pena definitiva.
+
+**Perché non è stata riconosciuta la legittima difesa a Roggero?**
+
+Perché i video e le perizie hanno dimostrato che Roggero inseguì i malviventi fuori dal negozio, sparando mentre questi erano ormai in fuga e non costituivano più una minaccia immediata per la sua vita. Quando ha sparato, il pericolo era cessato.
+
+**Cosa prevede la riforma della legittima difesa del 2019?**
+
+La riforma promossa da Matteo Salvini ha introdotto il principio per cui la difesa nel proprio domicilio o negozio è sempre legittima se si respinge un'intrusione violenta o minacciosa. Non esiste però una licenza di uccidere automatica: l'uso delle armi resta punibile se c'è palese sproporzione o se il pericolo è cessato.
+
+**Cosa è successo a Grinzane Cavour nel 2021?**
+
+Il 28 aprile 2021 tre uomini tentarono una rapina nella gioielleria di Mario Roggero, a Gallo di Grinzane Cavour, nel Cuneese. Nella reazione del gioielliere morirono Giuseppe Mazzarino e Andrea Spinelli; Alessandro Modica rimase ferito e fu poi arrestato.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

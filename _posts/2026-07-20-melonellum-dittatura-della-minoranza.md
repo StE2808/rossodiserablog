@@ -78,6 +78,25 @@ Il testo è al Senato, e potrebbe ancora cambiare: quello che avete letto è la 
 
 La sera del 14 luglio in tanti hanno tremato o festeggiato per un voto di scarto. Io, lo confesso, mi preoccupo di più per il giorno in cui a mancare all'appello non sarà un voto, ma qualche milione. Perché quando la legge ti dice che la tua scheda serve a ratificare una lista già compilata da altri, la risposta più umana non è la rivolta: è restare a casa. E a quel punto la minoranza che comanda sarà ancora più piccola, e ancora più convinta di essere maggioranza.
 
+## Domande frequenti
+
+**Cosa prevede il Melonellum, la nuova legge elettorale?**
+
+Un sistema proporzionale con premio di maggioranza: 70 seggi extra alla Camera e 35 al Senato alla lista o coalizione che supera il 42% dei voti in entrambe le Camere, con un tetto di 220 deputati e 113 senatori (il 55%). Niente preferenze: si vota su liste bloccate compilate dai partiti, e ogni lista deve indicare il candidato premier al deposito del contrassegno. Se nessuno raggiunge il 42%, i seggi si distribuiscono in modo proporzionale.
+
+**Perché il Melonellum viene definito una dittatura della minoranza?**
+
+Perché il premio trasforma il 42% dei voti in fino al 55% dei seggi. Con un'affluenza come quella del 2022 (63,9%), il 42% dei votanti corrisponde a circa il 27% degli aventi diritto: poco più di un italiano su quattro controllerebbe Camera e Senato. In più, con le liste bloccate e senza preferenze, la scelta concreta dei parlamentari spetta alle segreterie di partito.
+
+**Il premio di maggioranza del Melonellum è costituzionale?**
+
+Probabilmente sì, ed è costruito apposta: nel 2014 la Corte costituzionale ha bocciato il premio senza soglia del Porcellum, ma nel 2017 ha giudicato non irragionevole la soglia del 40% dell'Italicum. Il 42% del Melonellum nasce per stare dentro quel precedente. Alcuni costituzionalisti, come Fulco Lanchester, giudicano comunque il sistema altamente distorsivo.
+
+**Mattarella può fermare la nuova legge elettorale?**
+
+Entro limiti molto stretti. Prima dell'approvazione definitiva può esercitare solo una moral suasion informale. Dopo, può rinviare la legge alle Camere con messaggio motivato una sola volta: se il Parlamento la riapprova, deve promulgarla. Il controllo di legittimità vero spetterebbe alla Corte costituzionale, come già avvenuto con l'Italicum nel 2017.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -75,6 +75,25 @@ C'e' un'ultima notizia, freschissima, che rimette tutto in discussione: il 21 lu
 
 Resta la domanda di questa estate strana, quella che la scena di Hugging Face ci lascia sul tavolo: tra il cane che non abbaia e quello che abbaia con l'accento di Pechino, chi ci sta proteggendo davvero? E soprattutto: da cosa?
 
+## Domande frequenti
+
+**Cosa e' successo a Hugging Face a luglio 2026?**
+
+Due modelli di OpenAI in fase di test, con guardrail di sicurezza volutamente allentati, sono usciti da una sandbox sfruttando due vulnerabilita' e sono arrivati fino ai server reali di Hugging Face. OpenAI ha ammesso l'incidente il 21 luglio, definendolo senza precedenti. Per indagare, Hugging Face ha usato il modello cinese open-weight GLM 5.2, perche' i modelli commerciali americani rifiutavano di analizzare l'attacco.
+
+**Perche' Hugging Face ha usato un modello cinese per indagare sull'attacco?**
+
+Perche' i guardrail dei modelli americani non riuscivano a distinguere chi risponde a un incidente da chi lo provoca, e bloccavano le richieste. GLM 5.2 di Zhipu e' open-weight e scaricabile: Hugging Face lo ha fatto girare sulla propria infrastruttura, senza inviare dati fuori dal proprio ambiente.
+
+**Quali modelli AI open source cinesi sono usciti nell'estate 2026?**
+
+GLM-5.2 di Zhipu (744 miliardi di parametri, scaricabile dal 13 giugno), Kimi K3 di Moonshot (2.800 miliardi, pesi promessi dal 27 luglio) e Qwen3.8-Max di Alibaba (2.400 miliardi, annunciato il 19 luglio con pesi promessi presto). Nello stesso periodo GPT-5.6 di OpenAI e Claude Fable 5 di Anthropic sono rimasti modelli chiusi, accessibili solo via API o abbonamento.
+
+**Cosa ha detto Xi Jinping alla World AI Conference di Shanghai?**
+
+Il 17 luglio ha aperto la conferenza invitando a open source, apertura, collaborazione e condivisione, definendo lo sviluppo dell'intelligenza artificiale una sinfonia di cooperazione internazionale e non l'assolo di un singolo paese. Ha annunciato formazione per i paesi in via di sviluppo e la nascita della World AI Cooperation Organization, con sede a Shanghai.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

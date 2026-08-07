@@ -66,6 +66,25 @@ Uno Stato autorevole non è quello che punisce per primo, ma quello che previene
 
 La vera domanda, dunque, non è se un quattordicenne debba rispondere delle proprie azioni. Lo ha sempre fatto quando il giudice ne accertava la maturità. La domanda è un'altra: quale responsabilità si assume lo Stato quando, invece di investire sulle condizioni che tengono i ragazzi lontani dalla devianza, sceglie ancora una volta di affidare alla repressione il compito di colmare il fallimento della prevenzione?
 
+## Domande frequenti
+
+**Cosa prevede la stretta sulla giustizia minorile approvata dal governo?**
+
+Il disegno di legge non abbassa la soglia della responsabilità penale, che resta fissata a 14 anni, ma cambia il punto di partenza: tra i 14 e i 18 anni la capacità di intendere e di volere sarà presunta, salvo prova contraria. Si passa da una presunzione di non imputabilità a una presunzione di imputabilità.
+
+**Perché Save the Children critica la riforma della giustizia minorile?**
+
+Perché rischia di indebolire la specificità della giustizia minorile: affrontare la violenza giovanile con strumenti sempre più vicini a quelli previsti per gli adulti non è una risposta efficace. I proscioglimenti per immaturità sono ormai residuali: erano 256 nel 2004 e sono scesi a 60 nel 2024.
+
+**Un quattordicenne rispondeva già delle proprie azioni prima della riforma?**
+
+Sì. Dai 14 anni un minore ha sempre risposto penalmente delle proprie azioni quando il giudice ne accertava la maturità caso per caso. La riforma non introduce la responsabilità penale dei minori: inverte la presunzione sulla capacità di intendere e di volere.
+
+**Cosa servirebbe, oltre alla repressione, contro la devianza giovanile?**
+
+Investimenti in scuole sicure, educatori di strada, servizi sociali, salute mentale infantile, politiche per il lavoro giovanile e recupero delle periferie. La sicurezza duratura nasce da una società capace di offrire istruzione, cultura, inclusione e prospettive, non dal solo inasprimento delle norme penali.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

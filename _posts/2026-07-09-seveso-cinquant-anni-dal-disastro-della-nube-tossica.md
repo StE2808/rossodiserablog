@@ -59,6 +59,25 @@ La diossina è un contaminante persistente, e la ferita di Seveso continua a san
 
 Mezzo secolo dopo, Seveso non può essere archiviata come un semplice capitolo di storia. Resta un monito permanente: il progresso economico e lo sviluppo tecnologico non possono mai prescindere dalla tutela assoluta della salute umana, intesa come [bene comune e non come merce](/la-salute-non-e-una-merce-la-sanita-e-un-bene-comune/), e dei diritti delle comunità.
 
+## Domande frequenti
+
+**Che cos'è il disastro di Seveso?**
+
+Il disastro di Seveso è l'incidente del 10 luglio 1976 allo stabilimento chimico ICMESA di Meda, in Brianza: il malfunzionamento di un reattore sprigionò una nube tossica di diossina (TCDD) che contaminò oltre 1.800 ettari di terreno, avvelenò la popolazione e costrinse a evacuazioni di massa.
+
+**Che cos'è la Direttiva Seveso?**
+
+La Direttiva Seveso è la normativa europea nata nel 1982 come lascito del disastro. Impone monitoraggio costante, trasparenza e prevenzione del rischio per tutti gli stabilimenti industriali sensibili del continente, ed è considerata il pilastro giuridico della sicurezza degli impianti a rischio di incidente rilevante.
+
+**Perché l'autostrada Pedemontana preoccupa nell'area di Seveso?**
+
+I cantieri dell'autostrada Pedemontana movimentano terreni nelle vecchie "Zone B e R", dove la diossina potrebbe essere ancora depositata negli strati profondi del suolo. Il rischio, denunciato da associazioni come Legambiente Lombardia, è che gli inquinanti storici rientrino nel ciclo ecologico e idrico, minacciando falde e coltivazioni.
+
+**Che cos'è il Bosco delle Querce?**
+
+Il Bosco delle Querce è il parco naturale nato nel 1983 sulla ex "Zona A" di Seveso, l'area più contaminata e letale, rasa al suolo e interrata in vasche di contenimento stagno. Con 45.000 piante, simboleggia il risarcimento ambientale e la memoria del territorio.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
