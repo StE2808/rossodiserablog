@@ -87,20 +87,6 @@ Perché considera la vendita di quote del Mondiale a investitori privati una ces
 
 Le 211 federazioni nazionali FIFA sono chiamate a votare la proposta entro il 19 settembre 2026. Secondo la stampa, chi vota contro perderebbe l'accesso a fondi FIFA aggiuntivi di circa 20 milioni di dollari: un meccanismo che la UEFA definisce un ultimatum e un atto di coercizione.
 
-## Domande frequenti
-
-**Che cos'è la FIFA Forward Enterprise?**
-
-È la società commerciale proposta da Gianni Infantino per gestire diritti e organizzazione delle competizioni FIFA, Mondiale compreso. Valutata circa 20 miliardi di dollari, dovrebbe raccogliere 4,2 miliardi entro fine 2026 vendendo quote di minoranza a investitori privati: tra gli interessati JP Morgan e il fondo Thrive Eternal di Joshua Kushner.
-
-**Perché la UEFA minaccia il boicottaggio delle competizioni FIFA?**
-
-Perché considera la vendita di quote del Mondiale a investitori privati una cessione irreversibile del controllo del calcio: le decisioni su calendari e formati risponderebbero agli azionisti. Le 55 federazioni UEFA hanno dichiarato all'unanimità che nessuna nazionale europea parteciperà alle competizioni FIFA finché la proposta non sarà ritirata.
-
-**Quando si decide sulla privatizzazione del Mondiale?**
-
-Le 211 federazioni nazionali FIFA sono chiamate a votare la proposta entro il 19 settembre 2026. Secondo la stampa, chi vota contro perderebbe l'accesso a fondi FIFA aggiuntivi di circa 20 milioni di dollari: un meccanismo che la UEFA definisce un ultimatum e un atto di coercizione.
-
 
 <script type="application/ld+json">
 {
