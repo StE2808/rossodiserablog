@@ -116,6 +116,21 @@ Chi ha aperto la porta?
 
 *Continua nell'[Atto III: chi ha firmato](https://rossodiserablog.it/chi-possiede-l-italia-atto-3-chi-ha-firmato/).*
 
+## Domande frequenti
+
+**Perché i fondi stranieri investono in energia, gas e telecomunicazioni italiane?**
+
+Perché sono settori a domanda anelastica: i cittadini non possono smettere di comprare energia, gas o connettività internet. In più, Terna e Snam sono monopoli regolamentati il cui rendimento sul capitale è garantito per legge dall'ARERA attraverso la tariffa in bolletta. BlackRock non rischia nulla: lo Stato italiano garantisce il dividendo. Questo li rende investimenti quasi privi di rischio con rendimenti garantiti.
+
+**Cosa sono i licenziamenti Electrolux a Cerreto d'Esi nel 2026?**
+
+L'11 maggio 2026 Electrolux ha annunciato 1.700 esuberi su 4.000 dipendenti italiani (42% della forza lavoro), dimezzando la produzione in tutti gli stabilimenti italiani e chiudendo definitivamente quello di Cerreto d'Esi (Ancona), dove lavoravano 170 persone. I sindacati Fim, Fiom e Uilm hanno dichiarato uno sciopero nazionale di 8 ore. Electrolux è svedese: i profitti andavano a Stoccolma, il costo della crisi ricade sui lavoratori italiani e sullo Stato.
+
+**Cos'era il progetto Michelangelo Dome e perché Cingolani è stato rimosso da Leonardo?**
+
+Il Michelangelo Dome era un sistema italiano di difesa missilistica integrata annunciato da Roberto Cingolani (CEO di Leonardo) nel febbraio 2026: sensori terrestri, aerei, spaziali e navali coordinati da intelligenza artificiale, pensato per ridurre la dipendenza europea dagli armamenti americani. Il progetto non è stato gradito dagli USA. Ad aprile 2026 il governo Meloni non ha rinnovato il mandato di Cingolani, sostituendolo con Lorenzo Mariani (proveniente da MBDA). Il titolo Leonardo ha guadagnato il 5% all'annuncio.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

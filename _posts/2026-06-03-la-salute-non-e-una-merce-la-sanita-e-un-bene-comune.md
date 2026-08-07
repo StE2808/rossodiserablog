@@ -67,6 +67,25 @@ Il SSN italiano, con tutti i suoi limiti strutturali — il [sottofinanziamento 
 
 Il rischio reale — in Lombardia come nel resto d'Italia — è che si ceda alla tentazione del modello americano senza averne la ricchezza né la rete di sicurezza alternativa: accumulare eccellenze visibili e classifiche luccicanti mentre si sgretola, silenziosamente, la base di equità e universalità su cui è fondato il diritto alla salute. Quella base si chiama Servizio Sanitario Nazionale, ed è — ancora — un [bene comune](https://rossodiserablog.it/la-repubblica-dei-cittadini-contro-manifesto/) da difendere.
 
+## Domande frequenti
+
+**Quanti ospedali lombardi sono tra i migliori al mondo nel 2026?**
+
+Secondo la classifica World's Best Specialized Hospital 2026 di Newsweek e Statista, la Lombardia è la regione italiana con più strutture: sedici. L'Humanitas di Rozzano è 61° al mondo tra gli Smart Hospitals, seguito dal San Raffaele (72°) e dallo IEO - Istituto Europeo di Oncologia (76°).
+
+**Perché la Lombardia ha una sanità a due velocità?**
+
+Con la delibera di Giunta Regionale n. 4986 del settembre 2025 la Regione Lombardia consente di usare sale operatorie, risonanze e posti letto pubblici anche per prestazioni private a pagamento. Chi dispone di polizze o fondi integrativi accede più rapidamente, mentre chi ha redditi medio-bassi resta nelle liste d'attesa: una sanità a due velocità.
+
+**Quanto spende l'Italia per la sanità rispetto alla media europea?**
+
+Nel 2023 la spesa sanitaria italiana era pari all'8,4% del PIL, 1,6 punti in meno della media UE, con 3.086 euro pro capite, circa il 19% in meno della media europea. Nonostante questo, l'Italia ha raggiunto 84,1 anni di aspettativa di vita, la più alta d'Europa insieme alla Svezia (dati OCSE 2025).
+
+**Perché gli Stati Uniti spendono di più ma vivono di meno?**
+
+Gli USA hanno la spesa sanitaria pro capite più alta al mondo, 12.318 dollari annui, oltre il doppio della media europea, ma l'aspettativa di vita resta sotto gli 80 anni. Secondo l'America's Health Rankings 2025, l'8% degli adulti rinuncia alle cure per motivi economici e l'8,2% non ha copertura sanitaria: spendere di più non significa distribuire meglio.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

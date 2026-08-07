@@ -73,6 +73,25 @@ E non si tratta solo di noi, o dei nostri figli. Il conto lo paga anche [chi nas
 
 Avere in mano l'equilibrio di tutti gli altri, di chi viene dopo e di chi non può parlare, non è un peso da cui scappare. È la cosa più seria che ci sia capitata. La signora di 46 anni può ancora abbassare la febbre: il suo corpo è robusto, ha attraversato di peggio. Ma stavolta la cura dipende da una sola delle sue creature. Dipende da cosa decidiamo di fare nei prossimi secondi, che per noi sono i prossimi anni. Non è poco tempo. È l'unico che abbiamo, ed è esattamente quello che conta.
 
+## Domande frequenti
+
+**Quanti anni ha la Terra?**
+
+La Terra ha circa 4,54 miliardi di anni. La stima deriva dalla datazione radiometrica all'uranio-piombo dei meteoriti, considerati parte dello stesso sistema in evoluzione del pianeta, come indica lo U.S. Geological Survey. Per confronto, l'universo ha circa 13,8 miliardi di anni.
+
+**Se la Terra fosse una persona di 46 anni, quando sarebbe comparso l'uomo?**
+
+Mappando i 4,54 miliardi di anni della Terra sulla vita di una persona di 46 anni, un anno equivale a circa 99 milioni di anni reali e un secondo a circa 3 anni. Su questa scala l'Homo sapiens, comparso circa 300.000 anni fa, è arrivato poco più di un giorno fa, un'intera vita umana dura circa 26 secondi e tutta l'era industriale sta nell'ultimo minuto.
+
+**Da quando l'uomo sta cambiando il clima della Terra?**
+
+Il cambiamento climatico di origine umana parte con l'era industriale, attorno al 1850. L'IPCC usa il periodo 1850-1900 come riferimento del clima preindustriale. Nel 2024 l'Organizzazione meteorologica mondiale ha certificato un riscaldamento di circa 1,6 gradi sopra quel livello: in poco più di 175 anni.
+
+**Perché la brevità della vita umana non è una scusa di fronte alla crisi climatica?**
+
+Proprio perché una vita umana è brevissima rispetto alla storia della Terra, conta enormemente cosa si fa in quel breve tempo. La responsabilità non riguarda solo le generazioni future di esseri umani, ma anche gli animali e le piante, che subiscono i cambiamenti senza poter protestare. La brevità non è un alibi: è la ragione per cui ogni scelta pesa.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

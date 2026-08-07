@@ -48,6 +48,25 @@ L’articolo 33 della Costituzione stabilisce che “Enti e privati hanno il dir
 
 _Una scuola in cui il privato costruisce, gestisce e lucra per vent’anni è una scuola che smette di essere un bene comune. È una scuola a due velocità: laboratori e mense di qualità per chi frequenta gli istituti “premium”, servizio minimo per chi non può permettersi altro. Quello che Valditara chiama modernizzazione, la [Costituzione](https://rossodiserablog.it/per-fortuna-che-abbiamo-mattarella-l-ultimo-baluardo-della-c/) lo chiama dismissione del diritto all’istruzione._
 
+## Domande frequenti
+
+**Cos'è il piano Valditara di privatizzazione della scuola pubblica?**
+
+È una proposta annunciata dal ministro Giuseppe Valditara al convegno ANCE del 12 febbraio 2026: affidare a soggetti privati la costruzione o ristrutturazione di edifici scolastici tramite project financing, in cambio della gestione ventennale dei servizi (mensa, pulizie, riscaldamento, laboratori), con un contributo pubblico definito minoritario.
+
+**Quanti edifici e studenti coinvolge il progetto?**
+
+Il patrimonio in gioco è di oltre 40.000 edifici scolastici frequentati da 7 milioni di studenti. Il governo ha già mobilitato 12 miliardi di euro per l'edilizia scolastica, in larga parte fondi PNRR; il project financing è presentato come il modello post-PNRR.
+
+**Perché il piano è in tensione con l'articolo 33 della Costituzione?**
+
+L'articolo 33 stabilisce che enti e privati possono istituire scuole senza oneri per lo Stato. Il project financing con contributo pubblico, anche se minoritario, prevede che il privato gestisca strutture pubbliche a spese del pubblico, contraddicendo quel principio.
+
+**Cosa prevede il piano per le scuole paritarie e gli istituti tecnici?**
+
+Per il 2024-2025 il governo Meloni ha stanziato 750 milioni di euro per le scuole paritarie, 50 milioni in più rispetto all'anno precedente. La riforma della filiera tecnico-professionale (4+2) apre inoltre la programmazione didattica alle imprese, che potranno intervenire su curricoli e attività.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

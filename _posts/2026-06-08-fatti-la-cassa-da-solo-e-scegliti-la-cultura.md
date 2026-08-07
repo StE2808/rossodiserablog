@@ -57,6 +57,25 @@ E allora la cassiera col suo sorriso, Bad Bunny che canta nella sua lingua e io 
 
 Io, per dire, la prossima volta la fila alla cassa con la cassiera la faccio volentieri. Ci metto cinque minuti in più. E mi sa che è il miglior investimento della giornata.
 
+## Domande frequenti
+
+**Cos'è l'egemonia culturale secondo Gramsci?**
+
+Per Antonio Gramsci l'egemonia culturale è il modo in cui chi comanda ottiene consenso non con la forza ma rendendo le proprie idee senso comune, qualcosa di naturale e ovvio. Oggi quel consenso passa soprattutto per la comodità: non ci convince, ci rende comodi.
+
+**Cos'è il lavoro del consumatore o shadow work?**
+
+È il lavoro non pagato che le aziende scaricano sui clienti: farsi la cassa da soli al supermercato, gestire la banca da un'app, fare il check-in online. Il termine shadow work è di Ivan Illich; la sociologa Marie-Anne Dujarier lo ha studiato come travail du consommateur. Lo presentano come comodità, ma è lavoro che prima faceva un dipendente pagato.
+
+**Perché lo streaming musicale rende la cultura più omogenea?**
+
+Piattaforme come Spotify ricevono oltre 120.000 nuovi brani al giorno e premiano la facilità d'ascolto: playlist lo-fi, pop di sottofondo e circa un milione di tracce generate da intelligenza artificiale. Il risultato è una musica pensata per non chiedere attenzione, simile alla muzak dei centri commerciali.
+
+**L'egemonia culturale digitale è totale?**
+
+No. Lo stesso algoritmo che appiattisce è anche il varco da cui sfonda la periferia: Bad Bunny che canta in spagnolo, gli afrobeats nigeriani, i corridos messicani, il baile funk brasiliano, le scene rap in dialetto. L'egemonia culturale resta sempre contesa, mai vinta del tutto.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

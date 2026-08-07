@@ -33,6 +33,21 @@ Il capogruppo AVS Filiberto Zaratti lo ha definito un «testo assurdo» che crea
 
 Ed è una linea che viene da lontano: dai [manganelli di Pisa](/la-pace-e-i-manganelli/) al [decreto Sicurezza](/dietro-il-decreto-sicurezza-l-emergenza-inesistente-che-mina/), fino alla [sindrome del nemico interno](/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/), il copione non cambia: chi contesta è un problema, chi reprime è intoccabile.
 
+## Domande frequenti
+
+**Cosa prevede l'emendamento della Lega sulle indagini contro le forze dell'ordine?**
+
+Due emendamenti al ddl Sicurezza, primi firmatari Igor Iezzi e Laura Ravetto, propongono che le indagini sui reati commessi da agenti in servizio passino dalla Procura della Repubblica all'Avvocatura dello Stato. Le spese legali degli indagati sarebbero a carico dello Stato, con rivalsa solo in caso di condanna definitiva.
+
+**Perché affidare le indagini all'Avvocatura dello Stato è un conflitto di interessi?**
+
+Perché l'Avvocatura dello Stato è l'organo che per legge difende l'amministrazione pubblica: lo stesso apparato che dovrebbe accertare la verità sugli abusi è quello istituzionalmente incaricato di difendere chi li avrebbe commessi. Un conflitto di interessi elevato a norma processuale.
+
+**Come hanno reagito le opposizioni all'emendamento?**
+
+Il capogruppo AVS Filiberto Zaratti lo ha definito un testo assurdo che crea un canale speciale di giudizio e infrange il principio costituzionale di uguaglianza davanti alla legge. Per il responsabile sicurezza del PD Matteo Mauri si tratta di norme scandalose e vuota propaganda.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

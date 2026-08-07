@@ -87,6 +87,25 @@ Salvini ha regalato a Vannacci il palcoscenico.
 
 Vannacci ha usato quel palcoscenico per costruire il proprio teatro.
 
+## Domande frequenti
+
+**Che cos'è il Movimento Vannacci?**
+
+Il Movimento di Vannacci, Futuro Nazionale, è il partito fondato dal generale Roberto Vannacci. Nato come struttura informale nell'autunno 2024, si è costituito formalmente nella primavera 2025. A giugno 2026 i sondaggi lo accreditano tra il 4 e il 7 percento, con rappresentanza al Parlamento europeo e una struttura organizzativa autonoma.
+
+**Quante preferenze ha preso Vannacci alle europee 2024?**
+
+Alle elezioni europee del giugno 2024 Roberto Vannacci, candidato nelle liste della Lega, ha raccolto 532.000 preferenze personali, quasi il 6% dei voti totali del partito: un record assoluto per le preferenze in Italia. Quei voti si sono rivelati legati alla sua persona, non alla Lega di Salvini.
+
+**Perché si parla di fork per il fenomeno Vannacci?**
+
+Nel software il fork consiste nel copiare il codice sorgente di un progetto, modificarlo e rilanciarlo con un nome nuovo, come Jenkins da Hudson o LibreOffice da OpenOffice. Vannacci ha applicato la stessa logica alla politica: ha adottato linguaggio, temi e mitologia della destra sovranista proponendosi come versione più autentica e meno compromessa dei partiti che la rappresentavano.
+
+**Quali scenari si aprono per la destra italiana nei prossimi due anni?**
+
+L'articolo delinea tre scenari per i prossimi 18-24 mesi: la stabilizzazione competitiva, con Vannacci kingmaker tra il 5 e l'8%; l'accelerazione cannibale, con un possibile 10-12% in caso di elezioni anticipate e crisi della Lega; la rottura della coalizione, se si aprisse spazio per una destra esplicitamente anti-NATO e anti-euro.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

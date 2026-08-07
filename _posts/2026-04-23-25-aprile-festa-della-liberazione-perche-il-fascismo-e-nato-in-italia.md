@@ -70,6 +70,21 @@ Il 25 aprile non è la festa di chi ha vinto. È la festa di chi ha scelto. Di c
 
 E quei veleni, oggi, non sono affatto scomparsi. Festeggiare significa ricordare chi ci ha liberato ma anche preservare il presente per salvare il futuro nostro e dei nostri figli.
 
+## Domande frequenti
+
+**Da quali fattori nacque il fascismo italiano?**
+
+Il fascismo nacque dall'intreccio di quattro veleni: la violenza dei reduci di guerra (trecentomila uomini senza futuro), la paura della borghesia agraria e industriale davanti al biennio rosso, la complicità dello Stato liberale che non difese la democrazia, e il risentimento per la 'vittoria mutilata' a Versailles. Non fu un accidente della storia, ma il prodotto di forze precise.
+
+**Perché il fascismo fu finanziato dalla borghesia italiana?**
+
+La borghesia agraria e industriale guardava alla Russia con terrore: le fabbriche occupate, le leghe bracciantili, gli scioperi del biennio rosso sembravano l'anticamera della rivoluzione. Finanziò le squadracce, armò i fascisti e li usò come esercito privato contro operai e contadini. Il fascismo non si impose: fu comprato.
+
+**Cosa celebra il 25 aprile, la Festa della Liberazione?**
+
+Il 25 aprile celebra la scelta di chi disse no: partigiani, operai, contadini, studenti, preti, comunisti, cattolici, anarchici che in montagna, in città, nelle fabbriche scelsero di resistere al nazifascismo con le armi e con i ciclostili, pagando spesso con la vita. Non è la festa di chi ha vinto, ma di chi ha scelto di stare dalla parte della dignità.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

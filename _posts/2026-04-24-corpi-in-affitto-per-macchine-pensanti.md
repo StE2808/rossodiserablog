@@ -55,6 +55,21 @@ Le preoccupazioni, però, sono strutturali. Chi stabilisce le condizioni di lavo
 
 Il fondatore Alexander Liteplo, alla critica "è distopico", ha risposto: "lmao yep." È una risposta onesta, ma anche il segnale più inquietante: quando la distopia viene incorporata come estetica, smette di essere un allarme e diventa un brand.
 
+## Domande frequenti
+
+**Cos'è RentAHuman.ai?**
+
+RentAHuman.ai è una piattaforma dove gli agenti di intelligenza artificiale noleggiano esseri umani per compiti fisici che i sistemi automatizzati non sanno ancora svolgere autonomamente: ritirare un pacco, reggere un cartello, consegnare oggetti. Il pagamento avviene in stablecoin.
+
+**Cosa si intende per agentic AI?**
+
+L'agentic AI indica sistemi di intelligenza artificiale che non si limitano a rispondere a domande, ma agiscono autonomamente nel mondo reale: prenotano, acquistano, delegano e gestiscono processi con gradi variabili di supervisione umana.
+
+**Chi tutela i lavoratori assunti da agenti AI su piattaforme come RentAHuman?**
+
+Al momento nessuno: l'agente AI che posta un task bounty non ha responsabilità legale, non ha un datore di lavoro identificabile e non risponde a contratti collettivi. Il lavoratore opera senza tutele, in un modello di gig economy privo di qualsiasi riconoscimento contrattuale.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

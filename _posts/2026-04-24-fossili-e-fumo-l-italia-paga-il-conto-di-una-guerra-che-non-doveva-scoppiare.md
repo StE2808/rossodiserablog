@@ -57,6 +57,21 @@ Il capo economista dell'OCSE, Stefano Scarpetta, ha avvertito che la dipendenza 
 
 Questo è il conto. Non solo di una guerra. Di una visione di un governo di improvvisatori, di prestigiatori, di illusionisti che oramai il popolo italiano ha sgamato.
 
+## Domande frequenti
+
+**Perché le bollette italiane sono più alte di quelle spagnole nel 2026?**
+
+Nel 2026 l'Italia paga oltre 130 €/MWh contro i 44 della Spagna. La differenza è strutturale: la Spagna copre il 60% del fabbisogno con fonti rinnovabili, riducendo la dipendenza dal gas. L'Italia invece ha prorogato il carbone fino al 2038 e ha registrato un calo del 27% nelle nuove installazioni rinnovabili nel 2025.
+
+**Cosa sono Ras Laffan e Ras Tanura e perché contano per l'energia italiana?**
+
+Ras Laffan è il principale hub di GNL del Qatar, colpito dagli attacchi iraniani nel 2026, che ha costretto QatarEnergy a sospendere la produzione. Ras Tanura è la più grande raffineria di Saudi Aramco (550.000 barili/giorno), anch'essa danneggiata. Entrambi rifornivano l'Europa, inclusa l'Italia, con contratti di lungo termine ora a rischio per 3-5 anni.
+
+**Quante famiglie italiane sono in povertà energetica nel 2026?**
+
+Sono 2,7 milioni le famiglie italiane in povertà energetica nel 2026, una cifra destinata ad aumentare con l'esplosione dei prezzi dell'energia seguita agli attacchi agli impianti del Golfo Persico e alla dipendenza italiana dai combustibili fossili.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

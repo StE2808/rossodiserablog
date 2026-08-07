@@ -75,6 +75,21 @@ L’egemonia della sinistra esiste solo per il vuoto cosmico che c’è a destra
 
 La RAI non ha bisogno di colori politici: ha bisogno di competenza, professionalità e rispetto. [Il governo che copre e poi scarica](https://rossodiserablog.it/da-oggi-non-copro-piu-nessuno-il-racconto-racconto-tre-anni-di-governo-disastroso/) si ripete anche in cultura. [Il governo che copre e poi scarica](https://rossodiserablog.it/da-oggi-non-copro-piu-nessuno-il-racconto-racconto-tre-anni-di-governo-disastroso/) si ripete anche in cultura. Fino ad allora, il flop continuerà.
 
+## Domande frequenti
+
+**Cos'è il 'Pucci-gate' della RAI alle Olimpiadi 2026?**
+
+Durante la cerimonia di apertura dei Giochi Olimpici Invernali 2026 di Milano-Cortina, il telecronista RAI Paolo Petrecca non ha riconosciuto Emilio Pucci nel logo olimpico, ribattezzandolo erroneamente 'Fucci'. L'episodio è diventato virale sui social, trasformandosi in un caso mediatico che ha regalato alla RAI una figura barbina davanti al mondo intero.
+
+**Quali sono stati gli ascolti del programma di Pino Insegno in prima serata su RAI?**
+
+Il programma 'Mercante in fiera' condotto da Pino Insegno ha registrato uno share medio sotto il 10% in prima serata, con picchi negativi di appena 1,2 milioni di spettatori, ed è stato chiuso anticipatamente per manifesto insuccesso. I programmi della 'nuova gestione' RAI hanno perso mediamente 2-3 punti di share rispetto alla stagione precedente.
+
+**Esiste davvero l'egemonia culturale della sinistra in RAI secondo l'articolo?**
+
+No. L'articolo sostiene che l'egemonia culturale della sinistra esiste solo per il vuoto cosmico che c'è a destra. Quando la destra ha avuto la possibilità di dimostrare la propria visione culturale, ha scelto telecronisti impreparati per eventi internazionali, programmi nostalgici che il pubblico non chiedeva e nomine basate sulla fedeltà politica anziché sulla competenza. Il pubblico ha risposto votando con il telecomando.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

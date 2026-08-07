@@ -46,6 +46,20 @@ Una flottiglia civile e disarmata viene abbordato in alto mare. Due attivisti so
 
 Questo è il momento in cui il silenzio diventa complicità. Bisogna muoversi — nelle piazze, nei parlamenti, nelle coscienze. Chiedere la liberazione immediata di Ávila e Abukeshek. Chiedere la fine dell’assedio. Chiedere che l’Europa sospenda l’Accordo di Associazione con Israele. La storia non dimentica chi ha visto e taciuto.
 
+## Domande frequenti
+
+**Cosa è successo alla Global Sumud Flotilla?**
+
+Nella notte tra il 29 e il 30 aprile 2026, la marina militare israeliana ha abbordato le imbarcazioni della Global Sumud Flotilla in acque internazionali al largo di Creta, sequestrandone oltre 22 e fermando circa 180 persone. I partecipanti riferiscono di essere stati presi a pugni, calci e trascinati con le mani legate: 34 risultano feriti, 60 hanno avviato uno sciopero della fame. Due attivisti (Thiago Ávila (brasiliano) e Saif Abukeshek (doppia cittadinanza palestinese-spagnola)) restano ancora detenuti.
+
+**Quanti palestinesi sono stati uccisi a Gaza dal 7 ottobre 2023?**
+
+Secondo i dati del Ministero della Salute di Gaza riportati dall'OCHA, tra il 7 ottobre 2023 e il 22 aprile 2026 sono stati uccisi 72.562 palestinesi e 172.320 feriti. Oltre 20.000 di questi morti sono bambini. Su una popolazione di 2,1 milioni, 9 persone su 10 sono state costrette ad abbandonare le proprie case. Più di mezzo milione di persone sta morendo di fame. Un rapporto ONU ha definito la fame come «crimine di guerra», documentando almeno 463 morti per fame tra cui 157 bambini.
+
+**Perché Gaza è la regione con più bambini amputati al mondo?**
+
+Secondo i dati UNICEF, oltre 40.000 bambini hanno riportato lesioni permanenti a causa dei bombardamenti. Migliaia di loro hanno perso una o entrambe le gambe e hanno subito operazioni senza anestesia. Gaza è oggi la regione con il più alto numero di bambini amputati al mondo, un dato che l'ONU e le organizzazioni umanitarie internazionali documentano come conseguenza diretta dell'assedio e dei bombardamenti israeliani.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -56,7 +70,7 @@ Questo è il momento in cui il silenzio diventa complicità. Bisogna muoversi �
       "name": "Cosa è successo alla Global Sumud Flotilla?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Nella notte tra il 29 e il 30 aprile 2026, la marina militare israeliana ha abbordato le imbarcazioni della Global Sumud Flotilla in acque internazionali al largo di Creta, sequestrandone oltre 22 e fermando circa 180 persone. I partecipanti riferiscono di essere stati presi a pugni, calci e trascinati con le mani legate: 34 risultano feriti, 60 hanno avviato uno sciopero della fame. Due attivisti — Thiago Ávila (brasiliano) e Saif Abukeshek (doppia cittadinanza palestinese-spagnola) — restano ancora detenuti."
+        "text": "Nella notte tra il 29 e il 30 aprile 2026, la marina militare israeliana ha abbordato le imbarcazioni della Global Sumud Flotilla in acque internazionali al largo di Creta, sequestrandone oltre 22 e fermando circa 180 persone. I partecipanti riferiscono di essere stati presi a pugni, calci e trascinati con le mani legate: 34 risultano feriti, 60 hanno avviato uno sciopero della fame. Due attivisti (Thiago Ávila (brasiliano) e Saif Abukeshek (doppia cittadinanza palestinese-spagnola)) restano ancora detenuti."
       }
     },
     {
@@ -64,7 +78,7 @@ Questo è il momento in cui il silenzio diventa complicità. Bisogna muoversi �
       "name": "Quanti palestinesi sono stati uccisi a Gaza dal 7 ottobre 2023?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Secondo i dati del Ministero della Salute di Gaza riportati dall’OCHA, tra il 7 ottobre 2023 e il 22 aprile 2026 sono stati uccisi 72.562 palestinesi e 172.320 feriti. Oltre 20.000 di questi morti sono bambini. Su una popolazione di 2,1 milioni, 9 persone su 10 sono state costrette ad abbandonare le proprie case. Più di mezzo milione di persone sta morendo di fame. Un rapporto ONU ha definito la fame come «crimine di guerra», documentando almeno 463 morti per fame tra cui 157 bambini."
+        "text": "Secondo i dati del Ministero della Salute di Gaza riportati dall'OCHA, tra il 7 ottobre 2023 e il 22 aprile 2026 sono stati uccisi 72.562 palestinesi e 172.320 feriti. Oltre 20.000 di questi morti sono bambini. Su una popolazione di 2,1 milioni, 9 persone su 10 sono state costrette ad abbandonare le proprie case. Più di mezzo milione di persone sta morendo di fame. Un rapporto ONU ha definito la fame come «crimine di guerra», documentando almeno 463 morti per fame tra cui 157 bambini."
       }
     },
     {
@@ -72,7 +86,7 @@ Questo è il momento in cui il silenzio diventa complicità. Bisogna muoversi �
       "name": "Perché Gaza è la regione con più bambini amputati al mondo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Secondo i dati UNICEF, oltre 40.000 bambini hanno riportato lesioni permanenti a causa dei bombardamenti. Migliaia di loro hanno perso una o entrambe le gambe e hanno subito operazioni senza anestesia. Gaza è oggi la regione con il più alto numero di bambini amputati al mondo, un dato che l’ONU e le organizzazioni umanitarie internazionali documentano come conseguenza diretta dell’assedio e dei bombardamenti israeliani."
+        "text": "Secondo i dati UNICEF, oltre 40.000 bambini hanno riportato lesioni permanenti a causa dei bombardamenti. Migliaia di loro hanno perso una o entrambe le gambe e hanno subito operazioni senza anestesia. Gaza è oggi la regione con il più alto numero di bambini amputati al mondo, un dato che l'ONU e le organizzazioni umanitarie internazionali documentano come conseguenza diretta dell'assedio e dei bombardamenti israeliani."
       }
     }
   ]

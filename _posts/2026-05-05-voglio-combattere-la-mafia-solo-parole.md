@@ -49,6 +49,21 @@ Questo è il governo dei proclami. Quello che urla “combatto la mafia fin da r
 
 I morti di mafia si commemorano. Gli strumenti per combatterla, invece, si smontano in silenzio. E bla, bla, bla.
 
+## Domande frequenti
+
+**Cosa ha denunciato il Procuratore antimafia Melillo sulla riforma delle intercettazioni?**
+
+Il Procuratore nazionale antimafia Giovanni Melillo ha scritto ai ministri Nordio e Piantedosi per denunciare che la riforma sulle intercettazioni ha prodotto un "obiettivo arretramento della linea di efficacia delle investigazioni in materia di criminalità organizzata e terrorismo". Secondo Melillo, le nuove norme rendono immuni dall'utilizzo delle intercettazioni incrociate quasi tutti i reati dei "colletti bianchi" che collaborano con le organizzazioni criminali.
+
+**Perché la riforma Nordio sulle intercettazioni protegge la mafia?**
+
+Le nuove norme escludono dall'utilizzo delle intercettazioni incrociate i reati dei cosiddetti "colletti bianchi": professionisti, funzionari e imprenditori che collaborano con le organizzazioni criminali. Sono proprio questi i referenti delle mafie del terzo millennio, quelle che infiltrano la pubblica amministrazione e riciclano denaro senza usare violenza diretta. Indebolire le intercettazioni su questi reati significa lasciare senza strumenti le indagini sui livelli più alti delle organizzazioni criminali.
+
+**Cosa ha fatto la presidente della Commissione antimafia Colosimo con la lettera di Melillo?**
+
+La lettera di Melillo è datata 20 aprile 2026, ma la presidente della Commissione antimafia Colosimo non ne ha dato notizia alla commissione per diversi giorni. Un silenzio che, secondo l'articolo, "sa di complicità istituzionale".
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -59,9 +74,7 @@ I morti di mafia si commemorano. Gli strumenti per combatterla, invece, si smont
       "name": "Cosa ha denunciato il Procuratore antimafia Melillo sulla riforma delle intercettazioni?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "## La lettera di Melillo: una certificazione tecnica
-
-Il Procuratore nazionale antimafia Giovanni Melillo ha scritto ai ministri Nordio e Piantedosi per denunciare che la riforma sulle intercettazioni ha prodotto un \"obiettivo arretramento della linea di efficacia delle investigazioni in materia di criminalità organizzata e terrorismo\". Secondo Melillo, le nuove norme rendono immuni dall'utilizzo delle intercettazioni incrociate quasi tutti i reati dei \"colletti bianchi\" che collaborano con le organizzazioni criminali."
+        "text": "Il Procuratore nazionale antimafia Giovanni Melillo ha scritto ai ministri Nordio e Piantedosi per denunciare che la riforma sulle intercettazioni ha prodotto un \"obiettivo arretramento della linea di efficacia delle investigazioni in materia di criminalità organizzata e terrorismo\". Secondo Melillo, le nuove norme rendono immuni dall'utilizzo delle intercettazioni incrociate quasi tutti i reati dei \"colletti bianchi\" che collaborano con le organizzazioni criminali."
       }
     },
     {

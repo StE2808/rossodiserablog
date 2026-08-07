@@ -62,6 +62,25 @@ La scintilla che ha trasformato l’inquietudine locale in rabbia nazionale è s
 **_“L’Albania non è in vendita” non è uno slogan. È una diagnosi: di un governo che ha confuso la sovranità con la liquidità, di un’Europa che guarda altrove purché i confini tengano, di un’informazione italiana che tace perché il silenzio conviene ai suoi referenti politici. Gli albanesi in piazza, invece, hanno già capito tutto._**
 
 
+## Domande frequenti
+
+**Perché gli albanesi protestano contro il resort di Kushner?**
+
+Jared Kushner, tramite il fondo Affinity Partners, punta a costruire un mega-resort da 4 miliardi di dollari sull'isola di Sazan e nella zona umida protetta di Vjosa-Narta, con ruspe già al lavoro senza permessi né valutazione d'impatto ambientale. I manifestanti sono scesi in piazza con lo slogan La nazione non è in vendita.
+
+**Che ruolo ha Giorgia Meloni nella vicenda Albania-Kushner?**
+
+Le relazioni tra Edi Rama e Giorgia Meloni sono definite eccellenti: su questa base è stato costruito l'accordo sui CPR in Albania, ratificato nel 2024, che consente all'Italia di usare le strutture di Gjader e Shengjin come centri di detenzione per migranti. Roma ha bisogno di Tirana come sponda esterna e la stampa italiana tratta la vicenda in sordina.
+
+**Chi finanzia il progetto di Kushner in Albania?**
+
+Il fondo Affinity Partners di Kushner è sostenuto da circa 4,6 miliardi di dollari provenienti dall'Arabia Saudita e da altri fondi sovrani mediorientali. Dietro l'investimento ci sono anche i fratelli Moutaz e Ramez Al-Khayyat del Qatar, che hanno già speso circa 200 milioni di dollari per i terreni, in una logica che richiama gli Accordi di Abramo.
+
+**Perché Vjosa-Narta è un'area da proteggere?**
+
+L'area di Vjosa-Narta ospita oltre 70 specie a rischio di estinzione e più di 200 specie di uccelli, tra cui fenicotteri e pellicani dalmati, e si trova sull'Adriatic Flyway, uno dei corridoi migratori più importanti tra Africa ed Europa. Le acque circostanti sono tra gli ultimi rifugi mediterranei per la foca monaca.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

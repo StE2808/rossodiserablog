@@ -65,6 +65,25 @@ Il messaggio del Papa e' stato netto. Il Giornale, pur nella sua distanza editor
 
 Un milione e duecentomila persone non erano li' per una cerimonia. Erano li' perche' qualcuno, almeno, nomina la pace senza calcolo. In una settimana in cui i cancellieri europei si riunivano senza l'Italia, Netanyahu ignorava Trump, e Trump ignorava il diritto internazionale, quella piazza di Madrid e' stata l'unico luogo al mondo dove si parlava di futuro senza un tornaconto.
 
+## Domande frequenti
+
+**Quanto costa all'Europa la guerra in Ucraina nel 2026?**
+
+Il Parlamento europeo ha approvato un prestito da 90 miliardi di euro a sostegno dell'Ucraina per il biennio 2026-2027. La ricostruzione, secondo il rapporto di Banca Mondiale, ONU e governo ucraino del febbraio 2026, costera' almeno 600 miliardi di dollari in dieci anni, contro i 300 miliardi di beni russi congelati. A questi si aggiungono fino a 800 miliardi del programma ReArm Europe per la difesa comune.
+
+**Cos'e' la Sezione 224 del National Defense Authorization Act?**
+
+Approvata dalla Camera dei Rappresentanti USA il 4 giugno 2026, la Sezione 224 fonde le strutture militari americane e israeliane, in particolare sul fronte delle armi cyber. Secondo il deputato democratico Ro Khanna, e' stato Netanyahu stesso a chiedere ai membri del Congresso di inserirla nella legge di bilancio della difesa.
+
+**Perche' Meloni era assente al vertice UE-Balcani di Tivat?**
+
+Il 5 giugno 2026 Giorgia Meloni ha disertato il vertice UE-Balcani di Tivat, dove erano presenti Macron, Merz e il Regno Unito. La spiegazione ufficiale e' stata un ritardo dovuto alla cerimonia per l'anniversario dei Carabinieri a Reggio Calabria, conclusa con l'annullo filatelico di un francobollo commemorativo. Diversi analisti leggono l'assenza come il sintomo delle fratture interne alla maggioranza sulla politica estera.
+
+**Quante persone hanno accolto Papa Leone XIV a Madrid?**
+
+Il 7 giugno 2026, secondo AGI, Vatican News e Il Sole 24 Ore, oltre un milione e duecentomila persone hanno riempito Plaza de Cibeles e le strade di Madrid per la messa del Corpus Domini celebrata da Papa Leone XIV (Robert Prevost). Un numero descritto come record per l'Europa degli ultimi anni.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

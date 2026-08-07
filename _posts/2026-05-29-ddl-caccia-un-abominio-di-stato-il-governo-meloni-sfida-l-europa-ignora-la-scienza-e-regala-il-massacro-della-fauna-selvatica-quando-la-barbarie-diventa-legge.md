@@ -53,6 +53,25 @@ Sarebbe comodo fermarsi al bersaglio più facile. Ma dietro Lollobrigida c'è Gi
 
 Se esiste un'opposizione degna di questo nome — e una società civile che non si rassegna — questo è il momento di alzare la voce. Non domani. Adesso.
 
+## Domande frequenti
+
+**Che cos'è il DDL caccia del governo Meloni?**
+
+È un disegno di legge promosso dal ministro Lollobrigida che modifica profondamente le regole sulla caccia in Italia. Dopo il passaggio nelle Commissioni congiunte Ambiente e Agricoltura del Senato è peggiorato rispetto alla versione originale, ampliando le specie cacciabili e i luoghi in cui è consentito sparare.
+
+**Perché il DDL caccia viola le direttive europee?**
+
+Nel dicembre scorso la Commissione Europea ha inviato al governo italiano una lettera formale bocciando il testo: secondo Bruxelles il DDL viola le direttive Uccelli e Habitat, i due pilastri della politica europea per la conservazione della natura. Il governo Meloni non ha risposto e ha proseguito comunque.
+
+**Quali specie protette mette a rischio il DDL caccia?**
+
+Il testo inserisce tra le specie cacciabili lo stambecco, protetto da quasi due secoli, e l'oca selvatica, di cui sopravvivono pochi esemplari. Cancella inoltre il lupo dall'elenco delle specie particolarmente protette, aprendo la strada alla sua futura caccia.
+
+**Cosa prevede il DDL caccia sulla caccia in spiaggia e di notte?**
+
+Il DDL apre la caccia nel demanio marittimo, quindi sulle spiagge, consente l'uso di richiami vivi e autorizza sistemi di puntamento notturno vietati dalla Convenzione di Berna. Introduce anche un divieto di ostacolare o rallentare l'attività venatoria, che mira a criminalizzare il dissenso pacifico.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

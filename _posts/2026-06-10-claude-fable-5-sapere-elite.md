@@ -52,6 +52,21 @@ E qui devo fare una confessione, perché l'ironia della situazione merita di ess
 
 Non è nostalgia del mondo di prima, e nemmeno un invito a boicottare. È una domanda che vorrei restasse aperta anche dopo che avrete chiuso questa pagina: se l'intelligenza artificiale è davvero la tecnologia che ridisegnerà tutto, [dal lavoro al potere globale](/il-potere-globale-delle-tecnologie-oltre-le-urne-verso-il-co/), possiamo permetterci che l'accesso alla sua versione migliore dipenda dal portafoglio o da una cooptazione? Il sapere che l'ha generata non aveva listino. Chissà se prima o poi qualcuno, a quella biblioteca, riconoscerà il diritto di entrare gratis. In fondo i libri li abbiamo portati noi.
 
+## Domande frequenti
+
+**Che cos'è Claude Fable 5?**
+
+Claude Fable 5 è il modello di intelligenza artificiale rilasciato da Anthropic il 9 giugno 2026. È la versione con filtri di sicurezza di Claude Mythos 5, lo stesso modello senza restrizioni riservato a partner selezionati. È il modello più potente mai reso disponibile al pubblico, al prezzo di 10 dollari per milione di token in input e 50 in output.
+
+**Perché Claude Fable 5 è disponibile negli abbonamenti solo fino al 22 giugno 2026?**
+
+Anthropic ha incluso Fable 5 nei piani Pro, Max, Team ed Enterprise solo dal 9 al 22 giugno 2026, citando l'incertezza sulla capacità di calcolo. Dal 23 giugno il modello viene rimosso dagli abbonamenti e richiede crediti di utilizzo aggiuntivi, mentre resta pienamente disponibile via API per chi paga a consumo.
+
+**Che differenza c'è tra Claude Fable 5 e Claude Mythos 5?**
+
+Sono lo stesso identico modello: cambiano solo le protezioni. Fable 5 ha classificatori di sicurezza che dirottano le richieste su cybersecurity, biologia e chimica verso il modello precedente, Opus 4.8. Mythos 5 ha queste protezioni rimosse ed è riservato a partner di cybersecurity e infrastrutture critiche selezionati tramite Project Glasswing, in collaborazione con il governo statunitense.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

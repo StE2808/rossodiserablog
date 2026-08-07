@@ -41,41 +41,59 @@ Eppure il dibattito pubblico va in direzione opposta: la meritocrazia ha realizz
 
 Ma se la gara parte da posizioni diverse — [come la scimmia di Forbes che accaparra tutte le banane](https://rossodiserablog.it/la-scimmia-di-forbes/) — il merito non misura il valore delle persone: misura solo la distanza dal traguardo. Non a caso la parola “merito” non compare nella Costituzione italiana. I Padri e le Madri costituenti sapevano che la giustizia viene prima del primato: l’articolo 3 non chiede a tutti di correre ugualmente veloci, ma di partire dallo stesso punto. È empatia, prima ancora che diritto. È il riconoscimento che chi è caduto non è caduto per colpa sua — e che una democrazia si misura da come tratta chi è rimasto indietro, non da quanto premia chi è già avanti.
 
-<script type=”application/ld+json”>
+## Domande frequenti
+
+**Che cos'è l'aporofobia e chi ha coniato il termine?**
+
+L'aporofobia è l'odio, il rifiuto e il disprezzo verso chi non ha risorse economiche. Il termine fu coniato negli anni Novanta dalla filosofa spagnola Adela Cortina per distinguere questa forma di discriminazione dalla xenofobia o dal razzismo: il vero discrimine, spesso, non è l'etnia o la provenienza, ma la povertà stessa.
+
+**Come la meritocrazia contribuisce alla colpevolizzazione dei poveri?**
+
+Secondo l'articolo, la meritocrazia ha realizzato la colpevolizzazione del povero trasformandolo in 'demeritevole' (qualcuno che si merita la propria povertà e la conseguente espulsione sociale. Ma se la gara parte da posizioni diverse) [come la scimmia di Forbes che accaparra tutte le banane](https://rossodiserablog.it/la-scimmia-di-forbes/), il merito non misura il valore delle persone: misura solo la distanza dal traguardo. Questa cultura della colpa ha conquistato trasversalmente partiti, istituzioni e persino parte della sinistra.
+
+**Perché la Costituzione italiana non contiene la parola 'merito'?**
+
+I Padri e le Madri costituenti hanno deliberatamente escluso il termine 'merito' dalla Costituzione. L'articolo 3 non chiede a tutti di correre ugualmente veloci, ma di partire dallo stesso punto. La giustizia viene prima del primato: una democrazia si misura da come tratta chi è rimasto indietro, non da quanto premia chi è già avanti.
+
+**Qual è l'antidoto all'aporofobia secondo la giurista Virginia Veludo?**
+
+Nel suo saggio pubblicato su Costituzionalismo.it, Virginia Veludo sostiene che l'unico antidoto all'aporofobia è la solidarietà orizzontale e attuale, non il suo scarico sulle spalle delle generazioni future. La paura della povertà dovrebbe essere lenita dallo Stato attraverso la garanzia della sicurezza sociale, non istigata a fini politici.
+
+<script type="application/ld+json">
 {
-  “@context”: “https://schema.org”,
-  “@type”: “FAQPage”,
-  “mainEntity”: [
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      “@type”: “Question”,
-      “name”: “Che cos’è l’aporofobia e chi ha coniato il termine?”,
-      “acceptedAnswer”: {
-        “@type”: “Answer”,
-        “text”: “L’aporofobia è l’odio, il rifiuto e il disprezzo verso chi non ha risorse economiche. Il termine fu coniato negli anni Novanta dalla filosofa spagnola Adela Cortina per distinguere questa forma di discriminazione dalla xenofobia o dal razzismo: il vero discrimine, spesso, non è l’etnia o la provenienza, ma la povertà stessa.”
+      "@type": "Question",
+      "name": "Che cos'è l'aporofobia e chi ha coniato il termine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'aporofobia è l'odio, il rifiuto e il disprezzo verso chi non ha risorse economiche. Il termine fu coniato negli anni Novanta dalla filosofa spagnola Adela Cortina per distinguere questa forma di discriminazione dalla xenofobia o dal razzismo: il vero discrimine, spesso, non è l'etnia o la provenienza, ma la povertà stessa."
       }
     },
     {
-      “@type”: “Question”,
-      “name”: “Come la meritocrazia contribuisce alla colpevolizzazione dei poveri?”,
-      “acceptedAnswer”: {
-        “@type”: “Answer”,
-        “text”: “Secondo l’articolo, la meritocrazia ha realizzato la colpevolizzazione del povero trasformandolo in ‘demeritevole’ — qualcuno che si merita la propria povertà e la conseguente espulsione sociale. Ma se la gara parte da posizioni diverse — [come la scimmia di Forbes che accaparra tutte le banane](https://rossodiserablog.it/la-scimmia-di-forbes/) — il merito non misura il valore delle persone: misura solo la distanza dal traguardo. Questa cultura della colpa ha conquistato trasversalmente partiti, istituzioni e persino parte della sinistra.”
+      "@type": "Question",
+      "name": "Come la meritocrazia contribuisce alla colpevolizzazione dei poveri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secondo l'articolo, la meritocrazia ha realizzato la colpevolizzazione del povero trasformandolo in 'demeritevole' (qualcuno che si merita la propria povertà e la conseguente espulsione sociale. Ma se la gara parte da posizioni diverse) [come la scimmia di Forbes che accaparra tutte le banane](https://rossodiserablog.it/la-scimmia-di-forbes/), il merito non misura il valore delle persone: misura solo la distanza dal traguardo. Questa cultura della colpa ha conquistato trasversalmente partiti, istituzioni e persino parte della sinistra."
       }
     },
     {
-      “@type”: “Question”,
-      “name”: “Perché la Costituzione italiana non contiene la parola ‘merito’?”,
-      “acceptedAnswer”: {
-        “@type”: “Answer”,
-        “text”: “I Padri e le Madri costituenti hanno deliberatamente escluso il termine ‘merito’ dalla Costituzione. L’articolo 3 non chiede a tutti di correre ugualmente veloci, ma di partire dallo stesso punto. La giustizia viene prima del primato: una democrazia si misura da come tratta chi è rimasto indietro, non da quanto premia chi è già avanti.”
+      "@type": "Question",
+      "name": "Perché la Costituzione italiana non contiene la parola 'merito'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I Padri e le Madri costituenti hanno deliberatamente escluso il termine 'merito' dalla Costituzione. L'articolo 3 non chiede a tutti di correre ugualmente veloci, ma di partire dallo stesso punto. La giustizia viene prima del primato: una democrazia si misura da come tratta chi è rimasto indietro, non da quanto premia chi è già avanti."
       }
     },
     {
-      “@type”: “Question”,
-      “name”: “Qual è l’antidoto all’aporofobia secondo la giurista Virginia Veludo?”,
-      “acceptedAnswer”: {
-        “@type”: “Answer”,
-        “text”: “Nel suo saggio pubblicato su Costituzionalismo.it, Virginia Veludo sostiene che l’unico antidoto all’aporofobia è la solidarietà orizzontale e attuale — non il suo scarico sulle spalle delle generazioni future. La paura della povertà dovrebbe essere lenita dallo Stato attraverso la garanzia della sicurezza sociale, non istigata a fini politici.”
+      "@type": "Question",
+      "name": "Qual è l'antidoto all'aporofobia secondo la giurista Virginia Veludo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nel suo saggio pubblicato su Costituzionalismo.it, Virginia Veludo sostiene che l'unico antidoto all'aporofobia è la solidarietà orizzontale e attuale, non il suo scarico sulle spalle delle generazioni future. La paura della povertà dovrebbe essere lenita dallo Stato attraverso la garanzia della sicurezza sociale, non istigata a fini politici."
       }
     }
   ]

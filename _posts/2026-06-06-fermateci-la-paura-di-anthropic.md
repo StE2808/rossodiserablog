@@ -103,6 +103,25 @@ Aiutateci a capire, dicono i creatori al mondo. Aiutatevi da soli, risponde la c
 Forse, prima ancora di chiederci se la macchina è pericolosa, dovremmo chiederci perché abbiamo smesso di pretendere di decidere. La democrazia è lenta, imperfetta, faticosa. Ma è l'unico posto in cui le mani, invece di lavarsele, si alzano per votare.
 
 
+## Domande frequenti
+
+**Perché Anthropic chiede di rallentare lo sviluppo dell'intelligenza artificiale?**
+
+Nel documento «When AI builds itself» del 2026 Anthropic sostiene che, di fronte al recursive self-improvement (l'IA che progetta i propri successori), la cosa giusta sarebbe un rallentamento verificabile e globale. L'azienda ammette però che i propri incentivi possono confliggere con il bene comune, e l'avvertimento arriva nella stessa settimana in cui sfiora i mille miliardi di valutazione e punta alla quotazione in borsa.
+
+**Cos'è il recursive self-improvement dell'intelligenza artificiale?**
+
+È la capacità di un sistema di IA di progettare e costruire in autonomia il proprio successore, senza intervento umano significativo. Secondo Anthropic non è ancora realtà, ma è vicino: già oltre l'80% del codice dell'azienda è scritto dalla sua IA, Claude, con una produttività otto volte superiore al 2024.
+
+**Cosa dice l'enciclica Magnifica humanitas di Papa Leone XIV sull'IA?**
+
+Pubblicata il 25 maggio 2026, è la prima enciclica del primo papa americano e affronta l'intelligenza artificiale e la dignità della persona. Mette in guardia su sofferenza e disoccupazione di massa e denuncia che il potere tecnologico è ormai «prevalentemente privato», in mano a pochi attori transnazionali difficili da governare.
+
+**Chi controlla oggi lo sviluppo dell'intelligenza artificiale?**
+
+Quasi nessuna autorità pubblica: le decisioni restano nelle mani di poche aziende private come Anthropic, valutata vicino ai mille miliardi di dollari. È il vuoto democratico al centro della questione: una scelta che riguarda tutti viene presa da pochi, senza un reale controllo collettivo. Il freno, semmai arriverà, sarà politico prima che tecnico.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

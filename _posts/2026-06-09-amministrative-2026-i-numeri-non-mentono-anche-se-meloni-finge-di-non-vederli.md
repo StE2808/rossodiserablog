@@ -49,6 +49,21 @@ Come ha detto il segretario del Pd siciliano Anthony Barbagallo, il centrodestra
 
 Il quadro è chiaro: il centrosinistra unito vince, o comunque cresce. Quello che non cresce è la capacità della destra di fare i conti. Ma almeno su questo, la calcolatrice di Schlein funziona benissimo.
 
+## Domande frequenti
+
+**Chi ha vinto le elezioni amministrative 2026 ai ballottaggi?**
+
+Sui 18 capoluoghi al voto, secondo le elaborazioni di YouTrend il centrosinistra passa da 8 a 10 capoluoghi governati, mentre il centrodestra sale da 5 a 6. Il campo largo guadagna 2 capoluoghi, la destra di governo ne guadagna 1.
+
+**Cosa ha dichiarato Giorgia Meloni dopo i ballottaggi del 7-8 giugno 2026?**
+
+Meloni ha scritto sui social che i risultati confermano la forza del centrodestra, la solidità della coalizione e il suo radicamento nei territori. Una lettura smentita dai numeri reali, che vedono crescere il campo largo più della destra di governo.
+
+**Dove ha vinto il campo largo alle amministrative 2026?**
+
+Tra i risultati simbolo: a Somma Vesuviana è stata eletta la prima donna sindaco con una coalizione di Pd, M5S, CDU, PSI e civiche; a Chieti Giovanni Legnini ha vinto con il 52,51%; ad Agrigento il centrosinistra ha conquistato una città storicamente difficile. In Sicilia il centrodestra è passato da undici comuni governati a quattro.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

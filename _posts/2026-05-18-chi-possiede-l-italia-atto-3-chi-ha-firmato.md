@@ -111,6 +111,20 @@ Il resto è comunicazione.
 > *"Povera patria. Schiacciata dagli abusi del potere di gente infame, che non sa cos'è il pudore, si credono potenti e gli va bene quello che fanno e tutto gli appartiene."*
 > — Franco Battiato, *Povera Patria*, 1991
 
+## Domande frequenti
+
+**Cos'è il golden power italiano e quando viene usato?**
+
+Il golden power è uno strumento legislativo italiano (in vigore dal 2012, rafforzato nel 2020) che permette al governo di bloccare, condizionare o imporre requisiti alle acquisizioni di investitori stranieri in settori strategici: difesa, energia, telecomunicazioni, infrastrutture. Può essere usato per vietare operazioni, imporre condizioni o (come avvenuto sotto il governo Meloni) per autorizzare formalmente gli ingressi stranieri.
+
+**Come ha usato il governo Meloni il golden power nelle aziende strategiche?**
+
+Il governo Meloni ha usato il golden power principalmente per autorizzare operazioni straniere: gennaio 2024 per approvare la vendita della rete fissa TIM al fondo americano KKR (nasce FiberCop, luglio 2024); settembre 2024 per consentire a BlackRock di salire oltre il 3% in Leonardo (azienda di difesa). Al contrario, non ha utilizzato il golden power quando Crédit Agricole ha raggiunto il 20% di Banco BPM nel 2025.
+
+**Qual è la differenza tra investimento produttivo e acquisizione estrattiva?**
+
+Un investimento produttivo crea nuova capacità: una fabbrica, brevetti, posti di lavoro. Il capitale entra e rimane incorporato nell'economia reale. Un'acquisizione estrattiva compra capacità già esistente: il compratore acquista dal venditore precedente sul mercato secondario (senza portare un euro all'azienda) e poi estrae dividendi, canoni e profitti. BlackRock che compra il 5% di Eni in borsa è un'acquisizione estrattiva: non crea nulla, estrae rendite garantite dalla tariffa in bolletta.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -121,7 +135,7 @@ Il resto è comunicazione.
       "name": "Cos'è il golden power italiano e quando viene usato?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il golden power è uno strumento legislativo italiano (in vigore dal 2012, rafforzato nel 2020) che permette al governo di bloccare, condizionare o imporre requisiti alle acquisizioni di investitori stranieri in settori strategici: difesa, energia, telecomunicazioni, infrastrutture. Può essere usato per vietare operazioni, imporre condizioni o — come avvenuto sotto il governo Meloni — per autorizzare formalmente gli ingressi stranieri."
+        "text": "Il golden power è uno strumento legislativo italiano (in vigore dal 2012, rafforzato nel 2020) che permette al governo di bloccare, condizionare o imporre requisiti alle acquisizioni di investitori stranieri in settori strategici: difesa, energia, telecomunicazioni, infrastrutture. Può essere usato per vietare operazioni, imporre condizioni o (come avvenuto sotto il governo Meloni) per autorizzare formalmente gli ingressi stranieri."
       }
     },
     {

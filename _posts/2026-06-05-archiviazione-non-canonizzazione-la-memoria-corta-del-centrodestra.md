@@ -58,6 +58,25 @@ Un'archiviazione dice che non c'era abbastanza per processare qualcuno per un re
 Il fango, in questa storia, non è stato gettato dalle procure. È stato sedimentato dai fatti.
 
 
+## Domande frequenti
+
+**L'archiviazione di Firenze del 2026 assolve Berlusconi e Dell'Utri?**
+
+No. L'archiviazione del gip di Firenze riguarda solo l'ipotesi di un coinvolgimento diretto di Berlusconi e Dell'Utri nella programmazione delle stragi del 1993. Dice che mancano elementi per processare su quel profilo specifico, non che i due fossero innocenti: non cancella alcuna condanna già definitiva.
+
+**Per cosa è stato condannato Marcello Dell'Utri?**
+
+Marcello Dell'Utri è stato condannato in via definitiva dalla Cassazione nel 2014 a sette anni di reclusione per concorso esterno in associazione mafiosa. La sentenza ha stabilito che fu il mediatore tra Berlusconi e Cosa Nostra. E' res iudicata: il reato e la condanna restano.
+
+**Cosa dice la Cassazione sulla Trattativa Stato-mafia riguardo a Berlusconi?**
+
+Le motivazioni della sentenza della Cassazione del 2023 sulla Trattativa Stato-mafia annotano che Silvio Berlusconi era al corrente dei contatti tra Dell'Utri ed esponenti di vertice della mafia. E' una valutazione espressa dalla Suprema Corte all'interno di una sentenza assolutoria.
+
+**Perché molti processi a Berlusconi non si sono conclusi nel merito?**
+
+Molte accuse sono evaporate non perché infondate, ma a causa di leggi ad personam varate dal suo stesso governo (lodo Alfano, lodo Schifani, modifica delle rogatorie internazionali, accorciamento dei termini di prescrizione), che hanno neutralizzato i processi prima della conclusione nel merito.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

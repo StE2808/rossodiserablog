@@ -61,6 +61,24 @@ Il progetto, se di progetto si vuole parlare, non ha bisogno di riunioni segrete
 
 Come scriveva Russell, con il cinismo del testimone consapevole: "la critica seria al potere diventerà psicologicamente impossibile. Non perché vietata. Ma perché impensabile".
 
+## Domande frequenti
+
+**Cosa teorizzava H.G. Wells in The Open Conspiracy del 1928?**
+
+In The Open Conspiracy: Blue Prints for a World Revolution (1928) H.G. Wells teorizzò la necessità di una riorganizzazione mondiale guidata da un'élite illuminata. La cospirazione era aperta e dichiarata, scritta nero su bianco: chi la leggeva e non agiva era già considerato consenziente.
+
+**Cosa scrisse Bertrand Russell sul controllo psicologico delle masse?**
+
+In The Impact of Science on Society (1952) il filosofo e premio Nobel Bertrand Russell descrisse come i progressi in fisiologia e psicologia avrebbero dato ai governi un controllo sull'individualità superiore a quello dei regimi totalitari, attraverso dieta, iniezioni e ingiunzioni fin dalla prima infanzia, fino a rendere la critica seria al potere psicologicamente impossibile.
+
+**Cos'è il sistema a doppio binario descritto nell'articolo?**
+
+È una struttura in cui una classe dirigente transnazionale si sottrae progressivamente alle regole comuni (fiscali, giudiziarie, sociali) mentre il corpo sociale è soggetto a normative sempre più capillari. Il decreto Meloni del 2022 che ha introdotto il reato penale per i rave party ne è un esempio: si criminalizza il dissenso popolare mentre restano impunite le concentrazioni di potere e privilegio.
+
+**La tesi dell'articolo è una teoria del complotto?**
+
+No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,7 +105,7 @@ Come scriveva Russell, con il cinismo del testimone consapevole: "la critica ser
       "name": "Cos'è il sistema a doppio binario descritto nell'articolo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "È una struttura in cui una classe dirigente transnazionale si sottrae progressivamente alle regole comuni — fiscali, giudiziarie, sociali — mentre il corpo sociale è soggetto a normative sempre più capillari. Il decreto Meloni del 2022 che ha introdotto il reato penale per i rave party ne è un esempio: si criminalizza il dissenso popolare mentre restano impunite le concentrazioni di potere e privilegio."
+        "text": "È una struttura in cui una classe dirigente transnazionale si sottrae progressivamente alle regole comuni (fiscali, giudiziarie, sociali) mentre il corpo sociale è soggetto a normative sempre più capillari. Il decreto Meloni del 2022 che ha introdotto il reato penale per i rave party ne è un esempio: si criminalizza il dissenso popolare mentre restano impunite le concentrazioni di potere e privilegio."
       }
     },
     {
@@ -95,7 +113,7 @@ Come scriveva Russell, con il cinismo del testimone consapevole: "la critica ser
       "name": "La tesi dell'articolo è una teoria del complotto?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano — pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile."
+        "text": "No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile."
       }
     }
   ]

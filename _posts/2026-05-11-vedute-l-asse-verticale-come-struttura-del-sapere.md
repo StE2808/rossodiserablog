@@ -37,6 +37,21 @@ Pascal lo coglie con precisione chirurgica: l'uomo non è né angelo né bestia,
 
 Da leggere subito e tutto d'un fiato.
 
+## Domande frequenti
+
+**Chi è Claudia Gori e di cosa parla la raccolta Vedute?**
+
+Claudia Gori è una poetessa italiana contemporanea. Vedute: l'asse verticale come struttura del sapere è la sua nuova raccolta poetica, che indaga il sapere come tensione verticale tra fondamento e superficie, tra il corpo che radica l'uomo alla terra e l'intelletto che lo proietta oltre se stesso.
+
+**Cosa significa che il sapere ha un asse verticale?**
+
+Significa che conoscere non è mai orizzontale: ogni atto cognitivo presuppone una direzione, verso il fondamento o verso la superficie. Il soggetto conoscente abita uno spazio intermedio in tensione permanente tra i due poli, come descrisse Platone nella Repubblica con l'ascesa dalla caverna alla luce.
+
+**Quale filosofo cita l'articolo per spiegare la verticalità del sapere?**
+
+L'articolo richiama Platone, che nella Repubblica costruisce la paideia come ascesa dal sensibile all'intelligibile, e Blaise Pascal, per cui l'uomo non è né angelo né bestia: la conoscenza è sempre un equilibrio instabile, una verticale che oscilla tra i due poli.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

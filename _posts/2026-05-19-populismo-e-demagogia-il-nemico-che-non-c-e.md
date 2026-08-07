@@ -39,6 +39,24 @@ Ma la realtà è più semplice e più crudele: chi non ha risposte indica sempre
 
 Chi blocca un'autostrada o sale su un gommone sgonfio non è il problema di questo paese. Il problema è chi, dal palco e dal governo, trasforma la solidarietà in reato e la disumanità in programma.
 
+## Domande frequenti
+
+**Che cosa si intende per populismo in questo articolo?**
+
+Il populismo è quella strategia politica che trasforma la frustrazione collettiva (reale e legittima) in odio verso un capro espiatorio comodo: l'immigrato, chi protesta, chi è diverso. Non propone soluzioni ai problemi concreti, ma usa la paura come unico collante politico.
+
+**Perché Salvini ha attaccato chi manifestava per la Global Sumud Flotilla?**
+
+Salvini e i suoi hanno deriso le piazze italiane che si sono mobilitate in solidarietà con la Global Sumud Flotilla, la flottiglia civile diretta verso Gaza. È il copione classico del populismo: trasformare il coraggio civile e l'indignazione morale in segno di debolezza, per distogliere l'attenzione dalle risposte politiche che mancano.
+
+**Qual è la differenza tra populismo e demagogia?**
+
+Il populismo è uno stile politico che divide la società tra popolo puro e nemici interni. La demagogia è il mezzo retorico con cui lo si pratica: si sfruttano le paure, si semplificano i problemi complessi, si indica un capro espiatorio. Salvini li usa in combinazione: la retorica demagogica al servizio di una politica populista che non ha risposte economiche reali.
+
+**Chi è la Global Sumud Flotilla?**
+
+La Global Sumud Flotilla è la flottiglia civile internazionale che ha ripreso il mare verso Gaza in segno di solidarietà con la popolazione palestinese, mentre Israele continuava la sua operazione militare. Le piazze italiane che la sostengono sono diventate bersaglio della retorica populista di Salvini.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -49,7 +67,7 @@ Chi blocca un'autostrada o sale su un gommone sgonfio non è il problema di ques
       "name": "Che cosa si intende per populismo in questo articolo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il populismo è quella strategia politica che trasforma la frustrazione collettiva — reale e legittima — in odio verso un capro espiatorio comodo: l'immigrato, chi protesta, chi è diverso. Non propone soluzioni ai problemi concreti, ma usa la paura come unico collante politico."
+        "text": "Il populismo è quella strategia politica che trasforma la frustrazione collettiva (reale e legittima) in odio verso un capro espiatorio comodo: l'immigrato, chi protesta, chi è diverso. Non propone soluzioni ai problemi concreti, ma usa la paura come unico collante politico."
       }
     },
     {

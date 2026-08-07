@@ -78,6 +78,24 @@ L’obiettivo dichiarato della strategia della tensione era instillare paura nel
 
 In sintesi, emerge chiaro un quadro in cui l’Italia, in cambio di aiuti economici e protezione militare, accettò una penetrante ingerenza americana che, attraverso i servizi segreti e il finanziamento dell’estremismo di destra, contribuì a una stagione di terrore che costò la vita a almeno 150 persone, nel tentativo di condizionare la democrazia italiana in senso anticomunista e che ancora oggi ci portiamo dietro, una eco ridondante che trova facile applicazione negli slogan dei fautori consapevoli o inconsapevoli di questa attuale politica di governo. L’ignoranza, quando in buona fede,  indotta a suon di miliardi di dollari o il dolo per tornaconto diretto o per il mantenimento di posizione, hanno ridotto questo Parse a servo sciocco e pure povero, senza considerare gli ultimi eventi che minano persino la nostra sopravvivenza.
 
+## Domande frequenti
+
+**Che cos'era il Piano Demagnetize e quando fu elaborato?**
+
+Il Piano Demagnetize era un programma segreto americano elaborato nel 1952 con l'obiettivo di ridurre l'influenza dei partiti comunisti in Italia e Francia, specialmente nei sindacati. Un documento top secret dell'epoca rivela che i governi italiano e francese non dovevano essere informati del piano, poiché interferiva chiaramente con la loro sovranità nazionale.
+
+**Quanti attentati si contarono in Italia negli anni della strategia della tensione e di che matrice erano?**
+
+Secondo il decreto del giudice Fiorenza Giorgi, dal 1969 al 1975 si contano 4.584 attentati, l'83% dei quali di matrice della destra eversiva, con 113 morti (di cui 50 vittime delle stragi) e 351 feriti.
+
+**Qual era il legame tra la CIA e le stragi italiane degli anni Settanta?**
+
+Il capitano della CIA David Carrett aveva appreso in anticipo le date degli attentati precedenti Piazza Fontana dalla collaborazione con Ordine Nuovo, ma non allertò mai le autorità italiane. Secondo le testimonianze del pentito Carlo Digilio, molti studiosi parlano di Piazza Fontana come 'strage atlantica di Stato'. Roberto Scarpinato, ex magistrato e senatore, ha dichiarato nel 2024 che dalle ultime indagini sulla strage di Brescia è emerso il coinvolgimento dei servizi segreti dell'esercito americano.
+
+**La strategia della tensione raggiunse il suo obiettivo di fermare il PCI?**
+
+Paradossalmente no. Lo storico Giovanni Sabatucci ha rilevato che negli anni delle maggiori stragi, tra il 1972 e il 1976, il PCI passò dal 27% al 34,4% dei voti. La strage di Bologna del 1980 avvenne addirittura quando l'avanzata comunista aveva già cessato di essere una minaccia elettorale.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,10 +103,10 @@ In sintesi, emerge chiaro un quadro in cui l’Italia, in cambio di aiuti econom
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Che cos’era il Piano Demagnetize e quando fu elaborato?",
+      "name": "Che cos'era il Piano Demagnetize e quando fu elaborato?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il Piano Demagnetize era un programma segreto americano elaborato nel 1952 con l’obiettivo di ridurre l’influenza dei partiti comunisti in Italia e Francia, specialmente nei sindacati. Un documento top secret dell’epoca rivela che i governi italiano e francese non dovevano essere informati del piano, poiché interferiva chiaramente con la loro sovranità nazionale."
+        "text": "Il Piano Demagnetize era un programma segreto americano elaborato nel 1952 con l'obiettivo di ridurre l'influenza dei partiti comunisti in Italia e Francia, specialmente nei sindacati. Un documento top secret dell'epoca rivela che i governi italiano e francese non dovevano essere informati del piano, poiché interferiva chiaramente con la loro sovranità nazionale."
       }
     },
     {
@@ -96,7 +114,7 @@ In sintesi, emerge chiaro un quadro in cui l’Italia, in cambio di aiuti econom
       "name": "Quanti attentati si contarono in Italia negli anni della strategia della tensione e di che matrice erano?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Secondo il decreto del giudice Fiorenza Giorgi, dal 1969 al 1975 si contano 4.584 attentati, l’83% dei quali di matrice della destra eversiva, con 113 morti (di cui 50 vittime delle stragi) e 351 feriti."
+        "text": "Secondo il decreto del giudice Fiorenza Giorgi, dal 1969 al 1975 si contano 4.584 attentati, l'83% dei quali di matrice della destra eversiva, con 113 morti (di cui 50 vittime delle stragi) e 351 feriti."
       }
     },
     {
@@ -104,7 +122,7 @@ In sintesi, emerge chiaro un quadro in cui l’Italia, in cambio di aiuti econom
       "name": "Qual era il legame tra la CIA e le stragi italiane degli anni Settanta?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il capitano della CIA David Carrett aveva appreso in anticipo le date degli attentati precedenti Piazza Fontana dalla collaborazione con Ordine Nuovo, ma non allertò mai le autorità italiane. Secondo le testimonianze del pentito Carlo Digilio, molti studiosi parlano di Piazza Fontana come ‘strage atlantica di Stato’. Roberto Scarpinato, ex magistrato e senatore, ha dichiarato nel 2024 che dalle ultime indagini sulla strage di Brescia è emerso il coinvolgimento dei servizi segreti dell’esercito americano."
+        "text": "Il capitano della CIA David Carrett aveva appreso in anticipo le date degli attentati precedenti Piazza Fontana dalla collaborazione con Ordine Nuovo, ma non allertò mai le autorità italiane. Secondo le testimonianze del pentito Carlo Digilio, molti studiosi parlano di Piazza Fontana come 'strage atlantica di Stato'. Roberto Scarpinato, ex magistrato e senatore, ha dichiarato nel 2024 che dalle ultime indagini sulla strage di Brescia è emerso il coinvolgimento dei servizi segreti dell'esercito americano."
       }
     },
     {
@@ -112,7 +130,7 @@ In sintesi, emerge chiaro un quadro in cui l’Italia, in cambio di aiuti econom
       "name": "La strategia della tensione raggiunse il suo obiettivo di fermare il PCI?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paradossalmente no. Lo storico Giovanni Sabatucci ha rilevato che negli anni delle maggiori stragi, tra il 1972 e il 1976, il PCI passò dal 27% al 34,4% dei voti. La strage di Bologna del 1980 avvenne addirittura quando l’avanzata comunista aveva già cessato di essere una minaccia elettorale."
+        "text": "Paradossalmente no. Lo storico Giovanni Sabatucci ha rilevato che negli anni delle maggiori stragi, tra il 1972 e il 1976, il PCI passò dal 27% al 34,4% dei voti. La strage di Bologna del 1980 avvenne addirittura quando l'avanzata comunista aveva già cessato di essere una minaccia elettorale."
       }
     }
   ]

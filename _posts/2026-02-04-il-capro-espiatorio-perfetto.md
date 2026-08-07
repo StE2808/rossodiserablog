@@ -54,6 +54,17 @@ Anarchico a ventidue anni, mentre servi ai tavoli. Non militante, non organizzat
 
 Perché quando la narrazione ha bisogno di un nemico, i dettagli non contano. Conta solo trovare qualcuno da additare, prima che l'imbarazzo del vuoto diventi troppo evidente. È la stessa [sindrome del nemico interno](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/) già vista a Pisa con gli studenti pro-Palestina: un'etichetta, e il cittadino diventa minaccia. E il meccanismo funziona grazie anche all'[aporofobia](https://rossodiserablog.it/aporofobia-quando-la-poverta-diventa-colpa/): chi non ha potere, chi non ha una rete, è sempre il bersaglio più comodo.
 
+## Domande frequenti
+
+**Chi è stato arrestato dopo i disordini di Torino e qual è il suo profilo?**
+
+Dopo i disordini di sabato a Torino, le autorità hanno arrestato un ragazzo di 22 anni, cameriere, originario di Arcidosso, piccolo centro di circa mille abitanti in provincia di Grosseto. Il giovane non ha alcun precedente penale, non è mai stato coinvolto in tifoserie organizzate né in movimenti politici. È stato etichettato come 'anarchico' nonostante l'assenza di qualsiasi storia di militanza.
+
+**Perché l'articolo mette in dubbio la credibilità di questo arresto?**
+
+L'articolo solleva dubbi sulla logica dell'identificazione: un cameriere proveniente da un borgo toscano di mille anime, senza precedenti, senza schedature, senza appartenenza a gruppi organizzati, viene trasformato in 'pericoloso sovversivo'. La vicenda viene letta come la costruzione di un capro espiatorio necessario al governo per mostrare un volto da dare in pasto all'opinione pubblica dopo i disordini.
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
