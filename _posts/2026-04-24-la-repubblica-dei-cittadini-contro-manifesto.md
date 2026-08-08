@@ -43,7 +43,7 @@ tags:
 
 9. **L'indulgenza per chi si espone alla vita pubblica è sacrosanta, ma vale per tutti.** Vale per il politico che sbaglia una parola, vale per il precario che sbaglia un turno, vale per la donna che denuncia e non viene creduta. L'indulgenza selettiva verso l'élite non è tolleranza, è privilegio.
 
-10. **La depoliticizzazione dell'esistenza ci sta uccidendo.** Chi oggi dice "non occuparti di politica, occupati di te stesso" sta facendo politica — è la stessa logica che alimenta [la sindrome del nemico interno](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/) —, la politica di chi vince finché gli altri guardano altrove. La vita intima e la vita pubblica non sono separabili: chi ti vuole isolato ti vuole più debole.
+10. **La depoliticizzazione dell'esistenza ci sta uccidendo.** Chi oggi dice "non occuparti di politica, occupati di te stesso" sta facendo politica (è la stessa logica che alimenta [la sindrome del nemico interno](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/)), la politica di chi vince finché gli altri guardano altrove. La vita intima e la vita pubblica non sono separabili: chi ti vuole isolato ti vuole più debole.
 
 11. **La caduta di un avversario non si celebra, ma le responsabilità si accertano.** C'è differenza tra il linciaggio e la giustizia. Chi ha costruito fortune evadendo le tasse, sfruttando lavoratori, manipolando informazioni non merita la nostra compassione preventiva: merita un processo.
 

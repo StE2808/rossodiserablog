@@ -29,13 +29,13 @@ focus_keyword: fondi stranieri aziende strategiche italiane
 *Serie in tre atti «Chi possiede l'Italia». Sei nell'Atto I: La mappa. Prosegui con [Atto II: La rendita perfetta](https://rossodiserablog.it/chi-possiede-l-italia-atto-2-la-rendita-perfetta/) e [Atto III: Chi ha firmato](https://rossodiserablog.it/chi-possiede-l-italia-atto-3-chi-ha-firmato/).*
 
 > *"È più facile immaginare la fine del mondo che la fine del capitalismo."*
-> — Fredric Jameson
+> - Fredric Jameson
 
 ---
 
 Prova a farlo adesso. Apri il sito di Eni, vai alla sezione "Azionariato" e guarda. Ci vuole un minuto.
 
-Trovi il Ministero dell'Economia e delle Finanze. Trovi la Cassa Depositi e Prestiti. Insieme fanno circa il 32%. Va bene — lo Stato controlla, ci dicono sempre. Ma poi scendi nella lista e compare un nome che non ti aspetti: BlackRock. Al 5,003%. Con diciassette società controllate, tra azioni ordinarie e derivati.
+Trovi il Ministero dell'Economia e delle Finanze. Trovi la Cassa Depositi e Prestiti. Insieme fanno circa il 32%. Va bene: lo Stato controlla, ci dicono sempre. Ma poi scendi nella lista e compare un nome che non ti aspetti: BlackRock. Al 5,003%. Con diciassette società controllate, tra azioni ordinarie e derivati.
 
 Diciassette società. Per tenere il 5% di Eni.
 
@@ -43,11 +43,11 @@ Diciassette società. Per tenere il 5% di Eni.
 
 Rimani lì un momento su quella pagina. Poi apri un'altra scheda e fai la stessa cosa con Enel. Il MEF è al 23,6%. E il primo azionista privato? BlackRock. Al 5%. Con una particolarità che non campeggia nei comunicati: la quota nordamericana di Enel è al 46,2% del flottante. Era il 43% nel 2022. Cresce ogni anno, silenziosamente, come l'acqua che sale.
 
-Poi apri Terna — la rete di trasmissione elettrica nazionale. CDP Reti al 29,85%. BlackRock: circa 5%.
+Poi apri Terna: la rete di trasmissione elettrica nazionale. CDP Reti al 29,85%. BlackRock: circa 5%.
 
-Poi Snam — la rete del gas. CDP Reti al 31,35%. BlackRock: 5,011%.
+Poi Snam: la rete del gas. CDP Reti al 31,35%. BlackRock: 5,011%.
 
-Poi Leonardo — aerei militari, sistemi d'arma, elicotteri, radar. Il MEF al 30,2%. Capital Group al 5,1% — primo privato. BlackRock al 5,003% — secondo privato. Gli istituzionali superano il 50%. La quota nordamericana è al 57,4%.
+Poi Leonardo: aerei militari, sistemi d'arma, elicotteri, radar. Il MEF al 30,2%. Capital Group al 5,1%, primo privato. BlackRock al 5,003%, secondo privato. Gli istituzionali superano il 50%. La quota nordamericana è al 57,4%.
 
 A questo punto puoi smettere di aprire schede. Hai già capito.
 
@@ -57,11 +57,11 @@ C'è un nome che compare in ogni lista. In ogni settore. Nel petrolio, nell'elet
 
 BlackRock gestisce 14.000 miliardi di dollari. Quattordicimila miliardi. Per capire la dimensione: il PIL della Cina è circa 18.000 miliardi, quello del Giappone 4.000. Il PIL di tutta l'Eurozona è circa 15.000. Un solo gestore di fondi americano muove una cifra paragonabile all'economia dell'intera Europa.
 
-Non ha pozzi petroliferi. Non ha raffinerie. Non ha ingegneri, non ha operai, non costruisce niente. Compra quote di quasi tutte le grandi società quotate del mondo — perché seguono l'indice — e incassa dividendi. Poi vota in assemblea. Ogni anno, migliaia di assemblee.
+Non ha pozzi petroliferi. Non ha raffinerie. Non ha ingegneri, non ha operai, non costruisce niente. Compra quote di quasi tutte le grandi società quotate del mondo, perché seguono l'indice, e incassa dividendi. Poi vota in assemblea. Ogni anno, migliaia di assemblee.
 
-Accanto a BlackRock, nella stessa logica, ci sono Vanguard — 8.000 miliardi gestiti — e State Street — altri 4.000. Insieme fanno 26.000 miliardi di dollari. Più del PIL degli Stati Uniti interi.
+Accanto a BlackRock, nella stessa logica, ci sono Vanguard (8.000 miliardi gestiti) e State Street (altri 4.000). Insieme fanno 26.000 miliardi di dollari. Più del PIL degli Stati Uniti interi.
 
-Sono fondi passivi. Non speculano. Non scelgono le aziende — seguono l'indice, comprano tutto quello che c'è dentro. Non vendono durante le crisi. Restano per decenni. E votano. Sempre.
+Sono fondi passivi. Non speculano. Non scelgono le aziende: seguono l'indice, comprano tutto quello che c'è dentro. Non vendono durante le crisi. Restano per decenni. E votano. Sempre.
 
 ---
 
@@ -75,13 +75,13 @@ Un CEO che delude BlackRock vede il titolo in vendita il giorno dopo. Un consigl
 
 ## La sorpresa che nessuno menziona
 
-Torniamo a CDP Reti — il veicolo attraverso cui lo Stato italiano controlla Terna e Snam, cioè la rete fisica dell'elettricità e del gas nazionale.
+Torniamo a CDP Reti: il veicolo attraverso cui lo Stato italiano controlla Terna e Snam, cioè la rete fisica dell'elettricità e del gas nazionale.
 
 Tra i soci di CDP Reti c'è State Grid Europe Limited. SGEL. Controllata di State Grid Corporation of China. Che a sua volta è di proprietà dello Stato cinese. SGEL ha il 35% di CDP Reti.
 
 Fermati un secondo.
 
-Mentre in Europa si dibatte con urgenza di sicurezza energetica, di dipendenza dal gas russo, di autonomia strategica — la rete dell'elettricità e del gas italiane è già parzialmente in mano alla Repubblica Popolare Cinese. Non attraverso un fondo passivo che segue un indice. Attraverso una partecipazione diretta di un'azienda di Stato.
+Mentre in Europa si dibatte con urgenza di sicurezza energetica, di dipendenza dal gas russo, di autonomia strategica: la rete dell'elettricità e del gas italiane è già parzialmente in mano alla Repubblica Popolare Cinese. Non attraverso un fondo passivo che segue un indice. Attraverso una partecipazione diretta di un'azienda di Stato.
 
 Non è classificato. Non è un'indiscrezione. Sta nelle relazioni annuali di CDP Reti, depositato regolarmente in Consob. È che nessuno ne parla.
 
@@ -93,13 +93,13 @@ I fondi americani prendono il 5%, votano in assemblea, non fanno rumore. Silenzi
 
 I francesi fanno una cosa diversa. Prendono il controllo. Direttamente, concretamente, senza troppi giri.
 
-Apri il frigorifero. Quella mozzarella Galbani — è Lactalis. Quella Parmalat — è Lactalis. Invernizzi, Locatelli, Vallelata, Cademartori — tutte Lactalis. Lactalis ha sede a Laval, in Normandia. Il latte italiano, nelle sue marche più riconoscibili, è un prodotto francese.
+Apri il frigorifero. Quella mozzarella Galbani: è Lactalis. Quella Parmalat: è Lactalis. Invernizzi, Locatelli, Vallelata, Cademartori: tutte Lactalis. Lactalis ha sede a Laval, in Normandia. Il latte italiano, nelle sue marche più riconoscibili, è un prodotto francese.
 
-Non è un caso isolato. In venticinque anni le aziende francesi hanno acquisito imprese italiane per 97 miliardi di euro — 770 operazioni, secondo un'indagine KPMG. La Francia è il primo investitore estero in Italia per portafoglio di controllo.
+Non è un caso isolato. In venticinque anni le aziende francesi hanno acquisito imprese italiane per 97 miliardi di euro: 770 operazioni, secondo un'indagine KPMG. La Francia è il primo investitore estero in Italia per portafoglio di controllo.
 
 Nel 2025, Crédit Agricole ha raggiunto il 20% di Banco BPM, terza banca italiana per masse gestite. Nessun golden power è stato attivato.
 
-Vivendi — il gruppo di Vincent Bolloré — ha il 23,75% di TIM. È il primo azionista privato dell'infrastruttura telecom italiana.
+Vivendi, il gruppo di Vincent Bolloré, ha il 23,75% di TIM. È il primo azionista privato dell'infrastruttura telecom italiana.
 
 ---
 

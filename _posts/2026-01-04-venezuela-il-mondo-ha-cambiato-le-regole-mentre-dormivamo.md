@@ -24,12 +24,12 @@ Alle due di notte del 3 gennaio, mentre qui in Italia sognavamo qualcosa che non
 
 **Nicolás Maduro** ora è in una cella di Brooklyn. Nello stesso carcere di El Chapo, per intenderci.
 
-La notizia l'ho letta al mattino, con il caffè in mano, e ho dovuto rileggerla due volte. Non perché fosse incredibile — di questi tempi nulla lo è più — ma perché mi sembrava di aver saltato un passaggio. Tipo quando arrivi a metà di un film e non capisci perché il protagonista sta scappando.
+La notizia l'ho letta al mattino, con il caffè in mano, e ho dovuto rileggerla due volte. Non perché fosse incredibile (di questi tempi nulla lo è più), ma perché mi sembrava di aver saltato un passaggio. Tipo quando arrivi a metà di un film e non capisci perché il protagonista sta scappando.
 
 
 ## La giustificazione ufficiale e il petrolio
 
-**Proviamo a ricostruire.** Gli Stati Uniti hanno bombardato la capitale di uno stato sovrano, sono entrati con le forze speciali, hanno preso il presidente e sua moglie, li hanno caricati su una nave militare e li hanno portati a New York per processarli. Il tutto senza chiedere permesso a nessuno — né al Congresso americano, né alle Nazioni Unite, né tantomeno ai venezuelani.
+**Proviamo a ricostruire.** Gli Stati Uniti hanno bombardato la capitale di uno stato sovrano, sono entrati con le forze speciali, hanno preso il presidente e sua moglie, li hanno caricati su una nave militare e li hanno portati a New York per processarli. Il tutto senza chiedere permesso a nessuno, né al Congresso americano, né alle Nazioni Unite, né tantomeno ai venezuelani.
 
 La giustificazione ufficiale? Narcotraffico. Maduro sarebbe a capo di un cartello della droga, il "Cartello dei Soli", e quindi andava arrestato. C'è anche una taglia sulla sua testa dal 2020: prima 15 milioni di dollari, poi lievitati a 50. Come nei western, quando attaccavano i manifesti "Wanted Dead or Alive" alle porte dei saloon.
 
@@ -42,7 +42,7 @@ Ecco, forse il film adesso ha più senso.
 
 ## La violazione del diritto internazionale
 
-**C'è una regola nel diritto internazionale** — l'articolo 2 della Carta delle Nazioni Unite — che dice una cosa semplice: non puoi usare la forza contro un altro stato. Punto. Non ci sono eccezioni per i cattivi, non ci sono clausole in piccolo che dicono "a meno che non ti stiano antipatici". È la regola su cui abbiamo costruito ottant'anni di pace relativa, quella che dovrebbe distinguerci dai secoli in cui i re si invadevano a vicenda perché gli girava così.
+**C'è una regola nel diritto internazionale**, l'articolo 2 della Carta delle Nazioni Unite, che dice una cosa semplice: non puoi usare la forza contro un altro stato. Punto. Non ci sono eccezioni per i cattivi, non ci sono clausole in piccolo che dicono "a meno che non ti stiano antipatici". È la regola su cui abbiamo costruito ottant'anni di pace relativa, quella che dovrebbe distinguerci dai secoli in cui i re si invadevano a vicenda perché gli girava così.
 
 La risposta americana a questa obiezione è stata geniale, nel suo cinismo. Siccome le elezioni venezuelane del 2024 erano truccate, Maduro non è più un presidente. È un privato cittadino. E i privati cittadini non hanno l'immunità diplomatica. Quindi tecnicamente non abbiamo rapito un capo di stato, abbiamo solo arrestato un narcotrafficante.
 
@@ -69,7 +69,7 @@ L'Europa ha fatto quello che sa fare meglio: ha espresso preoccupazione. Ha chie
 
 Solo il **premier spagnolo Sánchez** ha avuto il coraggio di chiamare le cose con il loro nome, dicendo che la Spagna non riconoscerà la legittimità di "un intervento che vìola la legge internazionale".
 
-**L'Italia**, invece, ha dichiarato che "l'azione militare esterna non è la strada da percorrere" — formulazione che non offende nessuno e non significa nulla.
+**L'Italia**, invece, ha dichiarato che "l'azione militare esterna non è la strada da percorrere": formulazione che non offende nessuno e non significa nulla.
 
 **C'è un termine tecnico per questo atteggiamento**: [vassallaggio](https://rossodiserablog.it/la-madman-theory-da-nixon-a-trump/). Quando dipendi da qualcuno al punto da non poter dire che sta sbagliando, anche quando sta sbagliando in modo clamoroso.
 

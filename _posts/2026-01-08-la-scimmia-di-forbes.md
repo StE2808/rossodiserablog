@@ -22,7 +22,7 @@ focus_keyword: disuguaglianza economica natura
 ---
 C'è una citazione che mi gira in testa da giorni. Di quelle che ti si piantano dentro come una scheggia e non se ne vanno più.
 
-Un famoso sociologo brasiliano — forse Eduardo Galeano, forse Darcy Ribeiro, poco importa chi — diceva più o meno così: se una scimmia nella giungla cominciasse ad accumulare tutte le banane impedendo al resto delle scimmie di prenderle, una squadra di biologi andrebbe a studiare questa aberrazione. Se lo fa un uomo, lo mettono sulla copertina di Forbes.
+Un famoso sociologo brasiliano (forse Eduardo Galeano, forse Darcy Ribeiro, poco importa chi) diceva più o meno così: se una scimmia nella giungla cominciasse ad accumulare tutte le banane impedendo al resto delle scimmie di prenderle, una squadra di biologi andrebbe a studiare questa aberrazione. Se lo fa un uomo, lo mettono sulla copertina di Forbes.
 
 Ecco. Fine. Potrei chiudere qui l'articolo e avrei già detto tutto.
 
@@ -30,7 +30,7 @@ Ma siccome sono fatto così, non resisto alla tentazione di scavare un po' più 
 
 ## Il ribaltamento
 
-La forza di questa immagine sta nel ribaltamento. Prendi un comportamento che celebriamo quotidianamente — l'accumulo, il successo, il "self-made man" — e lo rimetti nel contesto biologico da cui veniamo. Da primati. Da animali sociali che per milioni di anni hanno condiviso risorse per sopravvivere.
+La forza di questa immagine sta nel ribaltamento. Prendi un comportamento che celebriamo quotidianamente (l'accumulo, il successo, il "self-made man") e lo rimetti nel contesto biologico da cui veniamo. Da primati. Da animali sociali che per milioni di anni hanno condiviso risorse per sopravvivere.
 
 E improvvisamente quel comportamento diventa patologia.
 
@@ -44,23 +44,23 @@ Ma c'è qualcosa di più profondo. Qualcosa che va oltre la sociologia e tocca l
 
 Pensate all'entropia.
 
-L'universo tende naturalmente a distribuire l'energia in modo uniforme. È la seconda legge della termodinamica — non un'opinione, non un'ideologia, non una scelta politica. È la direzione stessa del tempo. Il calore si diffonde dal caldo al freddo finché non c'è equilibrio. Le molecole di profumo si spargono nella stanza. L'acqua trova il suo livello.
+L'universo tende naturalmente a distribuire l'energia in modo uniforme. È la seconda legge della termodinamica, non un'opinione, non un'ideologia, non una scelta politica. È la direzione stessa del tempo. Il calore si diffonde dal caldo al freddo finché non c'è equilibrio. Le molecole di profumo si spargono nella stanza. L'acqua trova il suo livello.
 
-L'accumulo — la concentrazione — è l'opposto dell'entropia. Per mantenere concentrazione devi spendere energia costantemente. Costruire muri. Recinti. Casseforti. Paradisi fiscali. Sistemi legali. Polizie. Eserciti. Firewall.
+L'accumulo, la concentrazione, è l'opposto dell'entropia. Per mantenere concentrazione devi spendere energia costantemente. Costruire muri. Recinti. Casseforti. Paradisi fiscali. Sistemi legali. Polizie. Eserciti. Firewall.
 
 È un lavoro contro la natura delle cose.
 
-Un osservatore esterno — un alieno, un'intelligenza artificiale, un dio annoiato — che guardasse il sistema economico umano con occhi termodinamici vedrebbe questo: un enorme sforzo, un dispendio colossale di energia, per mantenere uno stato innaturale di concentrazione.
+Un osservatore esterno (un alieno, un'intelligenza artificiale, un dio annoiato) che guardasse il sistema economico umano con occhi termodinamici vedrebbe questo: un enorme sforzo, un dispendio colossale di energia, per mantenere uno stato innaturale di concentrazione.
 
 E si chiederebbe: perché?
 
 ## La risposta che non regge
 
-La risposta non può essere "perché è giusto" — l'universo non conosce giustizia, conosce solo equilibrio.
+La risposta non può essere "perché è giusto": l'universo non conosce giustizia, conosce solo equilibrio.
 
-La risposta non può essere "perché funziona" — funziona per chi? Per l'uno percento? Per la scimmia con tutte le banane? Certo che per lei funziona. Ma il sistema nel suo complesso spreca energia mostruosa per mantenere un equilibrio instabile.
+La risposta non può essere "perché funziona": funziona per chi? Per l'uno percento? Per la scimmia con tutte le banane? Certo che per lei funziona. Ma il sistema nel suo complesso spreca energia mostruosa per mantenere un equilibrio instabile.
 
-La risposta non può essere "perché è naturale" — e qui torniamo alla citazione iniziale. Non c'è niente di naturale nell'accumulo patologico. È l'esatto contrario: è uno sforzo titanico contro natura. Un meccanismo che [l'aporofobia istituzionalizzata](https://rossodiserablog.it/aporofobia-quando-la-poverta-diventa-colpa/) rende invisibile ai più.
+La risposta non può essere "perché è naturale", e qui torniamo alla citazione iniziale. Non c'è niente di naturale nell'accumulo patologico. È l'esatto contrario: è uno sforzo titanico contro natura. Un meccanismo che [l'aporofobia istituzionalizzata](https://rossodiserablog.it/aporofobia-quando-la-poverta-diventa-colpa/) rende invisibile ai più.
 
 ## L'acqua trova il suo livello
 

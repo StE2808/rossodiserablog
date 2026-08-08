@@ -26,17 +26,17 @@ Il 23 febbraio 2024, a Pisa, la polizia ha [caricato un corteo pacifico di stude
 
 ## La febbre italiana
 
-L'Italia ha sviluppato una certa creatività normativa sulle proteste. Il decreto anti-rave del 2022: da tre a sei anni per "raduni" non autorizzati — formulazione così elastica che Amnesty ne ha chiesto l'abrogazione. Il decreto sicurezza del 2025: sedersi in strada diventa reato, la resistenza passiva in carcere pure. Qualcuno l'ha chiamata "norma anti-Gandhi".
+L'Italia ha sviluppato una certa creatività normativa sulle proteste. Il decreto anti-rave del 2022: da tre a sei anni per "raduni" non autorizzati, formulazione così elastica che Amnesty ne ha chiesto l'abrogazione. Il decreto sicurezza del 2025: sedersi in strada diventa reato, la resistenza passiva in carcere pure. Qualcuno l'ha chiamata "norma anti-Gandhi".
 
 Intanto [Ultima Generazione](/regalo-del-governo-carcere-e-multe-per-gli-attivisti-del-cli/) ha collezionato 2.000 denunce, 180 procedimenti, 90 fogli di via. A Padova: associazione a delinquere. Per aver bloccato il traffico.
 
 ## Lo specchio degli altri
 
-Non siamo soli. In Francia, a Sainte-Soline, trentamila manifestanti contro un mega-bacino. Il ministro li aveva già chiamati "eco-terroristi". Risultato: centinaia di feriti, due in coma, movimento sciolto per decreto — poi annullato dal Consiglio di Stato, ma il messaggio era arrivato.
+Non siamo soli. In Francia, a Sainte-Soline, trentamila manifestanti contro un mega-bacino. Il ministro li aveva già chiamati "eco-terroristi". Risultato: centinaia di feriti, due in coma, movimento sciolto per decreto, poi annullato dal Consiglio di Stato, ma il messaggio era arrivato.
 
 Nel Regno Unito, il Public Order Act 2023 punisce chi si incatena con quasi un anno di carcere. Le Serious Disruption Prevention Orders possono vietarti di manifestare anche senza aver commesso reati. Una ragazza rischia cinque anni per aver partecipato a una Zoom call.
 
-E Trump? Nell'ottobre 2024 ha chiamato i democratici "enemy from within" — più pericolosi di Cina e Russia. Ha proposto la Guardia Nazionale contro di loro. McCarthismo, solo che stavolta il nemico è chiunque dissenta. Non è un caso isolato: è la stessa logica raccontata ne [il capro espiatorio perfetto](https://rossodiserablog.it/il-capro-espiatorio-perfetto/), dove basta un'etichetta per trasformare un ragazzo in un nemico pubblico.
+E Trump? Nell'ottobre 2024 ha chiamato i democratici "enemy from within": più pericolosi di Cina e Russia. Ha proposto la Guardia Nazionale contro di loro. McCarthismo, solo che stavolta il nemico è chiunque dissenta. Non è un caso isolato: è la stessa logica raccontata ne [il capro espiatorio perfetto](https://rossodiserablog.it/il-capro-espiatorio-perfetto/), dove basta un'etichetta per trasformare un ragazzo in un nemico pubblico.
 
 ---
 
@@ -44,7 +44,7 @@ E Trump? Nell'ottobre 2024 ha chiamato i democratici "enemy from within" — pi�
 
 Se mettiamo in fila questi pezzi, emerge una grammatica comune. Un vocabolario condiviso che attraversa oceani e parlamenti.
 
-Prima viene la **ridefinizione linguistica**: la protesta diventa disordine, il disordine diventa terrorismo. Gli ambientalisti sono "eco-terroristi", i giudici che applicano il diritto europeo sono "toghe rosse", chi dissente è un "professionista del dissenso" — come se manifestare fosse una carriera, e pure ben pagata.
+Prima viene la **ridefinizione linguistica**: la protesta diventa disordine, il disordine diventa terrorismo. Gli ambientalisti sono "eco-terroristi", i giudici che applicano il diritto europeo sono "toghe rosse", chi dissente è un "professionista del dissenso", come se manifestare fosse una carriera, e pure ben pagata.
 
 Poi arriva la **criminalizzazione preventiva**: non ti punisco per quello che hai fatto, ti fermo prima che tu possa farlo. Fogli di via, ordini restrittivi, divieti di avvicinamento. La democrazia che si difende dalla democrazia.
 
@@ -52,7 +52,7 @@ Quindi la **delegittimazione**: non sei un cittadino che protesta, sei un infilt
 
 Infine, la **sproporzione punitiva**: sei anni per un rave, cinque per una Zoom call, il carcere per esserti seduto in strada. Pene così alte che il messaggio non è "ti punisco", è "ti avverto".
 
-E sotto tutto questo, sempre, il **nemico interno**. Perché ogni sistema ha bisogno di un "loro" per definire il "noi". Solo che quando il "loro" diventa il ragazzo seduto in strada, la giudice che applica una sentenza europea, lo studente con la kefiah — beh, il "noi" si restringe parecchio.
+E sotto tutto questo, sempre, il **nemico interno**. Perché ogni sistema ha bisogno di un "loro" per definire il "noi". Solo che quando il "loro" diventa il ragazzo seduto in strada, la giudice che applica una sentenza europea, lo studente con la kefiah: beh, il "noi" si restringe parecchio.
 
 ---
 
@@ -68,13 +68,13 @@ La sindrome del nemico interno è questa: la convinzione che la minaccia venga d
 
 ## Un esperimento, se volete
 
-La prossima volta che leggete di "professionisti del dissenso" o di "estremisti" che bloccano il traffico, provate un esercizio. Chiedetevi: cosa stanno chiedendo, esattamente? Non come lo chiedono — quello potete giudicarlo dopo. Ma cosa.
+La prossima volta che leggete di "professionisti del dissenso" o di "estremisti" che bloccano il traffico, provate un esercizio. Chiedetevi: cosa stanno chiedendo, esattamente? Non come lo chiedono, quello potete giudicarlo dopo. Ma cosa.
 
 Spesso chiedono cose che, dette in un salotto, sembrerebbero ragionevoli: aria più pulita, politiche climatiche serie, che la polizia non manganelli i minorenni. Cose che, a cena con gli amici e col vino buono, sottoscriveremmo tutti.
 
 Forse il problema non è il messaggio. Forse il problema è che qualcuno ha deciso che certi messaggi, per quanto ragionevoli, non devono più essere pronunciati ad alta voce. È la stessa [paura che è più facile della speranza](https://rossodiserablog.it/la-paura-e-piu-facile-della-speranza/): l'ansia del potere davanti a chi non si rassegna.
 
-E se questo è vero, allora la domanda iniziale — "la democrazia sta bene?" — ha una risposta. No, non sta benissimo. Ha la sindrome del nemico interno, e la febbre sale.
+E se questo è vero, allora la domanda iniziale ("la democrazia sta bene?") ha una risposta. No, non sta benissimo. Ha la sindrome del nemico interno, e la febbre sale.
 
 Sta a noi decidere se chiamare il medico, o se girarci dall'altra parte e far finta che sia solo un raffreddore.
 

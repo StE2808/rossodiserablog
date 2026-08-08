@@ -28,15 +28,15 @@ E quel no ha fatto più rumore di qualsiasi accordo firmato in silenzio. Al cent
 
 ## Il rifiuto che ha scosso la Silicon Valley
 
-La storia comincia mesi fa, in sordina, con trattative riservate tra Anthropic — l'azienda che ha creato Claude, l'intelligenza artificiale con cui state forse leggendo queste righe — e il Dipartimento della Difesa americano. Il Pentagono voleva che l'azienda togliesse le restrizioni sul proprio modello AI per consentire l'uso in "tutti gli scopi legali". Una formula che suona ragionevole finché non ti chiedi cosa ci sta dentro. Anthropic era la prima azienda di AI a integrare i propri modelli nelle reti classificate militari, tramite [Palantir](https://rossodiserablog.it/palantir-cittadino-variabile/), già dal 2024. Il rapporto funzionava. Il Pentagono voleva di più.
+La storia comincia mesi fa, in sordina, con trattative riservate tra Anthropic (l'azienda che ha creato Claude, l'intelligenza artificiale con cui state forse leggendo queste righe) e il Dipartimento della Difesa americano. Il Pentagono voleva che l'azienda togliesse le restrizioni sul proprio modello AI per consentire l'uso in "tutti gli scopi legali". Una formula che suona ragionevole finché non ti chiedi cosa ci sta dentro. Anthropic era la prima azienda di AI a integrare i propri modelli nelle reti classificate militari, tramite [Palantir](https://rossodiserablog.it/palantir-cittadino-variabile/), già dal 2024. Il rapporto funzionava. Il Pentagono voleva di più.
 
-Dario Amodei, il CEO di Anthropic, aveva tracciato due linee rosse. Due soltanto: niente [sorveglianza di massa sui cittadini americani](/il-capitalismo-di-sorveglianza-quando-noi-siamo-il-prodotto/), niente armi autonome senza un essere umano nella catena decisionale. Su tutto il resto — logistica, intelligence, analisi, supporto operativo — via libera. Due eccezioni. Un oceano di sì e due no.
+Dario Amodei, il CEO di Anthropic, aveva tracciato due linee rosse. Due soltanto: niente [sorveglianza di massa sui cittadini americani](/il-capitalismo-di-sorveglianza-quando-noi-siamo-il-prodotto/), niente armi autonome senza un essere umano nella catena decisionale. Su tutto il resto (logistica, intelligence, analisi, supporto operativo) via libera. Due eccezioni. Un oceano di sì e due no.
 
 Non è bastato.
 
 Hegseth ha dato ad Anthropic un ultimatum con scadenza venerdì, minacciando di rescindere il contratto e di inserire l'azienda in una lista nera. Ma non una lista nera qualunque: la designazione come "rischio per la catena di approvvigionamento", un'etichetta mai applicata a un'azienda americana, riservata fino ad allora agli avversari stranieri. E come opzione B, l'invocazione del Defense Production Act, una legge dell'era della Guerra Fredda che consentirebbe al governo di requisire la tecnologia con la forza.
 
-Giovedì, Amodei ha risposto con un post pubblico. Ha dichiarato che l'azienda non poteva "in buona coscienza accettare" le richieste del Pentagono. E ha colto un dettaglio che dice più di qualsiasi analisi: le due minacce si contraddicono a vicenda — una lo etichetta come rischio per la sicurezza, l'altra dichiara la sua tecnologia essenziale per la sicurezza nazionale. Sei un pericolo, ma non possiamo fare a meno di te. Il linguaggio del potere che si incarta da solo.
+Giovedì, Amodei ha risposto con un post pubblico. Ha dichiarato che l'azienda non poteva "in buona coscienza accettare" le richieste del Pentagono. E ha colto un dettaglio che dice più di qualsiasi analisi: le due minacce si contraddicono a vicenda, una lo etichetta come rischio per la sicurezza, l'altra dichiara la sua tecnologia essenziale per la sicurezza nazionale. Sei un pericolo, ma non possiamo fare a meno di te. Il linguaggio del potere che si incarta da solo.
 
 Venerdì è arrivata la rappresaglia. Trump su Truth Social ha definito Anthropic una ["azienda radicale di sinistra"](/trump-e-musk-costruttori-di-un-nuovo-stato-autoritario-tecno/) e ha ordinato a tutte le agenzie federali di cessare immediatamente l'uso della sua tecnologia. Il sottosegretario Emil Michael ha definito Amodei "un bugiardo" con "un complesso di Dio". Un generale in pensione dell'Air Force ha scritto su LinkedIn che le linee rosse di Anthropic erano "ragionevoli" e che i modelli AI attuali non sono pronti per alimentare armi autonome. Ma la sua voce si è persa nel frastuono.
 
@@ -52,7 +52,7 @@ Quello che è successo tra Amodei e il Pentagono mette a nudo una verità che pr
 
 Amodei ha detto no, e per questo è stato punito. Ma la domanda vera non riguarda lui. Non riguarda se il suo gesto fosse coraggioso o calcolato, etico o commerciale. La domanda è un'altra: come ci siamo ridotti a dipendere dalla coscienza di un singolo CEO per stabilire il confine tra difesa nazionale e sorveglianza di massa?
 
-Un'azienda privata esiste per generare profitto. Può avere dei valori — Anthropic è nata con la missione dichiarata di sviluppare AI in modo sicuro — ma i valori di un CEO non hanno il peso della legge. Non sono stati votati da nessuno. Non sopravvivono necessariamente a un cambio di leadership, a un'offerta d'acquisto ostile, a un trimestre finanziario andato male.
+Un'azienda privata esiste per generare profitto. Può avere dei valori (Anthropic è nata con la missione dichiarata di sviluppare AI in modo sicuro), ma i valori di un CEO non hanno il peso della legge. Non sono stati votati da nessuno. Non sopravvivono necessariamente a un cambio di leadership, a un'offerta d'acquisto ostile, a un trimestre finanziario andato male.
 
 Amodei lo ha detto nell'intervista a CBS: "Dissentire dal governo è la cosa più americana del mondo". E ha ragione. Ma pensateci un secondo: il confine tra sorveglianza di massa e uso legittimo dell'AI viene tracciato in un negoziato privato tra un imprenditore e un Segretario alla Difesa. Non in un parlamento. Non in un tribunale. Non in un trattato internazionale.
 
@@ -80,7 +80,7 @@ L'Occidente litiga su dove mettere i paletti. Amodei dice no alle armi autonome,
 
 Altrove, la conversazione non esiste nemmeno. La Russia punta ad automatizzare il 30% del suo equipaggiamento militare e considera l'AI determinante per mantenere la superiorità sul campo di battaglia. La Cina investe per raggiungere la supremazia tecnologica entro il 2030. Nessuno dei due paesi partecipa attivamente ai negoziati internazionali sulle armi autonome. Non hanno intenzione di autolimitarsi. Perché dovrebbero, se gli altri lo fanno prima?
 
-Eccolo, il dilemma del prigioniero su scala planetaria. Chi si impone dei limiti perde vantaggio. Chi non se li impone guadagna terreno, ma alimenta una corsa che finirà per travolgere tutti. La cooperazione — l'unica via d'uscita — richiede una fiducia reciproca che nel mondo di oggi è merce rara quanto il buon senso su un social network.
+Eccolo, il dilemma del prigioniero su scala planetaria. Chi si impone dei limiti perde vantaggio. Chi non se li impone guadagna terreno, ma alimenta una corsa che finirà per travolgere tutti. La cooperazione, l'unica via d'uscita, richiede una fiducia reciproca che nel mondo di oggi è merce rara quanto il buon senso su un social network.
 
 Amodei ha detto no sapendo che qualcun altro avrebbe detto sì.
 
@@ -92,7 +92,7 @@ Il mercato non tollera i vuoti. Li riempie.
 
 C'è un dettaglio che merita di essere guardato più da vicino.
 
-OpenAI ha firmato l'accordo dichiarando che il Pentagono concordava con i suoi principi, aggiungendo che le limitazioni erano state inserite nel contratto. Ma ha anche accettato la formula "per qualsiasi uso legale" — la stessa formula che Anthropic considerava una scatola vuota. Come possono coesistere le due cose?
+OpenAI ha firmato l'accordo dichiarando che il Pentagono concordava con i suoi principi, aggiungendo che le limitazioni erano state inserite nel contratto. Ma ha anche accettato la formula "per qualsiasi uso legale": la stessa formula che Anthropic considerava una scatola vuota. Come possono coesistere le due cose?
 
 La differenza sembra stare nel metodo: Anthropic voleva i limiti scritti esplicitamente nel contratto, OpenAI ha accettato che le leggi esistenti già li garantissero. Una sfumatura giuridica. O forse qualcosa di meno sottile: il Pentagono ha concesso a OpenAI quello che aveva negato ad Anthropic perché doveva fare un esempio. Mostrare a tutti cosa succede quando si dice no.
 
@@ -104,7 +104,7 @@ Intanto, Anthropic contesterà in tribunale la designazione come rischio per la 
 
 Non so se Dario Amodei sia un eroe. Forse è un imprenditore che ha calcolato che la reputazione vale più di un contratto. Forse ci crede davvero. Non importa, alla fine. Quello che importa è la fotografia che questa storia ci restituisce: le decisioni più gravi sulla tecnologia più potente mai costruita vengono prese in negoziati privati, tra [persone che nessuno ha eletto per farlo](/il-potere-globale-delle-tecnologie-oltre-le-urne-verso-il-co/), in assenza di regole che nessuno ha avuto il coraggio di scrivere.
 
-La tecnologia corre — [la stessa corsa che ha portato l'AI a risolvere problemi matematici aperti in settimane](https://rossodiserablog.it/quando-gli-anni-diventano-settimane/). Le leggi camminano. E noi restiamo a guardare una fumata che non è né bianca né nera, in attesa che qualcuno — un CEO, un generale, un presidente su un social — decida per noi cosa può fare una macchina che pensa.
+La tecnologia corre: [la stessa corsa che ha portato l'AI a risolvere problemi matematici aperti in settimane](https://rossodiserablog.it/quando-gli-anni-diventano-settimane/). Le leggi camminano. E noi restiamo a guardare una fumata che non è né bianca né nera, in attesa che qualcuno (un CEO, un generale, un presidente su un social) decida per noi cosa può fare una macchina che pensa.
 
 ## Domande frequenti
 
