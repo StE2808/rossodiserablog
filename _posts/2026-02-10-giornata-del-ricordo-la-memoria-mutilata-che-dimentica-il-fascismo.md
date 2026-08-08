@@ -66,7 +66,7 @@ Ricordare le vittime delle foibe è doveroso — [la stessa banalità del male](
 ## Domande frequenti
 
 <details class="faq-item" markdown="1">
-<summary><h3>Qual è il legame tra il fascismo e le foibe secondo questo articolo?</h3></summary>
+<summary><h3>Che legame c'è tra il fascismo e le foibe?</h3></summary>
 
 L'articolo sostiene che senza il ventennio di occupazione fascista (i campi di concentramento come Arbe/Rab, le politiche di pulizia etnica, l'esproprio delle terre, la repressione violenta delle popolazioni slave e l'italianizzazione forzata) le foibe non sarebbero mai esistite. La narrazione delle foibe come frutto di 'odio etnico' cancella sistematicamente le cause storiche che portarono a quella tragedia.
 
@@ -93,7 +93,7 @@ L'articolo cita due strutture dimenticate: il campo di concentramento di Arbe/Ra
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Qual è il legame tra il fascismo e le foibe secondo questo articolo?",
+      "name": "Che legame c'è tra il fascismo e le foibe?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo sostiene che senza il ventennio di occupazione fascista (i campi di concentramento come Arbe/Rab, le politiche di pulizia etnica, l'esproprio delle terre, la repressione violenta delle popolazioni slave e l'italianizzazione forzata) le foibe non sarebbero mai esistite. La narrazione delle foibe come frutto di 'odio etnico' cancella sistematicamente le cause storiche che portarono a quella tragedia."

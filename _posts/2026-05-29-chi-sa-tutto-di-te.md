@@ -74,7 +74,7 @@ Non ho una risposta da consegnarti come un pacchetto. Ho solo un sospetto, e te 
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Perché nell'articolo si parla di Palantir accanto al dossieraggio dei servizi segreti?</h3></summary>
+<summary><h3>Che cos'è Palantir e cosa c'entra con il dossieraggio?</h3></summary>
 
 Perché Palantir offre, in forma legale e quotata in Borsa, lo stesso prodotto della Squadra Fiore: trasformare le montagne di dati custoditi dagli Stati in intelligence azionabile sul singolo cittadino. Fondata da Peter Thiel con la CIA tra i primi finanziatori, prevede ricavi per oltre sette miliardi di dollari, trainati dai contratti col governo americano. È il punto in cui il potere dall'alto e la sorveglianza dal basso si danno la mano.
 
@@ -109,7 +109,7 @@ Perché capovolge l'asimmetria che definisce la libertà: in una democrazia lo S
     },
     {
       "@type": "Question",
-      "name": "Perché nell'articolo si parla di Palantir accanto al dossieraggio dei servizi segreti?",
+      "name": "Che cos'è Palantir e cosa c'entra con il dossieraggio?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Perché Palantir offre, in forma legale e quotata in Borsa, lo stesso prodotto della Squadra Fiore: trasformare le montagne di dati custoditi dagli Stati in intelligence azionabile sul singolo cittadino. Fondata da Peter Thiel con la CIA tra i primi finanziatori, prevede ricavi per oltre sette miliardi di dollari, trainati dai contratti col governo americano. È il punto in cui il potere dall'alto e la sorveglianza dal basso si danno la mano."

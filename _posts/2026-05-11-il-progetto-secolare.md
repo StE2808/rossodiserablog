@@ -78,14 +78,14 @@ In The Impact of Science on Society (1952) il filosofo e premio Nobel Bertrand R
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Cos'è il sistema a doppio binario descritto nell'articolo?</h3></summary>
+<summary><h3>Cos'è il sistema a doppio binario tra élite e cittadini?</h3></summary>
 
 È una struttura in cui una classe dirigente transnazionale si sottrae progressivamente alle regole comuni (fiscali, giudiziarie, sociali) mentre il corpo sociale è soggetto a normative sempre più capillari. Il decreto Meloni del 2022 che ha introdotto il reato penale per i rave party ne è un esempio: si criminalizza il dissenso popolare mentre restano impunite le concentrazioni di potere e privilegio.
 
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>La tesi dell'articolo è una teoria del complotto?</h3></summary>
+<summary><h3>La cattura istituzionale è una teoria del complotto?</h3></summary>
 
 No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile.
 
@@ -114,7 +114,7 @@ No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le 
     },
     {
       "@type": "Question",
-      "name": "Cos'è il sistema a doppio binario descritto nell'articolo?",
+      "name": "Cos'è il sistema a doppio binario tra élite e cittadini?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "È una struttura in cui una classe dirigente transnazionale si sottrae progressivamente alle regole comuni (fiscali, giudiziarie, sociali) mentre il corpo sociale è soggetto a normative sempre più capillari. Il decreto Meloni del 2022 che ha introdotto il reato penale per i rave party ne è un esempio: si criminalizza il dissenso popolare mentre restano impunite le concentrazioni di potere e privilegio."
@@ -122,7 +122,7 @@ No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le 
     },
     {
       "@type": "Question",
-      "name": "La tesi dell'articolo è una teoria del complotto?",
+      "name": "La cattura istituzionale è una teoria del complotto?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile."

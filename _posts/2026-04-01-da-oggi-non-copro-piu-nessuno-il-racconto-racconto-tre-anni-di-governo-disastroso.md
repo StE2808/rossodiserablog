@@ -56,7 +56,7 @@ Meloni ha pronunciato questa frase mentre chiedeva le dimissioni della ministra 
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Quali ministri e sottosegretari erano stati 'coperti' dal governo Meloni secondo l'articolo?</h3></summary>
+<summary><h3>Quali ministri del governo Meloni si sono dimessi dopo uno scandalo?</h3></summary>
 
 L'articolo cita tre casi: Delmastro, che ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della 'Bisteccheria d'Italia'; Bartolozzi, capo di gabinetto di Nordio, dimessasi nel periodo post-referendum; e Santanchè, rimasta al ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera.
 
@@ -84,7 +84,7 @@ Secondo l'articolo (e come ha dichiarato Conte) ci sono voluti tre anni e 14 mil
     },
     {
       "@type": "Question",
-      "name": "Quali ministri e sottosegretari erano stati 'coperti' dal governo Meloni secondo l'articolo?",
+      "name": "Quali ministri del governo Meloni si sono dimessi dopo uno scandalo?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo cita tre casi: Delmastro, che ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della 'Bisteccheria d'Italia'; Bartolozzi, capo di gabinetto di Nordio, dimessasi nel periodo post-referendum; e Santanchè, rimasta al ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera."

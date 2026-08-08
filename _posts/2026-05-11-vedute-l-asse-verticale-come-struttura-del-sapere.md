@@ -54,7 +54,7 @@ Significa che conoscere non è mai orizzontale: ogni atto cognitivo presuppone u
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Quale filosofo cita l'articolo per spiegare la verticalità del sapere?</h3></summary>
+<summary><h3>Quali filosofi spiegano la verticalità della conoscenza?</h3></summary>
 
 L'articolo richiama Platone, che nella Repubblica costruisce la paideia come ascesa dal sensibile all'intelligibile, e Blaise Pascal, per cui l'uomo non è né angelo né bestia: la conoscenza è sempre un equilibrio instabile, una verticale che oscilla tra i due poli.
 
@@ -83,7 +83,7 @@ L'articolo richiama Platone, che nella Repubblica costruisce la paideia come asc
     },
     {
       "@type": "Question",
-      "name": "Quale filosofo cita l'articolo per spiegare la verticalità del sapere?",
+      "name": "Quali filosofi spiegano la verticalità della conoscenza?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo richiama Platone, che nella Repubblica costruisce la paideia come ascesa dal sensibile all'intelligibile, e Blaise Pascal, per cui l'uomo non è né angelo né bestia: la conoscenza è sempre un equilibrio instabile, una verticale che oscilla tra i due poli."

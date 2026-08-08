@@ -62,14 +62,14 @@ Il termine fu coniato da Tommaso Moro nel 1516 nel suo celebre trattato. È un t
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>In che contesto politico italiano nasce questo articolo sull'utopia?</h3></summary>
+<summary><h3>In che crisi politica si trova il governo Meloni nel 2026?</h3></summary>
 
 L'articolo è scritto nel momento in cui il governo Meloni (già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura) vede la propria coalizione sgretolarsi pezzo dopo pezzo. L'autore legge questo vuoto politico non solo come crisi ma come possibilità: le implosioni di governo non sono solo macerie, ma spazi liberati su cui qualcosa di nuovo può provare a radicarsi.
 
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Qual è il paradosso di Camus sull'utopia citato nell'articolo?</h3></summary>
+<summary><h3>Cosa significa "siate realisti, chiedete l'impossibile" di Camus?</h3></summary>
 
 Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava la logica del pragmatismo politico: il realismo puro, senza tensione verso ciò che non esiste ancora, non è saggezza ma rassegnazione travestita da maturità. Chiedere l'impossibile non significa ignorare i vincoli del reale, ma rifiutare che quei vincoli siano eterni.
 
@@ -90,7 +90,7 @@ Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava l
     },
     {
       "@type": "Question",
-      "name": "In che contesto politico italiano nasce questo articolo sull'utopia?",
+      "name": "In che crisi politica si trova il governo Meloni nel 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo è scritto nel momento in cui il governo Meloni (già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura) vede la propria coalizione sgretolarsi pezzo dopo pezzo. L'autore legge questo vuoto politico non solo come crisi ma come possibilità: le implosioni di governo non sono solo macerie, ma spazi liberati su cui qualcosa di nuovo può provare a radicarsi."
@@ -98,7 +98,7 @@ Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava l
     },
     {
       "@type": "Question",
-      "name": "Qual è il paradosso di Camus sull'utopia citato nell'articolo?",
+      "name": "Cosa significa "siate realisti, chiedete l'impossibile" di Camus?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava la logica del pragmatismo politico: il realismo puro, senza tensione verso ciò che non esiste ancora, non è saggezza ma rassegnazione travestita da maturità. Chiedere l'impossibile non significa ignorare i vincoli del reale, ma rifiutare che quei vincoli siano eterni."

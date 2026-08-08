@@ -42,7 +42,7 @@ Chi blocca un'autostrada o sale su un gommone sgonfio non è il problema di ques
 ## Domande frequenti
 
 <details class="faq-item" markdown="1">
-<summary><h3>Che cosa si intende per populismo in questo articolo?</h3></summary>
+<summary><h3>Che cos'è il populismo in politica?</h3></summary>
 
 Il populismo è quella strategia politica che trasforma la frustrazione collettiva (reale e legittima) in odio verso un capro espiatorio comodo: l'immigrato, chi protesta, chi è diverso. Non propone soluzioni ai problemi concreti, ma usa la paura come unico collante politico.
 
@@ -76,7 +76,7 @@ La Global Sumud Flotilla è la flottiglia civile internazionale che ha ripreso i
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Che cosa si intende per populismo in questo articolo?",
+      "name": "Che cos'è il populismo in politica?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Il populismo è quella strategia politica che trasforma la frustrazione collettiva (reale e legittima) in odio verso un capro espiatorio comodo: l'immigrato, chi protesta, chi è diverso. Non propone soluzioni ai problemi concreti, ma usa la paura come unico collante politico."

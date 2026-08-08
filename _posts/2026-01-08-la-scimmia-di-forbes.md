@@ -98,14 +98,14 @@ La citazione (attribuita a un sociologo brasiliano, forse Galeano o Ribeiro) dic
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Perché l'accumulo di ricchezza è contrario alle leggi della fisica secondo l'articolo?</h3></summary>
+<summary><h3>Perché la concentrazione di ricchezza contraddice le leggi della fisica?</h3></summary>
 
 L'articolo richiama la seconda legge della termodinamica: l'universo tende naturalmente a distribuire l'energia in modo uniforme. La concentrazione di ricchezza è l'opposto dell'entropia, e per mantenerla occorre spendere energia continuamente, costruendo muri, casseforti, paradisi fiscali, sistemi legali e polizie. La redistribuzione non è ideologia, ma la direzione naturale in cui le cose vogliono andare.
 
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Qual è la conclusione dell'articolo sull'accumulo patologico?</h3></summary>
+<summary><h3>L'accumulo compulsivo di ricchezza è una patologia?</h3></summary>
 
 I biologi descriverebbero l'accumulo compulsivo come una disfunzione neurologica o un trauma nello sviluppo sociale, qualcuno che ha bisogno di aiuto. L'articolo suggerisce che invece di celebrare questi comportamenti sulle copertine dei giornali, forse varrebbe la pena riconoscere che chi non riesce a smettere di accumulare anche avendo già più di quanto potrebbe consumare in mille vite ha davvero bisogno di sostegno.
 
@@ -126,7 +126,7 @@ I biologi descriverebbero l'accumulo compulsivo come una disfunzione neurologica
     },
     {
       "@type": "Question",
-      "name": "Perché l'accumulo di ricchezza è contrario alle leggi della fisica secondo l'articolo?",
+      "name": "Perché la concentrazione di ricchezza contraddice le leggi della fisica?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo richiama la seconda legge della termodinamica: l'universo tende naturalmente a distribuire l'energia in modo uniforme. La concentrazione di ricchezza è l'opposto dell'entropia, e per mantenerla occorre spendere energia continuamente, costruendo muri, casseforti, paradisi fiscali, sistemi legali e polizie. La redistribuzione non è ideologia, ma la direzione naturale in cui le cose vogliono andare."
@@ -134,7 +134,7 @@ I biologi descriverebbero l'accumulo compulsivo come una disfunzione neurologica
     },
     {
       "@type": "Question",
-      "name": "Qual è la conclusione dell'articolo sull'accumulo patologico?",
+      "name": "L'accumulo compulsivo di ricchezza è una patologia?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "I biologi descriverebbero l'accumulo compulsivo come una disfunzione neurologica o un trauma nello sviluppo sociale, qualcuno che ha bisogno di aiuto. L'articolo suggerisce che invece di celebrare questi comportamenti sulle copertine dei giornali, forse varrebbe la pena riconoscere che chi non riesce a smettere di accumulare anche avendo già più di quanto potrebbe consumare in mille vite ha davvero bisogno di sostegno."

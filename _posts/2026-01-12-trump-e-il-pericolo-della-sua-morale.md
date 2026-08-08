@@ -69,7 +69,7 @@ Il diritto non pretende di stabilire cosa sia il Bene assoluto, ma si limita a d
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Come si collega la critica a Trump a quella a Meloni nell'articolo?</h3></summary>
+<summary><h3>Cosa hanno in comune Trump e Meloni nell'uso della morale in politica?</h3></summary>
 
 L'articolo afferma che Trump ha annunciato e Meloni ha sottoscritto l'approccio di imporre la propria visione morale come criterio di giustizia, trasformando così lo Stato in strumento di parte. Entrambi i governi vengono descritti come esempi di questa degenerazione della democrazia liberale.
 
@@ -98,7 +98,7 @@ L'articolo afferma che Trump ha annunciato e Meloni ha sottoscritto l'approccio 
     },
     {
       "@type": "Question",
-      "name": "Come si collega la critica a Trump a quella a Meloni nell'articolo?",
+      "name": "Cosa hanno in comune Trump e Meloni nell'uso della morale in politica?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo afferma che Trump ha annunciato e Meloni ha sottoscritto l'approccio di imporre la propria visione morale come criterio di giustizia, trasformando così lo Stato in strumento di parte. Entrambi i governi vengono descritti come esempi di questa degenerazione della democrazia liberale."

@@ -92,7 +92,7 @@ Il programma 'Mercante in fiera' condotto da Pino Insegno ha registrato uno shar
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Esiste davvero l'egemonia culturale della sinistra in RAI secondo l'articolo?</h3></summary>
+<summary><h3>Esiste davvero l'egemonia culturale della sinistra in RAI?</h3></summary>
 
 No. L'articolo sostiene che l'egemonia culturale della sinistra esiste solo per il vuoto cosmico che c'è a destra. Quando la destra ha avuto la possibilità di dimostrare la propria visione culturale, ha scelto telecronisti impreparati per eventi internazionali, programmi nostalgici che il pubblico non chiedeva e nomine basate sulla fedeltà politica anziché sulla competenza. Il pubblico ha risposto votando con il telecomando.
 
@@ -121,7 +121,7 @@ No. L'articolo sostiene che l'egemonia culturale della sinistra esiste solo per 
     },
     {
       "@type": "Question",
-      "name": "Esiste davvero l'egemonia culturale della sinistra in RAI secondo l'articolo?",
+      "name": "Esiste davvero l'egemonia culturale della sinistra in RAI?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "No. L'articolo sostiene che l'egemonia culturale della sinistra esiste solo per il vuoto cosmico che c'è a destra. Quando la destra ha avuto la possibilità di dimostrare la propria visione culturale, ha scelto telecronisti impreparati per eventi internazionali, programmi nostalgici che il pubblico non chiedeva e nomine basate sulla fedeltà politica anziché sulla competenza. Il pubblico ha risposto votando con il telecomando."

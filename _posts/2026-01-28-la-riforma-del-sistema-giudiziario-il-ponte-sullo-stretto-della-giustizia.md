@@ -69,7 +69,7 @@ Mentre il dibattito si concentra sulla separazione delle carriere, restano irris
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Qual è la posizione dell'articolo sul referendum?</h3></summary>
+<summary><h3>Perché votare NO al referendum sulla separazione delle carriere?</h3></summary>
 
 L'articolo invita a votare NO, sostenendo che la riforma non rappresenta la priorità per un sistema giudiziario che ha bisogno di interventi concreti e immediati. Come per il Ponte sullo Stretto, la domanda non è se sia tecnicamente fattibile, ma se sia davvero questa la priorità o se sia più facile vendere un grande progetto simbolico che affrontare i problemi quotidiani.
 
@@ -98,7 +98,7 @@ L'articolo invita a votare NO, sostenendo che la riforma non rappresenta la prio
     },
     {
       "@type": "Question",
-      "name": "Qual è la posizione dell'articolo sul referendum?",
+      "name": "Perché votare NO al referendum sulla separazione delle carriere?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo invita a votare NO, sostenendo che la riforma non rappresenta la priorità per un sistema giudiziario che ha bisogno di interventi concreti e immediati. Come per il Ponte sullo Stretto, la domanda non è se sia tecnicamente fattibile, ma se sia davvero questa la priorità o se sia più facile vendere un grande progetto simbolico che affrontare i problemi quotidiani."

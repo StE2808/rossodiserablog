@@ -62,21 +62,21 @@ La verità è scomoda: la resistenza è resistenza, ovunque avvenga. E l'oppress
 ## Domande frequenti
 
 <details class="faq-item" markdown="1">
-<summary><h3>Quale gesto delle donne iraniane è al centro dell'articolo?</h3></summary>
+<summary><h3>Perché le donne iraniane bruciano le foto di Khomeini?</h3></summary>
 
 L'articolo parte da un'immagine virale sui social: donne iraniane che accendono sigarette bruciando foto dell'ayatollah Khomeini. È un gesto di sfida quotidiana contro un regime che ha fatto del controllo sui corpi femminili uno dei suoi pilastri, e che comporta rischi gravissimi (arresto, tortura, morte) per il diritto di fumare, di non portare l'hijab, di esistere liberamente.
 
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Qual è il doppio standard mediatico denunciato nell'articolo?</h3></summary>
+<summary><h3>Qual è il doppio standard dei media occidentali sulla resistenza?</h3></summary>
 
 I media occidentali celebrano con ammirazione la resistenza delle donne iraniane, definendole 'combattenti per la libertà'. Ma quando un popolo resiste sotto occupazione militare, con case demolite, terre confiscate e bambini uccisi (come nel caso palestinese) la stessa resistenza viene sistematicamente etichettata come terrorismo. Due popoli sotto oppressione, due narrazioni opposte: un doppio standard che l'articolo riconduce ad agende geopolitiche.
 
 </details>
 
 <details class="faq-item" markdown="1">
-<summary><h3>Qual è la tesi centrale dell'articolo sulla resistenza all'oppressione?</h3></summary>
+<summary><h3>Esiste un diritto universale dei popoli oppressi a resistere?</h3></summary>
 
 L'articolo non intende giustificare la violenza da nessuna parte, ma chiede coerenza: o si riconosce il diritto universale dei popoli oppressi di resistere, oppure si ammette che la solidarietà internazionale è condizionata da agende geopolitiche. La resistenza rimane resistenza ovunque avvenga, e l'oppressione rimane oppressione qualunque sia l'uniforme di chi la perpetra.
 
@@ -89,7 +89,7 @@ L'articolo non intende giustificare la violenza da nessuna parte, ma chiede coer
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Quale gesto delle donne iraniane è al centro dell'articolo?",
+      "name": "Perché le donne iraniane bruciano le foto di Khomeini?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo parte da un'immagine virale sui social: donne iraniane che accendono sigarette bruciando foto dell'ayatollah Khomeini. È un gesto di sfida quotidiana contro un regime che ha fatto del controllo sui corpi femminili uno dei suoi pilastri, e che comporta rischi gravissimi (arresto, tortura, morte) per il diritto di fumare, di non portare l'hijab, di esistere liberamente."
@@ -97,7 +97,7 @@ L'articolo non intende giustificare la violenza da nessuna parte, ma chiede coer
     },
     {
       "@type": "Question",
-      "name": "Qual è il doppio standard mediatico denunciato nell'articolo?",
+      "name": "Qual è il doppio standard dei media occidentali sulla resistenza?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "I media occidentali celebrano con ammirazione la resistenza delle donne iraniane, definendole 'combattenti per la libertà'. Ma quando un popolo resiste sotto occupazione militare, con case demolite, terre confiscate e bambini uccisi (come nel caso palestinese) la stessa resistenza viene sistematicamente etichettata come terrorismo. Due popoli sotto oppressione, due narrazioni opposte: un doppio standard che l'articolo riconduce ad agende geopolitiche."
@@ -105,7 +105,7 @@ L'articolo non intende giustificare la violenza da nessuna parte, ma chiede coer
     },
     {
       "@type": "Question",
-      "name": "Qual è la tesi centrale dell'articolo sulla resistenza all'oppressione?",
+      "name": "Esiste un diritto universale dei popoli oppressi a resistere?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "L'articolo non intende giustificare la violenza da nessuna parte, ma chiede coerenza: o si riconosce il diritto universale dei popoli oppressi di resistere, oppure si ammette che la solidarietà internazionale è condizionata da agende geopolitiche. La resistenza rimane resistenza ovunque avvenga, e l'oppressione rimane oppressione qualunque sia l'uniforme di chi la perpetra."
