@@ -1,4 +1,5 @@
 ---
+description: "Articoli di Lino Rialti su Rosso di Sera: giornalista dal 1992, analisi di politica interna, diritti e attualita’ italiana."
 short_name: lino-rialti
 name: Lino Rialti
 position: Autore

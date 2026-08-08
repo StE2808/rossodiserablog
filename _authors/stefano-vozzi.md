@@ -2,6 +2,7 @@
 name: Stefano Vozzi
 username: StE
 bio: ''
+description: "Articoli di Stefano Vozzi su Rosso di Sera: politica, tecnologia e societa’, con uno sguardo critico su potere e disuguaglianze."
 short_name: stefano-vozzi
 position: Autore
 ---

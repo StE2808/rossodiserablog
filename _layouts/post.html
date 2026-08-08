@@ -58,13 +58,12 @@ layout: default
                       {{ author_initials }}
                     {% endif %}
                 </div>
-                {% if page.author == "stefano-vozzi" %}
-                  <span>Stefano Vozzi</span>
-                {% elsif page.author == "lino-rialti" %}
-                  <span>Lino Rialti</span>
-                {% else %}
-                  <span>{{ page.author | replace: "-", " " | capitalize }}</span>
+                <a href="{{ '/authors/' | append: page.author | append: '/' | relative_url }}" rel="author" class="post-author-link">
+                {% if page.author == "stefano-vozzi" %}Stefano Vozzi
+                {% elsif page.author == "lino-rialti" %}Lino Rialti
+                {% else %}{{ page.author | replace: "-", " " | capitalize }}
                 {% endif %}
+                </a>
             </div>
             <span class="meta-separator">•</span>
             <span class="post-date">{{ page.date | date: "%d %B %Y" }}</span>
