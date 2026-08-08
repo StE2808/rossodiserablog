@@ -47,3 +47,74 @@ Non si tratta più di essere favorevoli o contrari alla caccia come attività tr
 Il disegno di legge, se approvato nella sua forma attuale, rappresenterebbe una grave minaccia per l'ambiente italiano, compromettendo equilibri ecologici già fragili e ignorando deliberatamente sia i principi costituzionali di tutela del paesaggio e dell'ambiente, sia le normative comunitarie in materia.
 
 L'ecosistema non è solo il palcoscenico delle nostre attività, ma la nostra casa comune, dalla cui salute dipende il benessere presente e futuro della società. Sacrificarlo sull'altare di interessi elettorali di breve periodo rappresenta una miopia politica che le generazioni future difficilmente potranno perdonare.
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa prevede il ddl caccia di Lollobrigida?</h3></summary>
+
+Il disegno di legge proposto dal ministro dell'Agricoltura Francesco Lollobrigida e sostenuto dalla Lega si articola in 18 punti. Aumenta le specie cacciabili da 7 a 47, riduce le aree protette, consente l'attività venatoria nelle zone demaniali, proroga le giornate di caccia e permette gare con i cani anche in orario notturno e durante i periodi di nidificazione.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quante specie diventerebbero cacciabili con il nuovo ddl?</h3></summary>
+
+Si passerebbe da 7 a 47 specie cacciabili, quasi sette volte tanto: un ampliamento senza precedenti, che apre a una pressione venatoria insostenibile per molte specie già in difficoltà. Il testo definisce però la caccia come attività che concorre alla tutela della biodiversità e dell'ecosistema, un'affermazione che contraddice decenni di studi scientifici e di politiche conservazionistiche italiane ed europee.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il ddl caccia rischia una procedura d'infrazione europea?</h3></summary>
+
+Sì. Tra le misure più controverse c'è la riapertura degli impianti di cattura degli uccelli, una pratica già dichiarata fuorilegge dall'Unione Europea. La scelta espone l'Italia al rischio di procedure d'infrazione e rappresenta un passo indietro rispetto agli impegni presi in sede comunitaria per la tutela della biodiversità.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>È vero che il ddl caccia punisce chi protesta?</h3></summary>
+
+Sì. Il disegno di legge prevede sanzioni fino a 900 euro per chi protesta contro la caccia: un elemento repressivo che limita la libertà di espressione e di manifestazione su un tema di rilevante interesse pubblico. Si aggiunge a un impianto che arriva mentre l'ecosistema italiano è già compromesso da cambiamenti climatici, inquinamento, consumo di suolo e urbanizzazione.
+
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cosa prevede il ddl caccia di Lollobrigida?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il disegno di legge proposto dal ministro dell'Agricoltura Francesco Lollobrigida e sostenuto dalla Lega si articola in 18 punti. Aumenta le specie cacciabili da 7 a 47, riduce le aree protette, consente l'attività venatoria nelle zone demaniali, proroga le giornate di caccia e permette gare con i cani anche in orario notturno e durante i periodi di nidificazione."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quante specie diventerebbero cacciabili con il nuovo ddl?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Si passerebbe da 7 a 47 specie cacciabili, quasi sette volte tanto: un ampliamento senza precedenti, che apre a una pressione venatoria insostenibile per molte specie già in difficoltà. Il testo definisce però la caccia come attività che concorre alla tutela della biodiversità e dell'ecosistema, un'affermazione che contraddice decenni di studi scientifici e di politiche conservazionistiche italiane ed europee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il ddl caccia rischia una procedura d'infrazione europea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì. Tra le misure più controverse c'è la riapertura degli impianti di cattura degli uccelli, una pratica già dichiarata fuorilegge dall'Unione Europea. La scelta espone l'Italia al rischio di procedure d'infrazione e rappresenta un passo indietro rispetto agli impegni presi in sede comunitaria per la tutela della biodiversità."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "È vero che il ddl caccia punisce chi protesta?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì. Il disegno di legge prevede sanzioni fino a 900 euro per chi protesta contro la caccia: un elemento repressivo che limita la libertà di espressione e di manifestazione su un tema di rilevante interesse pubblico. Si aggiunge a un impianto che arriva mentre l'ecosistema italiano è già compromesso da cambiamenti climatici, inquinamento, consumo di suolo e urbanizzazione."
+      }
+    }
+  ]
+}
+</script>

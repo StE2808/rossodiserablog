@@ -39,3 +39,74 @@ Esistono sempre più iniziative per sensibilizzare e tentare di limitare il prob
 E' ovvio che sono molte altre le iniziative per la pulizia o ripulitura di acque e spiagge ma il problema è certamente quello di evitare lo sversamento della plastica, in primis andandola ad eliminare e sostituendola con materiali meno impattanti e quando possibile degradabili e, quanto meno, riutilizzabili.
 
 Foto: Di Hajj0 ms - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16040020
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è l'isola di plastica del Pacifico?</h3></summary>
+
+È il Pacific trash vortex, noto anche come Great Pacific garbage patch: un ammasso di plastiche frantumate e legname individuato già a metà degli anni Novanta, concentrato dalle correnti marine in un determinato quadrante. Non essendo solido cambia forma e dimensione, e si stima un'estensione tra i 700mila e i 10 milioni di chilometri quadrati, dallo 0,41% al 5,6% della superficie dell'Oceano Pacifico.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto pesa l'isola di plastica del Pacifico?</h3></summary>
+
+Alcune stime della Marina degli Stati Uniti ipotizzano un peso complessivo di oltre tre milioni di tonnellate di plastica, ma per altri enti l'ammontare potrebbe raggiungere i 100 milioni di tonnellate. La difficoltà di quantificazione dipende dalla natura stessa dell'ammasso, che non è solido e viene continuamente rimodellato dalle correnti marine.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Esiste un'isola di plastica anche nel Mediterraneo?</h3></summary>
+
+Sì, a nord ovest dell'isola d'Elba, tra la punta della Corsica e Capraia. È molto più piccola, qualche decina di chilometri, ma è composta da frammenti inferiori ai 2 millimetri, quindi è due volte più densa e pericolosa di quella del Pacifico, ed è anch'essa in crescita. La alimentano tre fiumi che sfociano nel Tirreno: l'Arno, il Tevere e il Sarno.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanta plastica c'è nel Mar Mediterraneo?</h3></summary>
+
+Secondo uno studio del WWF nel Mar Mediterraneo sono già presenti oltre 570 mila tonnellate di rifiuti plastici, e ogni anno se ne aggiungono tra le 150.000 e le 500.000. L'impatto ricade su chi abita le acque: pesci, cetacei, tartarughe e uccelli muoiono per l'ingestione di questo particolato, che provoca occlusioni o perforazioni dell'apparato digestivo.
+
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Che cos'è l'isola di plastica del Pacifico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "È il Pacific trash vortex, noto anche come Great Pacific garbage patch: un ammasso di plastiche frantumate e legname individuato già a metà degli anni Novanta, concentrato dalle correnti marine in un determinato quadrante. Non essendo solido cambia forma e dimensione, e si stima un'estensione tra i 700mila e i 10 milioni di chilometri quadrati, dallo 0,41% al 5,6% della superficie dell'Oceano Pacifico."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quanto pesa l'isola di plastica del Pacifico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcune stime della Marina degli Stati Uniti ipotizzano un peso complessivo di oltre tre milioni di tonnellate di plastica, ma per altri enti l'ammontare potrebbe raggiungere i 100 milioni di tonnellate. La difficoltà di quantificazione dipende dalla natura stessa dell'ammasso, che non è solido e viene continuamente rimodellato dalle correnti marine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Esiste un'isola di plastica anche nel Mediterraneo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì, a nord ovest dell'isola d'Elba, tra la punta della Corsica e Capraia. È molto più piccola, qualche decina di chilometri, ma è composta da frammenti inferiori ai 2 millimetri, quindi è due volte più densa e pericolosa di quella del Pacifico, ed è anch'essa in crescita. La alimentano tre fiumi che sfociano nel Tirreno: l'Arno, il Tevere e il Sarno."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quanta plastica c'è nel Mar Mediterraneo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secondo uno studio del WWF nel Mar Mediterraneo sono già presenti oltre 570 mila tonnellate di rifiuti plastici, e ogni anno se ne aggiungono tra le 150.000 e le 500.000. L'impatto ricade su chi abita le acque: pesci, cetacei, tartarughe e uccelli muoiono per l'ingestione di questo particolato, che provoca occlusioni o perforazioni dell'apparato digestivo."
+      }
+    }
+  ]
+}
+</script>

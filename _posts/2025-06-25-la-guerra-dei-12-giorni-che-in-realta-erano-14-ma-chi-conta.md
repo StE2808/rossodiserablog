@@ -25,3 +25,59 @@ E mentre tutti si congratulano per la fine di questa guerra-non-guerra di 12-ma-
 Nel frattempo, "a Gaza prosegue una [carneficina](https://rossodiserablog.it/gaza-i-fatti-i-numeri-le-responsabilita/)" - ma di questo si parla sottovoce, perché disturba la narrazione della vittoria universale. È difficile festeggiare quando la festa si svolge sopra un cimitero, ma l'importante è che tutti possano dire di aver vinto qualcosa.
 
 Alla fine, questa guerra dei 12 giorni (14, ma chi sta a contare?) ci insegna una lezione preziosa: nel teatro geopolitico moderno, non importa quanto duri davvero un conflitto, importa solo come lo si racconta. E se tutti vincono, allora nessuno perde. Tranne, ovviamente, chi ci rimette la pelle - ma quelli, di solito, non fanno conferenze stampa.
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto è durata la guerra dei 12 giorni tra Israele e Iran?</h3></summary>
+
+Quattordici giorni, non dodici. Il nome con cui il conflitto è passato alla cronaca resta però quello sbagliato, ed è già un indizio di come funziona il racconto delle guerre: nel teatro geopolitico moderno non conta quanto dura davvero un conflitto, conta come lo si racconta. La cifra tonda si ricorda meglio di quella esatta.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi si è preso il merito del cessate il fuoco tra Israele e Iran?</h3></summary>
+
+Tutti quanti. L'Iran ha festeggiato, Israele pure, e Trump si è preso i complimenti per una telefonata. Il presidente iraniano Pezeshkian ha rivendicato la tregua come una vittoria, dopo aver violato il cessate il fuoco. Trump è apparso furioso davanti ai giornalisti, con un'uscita irripetibile sul fatto che non sappiano quello che fanno, salvo riconciliarsi poco dopo.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La fine della guerra dei 12 giorni porta la pace in Medio Oriente?</h3></summary>
+
+No. La fine del conflitto non garantirà la pace a Israele finché non sarà affrontata la questione palestinese: è stato risolto il problema secondario ignorando quello principale. Nel frattempo l'esercito israeliano ha confermato che la sua attenzione tornerà su Gaza, dove prosegue una carneficina di cui si parla sottovoce, perché disturba la narrazione della vittoria universale.
+
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quanto è durata la guerra dei 12 giorni tra Israele e Iran?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quattordici giorni, non dodici. Il nome con cui il conflitto è passato alla cronaca resta però quello sbagliato, ed è già un indizio di come funziona il racconto delle guerre: nel teatro geopolitico moderno non conta quanto dura davvero un conflitto, conta come lo si racconta. La cifra tonda si ricorda meglio di quella esatta."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Chi si è preso il merito del cessate il fuoco tra Israele e Iran?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tutti quanti. L'Iran ha festeggiato, Israele pure, e Trump si è preso i complimenti per una telefonata. Il presidente iraniano Pezeshkian ha rivendicato la tregua come una vittoria, dopo aver violato il cessate il fuoco. Trump è apparso furioso davanti ai giornalisti, con un'uscita irripetibile sul fatto che non sappiano quello che fanno, salvo riconciliarsi poco dopo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La fine della guerra dei 12 giorni porta la pace in Medio Oriente?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. La fine del conflitto non garantirà la pace a Israele finché non sarà affrontata la questione palestinese: è stato risolto il problema secondario ignorando quello principale. Nel frattempo l'esercito israeliano ha confermato che la sua attenzione tornerà su Gaza, dove prosegue una carneficina di cui si parla sottovoce, perché disturba la narrazione della vittoria universale."
+      }
+    }
+  ]
+}
+</script>

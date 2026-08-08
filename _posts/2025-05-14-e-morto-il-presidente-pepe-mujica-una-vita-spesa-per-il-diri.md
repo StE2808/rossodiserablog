@@ -23,3 +23,59 @@ Il Presidente Mujica ci lascia un'eredità di saggezza preziosa, invitandoci a [
 In un'epoca dominata dal consumismo sfrenato, la sua voce si è levata per ricordarci che "il tesoro più importante che abbiamo è la felicità" e che "quando lottiamo per l'ambiente, dobbiamo ricordare che il primo elemento dell'ambiente si chiama felicità umana."
 
 Il mondo perde oggi non solo un leader politico, ma un maestro di vita che ha saputo incarnare i valori più alti dell'umanità.
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi era Pepe Mujica?</h3></summary>
+
+José 'Pepe' Mujica è stato presidente dell'Uruguay e una delle figure più coerenti del panorama politico mondiale. Ex guerrigliero, conobbe la durezza di quindici anni di carcere durante la dittatura, senza mai permettere che le sofferenze del passato offuscassero la sua visione luminosa dell'umanità. Viene ricordato come un maestro di vita prima ancora che come un leader politico.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Mujica viveva da povero pur essendo presidente?</h3></summary>
+
+Mentre occupava la più alta carica dello Stato ha continuato a vivere nella sua modesta casa colonica, con la moglie e il suo fedele cane a tre zampe, devolvendo il 90% del suo stipendio in beneficenza. Citando gli antichi pensatori ricordava che povero non è colui che tiene poco, ma colui che necessita tanto e desidera ancora di più.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è l'eredità politica di Pepe Mujica?</h3></summary>
+
+L'invito a ripensare il modello di sviluppo, per costruire una società in cui l'economia sia al servizio dell'uomo e non viceversa. Lo sviluppo, affermava, non può essere contrario alla felicità: deve essere a favore della felicità umana, dell'amore sulla Terra, delle relazioni umane. In un'epoca dominata dal consumismo, ricordava che il tesoro più importante che abbiamo è la felicità.
+
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Chi era Pepe Mujica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "José 'Pepe' Mujica è stato presidente dell'Uruguay e una delle figure più coerenti del panorama politico mondiale. Ex guerrigliero, conobbe la durezza di quindici anni di carcere durante la dittatura, senza mai permettere che le sofferenze del passato offuscassero la sua visione luminosa dell'umanità. Viene ricordato come un maestro di vita prima ancora che come un leader politico."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché Mujica viveva da povero pur essendo presidente?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mentre occupava la più alta carica dello Stato ha continuato a vivere nella sua modesta casa colonica, con la moglie e il suo fedele cane a tre zampe, devolvendo il 90% del suo stipendio in beneficenza. Citando gli antichi pensatori ricordava che povero non è colui che tiene poco, ma colui che necessita tanto e desidera ancora di più."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è l'eredità politica di Pepe Mujica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'invito a ripensare il modello di sviluppo, per costruire una società in cui l'economia sia al servizio dell'uomo e non viceversa. Lo sviluppo, affermava, non può essere contrario alla felicità: deve essere a favore della felicità umana, dell'amore sulla Terra, delle relazioni umane. In un'epoca dominata dal consumismo, ricordava che il tesoro più importante che abbiamo è la felicità."
+      }
+    }
+  ]
+}
+</script>

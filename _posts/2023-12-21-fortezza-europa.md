@@ -28,3 +28,74 @@ Visto che si cercava la quadra da tre anni, anche se il quadro è a tinte verame
 Ora questo scellerato Patto dovrà essere approvato dalla Commissione Libertà civili, dalla plenaria del Parlamento Ue e dal Consiglio europeo. Ovviamente tutte le associazioni umanitarie si sono dichiarate contrarie: per esempio per Amnesty International il patto provocherà "un aumento della sofferenza umana. Dal modo in cui le persone verranno trattate dai Paesi extra unione europea al loro accesso all’asilo e all’assistenza legale alle frontiere europee, fino all’accoglienza all’interno dell’Unione europea, questo accordo è progettato per rendere più difficile l’accesso alla sicurezza". Nessun accenno al finanziamento dei ponti umanitari lasciati nelle poverissime mani di associazioni umanitarie e chiese protestanti.
 
 Sembra che gli schieramenti di sinistra in tutta Europa abbiano perso globalmente la bussola e che stiano quasi volontariamente consegnando l'istituzione europea in blocco alle destre, soprattutto a quelle più estreme che rincorrono su temi a loro cari invece di differenziarsi, invece di opporvisi. I padri fondatori di questa Europa come Altiero Spinelli, Alcide De Gasperi, Luise Weiss, Nilde Iotti o Marga Klompè non sarebbero felici di vedere come sta andando a finire il loro lavoro di integrazione tra stati, di difesa dei diritti dei più deboli, di politiche di solidarietà.
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Che cosa prevede il Patto europeo su immigrazione e asilo?</h3></summary>
+
+L'accordo raggiunto tra Europarlamento e Consiglio UE non modifica nella sostanza il regolamento di Dublino: resta sui paesi di primo approdo l'onere dell'accoglienza e dell'identificazione, ora obbligatoriamente più stringente, con la raccolta dei dati biometrici a partire dai bambini di sei anni di età. Il diritto di asilo viene ulteriormente ristretto.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il Patto prevede un ricollocamento obbligatorio dei migranti?</h3></summary>
+
+Solo sulla carta. Il meccanismo di ricollocamento è obbligatorio e i migranti sono lasciati liberi di scegliere lo Stato di destinazione, ma gli Stati membri non sono obbligati ad accoglierli: i governi possono scegliere tra l'accoglienza e il pagamento di un compenso ai paesi di prima accoglienza. La parola accoglienza viene ripetuta fino allo sfinimento e poi disattesa.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali paesi hanno votato contro il Patto immigrazione e asilo?</h3></summary>
+
+Ungheria e Slovacchia, i duri del gruppo di Visegrad: non solo contrari all'accoglienza dei migranti, ma anche a contribuire economicamente in caso di mancata accoglienza. Tutti gli altri Stati si sono espressi a favore, dopo tre anni passati a cercare la quadra su un quadro che resta a tinte fosche.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il Patto è stato presentato come un successo?</h3></summary>
+
+Perché si vota. La presidente del Parlamento Roberta Metsola ha parlato di equilibrio trovato tra solidarietà e responsabilità, Ursula von der Leyen di accordo storico, e insieme a Charles Michel ha dichiarato che saranno gli europei a decidere chi verrà nell'Unione, non i trafficanti. Con le elezioni europee vicine, nessun partito voleva offrire il fianco alla propaganda populista.
+
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Che cosa prevede il Patto europeo su immigrazione e asilo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'accordo raggiunto tra Europarlamento e Consiglio UE non modifica nella sostanza il regolamento di Dublino: resta sui paesi di primo approdo l'onere dell'accoglienza e dell'identificazione, ora obbligatoriamente più stringente, con la raccolta dei dati biometrici a partire dai bambini di sei anni di età. Il diritto di asilo viene ulteriormente ristretto."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il Patto prevede un ricollocamento obbligatorio dei migranti?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Solo sulla carta. Il meccanismo di ricollocamento è obbligatorio e i migranti sono lasciati liberi di scegliere lo Stato di destinazione, ma gli Stati membri non sono obbligati ad accoglierli: i governi possono scegliere tra l'accoglienza e il pagamento di un compenso ai paesi di prima accoglienza. La parola accoglienza viene ripetuta fino allo sfinimento e poi disattesa."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali paesi hanno votato contro il Patto immigrazione e asilo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ungheria e Slovacchia, i duri del gruppo di Visegrad: non solo contrari all'accoglienza dei migranti, ma anche a contribuire economicamente in caso di mancata accoglienza. Tutti gli altri Stati si sono espressi a favore, dopo tre anni passati a cercare la quadra su un quadro che resta a tinte fosche."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché il Patto è stato presentato come un successo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perché si vota. La presidente del Parlamento Roberta Metsola ha parlato di equilibrio trovato tra solidarietà e responsabilità, Ursula von der Leyen di accordo storico, e insieme a Charles Michel ha dichiarato che saranno gli europei a decidere chi verrà nell'Unione, non i trafficanti. Con le elezioni europee vicine, nessun partito voleva offrire il fianco alla propaganda populista."
+      }
+    }
+  ]
+}
+</script>

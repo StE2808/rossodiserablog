@@ -34,3 +34,74 @@ Comunque esistono esempi di Paesi che hanno già sperimentato il Reddito Univers
 Per esempio la Finlandia, il Canada, i Paesi Bassi e la Spagna. Questi esperimenti offrono interessanti spunti sull’efficacia e la fattibilità del reddito universale, anche se i risultati variano a seconda del contesto e delle modalità di implementazione. In nessuno di questi Paesi, però, l'esperimento si è mostrato fallimentare.
 
 In conclusione, il reddito universale rappresenta una sfida complessa ma promettente per affrontare la disuguaglianza economica e promuovere l’educazione universale. La sua implementazione richiede un approccio bilanciato e una valutazione attenta delle conseguenze a lungo termine, riducendo i gap economici, permette di ridurre i gap socio-culturali e riduce drasticamente i fenomeni della microcriminalità.
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è il reddito universale?</h3></summary>
+
+Il reddito universale, chiamato anche reddito di base incondizionato, prevede pagamenti regolari e incondizionati a tutti i cittadini, indipendentemente dal loro reddito (fino a una certa soglia) o dalla loro situazione lavorativa. L'obiettivo principale è ridurre la disuguaglianza economica e garantire a tutti un livello minimo di sicurezza finanziaria.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono i vantaggi del reddito di base incondizionato?</h3></summary>
+
+Sono quattro. Riduce la povertà, perché fornisce un sostegno finanziario costante che aiuta a superare la soglia. Migliora la sicurezza economica, garantendo una rete per le emergenze. Promuove l'uguaglianza sociale, assicurando a tutti un livello di partenza equo. Rafforza la libertà individuale, perché permette scelte più autonome e la ricerca di opportunità di crescita personale.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il reddito universale disincentiva il lavoro?</h3></summary>
+
+È l'obiezione più diffusa, e ha un risvolto opposto a quello che si crede. Continuerebbe a lavorare chi ama il proprio impiego o si identifica in quello che fa, mentre gli altri potrebbero scegliere di dedicarsi alle proprie passioni. Il primo effetto sarebbe che il datore di lavoro dovrebbe rinunciare a tutte le forme di lavoro che sottopagano e sfruttano il lavoratore.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono le obiezioni economiche al reddito universale?</h3></summary>
+
+Sono tre. L'impatto sui bilanci pubblici, perché servono risorse significative, anche se dove è stato sperimentato si è visto che sarebbe sopportabile per le finanze degli Stati europei. La determinazione dell'importo appropriato, sfida complessa che molti Stati hanno già affrontato. E il rischio che l'introduzione possa innescare inflazione.
+
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Che cos'è il reddito universale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il reddito universale, chiamato anche reddito di base incondizionato, prevede pagamenti regolari e incondizionati a tutti i cittadini, indipendentemente dal loro reddito (fino a una certa soglia) o dalla loro situazione lavorativa. L'obiettivo principale è ridurre la disuguaglianza economica e garantire a tutti un livello minimo di sicurezza finanziaria."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono i vantaggi del reddito di base incondizionato?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sono quattro. Riduce la povertà, perché fornisce un sostegno finanziario costante che aiuta a superare la soglia. Migliora la sicurezza economica, garantendo una rete per le emergenze. Promuove l'uguaglianza sociale, assicurando a tutti un livello di partenza equo. Rafforza la libertà individuale, perché permette scelte più autonome e la ricerca di opportunità di crescita personale."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il reddito universale disincentiva il lavoro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "È l'obiezione più diffusa, e ha un risvolto opposto a quello che si crede. Continuerebbe a lavorare chi ama il proprio impiego o si identifica in quello che fa, mentre gli altri potrebbero scegliere di dedicarsi alle proprie passioni. Il primo effetto sarebbe che il datore di lavoro dovrebbe rinunciare a tutte le forme di lavoro che sottopagano e sfruttano il lavoratore."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono le obiezioni economiche al reddito universale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sono tre. L'impatto sui bilanci pubblici, perché servono risorse significative, anche se dove è stato sperimentato si è visto che sarebbe sopportabile per le finanze degli Stati europei. La determinazione dell'importo appropriato, sfida complessa che molti Stati hanno già affrontato. E il rischio che l'introduzione possa innescare inflazione."
+      }
+    }
+  ]
+}
+</script>
