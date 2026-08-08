@@ -33,6 +33,29 @@ Quando vedo un bambino che fa volare un aquilone in un parco, mi chiedo se si re
 
 Forse è proprio questo il fascino senza tempo dell'aquilone: ci ricorda, con la sua semplicità perfetta, la nostra condizione di esseri in bilico, sempre in cerca di quell'equilibrio tra libertà e appartenenza che ci permette, come l'aquilone, di volare più in alto.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Da dove viene la storia degli aquiloni?</h3></summary>
+
+Gli aquiloni nascono in Cina circa 3000 anni fa, durante il periodo degli Stati Combattenti. Il filosofo Mozi impiegò tre anni per costruire un aquilone di legno a forma di uccello, usato come strumento militare per misurare distanze e comunicare messaggi. Il generale Han Hsin usò un aquilone per calcolare quanto scavare sotto le mura di una città assediata. Da lì, la tradizione si diffuse in Giappone, India e poi in Europa grazie ai resoconti di Marco Polo.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il significato simbolico dell'aquilone?</h3></summary>
+
+L'aquilone racchiude uno dei paradossi più profondi dell'esistenza: può volare solo perché è vincolato. È libero proprio grazie al filo che lo tiene. Questo simbolismo riflette la condizione umana: siamo sospesi tra libertà e costrizione, tra autonomia e appartenenza. Chi tiene il filo esercita un controllo ma deve anche arrendersi al vento. Non dominare completamente, non abbandonarsi totalmente: fluire con le forze della natura.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si è evoluto l'aquilone da strumento militare a forma d'arte?</h3></summary>
+
+Con l'evoluzione dei materiali — dalla seta alla carta di riso, dal bambù ai moderni tessuti sintetici — l'aquilone si è liberato dalle sue funzioni utilitaristiche per diventare pura espressione creativa. Oggi esistono aquiloni artistici di straordinaria complessità: draghi cinesi lunghi centinaia di metri, figure geometriche multicolori, creature fantastiche. La disciplina degli aquiloni acrobatici è diventata uno sport che richiede anni di pratica e una profonda conoscenza del vento.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

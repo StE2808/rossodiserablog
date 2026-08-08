@@ -85,6 +85,29 @@ La posta in gioco non è mai stata così alta. L'Europa ha già dimostrato in pa
 
 In un mondo in cui le Big Tech e le superpotenze autoritarie sembrano avere il vento in poppa, l'Europa può e deve rappresentare un modello alternativo: quello di una comunità di nazioni democratiche che, pur mantenendo le proprie diversità, trovano nella cooperazione e nell'integrazione la forza per determinare il proprio destino.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come le Big Tech sono diventate attori geopolitici?</h3></summary>
+
+Le Big Tech — Apple, Google, Meta, Amazon, Microsoft, Tesla — non dipendono più dalla politica tradizionale: possono influenzare direttamente le masse attraverso gli algoritmi e le piattaforme che controllano. Il caso dell'alleanza tra Trump e Musk ha dimostrato come il potere mediatico di un singolo magnate tecnologico possa tradursi in influenza politica concreta, rendendo le Big Tech dei veri kingmaker nel panorama geopolitico mondiale.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il rischio per l'Europa in questo nuovo scenario geopolitico?</h3></summary>
+
+L'Europa rischia di diventare un attore secondario in un mondo dominato da un potenziale triumvirato USA-Russia-Cina, con le Big Tech come quasi-stati. Senza un'integrazione profonda della difesa, dei mercati finanziari e della tecnologia, le democrazie europee si troverebbero incapaci di influenzare le decisioni globali e vulnerabili all'espansionismo russo e all'influenza economica cinese.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come può l'Europa costruire una sua autonomia strategica?</h3></summary>
+
+L'autonomia strategica europea richiede: la creazione di una difesa comune integrata, lo sviluppo di un'intelligence unificata, investimenti massicci in innovazione tecnologica per competere con i giganti americani e cinesi, e l'unificazione dei mercati finanziari europei per creare un contrappeso a Wall Street. Non si tratta solo di riforme tecniche: serve un nuovo patto fondativo tra le nazioni europee che superi i particolarismi nazionali.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

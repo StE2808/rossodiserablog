@@ -46,6 +46,29 @@ La premier filo-Trump ha trasformato il nostro Paese nel paria d'Europa. Mentre 
 
 Il Re è nudo. E nuda è la vergogna di un governo che ha venduto l'anima dell'Italia.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la posizione dell'Italia sul conflitto a Gaza?</h3></summary>
+
+Il governo Meloni ha votato contro le sanzioni a Israele e si è distinto dai principali partner europei — Francia, Spagna, Irlanda, Norvegia — che hanno riconosciuto lo Stato di Palestina. Oltre 145 paesi nel mondo hanno riconosciuto la Palestina (ONU 2025), ma l'Italia rimane tra quelli che non lo hanno ancora fatto.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si posiziona l'Italia rispetto agli alleati europei su Ucraina e Gaza?</h3></summary>
+
+Mentre UK, Germania e Francia stringono patti di ferro per difendere la democrazia europea e affrontare il pericolo russo, il governo italiano ha scelto un allineamento con le posizioni più filo-trumpiane, isolandosi progressivamente dalle scelte dei principali partner UE.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il governo Meloni è accusato di complicità con Israele?</h3></summary>
+
+L'accusa nasce dal voto contrario alle risoluzioni di sanzione a Israele, dal mancato riconoscimento della Palestina e dalla copertura politica fornita alle operazioni militari israeliane che, secondo numerosi rapporti ONU e organizzazioni umanitarie, hanno colpito ripetutamente ospedali, scuole e luoghi di culto.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

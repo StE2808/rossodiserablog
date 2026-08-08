@@ -25,6 +25,22 @@ E non è solo questione di bellezza. La luce gioca un ruolo cruciale nella sicur
 
 In definitiva, le luci urbane sono più che semplici strumenti per vederci chiaro. Sono l'impulso elettrico che alimenta il cuore della città, definendo la sua identità, svelando la sua storia e, in qualche modo, dirigendo le vite di chi la popola. Quindi, la prossima volta che ti ritrovi a camminare tra i palazzi di una metropoli al crepuscolo, alza lo sguardo. Ti attende un luminoso racconto che vale la pena ascoltare.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come l'illuminazione urbana influenza il comportamento delle persone?</h3></summary>
+
+L'illuminazione urbana influenza profondamente il comportamento e il benessere delle persone. Luci fredde e taglienti creano un'atmosfera di efficienza e attivazione, mentre luci calde e soffuse favoriscono relax e socialità. Le strade ben illuminate aumentano la percezione di sicurezza e incoraggiano la vita notturna. La luce può trasformare uno spazio deserto in un luogo accogliente o un edificio anonimo in un punto di riferimento.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali città nel mondo hanno l'illuminazione più caratteristica?</h3></summary>
+
+Roma è famosa per i lampioni d'epoca di quartieri come Trastevere, che proiettano un bagliore dorato sulle strade acciottolate creando un'atmosfera calda e storica. Tokyo è invece celebre per la sinfonia di luci al neon dei suoi quartieri come Shinjuku e Akihabara, che danno la sensazione di trovarsi in un film di fantascienza. Ogni città usa la luce per raccontare la propria identità.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

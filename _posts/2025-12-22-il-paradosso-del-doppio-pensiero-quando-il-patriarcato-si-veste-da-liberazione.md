@@ -96,6 +96,29 @@ Non si tratta di demonizzare ogni acquisto o aspirazione, ma di recuperare consa
 
 Il vero atto rivoluzionario, oggi, potrebbe essere semplicemente questo: smettere di partecipare. Uscire dalla corsa. Dire "sono abbastanza" e crederci davvero, senza comprare nulla che lo certifichi. Rifiutare lo sguardo che ci valuta, ci giudica, ci riduce a corpo. Riprendersi il tempo rubato. Riprendersi la vita e..., buon Natale a tutti!
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il doppio pensiero nel marketing rivolto alle donne?</h3></summary>
+
+Il doppio pensiero del marketing moderno consiste nel vendere contemporaneamente messaggi contraddittori: 'ama il tuo corpo così com'è' e 'raggiungi il tuo corpo ideale'. I brand promuovono body positivity mentre alimentano insicurezze estetiche, convincendo le consumatrici che l'adesione a standard irraggiungibili sia una libera scelta.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come il capitalismo ha trasformato il patriarcato in empowerment femminile?</h3></summary>
+
+Il capitalismo ha imparato a parlare il linguaggio del femminismo per perpetuare il controllo patriarcale: vende l'oggettificazione sessuale come 'possedere la propria sessualità', le ore di lavoro estetico non retribuito come 'self-care', e l'adesione a standard maschilisti come 'scelta femminista'.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto vale l'industria della bellezza globale?</h3></summary>
+
+L'industria della bellezza genera oltre 500 miliardi di dollari l'anno a livello globale — un fatturato che dipende interamente dal mantenimento dell'insicurezza femminile, come documenta la ricercatrice Jean Kilbourne. In Italia ogni donna spende in media 300-400 euro l'anno in cosmetici (Cosmetica Italia 2023).
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

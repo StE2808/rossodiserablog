@@ -37,6 +37,29 @@ Il quarto e ultimo passo era forse il più audace: trasformare tutto in una stor
 
 La Tecnica Feynman non è solo un metodo per studiare meglio. È un pacchetto all-in-one che ti trasforma in una sorta di ninja del sapere, con superpoteri come il [pensiero critico](/la-banalita-del-male-non-e-mai-tramontata/) e l'autovalutazione. Provare per credere.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la Tecnica Feynman e da dove viene?</h3></summary>
+
+La Tecnica Feynman è un metodo di apprendimento sviluppato dal fisico teorico Richard Feynman, premio Nobel per la Fisica nel 1965. Si basa su quattro passi: scegliere il concetto da studiare, spiegarlo come a un bambino, identificare le lacune nella spiegazione e tornare alle fonti per colmarle, semplificando ulteriormente il linguaggio.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono i 4 passi della Tecnica Feynman?</h3></summary>
+
+Il primo passo è scegliere il concetto e scriverlo su un foglio. Il secondo è spiegarlo come a un bambino di sette anni, usando parole semplici e metafore. Il terzo è identificare le parti dove la spiegazione diventa lacunosa, tornando alle fonti per approfondirle. Il quarto è riorganizzare tutto in una narrazione fluida e semplice, come se si dovesse insegnarlo davvero.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>A cosa serve la Tecnica Feynman?</h3></summary>
+
+La Tecnica Feynman serve a passare da una comprensione superficiale a una profonda di qualsiasi concetto. Aiuta a individuare le lacune reali nel proprio sapere, migliora la memoria a lungo termine, sviluppa il pensiero critico e la capacità di comunicare in modo chiaro. Si applica allo studio accademico, alla formazione professionale e all'apprendimento autonomo.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

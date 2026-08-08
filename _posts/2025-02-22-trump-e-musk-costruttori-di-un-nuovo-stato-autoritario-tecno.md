@@ -41,6 +41,29 @@ Ad esempio, l’intelligenza artificiale potrebbe essere usata per creare sistem
 
 La “finestra quantistica” del cambiamento è davanti a noi. Sta a ciascuno di noi decidere se attraversarla, contribuendo a scrivere una nuova pagina della storia, o restare spettatori di un destino già scritto. La scelta è nostra, e il momento è ora.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come Trump e Musk stanno costruendo uno Stato autoritario tecnologico?</h3></summary>
+
+Trump rappresenta il volto politico populista che mira a concentrare il potere nelle mani di pochi. Musk incarna il lato tecnologico con Tesla, SpaceX, Neuralink e Starlink: strumenti che possono diventare sistemi di monitoraggio capillare. Auto elettriche connesse, reti satellitari globali e interfacce neurali non sono solo innovazioni: sono potenziali strumenti di sorveglianza permanente che erodono progressivamente la libertà individuale.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Esistono segnali di resistenza al controllo tecnologico?</h3></summary>
+
+Sì: la crescente disillusione verso le istituzioni, la diffusione di movimenti per la privacy digitale, il crescente interesse per criptovalute e reti decentralizzate indicano una resistenza silenziosa ma diffusa. Le piattaforme social, un tempo strumenti di manipolazione, vengono ora usate per organizzare dissenso che sfugge al controllo centralizzato. Le crepe nel sistema potrebbero aprire quella che l'articolo chiama una 'finestra quantistica' per il cambiamento.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa si intende per finestra quantistica del cambiamento politico?</h3></summary>
+
+La 'finestra quantistica' è il momento in cui le tensioni interne di un sistema raggiungono un punto critico e le possibilità di cambiamento si moltiplicano improvvisamente. Come nella meccanica quantistica dove le probabilità collassano in un evento, nella storia i sistemi apparentemente invincibili possono crollare all'improvviso quando le contraddizioni tra controllo autoritario e desiderio di libertà diventano insostenibili.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

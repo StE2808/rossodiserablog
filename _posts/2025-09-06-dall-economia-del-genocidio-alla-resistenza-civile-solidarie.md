@@ -45,6 +45,29 @@ La Global Sumud Flotilla ci ricorda che di fronte all'economia del genocidio esi
 
 Il mare davanti a Gaza oggi è solcato da navi cariche di speranza. È il momento per l'Italia di scegliere definitivamente da che parte stare: con l'economia del genocidio o con l'umanità che resiste. Se stiamo con la Flottilla c'è ancora speranza.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la Global Sumud Flotilla?</h3></summary>
+
+La Global Sumud Flotilla è la più grande flottiglia civile mai organizzata, partita da Barcellona e da porti italiani (Genova, Sicilia) con attivisti di 44 paesi. Il suo obiettivo è sfidare il blocco navale israeliano su Gaza per portare cibo, acqua e medicine alla popolazione sotto assedio — dove oltre il 90% era in condizioni di insicurezza alimentare acuta secondo l'OCHA.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa intende Francesca Albanese con 'economia del genocidio'?</h3></summary>
+
+Nel suo rapporto alle Nazioni Unite, la Relatrice speciale ONU Francesca Albanese descrive come la distruzione sistematica del popolo palestinese sia diventata economicamente redditizia: aziende come Leonardo S.p.A. traggono profitto dalle forniture militari, rendendo il genocidio a Gaza un meccanismo autoalimentato di interessi economici internazionali.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è stata la posizione del governo Meloni sulla flottiglia per Gaza?</h3></summary>
+
+Il governo Meloni ha mostrato ambiguità: di fronte alle minacce del ministro israeliano Ben Gvir contro gli attivisti, la premier ha fornito rassicurazioni vaghe e tardive solo dopo le richieste della segretaria PD Schlein. Il governo ha continuato a privilegiare 'canali umanitari più efficaci', gli stessi che in undici mesi non avevano fermato la catastrofe a Gaza.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

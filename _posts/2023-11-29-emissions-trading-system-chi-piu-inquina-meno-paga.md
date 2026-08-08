@@ -25,6 +25,29 @@ Inoltre l'assegnazione di permessi gratuiti riduce i fondi disponibili per inizi
 
 Il rapporto di CMW evidenzia la necessità di una riforma dell'EU ETS per garantire che le aziende, indipendentemente dalla loro grandezza, contribuiscano equamente alla lotta contro il cambiamento climatico. È fondamentale colmare le lacune esistenti per assicurare che tutti gli [inquinatori](/spagna-il-mar-de-plastico-cresce-e-cambia-il-clima/) siano tenuti a rispondere delle loro azioni, ponendo le basi per un futuro sostenibile.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è l'Emissions Trading System europeo?</h3></summary>
+
+L'Emissions Trading System (EU ETS) è il principale strumento dell'Unione Europea per ridurre le emissioni di gas serra. Funziona assegnando alle aziende quote di emissioni: chi inquina di più deve acquistare permessi aggiuntivi, chi riduce le emissioni può vendere le quote eccedenti. In teoria applica il principio 'chi inquina paga', ma nella pratica molte grandi aziende ricevono permessi gratuiti.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché l'EU ETS viene criticato?</h3></summary>
+
+La critica principale riguarda l'assegnazione di permessi gratuiti alle grandi aziende inquinanti. Secondo una ricerca di CMW del 2023, meno dell'1% delle aziende sotto l'EU ETS — come RWE, ArcelorMittal, Eni ed ENEL — è responsabile di oltre la metà delle emissioni totali. Nel 2022 sono stati distribuiti permessi gratuiti per circa 47,6 miliardi di euro, contraddicendo il principio fondamentale del sistema.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si potrebbe riformare l'Emissions Trading System?</h3></summary>
+
+La riforma dell'EU ETS punta all'eliminazione progressiva dei permessi gratuiti, già avviata con l'introduzione del Carbon Border Adjustment Mechanism (CBAM). Andrebbero rafforzati i meccanismi di responsabilità per le grandi aziende inquinanti, incrementati i fondi per la transizione ecologica e introdotte soglie minime più stringenti per le emissioni dei grandi gruppi industriali.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

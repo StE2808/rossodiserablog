@@ -23,6 +23,22 @@ Il caso di Armita e Mahsa sottolinea la resistenza e il coraggio delle giovani d
 
 Esprimiamo la nostra più profonda solidarietà ad Armita, alle famiglie di lei e di Mahsa, e a tutte le giovani donne iraniane che ogni giorno rischiano la propria vita per battersi per un futuro più libero e giusto. La loro lotta non è solo una questione nazionale, ma un richiamo globale per l'uguaglianza, la libertà e la dignità umana. Il coraggio di queste giovani donne è una fonte di ispirazione per tutti noi e un promemoria della forza indomita dello spirito umano nella lotta per i diritti e la giustizia.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi è Armita Geravand e cosa le è successo?</h3></summary>
+
+Armita Geravand è una ragazza iraniana di 16 anni originaria di Kermanshah. Il 1° ottobre 2023, mentre viaggiava verso il conservatorio, è stata aggredita dalla polizia morale iraniana alla stazione della metropolitana Shohda di Tehran per non aver rispettato le leggi obbligatorie sul velo. L'aggressione l'ha ridotta in coma, diventando simbolo della lotta delle giovani donne iraniane contro la repressione.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il collegamento tra Armita Geravand e Mahsa Amini?</h3></summary>
+
+Mahsa Amini era una giovane donna iraniana morta nel settembre 2022 dopo essere stata fermata dalla polizia morale per non aver indossato correttamente il velo. La sua morte aveva scatenato un'ondata di proteste in tutto l'Iran. Il caso di Armita Geravand, avvenuto esattamente un anno dopo, ha rievocato quella tragedia, dimostrando che il sistema repressivo continua a colpire le donne che si oppongono all'obbligo del velo.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

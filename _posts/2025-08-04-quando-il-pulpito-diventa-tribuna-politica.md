@@ -38,6 +38,29 @@ Don Cannizzaro dovrebbe ricordare che il Vangelo insegna a "dare a Cesare quel c
 
 E invece sta lì senza contraddittorio, senza prese di distanza apprezzabili e proporzionate ed infanga la memoria di chi per mano mafiosa è stato ucciso e sputa in faccia contro chi, in mezzo a mille e mille difficoltà, sempre crescenti, la mafia la combatte tutti i giorni — come mostra [l'uso politico della legalità](/voglio-combattere-la-mafia-solo-parole/).
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa ha detto don Cannizzaro alla kermesse di Forza Italia?</h3></summary>
+
+Don Nuccio Cannizzaro, durante l'omelia alla kermesse di Forza Italia a Reggio Calabria, ha attaccato la 'cultura della legalità' e invocato la supremazia del 'potere scelto con il voto' sulla magistratura. Ha paragonato Gesù alla contestazione della 'rigida legge ebraica', strumentalizzando il messaggio evangelico per giustificare attacchi all'operato dei giudici.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la commistione tra chiesa e politica è pericolosa in Calabria?</h3></summary>
+
+La Calabria è la regione con il più alto tasso di presenza della 'ndrangheta, che secondo il Ministero dell'Interno opera in tutte le 97 province italiane e in 30 paesi. Quando un sacerdote attacca la 'cultura della legalità' dal pulpito in questo contesto, mina il tessuto civile di un territorio che ha pagato con il sangue i propri magistrati e forze dell'ordine.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa dice il Vangelo sul rapporto tra religione e potere politico?</h3></summary>
+
+Il Vangelo insegna a 'dare a Cesare quel che è di Cesare e a Dio quel che è di Dio', stabilendo una distinzione netta tra sfera religiosa e sfera politica. La strumentalizzazione del messaggio evangelico per giustificare attacchi alla magistratura tradisce tanto la fede quanto i principi democratici.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

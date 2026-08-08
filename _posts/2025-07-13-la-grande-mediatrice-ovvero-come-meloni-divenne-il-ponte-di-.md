@@ -61,6 +61,29 @@ Il risultato? L'Italia si ritrova più isolata di prima, con un'Europa divisa ch
 
 Il ponte è crollato prima ancora di essere completato. E noi restiamo qui, su una sponda, a guardare l'acqua che scorre e a chiederci se davvero pensavamo che sarebbe finita diversamente.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la strategia di mediazione di Meloni tra Trump e l'Europa è fallita?</h3></summary>
+
+Meloni aveva puntato su un 'rapporto personale' con Trump per ottenere un trattamento di favore sui dazi. Il fallimento deriva dall'aver sopravvalutato il peso diplomatico dell'Italia e dall'aver sottovalutato la logica puramente transazionale di Trump, che non prevede mediatori ma solo vincitori e perdenti.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è l'impatto economico dei dazi Trump sugli esportatori italiani?</h3></summary>
+
+Per un esportatore italiano, l'onere complessivo dei dazi Trump raggiunge il 21%: la combinazione del dazio del 15% con la svalutazione del dollaro del 13%. Le esportazioni italiane verso gli USA si ridurranno del 25-30%, con un impatto sul PIL stimato intorno allo 0,2% (Centro Studi Confindustria, 2025).
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si è comportata l'Europa rispetto all'Italia nella risposta ai dazi Trump?</h3></summary>
+
+Francia e Germania hanno adottato posizioni più nette: la Francia con minacce di contromisure, la Germania con un'ammissione esplicita delle proprie preoccupazioni economiche. L'Italia invece ha puntato sull'appello alla 'buona volontà' delle parti, una posizione che si è rivelata inefficace di fronte all'approccio aggressivo di Trump.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

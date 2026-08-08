@@ -20,6 +20,29 @@ Questo contrasto tra l'immediatezza digitale e la paziente attesa del Conclave �
 Gli occhi del mondo, in quei giorni, sono puntati verso un semplice comignolo, in attesa di un segnale che non ha bisogno di filtri o di commenti immediati. È un linguaggio universale, fatto di un colore che annuncia la continuazione o la svolta. In questa attesa collettiva, si riscopre un senso di umanità condivisa, un ritmo più profondo che contrasta con la superficialità effimera dei social media.
 E mentre queste parole cercano di catturare la sacralità di quel tempo sospeso, giunge l'eco festosa delle campane di San Pietro. [Una fumata bianca si è levata nel cielo di Roma](https://rossodiserablog.it/habemus-papam-un-leone-tra-i-leoni-del-mondo/), squarciando l'attesa con un'esplosione di gioia. Piazza San Pietro, gremita di fedeli, si trasforma in un mare di esultanza. "Habemus Papam!". In questo istante, la frenesia digitale si attenua, sovrastata da un'emozione autentica e condivisa. Il tempo, finalmente, si riempie di un significato profondo, unendo l'antico rito alla vibrante gioia del presente.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come funziona il Conclave e perché i cardinali non possono usare il telefono?</h3></summary>
+
+Durante il Conclave, i cardinali si ritirano nella Cappella Sistina in isolamento quasi monastico. Sono privati di smartphone e di qualsiasi connessione con il mondo esterno per garantire l'indipendenza delle votazioni e impedire interferenze esterne. L'unica comunicazione con il mondo avviene attraverso il fumo che sale dal comignolo: nero se nessun candidato ha raggiunto la maggioranza richiesta, bianco per annunciare l'elezione del nuovo Papa.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il Conclave è un antidoto all'immediatezza digitale?</h3></summary>
+
+Il Conclave impone una temporalità completamente diversa dall'era digitale: niente dirette, niente notifiche, niente aggiornamenti in tempo reale. Il tempo riacquista una dimensione umana, scandita da riflessione e preghiera. Questo contrasto con la bulimia informativa contemporanea ricorda che alcune decisioni importanti richiedono lentezza, silenzio e ponderazione — qualità sempre più rare nell'epoca dell'immediatezza digitale.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa significa il fumo bianco durante il Conclave?</h3></summary>
+
+Il fumo bianco che sale dal comignolo della Cappella Sistina è il segnale con cui i cardinali comunicano al mondo l'elezione del nuovo Papa. È prodotto bruciando le schede di voto con sostanze chimiche che creano fumo chiaro. Il fumo nero indica invece che nessuna elezione è avvenuta. La frase 'Habemus Papam' — abbiamo il Papa — viene poi proclamata dal cardinale protodiacono dal balcone di San Pietro.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

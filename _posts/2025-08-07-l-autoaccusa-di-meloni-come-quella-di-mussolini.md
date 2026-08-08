@@ -38,6 +38,29 @@ Da notare che il conflitto tra esecutivo e magistratura non è un fenomeno isola
 
 La differenza sostanziale rimane il contesto democratico attuale rispetto al regime nascente del 1925, ma la strategia comunicativa dell'autoaccusa come strumento di legittimazione politica presenta inquietanti analogie storiche — già analizzate in [I numeri segreti del governo Meloni](/i-numeri-segreti-del-governo-meloni/) — che meritano riflessione critica.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il parallelo tra il discorso di Mussolini del 3 gennaio 1925 e le dichiarazioni di Meloni sul caso Almasri?</h3></summary>
+
+Entrambi i leader hanno usato l'autoaccusa non come ammissione di colpa ma come strumento di potere. Mussolini dichiarò 'assumo io solo la responsabilità politica, morale e storica' del delitto Matteotti. Meloni ha replicato lo stesso schema sul caso Almasri, rivendicando 'a testa alta' una responsabilità che i giudici non le attribuivano.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il caso Almasri che ha coinvolto Giorgia Meloni?</h3></summary>
+
+Nel gennaio 2025 Giorgia Meloni è risultata indagata per il caso Almasri, che ha portato la premier a rilasciare dichiarazioni pubbliche di assunzione di responsabilità politica. Il caso ha riacceso il dibattito sul rapporto tra potere esecutivo e magistratura — un conflitto che la Venice Commission del Consiglio d'Europa segnala come crescente in Italia.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>L'Italia rischia oggi un percorso simile a quello del 1925?</h3></summary>
+
+La differenza sostanziale rimane il contesto democratico attuale rispetto al regime nascente del 1925. Tuttavia, la strategia comunicativa dell'autoaccusa come strumento di legittimazione contro la magistratura, e l'uso di accenti anti-giudiziari, presentano analogie retoriche che meritano attenzione critica.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

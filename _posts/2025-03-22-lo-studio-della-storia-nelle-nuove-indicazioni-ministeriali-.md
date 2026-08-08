@@ -53,6 +53,29 @@ In un contesto globale caratterizzato dalla molteplicità di narrazioni e dalla 
 
 Il dibattito pubblico su queste nuove indicazioni ministeriali rappresenta una preziosa occasione per ripensare non solo i contenuti dell'insegnamento storico, ma anche i suoi metodi e finalità. L'auspicio è che da questo confronto possa emergere una visione dell'educazione storica che coniughi il necessario rigore metodologico con la capacità di coinvolgere e appassionare le nuove generazioni, preparandole ad affrontare le sfide del mondo contemporaneo con strumenti critici adeguati.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa dice il documento MIUR 2025 sull'insegnamento della storia?</h3></summary>
+
+Le Nuove Indicazioni 2025 del Ministero dell'Istruzione affermano che 'Solo l'Occidente conosce la Storia', riducendo le tradizioni storiografiche di altre civiltà a 'compilazioni annalistiche'. Il documento privilegia la dimensione narrativa ed emotiva rispetto all'acquisizione di competenze metodologiche critiche, considerando 'del tutto irrealistico' l'obiettivo di formare studenti capaci di leggere e interpretare criticamente le fonti storiche.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché l'eurocentrismo nella storia scolastica è problematico?</h3></summary>
+
+L'eurocentrismo nella storia scolastica ignora tradizioni storiografiche ricchissime sviluppate da altre civiltà. La Cina vanta una storiografia sistematica da oltre 2000 anni con le 'Memorie Storiche' di Sima Qian. Nel mondo islamico medievale, Ibn Khaldun sviluppò teorie della storia che anticiparono la moderna storiografia scientifica. Ridurre queste tradizioni a 'compilazioni' non solo è storicamente inaccurato, ma perpetua pregiudizi culturali.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il pensiero critico nella storia è essenziale nell'era delle fake news?</h3></summary>
+
+In un'epoca dominata dalla disinformazione, la storia offre un laboratorio ideale per sviluppare information literacy: come valutare le fonti, confrontare versioni diverse dello stesso evento, riconoscere bias e narrazioni tendenziose. Insegnare ai bambini a chiedersi 'chi ha scritto questo documento e con quale scopo?' significa formare cittadini capaci di resistere alle manipolazioni. Marginalizzare questo approccio significa privare le nuove generazioni di anticorpi essenziali.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

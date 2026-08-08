@@ -40,6 +40,29 @@ Il crollo di questi sistemi di mediazione ha liberato quello che Hannah Arendt d
 
 Il risultato è sotto i nostri occhi: leader che governano come se l'umanità fosse il nemico da sconfiggere, politiche che sacrificano il benessere collettivo agli interessi di pochi, una classe dirigente che ha sostituito la vocazione al servizio con l'istinto alla predazione. Abbiamo vinto contro tutti i nemici esterni, ma stiamo perdendo la battaglia più importante: quella contro noi stessi.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa intendeva Konrad Lorenz per aggressività intraspecifica?</h3></summary>
+
+In L'aggressività (1963), Lorenz sosteneva che l'aggressività è un istinto biologico che non scompare quando viene meno il nemico esterno. Una volta eliminati i grandi predatori circa diecimila anni fa, l'homo sapiens ha rivolto questo istinto verso la propria specie: nasce la scalata intraspecifica, la lotta per il dominio sociale, economico e politico.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il potere politico contemporaneo tende a comportarsi in modo anti-umano?</h3></summary>
+
+Secondo questa analisi, il crollo dei sistemi di mediazione — partiti ideologici, religioni, etica della responsabilità weberiana — ha liberato quello che Hannah Arendt chiamava 'la banalità del male'. L'Edelman Trust Barometer 2024 misura questo collasso: la fiducia nelle istituzioni politiche è sotto il 40% in 17 dei 28 paesi monitorati.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la distinzione amico-nemico secondo Carl Schmitt?</h3></summary>
+
+In Il concetto di politico (1932), Schmitt afferma che l'essenza del politico è la distinzione tra amico e nemico. Senza nemici esterni identificabili, il potere crea nemici interni — immigrati, minoranze, oppositori — per mantenere la logica della mobilitazione politica.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

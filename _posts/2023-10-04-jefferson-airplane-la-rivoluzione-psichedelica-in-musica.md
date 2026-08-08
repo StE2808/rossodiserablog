@@ -37,6 +37,29 @@ Slick scrisse infatti la canzone mentre, sotto effetto di acidi, si mise ad asco
 
 Grazie LSD? =)
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quando si è formata la band Jefferson Airplane?</h3></summary>
+
+I Jefferson Airplane si sono formati a San Francisco nel 1965, quando la cantante Marty Balin si unì al chitarrista Paul Kantner. La formazione classica includeva anche Jorma Kaukonen, Jack Casady, Grace Slick e Spencer Dryden. La band è stata introdotta nella Rock and Roll Hall of Fame nel 1996.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono le canzoni più famose dei Jefferson Airplane?</h3></summary>
+
+Le due canzoni più iconiche dei Jefferson Airplane sono White Rabbit e Somebody to Love, entrambe cantate da Grace Slick. White Rabbit è ispirata ad Alice nel Paese delle Meraviglie e fu scritta da Slick dopo aver ascoltato Sketches of Spain di Miles Davis. La band partecipò anche al Festival di Woodstock del 1969.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Che ruolo ha avuto Jefferson Airplane nella controcultura degli anni '60?</h3></summary>
+
+I Jefferson Airplane sono stati una delle voci più importanti della controcultura americana degli anni '60. La canzone Volunteers è diventata un inno anti-guerra del Vietnam, mentre la loro musica psichedelica ha definito il suono di San Francisco. La band ha partecipato attivamente alla lotta per i diritti civili e alle proteste contro la guerra.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

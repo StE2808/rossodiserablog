@@ -60,6 +60,29 @@ Invece, abbiamo un'opposizione che sembra aver dimenticato persino cosa signific
 
 Sanders e AOC ci stanno mostrando che un altro modo di fare politica è possibile. La domanda è: c'è qualcuno, nella nostra **opposizione italiana**, che sta guardando?
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'''è il Fighting Oligarchy Tour di Bernie Sanders e AOC?</h3></summary>
+
+Il Fighting Oligarchy Tour è un tour politico di Bernie Sanders e Alexandria Ocasio-Cortez nel 2025 contro l'''oligarchia economica. I comizi hanno raccolto 34.000 persone a Denver con proposte concrete su salario minimo, sanità pubblica, tassazione dei super-ricchi e clima. Non è solo protesta contro Trump: è costruzione di un'''alternativa credibile.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa può imparare l'''opposizione italiana da Sanders e AOC?</h3></summary>
+
+Tre lezioni: la coerenza politica nel tempo (Sanders ha le stesse battaglie da decenni), l'''autenticità (AOC parla delle sue origini senza filtri), e la visione propositiva (non solo critica al governo, ma un'''alternativa concreta). L'''opposizione italiana è bloccata nella fase reattiva, senza articolare un progetto di futuro.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la collaborazione intergenerazionale Sanders-AOC è un modello?</h3></summary>
+
+L'''alleanza tra Sanders (83 anni) e AOC (35 anni) dimostra che la collaborazione intergenerazionale in politica è possibile. Nessun atteggiamento paternalistico, nessuna gerarchia: due compagni di battaglia con esperienze diverse e lo stesso obiettivo. In Italia, dove i giovani politici vengono trattati come apprendisti e i veterani come reliquie, questo modello è una sfida culturale profonda.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

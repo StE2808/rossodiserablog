@@ -39,6 +39,29 @@ La lotta contro le fake news richiede un impegno collettivo che coinvolga indivi
 
 In un'epoca in cui la verità è facilmente manipolabile, prendere le giuste precauzioni per evitare le fake news è più cruciale che mai. Il tempo dell'indifferenza è finito; è ora di agire con determinazione contro il flagello della disinformazione.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>L'Italia è davvero il paese con più fake news in Europa?</h3></summary>
+
+Secondo i dati di Meta del primo semestre 2023, l'Italia è il paese europeo con il maggior numero di contenuti falsi rimossi da Facebook (45.000 post) e Instagram (1.900). Una ricerca del Censis ha rilevato che il 76,5% degli italiani fatica a distinguere le fake news, mentre il 66% si dichiara preoccupato per la loro diffusione.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si riconoscono le fake news?</h3></summary>
+
+Per riconoscere le fake news è fondamentale verificare la fonte (sito ufficiale, testata riconosciuta), cercare la stessa notizia su più fonti indipendenti, controllare la data di pubblicazione, leggere oltre il titolo e usare piattaforme di fact-checking come Pagella Politica o FactaNews. I contenuti che suscitano reazioni emotive molto forti meritano una verifica extra.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa fanno i social media contro le fake news?</h3></summary>
+
+Le piattaforme come Meta rimuovono attivamente i contenuti falsi, promuovono fonti verificate e collaborano con organizzazioni di fact-checking. Tuttavia, la velocità di diffusione della disinformazione supera spesso quella dei meccanismi di controllo. Il Digital Services Act (DSA) europeo impone alle grandi piattaforme obblighi specifici di moderazione.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

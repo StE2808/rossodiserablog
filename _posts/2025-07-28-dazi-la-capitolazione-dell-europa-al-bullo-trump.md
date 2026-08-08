@@ -44,6 +44,29 @@ L'Europa ha perso un'occasione storica per affermare la propria autonomia strate
 
 Questo accordo segna un momento di profonda debolezza dell'Unione Europea, incapace di rispondere con fermezza alle provocazioni commerciali di Trump e destinata a subire le conseguenze economiche di una strategia commerciale aggressiva che mette a rischio decenni di integrazione economica globale.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto costa all'Italia l'accordo UE-USA sui dazi?</h3></summary>
+
+Per un esportatore italiano, l'onere complessivo dei dazi USA raggiunge il 21%: la combinazione del dazio del 15% con la svalutazione del dollaro del 13%. Il PIL italiano si contrarrà dello 0,2% e le esportazioni verso gli USA si ridurranno del 25-30% (Centro Studi Confindustria / ICE, 2025).
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa guadagna Trump con l'accordo sui dazi con l'Europa?</h3></summary>
+
+Trump incasserà entrate doganali aggiuntive per 66 miliardi di dollari annui — nove volte i livelli pre-Trump — senza concedere nessuna riduzione delle barriere sui beni americani esportati in Europa. L'accordo gli permette di mantenere il protezionismo senza ritorsioni europee.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché l'accordo UE-USA è definito una 'capitolazione'?</h3></summary>
+
+L'UE ha accettato il dazio del 15% rinunciando a qualsiasi misura di ritorsione sui 93 miliardi di euro di beni americani in Europa. Ha scelto la via della sottomissione invece di rispondere con contromisure, sacrificando il principio di reciprocità e la propria autonomia strategica commerciale.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

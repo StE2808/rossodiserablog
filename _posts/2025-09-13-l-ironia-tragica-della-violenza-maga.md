@@ -39,6 +39,29 @@ L'omicidio ha scatenato un'ondata di rabbia tra i conservatori americani, con al
 
 La tragedia di Kirk rappresenta il momento in cui la "notte della ragione" dell'estrema destra americana ha generato il proprio mostro, colpendo al cuore chi quella stessa cultura della violenza aveva alimentato.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi era Charlie Kirk e cosa rappresentava nel movimento MAGA?</h3></summary>
+
+Charlie Kirk, 31 anni, era il fondatore di Turning Point USA e uno dei volti più noti del movimento MAGA americano. Stretto alleato di Donald Trump, Kirk era diventato uno dei principali promotori della retorica conservatrice radicale e della cultura delle armi che ha caratterizzato l'estrema destra americana.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa rivela la morte di Charlie Kirk sulla cultura della violenza MAGA?</h3></summary>
+
+Il fatto che Kirk sia stato ucciso da Tyler Robinson, un giovane cresciuto in una famiglia conservatrice MAGA, evidenzia la contraddizione interna al movimento: la retorica violenta e l'accesso illimitato alle armi promossi per anni hanno creato condizioni di radicalizzazione che hanno finito per colpire i propri stessi leader. Negli USA si registrano oltre 40.000 morti per arma da fuoco ogni anno (Gun Violence Archive / CDC 2023).
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come ha risposto il movimento conservatore americano alla morte di Kirk?</h3></summary>
+
+L'omicidio ha scatenato un'ondata di rabbia tra i conservatori, con alcuni sostenitori di Trump che hanno incolpato la sinistra politica, ignorando le radici interne di questa violenza. Il silenzio sulla responsabilità del linguaggio politico estremo e della cultura delle armi ha reso ancora più evidente la contraddizione al cuore del movimento MAGA.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

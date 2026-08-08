@@ -43,6 +43,29 @@ La cameriera licenziata senza preavviso che non potrà più rivendicare i suoi d
 
 Il governo fermi immediatamente questa deriva folle e pericolosa. Ritiri l'emendamento vergogna e approvi finalmente una legge sul salario minimo che restituisca dignità a chi lavora. Basta con questa guerra ai poveri mascherata da riforme strutturali. I lavoratori italiani meritano rispetto, non l'ennesima pugnalata alle spalle.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa prevede l'emendamento al decreto Ilva contro i lavoratori?</h3></summary>
+
+L'emendamento fa tre cose: condona i salari non pagati dal 2007 al 2020, riduce da 5 anni a 6 mesi i termini per rivendicare crediti da lavoro, e introduce il principio che tutti i salari sono 'presunti sufficienti' — anche quelli sotto la soglia di povertà. Colpisce principalmente lavoratori precari, stagionali, in nero e a basso reddito.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanti lavoratori italiani guadagnano meno di 1.000 euro al mese?</h3></summary>
+
+Secondo i dati Istat 2024, 6,2 milioni di lavoratori italiani non riescono a guadagnare nemmeno 1.000 euro al mese. L'Italia è il paese dell'Eurozona con la più alta quota di lavoratori poveri: il 12,5% dei dipendenti è sotto la soglia di povertà (Eurostat 2023), contro una media UE del 9%.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa dice la Costituzione italiana sui diritti dei lavoratori?</h3></summary>
+
+L'articolo 36 della Costituzione garantisce al lavoratore 'una retribuzione proporzionata alla quantità e qualità del suo lavoro e in ogni caso sufficiente ad assicurare a sé e alla famiglia un'esistenza libera e dignitosa'. Il principio dei salari 'presunti sufficienti' introdotto dall'emendamento contrasta direttamente con questo dettato costituzionale.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

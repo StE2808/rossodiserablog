@@ -29,6 +29,29 @@ Sebbene la morte di Botero sia una perdita incommensurabile per il mondo dell'ar
 
 In questo momento di lutto, è difficile trovare le parole giuste per esprimere l'importanza di Fernando Botero nel panorama artistico mondiale. Ma una cosa è certa: la sua arte, intrisa di umanità, calore e una profonda comprensione della condizione umana, continuerà a ispirare le generazioni future.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quando è morto Fernando Botero e di cosa era famoso?</h3></summary>
+
+Fernando Botero è morto il 15 settembre 2023 all'età di 91 anni. Era uno degli artisti colombiani più famosi al mondo, celebre per le sue rappresentazioni di figure umane e animali con forme voluminose e sensuali — uno stile unico chiamato boterismo. Nato a Medellín nel 1932, ha trascorso parte della sua vita in Italia, in particolare in Toscana.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è lo stile artistico di Fernando Botero?</h3></summary>
+
+Lo stile di Botero si caratterizza per figure volutamente esagerate nelle proporzioni: corpi voluminosi, forme gonfiate, una plasticità che sfida le convenzioni del realismo. Questo approccio era in realtà un'esplorazione della bellezza e della presenza fisica. Le sue opere spaziano dalla pittura alla scultura e sono esposte in musei e piazze di tutto il mondo.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual era il legame di Fernando Botero con l'Italia?</h3></summary>
+
+Fernando Botero ha avuto un legame profondo con l'Italia, in particolare con la Toscana, dove ha vissuto e lavorato a lungo. L'Italia ha rappresentato una fonte d'ispirazione fondamentale per la sua arte, influenzando la sua tecnica pittorica e il suo interesse per la tradizione rinascimentale. Molte sue opere si trovano in collezioni private e musei italiani.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

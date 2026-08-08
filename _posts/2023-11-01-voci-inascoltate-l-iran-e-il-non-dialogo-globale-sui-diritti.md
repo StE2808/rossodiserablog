@@ -31,6 +31,22 @@ Questi episodi, riflessi sul palcoscenico globale, sottolineano la necessità di
 
 Il dialogo è aperto, e ogni riflessione e azione conta nella marcia collettiva verso la giustizia globale.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la nomina di Ali Bahreini all'ONU è controversa?</h3></summary>
+
+Ali Bahreini, ambasciatore iraniano, è stato nominato alla presidenza del Forum Sociale del Consiglio delle Nazioni Unite per i diritti umani in un momento in cui l'Iran è al centro di critiche internazionali per la repressione dei diritti civili. Questa nomina è stata vista da molti come una tacita approvazione delle politiche repressive del governo iraniano, creando un paradosso istituzionale che mette in discussione la credibilità dell'ONU.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la situazione dei diritti delle donne in Iran?</h3></summary>
+
+In Iran le donne sono obbligate per legge a coprirsi i capelli e il corpo in pubblico. La polizia morale ha il compito di far rispettare queste regole. Chi non si adegua rischia fermi, aggressioni e conseguenze legali. I casi di Mahsa Amini (2022) e Armita Geravand (2023), entrambe vittime della polizia morale, hanno acceso i riflettori internazionali sulla brutalità con cui queste leggi vengono applicate.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -44,6 +44,29 @@ Ora tocca all'Italia e alla Gran Bretagna, ai paesi della Magna Charta Libertatu
 
 Ma l'Italia di oggi, prigioniera delle proprie contraddizioni e della propria pusillanimità diplomatica, sembra incapace di compiere scelte coraggiose. Mentre la Francia traccia la strada della giustizia internazionale, il governo italiano continua a navigare nell'ambiguità, dimostrando ancora una volta la propria inadeguatezza di fronte alle grandi questioni morali del nostro tempo.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il riconoscimento francese della Palestina è storico?</h3></summary>
+
+La Francia è diventata il primo paese del G7 a riconoscere lo Stato di Palestina, rompendo un fronte diplomatico che includeva USA, Canada, Germania, Italia, Giappone e UK. Al momento del riconoscimento, oltre 145 paesi — il 75% dei membri ONU — avevano già riconosciuto la Palestina.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanti paesi hanno riconosciuto la Palestina?</h3></summary>
+
+Oltre 145 paesi nel mondo hanno riconosciuto lo Stato di Palestina, rappresentando circa il 75% dei membri delle Nazioni Unite. I riconoscimenti più recenti includono Norvegia, Irlanda, Spagna (maggio 2024), Slovenia (giugno 2024) e ora la Francia, primo paese del G7.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la posizione dell'Italia sul riconoscimento della Palestina?</h3></summary>
+
+L'Italia di Meloni non ha riconosciuto la Palestina e continua a navigare nell'ambiguità diplomatica, distinguendosi negativamente dai principali partner europei. Il governo ha privilegiato la linea filo-americana e filo-israeliana, rinunciando a un ruolo attivo nella ricerca di una soluzione politica al conflitto.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

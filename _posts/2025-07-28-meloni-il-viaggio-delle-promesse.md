@@ -40,6 +40,29 @@ Nel frattempo, il deserto continuava la sua marcia silenziosa, indifferente alle
 
 E quando Meloni e la sua delegazione ripartirono, lasciando dietro di sé una scia di polvere e buone intenzioni, il sole tramontò come sempre sull'Etiopia, tingendo di rosso un orizzonte che aspettava ancora soluzioni concrete, non sogni di grandezza del passato.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il Piano Mattei e cosa promette all'Africa?</h3></summary>
+
+Il Piano Mattei è l'iniziativa del governo Meloni per la cooperazione con l'Africa, con risorse mobilitate per circa 5,5 miliardi di euro distribuiti su 6 anni e 9 paesi partner. In media meno di 100 milioni per paese per anno — una cifra simbolica rispetto alla scala della desertificazione, che minaccia il 40% delle terre africane coltivabili (FAO, 2022).
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto è grave la desertificazione in Etiopia?</h3></summary>
+
+Secondo l'UNCCD (2022), il 65% dei terreni agricoli etiopici mostra segni di degrado avanzato. La FAO stima che la desertificazione minacci circa il 40% delle terre africane coltivabili complessivamente, colpendo direttamente 250 milioni di persone nel continente.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la visita di Meloni in Etiopia è stata criticata?</h3></summary>
+
+La critica riguarda il divario tra la retorica — citazioni di Cicerone, promesse di cooperazione, discorsi sulla 'bellezza del lavoro agricolo' — e la scarsità di risorse concrete. I contadini etiopici che combattono ogni giorno la desertificazione avevano bisogno di fatti, non di narrazioni sulla grandezza italiana.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

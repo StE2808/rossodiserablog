@@ -23,6 +23,29 @@ E c'è ancora di più. Gustare cioccolato può trasformarsi in un atto di pura m
 
 Pertanto, la prossima volta che ti concedi un pezzo di cioccolato, sii consapevole che stai facendo molto di più che placare una voglia passeggera. Stai intraprendendo un'avventura esaltante che nutre non solo il tuo corpo, ma anche la tua mente e il tuo spirito. E come ogni avventura memorabile, la chiave è la moderazione e la scoperta. Dopo tutto, il cioccolato è un tesoro celato, un universo inesplorato che attende solo di essere scoperto, un pezzetto alla volta.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il cioccolato fondente fa davvero bene al cervello?</h3></summary>
+
+Sì, secondo ricerche condotte dall'Università dell'Aquila, i flavonoidi presenti nel cioccolato fondente migliorano la memoria e le funzioni cognitive. Uno studio dell'Università di Birmingham ha inoltre dimostrato che il consumo regolare di cioccolato fondente può proteggere il cervello dal declino cognitivo, grazie all'aumento di un enzima che protegge le cellule cerebrali dallo stress ossidativo.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il cioccolato migliora l'umore?</h3></summary>
+
+Il cioccolato stimola la produzione di endorfine, i cosiddetti ormoni della felicità, generando un senso di benessere e riducendo lo stress. Contiene anche antiossidanti come l'acido clorogenico che combattono i radicali liberi. L'esperienza sensoriale del cioccolato — texture, aromi, dolcezza — attiva circuiti cerebrali di piacere rendendolo un'esperienza di mindfulness naturale.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto cioccolato si può mangiare senza rischi?</h3></summary>
+
+La moderazione è fondamentale. Il cioccolato fondente ad alto contenuto di cacao è quello con maggiori benefici per la salute. Il consumo eccessivo, tuttavia, può portare a problemi come insonnia (per la caffeina), aumento di peso e dipendenza. Gli studi suggeriscono che piccole quantità di cioccolato fondente consumate regolarmente siano benefiche, senza eccedere nei quantitativi.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

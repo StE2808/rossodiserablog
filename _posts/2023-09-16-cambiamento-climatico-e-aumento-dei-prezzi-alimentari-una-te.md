@@ -25,6 +25,29 @@ La lezione da apprendere è chiara: il cambiamento climatico sta già influenzan
 
 I governi possono incentivare l'uso delle energie pulite come l'energia solare e l'energia eolica per ridurre le emissioni di gas serra. Le aziende e i cittadini possono impegnarsi a ridurre lo spreco alimentare, che contribuisce al cambiamento climatico attraverso le emissioni di metano. Le aziende agricole possono adottare pratiche agricole sostenibili per ridurre l'impatto ambientale e migliorare la resilienza alle condizioni climatiche estreme. Queste azioni sono essenziali per preservare la nostra cultura culinaria e il futuro del nostro pianeta.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come il cambiamento climatico aumenta i prezzi alimentari?</h3></summary>
+
+Il cambiamento climatico provoca siccità, gelate e inondazioni nei principali paesi produttori di materie prime. Brasile, Vietnam, Ecuador, India, Argentina, Uganda e Colombia — sette dei principali partner commerciali italiani — sono tra i più colpiti. Il risultato è un calo delle produzioni e un aumento dei prezzi di caffè, tonno, cioccolato e altri alimenti. Gli esperti stimano che il 23% dei cibi più consumati dagli italiani sia già interessato da questo fenomeno.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali alimenti rischiano di costare di più a causa del clima?</h3></summary>
+
+Tra i prodotti più a rischio ci sono il caffè (soprattutto dal Brasile, dove siccità e gelate hanno ridotto le riserve ai minimi storici degli ultimi vent'anni), il tonno in scatola dalla Costa d'Avorio (con previsioni di calo produttivo fino al 36% entro il 2050), il cioccolato e le banane. Tutti prodotti che vengono da regioni particolarmente vulnerabili agli impatti climatici.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa possiamo fare per limitare l'impatto del clima sui prezzi alimentari?</h3></summary>
+
+È necessario agire su più fronti: i governi possono incentivare le energie rinnovabili per ridurre le emissioni di gas serra, le aziende agricole possono adottare pratiche sostenibili per aumentare la resilienza climatica, e i cittadini possono ridurre lo spreco alimentare, che contribuisce al cambiamento climatico attraverso le emissioni di metano. Una collaborazione globale tra governi, aziende e cittadini è essenziale.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

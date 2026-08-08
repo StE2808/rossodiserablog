@@ -41,6 +41,29 @@ La gestione della crisi energetica e inflazionistica da parte dell'esecutivo ha 
 
 Il risultato è una società sempre più polarizzata, dove una minoranza accumula beni rifugio per proteggersi dall'incertezza mentre la maggioranza consuma i propri risparmi per sopravvivere. Una dinamica che non solo mina la coesione sociale ma compromette le prospettive di crescita economica del paese — già analizzate in [Meloni contro i diritti dei lavoratori](/meloni-contro-i-diritti-dei-lavoratori/), intrappolato tra la spirale deflazionistica dei consumi e la sterilizzazione degli investimenti produttivi.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il risparmio precauzionale e perché aumenta in Italia?</h3></summary>
+
+Il risparmio precauzionale è il fenomeno per cui le famiglie accumulano riserve finanziarie quando i sistemi di welfare si indeboliscono e l'incertezza sul futuro aumenta. Di fronte all'impossibilità di prevedere spese mediche, periodi di disoccupazione o pensioni adeguate, i cittadini sacrificano i consumi presenti per costruire un cuscinetto di sicurezza.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la propensione al risparmio delle famiglie italiane nel 2023?</h3></summary>
+
+Secondo i dati Istat, la propensione al risparmio delle famiglie italiane è crollata al 6,3% nel 2023, toccando il minimo storico dal 1995. Un calo verticale rispetto al 7,8% del 2022, segnale che l'inflazione e la perdita di potere d'acquisto hanno costretto le famiglie a intaccare i risparmi per mantenere lo stesso tenore di vita.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quante famiglie italiane sono a rischio povertà?</h3></summary>
+
+Nel 2024 il 23,1% della popolazione italiana risulta a rischio di povertà o esclusione sociale, in aumento rispetto al 22,8% del 2023 (dati Istat). La stabilità occupazionale non garantisce più sicurezza economica: l'aumento dell'IRPEF del 10,2% nel 2023 ha eroso ulteriormente un reddito disponibile già sotto pressione inflazionistica.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

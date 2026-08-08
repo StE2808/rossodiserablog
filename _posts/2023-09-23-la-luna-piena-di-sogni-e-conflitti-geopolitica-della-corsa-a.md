@@ -25,6 +25,29 @@ Ma in questo affascinante dramma spaziale, emerge una domanda fondamentale: chi 
 
 Quindi, mentre la tensione cresce e la competizione si intensifica, non perdiamo di vista l'essenza di questa avventura: un'opportunità per l'umanità di guardare oltre le proprie divisioni e di puntare, letteralmente, alle stelle.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi partecipa alla corsa alla Luna nel XXI secolo?</h3></summary>
+
+I principali attori della nuova corsa alla Luna sono la NASA (con il programma Artemis), la Cina (che ha già raccolto campioni di suolo lunare), l'India (con la missione Chandrayaan-3), e la Russia (nonostante il fallimento della missione Luna-25). L'Europa partecipa come partner collaborativo attraverso accordi internazionali come gli Artemis Accords, mentre startup private stanno emergendo come nuovi protagonisti.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la Luna è diventata una questione geopolitica?</h3></summary>
+
+La Luna è ricca di minerali rari e di elio-3, un isotopo con potenziali applicazioni rivoluzionarie nel campo dell'energia nucleare. Questo la rende un obiettivo strategico non solo di prestigio nazionale, ma anche economico. La domanda su chi ha il diritto di sfruttare le risorse lunari è al centro di tensioni diplomatiche e del dibattito sugli accordi internazionali come gli Artemis Accords.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi possiede la Luna secondo il diritto internazionale?</h3></summary>
+
+Secondo il Trattato sullo Spazio Esterno del 1967, la Luna non può essere rivendicata da nessuna nazione come proprio territorio. Tuttavia, il trattato non regola esplicitamente lo sfruttamento delle risorse lunari. Gli Artemis Accords promossi dagli USA cercano di stabilire regole per l'uso commerciale delle risorse spaziali, ma non sono stati sottoscritti da Russia e Cina, aprendo la strada a potenziali conflitti futuri.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

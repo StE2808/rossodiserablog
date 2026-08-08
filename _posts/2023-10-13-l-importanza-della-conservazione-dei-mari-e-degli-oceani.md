@@ -40,6 +40,29 @@ In conclusione, i mari e gli oceani rappresentano una risorsa inestimabile per i
 
 Ognuno di noi ha un ruolo da svolgere nella conservazione di questi ecosistemi preziosi, dall'adozione di comportamenti più sostenibili al sostegno delle organizzazioni ambientali che lavorano per proteggere i nostri mari e oceani. Solo attraverso un impegno globale possiamo garantire un futuro sano per i mari, gli oceani e per il nostro pianeta.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la conservazione dei mari è così importante?</h3></summary>
+
+Mari e oceani coprono il 71% della superficie terrestre e svolgono ruoli fondamentali: assorbono CO2 dall'atmosfera mitigando il cambiamento climatico, producono una parte significativa dell'ossigeno che respiriamo, regolano il clima globale e forniscono proteine essenziali a miliardi di persone. La loro distruzione avrebbe conseguenze devastanti per l'intera biosfera.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono le principali minacce agli oceani?</h3></summary>
+
+Le principali minacce includono l'inquinamento da plastica (con la formazione di isole di rifiuti come la Grande Macchia di Plastica del Pacifico), l'acidificazione causata dall'assorbimento eccessivo di CO2, il cambiamento climatico che altera temperature e correnti, e la pesca eccessiva che depleta le popolazioni ittiche. Questi fattori combinati stanno mettendo a rischio la biodiversità marina.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come possiamo proteggere i mari e gli oceani?</h3></summary>
+
+Le misure più efficaci includono la creazione di aree marine protette, la regolamentazione della pesca per garantirne la sostenibilità, la riduzione dell'uso della plastica monouso, la gestione responsabile dei rifiuti industriali e il supporto alle organizzazioni ambientali marine. A livello individuale, ridurre le emissioni di CO2, evitare la plastica e scegliere prodotti ittici sostenibili sono azioni concrete.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

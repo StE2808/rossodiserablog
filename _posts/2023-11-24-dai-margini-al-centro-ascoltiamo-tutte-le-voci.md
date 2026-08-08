@@ -27,6 +27,22 @@ In questo scenario, ogni individuo gioca un ruolo fondamentale. Può iniziare in
 
 In conclusione, la lotta per il riconoscimento e i diritti dei gruppi subalterni non è unicamente la loro lotta. È una lotta che ci coinvolge tutti. È il cammino verso [una società più giusta, equa e inclusiva](https://rossodiserablog.it/un-antifascista-al-tempo-della-meloni/). Ricordiamoci che, quando tendiamo una mano a chi è stato lasciato indietro, non solo aiutiamo gli altri, ma ci arricchiamo anche noi stessi. Dopotutto, siamo tutti parte di questo straordinario e complesso viaggio chiamato umanità.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa sono i gruppi subalterni?</h3></summary>
+
+I gruppi subalterni sono quelle comunità e categorie sociali che vivono ai margini della società, escluse dai corridoi del potere e dalle narrazioni dominanti. Il termine, sviluppato da Antonio Gramsci, include donne, minoranze etniche e religiose, comunità LGBTQ+, persone con disabilità e chiunque affronti discriminazioni sistematiche oltre la semplice disuguaglianza economica.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come possono i movimenti sociali dare voce ai gruppi emarginati?</h3></summary>
+
+I movimenti come Black Lives Matter e MeToo hanno dimostrato che la lotta per la giustizia non ha confini e può mobilitare milioni di persone. I social media sono diventati strumenti potenti per amplificare voci altrimenti inascoltate. Le alleanze trasversali tra movimenti diversi — come quella tra attivisti per i diritti dei migranti e ambientalisti — moltiplicano la forza e l'impatto delle battaglie per i diritti.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

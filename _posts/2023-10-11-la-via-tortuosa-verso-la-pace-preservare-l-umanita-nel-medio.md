@@ -23,6 +23,22 @@ In questo quadro di crescente violenza, è imperativo che la risposta di Israele
 
 Questo non è un momento per farsi guidare dalle passioni, ma piuttosto un momento per essere freddi e calcolatori, con la vista rivolta a un futuro [in cui la pace potrebbe essere una realtà](https://rossodiserablog.it/la-voce-degli-studenti-contro-la-spirale-della-guerra/). In tale futuro, [la salvaguardia dei diritti e delle vite dei civili](https://rossodiserablog.it/la-pace-a-brandelli/) deve essere una priorità, non un'opzione.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il ruolo dell'Iran nel conflitto tra Israele e Hamas?</h3></summary>
+
+L'Iran finanzia Hamas come parte di una strategia regionale più ampia per espandere la propria influenza nel Medio Oriente e contrastare quella israeliana e statunitense. Questo sostegno fa parte di un disegno che include anche Hezbollah in Libano e altri gruppi armati della regione. L'Iran ha una storia di utilizzo di questi proxy come strumenti di pressione geopolitica indiretta.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si può proteggere la popolazione civile in un conflitto come quello di Gaza?</h3></summary>
+
+La protezione dei civili richiede il mantenimento di corridoi umanitari che consentano l'accesso di cibo, medicine e aiuti, il rispetto del diritto internazionale umanitario da parte di tutte le parti, l'apertura di zone sicure per i non combattenti e la supervisione internazionale delle operazioni militari. Le risposte militari devono essere proporzionate e mirate, evitando di colpire infrastrutture civili come ospedali e scuole.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

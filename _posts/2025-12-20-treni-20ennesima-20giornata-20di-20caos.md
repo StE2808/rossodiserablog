@@ -37,6 +37,29 @@ Non chiediamo miracoli. Chiediamo treni che partano e arrivino in orario. Chiedi
 
 Basta scuse. Servono fatti. [Salvini dimettiti](/salvini-in-spagna-magnifico-teatro-dell-assurdo/).
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché i treni in Italia sono sempre in ritardo?</h3></summary>
+
+I ritardi cronici dei treni italiani sono il risultato di anni di mancati investimenti nella rete ferroviaria, manutenzione inadeguata e una gestione politica che ha privilegiato le promesse ai fatti. Secondo i dati ART 2023, il 38% dei treni regionali arriva in ritardo oltre 5 minuti.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi è responsabile del caos ferroviario italiano?</h3></summary>
+
+La responsabilità del caos ferroviario ricade sul Ministero dei Trasporti e sulla gestione politica del settore. Il ministro Salvini è stato ripetutamente criticato per aver minimizzato i disservizi invece di affrontare le cause strutturali: mancati investimenti e manutenzione inadeguata.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanti pendolari subiscono ogni giorno i ritardi dei treni italiani?</h3></summary>
+
+Circa 3 milioni di italiani usano quotidianamente il treno per lavoro o studio (dati Ferrovie dello Stato). I più colpiti dai ritardi sono i pendolari quotidiani, gli studenti universitari e i lavoratori dipendenti, per i quali i ritardi si traducono in arrivi tardivi, coincidenze perse e appuntamenti saltati.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

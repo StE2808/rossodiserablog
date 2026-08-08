@@ -51,6 +51,29 @@ L'accordo con il fisco italiano, pur rappresentando un costo significativo, non 
 
 Oggi, mentre paga il prezzo della sua esposizione involontaria, Andrea Pignataro rimane fedele alla sua filosofia: preferire l'efficacia alla notorietà, la sostanza alla forma, l'ombra alla luce. Un uomo che ha dimostrato che, nel XXI secolo, è ancora possibile essere incredibilmente ricchi e potenti rimanendo incredibilmente invisibili.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi è Andrea Pignataro e cos'è ION Group?</h3></summary>
+
+Andrea Pignataro, bolognese nato nel 1970, è il secondo uomo più ricco d'Italia con un patrimonio di 27 miliardi di dollari (2023). Ha fondato ION Group nel 1999, una società di software finanziario che serve oltre 4.000 clienti in 50 paesi — tra cui la maggior parte delle principali banche centrali mondiali — con un profilo comparabile a Bloomberg.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Di quanto ha pagato Pignataro per accordarsi con il fisco italiano?</h3></summary>
+
+Nel giugno 2025, Pignataro ha raggiunto un accordo stragiudiziale con l'Agenzia delle Entrate per 280 milioni di euro da pagare in cinque rate. L'Agenzia aveva contestato un'evasione di circa 500 milioni di euro (2013-2023), che con interessi e sanzioni sarebbe salita a 1,2 miliardi, basando la contestazione sulla residenza svizzera 'fittizia'.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Pignataro è rimasto sconosciuto nonostante la sua ricchezza?</h3></summary>
+
+Pignataro ha costruito deliberatamente la propria invisibilità: nessuna intervista, nessuna apparizione pubblica, residenza in Svizzera, passaporto britannico. ION Group opera nell'infrastruttura B2B della finanza — un settore ad altissimo valore ma lontano dall'opinione pubblica — permettendogli di costruire un impero da 27 miliardi senza mai comparire nelle classifiche mediatiche.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

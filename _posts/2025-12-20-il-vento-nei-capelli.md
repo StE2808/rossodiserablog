@@ -29,6 +29,22 @@ Non sto dicendo di fumare – quello lasciamolo agli anni '60. Sto dicendo che o
 
 **_Il vento sa quello che fa. Fidati._**
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa significa lasciare andare il controllo nella vita quotidiana?</h3></summary>
+
+Lasciare andare il controllo non è rassegnazione: è una scelta consapevole di smettere di controllare tutto — notifiche, aspetto, reazioni altrui — e accettare che alcune cose più belle succedono quando ci si fida del momento. Come il vento che porta i capelli dove vuole, il caos può diventare una forma d'arte, un segnale di libertà interiore che non si può fingere o acquistare.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché viviamo in un'epoca ossessionata dal controllo?</h3></summary>
+
+La tecnologia ci ha abituato a monitorare e ottimizzare tutto: passi, calorie, notifiche, like, produttività. Questo controllo costante crea un'ansia permanente e ci allontana dalla spontaneità. L'ossessione per il controllo è anche amplificata dai social media, dove ogni immagine di sé viene curata e filtrata prima di essere mostrata al mondo.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

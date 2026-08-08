@@ -27,6 +27,22 @@ Così, ai ragazzi che oggi guardano al domani con una speranza che cerchiamo di 
 
 Il Natale, in questa nuova luce, diventa un momento di riflessione e di rinnovata promessa: non solo un giorno di festa, ma un impegno a lottare per un domani in cui il "fare di più" diventa la norma, non l'eccezione. E forse, in questa promessa, troveremo il vero spirito del Natale, un spirito non di consumismo, ma di condivisione, di coraggio e di rinnovato impegno per [il mondo che vogliamo lasciare](https://rossodiserablog.it/l-importanza-della-conservazione-dei-mari-e-degli-oceani/). Buon Natale, generazioni future, e che sia davvero un augurio di speranza.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa lasceremo alle prossime generazioni in termini di crisi climatica?</h3></summary>
+
+Le generazioni future erediteranno un pianeta con temperature più alte, eventi climatici estremi più frequenti (tifoni, siccità, inondazioni), perdita di biodiversità e risorse naturali degradate. Il cambiamento climatico sta già alterando la disponibilità e i costi degli alimenti base come caffè e cacao. Le promesse degli accordi internazionali, come Parigi 2015, restano in larga parte non mantenute.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come possiamo migliorare l'eredità che lasciamo ai nostri figli?</h3></summary>
+
+L'impegno deve essere quotidiano e collettivo: riduzione delle emissioni personali (trasporti, alimentazione, consumi energetici), sostegno politico a partiti e candidati con programmi climatici seri, pressione sulle aziende perché adottino pratiche sostenibili, e investimento nell'educazione ambientale delle nuove generazioni. Ogni piccola azione individuale, moltiplicata per miliardi di persone, può fare la differenza.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

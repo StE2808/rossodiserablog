@@ -42,6 +42,29 @@ Alla fine, le persone vogliono sentirsi parte di qualcosa di autentico, che dia 
 
 Forse, il tempo per fare tutto questo è già finito. La fiducia è una risorsa fragile e, una volta persa, è difficile da recuperare. Ma la strada è necessaria: costruire un'idea di progresso che sia davvero di tutti, un progetto condiviso che risponda al bisogno di senso, di appartenenza, di stabilità. Un progetto che abbandoni finalmente la superficialità e si immerga nella realtà, offrendo una visione di futuro che non sia una spruzzata di lucentezza o una sfilata di bei pensieri, ma una vera prospettiva di cambiamento, capace di dare speranza anche a chi ormai non ha più nulla da perdere.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il progressismo sta perdendo consensi?</h3></summary>
+
+Il progressismo ha commesso l'errore di contare sull'ovvietà della rozzezza dell'avversario come arma vincente, rifugiandosi in una superficialità patinata di slogan inclusivi e risposte decorative. Non affronta i problemi concreti di chi vive un disagio esistenziale profondo: precariato, perdita di identità, senso di esclusione. Il populismo, per quanto grezzo, appare più autentico proprio perché si mostra senza filtri.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come può il progressismo tornare a parlare alle persone comuni?</h3></summary>
+
+Il progressismo deve abbandonare il rifugio estetico e tornare alla sostanza: ammettere i propri errori, stabilire un contatto reale con le persone e le loro paure, e ripensare il modello economico che produce precarietà. Serve costruire un senso di comunità autentico — non solo immagine e slogan — e proporre una visione di futuro condivisa che risponda al bisogno di stabilità, appartenenza e significato.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la disillusione politica e come nasce?</h3></summary>
+
+La disillusione politica nasce quando le risposte delle istituzioni sembrano false o disconnesse dalla realtà vissuta dalle persone. Quando il linguaggio politico appare come un codice riservato a élite intellettuali, chi si sente escluso smette di riconoscersi in quel sistema. La percezione di 'superiorità culturale' del progressismo alimenta la rabbia sociale che il populismo trasforma in consenso.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

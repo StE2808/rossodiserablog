@@ -43,6 +43,29 @@ Lo stiamo facendo, Laura. Lo faremo sempre. Perché hai trasformato il tuo ultim
 
 Buon viaggio Laura, ora sei davvero libera.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi era Laura Santi e perché la sua storia è importante?</h3></summary>
+
+Laura Santi era una giornalista umbra che per 25 anni ha convissuto con una rara forma di sclerosi multipla progressiva. A 50 anni ha scelto il suicidio medicalmente assistito, diventando un simbolo della battaglia per il diritto all'autodeterminazione e per una legge italiana sul fine vita.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come funziona il suicidio medicalmente assistito in Italia?</h3></summary>
+
+In Italia non esiste ancora una legge organica sul fine vita. Solo la sentenza della Corte Costituzionale del 2019 sul caso Cappato ha aperto uno spiraglio per il suicidio medicalmente assistito in casi specifici. L'associazione Luca Coscioni stima che il 90% delle richieste venga respinto o lasciato cadere per inerzia delle strutture sanitarie.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali paesi europei hanno già una legge sul fine vita?</h3></summary>
+
+Paesi Bassi (dal 2002), Belgio (dal 2002), Svizzera (con regole proprie), Spagna (dal 2021) e Austria (dal 2022) hanno già legiferato sul suicidio assistito o sull'eutanasia attiva. L'Italia resta tra i pochi paesi dell'Europa occidentale privi di una legge organica in materia.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

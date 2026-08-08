@@ -86,6 +86,29 @@ E poi c'è la questione etica. Dovremo affrontare un sacco di decisioni difficil
 
 In conclusione, la vera sfida è trovare un equilibrio tra l'innovazione spinta dall'IA e la necessità di avere un sistema economico equo e sostenibile. [Un futuro con IA senza etica o responsabilità sociale](https://rossodiserablog.it/mythos-anthropic-economia-paura/)? No grazie!
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come sta cambiando la nostra vita l'intelligenza artificiale?</h3></summary>
+
+L'intelligenza artificiale è già presente in molti ambiti quotidiani: nella medicina (diagnosi più precise con algoritmi come PathAI), nella telemedicina, nei veicoli autonomi (come Waymo di Google), nelle consegne con droni (Amazon Prime Air), e nelle traduzioni automatiche. YouTube e Spotify usano l'AI per tradurre vocalmente i contenuti superando le barriere linguistiche.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la discriminazione algoritmica?</h3></summary>
+
+La discriminazione algoritmica si verifica quando gli algoritmi, addestrati su dati storici che contengono pregiudizi umani, replicano e amplificano queste discriminazioni. Può portare a crediti negati, assicurazioni più costose o errori di identificazione da parte della polizia, il tutto con una parvenza di oggettività matematica. È il cugino tecnologico del pregiudizio umano.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come possiamo gestire l'AI senza che diventi pericolosa?</h3></summary>
+
+La gestione responsabile dell'intelligenza artificiale richiede regolamentazione, trasparenza e supervisione democratica. Bill Gates propone di tassare le macchine per reinvestire nella formazione dei lavoratori. L'idea di un Reddito di Base Universale viene sperimentata già in Finlandia. La chiave è bilanciare innovazione tecnologica ed etica, assicurando che l'AI serva l'umanità e non il contrario.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

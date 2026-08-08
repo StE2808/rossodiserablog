@@ -30,6 +30,29 @@ Di fronte a questo scenario di potenziale trasformazione, ci troviamo ad un bivi
 
 Ci troviamo dinanzi a una domanda che non solo interpella il presente, ma getta un'ombra lunga e incerta sul futuro del nostro paese. Se l'Italia non dovesse seguire il passo, se non dovesse investire con visione e coraggio nell'istruzione dei suoi giovani, cosa resterà della nostra posizione nel mondo? Cosa accadrà a quelle giovani menti che potrebbero fiorire sotto una guida sapiente e risorse innovative?
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto investe l'Italia nell'istruzione rispetto agli altri paesi europei?</h3></summary>
+
+Nel 2019 l'Italia ha dedicato il 3,9% del PIL all'istruzione, un dato che non ha mostrato cambiamenti significativi nel 2023. In confronto, Svezia e Danimarca investono oltre il 6% del PIL. Questo divario si traduce in infrastrutture scolastiche meno moderne, formazione degli insegnanti insufficiente e scarsa integrazione delle tecnologie digitali nelle aule.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché le materie umanistiche sono importanti nell'era digitale?</h3></summary>
+
+Filosofia, storia, letteratura e arte non sono ornamenti del sapere ma strumenti essenziali per sviluppare empatia, pensiero critico e comprensione della società. In un'era dominata dall'intelligenza artificiale e dall'automazione, queste competenze diventano ancora più preziose: le macchine possono fare calcoli, ma non possono sostituire il giudizio etico, la creatività profonda o la comprensione della condizione umana.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come può l'intelligenza artificiale cambiare la scuola italiana?</h3></summary>
+
+L'intelligenza artificiale potrebbe rivoluzionare l'istruzione attraverso percorsi di apprendimento personalizzati che si adattano al ritmo e allo stile di ogni studente, sistemi di valutazione continua e formativa, supporto agli insegnanti nell'identificazione precoce delle difficoltà di apprendimento, e accesso a risorse educative di qualità per studenti in aree geograficamente svantaggiate. Tuttavia richiede investimenti significativi e formazione adeguata dei docenti.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

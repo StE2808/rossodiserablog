@@ -37,6 +37,29 @@ Così, mentre si proclama la guerra alla povertà a parole, nei fatti si distrug
 
 La vera minaccia non sono le comunità che si organizzano per sopravvivere — come già mostrato con [il decreto sicurezza che mina i diritti](/dietro-il-decreto-sicurezza-l-emergenza-inesistente-che-mina/) —, ma un potere che ha paura della solidarietà perché sa quanto possa essere contagiosa.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa offriva il centro sociale Leoncavallo alla comunità milanese?</h3></summary>
+
+Il Leoncavallo offriva una rete di servizi che suppliva alle carenze dello Stato: sussidi all'abitare per chi non può permettersi gli affitti di Milano (oltre 1.500 euro/mese per 60 mq, Nomisma 2024), corsi di italiano per immigrati, sportelli sanitari per chi è escluso dal sistema pubblico, assistenza legale gratuita, distribuzione alimentare e una radio comunitaria.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il governo ha sgomberato il Leoncavallo?</h3></summary>
+
+Lo sgombero è avvenuto in nome dell'ordine e della legalità, nell'ambito di una strategia che considera ogni forma di aggregazione dal basso come un pericolo da neutralizzare. La narrativa del governo trasforma la solidarietà in crimine e la mutualità in sovversione, dipingendo ogni spazio di autoorganizzazione popolare come 'covo di illegali'.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa succede alle periferie quando vengono chiusi i centri sociali?</h3></summary>
+
+I centri sociali suppliscono a bisogni che le istituzioni non coprono: secondo il CNEL (2023), il 28% delle famiglie in disagio economico non accede ai servizi di welfare pubblici per barriere burocratiche. Il loro sgombero non elimina il disagio sociale, ma ne rimuove gli anticorpi, aggravando l'atomizzazione e l'abbandono nelle periferie.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

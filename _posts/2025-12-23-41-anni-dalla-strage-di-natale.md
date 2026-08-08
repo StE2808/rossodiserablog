@@ -37,6 +37,29 @@ A quarantuno anni di distanza, il dolore non si attenua. La memoria di quelle se
 
 Non dimentichiamo. Non perdoniamo. Non ci arrendiamo.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è stata la strage di Natale del 1984?</h3></summary>
+
+La strage di Natale del 1984 avvenne il 23 dicembre, quando una bomba esplose sul Rapido 904 Napoli-Milano nel tunnel della Vernola, tra Auletta e San Gregorio Magno in provincia di Salerno. L'attentato uccise 16 persone innocenti e ne ferì oltre 260. È la seconda strage ferroviaria della storia italiana per numero di vittime.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi fu responsabile della strage del Rapido 904?</h3></summary>
+
+La strage fu opera di Pippo Calò, mafioso siciliano legato alla camorra napoletana, condannato all'ergastolo nel 1992 con sentenza definitiva nel 1995. L'attentato fu un atto di terrorismo criminale per affermare il potere della malavita attraverso il terrore.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si commemora ogni anno la strage di Natale?</h3></summary>
+
+Il 23 dicembre di ogni anno l'Italia commemora le 16 vittime della strage di Natale con cerimonie ufficiali e momenti di raccoglimento. La memoria dell'attentato resta un monito permanente contro ogni forma di criminalità organizzata.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

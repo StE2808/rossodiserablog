@@ -70,6 +70,29 @@ Come ha scritto Zuboff: "La questione non è se possiamo fermare il Capitalismo 
 
 In un'epoca in cui l'attenzione è la risorsa più preziosa, forse il primo atto di resistenza è proprio questo: riconquistare la consapevolezza di come i nostri dati vengono utilizzati e iniziare a immaginare un futuro digitale costruito su valori diversi dall'estrazione e dalla manipolazione.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è il capitalismo di sorveglianza?</h3></summary>
+
+Il capitalismo di sorveglianza è un modello economico teorizzato dalla professoressa di Harvard Shoshana Zuboff. Descrive il sistema con cui aziende come Google e Facebook raccolgono dati sulle nostre interazioni digitali, li elaborano per prevedere comportamenti futuri e vendono queste previsioni come 'prodotti predittivi' ad inserzionisti interessati a influenzare il nostro comportamento.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come funziona il capitalismo di sorveglianza nella pratica?</h3></summary>
+
+Il processo avviene in cinque fasi: estrazione massiccia di dati (clic, ricerche, pause su immagini), analisi tramite algoritmi di machine learning, creazione di modelli predittivi sul comportamento futuro, vendita di queste previsioni nei mercati a termine comportamentali e infine modifica comportamentale attraverso tecniche di persuasione. Le aziende più ricche della storia — Apple, Microsoft, Google, Amazon, Meta — si basano su questo modello.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come possiamo resistere al capitalismo di sorveglianza?</h3></summary>
+
+Esistono diverse forme di resistenza: normativa (come il GDPR europeo e il CCPA californiano), tecnologica (motori di ricerca alternativi come DuckDuckGo, app crittografate come Signal), educativa (consapevolezza pubblica sui meccanismi di raccolta dati) ed economica (cooperative di dati, piattaforme di proprietà degli utenti). Il primo passo è riconoscere come i propri dati vengono utilizzati.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

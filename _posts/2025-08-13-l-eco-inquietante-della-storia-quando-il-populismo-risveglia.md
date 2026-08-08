@@ -53,6 +53,29 @@ Josef Mengele credeva di essere un uomo di scienza che stava contribuendo al pro
 
 È responsabilità di ogni cittadino democratico riconoscere questi segnali di pericolo — come analizzato anche in [La banalità del male non è mai tramontata](/la-banalita-del-male-non-e-mai-tramontata/) — e respingerli con fermezza, prima che sia troppo tardi. La memoria delle vittime rom dell'Olocausto, spesso dimenticate dalla storia ufficiale, ci impone di vigilare perché certe parole non diventino mai più azioni.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la richiesta di Salvini di 'radere al suolo i campi rom' è pericolosa?</h3></summary>
+
+La richiesta introduce la logica della punizione collettiva: un'intera comunità etnica viene ritenuta responsabile per i crimini di alcuni suoi membri. In Italia vivono tra 120.000 e 180.000 rom, circa il 60% cittadini italiani (Consiglio d'Europa, ECRI 2021). Questa logica richiama le politiche di deportazione e sterminio implementate dal regime nazista.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa prevede la Costituzione italiana sui diritti delle minoranze?</h3></summary>
+
+L'articolo 3 della Costituzione italiana stabilisce che 'tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di razza, lingua, religione, opinioni politiche, condizioni personali e sociali'. Proporre la distruzione dei luoghi di vita di una minoranza etnica come risposta collettiva a un crimine individuale contrasta con questo principio fondamentale.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come rispondere alla tragedia di Cecilia De Astis nel rispetto della democrazia?</h3></summary>
+
+Un approccio democratico richiede di condannare fermamente il crimine, esprimere solidarietà alla famiglia della vittima e chiedere che la giustizia faccia il proprio corso secondo le procedure della giustizia minorile. La risposta non può mai trasformarsi in vendetta collettiva contro una comunità intera, né in misure che negano la pari dignità costituzionale di tutti i cittadini.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

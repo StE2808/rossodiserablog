@@ -41,6 +41,29 @@ Il dibattito è complesso e spesso polarizzante. Mentre alcuni studi pongono l'a
 
 In definitiva, mentre il caffè può offrire diversi benefici per la salute, il quadro è complesso e richiede un approccio equilibrato e informato. È essenziale per i consumatori essere consapevoli sia dei benefici che dei rischi associati al consumo di caffè, e per la ricerca futura indagare ancora più a fondo le intricate relazioni tra il caffè e la salute.
 
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Da dove viene il caffè e come è arrivato in Italia?</h3></summary>
+
+Il caffè ha origini in Etiopia, dove secondo la leggenda un pastore di nome Kaldi scoprì i chicchi dopo aver notato l'energia insolita delle sue capre. Arrivò in Europa nel XVII secolo attraverso Venezia, dove aprì il primo locale italiano nel 1645. L'Italia ha poi sviluppato una relazione culturale unica con questa bevanda, codificando il rito del caffè più riconoscibile al mondo.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il caffè fa bene o fa male alla salute?</h3></summary>
+
+Il caffè ha effetti complessi sulla salute. Contiene antiossidanti come l'acido clorogenico che combattono i radicali liberi. Studi suggeriscono che il consumo moderato può ridurre il rischio di diabete di tipo 2, Parkinson e Alzheimer. D'altro canto, il consumo eccessivo può causare insonnia, aumento della pressione sanguigna e dipendenza da caffeina. La moderazione è la chiave.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quante varietà di caffè esistono in Italia?</h3></summary>
+
+In Italia esistono decine di varianti del caffè: ristretto, lungo, macchiato (caldo o freddo), corretto, in tazza grande o piccola, al vetro. Ogni regione e ogni bar ha le proprie tradizioni e proporzioni. Il caffè italiano non è solo una bevanda ma un'espressione della personalità di chi lo beve e della cultura del luogo in cui viene servito.
+
+</details>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
