@@ -35,6 +35,8 @@ CLAUDE.md
 
 # Note di lavoro interne (non pubblicare)
 workflow_rossodisera.md
+seo-geo-riferimento.md
+audit.md
 
 # Graphify — knowledge graph locale (non pubblicare)
 graphify-out/
@@ -42,9 +44,8 @@ graphify-out/
 
 # Dashboard — snapshot dati Search Console (non pubblicare)
 dashboard/gsc_snapshot.json
-# Dashboard — versione pubblicata e script di deploy/lettura (path nascosto, host, logica VPS)
-dashboard/publish/
-dashboard/*.sh
+# Dashboard — cruscotto interno pubblicato su VPS a link nascosto: mai nel repo del blog
+dashboard/
 .superpowers/
 
 # cache Python degli script interni
