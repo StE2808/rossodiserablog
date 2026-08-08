@@ -71,7 +71,7 @@ Il diritto non pretende di stabilire cosa sia il Bene assoluto, ma si limita a d
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa hanno in comune Trump e Meloni nell'uso della morale in politica?</h3></summary>
 
-L'articolo afferma che Trump ha annunciato e Meloni ha sottoscritto l'approccio di imporre la propria visione morale come criterio di giustizia, trasformando così lo Stato in strumento di parte. Entrambi i governi vengono descritti come esempi di questa degenerazione della democrazia liberale.
+Trump ha annunciato e Meloni ha sottoscritto lo stesso approccio: imporre la propria visione morale come criterio di giustizia, trasformando lo Stato in strumento di parte. Entrambi i governi sono esempi di una degenerazione della democrazia liberale, in cui il potere non arbitra più tra visioni diverse del bene, ma ne impone una sola a tutti.
 
 </details>
 
@@ -101,7 +101,7 @@ L'articolo afferma che Trump ha annunciato e Meloni ha sottoscritto l'approccio 
       "name": "Cosa hanno in comune Trump e Meloni nell'uso della morale in politica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo afferma che Trump ha annunciato e Meloni ha sottoscritto l'approccio di imporre la propria visione morale come criterio di giustizia, trasformando così lo Stato in strumento di parte. Entrambi i governi vengono descritti come esempi di questa degenerazione della democrazia liberale."
+        "text": "Trump ha annunciato e Meloni ha sottoscritto lo stesso approccio: imporre la propria visione morale come criterio di giustizia, trasformando lo Stato in strumento di parte. Entrambi i governi sono esempi di una degenerazione della democrazia liberale, in cui il potere non arbitra più tra visioni diverse del bene, ma ne impone una sola a tutti."
       }
     }
   ]

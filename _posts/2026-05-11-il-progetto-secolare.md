@@ -87,7 +87,7 @@ In The Impact of Science on Society (1952) il filosofo e premio Nobel Bertrand R
 <details class="faq-item" markdown="1">
 <summary><h3>La cattura istituzionale è una teoria del complotto?</h3></summary>
 
-No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile.
+No. C'è una differenza netta tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile.
 
 </details>
 
@@ -125,7 +125,7 @@ No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le 
       "name": "La cattura istituzionale è una teoria del complotto?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile."
+        "text": "No. C'è una differenza netta tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile."
       }
     }
   ]

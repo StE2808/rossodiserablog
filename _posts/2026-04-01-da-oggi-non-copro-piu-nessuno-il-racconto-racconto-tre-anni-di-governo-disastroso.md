@@ -58,14 +58,14 @@ Meloni ha pronunciato questa frase mentre chiedeva le dimissioni della ministra 
 <details class="faq-item" markdown="1">
 <summary><h3>Quali ministri del governo Meloni si sono dimessi dopo uno scandalo?</h3></summary>
 
-L'articolo cita tre casi: Delmastro, che ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della 'Bisteccheria d'Italia'; Bartolozzi, capo di gabinetto di Nordio, dimessasi nel periodo post-referendum; e Santanchè, rimasta al ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera.
+I casi sono tre: Delmastro, che ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della 'Bisteccheria d'Italia'; Bartolozzi, capo di gabinetto di Nordio, dimessasi nel periodo post-referendum; e Santanchè, rimasta al ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>Perché Meloni ha smesso di coprire proprio ora?</h3></summary>
 
-Secondo l'articolo (e come ha dichiarato Conte) ci sono voluti tre anni e 14 milioni di cittadini che hanno votato no al referendum per cambiare il calcolo. La sconfitta referendaria ha reso insostenibile ciò che prima era un costo accettabile. Meloni ha bisogno di riposizionarsi e riacquistare credibilità, e Santanchè è diventata utile da sacrificare. La questione morale non è cambiata: è cambiata la convenienza.
+Come ha dichiarato Conte, ci sono voluti tre anni e 14 milioni di cittadini che hanno votato no al referendum per cambiare il calcolo. La sconfitta referendaria ha reso insostenibile ciò che prima era un costo accettabile: Meloni ha bisogno di riposizionarsi e riacquistare credibilità, e Santanchè è diventata utile da sacrificare. La questione morale non è cambiata, è cambiata la convenienza.
 
 </details>
 
@@ -87,7 +87,7 @@ Secondo l'articolo (e come ha dichiarato Conte) ci sono voluti tre anni e 14 mil
       "name": "Quali ministri del governo Meloni si sono dimessi dopo uno scandalo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo cita tre casi: Delmastro, che ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della 'Bisteccheria d'Italia'; Bartolozzi, capo di gabinetto di Nordio, dimessasi nel periodo post-referendum; e Santanchè, rimasta al ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera."
+        "text": "I casi sono tre: Delmastro, che ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della 'Bisteccheria d'Italia'; Bartolozzi, capo di gabinetto di Nordio, dimessasi nel periodo post-referendum; e Santanchè, rimasta al ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera."
       }
     },
     {
@@ -95,7 +95,7 @@ Secondo l'articolo (e come ha dichiarato Conte) ci sono voluti tre anni e 14 mil
       "name": "Perché Meloni ha smesso di coprire proprio ora?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Secondo l'articolo (e come ha dichiarato Conte) ci sono voluti tre anni e 14 milioni di cittadini che hanno votato no al referendum per cambiare il calcolo. La sconfitta referendaria ha reso insostenibile ciò che prima era un costo accettabile. Meloni ha bisogno di riposizionarsi e riacquistare credibilità, e Santanchè è diventata utile da sacrificare. La questione morale non è cambiata: è cambiata la convenienza."
+        "text": "Come ha dichiarato Conte, ci sono voluti tre anni e 14 milioni di cittadini che hanno votato no al referendum per cambiare il calcolo. La sconfitta referendaria ha reso insostenibile ciò che prima era un costo accettabile: Meloni ha bisogno di riposizionarsi e riacquistare credibilità, e Santanchè è diventata utile da sacrificare. La questione morale non è cambiata, è cambiata la convenienza."
       }
     }
   ]

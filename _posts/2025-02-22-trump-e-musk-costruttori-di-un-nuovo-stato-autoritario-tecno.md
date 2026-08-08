@@ -53,7 +53,7 @@ Trump rappresenta il volto politico populista che mira a concentrare il potere n
 <details class="faq-item" markdown="1">
 <summary><h3>Esistono segnali di resistenza al controllo tecnologico?</h3></summary>
 
-Sì: la crescente disillusione verso le istituzioni, la diffusione di movimenti per la privacy digitale, il crescente interesse per criptovalute e reti decentralizzate indicano una resistenza silenziosa ma diffusa. Le piattaforme social, un tempo strumenti di manipolazione, vengono ora usate per organizzare dissenso che sfugge al controllo centralizzato. Le crepe nel sistema potrebbero aprire quella che l'articolo chiama una 'finestra quantistica' per il cambiamento.
+Sì: la crescente disillusione verso le istituzioni, la diffusione di movimenti per la privacy digitale, il crescente interesse per criptovalute e reti decentralizzate indicano una resistenza silenziosa ma diffusa. Le piattaforme social, un tempo strumenti di manipolazione, vengono ora usate per organizzare dissenso che sfugge al controllo centralizzato. Le crepe nel sistema possono aprire una 'finestra quantistica' per il cambiamento.
 
 </details>
 
@@ -82,7 +82,7 @@ La 'finestra quantistica' è il momento in cui le tensioni interne di un sistema
       "name": "Esistono segnali di resistenza al controllo tecnologico?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sì: la crescente disillusione verso le istituzioni, la diffusione di movimenti per la privacy digitale, il crescente interesse per criptovalute e reti decentralizzate indicano una resistenza silenziosa ma diffusa. Le piattaforme social, un tempo strumenti di manipolazione, vengono ora usate per organizzare dissenso che sfugge al controllo centralizzato. Le crepe nel sistema potrebbero aprire quella che l'articolo chiama una 'finestra quantistica' per il cambiamento."
+        "text": "Sì: la crescente disillusione verso le istituzioni, la diffusione di movimenti per la privacy digitale, il crescente interesse per criptovalute e reti decentralizzate indicano una resistenza silenziosa ma diffusa. Le piattaforme social, un tempo strumenti di manipolazione, vengono ora usate per organizzare dissenso che sfugge al controllo centralizzato. Le crepe nel sistema possono aprire una 'finestra quantistica' per il cambiamento."
       }
     },
     {

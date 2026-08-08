@@ -51,7 +51,7 @@ Questo è il momento in cui il silenzio diventa complicità. Bisogna muoversi �
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa è successo alla Global Sumud Flotilla?</h3></summary>
 
-Nella notte tra il 29 e il 30 aprile 2026, la marina militare israeliana ha abbordato le imbarcazioni della Global Sumud Flotilla in acque internazionali al largo di Creta, sequestrandone oltre 22 e fermando circa 180 persone. I partecipanti riferiscono di essere stati presi a pugni, calci e trascinati con le mani legate: 34 risultano feriti, 60 hanno avviato uno sciopero della fame. Due attivisti (Thiago Ávila (brasiliano) e Saif Abukeshek (doppia cittadinanza palestinese-spagnola)) restano ancora detenuti.
+Nella notte tra il 29 e il 30 aprile 2026, la marina militare israeliana ha abbordato le imbarcazioni della [Global Sumud Flotilla](/dall-economia-del-genocidio-alla-resistenza-civile-solidarie/) in acque internazionali al largo di Creta, sequestrandone oltre 22 e fermando circa 180 persone. I partecipanti riferiscono di essere stati presi a pugni, calci e trascinati con le mani legate: 34 risultano feriti, 60 hanno avviato uno sciopero della fame. Due attivisti (Thiago Ávila (brasiliano) e Saif Abukeshek (doppia cittadinanza palestinese-spagnola)) restano ancora detenuti.
 
 </details>
 

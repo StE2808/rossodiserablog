@@ -46,3 +46,7 @@ dashboard/gsc_snapshot.json
 dashboard/publish/
 dashboard/*.sh
 .superpowers/
+
+# cache Python degli script interni
+__pycache__/
+*.pyc

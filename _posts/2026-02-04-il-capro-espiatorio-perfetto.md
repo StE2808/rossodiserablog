@@ -66,7 +66,7 @@ Dopo i disordini di sabato a Torino, le autorità hanno arrestato un ragazzo di 
 <details class="faq-item" markdown="1">
 <summary><h3>Perché l'arresto per i disordini di Torino non convince?</h3></summary>
 
-L'articolo solleva dubbi sulla logica dell'identificazione: un cameriere proveniente da un borgo toscano di mille anime, senza precedenti, senza schedature, senza appartenenza a gruppi organizzati, viene trasformato in 'pericoloso sovversivo'. La vicenda viene letta come la costruzione di un capro espiatorio necessario al governo per mostrare un volto da dare in pasto all'opinione pubblica dopo i disordini.
+La logica dell'identificazione non regge: un cameriere proveniente da un borgo toscano di mille anime, senza precedenti, senza schedature, senza appartenenza a gruppi organizzati, viene trasformato in 'pericoloso sovversivo'. La vicenda somiglia alla costruzione di un capro espiatorio, il volto che il governo aveva bisogno di dare in pasto all'opinione pubblica dopo i disordini di Torino.
 
 </details>
 
@@ -88,7 +88,7 @@ L'articolo solleva dubbi sulla logica dell'identificazione: un cameriere proveni
       "name": "Perché l'arresto per i disordini di Torino non convince?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo solleva dubbi sulla logica dell'identificazione: un cameriere proveniente da un borgo toscano di mille anime, senza precedenti, senza schedature, senza appartenenza a gruppi organizzati, viene trasformato in 'pericoloso sovversivo'. La vicenda viene letta come la costruzione di un capro espiatorio necessario al governo per mostrare un volto da dare in pasto all'opinione pubblica dopo i disordini."
+        "text": "La logica dell'identificazione non regge: un cameriere proveniente da un borgo toscano di mille anime, senza precedenti, senza schedature, senza appartenenza a gruppi organizzati, viene trasformato in 'pericoloso sovversivo'. La vicenda somiglia alla costruzione di un capro espiatorio, il volto che il governo aveva bisogno di dare in pasto all'opinione pubblica dopo i disordini di Torino."
       }
     }
   ]

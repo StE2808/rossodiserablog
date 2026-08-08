@@ -53,7 +53,7 @@ L'aporofobia è l'odio, il rifiuto e il disprezzo verso chi non ha risorse econo
 <details class="faq-item" markdown="1">
 <summary><h3>Come la meritocrazia contribuisce alla colpevolizzazione dei poveri?</h3></summary>
 
-Secondo l'articolo, la meritocrazia ha realizzato la colpevolizzazione del povero trasformandolo in 'demeritevole' (qualcuno che si merita la propria povertà e la conseguente espulsione sociale. Ma se la gara parte da posizioni diverse) [come la scimmia di Forbes che accaparra tutte le banane](https://rossodiserablog.it/la-scimmia-di-forbes/), il merito non misura il valore delle persone: misura solo la distanza dal traguardo. Questa cultura della colpa ha conquistato trasversalmente partiti, istituzioni e persino parte della sinistra.
+La meritocrazia ha realizzato la colpevolizzazione del povero trasformandolo in 'demeritevole': qualcuno che si merita la propria povertà e la conseguente espulsione sociale. Ma se la gara parte da posizioni diverse, come nell'esperimento della scimmia di Forbes che accaparra tutte le banane, il merito non misura il valore delle persone, misura solo la distanza dal traguardo. Questa cultura della colpa ha conquistato trasversalmente partiti, istituzioni e persino parte della sinistra.
 
 </details>
 
@@ -89,7 +89,7 @@ Nel suo saggio pubblicato su Costituzionalismo.it, Virginia Veludo sostiene che 
       "name": "Come la meritocrazia contribuisce alla colpevolizzazione dei poveri?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Secondo l'articolo, la meritocrazia ha realizzato la colpevolizzazione del povero trasformandolo in 'demeritevole' (qualcuno che si merita la propria povertà e la conseguente espulsione sociale. Ma se la gara parte da posizioni diverse) [come la scimmia di Forbes che accaparra tutte le banane](https://rossodiserablog.it/la-scimmia-di-forbes/), il merito non misura il valore delle persone: misura solo la distanza dal traguardo. Questa cultura della colpa ha conquistato trasversalmente partiti, istituzioni e persino parte della sinistra."
+        "text": "La meritocrazia ha realizzato la colpevolizzazione del povero trasformandolo in 'demeritevole': qualcuno che si merita la propria povertà e la conseguente espulsione sociale. Ma se la gara parte da posizioni diverse, come nell'esperimento della scimmia di Forbes che accaparra tutte le banane, il merito non misura il valore delle persone, misura solo la distanza dal traguardo. Questa cultura della colpa ha conquistato trasversalmente partiti, istituzioni e persino parte della sinistra."
       }
     },
     {

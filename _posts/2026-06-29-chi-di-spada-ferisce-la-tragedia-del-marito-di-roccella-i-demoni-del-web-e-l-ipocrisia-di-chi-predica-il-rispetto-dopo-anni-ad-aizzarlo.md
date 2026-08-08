@@ -81,7 +81,7 @@ Dopo i commenti odiosi comparsi sui social contro Eugenia Roccella durante le ri
 <details class="faq-item" markdown="1">
 <summary><h3>Cos'è il vittimismo strumentale in politica?</h3></summary>
 
-È la figura retorica di chi denuncia un clima d'odio che ha contribuito ad alimentare. Secondo l'articolo ha una funzione precisa: produrre consenso, compattare la base e spostare l'attenzione dai contenuti alla forma, dai programmi alle emozioni.
+È la figura retorica di chi denuncia un clima d'odio che ha contribuito ad alimentare. La funzione è precisa: produrre consenso, compattare la base e spostare l'attenzione dai contenuti alla forma, dai programmi alle emozioni. Chi accusa gli altri di imbarbarire il dibattito pubblico, dopo anni passati a imbarbarirlo, ottiene due risultati insieme: si assolve e si presenta come vittima.
 
 </details>
 
@@ -118,7 +118,7 @@ Dopo i commenti odiosi comparsi sui social contro Eugenia Roccella durante le ri
       "name": "Cos'è il vittimismo strumentale in politica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "È la figura retorica di chi denuncia un clima d'odio che ha contribuito ad alimentare. Secondo l'articolo ha una funzione precisa: produrre consenso, compattare la base e spostare l'attenzione dai contenuti alla forma, dai programmi alle emozioni."
+        "text": "È la figura retorica di chi denuncia un clima d'odio che ha contribuito ad alimentare. La funzione è precisa: produrre consenso, compattare la base e spostare l'attenzione dai contenuti alla forma, dai programmi alle emozioni. Chi accusa gli altri di imbarbarire il dibattito pubblico, dopo anni passati a imbarbarirlo, ottiene due risultati insieme: si assolve e si presenta come vittima."
       }
     },
     {

@@ -125,7 +125,7 @@ Trump ha definito Anthropic una 'azienda radicale di sinistra' su Truth Social e
 <details class="faq-item" markdown="1">
 <summary><h3>Esiste una legge internazionale che regola l'uso militare dell'intelligenza artificiale?</h3></summary>
 
-No. L'articolo rileva che non esiste una legge vincolante che regoli l'uso militare dell'AI. L'Executive Order 14110 di Biden è stato revocato da Trump nel gennaio 2025. L'AI Act europeo esclude le applicazioni militari. Il gruppo di esperti ONU sulle armi autonome letali discute dal 2014 senza risultati vincolanti. Guterres e il presidente del Comitato Internazionale della Croce Rossa hanno chiesto regole vincolanti entro il 2026, ma siamo nel 2026 e le regole non ci sono.
+No. Non esiste una legge vincolante che regoli l'uso militare dell'AI. L'Executive Order 14110 di Biden è stato revocato da Trump nel gennaio 2025. L'AI Act europeo esclude le applicazioni militari. Il gruppo di esperti ONU sulle armi autonome letali discute dal 2014 senza risultati vincolanti. Guterres e il presidente del Comitato Internazionale della Croce Rossa hanno chiesto regole vincolanti entro il 2026, ma siamo nel 2026 e le regole non ci sono.
 
 </details>
 
@@ -162,7 +162,7 @@ Il caso mette a nudo che in assenza di leggi che regolino l'AI militare, la deci
       "name": "Esiste una legge internazionale che regola l'uso militare dell'intelligenza artificiale?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. L'articolo rileva che non esiste una legge vincolante che regoli l'uso militare dell'AI. L'Executive Order 14110 di Biden è stato revocato da Trump nel gennaio 2025. L'AI Act europeo esclude le applicazioni militari. Il gruppo di esperti ONU sulle armi autonome letali discute dal 2014 senza risultati vincolanti. Guterres e il presidente del Comitato Internazionale della Croce Rossa hanno chiesto regole vincolanti entro il 2026, ma siamo nel 2026 e le regole non ci sono."
+        "text": "No. Non esiste una legge vincolante che regoli l'uso militare dell'AI. L'Executive Order 14110 di Biden è stato revocato da Trump nel gennaio 2025. L'AI Act europeo esclude le applicazioni militari. Il gruppo di esperti ONU sulle armi autonome letali discute dal 2014 senza risultati vincolanti. Guterres e il presidente del Comitato Internazionale della Croce Rossa hanno chiesto regole vincolanti entro il 2026, ma siamo nel 2026 e le regole non ci sono."
       }
     },
     {

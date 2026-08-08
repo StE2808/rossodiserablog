@@ -278,3 +278,68 @@ def test_compare_segnala_json_malformato():
     problemi = compare(rotto)
     assert len(problemi) == 1
     assert "malformato" in problemi[0]
+
+
+# --- guardia sulla conservazione dei fatti ---
+
+from faq_tool import extract_facts, facts_lost, conta_parole
+
+
+def test_extract_facts_prende_numeri_e_percentuali():
+    fatti = extract_facts("L'85% dei groenlandesi nel 2026, su 2.000 denunce.")
+    assert "85%" in fatti
+    assert "2026" in fatti
+    assert "2.000" in fatti
+
+
+def test_extract_facts_prende_i_nomi_propri():
+    fatti = extract_facts("Horkheimer scrisse in Germania prima della guerra.")
+    assert "horkheimer" in fatti
+    assert "germania" in fatti
+
+
+def test_extract_facts_ignora_le_parole_funzione_maiuscole():
+    fatti = extract_facts("Secondo Horkheimer. Mentre altrove. Questa e' la tesi.")
+    assert "secondo" not in fatti
+    assert "mentre" not in fatti
+    assert "questa" not in fatti
+    assert "horkheimer" in fatti
+
+
+def test_extract_facts_prende_le_citazioni_tra_virgolette():
+    fatti = extract_facts("Lo chiama 'finestra quantistica' da anni.")
+    assert "finestra quantistica" in fatti
+
+
+def test_extract_facts_prende_i_numerali_in_lettere():
+    fatti = extract_facts("Un ciclo in sei fasi con tre casi.")
+    assert "sei" in fatti
+    assert "tre" in fatti
+
+
+def test_facts_lost_segnala_un_numero_scomparso():
+    prima = "Meno del 40% ha funzionato su 64 operazioni."
+    dopo = "Meno del 40% ha funzionato."
+    assert facts_lost(prima, dopo) == ["64"]
+
+
+def test_facts_lost_segnala_un_nome_proprio_scomparso():
+    prima = "La ricercatrice Lindsey O'Rourke del Boston College."
+    dopo = "Una ricercatrice del Boston College."
+    assert "lindsey" in facts_lost(prima, dopo)
+
+
+def test_facts_lost_ignora_la_rimozione_del_riferimento_al_pezzo():
+    prima = "L'articolo cita il decreto anti-rave del 2022."
+    dopo = "Il decreto anti-rave del 2022 e' il primo esempio."
+    assert facts_lost(prima, dopo) == []
+
+
+def test_facts_lost_vuoto_se_la_riscrittura_conserva_tutto():
+    prima = "Secondo l'articolo l'85% dei groenlandesi rifiuta, dice Rubio."
+    dopo = "L'85% dei groenlandesi rifiuta, come ha ammesso Rubio."
+    assert facts_lost(prima, dopo) == []
+
+
+def test_conta_parole_ignora_la_punteggiatura():
+    assert conta_parole("Uno, due; tre. Quattro!") == 4

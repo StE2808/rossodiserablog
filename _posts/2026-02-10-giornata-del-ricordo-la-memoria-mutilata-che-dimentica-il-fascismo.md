@@ -68,21 +68,21 @@ Ricordare le vittime delle foibe è doveroso — [la stessa banalità del male](
 <details class="faq-item" markdown="1">
 <summary><h3>Che legame c'è tra il fascismo e le foibe?</h3></summary>
 
-L'articolo sostiene che senza il ventennio di occupazione fascista (i campi di concentramento come Arbe/Rab, le politiche di pulizia etnica, l'esproprio delle terre, la repressione violenta delle popolazioni slave e l'italianizzazione forzata) le foibe non sarebbero mai esistite. La narrazione delle foibe come frutto di 'odio etnico' cancella sistematicamente le cause storiche che portarono a quella tragedia.
+Senza il ventennio di occupazione fascista (i campi di concentramento come Arbe/Rab, le politiche di pulizia etnica, l'esproprio delle terre, la repressione violenta delle popolazioni slave e l'italianizzazione forzata) le foibe non sarebbero mai esistite. La narrazione delle foibe come frutto di 'odio etnico' cancella sistematicamente le cause storiche che portarono a quella tragedia.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>Che cos'è la Commissione mista italo-slovena del 2000 e perché è importante?</h3></summary>
 
-La Commissione mista storico-culturale italo-slovena ha prodotto nel 2000 una relazione condivisa da storici di entrambi i Paesi che contestualizza gli eventi delle foibe nella loro complessità storica. In Slovenia è ben conosciuta; in Italia non è mai stata pubblicata. L'articolo la considera troppo scomoda per chi preferisce una memoria semplificata e funzionale alla riabilitazione del fascismo.
+La Commissione mista storico-culturale italo-slovena ha prodotto nel 2000 una relazione condivisa da storici di entrambi i Paesi, che contestualizza gli eventi delle foibe nella loro complessità storica. In Slovenia è ben conosciuta; in Italia non è mai stata pubblicata. Troppo scomoda per chi preferisce una memoria semplificata e funzionale alla riabilitazione del fascismo.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>Quale campo di concentramento fascista viene citato come rimosso dalla memoria ufficiale italiana?</h3></summary>
 
-L'articolo cita due strutture dimenticate: il campo di concentramento di Arbe/Rab, definito il più spaventoso lager per sloveni e croati, e la Risiera di San Sabba, unico lager nazifascista con forno crematorio in Italia. Entrambi vengono sistematicamente omessi dalle celebrazioni ufficiali del Giorno del Ricordo.
+Le strutture rimosse dalla memoria ufficiale sono due: il campo di concentramento di Arbe/Rab, il più spaventoso lager per sloveni e croati, e la Risiera di San Sabba, unico lager nazifascista con forno crematorio in Italia. Entrambi vengono sistematicamente omessi dalle celebrazioni ufficiali del Giorno del Ricordo, che ricordano le vittime senza nominare le cause.
 
 </details>
 
@@ -96,7 +96,7 @@ L'articolo cita due strutture dimenticate: il campo di concentramento di Arbe/Ra
       "name": "Che legame c'è tra il fascismo e le foibe?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo sostiene che senza il ventennio di occupazione fascista (i campi di concentramento come Arbe/Rab, le politiche di pulizia etnica, l'esproprio delle terre, la repressione violenta delle popolazioni slave e l'italianizzazione forzata) le foibe non sarebbero mai esistite. La narrazione delle foibe come frutto di 'odio etnico' cancella sistematicamente le cause storiche che portarono a quella tragedia."
+        "text": "Senza il ventennio di occupazione fascista (i campi di concentramento come Arbe/Rab, le politiche di pulizia etnica, l'esproprio delle terre, la repressione violenta delle popolazioni slave e l'italianizzazione forzata) le foibe non sarebbero mai esistite. La narrazione delle foibe come frutto di 'odio etnico' cancella sistematicamente le cause storiche che portarono a quella tragedia."
       }
     },
     {
@@ -104,7 +104,7 @@ L'articolo cita due strutture dimenticate: il campo di concentramento di Arbe/Ra
       "name": "Che cos'è la Commissione mista italo-slovena del 2000 e perché è importante?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La Commissione mista storico-culturale italo-slovena ha prodotto nel 2000 una relazione condivisa da storici di entrambi i Paesi che contestualizza gli eventi delle foibe nella loro complessità storica. In Slovenia è ben conosciuta; in Italia non è mai stata pubblicata. L'articolo la considera troppo scomoda per chi preferisce una memoria semplificata e funzionale alla riabilitazione del fascismo."
+        "text": "La Commissione mista storico-culturale italo-slovena ha prodotto nel 2000 una relazione condivisa da storici di entrambi i Paesi, che contestualizza gli eventi delle foibe nella loro complessità storica. In Slovenia è ben conosciuta; in Italia non è mai stata pubblicata. Troppo scomoda per chi preferisce una memoria semplificata e funzionale alla riabilitazione del fascismo."
       }
     },
     {
@@ -112,7 +112,7 @@ L'articolo cita due strutture dimenticate: il campo di concentramento di Arbe/Ra
       "name": "Quale campo di concentramento fascista viene citato come rimosso dalla memoria ufficiale italiana?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo cita due strutture dimenticate: il campo di concentramento di Arbe/Rab, definito il più spaventoso lager per sloveni e croati, e la Risiera di San Sabba, unico lager nazifascista con forno crematorio in Italia. Entrambi vengono sistematicamente omessi dalle celebrazioni ufficiali del Giorno del Ricordo."
+        "text": "Le strutture rimosse dalla memoria ufficiale sono due: il campo di concentramento di Arbe/Rab, il più spaventoso lager per sloveni e croati, e la Risiera di San Sabba, unico lager nazifascista con forno crematorio in Italia. Entrambi vengono sistematicamente omessi dalle celebrazioni ufficiali del Giorno del Ricordo, che ricordano le vittime senza nominare le cause."
       }
     }
   ]

@@ -51,7 +51,7 @@ Il populismo è quella strategia politica che trasforma la frustrazione colletti
 <details class="faq-item" markdown="1">
 <summary><h3>Perché Salvini ha attaccato chi manifestava per la Global Sumud Flotilla?</h3></summary>
 
-Salvini e i suoi hanno deriso le piazze italiane che si sono mobilitate in solidarietà con la Global Sumud Flotilla, la flottiglia civile diretta verso Gaza. È il copione classico del populismo: trasformare il coraggio civile e l'indignazione morale in segno di debolezza, per distogliere l'attenzione dalle risposte politiche che mancano.
+Salvini e i suoi hanno deriso le piazze italiane che si sono mobilitate in solidarietà con la [Global Sumud Flotilla](/dall-economia-del-genocidio-alla-resistenza-civile-solidarie/), la flottiglia civile diretta verso Gaza. È il copione classico del populismo: trasformare il coraggio civile e l'indignazione morale in segno di debolezza, per distogliere l'attenzione dalle risposte politiche che mancano.
 
 </details>
 

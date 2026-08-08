@@ -43,7 +43,7 @@ Ali Bahreini, ambasciatore iraniano, è stato nominato alla presidenza del Forum
 <details class="faq-item" markdown="1">
 <summary><h3>Qual è la situazione dei diritti delle donne in Iran?</h3></summary>
 
-In Iran le donne sono obbligate per legge a coprirsi i capelli e il corpo in pubblico. La polizia morale ha il compito di far rispettare queste regole. Chi non si adegua rischia fermi, aggressioni e conseguenze legali. I casi di Mahsa Amini (2022) e Armita Geravand (2023), entrambe vittime della polizia morale, hanno acceso i riflettori internazionali sulla brutalità con cui queste leggi vengono applicate.
+In Iran le donne sono obbligate per legge a coprirsi i capelli e il corpo in pubblico. La polizia morale ha il compito di far rispettare queste regole. Chi non si adegua rischia fermi, aggressioni e conseguenze legali. I casi di Mahsa Amini (2022) e [Armita Geravand](/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il-/) (2023), entrambe vittime della polizia morale, hanno acceso i riflettori internazionali sulla brutalità con cui queste leggi vengono applicate.
 
 </details>
 
