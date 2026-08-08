@@ -82,7 +82,7 @@ Il capitalismo di sorveglianza è un modello economico teorizzato dalla professo
 <details class="faq-item" markdown="1">
 <summary><h3>Come funziona il capitalismo di sorveglianza nella pratica?</h3></summary>
 
-Il processo avviene in cinque fasi: estrazione massiccia di dati (clic, ricerche, pause su immagini), analisi tramite algoritmi di machine learning, creazione di modelli predittivi sul comportamento futuro, vendita di queste previsioni nei mercati a termine comportamentali e infine modifica comportamentale attraverso tecniche di persuasione. Le aziende più ricche della storia — Apple, Microsoft, Google, Amazon, Meta — si basano su questo modello.
+Il processo avviene in cinque fasi: estrazione massiccia di dati (clic, ricerche, pause su immagini), analisi tramite algoritmi di machine learning, creazione di modelli predittivi sul comportamento futuro, vendita di queste previsioni nei mercati a termine comportamentali e infine modifica comportamentale attraverso tecniche di persuasione. Le aziende più ricche della storia (Apple, Microsoft, Google, Amazon, Meta) si basano su questo modello.
 
 </details>
 
@@ -111,7 +111,7 @@ Esistono diverse forme di resistenza: normativa (come il GDPR europeo e il CCPA 
       "name": "Come funziona il capitalismo di sorveglianza nella pratica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il processo avviene in cinque fasi: estrazione massiccia di dati (clic, ricerche, pause su immagini), analisi tramite algoritmi di machine learning, creazione di modelli predittivi sul comportamento futuro, vendita di queste previsioni nei mercati a termine comportamentali e infine modifica comportamentale attraverso tecniche di persuasione. Le aziende più ricche della storia — Apple, Microsoft, Google, Amazon, Meta — si basano su questo modello."
+        "text": "Il processo avviene in cinque fasi: estrazione massiccia di dati (clic, ricerche, pause su immagini), analisi tramite algoritmi di machine learning, creazione di modelli predittivi sul comportamento futuro, vendita di queste previsioni nei mercati a termine comportamentali e infine modifica comportamentale attraverso tecniche di persuasione. Le aziende più ricche della storia (Apple, Microsoft, Google, Amazon, Meta) si basano su questo modello."
       }
     },
     {

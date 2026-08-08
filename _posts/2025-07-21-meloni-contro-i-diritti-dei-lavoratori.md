@@ -48,7 +48,7 @@ Il governo fermi immediatamente questa deriva folle e pericolosa. Ritiri l'emend
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa prevede l'emendamento al decreto Ilva contro i lavoratori?</h3></summary>
 
-L'emendamento fa tre cose: condona i salari non pagati dal 2007 al 2020, riduce da 5 anni a 6 mesi i termini per rivendicare crediti da lavoro, e introduce il principio che tutti i salari sono 'presunti sufficienti' — anche quelli sotto la soglia di povertà. Colpisce principalmente lavoratori precari, stagionali, in nero e a basso reddito.
+L'emendamento fa tre cose: condona i salari non pagati dal 2007 al 2020, riduce da 5 anni a 6 mesi i termini per rivendicare crediti da lavoro, e introduce il principio che tutti i salari sono 'presunti sufficienti', anche quelli sotto la soglia di povertà. Colpisce principalmente lavoratori precari, stagionali, in nero e a basso reddito.
 
 </details>
 
@@ -76,7 +76,7 @@ L'articolo 36 della Costituzione garantisce al lavoratore 'una retribuzione prop
       "name": "Cosa prevede l'emendamento al decreto Ilva contro i lavoratori?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'emendamento fa tre cose: condona i salari non pagati dal 2007 al 2020, riduce da 5 anni a 6 mesi i termini per rivendicare crediti da lavoro, e introduce il principio che tutti i salari sono 'presunti sufficienti' — anche quelli sotto la soglia di povertà. Colpisce principalmente lavoratori precari, stagionali, in nero e a basso reddito."
+        "text": "L'emendamento fa tre cose: condona i salari non pagati dal 2007 al 2020, riduce da 5 anni a 6 mesi i termini per rivendicare crediti da lavoro, e introduce il principio che tutti i salari sono 'presunti sufficienti', anche quelli sotto la soglia di povertà. Colpisce principalmente lavoratori precari, stagionali, in nero e a basso reddito."
       }
     },
     {

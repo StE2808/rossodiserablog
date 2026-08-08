@@ -52,7 +52,7 @@ L'aquilone racchiude uno dei paradossi più profondi dell'esistenza: può volare
 <details class="faq-item" markdown="1">
 <summary><h3>Come si è evoluto l'aquilone da strumento militare a forma d'arte?</h3></summary>
 
-Con l'evoluzione dei materiali — dalla seta alla carta di riso, dal bambù ai moderni tessuti sintetici — l'aquilone si è liberato dalle sue funzioni utilitaristiche per diventare pura espressione creativa. Oggi esistono aquiloni artistici di straordinaria complessità: draghi cinesi lunghi centinaia di metri, figure geometriche multicolori, creature fantastiche. La disciplina degli aquiloni acrobatici è diventata uno sport che richiede anni di pratica e una profonda conoscenza del vento.
+Con l'evoluzione dei materiali (dalla seta alla carta di riso, dal bambù ai moderni tessuti sintetici) l'aquilone si è liberato dalle sue funzioni utilitaristiche per diventare pura espressione creativa. Oggi esistono aquiloni artistici di straordinaria complessità: draghi cinesi lunghi centinaia di metri, figure geometriche multicolori, creature fantastiche. La disciplina degli aquiloni acrobatici è diventata uno sport che richiede anni di pratica e una profonda conoscenza del vento.
 
 </details>
 
@@ -82,7 +82,7 @@ Con l'evoluzione dei materiali — dalla seta alla carta di riso, dal bambù ai 
       "name": "Come si è evoluto l'aquilone da strumento militare a forma d'arte?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Con l'evoluzione dei materiali — dalla seta alla carta di riso, dal bambù ai moderni tessuti sintetici — l'aquilone si è liberato dalle sue funzioni utilitaristiche per diventare pura espressione creativa. Oggi esistono aquiloni artistici di straordinaria complessità: draghi cinesi lunghi centinaia di metri, figure geometriche multicolori, creature fantastiche. La disciplina degli aquiloni acrobatici è diventata uno sport che richiede anni di pratica e una profonda conoscenza del vento."
+        "text": "Con l'evoluzione dei materiali (dalla seta alla carta di riso, dal bambù ai moderni tessuti sintetici) l'aquilone si è liberato dalle sue funzioni utilitaristiche per diventare pura espressione creativa. Oggi esistono aquiloni artistici di straordinaria complessità: draghi cinesi lunghi centinaia di metri, figure geometriche multicolori, creature fantastiche. La disciplina degli aquiloni acrobatici è diventata uno sport che richiede anni di pratica e una profonda conoscenza del vento."
       }
     }
   ]

@@ -39,7 +39,7 @@ I gruppi subalterni sono quelle comunità e categorie sociali che vivono ai marg
 <details class="faq-item" markdown="1">
 <summary><h3>Come possono i movimenti sociali dare voce ai gruppi emarginati?</h3></summary>
 
-I movimenti come Black Lives Matter e MeToo hanno dimostrato che la lotta per la giustizia non ha confini e può mobilitare milioni di persone. I social media sono diventati strumenti potenti per amplificare voci altrimenti inascoltate. Le alleanze trasversali tra movimenti diversi — come quella tra attivisti per i diritti dei migranti e ambientalisti — moltiplicano la forza e l'impatto delle battaglie per i diritti.
+I movimenti come Black Lives Matter e MeToo hanno dimostrato che la lotta per la giustizia non ha confini e può mobilitare milioni di persone. I social media sono diventati strumenti potenti per amplificare voci altrimenti inascoltate. Le alleanze trasversali tra movimenti diversi (come quella tra attivisti per i diritti dei migranti e ambientalisti) moltiplicano la forza e l'impatto delle battaglie per i diritti.
 
 </details>
 
@@ -61,7 +61,7 @@ I movimenti come Black Lives Matter e MeToo hanno dimostrato che la lotta per la
       "name": "Come possono i movimenti sociali dare voce ai gruppi emarginati?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "I movimenti come Black Lives Matter e MeToo hanno dimostrato che la lotta per la giustizia non ha confini e può mobilitare milioni di persone. I social media sono diventati strumenti potenti per amplificare voci altrimenti inascoltate. Le alleanze trasversali tra movimenti diversi — come quella tra attivisti per i diritti dei migranti e ambientalisti — moltiplicano la forza e l'impatto delle battaglie per i diritti."
+        "text": "I movimenti come Black Lives Matter e MeToo hanno dimostrato che la lotta per la giustizia non ha confini e può mobilitare milioni di persone. I social media sono diventati strumenti potenti per amplificare voci altrimenti inascoltate. Le alleanze trasversali tra movimenti diversi (come quella tra attivisti per i diritti dei migranti e ambientalisti) moltiplicano la forza e l'impatto delle battaglie per i diritti."
       }
     }
   ]

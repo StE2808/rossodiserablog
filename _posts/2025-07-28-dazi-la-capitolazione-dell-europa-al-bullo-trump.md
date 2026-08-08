@@ -56,7 +56,7 @@ Per un esportatore italiano, l'onere complessivo dei dazi USA raggiunge il 21%: 
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa guadagna Trump con l'accordo sui dazi con l'Europa?</h3></summary>
 
-Trump incasserà entrate doganali aggiuntive per 66 miliardi di dollari annui — nove volte i livelli pre-Trump — senza concedere nessuna riduzione delle barriere sui beni americani esportati in Europa. L'accordo gli permette di mantenere il protezionismo senza ritorsioni europee.
+Trump incasserà entrate doganali aggiuntive per 66 miliardi di dollari annui (nove volte i livelli pre-Trump) senza concedere nessuna riduzione delle barriere sui beni americani esportati in Europa. L'accordo gli permette di mantenere il protezionismo senza ritorsioni europee.
 
 </details>
 
@@ -85,7 +85,7 @@ L'UE ha accettato il dazio del 15% rinunciando a qualsiasi misura di ritorsione 
       "name": "Cosa guadagna Trump con l'accordo sui dazi con l'Europa?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Trump incasserà entrate doganali aggiuntive per 66 miliardi di dollari annui — nove volte i livelli pre-Trump — senza concedere nessuna riduzione delle barriere sui beni americani esportati in Europa. L'accordo gli permette di mantenere il protezionismo senza ritorsioni europee."
+        "text": "Trump incasserà entrate doganali aggiuntive per 66 miliardi di dollari annui (nove volte i livelli pre-Trump) senza concedere nessuna riduzione delle barriere sui beni americani esportati in Europa. L'accordo gli permette di mantenere il protezionismo senza ritorsioni europee."
       }
     },
     {

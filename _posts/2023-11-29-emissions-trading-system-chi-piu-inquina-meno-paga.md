@@ -37,7 +37,7 @@ L'Emissions Trading System (EU ETS) è il principale strumento dell'Unione Europ
 <details class="faq-item" markdown="1">
 <summary><h3>Perché l'EU ETS viene criticato?</h3></summary>
 
-La critica principale riguarda l'assegnazione di permessi gratuiti alle grandi aziende inquinanti. Secondo una ricerca di CMW del 2023, meno dell'1% delle aziende sotto l'EU ETS — come RWE, ArcelorMittal, Eni ed ENEL — è responsabile di oltre la metà delle emissioni totali. Nel 2022 sono stati distribuiti permessi gratuiti per circa 47,6 miliardi di euro, contraddicendo il principio fondamentale del sistema.
+La critica principale riguarda l'assegnazione di permessi gratuiti alle grandi aziende inquinanti. Secondo una ricerca di CMW del 2023, meno dell'1% delle aziende sotto l'EU ETS (come RWE, ArcelorMittal, Eni ed ENEL) è responsabile di oltre la metà delle emissioni totali. Nel 2022 sono stati distribuiti permessi gratuiti per circa 47,6 miliardi di euro, contraddicendo il principio fondamentale del sistema.
 
 </details>
 
@@ -66,7 +66,7 @@ La riforma dell'EU ETS punta all'eliminazione progressiva dei permessi gratuiti,
       "name": "Perché l'EU ETS viene criticato?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La critica principale riguarda l'assegnazione di permessi gratuiti alle grandi aziende inquinanti. Secondo una ricerca di CMW del 2023, meno dell'1% delle aziende sotto l'EU ETS — come RWE, ArcelorMittal, Eni ed ENEL — è responsabile di oltre la metà delle emissioni totali. Nel 2022 sono stati distribuiti permessi gratuiti per circa 47,6 miliardi di euro, contraddicendo il principio fondamentale del sistema."
+        "text": "La critica principale riguarda l'assegnazione di permessi gratuiti alle grandi aziende inquinanti. Secondo una ricerca di CMW del 2023, meno dell'1% delle aziende sotto l'EU ETS (come RWE, ArcelorMittal, Eni ed ENEL) è responsabile di oltre la metà delle emissioni totali. Nel 2022 sono stati distribuiti permessi gratuiti per circa 47,6 miliardi di euro, contraddicendo il principio fondamentale del sistema."
       }
     },
     {

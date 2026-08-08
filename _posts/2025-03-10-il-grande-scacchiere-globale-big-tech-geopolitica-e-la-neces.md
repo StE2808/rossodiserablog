@@ -90,7 +90,7 @@ In un mondo in cui le Big Tech e le superpotenze autoritarie sembrano avere il v
 <details class="faq-item" markdown="1">
 <summary><h3>Come le Big Tech sono diventate attori geopolitici?</h3></summary>
 
-Le Big Tech — Apple, Google, Meta, Amazon, Microsoft, Tesla — non dipendono più dalla politica tradizionale: possono influenzare direttamente le masse attraverso gli algoritmi e le piattaforme che controllano. Il caso dell'alleanza tra Trump e Musk ha dimostrato come il potere mediatico di un singolo magnate tecnologico possa tradursi in influenza politica concreta, rendendo le Big Tech dei veri kingmaker nel panorama geopolitico mondiale.
+Le Big Tech (Apple, Google, Meta, Amazon, Microsoft, Tesla) non dipendono più dalla politica tradizionale: possono influenzare direttamente le masse attraverso gli algoritmi e le piattaforme che controllano. Il caso dell'alleanza tra Trump e Musk ha dimostrato come il potere mediatico di un singolo magnate tecnologico possa tradursi in influenza politica concreta, rendendo le Big Tech dei veri kingmaker nel panorama geopolitico mondiale.
 
 </details>
 
@@ -118,7 +118,7 @@ L'autonomia strategica europea richiede: la creazione di una difesa comune integ
       "name": "Come le Big Tech sono diventate attori geopolitici?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Le Big Tech — Apple, Google, Meta, Amazon, Microsoft, Tesla — non dipendono più dalla politica tradizionale: possono influenzare direttamente le masse attraverso gli algoritmi e le piattaforme che controllano. Il caso dell'alleanza tra Trump e Musk ha dimostrato come il potere mediatico di un singolo magnate tecnologico possa tradursi in influenza politica concreta, rendendo le Big Tech dei veri kingmaker nel panorama geopolitico mondiale."
+        "text": "Le Big Tech (Apple, Google, Meta, Amazon, Microsoft, Tesla) non dipendono più dalla politica tradizionale: possono influenzare direttamente le masse attraverso gli algoritmi e le piattaforme che controllano. Il caso dell'alleanza tra Trump e Musk ha dimostrato come il potere mediatico di un singolo magnate tecnologico possa tradursi in influenza politica concreta, rendendo le Big Tech dei veri kingmaker nel panorama geopolitico mondiale."
       }
     },
     {

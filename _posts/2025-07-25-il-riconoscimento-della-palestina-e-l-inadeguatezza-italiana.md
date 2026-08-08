@@ -49,7 +49,7 @@ Ma l'Italia di oggi, prigioniera delle proprie contraddizioni e della propria pu
 <details class="faq-item" markdown="1">
 <summary><h3>Perché il riconoscimento francese della Palestina è storico?</h3></summary>
 
-La Francia è diventata il primo paese del G7 a riconoscere lo Stato di Palestina, rompendo un fronte diplomatico che includeva USA, Canada, Germania, Italia, Giappone e UK. Al momento del riconoscimento, oltre 145 paesi — il 75% dei membri ONU — avevano già riconosciuto la Palestina.
+La Francia è diventata il primo paese del G7 a riconoscere lo Stato di Palestina, rompendo un fronte diplomatico che includeva USA, Canada, Germania, Italia, Giappone e UK. Al momento del riconoscimento, oltre 145 paesi (il 75% dei membri ONU) avevano già riconosciuto la Palestina.
 
 </details>
 
@@ -77,7 +77,7 @@ L'Italia di Meloni non ha riconosciuto la Palestina e continua a navigare nell'a
       "name": "Perché il riconoscimento francese della Palestina è storico?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La Francia è diventata il primo paese del G7 a riconoscere lo Stato di Palestina, rompendo un fronte diplomatico che includeva USA, Canada, Germania, Italia, Giappone e UK. Al momento del riconoscimento, oltre 145 paesi — il 75% dei membri ONU — avevano già riconosciuto la Palestina."
+        "text": "La Francia è diventata il primo paese del G7 a riconoscere lo Stato di Palestina, rompendo un fronte diplomatico che includeva USA, Canada, Germania, Italia, Giappone e UK. Al momento del riconoscimento, oltre 145 paesi (il 75% dei membri ONU) avevano già riconosciuto la Palestina."
       }
     },
     {

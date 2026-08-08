@@ -52,14 +52,14 @@ In L'aggressività (1963), Lorenz sosteneva che l'aggressività è un istinto bi
 <details class="faq-item" markdown="1">
 <summary><h3>Perché il potere politico contemporaneo tende a comportarsi in modo anti-umano?</h3></summary>
 
-Secondo questa analisi, il crollo dei sistemi di mediazione — partiti ideologici, religioni, etica della responsabilità weberiana — ha liberato quello che Hannah Arendt chiamava 'la banalità del male'. L'Edelman Trust Barometer 2024 misura questo collasso: la fiducia nelle istituzioni politiche è sotto il 40% in 17 dei 28 paesi monitorati.
+Secondo questa analisi, il crollo dei sistemi di mediazione (partiti ideologici, religioni, etica della responsabilità weberiana) ha liberato quello che Hannah Arendt chiamava 'la banalità del male'. L'Edelman Trust Barometer 2024 misura questo collasso: la fiducia nelle istituzioni politiche è sotto il 40% in 17 dei 28 paesi monitorati.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>Cos'è la distinzione amico-nemico secondo Carl Schmitt?</h3></summary>
 
-In Il concetto di politico (1932), Schmitt afferma che l'essenza del politico è la distinzione tra amico e nemico. Senza nemici esterni identificabili, il potere crea nemici interni — immigrati, minoranze, oppositori — per mantenere la logica della mobilitazione politica.
+In Il concetto di politico (1932), Schmitt afferma che l'essenza del politico è la distinzione tra amico e nemico. Senza nemici esterni identificabili, il potere crea nemici interni (immigrati, minoranze, oppositori) per mantenere la logica della mobilitazione politica.
 
 </details>
 
@@ -81,7 +81,7 @@ In Il concetto di politico (1932), Schmitt afferma che l'essenza del politico è
       "name": "Perché il potere politico contemporaneo tende a comportarsi in modo anti-umano?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Secondo questa analisi, il crollo dei sistemi di mediazione — partiti ideologici, religioni, etica della responsabilità weberiana — ha liberato quello che Hannah Arendt chiamava 'la banalità del male'. L'Edelman Trust Barometer 2024 misura questo collasso: la fiducia nelle istituzioni politiche è sotto il 40% in 17 dei 28 paesi monitorati."
+        "text": "Secondo questa analisi, il crollo dei sistemi di mediazione (partiti ideologici, religioni, etica della responsabilità weberiana) ha liberato quello che Hannah Arendt chiamava 'la banalità del male'. L'Edelman Trust Barometer 2024 misura questo collasso: la fiducia nelle istituzioni politiche è sotto il 40% in 17 dei 28 paesi monitorati."
       }
     },
     {
@@ -89,7 +89,7 @@ In Il concetto di politico (1932), Schmitt afferma che l'essenza del politico è
       "name": "Cos'è la distinzione amico-nemico secondo Carl Schmitt?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In *Il concetto di politico* (1932), Schmitt afferma che l'essenza del politico è la distinzione tra amico e nemico. Senza nemici esterni identificabili, il potere crea nemici interni — immigrati, minoranze, oppositori — per mantenere la logica della mobilitazione politica."
+        "text": "In *Il concetto di politico* (1932), Schmitt afferma che l'essenza del politico è la distinzione tra amico e nemico. Senza nemici esterni identificabili, il potere crea nemici interni (immigrati, minoranze, oppositori) per mantenere la logica della mobilitazione politica."
       }
     }
   ]

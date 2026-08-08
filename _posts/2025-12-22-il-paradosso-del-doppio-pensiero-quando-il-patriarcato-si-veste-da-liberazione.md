@@ -115,7 +115,7 @@ Il capitalismo ha imparato a parlare il linguaggio del femminismo per perpetuare
 <details class="faq-item" markdown="1">
 <summary><h3>Quanto vale l'industria della bellezza globale?</h3></summary>
 
-L'industria della bellezza genera oltre 500 miliardi di dollari l'anno a livello globale — un fatturato che dipende interamente dal mantenimento dell'insicurezza femminile, come documenta la ricercatrice Jean Kilbourne. In Italia ogni donna spende in media 300-400 euro l'anno in cosmetici (Cosmetica Italia 2023).
+L'industria della bellezza genera oltre 500 miliardi di dollari l'anno a livello globale, un fatturato che dipende interamente dal mantenimento dell'insicurezza femminile, come documenta la ricercatrice Jean Kilbourne. In Italia ogni donna spende in media 300-400 euro l'anno in cosmetici (Cosmetica Italia 2023).
 
 </details>
 
@@ -145,7 +145,7 @@ L'industria della bellezza genera oltre 500 miliardi di dollari l'anno a livello
       "name": "Quanto vale l'industria della bellezza globale?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'industria della bellezza genera oltre 500 miliardi di dollari l'anno a livello globale — un fatturato che dipende interamente dal mantenimento dell'insicurezza femminile, come documenta la ricercatrice Jean Kilbourne. In Italia ogni donna spende in media 300-400 euro l'anno in cosmetici (Cosmetica Italia 2023)."
+        "text": "L'industria della bellezza genera oltre 500 miliardi di dollari l'anno a livello globale, un fatturato che dipende interamente dal mantenimento dell'insicurezza femminile, come documenta la ricercatrice Jean Kilbourne. In Italia ogni donna spende in media 300-400 euro l'anno in cosmetici (Cosmetica Italia 2023)."
       }
     }
   ]

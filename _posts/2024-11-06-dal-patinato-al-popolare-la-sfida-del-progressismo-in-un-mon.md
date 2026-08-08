@@ -54,7 +54,7 @@ Il progressismo ha commesso l'errore di contare sull'ovvietà della rozzezza del
 <details class="faq-item" markdown="1">
 <summary><h3>Come può il progressismo tornare a parlare alle persone comuni?</h3></summary>
 
-Il progressismo deve abbandonare il rifugio estetico e tornare alla sostanza: ammettere i propri errori, stabilire un contatto reale con le persone e le loro paure, e ripensare il modello economico che produce precarietà. Serve costruire un senso di comunità autentico — non solo immagine e slogan — e proporre una visione di futuro condivisa che risponda al bisogno di stabilità, appartenenza e significato.
+Il progressismo deve abbandonare il rifugio estetico e tornare alla sostanza: ammettere i propri errori, stabilire un contatto reale con le persone e le loro paure, e ripensare il modello economico che produce precarietà. Serve costruire un senso di comunità autentico (non solo immagine e slogan) e proporre una visione di futuro condivisa che risponda al bisogno di stabilità, appartenenza e significato.
 
 </details>
 
@@ -83,7 +83,7 @@ La disillusione politica nasce quando le risposte delle istituzioni sembrano fal
       "name": "Come può il progressismo tornare a parlare alle persone comuni?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il progressismo deve abbandonare il rifugio estetico e tornare alla sostanza: ammettere i propri errori, stabilire un contatto reale con le persone e le loro paure, e ripensare il modello economico che produce precarietà. Serve costruire un senso di comunità autentico — non solo immagine e slogan — e proporre una visione di futuro condivisa che risponda al bisogno di stabilità, appartenenza e significato."
+        "text": "Il progressismo deve abbandonare il rifugio estetico e tornare alla sostanza: ammettere i propri errori, stabilire un contatto reale con le persone e le loro paure, e ripensare il modello economico che produce precarietà. Serve costruire un senso di comunità autentico (non solo immagine e slogan) e proporre una visione di futuro condivisa che risponda al bisogno di stabilità, appartenenza e significato."
       }
     },
     {

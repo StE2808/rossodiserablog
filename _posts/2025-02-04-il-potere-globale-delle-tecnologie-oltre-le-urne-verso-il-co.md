@@ -19,7 +19,7 @@ Nel XXI secolo, il potere si è allontanato dalle strutture democratiche per ann
 <details class="faq-item" markdown="1">
 <summary><h3>Come le Big Tech hanno superato i governi in termini di potere?</h3></summary>
 
-Le grandi aziende tecnologiche — Google, Amazon, Apple, Meta, Microsoft — controllano infrastrutture fondamentali: Google orienta le informazioni a cui accedono miliardi di persone, Amazon gestisce l'intera catena logistica mondiale, Meta manipola le percezioni sociali attraverso i social network. Il loro valore di mercato combinato supera il PIL di interi continenti, e operano al di sopra delle istituzioni democratiche senza meccanismi di responsabilità.
+Le grandi aziende tecnologiche (Google, Amazon, Apple, Meta, Microsoft) controllano infrastrutture fondamentali: Google orienta le informazioni a cui accedono miliardi di persone, Amazon gestisce l'intera catena logistica mondiale, Meta manipola le percezioni sociali attraverso i social network. Il loro valore di mercato combinato supera il PIL di interi continenti, e operano al di sopra delle istituzioni democratiche senza meccanismi di responsabilità.
 
 </details>
 
@@ -47,7 +47,7 @@ La difesa richiede azione su più fronti: supportare regolamentazioni più strin
       "name": "Come le Big Tech hanno superato i governi in termini di potere?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Le grandi aziende tecnologiche — Google, Amazon, Apple, Meta, Microsoft — controllano infrastrutture fondamentali: Google orienta le informazioni a cui accedono miliardi di persone, Amazon gestisce l'intera catena logistica mondiale, Meta manipola le percezioni sociali attraverso i social network. Il loro valore di mercato combinato supera il PIL di interi continenti, e operano al di sopra delle istituzioni democratiche senza meccanismi di responsabilità."
+        "text": "Le grandi aziende tecnologiche (Google, Amazon, Apple, Meta, Microsoft) controllano infrastrutture fondamentali: Google orienta le informazioni a cui accedono miliardi di persone, Amazon gestisce l'intera catena logistica mondiale, Meta manipola le percezioni sociali attraverso i social network. Il loro valore di mercato combinato supera il PIL di interi continenti, e operano al di sopra delle istituzioni democratiche senza meccanismi di responsabilità."
       }
     },
     {

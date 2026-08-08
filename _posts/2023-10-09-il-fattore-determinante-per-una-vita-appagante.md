@@ -33,14 +33,14 @@ Quindi, conserviamo l'amotrone e gli effetti positivi che ha su di noi. Siamo eg
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa ha scoperto lo studio Harvard sulla felicità?</h3></summary>
 
-Lo Studio sullo Sviluppo Adulto di Harvard, iniziato nel 1938 e durato quasi 80 anni, ha seguito 724 persone — 268 studenti universitari e 456 ragazzi dei sobborghi di Boston. La scoperta principale: le persone che hanno avuto relazioni di qualità nella loro vita sono invecchiate più sane e più felici. Non i soldi, non la fama, non il successo professionale: le relazioni umane sono il vero fattore determinante per una vita appagante.
+Lo Studio sullo Sviluppo Adulto di Harvard, iniziato nel 1938 e durato quasi 80 anni, ha seguito 724 persone (268 studenti universitari e 456 ragazzi dei sobborghi di Boston. La scoperta principale: le persone che hanno avuto relazioni di qualità nella loro vita sono invecchiate più sane e più felici. Non i soldi, non la fama, non il successo professionale: le relazioni umane sono il vero fattore determinante per una vita appagante.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>Perché le relazioni sociali influenzano la salute?</h3></summary>
 
-Le relazioni positive riducono lo stress, rafforzano il sistema immunitario e favoriscono comportamenti salutari. L'isolamento sociale, al contrario, è associato a maggiori rischi di malattie cardiovascolari, declino cognitivo e morte prematura. La qualità delle relazioni — non la quantità — è ciò che conta: poche relazioni profonde valgono più di molte superficiali.
+Le relazioni positive riducono lo stress, rafforzano il sistema immunitario e favoriscono comportamenti salutari. L'isolamento sociale, al contrario, è associato a maggiori rischi di malattie cardiovascolari, declino cognitivo e morte prematura. La qualità delle relazioni) non la quantità, è ciò che conta: poche relazioni profonde valgono più di molte superficiali.
 
 </details>
 
@@ -54,7 +54,7 @@ Le relazioni positive riducono lo stress, rafforzano il sistema immunitario e fa
       "name": "Cosa ha scoperto lo studio Harvard sulla felicità?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lo Studio sullo Sviluppo Adulto di Harvard, iniziato nel 1938 e durato quasi 80 anni, ha seguito 724 persone — 268 studenti universitari e 456 ragazzi dei sobborghi di Boston. La scoperta principale: le persone che hanno avuto relazioni di qualità nella loro vita sono invecchiate più sane e più felici. Non i soldi, non la fama, non il successo professionale: le relazioni umane sono il vero fattore determinante per una vita appagante."
+        "text": "Lo Studio sullo Sviluppo Adulto di Harvard, iniziato nel 1938 e durato quasi 80 anni, ha seguito 724 persone (268 studenti universitari e 456 ragazzi dei sobborghi di Boston. La scoperta principale: le persone che hanno avuto relazioni di qualità nella loro vita sono invecchiate più sane e più felici. Non i soldi, non la fama, non il successo professionale: le relazioni umane sono il vero fattore determinante per una vita appagante."
       }
     },
     {
@@ -62,7 +62,7 @@ Le relazioni positive riducono lo stress, rafforzano il sistema immunitario e fa
       "name": "Perché le relazioni sociali influenzano la salute?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Le relazioni positive riducono lo stress, rafforzano il sistema immunitario e favoriscono comportamenti salutari. L'isolamento sociale, al contrario, è associato a maggiori rischi di malattie cardiovascolari, declino cognitivo e morte prematura. La qualità delle relazioni — non la quantità — è ciò che conta: poche relazioni profonde valgono più di molte superficiali."
+        "text": "Le relazioni positive riducono lo stress, rafforzano il sistema immunitario e favoriscono comportamenti salutari. L'isolamento sociale, al contrario, è associato a maggiori rischi di malattie cardiovascolari, declino cognitivo e morte prematura. La qualità delle relazioni) non la quantità, è ciò che conta: poche relazioni profonde valgono più di molte superficiali."
       }
     }
   ]

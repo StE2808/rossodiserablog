@@ -30,7 +30,7 @@ I governi possono incentivare l'uso delle energie pulite come l'energia solare e
 <details class="faq-item" markdown="1">
 <summary><h3>Come il cambiamento climatico aumenta i prezzi alimentari?</h3></summary>
 
-Il cambiamento climatico provoca siccità, gelate e inondazioni nei principali paesi produttori di materie prime. Brasile, Vietnam, Ecuador, India, Argentina, Uganda e Colombia — sette dei principali partner commerciali italiani — sono tra i più colpiti. Il risultato è un calo delle produzioni e un aumento dei prezzi di caffè, tonno, cioccolato e altri alimenti. Gli esperti stimano che il 23% dei cibi più consumati dagli italiani sia già interessato da questo fenomeno.
+Il cambiamento climatico provoca siccità, gelate e inondazioni nei principali paesi produttori di materie prime. Brasile, Vietnam, Ecuador, India, Argentina, Uganda e Colombia (sette dei principali partner commerciali italiani) sono tra i più colpiti. Il risultato è un calo delle produzioni e un aumento dei prezzi di caffè, tonno, cioccolato e altri alimenti. Gli esperti stimano che il 23% dei cibi più consumati dagli italiani sia già interessato da questo fenomeno.
 
 </details>
 
@@ -58,7 +58,7 @@ Tra i prodotti più a rischio ci sono il caffè (soprattutto dal Brasile, dove s
       "name": "Come il cambiamento climatico aumenta i prezzi alimentari?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il cambiamento climatico provoca siccità, gelate e inondazioni nei principali paesi produttori di materie prime. Brasile, Vietnam, Ecuador, India, Argentina, Uganda e Colombia — sette dei principali partner commerciali italiani — sono tra i più colpiti. Il risultato è un calo delle produzioni e un aumento dei prezzi di caffè, tonno, cioccolato e altri alimenti. Gli esperti stimano che il 23% dei cibi più consumati dagli italiani sia già interessato da questo fenomeno."
+        "text": "Il cambiamento climatico provoca siccità, gelate e inondazioni nei principali paesi produttori di materie prime. Brasile, Vietnam, Ecuador, India, Argentina, Uganda e Colombia (sette dei principali partner commerciali italiani) sono tra i più colpiti. Il risultato è un calo delle produzioni e un aumento dei prezzi di caffè, tonno, cioccolato e altri alimenti. Gli esperti stimano che il 23% dei cibi più consumati dagli italiani sia già interessato da questo fenomeno."
       }
     },
     {

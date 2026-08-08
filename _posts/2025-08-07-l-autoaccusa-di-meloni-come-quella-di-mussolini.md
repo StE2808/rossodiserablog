@@ -50,7 +50,7 @@ Entrambi i leader hanno usato l'autoaccusa non come ammissione di colpa ma come 
 <details class="faq-item" markdown="1">
 <summary><h3>Cos'è il caso Almasri che ha coinvolto Giorgia Meloni?</h3></summary>
 
-Nel gennaio 2025 Giorgia Meloni è risultata indagata per il caso Almasri, che ha portato la premier a rilasciare dichiarazioni pubbliche di assunzione di responsabilità politica. Il caso ha riacceso il dibattito sul rapporto tra potere esecutivo e magistratura — un conflitto che la Venice Commission del Consiglio d'Europa segnala come crescente in Italia.
+Nel gennaio 2025 Giorgia Meloni è risultata indagata per il caso Almasri, che ha portato la premier a rilasciare dichiarazioni pubbliche di assunzione di responsabilità politica. Il caso ha riacceso il dibattito sul rapporto tra potere esecutivo e magistratura, un conflitto che la Venice Commission del Consiglio d'Europa segnala come crescente in Italia.
 
 </details>
 
@@ -79,7 +79,7 @@ La differenza sostanziale rimane il contesto democratico attuale rispetto al reg
       "name": "Cos'è il caso Almasri che ha coinvolto Giorgia Meloni?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Nel gennaio 2025 Giorgia Meloni è risultata indagata per il caso Almasri, che ha portato la premier a rilasciare dichiarazioni pubbliche di assunzione di responsabilità politica. Il caso ha riacceso il dibattito sul rapporto tra potere esecutivo e magistratura — un conflitto che la Venice Commission del Consiglio d'Europa segnala come crescente in Italia."
+        "text": "Nel gennaio 2025 Giorgia Meloni è risultata indagata per il caso Almasri, che ha portato la premier a rilasciare dichiarazioni pubbliche di assunzione di responsabilità politica. Il caso ha riacceso il dibattito sul rapporto tra potere esecutivo e magistratura, un conflitto che la Venice Commission del Consiglio d'Europa segnala come crescente in Italia."
       }
     },
     {

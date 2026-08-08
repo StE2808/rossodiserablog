@@ -34,7 +34,7 @@ In questo momento di lutto, è difficile trovare le parole giuste per esprimere 
 <details class="faq-item" markdown="1">
 <summary><h3>Quando è morto Fernando Botero e di cosa era famoso?</h3></summary>
 
-Fernando Botero è morto il 15 settembre 2023 all'età di 91 anni. Era uno degli artisti colombiani più famosi al mondo, celebre per le sue rappresentazioni di figure umane e animali con forme voluminose e sensuali — uno stile unico chiamato boterismo. Nato a Medellín nel 1932, ha trascorso parte della sua vita in Italia, in particolare in Toscana.
+Fernando Botero è morto il 15 settembre 2023 all'età di 91 anni. Era uno degli artisti colombiani più famosi al mondo, celebre per le sue rappresentazioni di figure umane e animali con forme voluminose e sensuali, uno stile unico chiamato boterismo. Nato a Medellín nel 1932, ha trascorso parte della sua vita in Italia, in particolare in Toscana.
 
 </details>
 
@@ -62,7 +62,7 @@ Fernando Botero ha avuto un legame profondo con l'Italia, in particolare con la 
       "name": "Quando è morto Fernando Botero e di cosa era famoso?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Fernando Botero è morto il 15 settembre 2023 all'età di 91 anni. Era uno degli artisti colombiani più famosi al mondo, celebre per le sue rappresentazioni di figure umane e animali con forme voluminose e sensuali — uno stile unico chiamato boterismo. Nato a Medellín nel 1932, ha trascorso parte della sua vita in Italia, in particolare in Toscana."
+        "text": "Fernando Botero è morto il 15 settembre 2023 all'età di 91 anni. Era uno degli artisti colombiani più famosi al mondo, celebre per le sue rappresentazioni di figure umane e animali con forme voluminose e sensuali, uno stile unico chiamato boterismo. Nato a Medellín nel 1932, ha trascorso parte della sua vita in Italia, in particolare in Toscana."
       }
     },
     {

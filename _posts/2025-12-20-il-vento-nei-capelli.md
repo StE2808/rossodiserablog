@@ -34,7 +34,7 @@ Non sto dicendo di fumare – quello lasciamolo agli anni '60. Sto dicendo che o
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa significa lasciare andare il controllo nella vita quotidiana?</h3></summary>
 
-Lasciare andare il controllo non è rassegnazione: è una scelta consapevole di smettere di controllare tutto — notifiche, aspetto, reazioni altrui — e accettare che alcune cose più belle succedono quando ci si fida del momento. Come il vento che porta i capelli dove vuole, il caos può diventare una forma d'arte, un segnale di libertà interiore che non si può fingere o acquistare.
+Lasciare andare il controllo non è rassegnazione: è una scelta consapevole di smettere di controllare tutto (notifiche, aspetto, reazioni altrui) e accettare che alcune cose più belle succedono quando ci si fida del momento. Come il vento che porta i capelli dove vuole, il caos può diventare una forma d'arte, un segnale di libertà interiore che non si può fingere o acquistare.
 
 </details>
 
@@ -55,7 +55,7 @@ La tecnologia ci ha abituato a monitorare e ottimizzare tutto: passi, calorie, n
       "name": "Cosa significa lasciare andare il controllo nella vita quotidiana?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lasciare andare il controllo non è rassegnazione: è una scelta consapevole di smettere di controllare tutto — notifiche, aspetto, reazioni altrui — e accettare che alcune cose più belle succedono quando ci si fida del momento. Come il vento che porta i capelli dove vuole, il caos può diventare una forma d'arte, un segnale di libertà interiore che non si può fingere o acquistare."
+        "text": "Lasciare andare il controllo non è rassegnazione: è una scelta consapevole di smettere di controllare tutto (notifiche, aspetto, reazioni altrui) e accettare che alcune cose più belle succedono quando ci si fida del momento. Come il vento che porta i capelli dove vuole, il caos può diventare una forma d'arte, un segnale di libertà interiore che non si può fingere o acquistare."
       }
     },
     {

@@ -56,7 +56,7 @@ Oggi, mentre paga il prezzo della sua esposizione involontaria, Andrea Pignataro
 <details class="faq-item" markdown="1">
 <summary><h3>Chi è Andrea Pignataro e cos'è ION Group?</h3></summary>
 
-Andrea Pignataro, bolognese nato nel 1970, è il secondo uomo più ricco d'Italia con un patrimonio di 27 miliardi di dollari (2023). Ha fondato ION Group nel 1999, una società di software finanziario che serve oltre 4.000 clienti in 50 paesi — tra cui la maggior parte delle principali banche centrali mondiali — con un profilo comparabile a Bloomberg.
+Andrea Pignataro, bolognese nato nel 1970, è il secondo uomo più ricco d'Italia con un patrimonio di 27 miliardi di dollari (2023). Ha fondato ION Group nel 1999, una società di software finanziario che serve oltre 4.000 clienti in 50 paesi (tra cui la maggior parte delle principali banche centrali mondiali) con un profilo comparabile a Bloomberg.
 
 </details>
 
@@ -70,7 +70,7 @@ Nel giugno 2025, Pignataro ha raggiunto un accordo stragiudiziale con l'Agenzia 
 <details class="faq-item" markdown="1">
 <summary><h3>Perché Pignataro è rimasto sconosciuto nonostante la sua ricchezza?</h3></summary>
 
-Pignataro ha costruito deliberatamente la propria invisibilità: nessuna intervista, nessuna apparizione pubblica, residenza in Svizzera, passaporto britannico. ION Group opera nell'infrastruttura B2B della finanza — un settore ad altissimo valore ma lontano dall'opinione pubblica — permettendogli di costruire un impero da 27 miliardi senza mai comparire nelle classifiche mediatiche.
+Pignataro ha costruito deliberatamente la propria invisibilità: nessuna intervista, nessuna apparizione pubblica, residenza in Svizzera, passaporto britannico. ION Group opera nell'infrastruttura B2B della finanza (un settore ad altissimo valore ma lontano dall'opinione pubblica) permettendogli di costruire un impero da 27 miliardi senza mai comparire nelle classifiche mediatiche.
 
 </details>
 
@@ -84,7 +84,7 @@ Pignataro ha costruito deliberatamente la propria invisibilità: nessuna intervi
       "name": "Chi è Andrea Pignataro e cos'è ION Group?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Andrea Pignataro, bolognese nato nel 1970, è il secondo uomo più ricco d'Italia con un patrimonio di 27 miliardi di dollari (2023). Ha fondato ION Group nel 1999, una società di software finanziario che serve oltre 4.000 clienti in 50 paesi — tra cui la maggior parte delle principali banche centrali mondiali — con un profilo comparabile a Bloomberg."
+        "text": "Andrea Pignataro, bolognese nato nel 1970, è il secondo uomo più ricco d'Italia con un patrimonio di 27 miliardi di dollari (2023). Ha fondato ION Group nel 1999, una società di software finanziario che serve oltre 4.000 clienti in 50 paesi (tra cui la maggior parte delle principali banche centrali mondiali) con un profilo comparabile a Bloomberg."
       }
     },
     {
@@ -100,7 +100,7 @@ Pignataro ha costruito deliberatamente la propria invisibilità: nessuna intervi
       "name": "Perché Pignataro è rimasto sconosciuto nonostante la sua ricchezza?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pignataro ha costruito deliberatamente la propria invisibilità: nessuna intervista, nessuna apparizione pubblica, residenza in Svizzera, passaporto britannico. ION Group opera nell'infrastruttura B2B della finanza — un settore ad altissimo valore ma lontano dall'opinione pubblica — permettendogli di costruire un impero da 27 miliardi senza mai comparire nelle classifiche mediatiche."
+        "text": "Pignataro ha costruito deliberatamente la propria invisibilità: nessuna intervista, nessuna apparizione pubblica, residenza in Svizzera, passaporto britannico. ION Group opera nell'infrastruttura B2B della finanza (un settore ad altissimo valore ma lontano dall'opinione pubblica) permettendogli di costruire un impero da 27 miliardi senza mai comparire nelle classifiche mediatiche."
       }
     }
   ]

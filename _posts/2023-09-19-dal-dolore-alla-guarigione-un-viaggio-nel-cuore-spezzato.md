@@ -27,7 +27,7 @@ La sindrome di Takotsubo, anche detta sindrome del cuore spezzato, è una forma 
 <details class="faq-item" markdown="1">
 <summary><h3>Il cuore può davvero spezzarsi per un dolore emotivo?</h3></summary>
 
-Sì, non solo metaforicamente. La sindrome di Takotsubo dimostra che un forte shock emotivo — come la perdita di una persona cara, una separazione o una notizia traumatica — può causare una disfunzione temporanea del muscolo cardiaco. Il cuore si deforma fisicamente come risposta al dolore emotivo, producendo sintomi simili a quelli di un infarto, con dolore al petto e difficoltà respiratorie.
+Sì, non solo metaforicamente. La sindrome di Takotsubo dimostra che un forte shock emotivo (come la perdita di una persona cara, una separazione o una notizia traumatica) può causare una disfunzione temporanea del muscolo cardiaco. Il cuore si deforma fisicamente come risposta al dolore emotivo, producendo sintomi simili a quelli di un infarto, con dolore al petto e difficoltà respiratorie.
 
 </details>
 
@@ -56,7 +56,7 @@ La sindrome di Takotsubo può essere grave nel breve termine ma è solitamente r
       "name": "Il cuore può davvero spezzarsi per un dolore emotivo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sì, non solo metaforicamente. La sindrome di Takotsubo dimostra che un forte shock emotivo — come la perdita di una persona cara, una separazione o una notizia traumatica — può causare una disfunzione temporanea del muscolo cardiaco. Il cuore si deforma fisicamente come risposta al dolore emotivo, producendo sintomi simili a quelli di un infarto, con dolore al petto e difficoltà respiratorie."
+        "text": "Sì, non solo metaforicamente. La sindrome di Takotsubo dimostra che un forte shock emotivo (come la perdita di una persona cara, una separazione o una notizia traumatica) può causare una disfunzione temporanea del muscolo cardiaco. Il cuore si deforma fisicamente come risposta al dolore emotivo, producendo sintomi simili a quelli di un infarto, con dolore al petto e difficoltà respiratorie."
       }
     },
     {

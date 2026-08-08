@@ -32,14 +32,14 @@ Durante il Conclave, i cardinali si ritirano nella Cappella Sistina in isolament
 <details class="faq-item" markdown="1">
 <summary><h3>Perché il Conclave è un antidoto all'immediatezza digitale?</h3></summary>
 
-Il Conclave impone una temporalità completamente diversa dall'era digitale: niente dirette, niente notifiche, niente aggiornamenti in tempo reale. Il tempo riacquista una dimensione umana, scandita da riflessione e preghiera. Questo contrasto con la bulimia informativa contemporanea ricorda che alcune decisioni importanti richiedono lentezza, silenzio e ponderazione — qualità sempre più rare nell'epoca dell'immediatezza digitale.
+Il Conclave impone una temporalità completamente diversa dall'era digitale: niente dirette, niente notifiche, niente aggiornamenti in tempo reale. Il tempo riacquista una dimensione umana, scandita da riflessione e preghiera. Questo contrasto con la bulimia informativa contemporanea ricorda che alcune decisioni importanti richiedono lentezza, silenzio e ponderazione (qualità sempre più rare nell'epoca dell'immediatezza digitale.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa significa il fumo bianco durante il Conclave?</h3></summary>
 
-Il fumo bianco che sale dal comignolo della Cappella Sistina è il segnale con cui i cardinali comunicano al mondo l'elezione del nuovo Papa. È prodotto bruciando le schede di voto con sostanze chimiche che creano fumo chiaro. Il fumo nero indica invece che nessuna elezione è avvenuta. La frase 'Habemus Papam' — abbiamo il Papa — viene poi proclamata dal cardinale protodiacono dal balcone di San Pietro.
+Il fumo bianco che sale dal comignolo della Cappella Sistina è il segnale con cui i cardinali comunicano al mondo l'elezione del nuovo Papa. È prodotto bruciando le schede di voto con sostanze chimiche che creano fumo chiaro. Il fumo nero indica invece che nessuna elezione è avvenuta. La frase 'Habemus Papam') abbiamo il Papa, viene poi proclamata dal cardinale protodiacono dal balcone di San Pietro.
 
 </details>
 
@@ -61,7 +61,7 @@ Il fumo bianco che sale dal comignolo della Cappella Sistina è il segnale con c
       "name": "Perché il Conclave è un antidoto all'immediatezza digitale?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il Conclave impone una temporalità completamente diversa dall'era digitale: niente dirette, niente notifiche, niente aggiornamenti in tempo reale. Il tempo riacquista una dimensione umana, scandita da riflessione e preghiera. Questo contrasto con la bulimia informativa contemporanea ricorda che alcune decisioni importanti richiedono lentezza, silenzio e ponderazione — qualità sempre più rare nell'epoca dell'immediatezza digitale."
+        "text": "Il Conclave impone una temporalità completamente diversa dall'era digitale: niente dirette, niente notifiche, niente aggiornamenti in tempo reale. Il tempo riacquista una dimensione umana, scandita da riflessione e preghiera. Questo contrasto con la bulimia informativa contemporanea ricorda che alcune decisioni importanti richiedono lentezza, silenzio e ponderazione (qualità sempre più rare nell'epoca dell'immediatezza digitale."
       }
     },
     {
@@ -69,7 +69,7 @@ Il fumo bianco che sale dal comignolo della Cappella Sistina è il segnale con c
       "name": "Cosa significa il fumo bianco durante il Conclave?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il fumo bianco che sale dal comignolo della Cappella Sistina è il segnale con cui i cardinali comunicano al mondo l'elezione del nuovo Papa. È prodotto bruciando le schede di voto con sostanze chimiche che creano fumo chiaro. Il fumo nero indica invece che nessuna elezione è avvenuta. La frase 'Habemus Papam' — abbiamo il Papa — viene poi proclamata dal cardinale protodiacono dal balcone di San Pietro."
+        "text": "Il fumo bianco che sale dal comignolo della Cappella Sistina è il segnale con cui i cardinali comunicano al mondo l'elezione del nuovo Papa. È prodotto bruciando le schede di voto con sostanze chimiche che creano fumo chiaro. Il fumo nero indica invece che nessuna elezione è avvenuta. La frase 'Habemus Papam') abbiamo il Papa, viene poi proclamata dal cardinale protodiacono dal balcone di San Pietro."
       }
     }
   ]

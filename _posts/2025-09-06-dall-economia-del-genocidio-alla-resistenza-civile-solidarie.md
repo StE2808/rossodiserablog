@@ -50,7 +50,7 @@ Il mare davanti a Gaza oggi è solcato da navi cariche di speranza. È il moment
 <details class="faq-item" markdown="1">
 <summary><h3>Cos'è la Global Sumud Flotilla?</h3></summary>
 
-La Global Sumud Flotilla è la più grande flottiglia civile mai organizzata, partita da Barcellona e da porti italiani (Genova, Sicilia) con attivisti di 44 paesi. Il suo obiettivo è sfidare il blocco navale israeliano su Gaza per portare cibo, acqua e medicine alla popolazione sotto assedio — dove oltre il 90% era in condizioni di insicurezza alimentare acuta secondo l'OCHA.
+La Global Sumud Flotilla è la più grande flottiglia civile mai organizzata, partita da Barcellona e da porti italiani (Genova, Sicilia) con attivisti di 44 paesi. Il suo obiettivo è sfidare il blocco navale israeliano su Gaza per portare cibo, acqua e medicine alla popolazione sotto assedio, dove oltre il 90% era in condizioni di insicurezza alimentare acuta secondo l'OCHA.
 
 </details>
 
@@ -78,7 +78,7 @@ Il governo Meloni ha mostrato ambiguità: di fronte alle minacce del ministro is
       "name": "Cos'è la Global Sumud Flotilla?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La Global Sumud Flotilla è la più grande flottiglia civile mai organizzata, partita da Barcellona e da porti italiani (Genova, Sicilia) con attivisti di 44 paesi. Il suo obiettivo è sfidare il blocco navale israeliano su Gaza per portare cibo, acqua e medicine alla popolazione sotto assedio — dove oltre il 90% era in condizioni di insicurezza alimentare acuta secondo l'OCHA."
+        "text": "La Global Sumud Flotilla è la più grande flottiglia civile mai organizzata, partita da Barcellona e da porti italiani (Genova, Sicilia) con attivisti di 44 paesi. Il suo obiettivo è sfidare il blocco navale israeliano su Gaza per portare cibo, acqua e medicine alla popolazione sotto assedio, dove oltre il 90% era in condizioni di insicurezza alimentare acuta secondo l'OCHA."
       }
     },
     {

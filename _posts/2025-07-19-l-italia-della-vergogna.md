@@ -51,7 +51,7 @@ Il Re è nudo. E nuda è la vergogna di un governo che ha venduto l'anima dell'I
 <details class="faq-item" markdown="1">
 <summary><h3>Qual è la posizione dell'Italia sul conflitto a Gaza?</h3></summary>
 
-Il governo Meloni ha votato contro le sanzioni a Israele e si è distinto dai principali partner europei — Francia, Spagna, Irlanda, Norvegia — che hanno riconosciuto lo Stato di Palestina. Oltre 145 paesi nel mondo hanno riconosciuto la Palestina (ONU 2025), ma l'Italia rimane tra quelli che non lo hanno ancora fatto.
+Il governo Meloni ha votato contro le sanzioni a Israele e si è distinto dai principali partner europei (Francia, Spagna, Irlanda, Norvegia) che hanno riconosciuto lo Stato di Palestina. Oltre 145 paesi nel mondo hanno riconosciuto la Palestina (ONU 2025), ma l'Italia rimane tra quelli che non lo hanno ancora fatto.
 
 </details>
 
@@ -79,7 +79,7 @@ L'accusa nasce dal voto contrario alle risoluzioni di sanzione a Israele, dal ma
       "name": "Qual è la posizione dell'Italia sul conflitto a Gaza?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il governo Meloni ha votato contro le sanzioni a Israele e si è distinto dai principali partner europei — Francia, Spagna, Irlanda, Norvegia — che hanno riconosciuto lo Stato di Palestina. Oltre 145 paesi nel mondo hanno riconosciuto la Palestina (ONU 2025), ma l'Italia rimane tra quelli che non lo hanno ancora fatto."
+        "text": "Il governo Meloni ha votato contro le sanzioni a Israele e si è distinto dai principali partner europei (Francia, Spagna, Irlanda, Norvegia) che hanno riconosciuto lo Stato di Palestina. Oltre 145 paesi nel mondo hanno riconosciuto la Palestina (ONU 2025), ma l'Italia rimane tra quelli che non lo hanno ancora fatto."
       }
     },
     {

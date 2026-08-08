@@ -45,7 +45,7 @@ E quando Meloni e la sua delegazione ripartirono, lasciando dietro di sé una sc
 <details class="faq-item" markdown="1">
 <summary><h3>Cos'è il Piano Mattei e cosa promette all'Africa?</h3></summary>
 
-Il Piano Mattei è l'iniziativa del governo Meloni per la cooperazione con l'Africa, con risorse mobilitate per circa 5,5 miliardi di euro distribuiti su 6 anni e 9 paesi partner. In media meno di 100 milioni per paese per anno — una cifra simbolica rispetto alla scala della desertificazione, che minaccia il 40% delle terre africane coltivabili (FAO, 2022).
+Il Piano Mattei è l'iniziativa del governo Meloni per la cooperazione con l'Africa, con risorse mobilitate per circa 5,5 miliardi di euro distribuiti su 6 anni e 9 paesi partner. In media meno di 100 milioni per paese per anno (una cifra simbolica rispetto alla scala della desertificazione, che minaccia il 40% delle terre africane coltivabili (FAO, 2022).
 
 </details>
 
@@ -59,7 +59,7 @@ Secondo l'UNCCD (2022), il 65% dei terreni agricoli etiopici mostra segni di deg
 <details class="faq-item" markdown="1">
 <summary><h3>Perché la visita di Meloni in Etiopia è stata criticata?</h3></summary>
 
-La critica riguarda il divario tra la retorica — citazioni di Cicerone, promesse di cooperazione, discorsi sulla 'bellezza del lavoro agricolo' — e la scarsità di risorse concrete. I contadini etiopici che combattono ogni giorno la desertificazione avevano bisogno di fatti, non di narrazioni sulla grandezza italiana.
+La critica riguarda il divario tra la retorica) citazioni di Cicerone, promesse di cooperazione, discorsi sulla 'bellezza del lavoro agricolo', e la scarsità di risorse concrete. I contadini etiopici che combattono ogni giorno la desertificazione avevano bisogno di fatti, non di narrazioni sulla grandezza italiana.
 
 </details>
 
@@ -73,7 +73,7 @@ La critica riguarda il divario tra la retorica — citazioni di Cicerone, promes
       "name": "Cos'è il Piano Mattei e cosa promette all'Africa?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il Piano Mattei è l'iniziativa del governo Meloni per la cooperazione con l'Africa, con risorse mobilitate per circa 5,5 miliardi di euro distribuiti su 6 anni e 9 paesi partner. In media meno di 100 milioni per paese per anno — una cifra simbolica rispetto alla scala della desertificazione, che minaccia il 40% delle terre africane coltivabili (FAO, 2022)."
+        "text": "Il Piano Mattei è l'iniziativa del governo Meloni per la cooperazione con l'Africa, con risorse mobilitate per circa 5,5 miliardi di euro distribuiti su 6 anni e 9 paesi partner. In media meno di 100 milioni per paese per anno (una cifra simbolica rispetto alla scala della desertificazione, che minaccia il 40% delle terre africane coltivabili (FAO, 2022)."
       }
     },
     {
@@ -89,7 +89,7 @@ La critica riguarda il divario tra la retorica — citazioni di Cicerone, promes
       "name": "Perché la visita di Meloni in Etiopia è stata criticata?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La critica riguarda il divario tra la retorica — citazioni di Cicerone, promesse di cooperazione, discorsi sulla 'bellezza del lavoro agricolo' — e la scarsità di risorse concrete. I contadini etiopici che combattono ogni giorno la desertificazione avevano bisogno di fatti, non di narrazioni sulla grandezza italiana."
+        "text": "La critica riguarda il divario tra la retorica) citazioni di Cicerone, promesse di cooperazione, discorsi sulla 'bellezza del lavoro agricolo', e la scarsità di risorse concrete. I contadini etiopici che combattono ogni giorno la desertificazione avevano bisogno di fatti, non di narrazioni sulla grandezza italiana."
       }
     }
   ]

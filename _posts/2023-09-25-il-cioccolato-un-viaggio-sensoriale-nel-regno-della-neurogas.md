@@ -35,7 +35,7 @@ Sì, secondo ricerche condotte dall'Università dell'Aquila, i flavonoidi presen
 <details class="faq-item" markdown="1">
 <summary><h3>Perché il cioccolato migliora l'umore?</h3></summary>
 
-Il cioccolato stimola la produzione di endorfine, i cosiddetti ormoni della felicità, generando un senso di benessere e riducendo lo stress. Contiene anche antiossidanti come l'acido clorogenico che combattono i radicali liberi. L'esperienza sensoriale del cioccolato — texture, aromi, dolcezza — attiva circuiti cerebrali di piacere rendendolo un'esperienza di mindfulness naturale.
+Il cioccolato stimola la produzione di endorfine, i cosiddetti ormoni della felicità, generando un senso di benessere e riducendo lo stress. Contiene anche antiossidanti come l'acido clorogenico che combattono i radicali liberi. L'esperienza sensoriale del cioccolato (texture, aromi, dolcezza) attiva circuiti cerebrali di piacere rendendolo un'esperienza di mindfulness naturale.
 
 </details>
 
@@ -64,7 +64,7 @@ La moderazione è fondamentale. Il cioccolato fondente ad alto contenuto di caca
       "name": "Perché il cioccolato migliora l'umore?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il cioccolato stimola la produzione di endorfine, i cosiddetti ormoni della felicità, generando un senso di benessere e riducendo lo stress. Contiene anche antiossidanti come l'acido clorogenico che combattono i radicali liberi. L'esperienza sensoriale del cioccolato — texture, aromi, dolcezza — attiva circuiti cerebrali di piacere rendendolo un'esperienza di mindfulness naturale."
+        "text": "Il cioccolato stimola la produzione di endorfine, i cosiddetti ormoni della felicità, generando un senso di benessere e riducendo lo stress. Contiene anche antiossidanti come l'acido clorogenico che combattono i radicali liberi. L'esperienza sensoriale del cioccolato (texture, aromi, dolcezza) attiva circuiti cerebrali di piacere rendendolo un'esperienza di mindfulness naturale."
       }
     },
     {
