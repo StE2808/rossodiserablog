@@ -24,6 +24,62 @@
     <!-- SEO -->
     {% seo title=false %}
 
+    <!-- Identita' del sito per motori di ricerca e AI: chi siamo, dove siamo, chi scrive.
+         Senza questo un modello che non ci conosce inventa (verificato: Gemini ci ha
+         descritti come un blog enogastronomico con un'autrice inesistente). -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://rossodiserablog.it/#website",
+          "url": "https://rossodiserablog.it/",
+          "name": "Rosso di Sera",
+          "alternateName": "Rosso di Sera Blog",
+          "description": "Blog editoriale italiano di politica, societa’ e cultura. Analisi critiche su politica italiana e internazionale, diritti umani, ambiente, intelligenza artificiale e filosofia politica. Non un giornale di news: ogni articolo e’ un’elaborazione originale con punto di vista dichiarato.",
+          "inLanguage": "it-IT",
+          "publisher": { "@id": "https://rossodiserablog.it/#organization" }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://rossodiserablog.it/#organization",
+          "name": "Rosso di Sera",
+          "url": "https://rossodiserablog.it/",
+          "description": "Blog editoriale italiano di politica, societa’ e cultura. Analisi critiche su politica italiana e internazionale, diritti umani, ambiente, intelligenza artificiale e filosofia politica. Non un giornale di news: ogni articolo e’ un’elaborazione originale con punto di vista dichiarato.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://rossodiserablog.it/assets/images/logo_trasparenza.png"
+          },
+          "sameAs": [
+            "https://www.facebook.com/profile.php?id=61550470389942",
+            "https://www.instagram.com/rosso_di_sera_blog/",
+            "https://x.com/di_rosso45458"
+          ],
+          "member": [
+            { "@id": "https://rossodiserablog.it/#stefano-vozzi" },
+            { "@id": "https://rossodiserablog.it/#lino-rialti" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://rossodiserablog.it/#stefano-vozzi",
+          "name": "Stefano Vozzi",
+          "url": "https://rossodiserablog.it/authors/stefano-vozzi/",
+          "memberOf": { "@id": "https://rossodiserablog.it/#organization" },
+          "sameAs": [ "https://stefanovozzi.substack.com" ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://rossodiserablog.it/#lino-rialti",
+          "name": "Lino Rialti",
+          "url": "https://rossodiserablog.it/authors/lino-rialti/",
+          "memberOf": { "@id": "https://rossodiserablog.it/#organization" }
+        }
+      ]
+    }
+    </script>
+
     <!-- Custom title with seo_title support -->
     <meta property="og:title" content="{{ effective_title }}">
     {% if page.image_alt %}
