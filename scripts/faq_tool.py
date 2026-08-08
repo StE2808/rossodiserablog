@@ -203,6 +203,136 @@ def is_self_referential(question):
     return bool(SELF_REF.search(question))
 
 
+# --- guardia sulla conservazione dei fatti ---
+#
+# Riscrivere una risposta a mano puo' far cadere per distrazione un dato, una
+# data o un nome. La guardia estrae da ogni risposta l'insieme dei suoi fatti
+# verificabili e controlla che la riscrittura non ne perda nessuno.
+
+NUMERO = re.compile(r"\d+(?:[.,]\d+)*\s*%?")
+NOME_PROPRIO = re.compile(r"\b[A-ZÀ-ÖØ-Ý][A-Za-zÀ-ÿ'’]{2,}")
+CIT_APICE = re.compile(r"(?<![A-Za-zÀ-ÿ])['’]([^'’]{4,})['’](?![A-Za-zÀ-ÿ])")
+CIT_DOPPIA = re.compile(r"[\"«]([^\"»]{4,})[\"»]")
+PAROLA = re.compile(r"[\wÀ-ÿ'’]+")
+ELISIONE = re.compile(r"^\w{1,2}['’]")
+
+# Numeri scritti in lettere: "un ciclo in sei fasi" e' un fatto quanto "6 fasi".
+NUMERALI = {"due", "tre", "quattro", "cinque", "sei", "sette", "otto", "nove",
+            "dieci", "undici", "dodici", "tredici", "quattordici", "quindici",
+            "sedici", "diciassette", "diciotto", "diciannove", "venti", "trenta",
+            "quaranta", "cinquanta", "sessanta", "cento", "mille", "milioni",
+            "miliardi", "decine", "centinaia", "migliaia"}
+
+# Parole che capitano maiuscole a inizio frase senza essere nomi propri, piu' i
+# termini auto-referenziali che la riscrittura deve proprio poter togliere.
+STOP_MAIUSCOLE = {
+    "articolo", "articoli", "autore", "pezzo", "testo",
+    "che", "chi", "come", "cosa", "quando", "quanto", "quale", "quali", "perche",
+    "perché", "dove", "mentre", "secondo", "ogni", "ogni", "anche", "ancora",
+    "sono", "erano", "sarebbe", "essere", "stato", "stata", "state", "stati",
+    "questo", "questa", "questi", "queste", "quello", "quella", "quelli",
+    "quelle", "loro", "suoi", "sue", "nel", "nella", "nelle", "nei", "negli",
+    "del", "della", "delle", "dei", "degli", "dal", "dalla", "dalle", "dai",
+    "con", "senza", "per", "tra", "fra", "sopra", "sotto", "dopo", "prima",
+    "poi", "quindi", "infine", "invece", "oppure", "ma", "però", "pero",
+    "non", "più", "piu", "meno", "molto", "poco", "tutto", "tutta", "tutti",
+    "tutte", "entrambi", "entrambe", "altro", "altra", "altri", "altre",
+    "una", "uno", "gli", "gli", "gli", "lui", "lei", "essi", "esse",
+    "oggi", "ieri", "domani", "sempre", "mai", "già", "gia", "solo", "soltanto",
+    "come", "così", "cosi", "tanto", "forse", "davvero", "proprio", "vero",
+    "esiste", "esistono", "serve", "servono", "resta", "restano", "rimane",
+    "significa", "vuol", "dire", "fare", "avere", "può", "puo", "possono",
+    "deve", "devono", "viene", "vengono", "hanno", "sono", "era", "sarà",
+    "sara", "nessuno", "nulla", "niente", "qualcuno", "qualcosa",
+}
+
+
+def _tocca_minuscolo(token):
+    """Riduce un token alla sua chiave confrontabile, senza elisione iniziale."""
+    return ELISIONE.sub("", token.lower()).strip("'’")
+
+
+def extract_facts(text):
+    """Insieme dei fatti verificabili di un testo.
+
+    Numeri, percentuali, nomi propri, citazioni fra virgolette e numerali in
+    lettere: cio' che una riscrittura non ha il diritto di far sparire.
+    """
+    fatti = set()
+    for m in NUMERO.finditer(text):
+        fatti.add(re.sub(r"\s+", "", m.group(0)))
+    for m in NOME_PROPRIO.finditer(text):
+        chiave = _tocca_minuscolo(m.group(0))
+        if chiave and chiave not in STOP_MAIUSCOLE and not chiave.isdigit():
+            fatti.add(chiave)
+    for regex in (CIT_APICE, CIT_DOPPIA):
+        for m in regex.finditer(text):
+            citazione = _collapse(m.group(1)).lower()
+            if citazione and citazione not in STOP_MAIUSCOLE:
+                fatti.add(citazione)
+    for parola in PAROLA.findall(text.lower()):
+        if parola in NUMERALI:
+            fatti.add(parola)
+    return fatti
+
+
+def facts_lost(prima, dopo):
+    """Fatti presenti nella versione originale e spariti dalla riscrittura."""
+    return sorted(extract_facts(prima) - extract_facts(dopo))
+
+
+def conta_parole(text):
+    """Conta le parole di una risposta, punteggiatura esclusa."""
+    return len(PAROLA.findall(text))
+
+
+def snapshot(posts_dir=POSTS_DIR):
+    """Fotografa domande e risposte di tutto il corpus, file per file."""
+    foto = {}
+    for path in sorted(Path(posts_dir).glob("*.md")):
+        try:
+            pairs = parse_jsonld(path.read_text(encoding="utf-8"))
+        except FaqJsonError:
+            continue
+        if pairs:
+            foto[path.name] = [{"q": p["q"], "a": p["a"]} for p in pairs]
+    return foto
+
+
+MIN_PAROLE = 40
+MAX_PAROLE = 80
+
+
+def check_against(foto, posts_dir=POSTS_DIR, min_parole=MIN_PAROLE, max_parole=MAX_PAROLE):
+    """Confronta il corpus attuale con una fotografia precedente.
+
+    Segnala tre cose: fatti spariti, risposte fuori dalla forbice di lunghezza
+    consigliata da Google e coppie comparse o scomparse.
+    """
+    problemi = []
+    attuale = snapshot(posts_dir)
+    for nome, prima in sorted(foto.items()):
+        dopo = attuale.get(nome)
+        if dopo is None:
+            problemi.append((nome, 0, "la FAQPage e' sparita"))
+            continue
+        if len(prima) != len(dopo):
+            problemi.append((nome, 0, "conteggio cambiato: {} -> {}".format(len(prima), len(dopo))))
+            continue
+        for i, (a, b) in enumerate(zip(prima, dopo), start=1):
+            persi = facts_lost(a["a"], b["a"])
+            if persi:
+                problemi.append((nome, i, "fatti persi: {}".format(", ".join(persi))))
+            if a["q"] != b["q"] and facts_lost(a["q"], b["q"]):
+                problemi.append((nome, i, "fatti persi nella domanda: {}".format(
+                    ", ".join(facts_lost(a["q"], b["q"])))))
+            n = conta_parole(b["a"])
+            if not min_parole <= n <= max_parole:
+                problemi.append((nome, i, "risposta di {} parole (fuori da {}-{})".format(
+                    n, min_parole, max_parole)))
+    return problemi
+
+
 def audit(posts_dir=POSTS_DIR):
     """Conta lo stato delle FAQ su tutto il corpus."""
     stats = {"totali": 0, "con_jsonld": 0, "senza_visibile": [], "grassetto": 0,
@@ -263,6 +393,22 @@ def cmd_verify(args):
     return 1 if rotti else 0
 
 
+def cmd_snapshot(args):
+    Path(args.out).write_text(
+        json.dumps(snapshot(), ensure_ascii=False, indent=1), encoding="utf-8")
+    print("fotografia salvata in {}".format(args.out))
+    return 0
+
+
+def cmd_check(args):
+    foto = json.loads(Path(args.baseline).read_text(encoding="utf-8"))
+    problemi = check_against(foto)
+    for nome, i, msg in problemi:
+        print("{}  (risposta {})\n  - {}".format(nome, i, msg))
+    print("\nsegnalazioni: {}".format(len(problemi)))
+    return 1 if problemi else 0
+
+
 def _apply(transform, args, verbo, verbo_dry):
     paths = [POSTS_DIR / n for n in args.file] if getattr(args, "file", None) else sorted(POSTS_DIR.glob("*.md"))
     toccati = []
@@ -304,6 +450,14 @@ def main():
     p_sync.add_argument("--file", nargs="*", help="nomi di file specifici in _posts")
     p_sync.add_argument("--dry-run", action="store_true")
     p_sync.set_defaults(func=cmd_sync_visible)
+
+    p_snap = sub.add_parser("facts-snapshot", help="fotografa i fatti delle FAQ")
+    p_snap.add_argument("--out", required=True, help="file JSON da scrivere")
+    p_snap.set_defaults(func=cmd_snapshot)
+
+    p_check = sub.add_parser("facts-check", help="verifica che nessun fatto sia sparito")
+    p_check.add_argument("baseline", help="file JSON prodotto da facts-snapshot")
+    p_check.set_defaults(func=cmd_check)
 
     args = parser.parse_args()
     return args.func(args)
