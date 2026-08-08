@@ -98,7 +98,7 @@ Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava l
     },
     {
       "@type": "Question",
-      "name": "Cosa significa "siate realisti, chiedete l'impossibile" di Camus?",
+      "name": "Cosa significa \"siate realisti, chiedete l'impossibile\" di Camus?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava la logica del pragmatismo politico: il realismo puro, senza tensione verso ciò che non esiste ancora, non è saggezza ma rassegnazione travestita da maturità. Chiedere l'impossibile non significa ignorare i vincoli del reale, ma rifiutare che quei vincoli siano eterni."

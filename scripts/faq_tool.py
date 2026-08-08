@@ -32,6 +32,10 @@ INVISIBLE = dict.fromkeys(map(ord, "​‌‍﻿"), None)
 QUOTES = {"“": '"', "”": '"', "‘": "'", "’": "'"}
 
 
+class FaqJsonError(ValueError):
+    """JSON-LD della FAQPage malformato: va segnalato, non fatto esplodere."""
+
+
 def normalize(s):
     """Riduce il testo alla sua forma confrontabile.
 
@@ -70,7 +74,10 @@ def parse_jsonld(text):
         raw = m.group(1).strip()
         if "FAQPage" not in raw:
             continue
-        data = json.loads(raw, strict=False)
+        try:
+            data = json.loads(raw, strict=False)
+        except json.JSONDecodeError as e:
+            raise FaqJsonError("JSON-LD malformato ({})".format(e))
         return [{"q": normalize(item["name"]),
                  "a": normalize(item["acceptedAnswer"]["text"])}
                 for item in data.get("mainEntity", [])]
@@ -164,7 +171,10 @@ def sync_visible(text):
 
 def compare(text):
     """Confronta JSON-LD e testo visibile. Restituisce la lista dei problemi."""
-    jsonld = parse_jsonld(text)
+    try:
+        jsonld = parse_jsonld(text)
+    except FaqJsonError as e:
+        return [str(e)]
     if jsonld is None:
         return []
     visible = parse_visible(text)
@@ -200,7 +210,11 @@ def audit(posts_dir=POSTS_DIR):
     for path in sorted(Path(posts_dir).glob("*.md")):
         text = path.read_text(encoding="utf-8")
         stats["totali"] += 1
-        pairs = parse_jsonld(text)
+        try:
+            pairs = parse_jsonld(text)
+        except FaqJsonError:
+            stats.setdefault("json_rotto", []).append(path.name)
+            continue
         if pairs is None:
             continue
         stats["con_jsonld"] += 1
@@ -229,6 +243,10 @@ def cmd_audit(args):
     print("domande totali:          {}".format(s["domande"]))
     print("auto-referenziali:       {}".format(len(s["auto_referenziali"])))
     print("file con em-dash:        {}".format(len(set(s["em_dash"]))))
+    if s.get("json_rotto"):
+        print("JSON-LD MALFORMATO:      {}".format(len(s["json_rotto"])))
+        for n in s["json_rotto"]:
+            print("  {}".format(n))
     return 0
 
 

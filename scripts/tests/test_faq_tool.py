@@ -268,3 +268,13 @@ def test_to_accordion_preserva_il_corsivo():
 
 def test_to_accordion_con_link_resta_conforme():
     assert compare(to_accordion(POST_CON_LINK)) == []
+
+
+# --- regressione: un JSON-LD rotto va segnalato, non fatto esplodere ---
+
+def test_compare_segnala_json_malformato():
+    rotto = POST_BOLD.replace('"name": "Che cos\'e il pull?"',
+                              '"name": "Domanda con "virgolette" non escapate"')
+    problemi = compare(rotto)
+    assert len(problemi) == 1
+    assert "malformato" in problemi[0]
