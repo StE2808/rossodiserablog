@@ -225,3 +225,22 @@ def test_sync_visible_non_tocca_chi_ce_l_ha_gia():
 def test_sync_visible_idempotente():
     una = sync_visible(POST_NO_VISIBLE)
     assert sync_visible(una) == una
+
+
+# --- is_self_referential ---
+
+def test_self_referential_riconosce_il_rimando_al_pezzo():
+    from faq_tool import is_self_referential
+    assert is_self_referential("Qual e la conclusione dell'articolo?")
+    assert is_self_referential("Che cosa si intende per populismo in questo articolo?")
+
+
+def test_self_referential_ignora_gli_articoli_di_legge():
+    from faq_tool import is_self_referential
+    assert not is_self_referential("Perche il piano e in tensione con l'articolo 33 della Costituzione?")
+    assert not is_self_referential("Cosa prevede l'articolo 21 sulla liberta di stampa?")
+
+
+def test_self_referential_falso_su_domanda_normale():
+    from faq_tool import is_self_referential
+    assert not is_self_referential("Cos'e la manipolazione algoritmica?")

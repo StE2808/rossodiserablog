@@ -162,6 +162,18 @@ def compare(text):
     return problemi
 
 
+# "articolo 33 della Costituzione" parla di una norma, non del pezzo: va esclusa
+ARTICOLO_NORMA = re.compile(r"articol[oi]\s+(\d|[IVX]+\b|della costituzione)", re.IGNORECASE)
+SELF_REF = re.compile(r"\barticol[oi]\b|nel pezzo|secondo l'autore", re.IGNORECASE)
+
+
+def is_self_referential(question):
+    """Vero se la domanda rimanda al pezzo invece di stare in piedi da sola."""
+    if ARTICOLO_NORMA.search(question):
+        return False
+    return bool(SELF_REF.search(question))
+
+
 def audit(posts_dir=POSTS_DIR):
     """Conta lo stato delle FAQ su tutto il corpus."""
     stats = {"totali": 0, "con_jsonld": 0, "senza_visibile": [], "grassetto": 0,
@@ -181,7 +193,7 @@ def audit(posts_dir=POSTS_DIR):
             stats["accordion" if "<summary>" in block else "grassetto"] += 1
         for pair in pairs:
             stats["domande"] += 1
-            if re.search(r"articolo|nel pezzo|secondo l'autore", pair["q"], re.IGNORECASE):
+            if is_self_referential(pair["q"]):
                 stats["auto_referenziali"].append((path.name, pair["q"]))
             if "—" in pair["a"] or "—" in pair["q"]:
                 stats["em_dash"].append(path.name)
