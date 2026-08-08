@@ -12,7 +12,7 @@ tags: ["diritti", "Etica", "felicit\u00e0", "giustizia", "Jos\u00e9", "Mujica", 
 ---
 E' rimbalzata sui social la notizia della scomparsa del Presidente José "Pepe" Mujica, figura straordinaria che ha lasciato un'impronta indelebile nella storia dell'Uruguay e del mondo intero.
 
-Uomo semplice e di principi incrollabili, Mujica ha vissuto i suoi 78 anni con una coerenza rara nel panorama politico mondiale. Ex guerrigliero che conobbe la durezza di 15 anni di carcere durante la dittatura, non permise mai che le sofferenze del passato offuscassero la sua visione luminosa dell'umanità.
+Uomo semplice e di principi incrollabili, Mujica ha vissuto i suoi 89 anni con una coerenza rara nel panorama politico mondiale. Ex guerrigliero che conobbe la durezza di 15 anni di carcere durante la dittatura, non permise mai che le sofferenze del passato offuscassero la sua visione luminosa dell'umanità.
 
 "Non veniamo alla luce per svilupparci solamente," amava ripetere, "[veniamo alla luce per essere felici](https://rossodiserablog.it/laura-santi-la-liberta-come-ultimo-atto-d-amore/). Perché la vita è corta e se ne va via rapidamente." Questa convinzione profonda ha guidato le sue scelte, sia politiche che personali.
 
