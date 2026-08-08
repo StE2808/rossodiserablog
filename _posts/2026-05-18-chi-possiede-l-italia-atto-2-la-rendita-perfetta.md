@@ -18,8 +18,8 @@ tags:
   - rendita estrattiva
   - chi possiede l'Italia
 image: /assets/images/uploads/venere-botticelli-chi-possiede-italia.jpg
-image_caption: La Venere di Botticelli — la rendita perfetta su chi non può dire no
-image_alt: Volto della Venere di Botticelli — la rendita estrattiva nelle utility italiane
+image_caption: La Venere di Botticelli, la rendita perfetta su chi non può dire no
+image_alt: Volto della Venere di Botticelli, la rendita estrattiva nelle utility italiane
 excerpt: "Paghi la bolletta, vai online, fai la spesa: ogni volta che non puoi dire no, qualcuno incassa. Il meccanismo della domanda captiva spiegato con i numeri. E il caso Cingolani: il CEO rimosso da Leonardo perché il suo progetto di difesa autonoma europea disturbava Washington."
 focus_keyword: rendita fondi stranieri bollette Italia
 ---

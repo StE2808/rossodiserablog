@@ -19,7 +19,7 @@ tags:
 image: /assets/images/2025/09/img_6748.webp
 image_alt: "Nave della Global Sumud Flotilla nel Mediterraneo con bandiere di solidarietà internazionale"
 description: "Albanese denuncia all'ONU l'economia del genocidio a Gaza. La Global Sumud Flotilla risponde con 44 paesi e la più grande flottiglia civile mai organizzata."
-excerpt: "Mentre Francesca Albanese denuncia all'ONU l'economia del genocidio che rende profittevole la distruzione di Gaza, la Global Sumud Flotilla — 44 paesi, partenza da Barcellona e dai porti italiani — sfida il blocco navale con la più grande flottiglia civile mai organizzata."
+excerpt: "Mentre Francesca Albanese denuncia all'ONU l'economia del genocidio che rende profittevole la distruzione di Gaza, la Global Sumud Flotilla (44 paesi, partenza da Barcellona e dai porti italiani) sfida il blocco navale con la più grande flottiglia civile mai organizzata."
 ---
 Mentre Francesca Albanese nel suo rapporto alle Nazioni Unite denuncia l'evoluzione dall'"economia dell'occupazione" all'"economia del genocidio" che rende profittevole la distruzione sistematica del popolo palestinese, in questi giorni coraggiosi attivisti di 44 paesi stanno sfidando il blocco navale israeliano con la più grande flottiglia civile mai organizzata: la Global Sumud Flotilla.
 

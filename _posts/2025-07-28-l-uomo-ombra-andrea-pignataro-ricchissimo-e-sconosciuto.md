@@ -18,7 +18,7 @@ tags:
 image: /assets/images/2025/07/img_6664.webp
 image_alt: "Grattacieli della City di Londra dove ha sede ION Group, il colosso finanziario di Andrea Pignataro"
 description: "Andrea Pignataro, secondo uomo piu ricco d'Italia con 27 miliardi di dollari, ha costruito ION Group nell'ombra. Nel 2025 accordo con il fisco per 280 milioni di euro."
-excerpt: "Andrea Pignataro, bolognese nato nel 1970, è secondo solo a Ferrero nella classifica dei più ricchi d'Italia con 27 miliardi di dollari. Ha fondato ION Group nel 1999 e l'ha resa comparabile a Bloomberg — ma nessuno ne conosce il nome. Fino all'accordo con il fisco da 280 milioni."
+excerpt: "Andrea Pignataro, bolognese nato nel 1970, è secondo solo a Ferrero nella classifica dei più ricchi d'Italia con 27 miliardi di dollari. Ha fondato ION Group nel 1999 e l'ha resa comparabile a Bloomberg, ma nessuno ne conosce il nome. Fino all'accordo con il fisco da 280 milioni."
 ---
 
 Nel mondo della finanza globale, dove i riflettori illuminano spesso i volti più noti degli imprenditori di successo, esiste un uomo che ha fatto della riservatezza la sua firma distintiva.

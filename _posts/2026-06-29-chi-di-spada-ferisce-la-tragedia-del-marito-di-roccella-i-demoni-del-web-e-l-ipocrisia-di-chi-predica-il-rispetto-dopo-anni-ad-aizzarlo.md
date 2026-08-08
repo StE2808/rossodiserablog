@@ -22,7 +22,7 @@ tags:
 image: /assets/images/uploads/IMG_7360.jpeg
 image_caption: Il lago di Vico dove si è consumata la tragedia
 image_alt: Il lago di Vico visto da un aereo nella sua interezza
-excerpt: "Luigi Cavallari, marito della ministra Eugenia Roccella, è scomparso nelle acque del lago di Vico il 27 giugno dopo un probabile shock termico. Mentre i soccorritori cercavano, sui social esplodevano commenti di odio contro la ministra. La premier Meloni ha denunciato il \"clima avvelenato\" alimentato dagli avversari — ma è una denuncia che suona ipocrita da chi ha costruito la propria fortuna politica sull'incitamento sistematico. Il vero problema non è solo l'abiezione di qualche utente anonimo: è chi, dal palco e dai social ufficiali, ha sdoganato la disumanizzazione dell'avversario come stile di governo."
+excerpt: "Luigi Cavallari, marito della ministra Eugenia Roccella, è scomparso nelle acque del lago di Vico il 27 giugno dopo un probabile shock termico. Mentre i soccorritori cercavano, sui social esplodevano commenti di odio contro la ministra. La premier Meloni ha denunciato il \"clima avvelenato\" alimentato dagli avversari, ma è una denuncia che suona ipocrita da chi ha costruito la propria fortuna politica sull'incitamento sistematico. Il vero problema non è solo l'abiezione di qualche utente anonimo: è chi, dal palco e dai social ufficiali, ha sdoganato la disumanizzazione dell'avversario come stile di governo."
 focus_keyword: odio social Roccella destra
 ---
 

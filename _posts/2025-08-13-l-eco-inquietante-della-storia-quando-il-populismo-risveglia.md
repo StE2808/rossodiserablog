@@ -19,7 +19,7 @@ tags:
 image: /assets/images/2025/08/img_6699.webp
 image_alt: "Manifestazione per i diritti delle minoranze in Italia con cartelli contro il razzismo"
 description: "Salvini chiede di 'radere al suolo i campi rom': la retorica di punizione collettiva etnica che la storia europea ha già conosciuto con esiti devastanti."
-excerpt: "Dopo la morte di Cecilia De Astis, Salvini chiede di 'radere al suolo i campi rom' e Vannacci parla di 'responsabilità morale del sindaco'. Una retorica di punizione collettiva etnica che richiama la logica nazista — non di grado, ma di sostanza."
+excerpt: "Dopo la morte di Cecilia De Astis, Salvini chiede di 'radere al suolo i campi rom' e Vannacci parla di 'responsabilità morale del sindaco'. Una retorica di punizione collettiva etnica che richiama la logica nazista, non di grado, ma di sostanza."
 ---
 Milano - La tragica morte di Cecilia De Astis, la settantunenne milanese investita e uccisa da quattro bambini rom di età compresa tra gli 11 e i 13 anni a bordo di un'auto rubata, ha scatenato una reazione politica che dovrebbe far riflettere ogni cittadino europeo consapevole della propria storia.
 

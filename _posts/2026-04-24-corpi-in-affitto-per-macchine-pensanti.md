@@ -23,7 +23,7 @@ tags:
 image: /assets/images/uploads/IMG_7179.webp
 image_caption: Il sito rentahuman. ai
 image_alt: La pagina del sito www.rentahuman.ai
-excerpt: RentAHuman.ai è una piattaforma dove gli agenti di intelligenza artificiale noleggiano esseri umani per compiti fisici che i robot non sanno ancora svolgere. Un modello che inverte la storia del lavoro — non più l'uomo che usa lo strumento, ma lo strumento che usa l'uomo — sollevando interrogativi profondi su alienazione, tutele contrattuali e il futuro della gig economy nell'era dell'AI autonoma.
+excerpt: RentAHuman.ai è una piattaforma dove gli agenti di intelligenza artificiale noleggiano esseri umani per compiti fisici che i robot non sanno ancora svolgere. Un modello che inverte la storia del lavoro (non più l'uomo che usa lo strumento, ma lo strumento che usa l'uomo), sollevando interrogativi profondi su alienazione, tutele contrattuali e il futuro della gig economy nell'era dell'AI autonoma.
 focus_keyword: intelligenza artificiale affitta umani
 ---
 

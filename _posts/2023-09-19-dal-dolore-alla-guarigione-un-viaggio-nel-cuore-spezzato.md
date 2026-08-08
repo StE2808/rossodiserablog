@@ -6,10 +6,10 @@ last_modified_at: 2026-04-30 10:44:43 +0200
 author: stefano-vozzi
 image: /assets/images/2023/09/ste_spi_a_broken_heart_style_drawing_minimalist-s_750_1c72fa8c-3805-423c-867d-a412bc202453.webp
 image_alt: "Illustrazione minimalista di un cuore spezzato, simbolo della sindrome di Takotsubo o sindrome del cuore spezzato"
-description: "La sindrome di Takotsubo o cuore spezzato: una vera cardiomiopatia causata da shock emotivo. Il cuore assume la forma di una trappola giapponese — e poi guarisce."
+description: "La sindrome di Takotsubo o cuore spezzato: una vera cardiomiopatia causata da shock emotivo. Il cuore assume la forma di una trappola giapponese, e poi guarisce."
 seo_title: "Sindrome di Takotsubo: quando il cuore si spezza davvero"
 focus_keyword: sindrome di Takotsubo
-excerpt: "La sindrome di Takotsubo non è solo una metafora: è una vera cardiomiopatia che imita i sintomi di un attacco cardiaco, scatenata da un forte stress emotivo. Il cuore si deforma assumendo la forma di una trappola giapponese — e poi, per fortuna, guarisce."
+excerpt: "La sindrome di Takotsubo non è solo una metafora: è una vera cardiomiopatia che imita i sintomi di un attacco cardiaco, scatenata da un forte stress emotivo. Il cuore si deforma assumendo la forma di una trappola giapponese, e poi, per fortuna, guarisce."
 category: scienza-tecnologia
 tags: ["anima", "attacco cardiaco", "cardiomiopatia", "cuore", "dolore", "medicina", "Romanticismo", "sindrome del cuore spezzato", "sindrome di Takotsubo", "speranza.", "takotsubo"]
 ---

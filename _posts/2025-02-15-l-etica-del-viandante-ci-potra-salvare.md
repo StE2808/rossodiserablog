@@ -26,7 +26,7 @@ tags:
   - Viandante
 image: /assets/images/2025/02/viandante2.webp
 image_alt: Immagine di copertina dell'articolo
-excerpt: "Il viandante attraversa il tempo con passo leggero: non turista né pellegrino, ma presenza che ascolta e si trasforma. Cammina senza accumulare, osserva senza dominare. In un'epoca di sfruttamento frenetico, la sua etica dell'essenziale — prendere solo il necessario, lasciare il mondo migliore — potrebbe insegnarci a rispettare ciò che attraversiamo."
+excerpt: "Il viandante attraversa il tempo con passo leggero: non turista né pellegrino, ma presenza che ascolta e si trasforma. Cammina senza accumulare, osserva senza dominare. In un'epoca di sfruttamento frenetico, la sua etica dell'essenziale (prendere solo il necessario, lasciare il mondo migliore) potrebbe insegnarci a rispettare ciò che attraversiamo."
 focus_keyword: ''
 ---
 C'è un'antica figura che attraversa il tempo con passo leggero e sguardo attento: il viandante. Non è un turista, non è un pellegrino, non è un semplice camminatore. È qualcosa di più: un individuo che sceglie di [muoversi nel mondo senza possederlo](https://rossodiserablog.it/e-morto-il-presidente-pepe-mujica-una-vita-spesa-per-il-diri/), che vive il viaggio come forma di ascolto e trasformazione. E se fosse proprio la sua etica a offrirci una via d'uscita dal caos moderno?

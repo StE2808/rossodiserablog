@@ -19,7 +19,7 @@ tags:
 image: /assets/images/2025/08/img_6714.webp
 image_alt: "Facciata del centro sociale Leoncavallo di Milano con murales e striscioni di solidarietà"
 description: "Lo sgombero del Leoncavallo cancella decenni di solidarietà: sussidi abitativi, corsi per immigrati, assistenza legale gratuita, tutto chiamato crimine."
-excerpt: "Con lo sgombero del Leoncavallo non è stato eliminato solo un edificio occupato: è stata smantellata una rete di solidarietà che suppliva alle carenze dello Stato. Corsi per immigrati, sportelli sanitari, assistenza legale, distribuzione alimentare — tutto spazzato via in nome dell'ordine."
+excerpt: "Con lo sgombero del Leoncavallo non è stato eliminato solo un edificio occupato: è stata smantellata una rete di solidarietà che suppliva alle carenze dello Stato. Corsi per immigrati, sportelli sanitari, assistenza legale, distribuzione alimentare: tutto spazzato via in nome dell'ordine."
 ---
 Lo sgombero del centro sociale Leoncavallo rappresenta l'ennesimo capitolo di una strategia che considera ogni forma di aggregazione dal basso come un pericolo da neutralizzare. Con un colpo di ruspa non è stato eliminato solo un edificio occupato, ma smantellata un'intera rete di solidarietà che per decenni ha supplito alle carenze dello Stato sociale.
 

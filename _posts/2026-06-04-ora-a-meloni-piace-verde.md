@@ -18,7 +18,7 @@ tags:
 image: /assets/images/uploads/IMG_7286.webp
 image_caption: Panorama
 image_alt: Panorama
-excerpt: La Commissione Europea ha concesso all'Italia 14 miliardi di flessibilità energetica per il biennio 2025–2026. Il governo Meloni presenta la misura come un successo politico, ma si tratta di uno strumento congiunturale di sostegno alle filiere — non di una deroga agli obiettivi climatici. Bruxelles chiede anzi di accelerare su elettrificazione e rinnovabili, le stesse direttrici che il governo ha frenato per tre anni.
+excerpt: La Commissione Europea ha concesso all'Italia 14 miliardi di flessibilità energetica per il biennio 2025–2026. Il governo Meloni presenta la misura come un successo politico, ma si tratta di uno strumento congiunturale di sostegno alle filiere, non di una deroga agli obiettivi climatici. Bruxelles chiede anzi di accelerare su elettrificazione e rinnovabili, le stesse direttrici che il governo ha frenato per tre anni.
 focus_keyword: flessibilità energetica UE Italia 2026
 ---
 

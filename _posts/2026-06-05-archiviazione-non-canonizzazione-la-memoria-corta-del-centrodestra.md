@@ -25,7 +25,7 @@ tags:
 image: /assets/images/uploads/IMG_7288.webp
 image_caption: Silvio Berlusconi
 image_alt: Silvio Berlusconi in un disegno che lo ritrae come Santo con l'aureola
-excerpt: "L'archiviazione del gip di Firenze sulle stragi del '93 non è una riabilitazione. Dell'Utri resta condannato in via definitiva per concorso esterno in associazione mafiosa, e la Cassazione ha accertato che Berlusconi era al corrente dei suoi contatti con Cosa Nostra. Il trionfalismo di Meloni, Marina e Barbara Berlusconi distorce la realtà giudiziaria: molte accuse contro il Cavaliere non caddero per infondatezza, ma per prescrizioni e leggi ad personam. Un'archiviazione dice che non bastava per processare — non che tutto fosse innocente."
+excerpt: "L'archiviazione del gip di Firenze sulle stragi del '93 non è una riabilitazione. Dell'Utri resta condannato in via definitiva per concorso esterno in associazione mafiosa, e la Cassazione ha accertato che Berlusconi era al corrente dei suoi contatti con Cosa Nostra. Il trionfalismo di Meloni, Marina e Barbara Berlusconi distorce la realtà giudiziaria: molte accuse contro il Cavaliere non caddero per infondatezza, ma per prescrizioni e leggi ad personam. Un'archiviazione dice che non bastava per processare, non che tutto fosse innocente."
 focus_keyword: archiviazione Dell'Utri Berlusconi stragi 1993
 ---
 
