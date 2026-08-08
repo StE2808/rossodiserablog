@@ -214,7 +214,7 @@ def cmd_verify(args):
     return 1 if rotti else 0
 
 
-def _apply(transform, args, verbo):
+def _apply(transform, args, verbo, verbo_dry):
     paths = [POSTS_DIR / n for n in args.file] if getattr(args, "file", None) else sorted(POSTS_DIR.glob("*.md"))
     toccati = []
     for path in paths:
@@ -224,18 +224,18 @@ def _apply(transform, args, verbo):
             if not args.dry_run:
                 path.write_text(nuovo, encoding="utf-8")
             toccati.append(path.name)
-    print("{}: {}".format("da " + verbo if args.dry_run else verbo, len(toccati)))
+    print("{}: {}".format(verbo_dry if args.dry_run else verbo, len(toccati)))
     for n in toccati:
         print("  {}".format(n))
     return 0
 
 
 def cmd_to_accordion(args):
-    return _apply(to_accordion, args, "convertiti")
+    return _apply(to_accordion, args, "convertiti", "da convertire")
 
 
 def cmd_sync_visible(args):
-    return _apply(sync_visible, args, "sincronizzati")
+    return _apply(sync_visible, args, "sincronizzati", "da sincronizzare")
 
 
 def main():

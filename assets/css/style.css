@@ -1860,3 +1860,48 @@ footer {
         -webkit-overflow-scrolling: touch;
     }
 }
+
+/* FAQ a menu a tendina */
+.faq-item {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.faq-item > summary {
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding: 0.85rem 0;
+}
+
+.faq-item > summary::-webkit-details-marker {
+    display: none;
+}
+
+.faq-item > summary::before {
+    content: "+";
+    font-weight: 700;
+    line-height: 1;
+    flex: 0 0 auto;
+    opacity: 0.55;
+}
+
+.faq-item[open] > summary::before {
+    content: "\2212";
+}
+
+.faq-item > summary h3 {
+    display: inline;
+    margin: 0;
+    font-size: 1.05rem;
+    line-height: 1.45;
+}
+
+.faq-item > summary:hover h3 {
+    text-decoration: underline;
+}
+
+.faq-item > p {
+    margin: 0 0 1rem 1.6rem;
+}

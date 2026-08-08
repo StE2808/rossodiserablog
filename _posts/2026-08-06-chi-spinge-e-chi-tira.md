@@ -95,25 +95,40 @@ Resta l'attrito. Era un servizio che nessuno aveva progettato, e che nessuno ha 
 
 ## Domande frequenti
 
-**Cosa significa push e pull applicato a internet?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa significa push e pull applicato a internet?</h3></summary>
 
 Push e pull sono le due direzioni con cui l'informazione ti raggiunge online. Nel pull sei tu ad andare a cercarla, come quando digiti una ricerca o apri un archivio. Nel push è qualcun altro a mandartela, come una notifica o un post che scorre nel feed. Internet è nata pull, una biblioteca da consultare, ed è diventata in gran parte push, un flusso che arriva da solo, spesso travestendosi da pull per farti sentire ancora tu a scegliere.
 
-**Cos'è la manipolazione algoritmica?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la manipolazione algoritmica?</h3></summary>
 
 È l'insieme di meccanismi con cui un sistema decide cosa farti vedere, con quale frequenza e in che ordine, senza che tu lo abbia chiesto esplicitamente. Agisce attraverso ripetizione, definizione dell'agenda, leva emotiva, personalizzazione e omissione selettiva. Non richiede contenuti falsi: basta selezionare, ordinare e confezionare ciò che è vero in modo da orientare l'attenzione.
 
-**Perché gli assistenti AI sono più difficili da riconoscere come manipolazione?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché gli assistenti AI sono più difficili da riconoscere come manipolazione?</h3></summary>
 
 Perché sono formalmente pull: rispondono solo quando li interpelli, senza notifiche né interruzioni, e questo abbassa la guardia di chi li usa. La selezione, però, si sposta dal "cosa mostrarti" al "come sintetizzarlo": cosa mettere per primo, cosa tacere, con quale tono. Gli assistenti tendono inoltre all'assecondamento delle premesse dell'utente e, quando hanno memoria, costruiscono un profilo dall'interno, sulla base di ciò che l'utente stesso racconta.
 
-**Cosa si intende per "just in time della persuasione"?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa si intende per "just in time della persuasione"?</h3></summary>
 
 È il parallelo con il modello produttivo Toyota: come il just in time fabbrica solo ciò che serve nel momento in cui serve, la persuasione assistita dall'intelligenza artificiale non produce più un messaggio unico per un pubblico di massa, ma una versione su misura, calibrata sul singolo utente e generata nel momento esatto in cui la richiede.
 
-**Come ci si difende dalla manipolazione algoritmica?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come ci si difende dalla manipolazione algoritmica?</h3></summary>
 
 Le difese che funzionano davvero sono verificabili e a basso sforzo: riformulare la stessa domanda con la premessa opposta e vedere se la risposta cambia, tenere almeno una fonte che dà fastidio, lasciar passare una notte tra impulso e reazione, e usare gli strumenti come strumenti, chiedendo procedure e non verdetti, invece che come oracoli. La diffidenza continua, al contrario, non funziona: è estenuante e genera cinismo, non lucidità.
+
+</details>
 
 <script type="application/ld+json">
 {
