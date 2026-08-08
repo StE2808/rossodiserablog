@@ -90,7 +90,7 @@ Il 23 febbraio 2024 a Pisa la polizia ha caricato un corteo pacifico di studenti
 <details class="faq-item" markdown="1">
 <summary><h3>Quali leggi italiane vengono citate come esempi di criminalizzazione del dissenso?</h3></summary>
 
-Il decreto anti-rave del 2022 prevede pene da tre a sei anni per raduni non autorizzati, con una formulazione così elastica che Amnesty ne ha chiesto l'abrogazione. Il decreto sicurezza del 2025 rende reato sedersi in strada e prevede il carcere per resistenza passiva. Ultima Generazione ha collezionato 2.000 denunce, 180 procedimenti e 90 fogli di via, con accuse di associazione a delinquere per aver bloccato il traffico.
+Il decreto anti-rave del 2022 prevede pene da tre a sei anni per raduni non autorizzati, con una formulazione così elastica che Amnesty ne ha chiesto l'abrogazione. Il [decreto sicurezza del 2025](/dietro-il-decreto-sicurezza-l-emergenza-inesistente-che-mina/) rende reato sedersi in strada e prevede il carcere per resistenza passiva. Ultima Generazione ha collezionato 2.000 denunce, 180 procedimenti e 90 fogli di via, con accuse di associazione a delinquere per aver bloccato il traffico.
 
 </details>
 

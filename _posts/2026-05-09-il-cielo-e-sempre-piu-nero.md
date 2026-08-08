@@ -112,7 +112,7 @@ Trump ha ordinato la pubblicazione di 162 file desecretati sugli UFO mentre il s
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa è successo alla flotilla di aiuti per Gaza nel 2026?</h3></summary>
 
-Il 30 aprile 2026, la marina israeliana ha intercettato 22 delle 58 navi della Global Sumud Flotilla in acque internazionali al largo di Creta. 175 attivisti sono stati sequestrati e trasferiti su navi da guerra. Il primo ministro spagnolo Pedro Sánchez ha dichiarato che Israele ha violato il diritto internazionale attaccando una flottiglia civile in acque che non gli appartengono.
+Il 30 aprile 2026, la marina israeliana ha intercettato 22 delle 58 navi della [Global Sumud Flotilla](/dall-economia-del-genocidio-alla-resistenza-civile-solidarie/) in acque internazionali al largo di Creta. 175 attivisti sono stati sequestrati e trasferiti su navi da guerra. Il primo ministro spagnolo Pedro Sánchez ha dichiarato che Israele ha violato il diritto internazionale attaccando una flottiglia civile in acque che non gli appartengono.
 
 </details>
 

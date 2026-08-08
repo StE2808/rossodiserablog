@@ -68,7 +68,7 @@ Il 26 gennaio Abderrahim Mansouri, 28 anni, è stato ucciso con un colpo alla te
 <details class="faq-item" markdown="1">
 <summary><h3>Come aveva reagito il governo al caso Rogoredo prima che emergesse la verità?</h3></summary>
 
-Immediatamente dopo i fatti, Salvini e Piantedosi si erano schierati col poliziotto affermando 'Più legittima difesa di così'. Il governo ha usato il caso per inserire lo scudo penale nel decreto Sicurezza, mentre Meloni accusava i magistrati di 'doppiopesismo' e tutta la maggioranza gridava 'Io sto col poliziotto', prima ancora che la magistratura potesse fare il suo lavoro.
+Immediatamente dopo i fatti, Salvini e Piantedosi si erano schierati col poliziotto affermando 'Più legittima difesa di così'. Il governo ha usato il caso per inserire lo scudo penale nel [decreto Sicurezza](/dietro-il-decreto-sicurezza-l-emergenza-inesistente-che-mina/), mentre Meloni accusava i magistrati di 'doppiopesismo' e tutta la maggioranza gridava 'Io sto col poliziotto', prima ancora che la magistratura potesse fare il suo lavoro.
 
 </details>
 
