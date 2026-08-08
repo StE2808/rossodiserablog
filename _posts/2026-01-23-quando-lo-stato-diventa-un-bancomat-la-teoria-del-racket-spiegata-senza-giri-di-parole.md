@@ -151,21 +151,21 @@ Max Horkheimer, filosofo della Scuola di Francoforte, usava il termine 'racket' 
 <details class="faq-item" markdown="1">
 <summary><h3>Come funziona il racket istituzionale nella politica italiana?</h3></summary>
 
-L'articolo descrive un ciclo in sei fasi: un settore economico finanzia campagne e think tank, i think tank producono studi che giustificano riforme specifiche, i politici propongono quelle riforme, commissioni composte da esperti legati al settore le perfezionano, le leggi vengono approvate e infine le risorse pubbliche iniziano a fluire verso quel settore. Come esempio concreto viene citata la sanità pubblica italiana, dove si tagliano medici e infermieri mentre crescono i fondi alle strutture private convenzionate.
+Il ciclo ha sei fasi: un settore economico finanzia campagne e think tank, i think tank producono studi che giustificano riforme specifiche, i politici propongono quelle riforme, commissioni composte da esperti legati al settore le perfezionano, le leggi vengono approvate e infine le risorse pubbliche iniziano a fluire verso quel settore. L'esempio concreto è la sanità pubblica italiana, dove si tagliano medici e infermieri mentre crescono i fondi alle strutture private convenzionate.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>Come si può contrastare la cattura istituzionale?</h3></summary>
 
-L'articolo propone due livelli di risposta. Il primo è semantico: chiamare le cose con il loro nome, usando termini come 'estrazione', 'cattura istituzionale' e 'racket' invece degli eufemismi ufficiali. Il secondo è costruire dal basso forme di organizzazione alternative (reti di mutuo aiuto, economie cooperative, spazi di democrazia diretta) che sfuggano alla logica delle istituzioni catturate.
+Le risposte sono su due livelli. Il primo è semantico: chiamare le cose con il loro nome, usando termini come 'estrazione', 'cattura istituzionale' e 'racket' invece degli eufemismi ufficiali. Il secondo è costruire dal basso forme di organizzazione alternative (reti di mutuo aiuto, economie cooperative, spazi di democrazia diretta) che sfuggano alla logica delle istituzioni catturate.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>In quale contesto storico Horkheimer sviluppò la teoria del racket?</h3></summary>
 
-Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. L'articolo paragona quella crisi alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune.
+Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. Quella crisi somiglia alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune e sempre più gli interessi che le hanno catturate.
 
 </details>
 
@@ -187,7 +187,7 @@ Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osserv
       "name": "Come funziona il racket istituzionale nella politica italiana?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo descrive un ciclo in sei fasi: un settore economico finanzia campagne e think tank, i think tank producono studi che giustificano riforme specifiche, i politici propongono quelle riforme, commissioni composte da esperti legati al settore le perfezionano, le leggi vengono approvate e infine le risorse pubbliche iniziano a fluire verso quel settore. Come esempio concreto viene citata la sanità pubblica italiana, dove si tagliano medici e infermieri mentre crescono i fondi alle strutture private convenzionate."
+        "text": "Il ciclo ha sei fasi: un settore economico finanzia campagne e think tank, i think tank producono studi che giustificano riforme specifiche, i politici propongono quelle riforme, commissioni composte da esperti legati al settore le perfezionano, le leggi vengono approvate e infine le risorse pubbliche iniziano a fluire verso quel settore. L'esempio concreto è la sanità pubblica italiana, dove si tagliano medici e infermieri mentre crescono i fondi alle strutture private convenzionate."
       }
     },
     {
@@ -195,7 +195,7 @@ Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osserv
       "name": "Come si può contrastare la cattura istituzionale?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo propone due livelli di risposta. Il primo è semantico: chiamare le cose con il loro nome, usando termini come 'estrazione', 'cattura istituzionale' e 'racket' invece degli eufemismi ufficiali. Il secondo è costruire dal basso forme di organizzazione alternative (reti di mutuo aiuto, economie cooperative, spazi di democrazia diretta) che sfuggano alla logica delle istituzioni catturate."
+        "text": "Le risposte sono su due livelli. Il primo è semantico: chiamare le cose con il loro nome, usando termini come 'estrazione', 'cattura istituzionale' e 'racket' invece degli eufemismi ufficiali. Il secondo è costruire dal basso forme di organizzazione alternative (reti di mutuo aiuto, economie cooperative, spazi di democrazia diretta) che sfuggano alla logica delle istituzioni catturate."
       }
     },
     {
@@ -203,7 +203,7 @@ Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osserv
       "name": "In quale contesto storico Horkheimer sviluppò la teoria del racket?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. L'articolo paragona quella crisi alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune."
+        "text": "Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. Quella crisi somiglia alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune e sempre più gli interessi che le hanno catturate."
       }
     }
   ]

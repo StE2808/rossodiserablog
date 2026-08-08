@@ -90,14 +90,14 @@ Il 23 febbraio 2024 a Pisa la polizia ha caricato un corteo pacifico di studenti
 <details class="faq-item" markdown="1">
 <summary><h3>Quali leggi italiane vengono citate come esempi di criminalizzazione del dissenso?</h3></summary>
 
-L'articolo cita il decreto anti-rave del 2022, con pene da tre a sei anni per raduni non autorizzati (formulazione così elastica che Amnesty ne ha chiesto l'abrogazione) e il decreto sicurezza del 2025, che rende reato sedersi in strada e prevede il carcere per resistenza passiva. Ultima Generazione ha collezionato 2.000 denunce, 180 procedimenti e 90 fogli di via, con accuse di associazione a delinquere per aver bloccato il traffico.
+Il decreto anti-rave del 2022 prevede pene da tre a sei anni per raduni non autorizzati, con una formulazione così elastica che Amnesty ne ha chiesto l'abrogazione. Il decreto sicurezza del 2025 rende reato sedersi in strada e prevede il carcere per resistenza passiva. Ultima Generazione ha collezionato 2.000 denunce, 180 procedimenti e 90 fogli di via, con accuse di associazione a delinquere per aver bloccato il traffico.
 
 </details>
 
 <details class="faq-item" markdown="1">
 <summary><h3>Come si manifesta la 'sindrome del nemico interno' nelle democrazie occidentali?</h3></summary>
 
-L'articolo descrive una grammatica comune a Italia, Francia, Regno Unito e USA: prima la ridefinizione linguistica (la protesta diventa terrorismo), poi la criminalizzazione preventiva (fogli di via, divieti prima di qualsiasi reato), quindi la delegittimazione del manifestante come infiltrato o estremista, e infine la sproporzione punitiva con pene altissime che servono da avvertimento. In Francia a Sainte-Soline il movimento è stato sciolto per decreto dopo centinaia di feriti. Nel Regno Unito il Public Order Act 2023 punisce chi si incatena con quasi un anno di carcere.
+La grammatica è comune a Italia, Francia, Regno Unito e USA: prima la ridefinizione linguistica (la protesta diventa terrorismo), poi la criminalizzazione preventiva (fogli di via e divieti prima di qualsiasi reato), quindi la delegittimazione del manifestante come infiltrato o estremista, infine la sproporzione punitiva. In Francia a Sainte-Soline il movimento è stato sciolto per decreto dopo centinaia di feriti; nel Regno Unito il Public Order Act 2023 punisce chi si incatena con quasi un anno di carcere.
 
 </details>
 
@@ -119,7 +119,7 @@ L'articolo descrive una grammatica comune a Italia, Francia, Regno Unito e USA: 
       "name": "Quali leggi italiane vengono citate come esempi di criminalizzazione del dissenso?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo cita il decreto anti-rave del 2022, con pene da tre a sei anni per raduni non autorizzati (formulazione così elastica che Amnesty ne ha chiesto l'abrogazione) e il decreto sicurezza del 2025, che rende reato sedersi in strada e prevede il carcere per resistenza passiva. Ultima Generazione ha collezionato 2.000 denunce, 180 procedimenti e 90 fogli di via, con accuse di associazione a delinquere per aver bloccato il traffico."
+        "text": "Il decreto anti-rave del 2022 prevede pene da tre a sei anni per raduni non autorizzati, con una formulazione così elastica che Amnesty ne ha chiesto l'abrogazione. Il decreto sicurezza del 2025 rende reato sedersi in strada e prevede il carcere per resistenza passiva. Ultima Generazione ha collezionato 2.000 denunce, 180 procedimenti e 90 fogli di via, con accuse di associazione a delinquere per aver bloccato il traffico."
       }
     },
     {
@@ -127,7 +127,7 @@ L'articolo descrive una grammatica comune a Italia, Francia, Regno Unito e USA: 
       "name": "Come si manifesta la 'sindrome del nemico interno' nelle democrazie occidentali?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo descrive una grammatica comune a Italia, Francia, Regno Unito e USA: prima la ridefinizione linguistica (la protesta diventa terrorismo), poi la criminalizzazione preventiva (fogli di via, divieti prima di qualsiasi reato), quindi la delegittimazione del manifestante come infiltrato o estremista, e infine la sproporzione punitiva con pene altissime che servono da avvertimento. In Francia a Sainte-Soline il movimento è stato sciolto per decreto dopo centinaia di feriti. Nel Regno Unito il Public Order Act 2023 punisce chi si incatena con quasi un anno di carcere."
+        "text": "La grammatica è comune a Italia, Francia, Regno Unito e USA: prima la ridefinizione linguistica (la protesta diventa terrorismo), poi la criminalizzazione preventiva (fogli di via e divieti prima di qualsiasi reato), quindi la delegittimazione del manifestante come infiltrato o estremista, infine la sproporzione punitiva. In Francia a Sainte-Soline il movimento è stato sciolto per decreto dopo centinaia di feriti; nel Regno Unito il Public Order Act 2023 punisce chi si incatena con quasi un anno di carcere."
       }
     }
   ]

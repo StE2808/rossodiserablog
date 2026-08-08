@@ -116,7 +116,7 @@ La giustificazione ufficiale è stata il narcotraffico: Maduro sarebbe a capo de
 <details class="faq-item" markdown="1">
 <summary><h3>I cambi di regime imposti dagli Stati Uniti hanno mai funzionato?</h3></summary>
 
-La ricercatrice Lindsey O'Rourke del Boston College ha studiato 64 operazioni di cambio di regime condotte dagli USA durante la Guerra Fredda: meno del 40% ha funzionato. L'articolo cita tre casi emblematici: l'Afghanistan, con vent'anni di guerra finiti con i talebani di nuovo al potere; l'Iraq, dove l'eliminazione di Saddam ha prodotto il caos e l'ISIS; la Libia, dove dopo Gheddafi il paese è diviso tra milizie che si sparano ancora addosso.
+La ricercatrice Lindsey O'Rourke del Boston College ha studiato 64 operazioni di cambio di regime condotte dagli USA durante la Guerra Fredda: meno del 40% ha funzionato. Tre casi lo mostrano bene: l'Afghanistan, con vent'anni di guerra finiti con i talebani di nuovo al potere; l'Iraq, dove l'eliminazione di Saddam ha prodotto il caos e l'ISIS; la Libia, dove dopo Gheddafi il paese è diviso tra milizie che si sparano ancora addosso.
 
 </details>
 
@@ -146,7 +146,7 @@ La ricercatrice Lindsey O'Rourke del Boston College ha studiato 64 operazioni di
       "name": "I cambi di regime imposti dagli Stati Uniti hanno mai funzionato?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La ricercatrice Lindsey O'Rourke del Boston College ha studiato 64 operazioni di cambio di regime condotte dagli USA durante la Guerra Fredda: meno del 40% ha funzionato. L'articolo cita tre casi emblematici: l'Afghanistan, con vent'anni di guerra finiti con i talebani di nuovo al potere; l'Iraq, dove l'eliminazione di Saddam ha prodotto il caos e l'ISIS; la Libia, dove dopo Gheddafi il paese è diviso tra milizie che si sparano ancora addosso."
+        "text": "La ricercatrice Lindsey O'Rourke del Boston College ha studiato 64 operazioni di cambio di regime condotte dagli USA durante la Guerra Fredda: meno del 40% ha funzionato. Tre casi lo mostrano bene: l'Afghanistan, con vent'anni di guerra finiti con i talebani di nuovo al potere; l'Iraq, dove l'eliminazione di Saddam ha prodotto il caos e l'ISIS; la Libia, dove dopo Gheddafi il paese è diviso tra milizie che si sparano ancora addosso."
       }
     }
   ]

@@ -113,7 +113,7 @@ Nel software il fork consiste nel copiare il codice sorgente di un progetto, mod
 <details class="faq-item" markdown="1">
 <summary><h3>Quali scenari si aprono per la destra italiana nei prossimi due anni?</h3></summary>
 
-L'articolo delinea tre scenari per i prossimi 18-24 mesi: la stabilizzazione competitiva, con Vannacci kingmaker tra il 5 e l'8%; l'accelerazione cannibale, con un possibile 10-12% in caso di elezioni anticipate e crisi della Lega; la rottura della coalizione, se si aprisse spazio per una destra esplicitamente anti-NATO e anti-euro.
+Gli scenari sono tre, per i prossimi 18-24 mesi: la stabilizzazione competitiva, con Vannacci kingmaker tra il 5 e l'8%; l'accelerazione cannibale, con un possibile 10-12% in caso di elezioni anticipate e crisi della Lega; la rottura della coalizione, se si aprisse spazio per una destra esplicitamente anti-NATO e anti-euro.
 
 </details>
 
@@ -151,7 +151,7 @@ L'articolo delinea tre scenari per i prossimi 18-24 mesi: la stabilizzazione com
       "name": "Quali scenari si aprono per la destra italiana nei prossimi due anni?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo delinea tre scenari per i prossimi 18-24 mesi: la stabilizzazione competitiva, con Vannacci kingmaker tra il 5 e l'8%; l'accelerazione cannibale, con un possibile 10-12% in caso di elezioni anticipate e crisi della Lega; la rottura della coalizione, se si aprisse spazio per una destra esplicitamente anti-NATO e anti-euro."
+        "text": "Gli scenari sono tre, per i prossimi 18-24 mesi: la stabilizzazione competitiva, con Vannacci kingmaker tra il 5 e l'8%; l'accelerazione cannibale, con un possibile 10-12% in caso di elezioni anticipate e crisi della Lega; la rottura della coalizione, se si aprisse spazio per una destra esplicitamente anti-NATO e anti-euro."
       }
     }
   ]

@@ -64,7 +64,7 @@ Il termine fu coniato da Tommaso Moro nel 1516 nel suo celebre trattato. È un t
 <details class="faq-item" markdown="1">
 <summary><h3>In che crisi politica si trova il governo Meloni nel 2026?</h3></summary>
 
-L'articolo è scritto nel momento in cui il governo Meloni (già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura) vede la propria coalizione sgretolarsi pezzo dopo pezzo. L'autore legge questo vuoto politico non solo come crisi ma come possibilità: le implosioni di governo non sono solo macerie, ma spazi liberati su cui qualcosa di nuovo può provare a radicarsi.
+Il governo Meloni, già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura, vede la propria coalizione sgretolarsi pezzo dopo pezzo. Questo vuoto politico non è solo una crisi, è anche una possibilità: le implosioni di governo non sono soltanto macerie, sono spazi liberati su cui qualcosa di nuovo può provare a radicarsi.
 
 </details>
 
@@ -93,7 +93,7 @@ Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava l
       "name": "In che crisi politica si trova il governo Meloni nel 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo è scritto nel momento in cui il governo Meloni (già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura) vede la propria coalizione sgretolarsi pezzo dopo pezzo. L'autore legge questo vuoto politico non solo come crisi ma come possibilità: le implosioni di governo non sono solo macerie, ma spazi liberati su cui qualcosa di nuovo può provare a radicarsi."
+        "text": "Il governo Meloni, già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura, vede la propria coalizione sgretolarsi pezzo dopo pezzo. Questo vuoto politico non è solo una crisi, è anche una possibilità: le implosioni di governo non sono soltanto macerie, sono spazi liberati su cui qualcosa di nuovo può provare a radicarsi."
       }
     },
     {

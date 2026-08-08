@@ -68,7 +68,7 @@ Le nuove norme escludono dall'utilizzo delle intercettazioni incrociate i reati 
 <details class="faq-item" markdown="1">
 <summary><h3>Cosa ha fatto la presidente della Commissione antimafia Colosimo con la lettera di Melillo?</h3></summary>
 
-La lettera di Melillo è datata 20 aprile 2026, ma la presidente della Commissione antimafia Colosimo non ne ha dato notizia alla commissione per diversi giorni. Un silenzio che, secondo l'articolo, "sa di complicità istituzionale".
+La lettera di Melillo è datata 20 aprile 2026 ed era indirizzata anche alla presidente della Commissione antimafia Colosimo, che però non ne ha dato notizia alla commissione per diversi giorni. Un silenzio che "sa di complicità istituzionale": la denuncia sull'arretramento delle indagini contro criminalità organizzata e terrorismo è rimasta ferma sul tavolo di chi dovrebbe vigilare.
 
 </details>
 
@@ -98,7 +98,7 @@ La lettera di Melillo è datata 20 aprile 2026, ma la presidente della Commissio
       "name": "Cosa ha fatto la presidente della Commissione antimafia Colosimo con la lettera di Melillo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La lettera di Melillo è datata 20 aprile 2026, ma la presidente della Commissione antimafia Colosimo non ne ha dato notizia alla commissione per diversi giorni. Un silenzio che, secondo l'articolo, \"sa di complicità istituzionale\"."
+        "text": "La lettera di Melillo è datata 20 aprile 2026 ed era indirizzata anche alla presidente della Commissione antimafia Colosimo, che però non ne ha dato notizia alla commissione per diversi giorni. Un silenzio che \"sa di complicità istituzionale\": la denuncia sull'arretramento delle indagini contro criminalità organizzata e terrorismo è rimasta ferma sul tavolo di chi dovrebbe vigilare."
       }
     }
   ]

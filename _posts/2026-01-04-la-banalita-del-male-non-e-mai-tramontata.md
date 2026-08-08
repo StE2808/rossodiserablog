@@ -86,7 +86,7 @@ Hannah Arendt coniò l'espressione 'banalità del male' nel 1963, osservando il 
 <details class="faq-item" markdown="1">
 <summary><h3>Quali sono esempi attuali di banalità del male?</h3></summary>
 
-L'articolo indica due esempi contemporanei: le sanzioni USA al Venezuela, che strangolano l'economia civile e sono seguite dall'invasione e al rapimento del presidente, e i bombardamenti israeliani su Gaza con migliaia di vittime civili. In entrambi i casi la violenza viene filtrata attraverso il linguaggio asettico della politica e della sicurezza nazionale, frammentando la responsabilità morale tra livelli decisionali.
+Due esempi contemporanei: le sanzioni USA al Venezuela, che strangolano l'economia civile e sono state seguite dall'invasione e dal rapimento del presidente, e i bombardamenti israeliani su Gaza con migliaia di vittime civili. In entrambi i casi la violenza viene filtrata attraverso il linguaggio asettico della politica e della sicurezza nazionale, frammentando la responsabilità morale tra livelli decisionali.
 
 </details>
 
@@ -115,7 +115,7 @@ Secondo Arendt, il male più pericoloso non è quello dei fanatici dichiarati, m
       "name": "Quali sono esempi attuali di banalità del male?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "L'articolo indica due esempi contemporanei: le sanzioni USA al Venezuela, che strangolano l'economia civile e sono seguite dall'invasione e al rapimento del presidente, e i bombardamenti israeliani su Gaza con migliaia di vittime civili. In entrambi i casi la violenza viene filtrata attraverso il linguaggio asettico della politica e della sicurezza nazionale, frammentando la responsabilità morale tra livelli decisionali."
+        "text": "Due esempi contemporanei: le sanzioni USA al Venezuela, che strangolano l'economia civile e sono state seguite dall'invasione e dal rapimento del presidente, e i bombardamenti israeliani su Gaza con migliaia di vittime civili. In entrambi i casi la violenza viene filtrata attraverso il linguaggio asettico della politica e della sicurezza nazionale, frammentando la responsabilità morale tra livelli decisionali."
       }
     },
     {

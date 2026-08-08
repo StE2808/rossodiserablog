@@ -114,7 +114,7 @@ La speranza chiede di abbassare le difese, di aprirsi al cambiamento, di fidarsi
 <details class="faq-item" markdown="1">
 <summary><h3>La sinistra deve scendere sul terreno della paura per competere elettoralmente?</h3></summary>
 
-No, secondo l'articolo. La sinistra non può adottare la strategia del capro espiatorio senza tradire sé stessa. Deve invece trovare modi nuovi, più emotivamente coinvolgenti, per raccontare la speranza, traducendo i valori in narrazioni che toccano le persone. Il vantaggio della speranza sulla paura è che costruisce invece di distruggere, unisce invece di dividere e libera invece di imprigionare.
+No. La sinistra non può adottare la strategia del capro espiatorio senza tradire sé stessa. Deve invece trovare modi nuovi, più emotivamente coinvolgenti, per raccontare la speranza, traducendo i valori in narrazioni che toccano le persone. Il vantaggio della speranza sulla paura è che costruisce invece di distruggere, unisce invece di dividere e libera invece di imprigionare.
 
 </details>
 
@@ -144,7 +144,7 @@ No, secondo l'articolo. La sinistra non può adottare la strategia del capro esp
       "name": "La sinistra deve scendere sul terreno della paura per competere elettoralmente?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No, secondo l'articolo. La sinistra non può adottare la strategia del capro espiatorio senza tradire sé stessa. Deve invece trovare modi nuovi, più emotivamente coinvolgenti, per raccontare la speranza, traducendo i valori in narrazioni che toccano le persone. Il vantaggio della speranza sulla paura è che costruisce invece di distruggere, unisce invece di dividere e libera invece di imprigionare."
+        "text": "No. La sinistra non può adottare la strategia del capro espiatorio senza tradire sé stessa. Deve invece trovare modi nuovi, più emotivamente coinvolgenti, per raccontare la speranza, traducendo i valori in narrazioni che toccano le persone. Il vantaggio della speranza sulla paura è che costruisce invece di distruggere, unisce invece di dividere e libera invece di imprigionare."
       }
     }
   ]
