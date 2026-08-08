@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
-# Chi riesce davvero a leggere il sito.
+# Il sito risponde? Controllo grezzo di raggiungibilita' per user agent.
 #
-# Il robots.txt e' una richiesta gentile, il firewall e' una porta: quando i due
-# dicono cose diverse vince il firewall. Questo script chiede al server, non al
-# robots.txt. Scoperto cosi' il 2026-08-09 che Cloudflare rispondeva 403 a
-# ChatGPT, Perplexity e Claude mentre il robots.txt li invitava a entrare.
+# ⚠️ NON DICE CHI E' BLOCCATO. Cloudflare verifica i crawler dall'IP di origine,
+# non dalla stringa che dichiarano: una richiesta che si spaccia per PerplexityBot
+# partendo da un IP qualunque viene respinta perche' e' un impostore, mentre il bot
+# vero passa. Il 2026-08-09 questo equivoco ha prodotto una diagnosi sbagliata
+# ("i bot AI sono bloccati") smentita dai dati reali di Cloudflare, dove gli stessi
+# crawler risultavano entrare senza problemi.
+#
+# Per sapere chi legge davvero il sito: Cloudflare -> AI Crawl Control -> Metriche.
 #
 # Uso: ./scripts/check_bot_access.sh [url]
 
