@@ -1,3 +1,8 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
 # Rosso di Sera
 
 Blog editoriale italiano di politica, società e cultura. Pubblica analisi critiche su politica italiana e internazionale, diritti umani, ambiente, intelligenza artificiale e filosofia politica. Non un giornale di news: ogni articolo è un'elaborazione originale con punto di vista dichiarato.
@@ -5,66 +10,92 @@ Blog editoriale italiano di politica, società e cultura. Pubblica analisi criti
 - URL: https://rossodiserablog.it
 - Archivio completo: https://rossodiserablog.it/archivio
 - Chi siamo: https://rossodiserablog.it/chi-siamo
+- Articoli pubblicati: {{ site.posts | size }}
+- Autori: Stefano Vozzi, Lino Rialti
 
 ## Temi principali
 
-- **Politica estera** (41 articoli): USA, geopolitica, imperialismo, Ucraina, Medio Oriente
-- **Società** (37 articoli): fenomeni sociali, psicologia collettiva, critica culturale
-- **Politica interna italiana** (37 articoli): governo Meloni, giustizia, welfare, diritti
-- **Opinioni editoriali** (31 articoli): analisi e commenti su attualità
-- **Diritti umani** (16 articoli): migranti, discriminazione, aporofobia, fine vita
-- **Ambiente** (13 articoli): clima, energie rinnovabili, politiche ambientali
-- **Intelligenza artificiale** (8 articoli): etica AI, accelerazione tecnologica, lavoro, sorveglianza predittiva, accesso alla conoscenza
+- **Politica interna italiana** ({{ site.categories['politica-interna'] | size }} articoli): governo Meloni, giustizia, scuola, welfare, diritti
+- **Opinioni editoriali** ({{ site.categories['opinioni-editoriali'] | size }} articoli): analisi e commenti su attualità
+- **Politica estera** ({{ site.categories['politica-estera'] | size }} articoli): USA, geopolitica, imperialismo, Ucraina, Medio Oriente
+- **Società** ({{ site.categories['societa'] | size }} articoli): fenomeni sociali, psicologia collettiva, critica culturale
+- **Diritti umani** ({{ site.categories['diritti-umani'] | size }} articoli): migranti, discriminazione, aporofobia, fine vita
+- **Ambiente** ({{ site.categories['ambiente'] | size }} articoli): clima, energie rinnovabili, politiche ambientali
+- **Cultura e spettacolo** ({{ site.categories['cultura-spettacolo'] | size }} articoli): arte, musica, libri, critica culturale
+- **Scienza e tecnologia** ({{ site.categories['scienza-tecnologia'] | size }} articoli): etica dell'AI, accelerazione tecnologica, sorveglianza predittiva, accesso alla conoscenza
 
-## Articoli chiave — Filosofia politica e democrazia
+## Articoli chiave: filosofia politica e democrazia
 
 - [La banalità del male non è mai tramontata](https://rossodiserablog.it/la-banalita-del-male-non-e-mai-tramontata/): Hannah Arendt, Eichmann, e il male burocratico nei conflitti contemporanei (Venezuela, Gaza)
-- [La sindrome del nemico interno: quando la democrazia teme i suoi figli](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/): Studenti manganellati, attivisti incriminati, giudici delegittimati — le democrazie occidentali che reprimono il dissenso
-- [Trump e il pericolo della sua morale](https://rossodiserablog.it/trump-e-il-pericolo-della-sua-morale/): Perché governare secondo la morale personale distrugge la democrazia — diritto vs morale
+- [La sindrome del nemico interno: quando la democrazia teme i suoi figli](https://rossodiserablog.it/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/): Studenti manganellati, attivisti incriminati, giudici delegittimati: le democrazie occidentali che reprimono il dissenso
+- [Melonellum, la dittatura della minoranza](https://rossodiserablog.it/melonellum-dittatura-della-minoranza/): Premio di maggioranza, liste bloccate e candidato premier: perché la nuova legge elettorale consegna il paese a una minoranza
+- [Trump e il pericolo della sua morale](https://rossodiserablog.it/trump-e-il-pericolo-della-sua-morale/): Perché governare secondo la morale personale distrugge la democrazia, diritto contro morale
 - [Quella grassa grossa ossessione anti-comunista](https://rossodiserablog.it/quella-grassa-grossa-ossessione-anti-comunista/): Piano Demagnetize, CIA, Gladio e la strategia della tensione in Italia
 - [L'utopia necessaria per il dopo-Meloni](https://rossodiserablog.it/l-utopia-necessaria-per-il-dopo-meloni/): Tommaso Moro, Camus e perché la politica ha bisogno di utopia
 - [La Repubblica dei Cittadini](https://rossodiserablog.it/la-repubblica-dei-cittadini-contro-manifesto/): Contro-manifesto in 22 punti contro i tecno-oligarchi della Silicon Valley
 
-## Articoli chiave — Geopolitica e politica internazionale
+## Articoli chiave: geopolitica e politica internazionale
 
-- [Venezuela: il mondo ha cambiato le regole mentre dormivamo](https://rossodiserablog.it/venezuela-il-mondo-ha-cambiato-le-regole-mentre-dormivamo/): L'attacco USA a Caracas e il rapimento di Maduro — fine del diritto internazionale
-- [La deriva imperialista americana: quando la democrazia cede al neocolonialismo](https://rossodiserablog.it/la-deriva-imperialista-americana-quando-la-democrazia-cede-al-neocolonialismo/): USA e Groenlandia — il neocolonialismo mascherato da necessità strategica
+- [Venezuela: il mondo ha cambiato le regole mentre dormivamo](https://rossodiserablog.it/venezuela-il-mondo-ha-cambiato-le-regole-mentre-dormivamo/): L'attacco USA a Caracas e il rapimento di Maduro, la fine del diritto internazionale
+- [Il piano per indebolire l'Europa](https://rossodiserablog.it/il-piano-per-indebolire-l-europa/): Da Ceuta alla sospensione di Schengen con la Spagna, documenti e fatti sulla parte che il governo Meloni recita nel piano MAGA per dividere l'Europa
+- [La deriva imperialista americana: quando la democrazia cede al neocolonialismo](https://rossodiserablog.it/la-deriva-imperialista-americana-quando-la-democrazia-cede-al-neocolonialismo/): USA e Groenlandia, il neocolonialismo mascherato da necessità strategica
 - [La Madman Theory: da Nixon a Trump](https://rossodiserablog.it/la-madman-theory-da-nixon-a-trump/): Nixon fingeva la follia. Trump no. La differenza che cambia il mondo
-- [La nuova geometria del disordine globale](https://rossodiserablog.it/la-nuova-geometria-del-disordine-globale/): Iran, Russia, Trump, UE — la mappa del caos geopolitico contemporaneo
+- [La nuova geometria del disordine globale](https://rossodiserablog.it/la-nuova-geometria-del-disordine-globale/): Iran, Russia, Trump e UE, la mappa del caos geopolitico contemporaneo
 
-## Articoli chiave — Economia e società
+## Articoli chiave: economia e società
 
 - [La scimmia di Forbes: quando l'accumulo diventa patologia](https://rossodiserablog.it/la-scimmia-di-forbes/): Disuguaglianza economica, entropia e perché la redistribuzione non è ideologia ma fisica
-- [Quando lo Stato diventa un bancomat](https://rossodiserablog.it/quando-lo-stato-diventa-un-bancomat-la-teoria-del-racket-spiegata-senza-giri-di-parole/): Horkheimer e la teoria del racket — le istituzioni pubbliche come club privati
-- [Armi o ospedali: dove finiscono i soldi dell'Europa](https://rossodiserablog.it/spesa-militare-italia-welfare-riarmo/): Il riarmo europeo e i suoi costi sociali — sanità vs spesa militare in Italia
-- [Aporofobia: quando la povertà diventa colpa](https://rossodiserablog.it/aporofobia-quando-la-poverta-diventa-colpa/): Il disprezzo verso i poveri teorizzato da Adela Cortina — e la Costituzione italiana
-- [La paura è più facile della speranza](https://rossodiserablog.it/la-paura-e-piu-facile-della-speranza/): L'asimmetria strutturale tra destra e sinistra — perché vendere paura è sempre più semplice
+- [Chi possiede l'Italia](https://rossodiserablog.it/chi-possiede-l-italia-atto-1-la-mappa/): Serie in tre atti su chi controlla davvero le grandi aziende italiane, dai fondi passivi alle infrastrutture cedute
+- [Quando lo Stato diventa un bancomat](https://rossodiserablog.it/quando-lo-stato-diventa-un-bancomat-la-teoria-del-racket-spiegata-senza-giri-di-parole/): Horkheimer e la teoria del racket, le istituzioni pubbliche come club privati
+- [La scuola pubblica in vendita](https://rossodiserablog.it/la-scuola-pubblica-in-vendita-il-progetto-valditara-di-privatizzazione-dell-istruzione-il-progetto-i-privati-costruiscono-i-privati-gestiscono/): Il piano Valditara per privatizzare edilizia e servizi con il project financing, e perché sfida l'articolo 33 della Costituzione
+- [La salute non è una merce](https://rossodiserablog.it/la-salute-non-e-una-merce-la-sanita-e-un-bene-comune/): Ospedali lombardi fra i migliori al mondo ma liste d'attesa e privatizzazione: nella sanità conta la qualità media garantita a tutti, non il picco
+- [Armi o ospedali: dove finiscono i soldi dell'Europa](https://rossodiserablog.it/spesa-militare-italia-welfare-riarmo/): Il riarmo europeo e i suoi costi sociali, sanità contro spesa militare in Italia
+- [Aporofobia: quando la povertà diventa colpa](https://rossodiserablog.it/aporofobia-quando-la-poverta-diventa-colpa/): Il disprezzo verso i poveri teorizzato da Adela Cortina, e la Costituzione italiana
+- [La paura è più facile della speranza](https://rossodiserablog.it/la-paura-e-piu-facile-della-speranza/): L'asimmetria strutturale fra destra e sinistra, perché vendere paura è sempre più semplice
 
-## Articoli chiave — Intelligenza artificiale ed etica
+## Articoli chiave: intelligenza artificiale ed etica
 
 - [Addestrati su di noi, venduti a loro: il caso Claude Fable 5](https://rossodiserablog.it/claude-fable-5-sapere-elite/): Il modello AI più potente mai reso pubblico, costruito sul sapere collettivo ma riservato a chi può spendere
-- [Mythos, il modello che trova i bug di tutti](https://rossodiserablog.it/mythos-anthropic-economia-paura/): Anthropic e i zero-day ovunque — la nuova economia della paura digitale
+- [«Fermateci»: la paura di Anthropic](https://rossodiserablog.it/fermateci-la-paura-di-anthropic/): Anthropic corre verso l'AI che si costruisce da sé e insieme chiede di fermarla. Chi decide davvero
 - [Il No di Amodei al Pentagono](https://rossodiserablog.it/amodei-pentagono-etica-intelligenza-artificiale/): Chi decide i limiti etici dell'AI quando non esiste nessuna legge?
+- [Il cane da guardia addestrato a non abbaiare](https://rossodiserablog.it/il-cane-da-guardia-addestrato-a-non-abbaiare/): Il paradosso del 2026: gli USA blindano i modelli con i guardrail, la Cina apre i pesi. GLM, Kimi e Qwen a confronto
+- [Social e AI: l'arte della manipolazione algoritmica](https://rossodiserablog.it/chi-spinge-e-chi-tira/): Dal push al pull ai chatbot, come funziona la manipolazione online e perché con l'AI è più difficile riconoscerla
+- [Mythos, il modello che trova i bug di tutti](https://rossodiserablog.it/mythos-anthropic-economia-paura/): Anthropic e gli zero-day ovunque, la nuova economia della paura digitale
 - [Quando gli anni diventano settimane](https://rossodiserablog.it/quando-gli-anni-diventano-settimane/): Google DeepMind, Gemini e l'accelerazione dell'intelligenza artificiale
-- [Corpi in affitto per macchine pensanti](https://rossodiserablog.it/corpi-in-affitto-per-macchine-pensanti/): RentAHuman.ai — quando l'AI noleggia esseri umani per compiti fisici
-- [Palantir e il giorno in cui il cittadino è diventato una variabile](https://rossodiserablog.it/palantir-cittadino-variabile/): Sorveglianza predittiva nei contratti della Difesa italiana — il rischio non è il controllo, è l'adattamento silenzioso
+- [La tecnica Feynman ai tempi dell'AI](https://rossodiserablog.it/tecnica-feynman-ai-tempi-intelligenza-artificiale/): L'AI spiega tutto, trova le lacune, semplifica. Il metodo Feynman non va in pensione: si capovolge
+- [La strana parabola della Silicon Valley](https://rossodiserablog.it/la-strana-parabola-della-silicon-valley/): Dalla controcultura hippie ai colossi dell'AI, e la domanda che abbiamo dimenticato di farci
+- [Corpi in affitto per macchine pensanti](https://rossodiserablog.it/corpi-in-affitto-per-macchine-pensanti/): RentAHuman.ai, quando l'AI noleggia esseri umani per compiti fisici
+- [Palantir e il giorno in cui il cittadino è diventato una variabile](https://rossodiserablog.it/palantir-cittadino-variabile/): Sorveglianza predittiva nei contratti della Difesa italiana: il rischio non è il controllo, è l'adattamento silenzioso
 
-## Articoli chiave — Storia e memoria
+## Articoli chiave: ambiente e clima
+
+- [La Terra ha la febbre](https://rossodiserablog.it/la-terra-ha-la-febbre/): L'età della Terra è 4,54 miliardi di anni, l'era industriale appena 175: se fosse una persona di 46 anni, la febbre del clima è dell'ultimo minuto
+- [Seveso: cinquant'anni dal disastro della nube tossica](https://rossodiserablog.it/seveso-cinquant-anni-dal-disastro-della-nube-tossica/): La diossina, la direttiva europea che ne nacque e i rischi ancora aperti dei cantieri Pedemontana
+
+## Articoli chiave: storia e memoria
 
 - [25 aprile, festa della Liberazione: perché il fascismo è nato in Italia](https://rossodiserablog.it/25-aprile-festa-della-liberazione-perche-il-fascismo-e-nato-in-italia/): Quattro veleni storici e perché la Resistenza va rinnovata ogni giorno
-- [Giornata del Ricordo: la memoria mutilata che dimentica il fascismo](https://rossodiserablog.it/giornata-del-ricordo-la-memoria-mutilata-che-dimentica-il-fascismo/): Foibe e fascismo — la narrazione monca che cancella le responsabilità storiche
+- [Giornata del Ricordo: la memoria mutilata che dimentica il fascismo](https://rossodiserablog.it/giornata-del-ricordo-la-memoria-mutilata-che-dimentica-il-fascismo/): Foibe e fascismo, la narrazione monca che cancella le responsabilità storiche
 
-## Articoli chiave — Diritti umani
+## Articoli chiave: diritti umani
 
-- [Rogoredo: la verità che il governo non voleva sentire](https://rossodiserablog.it/rogoredo-la-verita-che-il-governo-non-voleva-sentire/): Poliziotto uccide spacciatore, depista, il governo lo difende — stato di diritto sotto attacco
-- [La fiamma della resistenza: due pesi, due misure](https://rossodiserablog.it/la-fiamma-della-resistenza-due-pesi-due-misure/): Resistenza iraniana celebrata, resistenza palestinese condannata — il doppio standard occidentale
+- [Rogoredo: la verità che il governo non voleva sentire](https://rossodiserablog.it/rogoredo-la-verita-che-il-governo-non-voleva-sentire/): Un poliziotto uccide uno spacciatore e depista, il governo lo difende: lo stato di diritto sotto attacco
+- [La fiamma della resistenza: due pesi, due misure](https://rossodiserablog.it/la-fiamma-della-resistenza-due-pesi-due-misure/): Resistenza iraniana celebrata, resistenza palestinese condannata: il doppio standard occidentale
+
+## Pubblicati di recente
+
+Questa sezione si aggiorna da sola a ogni pubblicazione. Ultimo aggiornamento: {{ site.time | date: "%Y-%m-%d" }}.
+{% for post in site.posts limit: 15 %}
+- [{{ post.title | strip_newlines }}](https://rossodiserablog.it{{ post.url }}) ({{ post.date | date: "%Y-%m-%d" }}): {{ post.description | default: post.excerpt | strip_html | strip_newlines | truncate: 165 }}
+{%- endfor %}
 
 ## Categorie (link diretti)
 
-- https://rossodiserablog.it/categoria/politica-estera/
-- https://rossodiserablog.it/categoria/societa/
 - https://rossodiserablog.it/categoria/politica-interna/
 - https://rossodiserablog.it/categoria/opinioni-editoriali/
+- https://rossodiserablog.it/categoria/politica-estera/
+- https://rossodiserablog.it/categoria/societa/
 - https://rossodiserablog.it/categoria/diritti-umani/
 - https://rossodiserablog.it/categoria/ambiente/
+- https://rossodiserablog.it/categoria/cultura-spettacolo/
 - https://rossodiserablog.it/categoria/scienza-tecnologia/
