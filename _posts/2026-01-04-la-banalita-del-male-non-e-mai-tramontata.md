@@ -76,18 +76,26 @@ La domanda che dovremmo porci oggi è la stessa di allora: quanti di noi, nelle 
 
 ## Domande frequenti
 
-**Che cosa intendeva Hannah Arendt con 'banalità del male'?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cosa intendeva Hannah Arendt con 'banalità del male'?</h3></summary>
 
 Hannah Arendt coniò l'espressione 'banalità del male' nel 1963, osservando il processo ad Adolf Eichmann a Gerusalemme. Ciò che la colpì non fu la presenza di un mostro sadico, ma di un grigio burocrate incapace di pensare criticamente, che aveva organizzato deportazioni di massa considerandole semplicemente questioni amministrative.
 
-**Come si manifesta oggi la banalità del male secondo questo articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si manifesta oggi la banalità del male secondo questo articolo?</h3></summary>
 
 L'articolo indica due esempi contemporanei: le sanzioni USA al Venezuela, che strangolano l'economia civile e sono seguite dall'invasione e al rapimento del presidente, e i bombardamenti israeliani su Gaza con migliaia di vittime civili. In entrambi i casi la violenza viene filtrata attraverso il linguaggio asettico della politica e della sicurezza nazionale, frammentando la responsabilità morale tra livelli decisionali.
 
-**Perché il male burocratico è considerato più pericoloso di quello dei fanatici?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il male burocratico è considerato più pericoloso di quello dei fanatici?</h3></summary>
 
 Secondo Arendt, il male più pericoloso non è quello dei fanatici dichiarati, ma quello di chi smette di pensare criticamente e si nasconde dietro ordini, procedure e ragioni di Stato. Funzionari ordinari possono partecipare a violenze di massa semplicemente eseguendo le proprie mansioni, senza mai mettere in discussione le conseguenze morali delle proprie azioni.
 
+</details>
 
 <script type="application/ld+json">
 {

@@ -49,17 +49,26 @@ Il no al [referendum sulla separazione delle carriere](https://rossodiserablog.i
 
 ## Domande frequenti
 
-**Perché il centrosinistra ha perso le elezioni comunali di Venezia 2026?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il centrosinistra ha perso le elezioni comunali di Venezia 2026?</h3></summary>
 
 La sconfitta non è stata causata dalla divisione interna: da Renzi a Rifondazione il campo largo era unito. I fattori decisivi sono stati l'astensione di massa nelle periferie, la distanza tra la narrazione del centrosinistra e la percezione quotidiana dei cittadini, e l'incapacità di rispondere alla retorica della destra sull'immigrazione con argomenti efficaci.
 
-**Cos'è il metodo veneziano di cui parla Meloni?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il metodo veneziano di cui parla Meloni?</h3></summary>
 
 Il 'metodo veneziano' è la capacità della destra di vincere in città con forti disuguaglianze economiche trasformando la presenza straniera in spettro ('sostituzione etnica'), mentre il centrosinistra risponde con la retorica del campo largo. Meloni lo considera un modello esportabile a livello nazionale perché funziona anche quando l'opposizione è formalmente unita.
 
-**Qual è stato il ruolo dell'astensione nelle elezioni comunali di Venezia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è stato il ruolo dell'astensione nelle elezioni comunali di Venezia?</h3></summary>
 
 L'astensione ha avuto un ruolo determinante: le periferie veneziane hanno scelto la continuità restando a casa piuttosto che votare Martella. Anche il no al referendum sulla separazione delle carriere (che avrebbe potuto mobilitare l'elettorato progressista) non si è tramutato in voto alternativo alla destra.
+
+</details>
 
 <script type="application/ld+json">
 {

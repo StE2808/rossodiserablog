@@ -54,17 +54,26 @@ La pace non nasce dalla vittoria di una morale sulle altre — la stessa logica 
 
 ## Domande frequenti
 
-**Perché governare secondo la propria morale è pericoloso per la democrazia?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché governare secondo la propria morale è pericoloso per la democrazia?</h3></summary>
 
 La morale è personale e radicata in visioni del mondo spesso inconciliabili: ciò che è giusto per una persona può essere abominio per un'altra. Se il potere si fa interprete di una sola morale, l'altra metà della società si sente oppressa e tradita. È così che nasce la frattura: non più cittadini con opinioni diverse, ma nemici in guerra.
 
-**Qual è la differenza fondamentale tra diritto e morale nella convivenza democratica?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la differenza fondamentale tra diritto e morale nella convivenza democratica?</h3></summary>
 
 Il diritto non pretende di stabilire cosa sia il Bene assoluto, ma si limita a definire regole del gioco condivise: non chiede di condividere valori, ma di rispettare confini comuni. Si pone un gradino sotto le convinzioni più profonde, creando uno spazio neutro dove morali diverse possono coesistere senza annientarsi.
 
-**Come si collega la critica a Trump a quella a Meloni nell'articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si collega la critica a Trump a quella a Meloni nell'articolo?</h3></summary>
 
 L'articolo afferma che Trump ha annunciato e Meloni ha sottoscritto l'approccio di imporre la propria visione morale come criterio di giustizia, trasformando così lo Stato in strumento di parte. Entrambi i governi vengono descritti come esempi di questa degenerazione della democrazia liberale.
+
+</details>
 
 <script type="application/ld+json">
 {

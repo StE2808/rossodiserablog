@@ -48,17 +48,26 @@ Questo è il momento in cui il silenzio diventa complicità. Bisogna muoversi �
 
 ## Domande frequenti
 
-**Cosa è successo alla Global Sumud Flotilla?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa è successo alla Global Sumud Flotilla?</h3></summary>
 
 Nella notte tra il 29 e il 30 aprile 2026, la marina militare israeliana ha abbordato le imbarcazioni della Global Sumud Flotilla in acque internazionali al largo di Creta, sequestrandone oltre 22 e fermando circa 180 persone. I partecipanti riferiscono di essere stati presi a pugni, calci e trascinati con le mani legate: 34 risultano feriti, 60 hanno avviato uno sciopero della fame. Due attivisti (Thiago Ávila (brasiliano) e Saif Abukeshek (doppia cittadinanza palestinese-spagnola)) restano ancora detenuti.
 
-**Quanti palestinesi sono stati uccisi a Gaza dal 7 ottobre 2023?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanti palestinesi sono stati uccisi a Gaza dal 7 ottobre 2023?</h3></summary>
 
 Secondo i dati del Ministero della Salute di Gaza riportati dall'OCHA, tra il 7 ottobre 2023 e il 22 aprile 2026 sono stati uccisi 72.562 palestinesi e 172.320 feriti. Oltre 20.000 di questi morti sono bambini. Su una popolazione di 2,1 milioni, 9 persone su 10 sono state costrette ad abbandonare le proprie case. Più di mezzo milione di persone sta morendo di fame. Un rapporto ONU ha definito la fame come «crimine di guerra», documentando almeno 463 morti per fame tra cui 157 bambini.
 
-**Perché Gaza è la regione con più bambini amputati al mondo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Gaza è la regione con più bambini amputati al mondo?</h3></summary>
 
 Secondo i dati UNICEF, oltre 40.000 bambini hanno riportato lesioni permanenti a causa dei bombardamenti. Migliaia di loro hanno perso una o entrambe le gambe e hanno subito operazioni senza anestesia. Gaza è oggi la regione con il più alto numero di bambini amputati al mondo, un dato che l'ONU e le organizzazioni umanitarie internazionali documentano come conseguenza diretta dell'assedio e dei bombardamenti israeliani.
+
+</details>
 
 <script type="application/ld+json">
 {

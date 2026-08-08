@@ -67,18 +67,26 @@ Quando la Madman Theory non è più teoria ma realtà, il mondo intero diventa o
 
 ## Domande frequenti
 
-**Che cos'è la Madman Theory e chi la sviluppò?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è la Madman Theory e chi la sviluppò?</h3></summary>
 
 La Madman Theory fu sviluppata consapevolmente da Richard Nixon durante la Guerra Fredda: convincere i nemici che fosse irrazionale e imprevedibile abbastanza da usare armi nucleari, per ottenere concessioni attraverso la paura calcolata. Era una performance studiata insieme a Kissinger per fini strategici specifici.
 
-**Qual è la differenza fondamentale tra Nixon e Trump nell'applicare la Madman Theory?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la differenza fondamentale tra Nixon e Trump nell'applicare la Madman Theory?</h3></summary>
 
 Nixon recitava la follia come teatro politico calcolato: ogni mossa era studiata. Con Trump, secondo una sua ex portavoce, 'non è una strategia, è davvero così'. Nixon calcolava ogni mossa; Trump reagisce d'istinto. La differenza è tra un leader razionale che finge la follia e l'imprevedibilità genuina di chi detiene un potere immenso senza i filtri della prudenza diplomatica.
 
-**Perché la Madman Theory applicata da Trump è considerata un pericolo reale?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la Madman Theory applicata da Trump è considerata un pericolo reale?</h3></summary>
 
 La differenza tra un attore che recita il folle e un folle con accesso ai codici nucleari non è sottile: è la differenza tra il rischio calcolato e il pericolo reale. Quando la Madman Theory cessa di essere teoria, il mondo intero diventa ostaggio non di una strategia, ma di un temperamento.
 
+</details>
 
 <script type="application/ld+json">
 {

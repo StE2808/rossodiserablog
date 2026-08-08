@@ -72,22 +72,33 @@ La vera linea di confine, nel 2026, non è tra destra e sinistra. È tra chi sta
 
 ## Domande frequenti
 
-**Che cos'è Dialog, la società segreta di Peter Thiel?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è Dialog, la società segreta di Peter Thiel?</h3></summary>
 
 Dialog è un club privato a inviti fondato nel 2006 dal miliardario Peter Thiel, cofondatore di PayPal e Palantir. Si riunisce ogni anno in un ritiro a porte chiuse e off the record, dove dirigenti tecnologici, politici e militari discutono di temi come tecnologia, sorveglianza e geopolitica.
 
-**Chi partecipa ai ritiri di Dialog?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi partecipa ai ritiri di Dialog?</h3></summary>
 
 La lista 2026 conta 222 iscritti e mette insieme avversari politici dichiarati: democratici come Cory Booker, Jared Polis e Wes Moore accanto a figure trumpiane come Scott Bessent, Jared Kushner ed Elon Musk, oltre al senatore Ted Cruz, alla Fondazione Koch e a comandanti militari NATO.
 
-**Perché il leak di Dialog è preoccupante?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il leak di Dialog è preoccupante?</h3></summary>
 
 Perché mostra che chi vende tecnologie di sorveglianza, chi firma i relativi contratti pubblici e chi dovrebbe regolare quel mercato si incontrano in privato, fuori da ogni controllo. Inoltre i dati esposti, comprese biografie e un ranking segreto degli ospiti, sono un bersaglio ideale per spionaggio e ricatti.
 
-**Dove si tiene il ritiro di Dialog nel 2026?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Dove si tiene il ritiro di Dialog nel 2026?</h3></summary>
 
 Il ritiro 2026 è previsto in Irlanda, quindi all'interno dell'Unione Europea. Un dettaglio che evidenzia la dipendenza tecnologica europea: l'élite della sorveglianza americana si riunisce in territorio UE, mentre l'Europa resta priva di reale sovranità digitale.
 
+</details>
 
 <script type="application/ld+json">
 {

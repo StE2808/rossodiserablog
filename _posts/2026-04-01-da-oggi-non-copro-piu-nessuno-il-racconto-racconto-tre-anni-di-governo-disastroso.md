@@ -48,17 +48,26 @@ Allora perché ora non copre più? Le opposizioni non hanno dubbi: «Ci sono vol
 
 ## Domande frequenti
 
-**Cosa significa la frase 'da oggi non copro più nessuno' pronunciata da Meloni?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa significa la frase 'da oggi non copro più nessuno' pronunciata da Meloni?</h3></summary>
 
 Meloni ha pronunciato questa frase mentre chiedeva le dimissioni della ministra Santanchè, nei giorni successivi alla sconfitta referendaria. Come ha notato Carlo Verdelli, quell'avverbio 'da oggi' è una confessione involontaria: implica che fino al giorno prima i ministri coinvolti in vicende giudiziarie (Santanchè, Delmastro, Bartolozzi) potevano sbagliare senza pagare.
 
-**Quali ministri e sottosegretari erano stati 'coperti' dal governo Meloni secondo l'articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali ministri e sottosegretari erano stati 'coperti' dal governo Meloni secondo l'articolo?</h3></summary>
 
 L'articolo cita tre casi: Delmastro, che ha lasciato il ruolo di sottosegretario alla Giustizia dopo la bufera sulle azioni della 'Bisteccheria d'Italia'; Bartolozzi, capo di gabinetto di Nordio, dimessasi nel periodo post-referendum; e Santanchè, rimasta al ministero del Turismo nonostante le indagini per truffa aggravata ai danni dello Stato e i procedimenti per bancarotta legati al fallimento di Ki Group e Bioera.
 
-**Perché Meloni ha smesso di coprire proprio ora?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Meloni ha smesso di coprire proprio ora?</h3></summary>
 
 Secondo l'articolo (e come ha dichiarato Conte) ci sono voluti tre anni e 14 milioni di cittadini che hanno votato no al referendum per cambiare il calcolo. La sconfitta referendaria ha reso insostenibile ciò che prima era un costo accettabile. Meloni ha bisogno di riposizionarsi e riacquistare credibilità, e Santanchè è diventata utile da sacrificare. La questione morale non è cambiata: è cambiata la convenienza.
+
+</details>
 
 <script type="application/ld+json">
 {

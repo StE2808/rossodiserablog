@@ -108,21 +108,33 @@ La tecnologia corre — [la stessa corsa che ha portato l'AI a risolvere problem
 
 ## Domande frequenti
 
-**Perché Dario Amodei di Anthropic ha rifiutato il contratto con il Pentagono?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Dario Amodei di Anthropic ha rifiutato il contratto con il Pentagono?</h3></summary>
 
 Amodei aveva tracciato due linee rosse: niente sorveglianza di massa sui cittadini americani e niente armi autonome senza un essere umano nella catena decisionale. Su tutto il resto (logistica, intelligence, analisi, supporto operativo) aveva dato il via libera. Il Pentagono ha chiesto di rimuovere anche queste due limitazioni, imponendo un ultimatum con scadenza il venerdì con minaccia di inserire Anthropic in una lista nera come 'rischio per la catena di approvvigionamento'.
 
-**Come ha risposto Trump al rifiuto di Anthropic?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come ha risposto Trump al rifiuto di Anthropic?</h3></summary>
 
 Trump ha definito Anthropic una 'azienda radicale di sinistra' su Truth Social e ha ordinato a tutte le agenzie federali di cessare immediatamente l'uso della sua tecnologia. Il sottosegretario Emil Michael ha definito Amodei 'un bugiardo' con 'un complesso di Dio'. Poche ore dopo, OpenAI ha annunciato di aver raggiunto un accordo con il Pentagono per le reti classificate.
 
-**Esiste una legge internazionale che regola l'uso militare dell'intelligenza artificiale?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Esiste una legge internazionale che regola l'uso militare dell'intelligenza artificiale?</h3></summary>
 
 No. L'articolo rileva che non esiste una legge vincolante che regoli l'uso militare dell'AI. L'Executive Order 14110 di Biden è stato revocato da Trump nel gennaio 2025. L'AI Act europeo esclude le applicazioni militari. Il gruppo di esperti ONU sulle armi autonome letali discute dal 2014 senza risultati vincolanti. Guterres e il presidente del Comitato Internazionale della Croce Rossa hanno chiesto regole vincolanti entro il 2026, ma siamo nel 2026 e le regole non ci sono.
 
-**Qual è il problema politico sollevato dal caso Amodei-Pentagono?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il problema politico sollevato dal caso Amodei-Pentagono?</h3></summary>
 
 Il caso mette a nudo che in assenza di leggi che regolino l'AI militare, la decisione su cosa sia lecito e cosa no è finita sulle spalle di un imprenditore privato. I valori di un CEO non hanno il peso della legge, non sono stati votati da nessuno e non sopravvivono necessariamente a un cambio di leadership o a un trimestre finanziario negativo. Il confine tra sorveglianza di massa e uso legittimo dell'AI viene tracciato in negoziati privati, non in parlamenti o tribunali.
+
+</details>
 
 <script type="application/ld+json">
 {

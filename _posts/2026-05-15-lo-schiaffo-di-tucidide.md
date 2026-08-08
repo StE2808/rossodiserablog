@@ -43,17 +43,26 @@ Dev'essere stato, per Xi, sfiancante nella sua mediocrità. Come spiegare la Tra
 
 ## Domande frequenti
 
-**Cos'è la Trappola di Tucidide?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la Trappola di Tucidide?</h3></summary>
 
 La Trappola di Tucidide è la dinamica per cui la potenza dominante, sentendosi minacciata da quella emergente, finisce per precipitare entrambe in un conflitto distruttivo. Il termine deriva dallo storico greco Tucidide, che descrisse come la paura spartana dell'ascesa ateniese portò alla guerra del Peloponneso.
 
-**Chi ha citato Tucidide al vertice di Pechino 2026?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi ha citato Tucidide al vertice di Pechino 2026?</h3></summary>
 
 Xi Jinping ha evocato la Trappola di Tucidide durante il vertice con Trump a Pechino nel maggio 2026, affermando che 'i fatti hanno dimostrato più e più volte che le guerre commerciali non hanno vincitori' e che 'la consultazione paritaria è l'unica scelta giusta'.
 
-**La Trappola di Tucidide riguarda la Cina o gli Stati Uniti?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La Trappola di Tucidide riguarda la Cina o gli Stati Uniti?</h3></summary>
 
 Contrariamente a come spesso viene interpretata in Occidente, la Trappola di Tucidide è un avvertimento per la potenza dominante (gli Stati Uniti) non per quella emergente. È Washington che rischia di cadere nella trappola cercando di schiacciare Pechino, non la Cina.
+
+</details>
 
 <script type="application/ld+json">
 {

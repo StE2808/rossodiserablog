@@ -81,22 +81,33 @@ La risposta, di solito, è già scritta nel bilancio.
 
 ## Domande frequenti
 
-**Perché i giganti della Silicon Valley vengono accusati di non pagare le tasse?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché i giganti della Silicon Valley vengono accusati di non pagare le tasse?</h3></summary>
 
 Le infrastrutture pubbliche, la ricerca finanziata dagli Stati e le università che hanno formato i loro ingegneri sono state consumate gratuitamente dall'élite tecnologica, che poi ha parcheggiato i profitti in paradisi fiscali come le Isole Cayman. Amazon, ad esempio, nel 2022 ha fatturato miliardi in Italia versando allo Stato una cifra irrisoria rispetto ai ricavi.
 
-**Perché la democrazia non è un'inefficienza da correggere?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la democrazia non è un'inefficienza da correggere?</h3></summary>
 
 Chi descrive leader autoritari come interlocutori più 'efficienti' rispetto alle istituzioni democratiche sta di fatto sostenendo di non voler rendere conto a nessuno. L'efficienza autoritaria è la vecchia tentazione di chi ha abbastanza denaro da non dover mai convincere un elettore: non è un modello di governance, è privilegio travestito da pragmatismo.
 
-**Cosa significa che il vero hard power è un sistema sanitario che funziona?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa significa che il vero hard power è un sistema sanitario che funziona?</h3></summary>
 
 Una popolazione curata, istruita, con un tetto sulla testa e un lavoro dignitoso è più resiliente e coesa di qualsiasi sistema d'arma avanzato. La sicurezza nazionale, intesa come capacità di resistere alle crisi, si costruisce negli ambulatori di quartiere e nelle scuole pubbliche, non nei laboratori di droni o armi autonome.
 
-**Qual è la differenza tra un imprenditore e un rentier nella critica ai tecno-oligarchi?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la differenza tra un imprenditore e un rentier nella critica ai tecno-oligarchi?</h3></summary>
 
 Un imprenditore crea valore a partire da risorse proprie e dall'innovazione. Un rentier estrae valore da risorse già esistenti, spesso pubbliche. Secondo questo contro-manifesto, molti protagonisti della Silicon Valley rientrano nella seconda categoria: hanno catturato sussidi statali, acquisito aziende già funzionanti e sfruttato ricerca finanziata da fondi pubblici, presentandosi poi come auto-fatti.
 
+</details>
 
 <script type="application/ld+json">
 {

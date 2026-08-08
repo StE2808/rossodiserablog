@@ -72,17 +72,26 @@ La Groenlandia oggi, domani chi? Le Svalbard? L’Islanda? Dove finisce questa l
 
 ## Domande frequenti
 
-**Quanti groenlandesi si oppongono all'acquisizione americana della Groenlandia?**
+<details class="faq-item" markdown="1">
+<summary><h3>Quanti groenlandesi si oppongono all'acquisizione americana della Groenlandia?</h3></summary>
 
 Secondo l'articolo, l'85% dei groenlandesi rifiuta categoricamente di diventare americani. Nonostante questo, la Casa Bianca (con il segretario di Stato Rubio che lo ha ammesso davanti ai legislatori) sta apertamente perseguendo l'acquisizione del territorio sottraendolo alla Danimarca.
 
-**Quali sono i reali interessi americani sulla Groenlandia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono i reali interessi americani sulla Groenlandia?</h3></summary>
 
 Dietro la retorica sulla sicurezza nazionale si celano i giacimenti di metalli rari che ridurrebbero la dipendenza americana dalla Cina, e il controllo strategico dell'Artico in chiave anti-russa e anti-cinese. Trump ha esplicitamente dichiarato che le compagnie petrolifere americane saranno 'fortemente coinvolte' nella gestione delle risorse groenlandesi.
 
-**Come ha risposto l'Europa alle pressioni americane sulla Groenlandia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come ha risposto l'Europa alle pressioni americane sulla Groenlandia?</h3></summary>
 
 Sei leader europei hanno dovuto firmare una dichiarazione congiunta per ribadire che la Groenlandia appartiene al suo popolo. La Danimarca è stata costretta a stanziare 8 miliardi di euro per potenziare la propria difesa, diventando un alleato NATO che deve armarsi contro le mire di un altro alleato NATO.
+
+</details>
 
 <script type="application/ld+json">
 {

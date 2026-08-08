@@ -64,18 +64,26 @@ E quel modello non viene da TikTok.
 
 ## Domande frequenti
 
-**Perché i ragazzi usano violenza a scuola?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché i ragazzi usano violenza a scuola?</h3></summary>
 
 La spiegazione più diffusa punta ai social e ai videogiochi, ma la domanda più utile è: da chi prendono l'esempio? In un contesto in cui i leader politici ignorano le leggi, i potenti usano la forza senza conseguenze e i migranti vengono indicati come colpevoli di ogni male, i ragazzi ricevono un messaggio preciso: la forza funziona se hai potere.
 
-**Qual è il ruolo dei politici nella violenza giovanile?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il ruolo dei politici nella violenza giovanile?</h3></summary>
 
 I politici contribuiscono normalizzando certi comportamenti: insultare gli avversari in diretta, usare la forza in modo selettivo come accaduto a Pisa con i manganelli sugli studenti, indicare i migranti come capri espiatori senza prove. Questi comportamenti costruiscono un modello in cui la forza e il disprezzo sono strumenti accettabili.
 
-**Trump e Musk influenzano i giovani italiani?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Trump e Musk influenzano i giovani italiani?</h3></summary>
 
 Non direttamente, ma il loro modello di esercizio del potere, ignorare le regole, licenziare senza spiegazioni, sfidare le istituzioni, costruisce una narrazione globale: chi ha potere non ha bisogno di rispettare nulla. È un modello che arriva anche nelle scuole italiane, mediato dai politici nazionali che ne replicano i toni.
 
+</details>
 
 <script type="application/ld+json">
 {

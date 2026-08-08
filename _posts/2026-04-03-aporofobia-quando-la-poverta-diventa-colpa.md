@@ -43,21 +43,33 @@ Ma se la gara parte da posizioni diverse — [come la scimmia di Forbes che acca
 
 ## Domande frequenti
 
-**Che cos'è l'aporofobia e chi ha coniato il termine?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è l'aporofobia e chi ha coniato il termine?</h3></summary>
 
 L'aporofobia è l'odio, il rifiuto e il disprezzo verso chi non ha risorse economiche. Il termine fu coniato negli anni Novanta dalla filosofa spagnola Adela Cortina per distinguere questa forma di discriminazione dalla xenofobia o dal razzismo: il vero discrimine, spesso, non è l'etnia o la provenienza, ma la povertà stessa.
 
-**Come la meritocrazia contribuisce alla colpevolizzazione dei poveri?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come la meritocrazia contribuisce alla colpevolizzazione dei poveri?</h3></summary>
 
 Secondo l'articolo, la meritocrazia ha realizzato la colpevolizzazione del povero trasformandolo in 'demeritevole' (qualcuno che si merita la propria povertà e la conseguente espulsione sociale. Ma se la gara parte da posizioni diverse) [come la scimmia di Forbes che accaparra tutte le banane](https://rossodiserablog.it/la-scimmia-di-forbes/), il merito non misura il valore delle persone: misura solo la distanza dal traguardo. Questa cultura della colpa ha conquistato trasversalmente partiti, istituzioni e persino parte della sinistra.
 
-**Perché la Costituzione italiana non contiene la parola 'merito'?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la Costituzione italiana non contiene la parola 'merito'?</h3></summary>
 
 I Padri e le Madri costituenti hanno deliberatamente escluso il termine 'merito' dalla Costituzione. L'articolo 3 non chiede a tutti di correre ugualmente veloci, ma di partire dallo stesso punto. La giustizia viene prima del primato: una democrazia si misura da come tratta chi è rimasto indietro, non da quanto premia chi è già avanti.
 
-**Qual è l'antidoto all'aporofobia secondo la giurista Virginia Veludo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è l'antidoto all'aporofobia secondo la giurista Virginia Veludo?</h3></summary>
 
 Nel suo saggio pubblicato su Costituzionalismo.it, Virginia Veludo sostiene che l'unico antidoto all'aporofobia è la solidarietà orizzontale e attuale, non il suo scarico sulle spalle delle generazioni future. La paura della povertà dovrebbe essere lenita dallo Stato attraverso la garanzia della sicurezza sociale, non istigata a fini politici.
+
+</details>
 
 <script type="application/ld+json">
 {

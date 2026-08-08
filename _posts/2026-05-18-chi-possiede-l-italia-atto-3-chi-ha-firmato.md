@@ -113,17 +113,26 @@ Il resto è comunicazione.
 
 ## Domande frequenti
 
-**Cos'è il golden power italiano e quando viene usato?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il golden power italiano e quando viene usato?</h3></summary>
 
 Il golden power è uno strumento legislativo italiano (in vigore dal 2012, rafforzato nel 2020) che permette al governo di bloccare, condizionare o imporre requisiti alle acquisizioni di investitori stranieri in settori strategici: difesa, energia, telecomunicazioni, infrastrutture. Può essere usato per vietare operazioni, imporre condizioni o (come avvenuto sotto il governo Meloni) per autorizzare formalmente gli ingressi stranieri.
 
-**Come ha usato il governo Meloni il golden power nelle aziende strategiche?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come ha usato il governo Meloni il golden power nelle aziende strategiche?</h3></summary>
 
 Il governo Meloni ha usato il golden power principalmente per autorizzare operazioni straniere: gennaio 2024 per approvare la vendita della rete fissa TIM al fondo americano KKR (nasce FiberCop, luglio 2024); settembre 2024 per consentire a BlackRock di salire oltre il 3% in Leonardo (azienda di difesa). Al contrario, non ha utilizzato il golden power quando Crédit Agricole ha raggiunto il 20% di Banco BPM nel 2025.
 
-**Qual è la differenza tra investimento produttivo e acquisizione estrattiva?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la differenza tra investimento produttivo e acquisizione estrattiva?</h3></summary>
 
 Un investimento produttivo crea nuova capacità: una fabbrica, brevetti, posti di lavoro. Il capitale entra e rimane incorporato nell'economia reale. Un'acquisizione estrattiva compra capacità già esistente: il compratore acquista dal venditore precedente sul mercato secondario (senza portare un euro all'azienda) e poi estrae dividendi, canoni e profitti. BlackRock che compra il 5% di Eni in borsa è un'acquisizione estrattiva: non crea nulla, estrae rendite garantite dalla tariffa in bolletta.
+
+</details>
 
 <script type="application/ld+json">
 {

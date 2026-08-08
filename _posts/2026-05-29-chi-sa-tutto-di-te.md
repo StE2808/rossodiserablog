@@ -66,22 +66,33 @@ Non ho una risposta da consegnarti come un pacchetto. Ho solo un sospetto, e te 
 
 ## Domande frequenti
 
-**Che cos'è la Squadra Fiore?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è la Squadra Fiore?</h3></summary>
 
 È la struttura di spionaggio parallela al centro dell'inchiesta su cui il ROS ha eseguito undici perquisizioni il 20 aprile 2026. Faceva capo a un ex vicedirettore del DIS, l'organismo che coordina i servizi segreti italiani, accusato di aver sottratto milioni dalle casse riservate dello Stato. Invece di bonificare gli ambienti dalle microspie, le installava, confezionando dossier su misura da rivendere.
 
-**Perché nell'articolo si parla di Palantir accanto al dossieraggio dei servizi segreti?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché nell'articolo si parla di Palantir accanto al dossieraggio dei servizi segreti?</h3></summary>
 
 Perché Palantir offre, in forma legale e quotata in Borsa, lo stesso prodotto della Squadra Fiore: trasformare le montagne di dati custoditi dagli Stati in intelligence azionabile sul singolo cittadino. Fondata da Peter Thiel con la CIA tra i primi finanziatori, prevede ricavi per oltre sette miliardi di dollari, trainati dai contratti col governo americano. È il punto in cui il potere dall'alto e la sorveglianza dal basso si danno la mano.
 
-**Perché il dossieraggio mette in pericolo la democrazia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il dossieraggio mette in pericolo la democrazia?</h3></summary>
 
 Perché capovolge l'asimmetria che definisce la libertà: in una democrazia lo Stato sa poco del cittadino e il cittadino sa molto dello Stato. Il dossier rovescia questa geometria, rendendo lo Stato opaco e il cittadino trasparente. È esattamente il gesto di ogni regime: sapere tutto di te e farti sapere niente di sé.
 
-**Chi è Giuliano Tavaroli?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi è Giuliano Tavaroli?</h3></summary>
 
 È uno degli indagati dell'inchiesta sulla Squadra Fiore, già condannato vent'anni fa nello scandalo Telecom-Sismi, quando si spiavano migliaia di persone per conto di un'azienda. La ricomparsa dello stesso nome a vent'anni di distanza mostra come, su queste vicende, il Paese non impari e finisca per fare rima con se stesso.
 
+</details>
 
 <script type="application/ld+json">
 {

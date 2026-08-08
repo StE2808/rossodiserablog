@@ -144,30 +144,47 @@ Benvenuti su internet.
 
 ## Domande frequenti
 
-**Cos'è il dark web davvero?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il dark web davvero?</h3></summary>
 
 Il dark web è una parte di internet accessibile solo tramite Tor, un software che anonimizza il traffico instradandolo attraverso tre nodi cifrati. Non è un regno del crimine: contiene siti di giornalisti, organizzazioni per la libertà di stampa, agenzie governative come la CIA, e comunità di dissidenti politici. I "sette livelli di internet" non esistono: è una leggenda urbana nata su Reddit nel 2015.
 
-**Come si naviga il dark web in sicurezza?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si naviga il dark web in sicurezza?</h3></summary>
 
 Il modo più sicuro è usare un container Docker isolato con Tor installato dentro. Tutto il traffico resta confinato nel container: se qualcosa va storto, si spegne il container e non è mai esistito. Sconsigliato installare Tor Browser direttamente sul proprio sistema operativo e navigare senza isolamento.
 
-**La CIA è davvero sul dark web?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La CIA è davvero sul dark web?</h3></summary>
 
 Sì. La Central Intelligence Agency ha un indirizzo .onion ufficiale e lo usa per ricevere informazioni da fonti anonime. Anche l'SVR, il servizio di intelligence estera russo, ha un sito .onion per raccogliere segnalazioni dalla diaspora russa. CIA e SVR usano la stessa tecnologia di Tor che usano i mercati di droga.
 
-**Il dark web è illegale?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il dark web è illegale?</h3></summary>
 
 Navigare il dark web non è illegale. Tor è uno strumento legale, usato da giornalisti, ricercatori, dissidenti e agenzie governative in tutto il mondo. Sono illegali alcune attività che vi si svolgono, esattamente come su internet normale. La BBC, il Guardian e il New York Times hanno mirror .onion ufficiali.
 
-**Cos'è SecureDrop?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è SecureDrop?</h3></summary>
 
 SecureDrop è un sistema open source della Freedom of the Press Foundation che permette ai whistleblower di inviare documenti riservati ai giornalisti in modo anonimo e cifrato. Conta 24 istanze attive nel mondo: Guardian, New York Times, Washington Post, Der Spiegel, Bloomberg, BBC e altri. È accessibile solo via Tor.
 
-**Perché i palestinesi non usano il dark web per comunicare?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché i palestinesi non usano il dark web per comunicare?</h3></summary>
 
 Perché Israele controlla i cavi che connettono Gaza al resto del mondo e ha distrutto gran parte dell'infrastruttura di telecomunicazioni. Dal 7 ottobre 2023 ci sono stati tre blackout totali. Il dark web richiede una connessione internet: senza connessione, non esiste strumento di anonimato che funzioni. Il Guardian ha un'istanza SecureDrop in arabo attiva, ma è inutilizzabile da chi non ha accesso alla rete.
 
+</details>
 
 <script type="application/ld+json">
 {

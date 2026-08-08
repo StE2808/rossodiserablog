@@ -99,18 +99,26 @@ La nostra premier sosterrà che si difendeva solo da un attacco ibrido a base di
 
 ## Domande frequenti
 
-**Cosa è successo in Venezuela nella notte del 3 gennaio 2026?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa è successo in Venezuela nella notte del 3 gennaio 2026?</h3></summary>
 
 Nella notte del 3 gennaio, gli Stati Uniti hanno bombardato Caracas, fatto atterrare elicotteri della Delta Force e prelevato il presidente Nicolás Maduro dalla sua abitazione. Maduro è stato trasferito in un carcere di Brooklyn per essere processato, con la giustificazione ufficiale del narcotraffico. Nell'operazione sono morte almeno 40 persone.
 
-**Qual è stata la giustificazione americana per l'operazione in Venezuela?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è stata la giustificazione americana per l'operazione in Venezuela?</h3></summary>
 
 La giustificazione ufficiale è stata il narcotraffico: Maduro sarebbe a capo del 'Cartello dei Soli', con una taglia sulla sua testa già dal 2020 (prima 15 milioni di dollari, poi lievitati a 50). L'argomento giuridico era che, essendo le elezioni venezuelane del 2024 truccate, Maduro non sarebbe più un presidente ma un privato cittadino senza immunità diplomatica. Tuttavia Trump nelle ore successive ha dichiarato che le compagnie petrolifere americane sarebbero state 'fortemente coinvolte' nella gestione delle risorse venezuelane.
 
-**Quali precedenti storici di cambio di regime citati nell'articolo mostrano che queste operazioni non funzionano?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali precedenti storici di cambio di regime citati nell'articolo mostrano che queste operazioni non funzionano?</h3></summary>
 
 La ricercatrice Lindsey O'Rourke del Boston College ha studiato 64 operazioni di cambio di regime condotte dagli USA durante la Guerra Fredda: meno del 40% ha funzionato. L'articolo cita tre casi emblematici: l'Afghanistan, con vent'anni di guerra finiti con i talebani di nuovo al potere; l'Iraq, dove l'eliminazione di Saddam ha prodotto il caos e l'ISIS; la Libia, dove dopo Gheddafi il paese è diviso tra milizie che si sparano ancora addosso.
 
+</details>
 
 <script type="application/ld+json">
 {

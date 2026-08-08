@@ -95,22 +95,33 @@ Anthropic ha indicato la luna.
 
 ## Domande frequenti
 
-**Che cos'è Claude Mythos di Anthropic?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è Claude Mythos di Anthropic?</h3></summary>
 
 Mythos Preview è il nuovo modello AI di Anthropic, rilasciato in anteprima a big tech, governi e istituzioni finanziarie selezionate. Ha dimostrato una capacità eccezionale nel trovare vulnerabilità informatiche zero-day: su Firefox produce exploit funzionanti 181 volte, contro le 2 del modello precedente. Anthropic lo ha usato per identificare migliaia di vulnerabilità in tutti i principali sistemi operativi e browser.
 
-**Cos'è una capacità emergente nell'intelligenza artificiale?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è una capacità emergente nell'intelligenza artificiale?</h3></summary>
 
 Una capacità emergente è un'abilità che un modello AI sviluppa senza essere stato addestrato esplicitamente per farlo. Nel caso di Mythos, la capacità di trovare vulnerabilità di sicurezza non era un obiettivo del training: è comparsa da sola come sottoprodotto della scala del modello. Questo implica che qualsiasi modello sufficientemente avanzato, sviluppato da qualsiasi laboratorio, potrebbe sviluppare le stesse capacità.
 
-**Cos'è il Project Glasswing di Anthropic?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il Project Glasswing di Anthropic?</h3></summary>
 
 Project Glasswing è l'iniziativa con cui Anthropic ha annunciato l'uso difensivo di Mythos: 100 milioni di dollari in crediti per usare il modello nella ricerca di vulnerabilità nei software critici, più 4 milioni di donazioni a organizzazioni di sicurezza open source. L'obiettivo dichiarato è usare la capacità di Mythos per proteggere il software, non per attaccarlo.
 
-**Perché Mythos rappresenta un problema per l'open source?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Mythos rappresenta un problema per l'open source?</h3></summary>
 
 Mythos è accessibile solo a grandi aziende, governi e istituzioni con le risorse per pagarlo. I progetti open source, che producono software usato da miliardi di persone, non hanno accesso agli stessi strumenti di sicurezza. Questo crea un gap strutturale tra chi può permettersi di trovare e correggere le vulnerabilità e chi no, con conseguenze che riguardano l'intera infrastruttura digitale globale.
 
+</details>
 
 <script type="application/ld+json">
 {

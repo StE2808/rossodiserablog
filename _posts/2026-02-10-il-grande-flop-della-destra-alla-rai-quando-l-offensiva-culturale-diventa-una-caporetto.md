@@ -77,18 +77,26 @@ La RAI non ha bisogno di colori politici: ha bisogno di competenza, professional
 
 ## Domande frequenti
 
-**Cos'è il 'Pucci-gate' della RAI alle Olimpiadi 2026?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il 'Pucci-gate' della RAI alle Olimpiadi 2026?</h3></summary>
 
 Durante la cerimonia di apertura dei Giochi Olimpici Invernali 2026 di Milano-Cortina, il telecronista RAI Paolo Petrecca non ha riconosciuto Emilio Pucci nel logo olimpico, ribattezzandolo erroneamente 'Fucci'. L'episodio è diventato virale sui social, trasformandosi in un caso mediatico che ha regalato alla RAI una figura barbina davanti al mondo intero.
 
-**Quali sono stati gli ascolti del programma di Pino Insegno in prima serata su RAI?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono stati gli ascolti del programma di Pino Insegno in prima serata su RAI?</h3></summary>
 
 Il programma 'Mercante in fiera' condotto da Pino Insegno ha registrato uno share medio sotto il 10% in prima serata, con picchi negativi di appena 1,2 milioni di spettatori, ed è stato chiuso anticipatamente per manifesto insuccesso. I programmi della 'nuova gestione' RAI hanno perso mediamente 2-3 punti di share rispetto alla stagione precedente.
 
-**Esiste davvero l'egemonia culturale della sinistra in RAI secondo l'articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Esiste davvero l'egemonia culturale della sinistra in RAI secondo l'articolo?</h3></summary>
 
 No. L'articolo sostiene che l'egemonia culturale della sinistra esiste solo per il vuoto cosmico che c'è a destra. Quando la destra ha avuto la possibilità di dimostrare la propria visione culturale, ha scelto telecronisti impreparati per eventi internazionali, programmi nostalgici che il pubblico non chiedeva e nomine basate sulla fedeltà politica anziché sulla competenza. Il pubblico ha risposto votando con il telecomando.
 
+</details>
 
 <script type="application/ld+json">
 {

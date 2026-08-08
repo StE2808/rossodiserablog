@@ -64,22 +64,33 @@ Nel frattempo, sul lago di Vico, i sommozzatori continuano a cercare. E questa �
 
 ## Domande frequenti
 
-**Cosa è successo al marito di Eugenia Roccella?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa è successo al marito di Eugenia Roccella?</h3></summary>
 
 Luigi Cavallari, ingegnere e accademico di 84 anni, marito della ministra Eugenia Roccella, è scomparso nel lago di Vico il 27 giugno dopo essersi tuffato da una piccola imbarcazione. La causa probabile è uno shock termico. Le ricerche con sommozzatori, elicotteri e sonar sono proseguite senza restituire un corpo.
 
-**Perché Meloni ha parlato di «clima avvelenato»?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Meloni ha parlato di «clima avvelenato»?</h3></summary>
 
 Dopo i commenti odiosi comparsi sui social contro Eugenia Roccella durante le ricerche del marito, Giorgia Meloni ha denunciato su X commenti «ignobili e disumani» e un «clima avvelenato» che alcuni avversari avrebbero alimentato per troppo tempo, legittimando odio e disumanizzazione.
 
-**Cos'è il vittimismo strumentale in politica?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il vittimismo strumentale in politica?</h3></summary>
 
 È la figura retorica di chi denuncia un clima d'odio che ha contribuito ad alimentare. Secondo l'articolo ha una funzione precisa: produrre consenso, compattare la base e spostare l'attenzione dai contenuti alla forma, dai programmi alle emozioni.
 
-**Cos'è lo shock termico avvenuto nel lago di Vico?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è lo shock termico avvenuto nel lago di Vico?</h3></summary>
 
 È la trappola invisibile per cui le acque gelide sotto la superficie colpiscono un organismo riscaldato dal sole estivo. Il lago di Vico, di origine vulcanica e con acque fredde anche d'estate, ha già inghiottito sei persone negli ultimi quindici anni.
 
+</details>
 
 <script type="application/ld+json">
 {

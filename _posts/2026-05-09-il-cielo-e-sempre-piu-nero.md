@@ -102,22 +102,33 @@ Ma la disclosure ha un merito involontario: nel momento in cui Trump ti invita a
 
 ## Domande frequenti
 
-**Perché Trump ha rilasciato i file sugli UFO nell'8 maggio 2026?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Trump ha rilasciato i file sugli UFO nell'8 maggio 2026?</h3></summary>
 
 Trump ha ordinato la pubblicazione di 162 file desecretati sugli UFO mentre il suo gradimento era al minimo storico del 34% (Reuters/Ipsos, aprile 2026). La disclosure è avvenuta nel pieno della guerra con l'Iran, con il petrolio a 126 dollari al barile e i midterm di novembre in avvicinamento: una mossa comunicativa per spostare l'attenzione mediatica.
 
-**Cosa è successo alla flotilla di aiuti per Gaza nel 2026?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa è successo alla flotilla di aiuti per Gaza nel 2026?</h3></summary>
 
 Il 30 aprile 2026, la marina israeliana ha intercettato 22 delle 58 navi della Global Sumud Flotilla in acque internazionali al largo di Creta. 175 attivisti sono stati sequestrati e trasferiti su navi da guerra. Il primo ministro spagnolo Pedro Sánchez ha dichiarato che Israele ha violato il diritto internazionale attaccando una flottiglia civile in acque che non gli appartengono.
 
-**Quali sono le conseguenze economiche della guerra all'Iran del 2026?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono le conseguenze economiche della guerra all'Iran del 2026?</h3></summary>
 
 La chiusura dello stretto di Ormuz ha tolto dal mercato globale 20 milioni di barili al giorno (Dallas Federal Reserve, marzo 2026). Il petrolio Brent ha toccato 126 dollari al barile il 30 aprile 2026, massimo dal 2022. I prezzi di carburanti, fertilizzanti e trasporti sono aumentati in tutto l'Occidente.
 
-**Cosa sta facendo Israele in Cisgiordania mentre il mondo guarda l'Iran?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa sta facendo Israele in Cisgiordania mentre il mondo guarda l'Iran?</h3></summary>
 
 Secondo Chatham House (17 aprile 2026), mentre il mondo era distratto dalla guerra all'Iran, il governo Netanyahu ha approvato 34 nuovi insediamenti in Cisgiordania in aprile, molti su terre private palestinesi. L'organizzazione di ricerca britannica definisce la mossa pericolosa per le prospettive di pace regionale.
 
+</details>
 
 <script type="application/ld+json">
 {

@@ -76,17 +76,26 @@ Per gli algoritmi, le settimane sono già arrivate.
 
 ## Domande frequenti
 
-**Cosa ha fatto Gemini Deep Think di Google DeepMind sui problemi matematici aperti?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa ha fatto Gemini Deep Think di Google DeepMind sui problemi matematici aperti?</h3></summary>
 
 Gemini Deep Think ha lavorato con ricercatori umani su 18 problemi aperti (non esercizi, ma problemi su cui squadre di ricercatori lavoravano da anni) facendo progressi su classici irrisolti come il Max-Cut e lo Steiner Tree. L'agente Aletheia, costruito su Deep Think, ha risolto da solo quattro problemi dalla lista di Erdős in settimane, non anni. Ha anche dimostrato che un'assunzione consolidata in ottimizzazione combinatoria era sbagliata, risultato che nessuno aveva raggiunto in anni.
 
-**Che cos'è il 'recursive self-improvement' e perché è preoccupante?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è il 'recursive self-improvement' e perché è preoccupante?</h3></summary>
 
 Tra i 18 problemi affrontati da Gemini Deep Think, diversi riguardavano algoritmi di machine learning: un'AI ha migliorato gli algoritmi con cui si costruiscono le AI stesse. I ricercatori chiamano questo 'recursive self-improvement': ogni ciclo di miglioramento accelera il successivo, potenzialmente di ordini di grandezza, fino a quando la curva di crescita diventa troppo ripida per starle dietro.
 
-**Perché la governance dell'AI non riesce a stare al passo con la tecnologia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la governance dell'AI non riesce a stare al passo con la tecnologia?</h3></summary>
 
 L'AI Act europeo ha richiesto tre anni di negoziati. Nel frattempo Gemini Deep Think è passato da medaglia d'oro alle olimpiadi di matematica a risolvere problemi aperti di ricerca in sei mesi, e il prossimo salto potrebbe richiedere tre mesi, uno, o due settimane. Le commissioni si riuniscono trimestralmente per discutere di un'entità che impara più in un weekend di quanto un dottorato impari in un anno.
+
+</details>
 
 <script type="application/ld+json">
 {

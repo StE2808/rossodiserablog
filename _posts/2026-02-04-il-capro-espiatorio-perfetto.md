@@ -56,14 +56,19 @@ Perché quando la narrazione ha bisogno di un nemico, i dettagli non contano. Co
 
 ## Domande frequenti
 
-**Chi è stato arrestato dopo i disordini di Torino e qual è il suo profilo?**
+<details class="faq-item" markdown="1">
+<summary><h3>Chi è stato arrestato dopo i disordini di Torino e qual è il suo profilo?</h3></summary>
 
 Dopo i disordini di sabato a Torino, le autorità hanno arrestato un ragazzo di 22 anni, cameriere, originario di Arcidosso, piccolo centro di circa mille abitanti in provincia di Grosseto. Il giovane non ha alcun precedente penale, non è mai stato coinvolto in tifoserie organizzate né in movimenti politici. È stato etichettato come 'anarchico' nonostante l'assenza di qualsiasi storia di militanza.
 
-**Perché l'articolo mette in dubbio la credibilità di questo arresto?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché l'articolo mette in dubbio la credibilità di questo arresto?</h3></summary>
 
 L'articolo solleva dubbi sulla logica dell'identificazione: un cameriere proveniente da un borgo toscano di mille anime, senza precedenti, senza schedature, senza appartenenza a gruppi organizzati, viene trasformato in 'pericoloso sovversivo'. La vicenda viene letta come la costruzione di un capro espiatorio necessario al governo per mostrare un volto da dare in pasto all'opinione pubblica dopo i disordini.
 
+</details>
 
 <script type="application/ld+json">
 {

@@ -43,18 +43,26 @@ Raccontare un ammortizzatore come una svolta di sistema è propaganda. Funziona 
 
 ## Domande frequenti
 
-**Cosa sono i 14 miliardi di flessibilità energetica concessi all'Italia?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa sono i 14 miliardi di flessibilità energetica concessi all'Italia?</h3></summary>
 
 La Commissione Europea ha accordato all'Italia una flessibilità aggiuntiva di 14 miliardi di euro nel biennio 2025-2026, di cui 6,8 miliardi per il solo 2026. Si tratta di uno strumento congiunturale per attutire l'impatto del calo dei prezzi energetici sulle filiere produttive, non di una deroga ai target climatici.
 
-**La flessibilità UE è una deroga agli obiettivi del Green Deal?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La flessibilità UE è una deroga agli obiettivi del Green Deal?</h3></summary>
 
 No. Non ci sono sconti sulle misure strutturali, né proroghe sui target climatici, né allentamenti degli obblighi sull'elettrificazione. E' uno spazio di manovra finanziaria temporaneo, non un'inversione di rotta rispetto alla transizione ecologica.
 
-**Cosa chiede davvero l'Europa all'Italia sull'energia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa chiede davvero l'Europa all'Italia sull'energia?</h3></summary>
 
 Bruxelles chiede di accelerare: completare la transizione, spingere sull'elettrificazione dei consumi e incrementare la quota di rinnovabili nel mix energetico. Sono le stesse direttrici che il governo Meloni ha ostacolato o dichiarato ideologiche per tre anni.
 
+</details>
 
 <script type="application/ld+json">
 {

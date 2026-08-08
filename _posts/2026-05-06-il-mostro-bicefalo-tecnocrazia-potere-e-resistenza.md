@@ -52,17 +52,26 @@ Resistere non è nostalgia. È l’atto minimo di chi vuole ancora pensare con l
 
 ## Domande frequenti
 
-**Cos'è il Di-Leviatano di cui parla Roberto Saviano?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il Di-Leviatano di cui parla Roberto Saviano?</h3></summary>
 
 Il Di-Leviatano è il termine usato da Roberto Saviano per descrivere l'alleanza definitiva tra la politica di Donald Trump e l'impero tecnologico di Elon Musk. È un potere bicefalo: una tecnodestra neoreazionaria, elitaria e antidemocratica che controlla corpi e menti attraverso gli algoritmi, non con divise né campi ma con la programmazione silenziosa della quotidianità.
 
-**Cos'è la cyberdistopia descritta da Asma Mhalla?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la cyberdistopia descritta da Asma Mhalla?</h3></summary>
 
 Secondo la politologa franco-tunisina Asma Mhalla, autrice di Resistere ai tempi oscuri (Einaudi, 2026), la cyberdistopia è un sistema in cui la quotidianità stessa diventa una forma di dominio. Il nuovo totalitarismo algoritmico non governa apertamente: programma. La sensazione di impotenza diventa la norma, e i cittadini pagano con la propria attenzione, i propri dati e la propria capacità di pensiero autonomo.
 
-**Come si resiste al totalitarismo digitale?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si resiste al totalitarismo digitale?</h3></summary>
 
 Resistere non è nostalgia ma l'atto minimo di chi vuole ancora pensare con la propria testa. Concretamente significa meno ore sui social e più tempo dedicato all'attivismo, alla socialità e alla solidarietà. La resistenza è prima di tutto un atto cognitivo e politico.
+
+</details>
 
 <script type="application/ld+json">
 {

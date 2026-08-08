@@ -94,18 +94,26 @@ Le macchine, intanto, continuano a guardarci. E a imparare.
 
 ## Domande frequenti
 
-**Perché la Silicon Valley è nata dalla controcultura hippie?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la Silicon Valley è nata dalla controcultura hippie?</h3></summary>
 
 Negli anni Sessanta la controcultura californiana puntava sulla liberazione dell'individuo più che sulla riforma delle istituzioni. Molti dei pionieri dell'informatica personale provenivano da quel mondo e vedevano il computer come erede dell'LSD: uno strumento per emancipare il singolo saltando ogni mediazione e autorità. La tecnocrazia non ha rubato quel sogno, lo ha portato alle sue conseguenze.
 
-**Cosa significa che la promessa di espandere la coscienza è diventata espandere il calcolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa significa che la promessa di espandere la coscienza è diventata espandere il calcolo?</h3></summary>
 
 La controcultura voleva allargare la coscienza umana; la Silicon Valley di oggi investe cifre da bilancio statale per allargare i data center e la capacità di calcolo. Per chi ha vissuto il passaggio un passo alla volta i due obiettivi coincidono: dare all'individuo un potere sempre maggiore. Il risultato è però la sorveglianza come modello di business e un potere informativo che gli Stati possono solo affittare.
 
-**La tecnologia sta disumanizzando l'essere umano?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La tecnologia sta disumanizzando l'essere umano?</h3></summary>
 
 Più che disumanizzarci, la tecnologia ci riflette. Le macchine imparano da noi e amplificano i nostri difetti, come la tendenza a preferire la scorciatoia individuale alla costruzione collettiva di regole. La domanda decisiva non è se temere le macchine, ma se abbiamo imparato a usare bene il potere che già possediamo gli uni sugli altri.
 
+</details>
 
 <script type="application/ld+json">
 {

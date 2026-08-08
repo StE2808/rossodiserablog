@@ -61,22 +61,33 @@ Questo pezzo, per dire, l'ho ragionato con un'intelligenza artificiale, ovviamen
 
 ## Domande frequenti
 
-**Che cos'è la tecnica Feynman?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è la tecnica Feynman?</h3></summary>
 
 È un metodo di apprendimento in quattro passi: spiegare un concetto come lo si spiegherebbe a un bambino, individuare i punti in cui ci si inceppa, tornare a studiare esattamente quelle lacune, e semplificare di nuovo con parole e analogie proprie. Serve a distinguere il sapere ripetere dall'aver capito davvero.
 
-**La tecnica Feynman l'ha inventata davvero Richard Feynman?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La tecnica Feynman l'ha inventata davvero Richard Feynman?</h3></summary>
 
 Non nella forma in quattro passi che circola oggi, che è una codificazione successiva. La sostanza però è autenticamente sua: Feynman sosteneva che se non si riesce a ridurre un concetto al livello di una matricola, significa che non lo si è davvero capito, e ha applicato questo principio per tutta la vita, dalle lezioni del Caltech alla commissione sul disastro dello Challenger.
 
-**Come si usa la tecnica Feynman con l'intelligenza artificiale?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come si usa la tecnica Feynman con l'intelligenza artificiale?</h3></summary>
 
 Capovolgendola: invece di farsi spiegare i concetti dall'AI, si spiega il concetto all'AI con parole proprie, chiedendole di interrompere quando qualcosa non torna e di trovare i buchi nella spiegazione. Così la macchina fa da studente e da avvocato del diavolo, mentre la fatica di produrre la spiegazione, che è la parte che genera apprendimento, resta a chi studia.
 
-**Cos'è la scienza cargo cult di cui parlava Feynman?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è la scienza cargo cult di cui parlava Feynman?</h3></summary>
 
 È l'espressione usata da Feynman nel discorso ai laureandi del Caltech del 1974: come gli isolani del Pacifico che costruivano piste e torri di controllo finte sperando che gli aerei tornassero a portare merci, la scienza cargo cult ha tutta l'apparenza della conoscenza ma nessuna sostanza. Nello stesso discorso Feynman formulò il suo primo principio: non devi ingannare te stesso, e tu sei la persona più facile da ingannare.
 
+</details>
 
 <script type="application/ld+json">
 {

@@ -97,17 +97,26 @@ Anche quando è arduo. Soprattutto quando è arduo.
 
 ## Domande frequenti
 
-**Perché la destra riesce a usare la paura con più efficacia della sinistra?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la destra riesce a usare la paura con più efficacia della sinistra?</h3></summary>
 
 La paura è un'emozione primordiale che si attiva in millisecondi, bypassa la razionalità e parla direttamente all'amigdala. La destra ha perfezionato la formula: identificare un nemico (il migrante, il 'gender', l'Europa, i giudici) offrire risposte semplici e non chiedere sacrifici personali, perché il problema è sempre 'l'altro'. La speranza invece richiede tempo, pazienza, fiducia e la capacità di immaginare un futuro migliore quando il presente è duro.
 
-**Qual è il paradosso della speranza rispetto alla paura in politica?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il paradosso della speranza rispetto alla paura in politica?</h3></summary>
 
 La speranza chiede di abbassare le difese, di aprirsi al cambiamento, di fidarsi, mentre la paura si nutre di muri e chiusure. In tempi di crisi economica e insicurezza, vendere muri è più facile che vendere ponti. Inoltre, la destra può sempre trovare un nuovo capro espiatorio per giustificare i fallimenti; la speranza delusa lascia invece amarezza e cinismo, rendendo ancora più difficile ricostruire fiducia.
 
-**La sinistra deve scendere sul terreno della paura per competere elettoralmente?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La sinistra deve scendere sul terreno della paura per competere elettoralmente?</h3></summary>
 
 No, secondo l'articolo. La sinistra non può adottare la strategia del capro espiatorio senza tradire sé stessa. Deve invece trovare modi nuovi, più emotivamente coinvolgenti, per raccontare la speranza, traducendo i valori in narrazioni che toccano le persone. Il vantaggio della speranza sulla paura è che costruisce invece di distruggere, unisce invece di dividere e libera invece di imprigionare.
+
+</details>
 
 <script type="application/ld+json">
 {

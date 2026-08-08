@@ -51,18 +51,26 @@ Il quadro è chiaro: il centrosinistra unito vince, o comunque cresce. Quello ch
 
 ## Domande frequenti
 
-**Chi ha vinto le elezioni amministrative 2026 ai ballottaggi?**
+<details class="faq-item" markdown="1">
+<summary><h3>Chi ha vinto le elezioni amministrative 2026 ai ballottaggi?</h3></summary>
 
 Sui 18 capoluoghi al voto, secondo le elaborazioni di YouTrend il centrosinistra passa da 8 a 10 capoluoghi governati, mentre il centrodestra sale da 5 a 6. Il campo largo guadagna 2 capoluoghi, la destra di governo ne guadagna 1.
 
-**Cosa ha dichiarato Giorgia Meloni dopo i ballottaggi del 7-8 giugno 2026?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa ha dichiarato Giorgia Meloni dopo i ballottaggi del 7-8 giugno 2026?</h3></summary>
 
 Meloni ha scritto sui social che i risultati confermano la forza del centrodestra, la solidità della coalizione e il suo radicamento nei territori. Una lettura smentita dai numeri reali, che vedono crescere il campo largo più della destra di governo.
 
-**Dove ha vinto il campo largo alle amministrative 2026?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Dove ha vinto il campo largo alle amministrative 2026?</h3></summary>
 
 Tra i risultati simbolo: a Somma Vesuviana è stata eletta la prima donna sindaco con una coalizione di Pd, M5S, CDU, PSI e civiche; a Chieti Giovanni Legnini ha vinto con il 52,51%; ad Agrigento il centrosinistra ha conquistato una città storicamente difficile. In Sicilia il centrodestra è passato da undici comuni governati a quattro.
 
+</details>
 
 <script type="application/ld+json">
 {

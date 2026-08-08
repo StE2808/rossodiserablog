@@ -54,18 +54,26 @@ Vota NO.
 
 ## Domande frequenti
 
-**Di cosa tratta il referendum sulla separazione delle carriere dei magistrati?**
+<details class="faq-item" markdown="1">
+<summary><h3>Di cosa tratta il referendum sulla separazione delle carriere dei magistrati?</h3></summary>
 
 I cittadini sono chiamati a votare un referendum costituzionale sulla separazione delle carriere dei magistrati, una riforma voluta da Berlusconi che propone di dividere nettamente il percorso professionale tra giudici e pubblici ministeri. L'articolo la paragona al Ponte sullo Stretto: un'opera faraonica simbolica che distrae dai problemi reali.
 
-**Quali sono i problemi concreti della giustizia italiana che la riforma non affronta?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quali sono i problemi concreti della giustizia italiana che la riforma non affronta?</h3></summary>
 
 Mentre il dibattito si concentra sulla separazione delle carriere, restano irrisolte le emergenze quotidiane: tribunali al collasso, processi che si accumulano, carceri che esplodono e cittadini che attendono anni per un giudizio. Secondo l'articolo servirebbero più risorse, più personale e semplificazione delle fasi procedurali.
 
-**Qual è la posizione dell'articolo sul referendum?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la posizione dell'articolo sul referendum?</h3></summary>
 
 L'articolo invita a votare NO, sostenendo che la riforma non rappresenta la priorità per un sistema giudiziario che ha bisogno di interventi concreti e immediati. Come per il Ponte sullo Stretto, la domanda non è se sia tecnicamente fattibile, ma se sia davvero questa la priorità o se sia più facile vendere un grande progetto simbolico che affrontare i problemi quotidiani.
 
+</details>
 
 <script type="application/ld+json">
 {

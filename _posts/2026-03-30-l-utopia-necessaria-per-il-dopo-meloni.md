@@ -54,17 +54,26 @@ Ou-topos: il luogo che non esiste ancora. Ma che, proprio per questo, è ancora 
 
 ## Domande frequenti
 
-**Cosa significa il termine 'utopia' nell'origine greca?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa significa il termine 'utopia' nell'origine greca?</h3></summary>
 
 Il termine fu coniato da Tommaso Moro nel 1516 nel suo celebre trattato. È un termine greco volutamente ambiguo: ou-topos significa 'il luogo che non esiste', ma nella variante eu-topos indica 'il luogo felice'. Moro sapeva che stava costruendo un'impossibilità, ma la costruì con la precisione di un architetto, perché l'utopia non è ingenuità di chi non conosce il mondo: è la lucidità di chi lo conosce troppo bene e rifiuta di accettarlo come definitivo.
 
-**In che contesto politico italiano nasce questo articolo sull'utopia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>In che contesto politico italiano nasce questo articolo sull'utopia?</h3></summary>
 
 L'articolo è scritto nel momento in cui il governo Meloni (già indebolito dalla sconfitta referendaria sulla separazione delle carriere della magistratura) vede la propria coalizione sgretolarsi pezzo dopo pezzo. L'autore legge questo vuoto politico non solo come crisi ma come possibilità: le implosioni di governo non sono solo macerie, ma spazi liberati su cui qualcosa di nuovo può provare a radicarsi.
 
-**Qual è il paradosso di Camus sull'utopia citato nell'articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il paradosso di Camus sull'utopia citato nell'articolo?</h3></summary>
 
 Albert Camus con il grido 'soyez réalistes, demandez l'impossible' rovesciava la logica del pragmatismo politico: il realismo puro, senza tensione verso ciò che non esiste ancora, non è saggezza ma rassegnazione travestita da maturità. Chiedere l'impossibile non significa ignorare i vincoli del reale, ma rifiutare che quei vincoli siano eterni.
+
+</details>
 
 <script type="application/ld+json">
 {

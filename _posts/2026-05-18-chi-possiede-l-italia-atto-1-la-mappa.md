@@ -117,17 +117,26 @@ La risposta esiste. È nei bilanci pubblici, nei verbali di assemblea, nei [decr
 
 ## Domande frequenti
 
-**Chi sono i principali azionisti stranieri di Eni e Enel?**
+<details class="faq-item" markdown="1">
+<summary><h3>Chi sono i principali azionisti stranieri di Eni e Enel?</h3></summary>
 
 BlackRock è il principale azionista privato di Eni con il 5,003% del capitale (distribuito su 17 società controllate) e di Enel con il 5%. In Enel la quota nordamericana degli investitori istituzionali è al 46,2%, in crescita dal 43% del 2022. In Leonardo, Capital Group detiene il 5,1% (primo privato) e BlackRock il 5,003% (secondo privato), con il 57,4% degli istituzionali nordamericani.
 
-**Cos'è BlackRock e perché è presente in tutte le grandi aziende italiane?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è BlackRock e perché è presente in tutte le grandi aziende italiane?</h3></summary>
 
 BlackRock è il più grande gestore patrimoniale del mondo con 14.000 miliardi di dollari in gestione. È un fondo indicizzato passivo: compra tutte le azioni presenti negli indici di mercato (S&P 500, MSCI World, ecc.) senza selezionarle. Per questo motivo è presente simultaneamente in quasi tutte le grandi società quotate del mondo, incluse le aziende strategiche italiane come Eni, Enel, Terna, Snam, Leonardo, Italgas e Saipem.
 
-**Cosa c'entra la Cina con la rete elettrica e del gas italiana?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa c'entra la Cina con la rete elettrica e del gas italiana?</h3></summary>
 
 CDP Reti, il veicolo che controlla Terna (29,85%) e Snam (31,35%), ha tra i suoi soci State Grid Europe Limited (SGEL), controllata di State Grid Corporation of China, l'azienda di Stato cinese. SGEL detiene il 35% di CDP Reti. Questo significa che la Cina di Stato ha una partecipazione indiretta ma rilevante nella rete elettrica e del gas italiana, attraverso una struttura societaria poco nota al grande pubblico.
+
+</details>
 
 <script type="application/ld+json">
 {

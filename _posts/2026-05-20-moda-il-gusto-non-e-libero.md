@@ -91,17 +91,26 @@ Sul tema del lavoro come merce e della distinzione di classe nel capitalismo con
 
 ## Domande frequenti
 
-**Cos'è l'habitus secondo Bourdieu e come si applica alla moda?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è l'habitus secondo Bourdieu e come si applica alla moda?</h3></summary>
 
 L'habitus è il sistema di disposizioni incorporate sin dall'infanzia che orienta il gusto in modo automatico. Nella moda, determina perché un individuo sente certe scelte vestimentarie come 'naturalmente' sue: non è libertà individuale, ma il prodotto del proprio gruppo sociale di appartenenza.
 
-**Il fast fashion ha davvero democratizzato la moda?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il fast fashion ha davvero democratizzato la moda?</h3></summary>
 
 No, secondo la logica bourdieusiana. La disponibilità economica di un capo non elimina la distinzione sociale: la replica su scala più larga. Chi può permettersi di rifiutare il fast fashion (in nome della qualità o dell'etica) usa proprio questo rifiuto come nuovo marcatore di status.
 
-**Perché il quiet luxury è il lusso più escludente?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il quiet luxury è il lusso più escludente?</h3></summary>
 
 Perché presuppone un capitale culturale che non si compra: il riconoscimento del marchio, la lettura del codice estetico, la distinzione tra ostentazione e discrezione. Esclude non per il prezzo (che pure è altissimo) ma per la competenza richiesta. Chi non sa, non può neanche aspirarci.
+
+</details>
 
 <script type="application/ld+json">
 {

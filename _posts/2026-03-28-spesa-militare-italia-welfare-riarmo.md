@@ -64,22 +64,33 @@ La risposta, in questo momento, la stanno dando senza chiedercela. È lo stesso 
 
 ## Domande frequenti
 
-**Quanto spende l'Italia per la difesa nel 2026?**
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto spende l'Italia per la difesa nel 2026?</h3></summary>
 
 Nel 2026 l'Italia ha raggiunto i 34 miliardi di euro di spesa militare, un record storico che la colloca al dodicesimo posto mondiale secondo il rapporto SIPRI 2025. L'aumento previsto è di 3,5 miliardi nel 2026, 7 nel 2027 e 15 nel 2028.
 
-**Il riarmo europeo toglie soldi alla sanità e al welfare?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il riarmo europeo toglie soldi alla sanità e al welfare?</h3></summary>
 
 Secondo SIPRI e le Nazioni Unite, molti governi europei stanno tagliando fondi a sanità, istruzione e welfare per finanziare il riarmo. In Italia la spesa sanitaria in rapporto al PIL resta tra le più basse d'Europa, la cooperazione allo sviluppo perde 163 milioni nel triennio e gli stipendi pubblici sono fermi.
 
-**Chi guadagna dal riarmo in Italia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi guadagna dal riarmo in Italia?</h3></summary>
 
 Le prime quindici aziende di armi italiane hanno raddoppiato gli utili tra il 2021 e il 2024, accumulando 876 milioni di euro di extraprofitti secondo Greenpeace Italia. Leonardo, di cui il Ministero dell'Economia italiano è azionista di maggioranza, ha registrato ricavi per 13,4 miliardi di euro nei primi nove mesi del 2025, con un aumento del 12,4%.
 
-**Cos'è il piano Readiness 2030 (ex ReArm Europe)?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il piano Readiness 2030 (ex ReArm Europe)?</h3></summary>
 
 Readiness 2030, originariamente chiamato ReArm Europe, è il piano dell'Unione Europea per mobilitare 800 miliardi di euro per la difesa entro il 2030. Include 150 miliardi in prestiti diretti attraverso lo strumento SAFE e la sospensione delle regole di bilancio che consente ai governi di spendere fino all'1,5% del PIL in più per i militari senza incorrere in procedure d'infrazione. L'Italia ha richiesto quasi 15 miliardi di prestiti SAFE.
 
+</details>
 
 <script type="application/ld+json">
 {

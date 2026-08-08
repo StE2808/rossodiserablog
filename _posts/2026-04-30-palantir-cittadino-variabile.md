@@ -76,21 +76,33 @@ E il giorno in cui saremo perfettamente leggibili, non ci sarà più niente da c
 
 ## Domande frequenti
 
-**Cos'è Palantir e cosa fa in Italia?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è Palantir e cosa fa in Italia?</h3></summary>
 
 Palantir Technologies è un'azienda americana specializzata in sorveglianza predittiva e analisi di dati su larga scala. In Italia è presente dal 2015, quando il Ministero della Difesa acquisì il suo software per oltre un milione di euro. Da allora si è registrata una serie ininterrotta di forniture e rinnovi, inclusa una procedura secretata nel 2024 per il sistema Palantir Gotham. A fine aprile 2026 è sul tavolo un nuovo accordo da venti milioni di euro.
 
-**Chi è Peter Thiel e cosa c'entra con Palantir?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi è Peter Thiel e cosa c'entra con Palantir?</h3></summary>
 
 Peter Thiel è il cofondatore e principale azionista di Palantir Technologies. È noto per aver finanziato Donald Trump nel 2016 e per aver contribuito all'ascesa di JD Vance alla vicepresidenza USA. Ha dichiarato pubblicamente di non credere che libertà e democrazia siano compatibili. Nel marzo 2026 ha tenuto a Roma quattro lezioni a porte chiuse sull'Anticristo come categoria politica, indicando tra i 'legionari dell'Anticristo' Greta Thunberg, gli ambientalisti e i regolatori di Bruxelles.
 
-**Qual è il vero rischio della sorveglianza algoritmica di Palantir?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è il vero rischio della sorveglianza algoritmica di Palantir?</h3></summary>
 
 Il rischio più profondo non è il controllo visibile (che si può combattere) ma l'adattamento silenzioso. Quando i cittadini sanno di essere leggibili da un sistema algoritmico, cominciano a smussare i propri comportamenti prima ancora che qualcuno lo chieda, diventando prevedibili per default. A quel punto non sono più controllati: sono allineati.
 
-**Qual è lo stato attuale del contratto Palantir con il governo italiano?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è lo stato attuale del contratto Palantir con il governo italiano?</h3></summary>
 
 A fine aprile 2026 è sul tavolo un accordo da venti milioni di euro per quattro anni, ancora senza firma italiana. Il PD ha presentato un'interrogazione parlamentare e l'opposizione chiede chiarimenti, ma il governo prende tempo. In precedenza, nel 2024, era già emersa una procedura secretata per il sistema di sorveglianza Palantir Gotham, di cui non sono noti né durata né aggiudicatario.
+
+</details>
 
 <script type="application/ld+json">
 {

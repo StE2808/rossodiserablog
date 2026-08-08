@@ -244,3 +244,27 @@ def test_self_referential_ignora_gli_articoli_di_legge():
 def test_self_referential_falso_su_domanda_normale():
     from faq_tool import is_self_referential
     assert not is_self_referential("Cos'e la manipolazione algoritmica?")
+
+
+# --- regressione: la conversione non deve spogliare il markdown ---
+
+POST_CON_LINK = POST_BOLD.replace(
+    "Sei tu ad andare a cercare l'informazione.",
+    "Sei tu ad andare a cercare [l'informazione](/un-altro-articolo/), *sempre*.",
+    1).replace(
+    '"text": "Sei tu ad andare a cercare l\'informazione."',
+    '"text": "Sei tu ad andare a cercare l\'informazione, sempre."')
+
+
+def test_to_accordion_preserva_i_link_markdown():
+    nuovo = to_accordion(POST_CON_LINK)
+    assert "[l'informazione](/un-altro-articolo/)" in nuovo
+
+
+def test_to_accordion_preserva_il_corsivo():
+    nuovo = to_accordion(POST_CON_LINK)
+    assert "*sempre*" in nuovo
+
+
+def test_to_accordion_con_link_resta_conforme():
+    assert compare(to_accordion(POST_CON_LINK)) == []

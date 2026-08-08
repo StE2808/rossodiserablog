@@ -51,18 +51,26 @@ I morti di mafia si commemorano. Gli strumenti per combatterla, invece, si smont
 
 ## Domande frequenti
 
-**Cosa ha denunciato il Procuratore antimafia Melillo sulla riforma delle intercettazioni?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa ha denunciato il Procuratore antimafia Melillo sulla riforma delle intercettazioni?</h3></summary>
 
 Il Procuratore nazionale antimafia Giovanni Melillo ha scritto ai ministri Nordio e Piantedosi per denunciare che la riforma sulle intercettazioni ha prodotto un "obiettivo arretramento della linea di efficacia delle investigazioni in materia di criminalità organizzata e terrorismo". Secondo Melillo, le nuove norme rendono immuni dall'utilizzo delle intercettazioni incrociate quasi tutti i reati dei "colletti bianchi" che collaborano con le organizzazioni criminali.
 
-**Perché la riforma Nordio sulle intercettazioni protegge la mafia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché la riforma Nordio sulle intercettazioni protegge la mafia?</h3></summary>
 
 Le nuove norme escludono dall'utilizzo delle intercettazioni incrociate i reati dei cosiddetti "colletti bianchi": professionisti, funzionari e imprenditori che collaborano con le organizzazioni criminali. Sono proprio questi i referenti delle mafie del terzo millennio, quelle che infiltrano la pubblica amministrazione e riciclano denaro senza usare violenza diretta. Indebolire le intercettazioni su questi reati significa lasciare senza strumenti le indagini sui livelli più alti delle organizzazioni criminali.
 
-**Cosa ha fatto la presidente della Commissione antimafia Colosimo con la lettera di Melillo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa ha fatto la presidente della Commissione antimafia Colosimo con la lettera di Melillo?</h3></summary>
 
 La lettera di Melillo è datata 20 aprile 2026, ma la presidente della Commissione antimafia Colosimo non ne ha dato notizia alla commissione per diversi giorni. Un silenzio che, secondo l'articolo, "sa di complicità istituzionale".
 
+</details>
 
 <script type="application/ld+json">
 {

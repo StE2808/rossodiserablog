@@ -80,22 +80,33 @@ La sera del 14 luglio in tanti hanno tremato o festeggiato per un voto di scarto
 
 ## Domande frequenti
 
-**Cosa prevede il Melonellum, la nuova legge elettorale?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa prevede il Melonellum, la nuova legge elettorale?</h3></summary>
 
 Un sistema proporzionale con premio di maggioranza: 70 seggi extra alla Camera e 35 al Senato alla lista o coalizione che supera il 42% dei voti in entrambe le Camere, con un tetto di 220 deputati e 113 senatori (il 55%). Niente preferenze: si vota su liste bloccate compilate dai partiti, e ogni lista deve indicare il candidato premier al deposito del contrassegno. Se nessuno raggiunge il 42%, i seggi si distribuiscono in modo proporzionale.
 
-**Perché il Melonellum viene definito una dittatura della minoranza?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché il Melonellum viene definito una dittatura della minoranza?</h3></summary>
 
 Perché il premio trasforma il 42% dei voti in fino al 55% dei seggi. Con un'affluenza come quella del 2022 (63,9%), il 42% dei votanti corrisponde a circa il 27% degli aventi diritto: poco più di un italiano su quattro controllerebbe Camera e Senato. In più, con le liste bloccate e senza preferenze, la scelta concreta dei parlamentari spetta alle segreterie di partito.
 
-**Il premio di maggioranza del Melonellum è costituzionale?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il premio di maggioranza del Melonellum è costituzionale?</h3></summary>
 
 Probabilmente sì, ed è costruito apposta: nel 2014 la Corte costituzionale ha bocciato il premio senza soglia del Porcellum, ma nel 2017 ha giudicato non irragionevole la soglia del 40% dell'Italicum. Il 42% del Melonellum nasce per stare dentro quel precedente. Alcuni costituzionalisti, come Fulco Lanchester, giudicano comunque il sistema altamente distorsivo.
 
-**Mattarella può fermare la nuova legge elettorale?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Mattarella può fermare la nuova legge elettorale?</h3></summary>
 
 Entro limiti molto stretti. Prima dell'approvazione definitiva può esercitare solo una moral suasion informale. Dopo, può rinviare la legge alle Camere con messaggio motivato una sola volta: se il Parlamento la riapprova, deve promulgarla. Il controllo di legittimità vero spetterebbe alla Corte costituzionale, come già avvenuto con l'Italicum nel 2017.
 
+</details>
 
 <script type="application/ld+json">
 {

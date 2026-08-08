@@ -90,17 +90,26 @@ E questo, forse, dice più cose su di noi che su di lui.
 
 ## Domande frequenti
 
-**Qual è la metafora della scimmia di Forbes?**
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la metafora della scimmia di Forbes?</h3></summary>
 
 La citazione (attribuita a un sociologo brasiliano, forse Galeano o Ribeiro) dice che se una scimmia nella giungla accumulasse tutte le banane impedendo al resto di prenderle, una squadra di biologi andrebbe a studiare questa aberrazione. Se lo fa un uomo, lo mettono sulla copertina di Forbes. La metafora mostra come l'accumulo patologico, che in natura sarebbe classificato come anomalia, venga invece celebrato nella società umana.
 
-**Perché l'accumulo di ricchezza è contrario alle leggi della fisica secondo l'articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché l'accumulo di ricchezza è contrario alle leggi della fisica secondo l'articolo?</h3></summary>
 
 L'articolo richiama la seconda legge della termodinamica: l'universo tende naturalmente a distribuire l'energia in modo uniforme. La concentrazione di ricchezza è l'opposto dell'entropia, e per mantenerla occorre spendere energia continuamente, costruendo muri, casseforti, paradisi fiscali, sistemi legali e polizie. La redistribuzione non è ideologia, ma la direzione naturale in cui le cose vogliono andare.
 
-**Qual è la conclusione dell'articolo sull'accumulo patologico?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la conclusione dell'articolo sull'accumulo patologico?</h3></summary>
 
 I biologi descriverebbero l'accumulo compulsivo come una disfunzione neurologica o un trauma nello sviluppo sociale, qualcuno che ha bisogno di aiuto. L'articolo suggerisce che invece di celebrare questi comportamenti sulle copertine dei giornali, forse varrebbe la pena riconoscere che chi non riesce a smettere di accumulare anche avendo già più di quanto potrebbe consumare in mille vite ha davvero bisogno di sostegno.
+
+</details>
 
 <script type="application/ld+json">
 {

@@ -77,12 +77,29 @@ def parse_jsonld(text):
     return None
 
 
+def _pair(question, answer):
+    """Costruisce una coppia con forma confrontabile e forma da riscrivere."""
+    return {"q": normalize(question), "a": normalize(answer),
+            "q_raw": _collapse(question), "a_raw": _collapse(answer)}
+
+
+def _collapse(s):
+    """Ricompone il testo su una riga sola senza toccarne il markup."""
+    return re.sub(r"\s+", " ", s).strip()
+
+
 def _parse_bold(block):
+    """Estrae le coppie dal formato grassetto.
+
+    Ogni coppia porta sia la forma normalizzata (per il confronto) sia quella
+    grezza (per la riscrittura): normalize() spoglia link e corsivi, che nel
+    testo visibile vanno invece conservati.
+    """
     pairs = []
     marks = list(BOLD_Q.finditer(block))
     for i, m in enumerate(marks):
         end = marks[i + 1].start() if i + 1 < len(marks) else len(block)
-        pairs.append({"q": normalize(m.group(1)), "a": normalize(block[m.end():end])})
+        pairs.append(_pair(m.group(1), block[m.end():end]))
     return pairs
 
 
@@ -93,7 +110,7 @@ def _parse_accordion(block):
         if not qm:
             continue
         answer = chunk[qm.end():].split("</details>")[0]
-        pairs.append({"q": normalize(qm.group(1)), "a": normalize(answer)})
+        pairs.append(_pair(qm.group(1), answer))
     return pairs
 
 
@@ -110,9 +127,11 @@ def render_accordion(pairs, heading="## Domande frequenti"):
     """Costruisce il blocco FAQ come menu a tendina."""
     out = [heading.rstrip(), ""]
     for pair in pairs:
+        domanda = pair.get("q_raw") or pair["q"]
+        risposta = pair.get("a_raw") or pair["a"]
         out += ['<details class="faq-item" markdown="1">',
-                '<summary><h3>{}</h3></summary>'.format(pair["q"]),
-                "", pair["a"], "", "</details>", ""]
+                '<summary><h3>{}</h3></summary>'.format(domanda),
+                "", risposta, "", "</details>", ""]
     return "\n".join(out).rstrip() + "\n"
 
 

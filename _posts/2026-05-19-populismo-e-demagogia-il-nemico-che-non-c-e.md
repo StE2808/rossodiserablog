@@ -41,21 +41,33 @@ Chi blocca un'autostrada o sale su un gommone sgonfio non è il problema di ques
 
 ## Domande frequenti
 
-**Che cosa si intende per populismo in questo articolo?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cosa si intende per populismo in questo articolo?</h3></summary>
 
 Il populismo è quella strategia politica che trasforma la frustrazione collettiva (reale e legittima) in odio verso un capro espiatorio comodo: l'immigrato, chi protesta, chi è diverso. Non propone soluzioni ai problemi concreti, ma usa la paura come unico collante politico.
 
-**Perché Salvini ha attaccato chi manifestava per la Global Sumud Flotilla?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Salvini ha attaccato chi manifestava per la Global Sumud Flotilla?</h3></summary>
 
 Salvini e i suoi hanno deriso le piazze italiane che si sono mobilitate in solidarietà con la Global Sumud Flotilla, la flottiglia civile diretta verso Gaza. È il copione classico del populismo: trasformare il coraggio civile e l'indignazione morale in segno di debolezza, per distogliere l'attenzione dalle risposte politiche che mancano.
 
-**Qual è la differenza tra populismo e demagogia?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la differenza tra populismo e demagogia?</h3></summary>
 
 Il populismo è uno stile politico che divide la società tra popolo puro e nemici interni. La demagogia è il mezzo retorico con cui lo si pratica: si sfruttano le paure, si semplificano i problemi complessi, si indica un capro espiatorio. Salvini li usa in combinazione: la retorica demagogica al servizio di una politica populista che non ha risposte economiche reali.
 
-**Chi è la Global Sumud Flotilla?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi è la Global Sumud Flotilla?</h3></summary>
 
 La Global Sumud Flotilla è la flottiglia civile internazionale che ha ripreso il mare verso Gaza in segno di solidarietà con la popolazione palestinese, mentre Israele continuava la sua operazione militare. Le piazze italiane che la sostengono sono diventate bersaglio della retorica populista di Salvini.
+
+</details>
 
 <script type="application/ld+json">
 {

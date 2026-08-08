@@ -141,21 +141,33 @@ Perché alla fine, il vero potere del racket non sta nella sua forza, ma nella n
 
 ## Domande frequenti
 
-**Che cos'è la teoria del racket di Horkheimer?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è la teoria del racket di Horkheimer?</h3></summary>
 
 Max Horkheimer, filosofo della Scuola di Francoforte, usava il termine 'racket' per descrivere un gruppo di potere (economico, politico o corporativo) che garantisce vantaggi e protezione ai propri membri in cambio di lealtà assoluta, escludendo sistematicamente chi sta fuori. Non si tratta di corruzione classica, ma della trasformazione strutturale dello Stato in club privato dove l'accesso ai benefici dipende dall'appartenenza, non dai diritti universali.
 
-**Come funziona concretamente il meccanismo del racket nella politica italiana secondo l'articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Come funziona concretamente il meccanismo del racket nella politica italiana secondo l'articolo?</h3></summary>
 
 L'articolo descrive un ciclo in sei fasi: un settore economico finanzia campagne e think tank, i think tank producono studi che giustificano riforme specifiche, i politici propongono quelle riforme, commissioni composte da esperti legati al settore le perfezionano, le leggi vengono approvate e infine le risorse pubbliche iniziano a fluire verso quel settore. Come esempio concreto viene citata la sanità pubblica italiana, dove si tagliano medici e infermieri mentre crescono i fondi alle strutture private convenzionate.
 
-**Qual è l'alternativa al sistema del racket proposta dall'articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è l'alternativa al sistema del racket proposta dall'articolo?</h3></summary>
 
 L'articolo propone due livelli di risposta. Il primo è semantico: chiamare le cose con il loro nome, usando termini come 'estrazione', 'cattura istituzionale' e 'racket' invece degli eufemismi ufficiali. Il secondo è costruire dal basso forme di organizzazione alternative (reti di mutuo aiuto, economie cooperative, spazi di democrazia diretta) che sfuggano alla logica delle istituzioni catturate.
 
-**In quale contesto storico Horkheimer sviluppò la teoria del racket?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>In quale contesto storico Horkheimer sviluppò la teoria del racket?</h3></summary>
 
 Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. L'articolo paragona quella crisi alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune.
+
+</details>
 
 <script type="application/ld+json">
 {

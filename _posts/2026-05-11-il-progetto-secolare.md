@@ -63,21 +63,33 @@ Come scriveva Russell, con il cinismo del testimone consapevole: "la critica ser
 
 ## Domande frequenti
 
-**Cosa teorizzava H.G. Wells in The Open Conspiracy del 1928?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa teorizzava H.G. Wells in The Open Conspiracy del 1928?</h3></summary>
 
 In The Open Conspiracy: Blue Prints for a World Revolution (1928) H.G. Wells teorizzò la necessità di una riorganizzazione mondiale guidata da un'élite illuminata. La cospirazione era aperta e dichiarata, scritta nero su bianco: chi la leggeva e non agiva era già considerato consenziente.
 
-**Cosa scrisse Bertrand Russell sul controllo psicologico delle masse?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa scrisse Bertrand Russell sul controllo psicologico delle masse?</h3></summary>
 
 In The Impact of Science on Society (1952) il filosofo e premio Nobel Bertrand Russell descrisse come i progressi in fisiologia e psicologia avrebbero dato ai governi un controllo sull'individualità superiore a quello dei regimi totalitari, attraverso dieta, iniezioni e ingiunzioni fin dalla prima infanzia, fino a rendere la critica seria al potere psicologicamente impossibile.
 
-**Cos'è il sistema a doppio binario descritto nell'articolo?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cos'è il sistema a doppio binario descritto nell'articolo?</h3></summary>
 
 È una struttura in cui una classe dirigente transnazionale si sottrae progressivamente alle regole comuni (fiscali, giudiziarie, sociali) mentre il corpo sociale è soggetto a normative sempre più capillari. Il decreto Meloni del 2022 che ha introdotto il reato penale per i rave party ne è un esempio: si criminalizza il dissenso popolare mentre restano impunite le concentrazioni di potere e privilegio.
 
-**La tesi dell'articolo è una teoria del complotto?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La tesi dell'articolo è una teoria del complotto?</h3></summary>
 
 No. L'articolo distingue esplicitamente tra complotto e inerzia strutturale: le strutture di potere si autoriproducono per inerzia istituzionale, cattura regolatoria e asimmetria informativa, senza bisogno di una regia unica. Russell e Wells non si nascondevano, pubblicavano. Il problema non è la trama segreta, ma il fatto che ogni attore razionale segua il proprio interesse producendo un risultato sistemico invariabile.
+
+</details>
 
 <script type="application/ld+json">
 {

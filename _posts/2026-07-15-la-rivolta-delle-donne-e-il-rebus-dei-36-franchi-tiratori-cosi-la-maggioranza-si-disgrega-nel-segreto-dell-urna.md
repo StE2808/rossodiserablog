@@ -75,22 +75,33 @@ Le elezioni anticipate sembrano ormai ogni giorno più vicine, anche se l'amore 
 
 ## Domande frequenti
 
-**Come è andato il voto sulle preferenze alla Camera?**
+<details class="faq-item" markdown="1">
+<summary><h3>Come è andato il voto sulle preferenze alla Camera?</h3></summary>
 
 Il 14 luglio 2026 la Camera ha respinto con 188 voti contrari contro 187 favorevoli l'emendamento alla legge elettorale che introduceva le preferenze. Un solo voto di scarto, in scrutinio segreto, su un testo firmato da Fratelli d'Italia insieme a Noi Moderati e UDC.
 
-**Quanti sono i franchi tiratori della maggioranza?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanti sono i franchi tiratori della maggioranza?</h3></summary>
 
 Le stime divergono: 31 deputati secondo il conteggio de Il Tempo, tra 40 e 50 secondo Il Post. Nessuno, dentro la maggioranza, sa con certezza quanti siano i dissidenti, perché lo scrutinio segreto non consente di attribuire un voto a nessuno.
 
-**Cosa prevedeva l'emendamento bocciato sulle preferenze?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa prevedeva l'emendamento bocciato sulle preferenze?</h3></summary>
 
 L'emendamento, primo firmatario Galeazzo Bignami, reintroduceva le preferenze in forma mista: un capolista bloccato più la possibilità di esprimere fino a tre preferenze nella stessa lista. Le opposizioni hanno accusato Fratelli d'Italia di aver cancellato alcune norme che garantivano l'alternanza uomo-donna nelle liste.
 
-**Perché Lega e Forza Italia hanno votato con le opposizioni?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Lega e Forza Italia hanno votato con le opposizioni?</h3></summary>
 
 Pur muovendosi da posizioni politiche antitetiche, entrambi i fronti condividevano lo stesso obiettivo: bloccare un sistema che avrebbe consegnato a Giorgia Meloni il controllo assoluto sulle future nomine dei parlamentari. È un accordo di convenienza, non una convergenza politica.
 
+</details>
 
 <script type="application/ld+json">
 {

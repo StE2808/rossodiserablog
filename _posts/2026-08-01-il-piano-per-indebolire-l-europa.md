@@ -120,25 +120,40 @@ I cinquemila di Germania partiranno comunque. La domanda non è se l'America se 
 
 ## Domande frequenti
 
-**Perché l'Italia ha sospeso Schengen con la Spagna?**
+<details class="faq-item" markdown="1">
+<summary><h3>Perché l'Italia ha sospeso Schengen con la Spagna?</h3></summary>
 
 Il 31 luglio 2026, dopo l'ingresso a Ceuta dal Marocco di decine di migliaia di migranti (fino a 60.000 secondo le stime locali), il governo italiano ha sospeso temporaneamente la libera circolazione nei collegamenti marittimi e aerei con la Spagna, reintroducendo i controlli di frontiera in nome della sicurezza nazionale. La Commissione UE ha però precisato che da Ceuta non risultano flussi verso il continente, perché le enclavi hanno un regime Schengen speciale con controlli sistematici alle partenze.
 
-**Dove si trova Ceuta e perché è territorio spagnolo in Africa?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Dove si trova Ceuta e perché è territorio spagnolo in Africa?</h3></summary>
 
 Ceuta è una città autonoma spagnola sulla costa del Nord Africa, davanti allo stretto di Gibilterra, circondata dal territorio marocchino. È sotto sovranità spagnola da più di quattro secoli ed è rivendicata dal Marocco. Insieme a Melilla costituisce l'unico confine terrestre tra l'Unione Europea e l'Africa: per questo è da anni il punto dove la pressione migratoria viene usata come leva nelle tensioni tra Rabat e Madrid.
 
-**Che cos'è la NATO 3.0?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'è la NATO 3.0?</h3></summary>
 
 La NATO 3.0 è la riorganizzazione dell'Alleanza proposta dal segretario alla Difesa USA Pete Hegseth il 18 giugno 2026: gli europei assumono la responsabilità primaria della difesa convenzionale del continente, mentre gli Stati Uniti mantengono l'ombrello nucleare e spostano forze e attenzione verso il Pacifico.
 
-**Cosa prevede la Europe Force Posture Review?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa prevede la Europe Force Posture Review?</h3></summary>
 
 È la revisione della presenza militare americana in Europa avviata dal Pentagono il 28 luglio 2026. In sei mesi deciderà quanti soldati, navi, aerei e basi restano sul continente, con l'obiettivo dichiarato di trasferire in modo "rapido e irreversibile" la difesa convenzionale agli europei. L'esito è atteso per inizio 2027.
 
-**Cosa dice la National Security Strategy americana sull'Europa?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa dice la National Security Strategy americana sull'Europa?</h3></summary>
 
 Nella versione estesa rivelata da Defense One, la strategia definisce la sopravvivenza della NATO "una questione aperta", descrive un'Europa a rischio "cancellazione civilizzazionale" e prevede di "coltivare resistenza alla traiettoria attuale dell'Europa dentro le nazioni europee", cioè di sostenere le forze politiche contrarie all'unità europea.
+
+</details>
 
 <script type="application/ld+json">
 {

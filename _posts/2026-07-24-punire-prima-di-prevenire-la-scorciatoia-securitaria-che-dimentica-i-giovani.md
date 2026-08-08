@@ -68,22 +68,33 @@ La vera domanda, dunque, non è se un quattordicenne debba rispondere delle prop
 
 ## Domande frequenti
 
-**Cosa prevede la stretta sulla giustizia minorile approvata dal governo?**
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa prevede la stretta sulla giustizia minorile approvata dal governo?</h3></summary>
 
 Il disegno di legge non abbassa la soglia della responsabilità penale, che resta fissata a 14 anni, ma cambia il punto di partenza: tra i 14 e i 18 anni la capacità di intendere e di volere sarà presunta, salvo prova contraria. Si passa da una presunzione di non imputabilità a una presunzione di imputabilità.
 
-**Perché Save the Children critica la riforma della giustizia minorile?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Save the Children critica la riforma della giustizia minorile?</h3></summary>
 
 Perché rischia di indebolire la specificità della giustizia minorile: affrontare la violenza giovanile con strumenti sempre più vicini a quelli previsti per gli adulti non è una risposta efficace. I proscioglimenti per immaturità sono ormai residuali: erano 256 nel 2004 e sono scesi a 60 nel 2024.
 
-**Un quattordicenne rispondeva già delle proprie azioni prima della riforma?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Un quattordicenne rispondeva già delle proprie azioni prima della riforma?</h3></summary>
 
 Sì. Dai 14 anni un minore ha sempre risposto penalmente delle proprie azioni quando il giudice ne accertava la maturità caso per caso. La riforma non introduce la responsabilità penale dei minori: inverte la presunzione sulla capacità di intendere e di volere.
 
-**Cosa servirebbe, oltre alla repressione, contro la devianza giovanile?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa servirebbe, oltre alla repressione, contro la devianza giovanile?</h3></summary>
 
 Investimenti in scuole sicure, educatori di strada, servizi sociali, salute mentale infantile, politiche per il lavoro giovanile e recupero delle periferie. La sicurezza duratura nasce da una società capace di offrire istruzione, cultura, inclusione e prospettive, non dal solo inasprimento delle norme penali.
 
+</details>
 
 <script type="application/ld+json">
 {

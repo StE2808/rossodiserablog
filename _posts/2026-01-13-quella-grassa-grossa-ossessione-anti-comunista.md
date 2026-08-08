@@ -80,21 +80,33 @@ In sintesi, emerge chiaro un quadro in cui l’Italia, in cambio di aiuti econom
 
 ## Domande frequenti
 
-**Che cos'era il Piano Demagnetize e quando fu elaborato?**
+<details class="faq-item" markdown="1">
+<summary><h3>Che cos'era il Piano Demagnetize e quando fu elaborato?</h3></summary>
 
 Il Piano Demagnetize era un programma segreto americano elaborato nel 1952 con l'obiettivo di ridurre l'influenza dei partiti comunisti in Italia e Francia, specialmente nei sindacati. Un documento top secret dell'epoca rivela che i governi italiano e francese non dovevano essere informati del piano, poiché interferiva chiaramente con la loro sovranità nazionale.
 
-**Quanti attentati si contarono in Italia negli anni della strategia della tensione e di che matrice erano?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanti attentati si contarono in Italia negli anni della strategia della tensione e di che matrice erano?</h3></summary>
 
 Secondo il decreto del giudice Fiorenza Giorgi, dal 1969 al 1975 si contano 4.584 attentati, l'83% dei quali di matrice della destra eversiva, con 113 morti (di cui 50 vittime delle stragi) e 351 feriti.
 
-**Qual era il legame tra la CIA e le stragi italiane degli anni Settanta?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual era il legame tra la CIA e le stragi italiane degli anni Settanta?</h3></summary>
 
 Il capitano della CIA David Carrett aveva appreso in anticipo le date degli attentati precedenti Piazza Fontana dalla collaborazione con Ordine Nuovo, ma non allertò mai le autorità italiane. Secondo le testimonianze del pentito Carlo Digilio, molti studiosi parlano di Piazza Fontana come 'strage atlantica di Stato'. Roberto Scarpinato, ex magistrato e senatore, ha dichiarato nel 2024 che dalle ultime indagini sulla strage di Brescia è emerso il coinvolgimento dei servizi segreti dell'esercito americano.
 
-**La strategia della tensione raggiunse il suo obiettivo di fermare il PCI?**
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>La strategia della tensione raggiunse il suo obiettivo di fermare il PCI?</h3></summary>
 
 Paradossalmente no. Lo storico Giovanni Sabatucci ha rilevato che negli anni delle maggiori stragi, tra il 1972 e il 1976, il PCI passò dal 27% al 34,4% dei voti. La strage di Bologna del 1980 avvenne addirittura quando l'avanzata comunista aveva già cessato di essere una minaccia elettorale.
+
+</details>
 
 <script type="application/ld+json">
 {
