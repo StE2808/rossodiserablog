@@ -25,3 +25,74 @@ Una riflessione va aperta sui partiti comunisti che sono andati al potere: prima
 Ma ho parlato di partiti comunisti… ma il comunismo era quello o è altro? Pensiamo ai lavoratori trucidati durante gli scioperi nell'Italia appena unita di Vittorio Emanuele II. Oppure ai comunisti morti nei campi di concentramento. Ma anche ai sindacalisti che si sono fatti ammazzare in tanti Paesi. O chi è stato ucciso lottando contro il colonialismo pensando che il comunismo fosse una cosa meravigliosa. Tutti questi erano dei poveri illusi? Forse. Sui principi fondanti e fondamentali delle ideologie però c'è la certezza che mentre da un lato vi è sempre stata la volontà di prevalere, prevaricare, escludere, nell'ideologia comunista è chiara la volontà egualitaria, il rispetto altrui ed il bene comune. 
 
 ![](/assets/images/2023/09/img_4065-1.webp)
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Qual è la differenza tra fascismo e comunismo?</h3></summary>
+
+La differenza sta nei principi fondanti. Nel fascismo, come nel nazismo, c'è la volontà di prevalere, prevaricare ed escludere: la grande nazione, il capo carismatico, il partito unico, i giornali messi a tacere. Nell'ideologia comunista c'è invece la volontà egualitaria, il rispetto altrui e il bene comune. Altra cosa sono le storie concrete, dove il comunismo andato al potere ha spesso tradito quei principi.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto sono durati il fascismo e il nazismo rispetto al comunismo?</h3></summary>
+
+Il fascismo nasce nel 1919 e finisce nel 1945, con la fine della guerra e la morte di Mussolini: più o meno vent'anni, quanto il nazismo. Il movimento comunista nasce nel 1848, con il Manifesto del Partito Comunista di Marx, ed è durato circa 150 anni. Fascismo e nazismo sono rimasti confinati nei paesi d'origine, il comunismo è esistito in tutti i paesi del mondo.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché in Italia ci sono ancora fascisti se il fascismo è finito nel 1945?</h3></summary>
+
+Perché il regime ha governato il Paese a lungo e ha goduto di un fortissimo consenso, costruito su una forma primordiale di populismo. In ogni famiglia italiana ci sono memorie di parenti passati tra le fila del Fascio o tra i partigiani. Quello che viene dopo il 1945 si chiama neofascismo ed è un'altra cosa, ma le origini sono quelle: chi lo rivendica elogia Mussolini per le cose ben fatte.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il comunismo reale è fallito?</h3></summary>
+
+Sì. Il comun denominatore dei partiti comunisti andati al potere, dalla Russia del 1917 in poi, è il fallimento dei progetti. In URSS il governo migliorava la condizione del popolo con più organizzazione ed eguaglianza, ma si ammantava insieme di retorica vuota, propaganda insopportabile e violenza omicida. Il comunismo come ideologia e i regimi che ne hanno preso il nome restano due cose diverse.
+
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qual è la differenza tra fascismo e comunismo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La differenza sta nei principi fondanti. Nel fascismo, come nel nazismo, c'è la volontà di prevalere, prevaricare ed escludere: la grande nazione, il capo carismatico, il partito unico, i giornali messi a tacere. Nell'ideologia comunista c'è invece la volontà egualitaria, il rispetto altrui e il bene comune. Altra cosa sono le storie concrete, dove il comunismo andato al potere ha spesso tradito quei principi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quanto sono durati il fascismo e il nazismo rispetto al comunismo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il fascismo nasce nel 1919 e finisce nel 1945, con la fine della guerra e la morte di Mussolini: più o meno vent'anni, quanto il nazismo. Il movimento comunista nasce nel 1848, con il Manifesto del Partito Comunista di Marx, ed è durato circa 150 anni. Fascismo e nazismo sono rimasti confinati nei paesi d'origine, il comunismo è esistito in tutti i paesi del mondo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché in Italia ci sono ancora fascisti se il fascismo è finito nel 1945?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perché il regime ha governato il Paese a lungo e ha goduto di un fortissimo consenso, costruito su una forma primordiale di populismo. In ogni famiglia italiana ci sono memorie di parenti passati tra le fila del Fascio o tra i partigiani. Quello che viene dopo il 1945 si chiama neofascismo ed è un'altra cosa, ma le origini sono quelle: chi lo rivendica elogia Mussolini per le cose ben fatte."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il comunismo reale è fallito?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì. Il comun denominatore dei partiti comunisti andati al potere, dalla Russia del 1917 in poi, è il fallimento dei progetti. In URSS il governo migliorava la condizione del popolo con più organizzazione ed eguaglianza, ma si ammantava insieme di retorica vuota, propaganda insopportabile e violenza omicida. Il comunismo come ideologia e i regimi che ne hanno preso il nome restano due cose diverse."
+      }
+    }
+  ]
+}
+</script>
