@@ -28,7 +28,7 @@ che in pagina non esiste. Meglio nessuna FAQ che una dichiarata e assente.
 ## Criteri di successo
 
 1. Zero articoli con FAQPage JSON-LD privo del testo visibile corrispondente.
-2. Tutte le domande visibili in `### H3`.
+2. Tutte le FAQ visibili come menu a tendina, con la domanda in `<h3>` dentro il `<summary>`.
 3. Zero domande auto-referenziali.
 4. Rich Results Test valido su un campione dei tre casi (2026 già a posto, 2025 riparato, 2023 riparato).
 5. Regole nuove scritte in `workflow_rossodisera.md` e `seo-geo-riferimento.md`.
@@ -45,14 +45,15 @@ file da ripulire da em-dash e virgolette curve.
 | Comando | Funzione | Modifica i file |
 |---|---|---|
 | `audit` | Produce la tabella dello stato qui sopra | no |
-| `to-h3` | Converte le domande visibili da grassetto a `### H3` | sì |
-| `sync-visible` | Sui 49: estrae le coppie domanda/risposta dal JSON-LD e le scrive in pagina, già in H3 | sì |
+| `to-accordion` | Converte le FAQ visibili da grassetto a `<details>` con `<h3>` nel `<summary>` | sì |
+| `sync-visible` | Sui 49: estrae le coppie domanda/risposta dal JSON-LD e le scrive in pagina, già in accordion | sì |
 | `verify` | Confronta visibile e JSON-LD, exit 1 al primo mismatch | no |
 
 `verify` è il guardiano: gira dopo ogni comando che scrive e prima di ogni commit.
 
-Nota sull'ordine: `to-h3` agisce solo sui 74 articoli che hanno già le FAQ visibili in grassetto.
-I 49 riparati da `sync-visible` nascono direttamente in H3, quindi non vanno ripassati.
+Nota sull'ordine: `to-accordion` agisce solo sui 74 articoli che hanno già le FAQ visibili in
+grassetto. I 49 riparati da `sync-visible` nascono direttamente in formato accordion, quindi non
+vanno ripassati.
 
 ### Regole di robustezza
 
@@ -68,6 +69,33 @@ Derivano tutte da errori già commessi, non sono precauzioni teoriche.
   e al visibile per non spezzare la corrispondenza.
 - `sync-visible` è verbatim: il testo esiste già nel JSON-LD, lo stiamo solo rendendo visibile.
   Zero contenuto nuovo in questa fase, coerente col guardrail "niente dati inventati".
+
+## Formato scelto: menu a tendina
+
+Le FAQ sono rese come fisarmonica, formato esplicitamente valido per Google (il testo dentro un
+accordion è considerato in chiaro). Verificato con kramdown 2.5.2 il 2026-08-08:
+
+```html
+<details class="faq-item" markdown="1">
+<summary><h3>Domanda?</h3></summary>
+
+Risposta in markdown, link interni compresi.
+
+</details>
+```
+
+Esiti del test di rendering:
+
+- `markdown="1"` fa processare il contenuto come markdown: corsivi, grassetti e link interni
+  funzionano dentro il `details`.
+- L'`<h3>` dentro il `<summary>` viene emesso intatto, quindi accordion e heading coesistono e
+  soddisfiamo entrambi i punti della guida Google.
+- Kramdown converte gli apostrofi dritti in curvi nel rendering HTML. La corrispondenza col
+  JSON-LD è quindi semantica e non byte a byte. Vale già oggi per le FAQ in grassetto degli
+  articoli 2026, che risultano valide, quindi non è un ostacolo.
+
+Serve una regola CSS per `.faq-item` in `style.css`: l'`h3` dentro il `summary` è display block e
+manderebbe a capo l'indicatore di apertura.
 
 ## Le 25 domande auto-referenziali
 
@@ -91,12 +119,15 @@ lavoro di internal linking ha già un suo filone aperto.
 
 ## Ordine di esecuzione
 
-1. `audit` e sviluppo dello script.
-2. `to-h3` sui 74 articoli con FAQ visibile (rischio basso, nessun testo cambia).
-3. `sync-visible` sui 49 articoli.
-4. `verify` a zero mismatch, poi `bundle exec jekyll build` in locale.
-5. Push, e attesa che il run GitHub Actions risulti `completed`. Verificare con curl che l'URL
-   risponda 200 non basta: il sito resta online con la versione vecchia per tutta la build.
+1. `audit` e sviluppo dello script, più la regola CSS `.faq-item`.
+2. Pilota: `to-accordion` su un solo articolo, push, verifica in produzione. Jekyll non è
+   installato in locale (c'è solo il Ruby di sistema 2.6, senza le gem), quindi il rendering reale
+   si vede solo dopo il deploy: il pilota sostituisce il build locale come rete di sicurezza.
+3. `to-accordion` sui restanti 73 articoli con FAQ visibile.
+4. `sync-visible` sui 49 articoli.
+5. `verify` a zero mismatch, poi push, attendendo che il run GitHub Actions risulti `completed`.
+   Verificare con curl che l'URL risponda 200 non basta: il sito resta online con la versione
+   vecchia per tutta la build.
 6. Rich Results Test su tre URL, uno per anno.
 7. Riscrittura delle 25 domande, in coppia JSON-LD più visibile, con revisione prima del commit.
 8. Aggiornamento di `workflow_rossodisera.md`, `seo-geo-riferimento.md` e `CLAUDE.md`.
@@ -114,9 +145,8 @@ dopo una re-iniezione da credentials.yaml, controllare per prima cosa quel campo
 
 ## Fuori scope
 
-- Accordion a fisarmonica: valido per Google, ma aggiunge HTML dentro il markdown su 123 articoli
-  e mette un clic tra lettore e risposta. Il testo in chiaro è già pienamente valido.
-- Stile CSS dedicato per il blocco FAQ.
+- Ancore linkabili sulle singole domande: kramdown non genera gli id automatici sugli heading
+  scritti come HTML raw dentro il `summary`. Recuperabili in futuro scrivendo l'id a mano.
 - Aggiunta di FAQPage agli articoli che non ce l'hanno (121 post, soprattutto 2024 e 2023): è il
   batch GEO arretrato, ha una sua pianificazione.
 - Riscrittura delle domande non auto-referenziali fuori dal perimetro data-driven.
