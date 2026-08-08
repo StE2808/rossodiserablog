@@ -12,9 +12,21 @@ Disallow: /admin/
 Disallow: /guida-autori/
 Disallow: /terrata/
 
-# Bot di citazione AI (ricerca e risposta) — consentiti
-# Questi bot permettono al sito di essere citato da ChatGPT, Perplexity, ecc.
-# NON usano i contenuti per addestrare modelli
+# ─────────────────────────────────────────────────────────────────────
+# La regola e' una sola: prendete pure, ma dite da dove.
+#
+# CONSENTITI i bot che citano la fonte e mandano lettori qui: e' la sola
+# forma di reciprocita' che questo scambio prevede, e ci sta bene.
+#
+# NON CONSENTITI i bot che raccolgono testi per addestrare modelli: li'
+# la fonte sparisce e non torna niente a chi ha scritto. Sappiamo che
+# questo divieto ferma poco o nulla, e che parte di quanto pubblichiamo
+# e' probabilmente gia' finita in qualche set di addestramento per vie
+# traverse. Resta scritto lo stesso, perche' e' la nostra posizione e
+# non ci costa tacerla.
+# ─────────────────────────────────────────────────────────────────────
+
+# Bot di citazione (ricerca e risposta): consentiti
 
 User-agent: PerplexityBot
 Allow: /
@@ -30,3 +42,28 @@ Allow: /
 
 User-agent: Applebot
 Allow: /
+
+# Bot di addestramento: non consentiti
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
