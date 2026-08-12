@@ -74,6 +74,10 @@ defaults:
       path: "terrata"
     values:
       sitemap: false
+  - scope:
+      path: "villa_rosa"
+    values:
+      sitemap: false
 
 # Esclusioni
 exclude:
