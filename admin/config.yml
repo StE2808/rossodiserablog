@@ -118,7 +118,6 @@ collections:
           - bulleted-list
           - numbered-list
           - code
-          - code-block
 
   - name: "authors"
     label: "Autori"
