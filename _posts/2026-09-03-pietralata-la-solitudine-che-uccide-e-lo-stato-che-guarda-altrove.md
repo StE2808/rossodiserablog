@@ -2,7 +2,7 @@
 layout: post
 title: Pietralata, la solitudine che uccide. E lo Stato che guarda altrove
 seo_title: 'Pietralata, la strage familiare e il fallimento del welfare: la solitudine che uccide'
-description: A Pietralata muoiono Luca, Valentina, la piccola Bianca e il cane Teo. I biglietti d’addio raccontano la solitudine di una famiglia lasciata sola dallo Stato.
+description: A Pietralata muoiono Luca, Valentina, la piccola Bianca e il cane Teo. I biglietti d'addio raccontano la solitudine di una famiglia lasciata sola dallo Stato.
 date: 2026-09-03 09:19:00 +0200
 author: lino-rialti
 category: cronaca-nera
@@ -11,7 +11,7 @@ tags:
 image: /assets/images/uploads/IMG_7471.webp
 image_caption: 'La famiglia al completo: Luca, Valentina, la piccola Bianca e Teo'
 image_alt: 'La famiglia al completo: Luca, Valentina, la piccola Bianca e Teo'
-excerpt: Una famiglia romana muore in un omicidio-suicidio dopo anni di isolamento nella gestione della grave disabilità della figlia. I biglietti trovati in casa parlano di una richiesta d’aiuto rimasta inascoltata. Il pezzo collega la tragedia ai tagli su sanità, sostegno psicologico e istruzione, e al clima pubblico di stigma verso i più fragili.
+excerpt: Una famiglia romana muore in un omicidio-suicidio dopo anni di isolamento nella gestione della grave disabilità della figlia. I biglietti trovati in casa parlano di una richiesta d'aiuto rimasta inascoltata. Il pezzo collega la tragedia ai tagli su sanità, sostegno psicologico e istruzione, e al clima pubblico di stigma verso i più fragili.
 focus_keyword: omicidio-suicidio Pietralata
 ---
 
