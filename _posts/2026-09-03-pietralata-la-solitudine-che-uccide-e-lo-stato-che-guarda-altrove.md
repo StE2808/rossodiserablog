@@ -8,7 +8,7 @@ author: lino-rialti
 category: cronaca-nera
 tags:
   - Pietralata, omicidio-suicidio, disabilità, welfare, sanità pubblica, sostegno psicologico, classi differenziate, spesa militare, Roma, cronaca
-image: /assets/images/uploads/IMG_7471.jpeg
+image: /assets/images/uploads/IMG_7471.webp
 image_caption: 'La famiglia al completo: Luca, Valentina, la piccola Bianca e Teo'
 image_alt: 'La famiglia al completo: Luca, Valentina, la piccola Bianca e Teo'
 excerpt: Una famiglia romana muore in un omicidio-suicidio dopo anni di isolamento nella gestione della grave disabilità della figlia. I biglietti trovati in casa parlano di una richiesta d’aiuto rimasta inascoltata. Il pezzo collega la tragedia ai tagli su sanità, sostegno psicologico e istruzione, e al clima pubblico di stigma verso i più fragili.
