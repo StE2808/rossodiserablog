@@ -3,7 +3,7 @@ layout: post
 title: Pietralata, la solitudine che uccide. E lo Stato che guarda altrove
 seo_title: 'Pietralata, la strage familiare e il fallimento del welfare: la solitudine che uccide'
 description: A Pietralata muoiono Luca, Valentina, la piccola Bianca e il cane Teo. I biglietti d’addio raccontano la solitudine di una famiglia lasciata sola dallo Stato.
-date: 2026-09-03 09:15:00 +0200
+date: 2026-09-03 09:19:00 +0200
 author: lino-rialti
 category: cronaca-nera
 tags:
