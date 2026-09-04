@@ -29,9 +29,9 @@ Premesso che, proprio per la Legge, Roggero è un colpevole perché responsabile
 
 ## Cosa dice davvero l'articolo 52 e la riforma Salvini del 2019
 
-**La legittima difesa** è la causa di giustificazione, regolata dall'articolo 52 del Codice Penale, che rende non punibile chi reagisce a un'aggressione ingiusta e attuale, a condizione che la reazione sia proporzionata all'offesa. Le parole che contano sono due: *attuale* e *proporzionata*.
+**La legittima difesa** è la causa di giustificazione, regolata dall'[articolo 52 del Codice Penale](https://www.brocardi.it/codice-penale/libro-primo/titolo-iii/capo-i/art52.html), che rende non punibile chi reagisce a un'aggressione ingiusta e attuale, a condizione che la reazione sia proporzionata all'offesa. Le parole che contano sono due: *attuale* e *proporzionata*.
 
-Nel 2019 la riforma promossa da Matteo Salvini ha introdotto il principio per cui la difesa all'interno del proprio domicilio o negozio è "sempre" legittima se si respinge un'intrusione violenta o minacciosa. Quel "sempre", però, ha dovuto rispettare il perimetro della Costituzione e della Convenzione Europea dei Diritti dell'Uomo: non esiste una licenza di uccidere automatica, e l'uso delle armi resta punibile se c'è una palese sproporzione o se il pericolo è ormai cessato.
+Nel 2019 la [riforma promossa da Matteo Salvini](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-04-26;36) (legge 26 aprile 2019, n. 36) ha introdotto il principio per cui la difesa all'interno del proprio domicilio o negozio è "sempre" legittima se si respinge un'intrusione violenta o minacciosa. Quel "sempre", però, ha dovuto rispettare il perimetro della Costituzione e della Convenzione Europea dei Diritti dell'Uomo: non esiste una licenza di uccidere automatica, e l'uso delle armi resta punibile se c'è una palese sproporzione o se il pericolo è ormai cessato.
 
 È esattamente qui che il caso di Mario Roggero, il gioielliere di Grinzane Cavour, incarna il limite legale. I video e le perizie hanno dimostrato che Roggero inseguì i malviventi fuori dal negozio, sparando mentre questi erano ormai in fuga e non costituivano più una minaccia immediata per la sua vita. Non è la difesa a essere stata delegittimata: è l'inseguimento a non essere difesa.
 
@@ -45,7 +45,7 @@ Il 28 aprile 2021, tre uomini tentarono una rapina nella gioielleria di Roggero,
 | Appello | Corte d'Assise d'Appello di Torino | dicembre 2025 | 14 anni e 9 mesi |
 | Cassazione | Prima sezione penale | 15 luglio 2026 | 14 anni e 9 mesi, definitiva |
 
-Con il rigetto del ricorso dei legali diventa definitivo anche il pagamento delle provvisionali immediatamente esecutive, per complessivi 480mila euro. Roggero, oggi 72 anni, ha commentato: "è finita, vado in carcere", annunciando che si sarebbe costituito subito.
+Con il [rigetto del ricorso dei legali](https://www.ansa.it/sito/notizie/cronaca/2026/07/15/gioielliere-uccise-due-banditi-pg-cassazione-chiede-la-conferma-della-condanna-per_7451dd1c-0381-4287-ad63-09fea9ade74c.html) diventa definitivo anche il pagamento delle provvisionali immediatamente esecutive, per complessivi 480mila euro. Roggero, oggi 72 anni, ha commentato: "è finita, vado in carcere", annunciando che si sarebbe costituito subito.
 
 Vale la pena notare il dettaglio che quasi nessuno ha raccontato: la pena è stata ridotta di oltre due anni tra primo grado e appello. Una magistratura accanita, come la si dipinge, non avrebbe fatto sconti.
 
@@ -65,7 +65,7 @@ Ed ora sarebbe il caso di smetterla di parlare di questo assassino e dovremmo in
 
 Una precisazione doverosa: qui si discute di diritto e di uso politico di una sentenza, non del dolore di chi subisce una rapina, che resta intatto e non si discute.
 
-*Fonti: Ansa, Il Fatto Quotidiano, Open, Adnkronos (15 luglio 2026).*
+*Fonti: [Ansa](https://www.ansa.it/sito/notizie/cronaca/2026/07/15/gioielliere-uccise-due-banditi-pg-cassazione-chiede-la-conferma-della-condanna-per_7451dd1c-0381-4287-ad63-09fea9ade74c.html), [Il Post](https://www.ilpost.it/2026/07/15/cassazione-conferma-condanna-gioielliere-mario-roggero/), [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it/2026/07/15/condanna-definitiva-per-il-gioielliere-che-uccise-due-rapinatori-14-anni-e-9-mesi-vannacci-aveva-detto/8449762/), [Open](https://www.open.online/2026/07/15/mario-roggero-sentenza-cassazione-gioielliere-grinzane-cavour/) (15 luglio 2026). Testi di legge: [art. 52 c.p.](https://www.brocardi.it/codice-penale/libro-primo/titolo-iii/capo-i/art52.html), [legge 36/2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-04-26;36).*
 
 ## Domande frequenti
 

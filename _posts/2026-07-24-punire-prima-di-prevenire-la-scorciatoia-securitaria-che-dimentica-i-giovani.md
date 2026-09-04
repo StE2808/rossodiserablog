@@ -34,7 +34,7 @@ excerpt: 'La nuova stretta sulla giustizia minorile segna un ulteriore passo ver
 focus_keyword: Stretta sulla giustizia minorile
 ---
 
-Con il disegno di legge approvato ieri dal Consiglio dei ministri, il governo interviene ancora una volta sul terreno della sicurezza, modificando uno dei principi cardine della giustizia minorile. La soglia della responsabilità penale non viene abbassata, resta fissata a 14 anni, ma cambia radicalmente il punto di partenza: tra i 14 e i 18 anni la capacità di intendere e di volere sarà presunta, salvo prova contraria. Si passa così da una **presunzione di non imputabilità** a una **presunzione di imputabilità**.
+Con il disegno di legge approvato il 23 luglio 2026 dal Consiglio dei ministri ([comunicato n. 182](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-182/32393)), su proposta della presidente Giorgia Meloni e del ministro della Giustizia Carlo Nordio, il governo interviene ancora una volta sul terreno della sicurezza, modificando uno dei principi cardine della giustizia minorile: la norma riscrive l'[articolo 98 del Codice Penale](https://www.brocardi.it/codice-penale/libro-primo/titolo-iv/capo-i/art98.html). La soglia della responsabilità penale non viene abbassata, resta fissata a 14 anni, ma cambia radicalmente il punto di partenza: tra i 14 e i 18 anni la capacità di intendere e di volere sarà presunta, salvo prova contraria. Si passa così da una **presunzione di non imputabilità** a una **presunzione di imputabilità**.
 
 > **Il punto**: la stretta sulla giustizia minorile non abbassa la soglia dei 14 anni, ma inverte il punto di partenza per i 14-18enni. E affida ancora una volta alla repressione il compito che spetterebbe alla prevenzione: scuola, servizi sociali, salute mentale, lavoro giovanile.
 
@@ -52,19 +52,29 @@ Con il disegno di legge approvato ieri dal Consiglio dei ministri, il governo in
 
 Il problema è che la repressione viene proposta come risposta principale a fenomeni che hanno radici ben più profonde. La criminalità minorile non nasce nel vuoto: cresce dove aumentano povertà educativa, dispersione scolastica, disagio psicologico, [marginalità sociale](/aporofobia-quando-la-poverta-diventa-colpa/) e assenza di opportunità. E proprio su questi fronti l'Italia continua a registrare criticità che nessun decreto penale può risolvere.
 
-Non a caso, Save the Children ha definito la riforma una scelta che rischia di indebolire la specificità della giustizia minorile, ricordando che affrontare la violenza giovanile con strumenti sempre più vicini a quelli previsti per gli adulti non rappresenta una risposta efficace. L'organizzazione evidenzia inoltre come i casi di proscioglimento per immaturità siano ormai residuali: erano 256 nel 2004 e sono scesi a 60 nel 2024, segno che il sistema già oggi accerta con rigore la capacità del minore caso per caso.
+Non a caso, [Save the Children](https://www.savethechildren.it/press/imputabilita-minori-no-ad-adultizzazione-del-sistema-di-giustizia-minorile) ha definito la riforma una scelta che rischia di indebolire la specificità della giustizia minorile, ricordando che affrontare la violenza giovanile con strumenti sempre più vicini a quelli previsti per gli adulti non rappresenta una risposta efficace. L'organizzazione evidenzia inoltre come i casi di proscioglimento per immaturità siano ormai residuali: erano 256 nel 2004 e sono scesi a 60 nel 2024, segno che il sistema già oggi accerta con rigore la capacità del minore caso per caso.
 
 Il rischio è quello di deresponsabilizzare lo Stato sulle proprie funzioni essenziali. È più semplice aumentare le norme penali che investire in scuole sicure, educatori di strada, servizi sociali, salute mentale infantile, politiche per il lavoro giovanile o recupero delle periferie. Eppure è proprio lì che si costruisce la sicurezza duratura.
 
 ## Baby gang e disagio giovanile: cosa dicono davvero i dati
 
-Anche gli stessi dati sulla devianza giovanile raccontano una realtà più complessa della [narrazione emergenziale](/rogoredo-la-verita-che-il-governo-non-voleva-sentire/). Le baby gang rappresentano un fenomeno circoscritto, mentre il disagio adolescenziale è cresciuto in modo molto più ampio: aumentano le richieste di supporto psicologico, cresce il numero dei giovani che abbandonano precocemente scuola o formazione e resta elevato il numero dei ragazzi che non studiano e non lavorano. In questo contesto, limitarsi a rafforzare la risposta penale significa intervenire sugli effetti senza affrontarne le cause.
+Anche gli stessi dati sulla devianza giovanile raccontano una realtà più complessa della [narrazione emergenziale](/rogoredo-la-verita-che-il-governo-non-voleva-sentire/). Le baby gang rappresentano un fenomeno circoscritto, mentre il disagio adolescenziale ha dimensioni molto più larghe. E i numeri vanno letti per quello che dicono davvero, non per quello che farebbe comodo: secondo i [dati ISTAT presentati in audizione parlamentare](https://www.istat.it/wp-content/uploads/2025/10/Istat-Audizione-poverta-educativa-7-ottobre-2025.pdf) il 7 ottobre 2025, l'abbandono precoce degli studi sta calando, ma resta concentrato esattamente dove mancano i servizi.
+
+| Indicatore (dati 2024) | Italia | Il divario che conta |
+|---|---|---|
+| Giovani 18-24 anni usciti presto dagli studi | 9,8% (era il 10,5% nel 2023) | 12,4% nel Mezzogiorno contro 8,4% al Nord |
+| Stessa fascia, cittadinanza straniera | 24,3% | quasi tre volte l'8,5% dei coetanei italiani |
+| NEET, 15-29 anni che non studiano e non lavorano | 15,2% (erano il 23,7% nel 2020) | oltre il 25% in Calabria (26,2%) e Sicilia (25,7%) |
+
+Il target europeo per il 2030 sull'abbandono precoce è il 9%: siamo vicini alla media, lontanissimi dall'uniformità. Un ragazzo del Mezzogiorno lascia la scuola una volta e mezza più spesso di uno del Nord, uno straniero quasi tre volte più spesso di un italiano. In questo contesto, limitarsi a rafforzare la risposta penale significa intervenire sugli effetti senza affrontarne le cause.
 
 ## Prevenire prima di punire: la responsabilità dello Stato
 
 Uno Stato autorevole non è quello che punisce per primo, ma quello che previene per primo. La sicurezza non nasce soltanto dall'inasprimento delle norme: nasce da una società capace di offrire istruzione, cultura, inclusione e prospettive. Quando queste mancano, il diritto penale rischia di diventare il surrogato di politiche sociali assenti.
 
 La vera domanda, dunque, non è se un quattordicenne debba rispondere delle proprie azioni. Lo ha sempre fatto quando il giudice ne accertava la maturità. La domanda è un'altra: quale responsabilità si assume lo Stato quando, invece di investire sulle condizioni che tengono i ragazzi lontani dalla devianza, sceglie ancora una volta di affidare alla repressione il compito di colmare il fallimento della prevenzione?
+
+*Fonti: [comunicato del Consiglio dei ministri n. 182](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-182/32393) (23 luglio 2026), [Save the Children](https://www.savethechildren.it/press/imputabilita-minori-no-ad-adultizzazione-del-sistema-di-giustizia-minorile), [ISTAT, audizione su povertà educativa e dispersione scolastica](https://www.istat.it/wp-content/uploads/2025/10/Istat-Audizione-poverta-educativa-7-ottobre-2025.pdf) (7 ottobre 2025), [Sistema Penale](https://www.sistemapenale.it/it/notizie/presunzione-di-imputabilita-per-i-minori-infradiciottenni-il-consiglio-dei-ministri-approva-un-disegno-di-legge).*
 
 ## Domande frequenti
 
