@@ -11,7 +11,7 @@ tags:
   - Governo Meloni
   - Record longevità
   - Festa Bari
-image: /assets/images/uploads/IMG_7480.jpeg
+image: /assets/images/uploads/IMG_7480.webp
 image_caption: Il manifesto della celebrazione di Bari
 image_alt: Un cartello che dichiara governo più stabile Italia più forte
 excerpt: Il 4 settembre 2026 il governo Meloni supera il Berlusconi II e diventa il più longevo della Repubblica. Ma dietro la festa di Bari — 80 pullman, luminarie, corteo di protesta tenuto a distanza — il bilancio reale racconta di riforme mai fatte, promesse elettorali disattese, povertà che non arretra (5,7 milioni di persone secondo l'Istat) e un decreto sicurezza contestato da Cassazione e accademia per profili di illegittimità costituzionale.
