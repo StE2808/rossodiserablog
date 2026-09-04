@@ -10,8 +10,9 @@
     pages: write
     id-token: write
 
-  # Group condiviso con convert-webp.yml: serializza i due workflow per evitare
-  # la race condition sul git push (entrambi committano sul main toccando i post).
+  # Evita deploy concorrenti sullo stesso branch. Dal 2026-09-04 la conversione WebP
+  # avviene qui dentro (vedi passo dedicato) e non esiste piu' un secondo workflow che
+  # committa sul main, quindi non c'e' piu' nessuna race condition da serializzare.
   concurrency:
     group: "rossodisera-publish"
     cancel-in-progress: false
@@ -99,6 +100,65 @@
               git pull --rebase origin main
               git push
             fi
+
+        - name: Genera i WebP mancanti e riscrive i riferimenti (solo per il build)
+          run: |
+            sudo apt-get install -y webp
+            python3 << 'PYTHON_SCRIPT'
+            import os, re, subprocess
+
+            # I .webp sono artefatti di build: si generano qui e NON vengono committati.
+            # Il repo tiene le immagini originali caricate dal CMS, il sito serve i webp.
+            # Prima erano prodotti da convert-webp.yml, che committava e pushava: quel push,
+            # fatto con il GITHUB_TOKEN di default, non innescava un nuovo build (regola di
+            # GitHub contro i loop), e il sito restava fermo al commit precedente, senza webp.
+            UPLOADS = 'assets/images/uploads'
+            ESTENSIONI = ('.jpg', '.jpeg', '.png')
+
+            generati, gia_presenti = [], 0
+            basi_con_webp = set()
+
+            for nome in sorted(os.listdir(UPLOADS)):
+                base, ext = os.path.splitext(nome)
+                if ext.lower() not in ESTENSIONI:
+                    continue
+                webp = os.path.join(UPLOADS, base + '.webp')
+                if os.path.exists(webp):
+                    gia_presenti += 1
+                else:
+                    subprocess.run(['cwebp', '-quiet', '-q', '80',
+                                    os.path.join(UPLOADS, nome), '-o', webp], check=True)
+                    generati.append(nome)
+                basi_con_webp.add(base)
+
+            print(f'WebP generati ora: {len(generati)} | gia presenti nel repo: {gia_presenti}')
+            for n in generati:
+                print(f'  + {n}')
+
+            # Riscrive i riferimenti nei post: front matter, markdown e html insieme,
+            # con o senza slash iniziale. Solo per le immagini che un .webp ce l'hanno.
+            riferimento = re.compile(
+                r'(assets/images/uploads/([^/\s"\'\)]+?))\.(jpe?g|png)\b',
+                re.IGNORECASE,
+            )
+
+            def sostituisci(m):
+                return m.group(0) if m.group(2) not in basi_con_webp else f'{m.group(1)}.webp'
+
+            aggiornati = 0
+            for filename in sorted(os.listdir('_posts')):
+                if not filename.endswith('.md'):
+                    continue
+                path = os.path.join('_posts', filename)
+                with open(path, encoding='utf-8') as f:
+                    contenuto = f.read()
+                nuovo = riferimento.sub(sostituisci, contenuto)
+                if nuovo != contenuto:
+                    with open(path, 'w', encoding='utf-8') as f:
+                        f.write(nuovo)
+                    aggiornati += 1
+            print(f'Post con riferimenti riscritti per il build: {aggiornati}')
+            PYTHON_SCRIPT
 
         - name: Setup Pages
           id: pages

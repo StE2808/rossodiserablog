@@ -52,3 +52,4 @@ dashboard/
 # cache Python degli script interni
 __pycache__/
 *.pyc
+assets/images/uploads/*.webp

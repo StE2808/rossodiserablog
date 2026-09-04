@@ -26,7 +26,7 @@ tags:
   - Consiglio supremo di difesa
   - Guido Crosetto
 focus_keyword: "Avvocatura dello Stato Italia in guerra"
-image: /assets/images/uploads/porto-ravenna-tramonto.webp
+image: /assets/images/uploads/porto-ravenna-tramonto.jpeg
 image_caption: Tramonto sul porto commerciale di Ravenna (foto Simone Masini, CC BY-SA 4.0)
 image_alt: "Gru e silos del porto commerciale di Ravenna in controluce al tramonto, con una piccola barca da pesca in primo piano"
 excerpt: "Una giornalista chiede quante armi sono passate dal porto di Ravenna nel 2025. Solo i numeri, niente nomi. Per non rispondere, l'Avvocatura dello Stato mette per iscritto che l'Italia partecipa a una guerra mondiale a pezzi e ibrida. Una guerra che nessun Parlamento ha mai deliberato, e che serve a coprire con il segreto proprio i dati che permetterebbero di verificare se la legge sull'export di armi viene rispettata."
