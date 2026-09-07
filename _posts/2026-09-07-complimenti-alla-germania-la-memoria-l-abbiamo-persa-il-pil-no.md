@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Complimenti alla Germania: la memoria l'abbiamo persa, il PIL no"
-seo_title: 'Complimenti alla Germania: la memoria l’abbiamo persa, il PIL no'
-description: L’AfD trionfa in Sassonia-Anhalt col 44,2%. Un’analisi ironica su memoria storica, PIL, debito pubblico e turbocapitalismo che affama l’Europa.
+seo_title: "Complimenti alla Germania: la memoria l'abbiamo persa, il PIL no"
+description: L'AfD trionfa in Sassonia-Anhalt col 44,2%. Un'analisi ironica su memoria storica, PIL, debito pubblico e turbocapitalismo che affama l'Europa.
 date: 2026-09-07 10:13:00 +0200
 author: lino-rialti
 category: politica-estera
@@ -23,7 +23,7 @@ tags:
 image: /assets/images/uploads/IMG_7488.jpeg
 image_caption: Siegmund Ulrich, candidato di Afd in Sassonia-Anhalt
 image_alt: Siegmund Ulrich, candidato di Afd in Sassonia-Anhalt
-excerpt: 'Il 44,2% raccolto dall’AfD in Sassonia-Anhalt, con la CDU crollata al 18%, apre una riflessione ironica e pungente su chi trae vantaggio dalla polarizzazione sociale in Europa. Il pezzo intreccia la rimozione della memoria storica tedesca con quattro nodi economici: il dogma della crescita del PIL su un pianeta dalle risorse finite, l’uso strumentale del debito pubblico per giustificare tagli al welfare, la povertà energetica e salariale che convive con profitti record, e il ruolo dei grandi patrimoni nel finanziare campagne che scaricano le colpe del sistema su migranti, disoccupati e poveri.'
+excerpt: "Il 44,2% raccolto dall'AfD in Sassonia-Anhalt, con la CDU crollata al 18%, apre una riflessione ironica e pungente su chi trae vantaggio dalla polarizzazione sociale in Europa. Il pezzo intreccia la rimozione della memoria storica tedesca con quattro nodi economici: il dogma della crescita del PIL su un pianeta dalle risorse finite, l'uso strumentale del debito pubblico per giustificare tagli al welfare, la povertà energetica e salariale che convive con profitti record, e il ruolo dei grandi patrimoni nel finanziare campagne che scaricano le colpe del sistema su migranti, disoccupati e poveri."
 focus_keyword: ''
 ---
 
