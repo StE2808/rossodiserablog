@@ -18,7 +18,7 @@ tags:
   - Vannacci
   - Futuro Nazionale
   - Populismo
-image: /assets/images/uploads/3BA60824-AE52-40DB-9A54-9399074F5AB2.png
+image: /assets/images/uploads/videocrazia-social-spazzatura.jpeg
 image_caption: Berlusconi, Meloni e Vannacci sulle macerie d'Italia
 image_alt: Berlusconi, Meloni e Vannacci sulle macerie d'Italia
 excerpt: Il pezzo denuncia la continuità tra l'era della videocrazia berlusconiana e quella attuale dei social, mostrando come entrambe abbiano eroso il dibattito pubblico, normalizzato l'odio e riabilitato retoriche estremiste, con il caso Vannacci/Futuro Nazionale come esempio concreto.
