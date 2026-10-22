@@ -2,7 +2,7 @@
 layout: post
 title: 'Tre piazze, un solo bersaglio: Palazzo Chigi Maranza, studenti, tir e trattori: il governo Meloni nel pallone'
 seo_title: 'Tre piazze, un solo bersaglio: Palazzo Chigi Maranza, studenti, tir e trattori: il governo Meloni nel pallone'
-description: 'Saccheggi a Milano, piazze studentesche, tir e trattori bloccati al Sud: tre fronti aperti per Meloni. Incapacità o convenienza? L’analisi.'
+description: "Saccheggi a Milano, piazze studentesche, tir e trattori bloccati al Sud: tre fronti aperti per Meloni. Incapacità o convenienza? L'analisi."
 date: 2026-10-22 06:57:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -23,7 +23,7 @@ tags:
 image: /assets/images/uploads/IMG_7593.jpeg
 image_caption: Meloni nel pallone
 image_alt: Cartello con varie scene di scioperi e disordini e Giorgia Meloni smarrita al centro della vicenda non sa che pesci pigliare
-excerpt: 'Disordini a Milano, cortei studenteschi, blocchi dei camionisti e proteste degli agricoltori: per il governo Meloni si aprono tre fronti nello stesso fine settimana. L’articolo si chiede se prevalga l’incapacità di prevenire o la convenienza di distogliere l’attenzione, e avanza l’ipotesi, da verificare, di regie ricattatorie dietro i blocchi del Sud.'
+excerpt: "Disordini a Milano, cortei studenteschi, blocchi dei camionisti e proteste degli agricoltori: per il governo Meloni si aprono tre fronti nello stesso fine settimana. L'articolo si chiede se prevalga l'incapacità di prevenire o la convenienza di distogliere l'attenzione, e avanza l'ipotesi, da verificare, di regie ricattatorie dietro i blocchi del Sud."
 focus_keyword: Governo Meloni in crisi
 ---
 
