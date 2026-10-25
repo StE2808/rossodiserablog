@@ -78,6 +78,10 @@ defaults:
       path: "villa_rosa"
     values:
       sitemap: false
+  - scope:
+      path: "paroleinmusica"
+    values:
+      sitemap: false
 
 # Esclusioni
 exclude:

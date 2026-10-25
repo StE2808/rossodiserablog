@@ -1,0 +1,771 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Parole in musica</title>
+<meta name="description" content="Scrivi una frase e ascoltala: le vocali diventano note, le consonanti ritmo, la punteggiatura armonia.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..700;1,6..96,400..700&family=Schibsted+Grotesk:wght@400;500;600&display=swap">
+<style>
+/* Una colonna: il testo da scrivere, il pentagramma a cinque righe (una per vocale) che si accende mentre suona,
+   sotto l'orchestra come un mixer a cinque canali. */
+:root {
+  --carta: #f3f5f7;
+  --foglio: #ffffff;
+  --inchiostro: #14171c;
+  --grigio: #59616d;
+  --riga: #ccd2db;
+  --evidenzia: #f4c21b;
+  --su-evidenzia: #14171c;
+  --display: "Bodoni Moda", "Bodoni 72", Didot, Georgia, serif;
+  --testo: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --u: 15px;
+  --passo: 17px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --carta: #0f1216; --foglio: #161a20; --inchiostro: #e8ebf0; --grigio: #9ba4b1; --riga: #2e353f;
+    --evidenzia: #e9b80f; --su-evidenzia: #0f1216; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --carta: #0f1216; --foglio: #161a20; --inchiostro: #e8ebf0; --grigio: #9ba4b1; --riga: #2e353f;
+  --evidenzia: #e9b80f; --su-evidenzia: #0f1216; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--carta); color: var(--inchiostro);
+  font-family: var(--testo); font-size: 16px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 40px 64px;
+}
+main { max-width: 920px; margin: 0 auto; display: grid; gap: 40px; }
+main > * { min-width: 0; }
+h1, h2 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(2.6rem, 7vw, 4rem); line-height: 1.02; }
+h2 { font-size: 1.75rem; line-height: 1.15; }
+.testata { display: grid; gap: 12px; }
+.testata p { margin: 0; max-width: 58ch; color: var(--grigio); font-size: 1.0625rem; text-wrap: pretty; }
+.testata p b { color: var(--inchiostro); font-weight: 500; }
+a.etichetta { text-decoration: none; }
+a.etichetta:hover { color: var(--inchiostro); }
+.etichetta { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--grigio); font-weight: 500; }
+
+.scrivi { display: grid; gap: 12px; }
+textarea {
+  width: 100%; min-height: 7.5em; resize: vertical;
+  font-family: var(--display); font-style: italic; font-size: 1.3rem; line-height: 1.45;
+  color: var(--inchiostro); background: var(--foglio);
+  border: 1px solid var(--riga); border-radius: 6px; padding: 14px 16px;
+}
+textarea:focus-visible { outline: 2px solid var(--inchiostro); outline-offset: 1px; }
+.esempi { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.esempi button {
+  font: inherit; font-size: 0.875rem; color: var(--inchiostro); background: transparent;
+  border: 1px solid var(--riga); border-radius: 999px; padding: 4px 12px; cursor: pointer;
+}
+.esempi button:hover { border-color: var(--inchiostro); }
+
+.trasporto { display: flex; flex-wrap: wrap; gap: 12px 28px; align-items: center; }
+#suona {
+  font: inherit; font-weight: 600; font-size: 1rem; display: inline-flex; align-items: center; gap: 10px;
+  background: var(--inchiostro); color: var(--carta); border: 0; border-radius: 999px; padding: 12px 24px 12px 20px; cursor: pointer;
+}
+#suona svg { width: 14px; height: 14px; fill: currentColor; }
+#suona:disabled { opacity: 0.5; cursor: progress; }
+button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--inchiostro); outline-offset: 2px; }
+.campo { display: flex; align-items: center; gap: 10px; font-size: 0.9375rem; color: var(--grigio); }
+.campo output { font-variant-numeric: tabular-nums; color: var(--inchiostro); min-width: 4.5ch; }
+input[type="range"] { accent-color: var(--inchiostro); width: 120px; }
+.segmenti { display: inline-flex; border: 1px solid var(--riga); border-radius: 999px; overflow: hidden; }
+.segmenti label { position: relative; }
+.segmenti input { position: absolute; opacity: 0; inset: 0; margin: 0; cursor: pointer; }
+.segmenti span { display: block; padding: 5px 12px; font-size: 0.875rem; color: var(--grigio); }
+.segmenti input:checked + span { background: var(--inchiostro); color: var(--carta); }
+.segmenti input:focus-visible + span { outline: 2px solid var(--inchiostro); outline-offset: -2px; }
+.spunta { display: inline-flex; align-items: center; gap: 8px; font-size: 0.9375rem; color: var(--grigio); cursor: pointer; }
+.spunta input { accent-color: var(--inchiostro); width: 16px; height: 16px; }
+#stato { min-height: 1.5em; font-size: 0.875rem; color: var(--grigio); margin: -4px 0 0; }
+
+/* Il pentagramma: cinque righe, dal basso u o a e i (Do Re Mi Sol La). */
+.pentagramma { background: var(--foglio); border: 1px solid var(--riga); border-radius: 6px; padding: 18px 0 8px; display: grid; gap: 6px; }
+.rigo { min-width: 0; display: flex; overflow-x: auto; padding-bottom: 10px; scrollbar-width: thin; }
+.chiave {
+  position: sticky; left: 0; z-index: 2; flex: none; width: 40px; padding-left: 14px;
+  background: var(--foglio); height: calc(var(--passo) * 4 + 52px); position: sticky;
+}
+.chiave span {
+  position: absolute; left: 14px; font-size: 0.6875rem; color: var(--grigio); line-height: 1;
+  bottom: calc(var(--passo) * var(--g) + 10px - 5px);
+}
+.misure { position: relative; display: flex; flex: none; padding-right: 16px; height: calc(var(--passo) * 4 + 52px);
+  background-image: repeating-linear-gradient(to top, var(--riga) 0 1px, transparent 1px var(--passo));
+  background-size: 100% calc(var(--passo) * 4 + 1px); background-position: 0 calc(100% - 9px); background-repeat: no-repeat;
+}
+.col { position: relative; flex: none; min-width: calc(var(--u) * var(--d)); height: 100%; display: flex; flex-direction: column; justify-content: flex-end; padding-right: 3px; }
+.sil {
+  margin-bottom: calc(var(--passo) * var(--g) + 10px - 11px);
+  height: 22px; display: flex; align-items: center; padding: 0 6px;
+  font-family: var(--display); font-size: 1rem; line-height: 1; white-space: nowrap;
+  background: var(--foglio); border: 1px solid var(--riga); border-radius: 11px; color: var(--inchiostro);
+  transition: background-color 80ms linear;
+}
+.sil.acc { border-color: var(--inchiostro); font-weight: 700; }
+.sil.on { background: var(--evidenzia); border-color: var(--evidenzia); color: var(--su-evidenzia); }
+.accordo { position: absolute; top: 0; left: 4px; font-family: var(--display); font-style: italic; font-size: 0.9375rem; color: var(--inchiostro); white-space: nowrap; }
+.pausa { flex: none; width: calc(var(--u) * var(--d)); position: relative; }
+.pausa::after { content: ""; position: absolute; left: calc(50% - 5px); width: 10px; height: 5px; background: var(--grigio); bottom: calc(var(--passo) * 2 + 10px); }
+.stanghetta { flex: none; width: 1px; margin: 0 4px; background: var(--inchiostro); opacity: 0.55; align-self: flex-end; height: calc(var(--passo) * 4 + 1px); margin-bottom: 9px; }
+.vuoto { padding: 24px 18px; color: var(--grigio); }
+
+/* L'orchestra: cinque canali come in un mixer. */
+.orchestra { display: grid; gap: 16px; }
+.canali { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+.canale > * { min-width: 0; max-width: 100%; }
+.canale {
+  display: grid; gap: 8px; justify-items: center; text-align: center;
+  background: var(--foglio); border: 1px solid var(--riga); border-radius: 6px; padding: 14px 10px 12px;
+}
+.canale .compito { font-size: 0.8125rem; color: var(--grigio); line-height: 1.35; min-height: 2.7em; }
+select {
+  font: inherit; font-size: 0.9375rem; color: var(--inchiostro); background: var(--carta);
+  border: 1px solid var(--riga); border-radius: 999px; padding: 4px 10px; max-width: 100%;
+}
+.manopola {
+  width: 44px; height: 44px; border-radius: 50%; position: relative; cursor: ns-resize; touch-action: none;
+  border: 1px solid var(--inchiostro); background: var(--carta); transform: rotate(var(--a, 0deg)); margin-top: 4px;
+}
+.manopola::after { content: ""; position: absolute; left: 50%; top: 5px; width: 2px; height: 13px; margin-left: -1px; background: var(--inchiostro); border-radius: 1px; }
+.manopola:focus-visible { outline: 2px solid var(--inchiostro); outline-offset: 3px; }
+.canale small { font-size: 0.75rem; color: var(--grigio); font-variant-numeric: tabular-nums; }
+
+details { border-top: 1px solid var(--riga); padding-top: 16px; }
+summary { cursor: pointer; font-family: var(--display); font-size: 1.375rem; }
+.regole { display: grid; gap: 10px; max-width: 66ch; margin-top: 12px; color: var(--inchiostro); }
+.regole p { margin: 0; text-wrap: pretty; }
+.regole b { font-weight: 600; }
+.tabella { display: grid; grid-template-columns: repeat(5, auto); justify-content: start; gap: 2px 22px; font-variant-numeric: tabular-nums; }
+.tabella span:nth-child(-n+5) { font-family: var(--display); font-style: italic; font-size: 1.25rem; }
+footer { font-size: 0.8125rem; color: var(--grigio); max-width: 70ch; }
+footer p { margin: 0 0 6px; }
+@media (max-width: 520px) {
+  body { padding-block: 24px 48px; }
+  main { gap: 32px; }
+  .canali { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .canale:last-child { grid-column: 1 / -1; }
+}
+@media (prefers-reduced-motion: reduce) { .sil { transition: none; } }
+</style>
+</head>
+<body>
+<main>
+  <header class="testata">
+    <a class="etichetta" href="/">Rosso di Sera · esperimento</a>
+    <h1>Parole in musica</h1>
+    <p>Scrivi una frase e ascoltala. Le <b>vocali</b> diventano note, le <b>consonanti</b> ritmo, la <b>punteggiatura</b> armonia. Ogni parola suona sempre allo stesso modo, così con un po' d'orecchio si può rileggere.</p>
+  </header>
+
+  <section class="scrivi" aria-label="Testo">
+    <textarea id="testo" spellcheck="false" aria-label="Frase da ascoltare">Sempre caro mi fu quest'ermo colle,
+e questa siepe, che da tanta parte
+dell'ultimo orizzonte il guardo esclude.</textarea>
+    <div class="esempi" id="esempi"><span class="etichetta">Prova con</span></div>
+    <div class="trasporto">
+      <button id="suona" type="button" aria-pressed="false"><svg viewBox="0 0 14 14" aria-hidden="true"><path id="icona" d="M2 1l11 6-11 6z"/></svg><span id="suona-testo">Suona</span></button>
+      <label class="campo">Velocità <input id="tempo" type="range" min="50" max="160" value="96"><output id="tempo-val">96</output></label>
+      <div class="campo" role="radiogroup" aria-label="Battuta">Battuta
+        <div class="segmenti">
+          <label><input type="radio" name="metro" id="metro-4" value="4" checked><span>4/4</span></label>
+          <label><input type="radio" name="metro" id="metro-3" value="3"><span>3/4</span></label>
+          <label><input type="radio" name="metro" id="metro-0" value=""><span>libera</span></label>
+        </div>
+      </div>
+      <label class="spunta"><input id="ripeti" type="checkbox"> Ripeti</label>
+    </div>
+    <p id="stato" aria-live="polite"></p>
+  </section>
+
+  <section class="pentagramma" id="spartito" aria-label="Il testo sul pentagramma"></section>
+
+  <section class="orchestra" aria-labelledby="titolo-orchestra">
+    <h2 id="titolo-orchestra">L'orchestra</h2>
+    <div class="canali">
+      <div class="canale"><span class="etichetta">Melodia</span><span class="compito">canta le sillabe</span><select id="melodia" aria-label="Strumento della melodia"></select><div class="manopola" data-ruolo="melodia"></div></div>
+      <div class="canale"><span class="etichetta">Controcanto</span><span class="compito">voce interna, e l'eco a fine verso</span><select id="contro" aria-label="Strumento del controcanto"></select><div class="manopola" data-ruolo="contro"></div></div>
+      <div class="canale"><span class="etichetta">Accompagnamento</span><span class="compito">gli accordi pieni</span><select id="accomp" aria-label="Strumento dell'accompagnamento"></select><div class="manopola" data-ruolo="accomp"></div></div>
+      <div class="canale"><span class="etichetta">Basso</span><span class="compito">la nota di base</span><select id="basso" aria-label="Strumento del basso"></select><div class="manopola" data-ruolo="basso"></div></div>
+      <div class="canale"><span class="etichetta">Percussioni</span><span class="compito">tengono il tempo</span><select id="perc" aria-label="Percussioni"></select><div class="manopola" data-ruolo="perc"></div></div>
+    </div>
+  </section>
+
+  <details>
+    <summary>Come funziona</summary>
+    <div class="regole">
+      <p><b>Le vocali sono le note.</b> Le scure in basso, le chiare in alto, su una scala che non stona mai:</p>
+      <div class="tabella"><span>u</span><span>o</span><span>a</span><span>e</span><span>i</span><span>Do</span><span>Re</span><span>Mi</span><span>Sol</span><span>La</span></div>
+      <p>Nei dittonghi conta la vocale piena: <i>quie</i> suona come <i>e</i>.</p>
+      <p><b>L'accento fa il ritmo.</b> La sillaba accentata (in grassetto sul pentagramma) dura di più e suona più forte; quelle che finiscono in consonante, come <i>per</i> o <i>col</i>, sono staccate. L'accento lo indovino: di solito cade sulla penultima. Per spostarlo scrivi la vocale accentata: <i>Stèfano</i>, <i>ùltimo</i>.</p>
+      <p><b>La battuta.</b> In 4/4 o in 3/4 ogni accento cade su un tempo forte e le sillabe in mezzo si stringono o si allungano per starci, come fa un cantante. Con «libera» si torna alla parola nuda.</p>
+      <p><b>La vocale accentata sceglie l'accordo</b> (scritto sopra il pentagramma): <i>u</i> C, <i>o</i> Dm, <i>a</i> Em, <i>e</i> G, <i>i</i> Am.</p>
+      <p><b>La punteggiatura ne decide la funzione</b> sull'ultima parola della frase: la virgola sospende su G, il punto chiude con G7 e C, il punto esclamativo con F e C, il punto di domanda resta appeso su E7.</p>
+      <p><b>Le consonanti sono le percussioni:</b> le sillabe chiuse aggiungono un colpo leggero di rullante sopra il tempo.</p>
+      <p>Su iPhone, se non senti niente, togli il silenzioso.</p>
+    </div>
+  </details>
+
+  <footer>
+    <p>Pianoforte: Salamander Grand Piano di Alexander Holm (CC-BY 3.0). Gli altri strumenti e le percussioni vengono dalle raccolte libere di Tone.js e tonejs-instruments (registrazioni da Freesound e Philharmonia).</p>
+  </footer>
+</main>
+
+<script>
+// LOGICA INIZIO
+const VOC = 'aeiouàèéìíòóùú';
+const FORTI = 'aeoàèéìíòóùú';
+const ACCENTI = {'à':'a','è':'e','é':'e','ì':'i','í':'i','ò':'o','ó':'o','ù':'u','ú':'u'};
+const NOTA = {u:60, o:62, a:64, e:67, i:69};
+const NOME = {60:'Do', 62:'Re', 64:'Mi', 67:'Sol', 69:'La'};
+const ATONE = new Set(('il lo la i gli le un uno una di a da in con su per tra fra e o ma se che non mi ti si ci vi ne ' +
+  'del dello della dei degli delle al allo alla ai agli alle dal dallo dalla dai dagli dalle ' +
+  'nel nello nella nei negli nelle sul sullo sulla sui sugli sulle col coi').split(' '));
+
+const isV = c => VOC.includes(c);
+const forte = c => FORTI.includes(c);
+
+function attaccoValido(o) {
+  if (o.length === 1) return true;
+  if (['ch', 'gh', 'gn', 'gl', 'sc'].includes(o)) return true;
+  if (/^[bcdfgptv][lr]$/.test(o)) return true;
+  if (o[0] === 's' && o[1] !== 's' && attaccoValido(o.slice(1))) return true;
+  return false;
+}
+
+// Il gruppo di consonanti tra due vocali: l'attacco più lungo possibile va alla sillaba dopo.
+function dividiConsonanti(c) {
+  for (let k = 0; k < c.length; k++) {
+    if (attaccoValido(c.slice(k))) return [c.slice(0, k), c.slice(k)];
+  }
+  return [c, ''];
+}
+
+// Una fila di vocali: due vocali piene si separano (iato), i e u fanno da semivocali.
+function dividiVocali(s) {
+  const out = []; let cur = '';
+  for (const c of s) {
+    if (forte(c) && [...cur].some(forte)) {
+      let m = cur.length;
+      while (m > 0 && !forte(cur[m - 1])) m--;
+      out.push(cur.slice(0, m)); cur = cur.slice(m) + c;
+    } else cur += c;
+  }
+  if (cur) out.push(cur);
+  return out;
+}
+
+function sillabe(w) {
+  const pezzi = []; let i = 0;
+  while (i < w.length) {
+    const v = isV(w[i]); let j = i;
+    while (j < w.length && isV(w[j]) === v) j++;
+    pezzi.push({v, s: w.slice(i, j)}); i = j;
+  }
+  const out = []; let attacco = '';
+  pezzi.forEach((p, k) => {
+    if (p.v) {
+      dividiVocali(p.s).forEach((n, x) => out.push({attacco: x === 0 ? attacco : '', nucleo: n, coda: ''}));
+      attacco = '';
+    } else if (!out.length) attacco = p.s;
+    else if (k === pezzi.length - 1) out[out.length - 1].coda = p.s;
+    else { const [coda, att] = dividiConsonanti(p.s); out[out.length - 1].coda = coda; attacco = att; }
+  });
+  return out;
+}
+
+function vocaleGuida(nucleo) {
+  const acc = [...nucleo].find(c => ACCENTI[c]);
+  if (acc) return ACCENTI[acc];
+  const f = [...nucleo].find(c => 'aeo'.includes(c));
+  return f || nucleo[nucleo.length - 1];
+}
+
+function accento(w, syl) {
+  const k = syl.findIndex(s => [...s.nucleo].some(c => ACCENTI[c]));
+  if (k >= 0) return k;
+  if (syl.length === 1) return ATONE.has(w) ? -1 : 0;
+  if (!isV(w[w.length - 1])) return syl.length - 1;
+  return syl.length - 2;
+}
+
+// Gli accordi: la vocale accentata sceglie l'accordo, la punteggiatura la funzione.
+const ACCORDI = {
+  C: {rad: 60, iv: [0, 4, 7], pos: [48, 52, 55, 60, 64]},          // x32010
+  Dm: {rad: 62, iv: [0, 3, 7], pos: [50, 57, 62, 65]},             // xx0231
+  Em: {rad: 64, iv: [0, 3, 7], pos: [40, 47, 52, 55, 59, 64]},     // 022000
+  F: {rad: 65, iv: [0, 4, 7], pos: [53, 57, 60, 65]},              // xx3211
+  G: {rad: 67, iv: [0, 4, 7], pos: [43, 47, 50, 55, 59, 67]},      // 320003
+  G7: {rad: 67, iv: [0, 4, 7, 10], pos: [43, 47, 50, 55, 59, 65]}, // 320001
+  Am: {rad: 69, iv: [0, 3, 7], pos: [45, 52, 57, 60, 64]},         // x02210
+  E7: {rad: 64, iv: [0, 4, 7, 10], pos: [40, 47, 50, 56, 59, 64]}, // 020100
+};
+const DA_VOCALE = {60: 'C', 62: 'Dm', 64: 'Em', 67: 'G', 69: 'Am'};
+
+// Virgola: sospende su G. Punto: chiude G7 → C. Esclamativo: chiude F → C. Domanda: resta appesa su E7.
+function armonia(ev) {
+  let frase = [];
+  ev.forEach(e => {
+    if (e.tipo === 'nota') { if (e.acc) { e.accordo = DA_VOCALE[e.midi]; frase.push(e); } return; }
+    const [penultima, ultima] = [frase[frase.length - 2], frase[frase.length - 1]];
+    if (ultima) {
+      if (e.segno === ',') ultima.accordo = 'G';
+      if (e.segno === '?') ultima.accordo = 'E7';
+      if (e.segno === '.' || e.segno === '!') {
+        ultima.accordo = 'C';
+        if (penultima) penultima.accordo = e.segno === '.' ? 'G7' : 'F';
+      }
+    }
+    frase = [];
+  });
+}
+
+// Il testo diventa una fila di eventi: note e pause, misurate in ottavi.
+function partitura(testo) {
+  const ev = [];
+  const forza = {'': 0, ',': 1, '.': 2, '!': 3, '?': 4};
+  const pausa = (d, segno) => {
+    const u = ev[ev.length - 1];
+    if (!u) return;
+    if (u.tipo !== 'pausa') ev.push({tipo: 'pausa', dur: d, segno});
+    else { u.dur = Math.max(u.dur, d); if (forza[segno] > forza[u.segno]) u.segno = segno; }
+  };
+  const re = /[a-zàèéìíòóùúy']+|[,;:.!?…]|\n/gi;
+  let m, parola = 0;
+  while ((m = re.exec(testo))) {
+    const t = m[0];
+    if (t === ',') pausa(2, ',');
+    else if (t === '\n') pausa(4, '');
+    else if (/[;:]/.test(t)) pausa(4, ',');
+    else if (/[.!?…]/.test(t)) pausa(4, t === '…' ? '.' : t);
+    else {
+      const w = t.toLowerCase().replace(/'/g, '').replace(/y/g, 'i');
+      const syl = sillabe(w);
+      if (!syl.length) continue;
+      const a = accento(w, syl);
+      syl.forEach((s, k) => {
+        const midi = NOTA[vocaleGuida(s.nucleo)];
+        const acc = k === a, chiusa = s.coda !== '';
+        ev.push({tipo: 'nota', parola, testo: s.attacco + s.nucleo + s.coda, midi, acc, chiusa,
+          dur: acc ? 2 : 1, vel: acc ? 1 : 0.6, gate: chiusa ? (acc ? 0.6 : 0.45) : 0.95});
+      });
+      parola++;
+    }
+  }
+  armonia(ev);
+  if (ev.length && ev[ev.length - 1].tipo === 'pausa') ev.pop();
+  return ev;
+}
+// In battuta: ogni sillaba accentata cade su un tempo forte, le atone in mezzo si stringono
+// o si allungano per stare nel passo; quelle prima del primo accento fanno da levare.
+function inBattuta(ev, metro) {
+  const unita = metro === 3 ? 6 : 4, misura = metro === 3 ? 6 : 8;
+  const frasi = []; let cur = {note: [], pausa: 0};
+  ev.forEach(e => {
+    if (e.tipo === 'nota') cur.note.push(e);
+    else { cur.pausa = e.dur; frasi.push(cur); cur = {note: [], pausa: 0}; }
+  });
+  if (cur.note.length) frasi.push(cur);
+  const out = [];
+  let pos = 0, origine = null, pausaPrima = 0;
+  const riposa = d => { if (d > 0) out.push({tipo: 'pausa', dur: d}); };
+  frasi.forEach(f => {
+    const k = f.note.findIndex(n => n.acc);
+    const levare = k < 0 ? f.note : f.note.slice(0, k);
+    const lv = levare.length <= 2 ? 1 : 0.5, durLevare = levare.length * lv;
+    // il prossimo tempo forte, misurato dal primo tempo forte del brano
+    if (origine === null) origine = durLevare;
+    else {
+      const minimo = pausaPrima ? 2 : 0, passo = pausaPrima >= 4 ? misura : unita;
+      let forte = Math.ceil((pos - origine) / passo) * passo + origine;
+      while (forte - durLevare < pos + minimo) forte += passo;
+      riposa(forte - durLevare - pos); pos = forte - durLevare;
+    }
+    levare.forEach(n => { out.push({...n, dur: lv}); pos += lv; });
+    const gruppi = [];
+    (k < 0 ? [] : f.note.slice(k)).forEach(n => { if (n.acc) gruppi.push([n]); else gruppi[gruppi.length - 1].push(n); });
+    gruppi.forEach(([accentata, ...coda]) => {
+      let durata = unita, L;
+      for (;;) {
+        L = [2, 1, 0.5].find(l => coda.length * l + Math.max(2 * l, 1) <= durata);
+        if (L) break;
+        durata += unita;
+      }
+      out.push({...accentata, dur: durata - coda.length * L}); pos += durata - coda.length * L;
+      coda.forEach(n => { out.push({...n, dur: L}); pos += L; });
+    });
+    pausaPrima = f.pausa;
+  });
+  out.metro = metro; out.misura = misura; out.origine = origine || 0;
+  return out;
+}
+// LOGICA FINE
+
+// ---- suono ----
+function riverbero(ctx) {
+  const len = Math.floor(ctx.sampleRate * 1.8);
+  const buf = ctx.createBuffer(2, len, ctx.sampleRate);
+  for (let ch = 0; ch < 2; ch++) {
+    const d = buf.getChannelData(ch);
+    for (let i = 0; i < len; i++) d[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / len, 3);
+  }
+  const conv = ctx.createConvolver(); conv.buffer = buf; return conv;
+}
+
+function catena(ctx) {
+  const master = ctx.createGain(); master.gain.value = 0.8;
+  const comp = ctx.createDynamicsCompressor();
+  const secco = ctx.createGain(); secco.gain.value = 0.85;
+  const umido = ctx.createGain(); umido.gain.value = 0.16;
+  const rev = riverbero(ctx);
+  master.connect(secco).connect(comp);
+  master.connect(rev).connect(umido).connect(comp);
+  comp.connect(ctx.destination);
+  const canali = {};
+  Object.keys(VOLUMI).forEach(r => { canali[r] = ctx.createGain(); canali[r].gain.value = VOLUMI[r]; canali[r].connect(master); });
+  return canali;
+}
+
+// I campioni stanno in suoni/<strumento>/<nota>.mp3 e si scaricano solo quando lo strumento viene scelto.
+// Ogni campione viene portato allo stesso volume, così gli strumenti si possono scambiare di ruolo.
+const SUONI = {"arpa": [35, 38, 41, 45, 48, 52, 55, 59, 62, 65, 69, 72, 76], "basso": [28, 31, 34, 37, 40, 43, 46, 49], "batteria": ["kick", "snare", "hihat", "tom1", "tom2", "tom3"], "bonghi": ["kick", "snare", "hihat", "tom1", "tom2", "tom3"], "chitarra": [35, 38, 42, 45, 49, 52, 55, 59, 63, 66, 69, 73, 76], "clarinetto": [50, 53, 58, 62, 65, 70, 74], "contrabbasso": [30, 34, 38, 42, 45, 49], "fagotto": [43, 48], "flauto": [60, 64, 69, 72, 76], "pianoforte": [33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72], "sassofono": [50, 53, 56, 59, 62, 65, 68, 71, 74], "violino": [55, 60, 64, 67, 72, 76], "violoncello": [36, 39, 43, 46, 49], "xilofono": [67, 72, 79]};
+const BUFFER = {};
+async function caricaCampioni(ctx) {
+  const nuovi = [...new Set(Object.values(parti()).filter(Boolean))].filter(n => !BUFFER[n]);
+  if (!nuovi.length) return true;
+  stato('Accordo ' + nuovi.join(', ') + '…');
+  try {
+    for (const nome of nuovi) {
+      const voci = await Promise.all(SUONI[nome].map(async k => {
+        const r = await fetch(`suoni/${nome}/${k}.mp3`);
+        if (!r.ok) throw new Error(nome);
+        const buf = await ctx.decodeAudioData(await r.arrayBuffer());
+        let picco = 0;
+        for (let c = 0; c < buf.numberOfChannels; c++) for (const v of buf.getChannelData(c)) if (Math.abs(v) > picco) picco = Math.abs(v);
+        return [k, {buf, norm: 0.5 / (picco || 1)}];
+      }));
+      BUFFER[nome] = Object.fromEntries(voci);
+    }
+  } catch (e) {
+    stato('Non riesco a scaricare ' + e.message + ': controlla la connessione e riprova.');
+    return false;
+  }
+  stato('');
+  return true;
+}
+
+// Fuori dall'estensione dello strumento la nota si sposta di un'ottava, come farebbe l'orchestratore.
+function sorgente(ctx, nome, midi) {
+  const chiavi = Object.keys(BUFFER[nome]).map(Number);
+  while (midi < Math.min(...chiavi) - 3) midi += 12;
+  while (midi > Math.max(...chiavi) + 3) midi -= 12;
+  const k = chiavi.reduce((a, b) => Math.abs(b - midi) < Math.abs(a - midi) ? b : a);
+  const src = ctx.createBufferSource();
+  src.buffer = BUFFER[nome][k].buf;
+  src.playbackRate.value = Math.pow(2, (midi - k) / 12);
+  return [src, BUFFER[nome][k].norm];
+}
+
+function suonaNota(ctx, dest, nome, t, midi, durata, vel) {
+  const [src, norm] = sorgente(ctx, nome, midi);
+  const g = ctx.createGain();
+  const picco = 1.4 * vel * norm;
+  g.gain.setValueAtTime(0.0001, t);
+  g.gain.linearRampToValueAtTime(picco, t + 0.006);
+  g.gain.setValueAtTime(picco, t + durata);
+  g.gain.setTargetAtTime(0.0001, t + durata, 0.08);
+  src.connect(g).connect(dest);
+  src.start(t); src.stop(t + durata + 0.6);
+}
+
+// Le percussioni non hanno altezza: ogni pezzo del kit è un campione a sé.
+function suonaColpo(ctx, dest, kit, pezzo, t, vel) {
+  const {buf, norm} = BUFFER[kit][pezzo];
+  const src = ctx.createBufferSource(); src.buffer = buf;
+  const g = ctx.createGain(); g.gain.value = 1.4 * vel * norm;
+  src.connect(g).connect(dest); src.start(t);
+}
+
+// In battuta la batteria tiene il tempo: in 4/4 cassa sull'1 e sul 3, rullante sul 2 e sul 4;
+// in 3/4 il valzer, cassa sull'1 e colpi leggeri sul 2 e sul 3.
+function tempo(ctx, dest, kit, ev, t0, totale, ottavo) {
+  for (let j = -Math.floor(ev.origine); ev.origine + j < totale; j++) {
+    const t = t0 + (ev.origine + j) * ottavo, b = ((j % ev.misura) + ev.misura) % ev.misura;
+    suonaColpo(ctx, dest, kit, 'hihat', t, b % 2 ? 0.08 : 0.14);
+    if (ev.metro === 4) {
+      if (b === 0) suonaColpo(ctx, dest, kit, 'kick', t, 0.7);
+      if (b === 4) suonaColpo(ctx, dest, kit, 'kick', t, 0.5);
+      if (b === 2 || b === 6) suonaColpo(ctx, dest, kit, 'snare', t, 0.4);
+    } else {
+      if (b === 0) suonaColpo(ctx, dest, kit, 'kick', t, 0.7);
+      if (b === 2 || b === 4) suonaColpo(ctx, dest, kit, 'snare', t, 0.22);
+    }
+  }
+}
+
+// Una nota tenuta: i campioni durano pochi secondi, le note più lunghe si ripetono in dissolvenza.
+function suonaTenuta(ctx, dest, nome, t, midi, durata, vol) {
+  for (let s = t; s < t + durata; s += 2.5) {
+    const fine = Math.min(s + 2.9, t + durata + 0.3);
+    const [src, norm] = sorgente(ctx, nome, midi);
+    const g = ctx.createGain(), v = vol * norm * 1.4;
+    g.gain.setValueAtTime(0.0001, s);
+    g.gain.linearRampToValueAtTime(v, s + (s === t ? 0.12 : 0.4));
+    g.gain.setValueAtTime(v, Math.max(s + 0.13, fine - 0.4));
+    g.gain.linearRampToValueAtTime(0.0001, fine);
+    src.connect(g).connect(dest);
+    src.start(s); src.stop(fine + 0.05);
+  }
+}
+
+const gradi = A => A.iv.map(iv => (A.rad + iv) % 12);
+
+// Pennata: le corde suonano una dopo l'altra, in giù dal basso, in su solo le acute e più piano.
+function pennata(ctx, dest, nome, t, note, verso, durata) {
+  const corde = verso === 'giù' ? note : note.slice(-4).reverse();
+  corde.forEach((m, n) => suonaNota(ctx, dest, nome, t + n * 0.014, m, durata, verso === 'giù' ? 0.24 : 0.14));
+}
+
+// Ogni strumento accompagna a modo suo, sui tempi della battuta (fase = dove cade l'accordo nella misura).
+const RITMI = {
+  chitarra: {4: {0: 'giù', 2: 'giù', 3: 'su', 5: 'su', 6: 'giù', 7: 'su'}, 3: {0: 'giù', 2: 'giù', 3: 'su', 4: 'giù', 5: 'su'}},
+};
+function accompagna(ctx, dest, nome, t, A, durata, ottavo, fase, metro) {
+  const misura = metro === 3 ? 6 : 8;
+  const voce = A.pos;
+  const destra = A.iv.flatMap(iv => [A.rad + iv - 12, A.rad + iv]).filter(m => m >= 55 && m <= 66).sort((a, b) => a - b);
+  for (let k = 0; k * ottavo < durata - 0.01; k++) {
+    const tk = t + k * ottavo, b = (((fase + k) % misura) + misura) % misura;
+    const resto = durata - k * ottavo;
+    if (nome === 'chitarra') {
+      const colpo = RITMI.chitarra[metro === 3 ? 3 : 4][b];
+      if (colpo) pennata(ctx, dest, nome, tk, voce, colpo, Math.min(ottavo * 2, resto));
+    } else if (nome === 'pianoforte') {
+      const forte = b === 0 || (metro !== 3 && b === 4);
+      if (forte) [A.rad - 24, A.rad - 12].forEach(m => suonaNota(ctx, dest, nome, tk, m, Math.min(ottavo * (metro === 3 ? 2 : 4), resto), 0.4));
+      if (metro === 3 ? b === 2 || b === 4 : b % 2 === 0) destra.forEach(m => suonaNota(ctx, dest, nome, tk, m, Math.min(ottavo * 1.6, resto), forte ? 0.3 : 0.24));
+    } else {
+      const giro = [...voce, ...voce.slice(1, -1).reverse()];
+      suonaNota(ctx, dest, nome, tk, giro[k % giro.length], Math.min(ottavo * 3, resto), k % giro.length === 0 ? 0.4 : 0.28);
+    }
+  }
+}
+
+// Controcanto: tiene la nota dell'accordo più vicina a quella che teneva prima, così la voce si muove poco.
+function voceInterna(A, prima) {
+  let meglio = null;
+  for (let m = 52; m <= 67; m++) if (gradi(A).includes(m % 12) && (meglio === null || Math.abs(m - prima) < Math.abs(meglio - prima))) meglio = m;
+  return meglio;
+}
+
+// Pianoforte in melodia: la mano destra sugli accenti aggiunge sotto la nota dell'accordo più vicina.
+function notaSotto(A, melodia) {
+  for (let m = melodia - 3; m > melodia - 10; m--) if (gradi(A).includes(m % 12)) return m;
+  return melodia - 12;
+}
+
+function programma(ctx, ev, t0, ottavo, alSuono) {
+  const P = parti(), D = catenaCorrente;
+  let t = t0, acc = null, interna = 60, ultime = [];
+  const chiudi = fine => {
+    if (!acc) return;
+    const durata = fine - acc.t;
+    if (P.basso) suonaTenuta(ctx, D.basso, P.basso, acc.t, acc.A.rad - 24, durata, 0.5);
+    if (P.accomp) accompagna(ctx, D.accomp, P.accomp, acc.t, acc.A, durata, ottavo, ev.metro ? Math.round((acc.t - t0) / ottavo - ev.origine) : 0, ev.metro);
+    if (P.contro) { interna = voceInterna(acc.A, interna); suonaTenuta(ctx, D.contro, P.contro, acc.t, interna, durata, 0.3); }
+    acc = null;
+  };
+  ev.forEach((e, i) => {
+    const d = e.dur * ottavo;
+    if (e.tipo === 'nota') {
+      if (e.acc && (!acc || acc.id !== e.accordo)) { chiudi(t); acc = {t, id: e.accordo, A: ACCORDI[e.accordo]}; }
+      if (P.melodia) suonaNota(ctx, D.melodia, P.melodia, t, e.midi, d * e.gate, e.vel);
+      // Le consonanti sono la parte percussiva della parola: cassa sull'accento, rullante sulle sillabe chiuse.
+      if (P.perc && ev.metro) {
+        if (e.chiusa) suonaColpo(ctx, D.perc, P.perc, 'snare', t, 0.15);
+      } else if (P.perc) {
+        if (e.acc) suonaColpo(ctx, D.perc, P.perc, 'kick', t, 0.7);
+        if (e.chiusa) suonaColpo(ctx, D.perc, P.perc, 'snare', t, 0.4);
+        for (let n = 0; n < e.dur; n++) suonaColpo(ctx, D.perc, P.perc, 'hihat', t + n * ottavo, n === 0 ? 0.2 : 0.12);
+      }
+      if (P.melodia === 'pianoforte' && e.acc && acc) suonaNota(ctx, D.melodia, 'pianoforte', t, notaSotto(acc.A, e.midi), d * e.gate, e.vel * 0.55);
+      ultime = [...ultime, e.midi].slice(-3);
+      if (alSuono) alSuono(i, t, d);
+    } else if (e.dur >= 4) {
+      chiudi(t + d / 2);
+      // A fine verso il controcanto fa l'eco delle ultime tre note.
+      if (P.contro) ultime.forEach((m, n) => suonaNota(ctx, D.contro, P.contro, t + (n + 0.5) * ottavo, m, ottavo * 0.9, 0.45));
+      ultime = [];
+      if (P.perc) ['tom1', 'tom2', 'tom3'].forEach((tom, n) => suonaColpo(ctx, D.perc, P.perc, tom, t + n * ottavo, 0.45));
+    } else if (P.perc && !ev.metro) {
+      for (let n = 0; n < e.dur; n++) suonaColpo(ctx, D.perc, P.perc, 'hihat', t + n * ottavo, 0.12);
+    }
+    t += d;
+  });
+  chiudi(t + ottavo * 2);
+  if (P.perc && ev.metro) tempo(ctx, D.perc, P.perc, ev, t0, (t - t0) / ottavo, ottavo);
+  return t;
+}
+
+// ---- interfaccia ----
+const $ = id => document.getElementById(id);
+let ctx = null, catenaCorrente = null, timer = [];
+const stato = t => { $('stato').textContent = t; };
+
+const RUOLI = {
+  melodia: ['violino', 'flauto', 'clarinetto', 'sassofono', 'pianoforte', 'chitarra', 'arpa', 'xilofono'],
+  contro: ['clarinetto', 'violoncello', 'fagotto', 'sassofono', 'flauto', 'violino', 'pianoforte', ''],
+  accomp: ['chitarra', 'pianoforte', 'arpa', ''],
+  basso: ['violoncello', 'contrabbasso', 'fagotto', 'basso', ''],
+  perc: ['batteria', 'bonghi', ''],
+};
+const ETICHETTA = {basso: 'basso elettrico', '': 'nessuno'};
+Object.entries(RUOLI).forEach(([ruolo, lista]) => lista.forEach(nome => {
+  const o = document.createElement('option'); o.value = nome; o.textContent = ETICHETTA[nome] ?? nome;
+  $(ruolo).appendChild(o);
+}));
+const parti = () => ({melodia: $('melodia').value, contro: $('contro').value, accomp: $('accomp').value, basso: $('basso').value, perc: $('perc').value});
+
+// Il mixer: una manopola per ruolo, da 0 a 150%. Si gira trascinando su e giù, con la rotella o con le frecce;
+// doppio clic torna a 100%. Agisce anche mentre suona.
+const VOLUMI = {melodia: 1, contro: 1, accomp: 1, basso: 1, perc: 1};
+document.querySelectorAll('.manopola').forEach(m => {
+  const r = m.dataset.ruolo, etichetta = document.createElement('small');
+  m.after(etichetta);
+  m.tabIndex = 0; m.setAttribute('role', 'slider'); m.setAttribute('aria-label', 'Volume ' + r);
+  m.setAttribute('aria-valuemin', '0'); m.setAttribute('aria-valuemax', '150');
+  const imposta = v => {
+    VOLUMI[r] = Math.round(Math.min(1.5, Math.max(0, v)) * 100) / 100;
+    m.style.setProperty('--a', (VOLUMI[r] / 1.5 * 270 - 135) + 'deg');
+    etichetta.textContent = Math.round(VOLUMI[r] * 100) + '%';
+    m.setAttribute('aria-valuenow', Math.round(VOLUMI[r] * 100));
+    if (ctx && catenaCorrente) catenaCorrente[r].gain.setTargetAtTime(VOLUMI[r], ctx.currentTime, 0.03);
+  };
+  let y0 = null, v0 = 0;
+  m.addEventListener('pointerdown', e => { y0 = e.clientY; v0 = VOLUMI[r]; m.setPointerCapture(e.pointerId); });
+  m.addEventListener('pointermove', e => { if (y0 !== null) imposta(v0 + (y0 - e.clientY) / 150); });
+  m.addEventListener('pointerup', () => { y0 = null; });
+  m.addEventListener('wheel', e => { e.preventDefault(); imposta(VOLUMI[r] - Math.sign(e.deltaY) * 0.05); }, {passive: false});
+  m.addEventListener('dblclick', () => imposta(1));
+  m.addEventListener('keydown', e => {
+    if (e.key === 'ArrowUp' || e.key === 'ArrowRight') { imposta(VOLUMI[r] + 0.05); e.preventDefault(); }
+    if (e.key === 'ArrowDown' || e.key === 'ArrowLeft') { imposta(VOLUMI[r] - 0.05); e.preventDefault(); }
+  });
+  imposta(1);
+});
+
+const ESEMPI = [
+  ['L\'infinito', $('testo').value],
+  ['Dante', 'Nel mezzo del cammin di nostra vita\nmi ritrovai per una selva oscura,\nché la diritta via era smarrita.'],
+  ['Domanda e risposta', 'Dove sei andata?\nTorna a casa!'],
+  ['Oh! Susanna', 'Tu sola, e se ride, saluto: ma sarò più.'],
+];
+ESEMPI.forEach(([nome, t]) => {
+  const b = document.createElement('button'); b.type = 'button'; b.textContent = nome;
+  b.onclick = () => { $('testo').value = t; disegna(); };
+  $('esempi').appendChild(b);
+});
+
+const metro = () => document.querySelector('input[name="metro"]:checked').value;
+function scrittura() {
+  const ev = partitura($('testo').value);
+  return metro() ? inBattuta(ev, Number(metro())) : ev;
+}
+
+// Un rigo per verso: la sillaba sta sulla riga della sua vocale, larga quanto dura.
+const GRADO = {60: 0, 62: 1, 64: 2, 67: 3, 69: 4};
+function disegna() {
+  const ev = scrittura();
+  const sp = $('spartito'); sp.innerHTML = '';
+  if (!ev.length) { sp.innerHTML = '<p class="vuoto">Scrivi qualcosa qui sopra: ogni sillaba apparirà sulla riga della sua vocale.</p>'; return ev; }
+  let misure = null, pos = 0;
+  const nuovoRigo = () => {
+    const rigo = document.createElement('div'); rigo.className = 'rigo';
+    rigo.innerHTML = '<div class="chiave" aria-hidden="true">' + ['u', 'o', 'a', 'e', 'i'].map((v, g) => `<span style="--g:${g}">${v}</span>`).join('') + '</div>';
+    misure = document.createElement('div'); misure.className = 'misure';
+    rigo.appendChild(misure); sp.appendChild(rigo);
+  };
+  nuovoRigo();
+  ev.forEach((e, i) => {
+    const inMisura = ev.metro && pos - ev.origine > 0.01 && Math.abs(((pos - ev.origine) % ev.misura + ev.misura) % ev.misura) < 0.01;
+    if (inMisura && misure.childElementCount) { const s = document.createElement('div'); s.className = 'stanghetta'; misure.appendChild(s); }
+    if (e.tipo === 'pausa') {
+      const p = document.createElement('div'); p.className = 'pausa'; p.style.setProperty('--d', Math.min(e.dur, 4));
+      misure.appendChild(p);
+      if (e.dur >= 4 && i < ev.length - 1) nuovoRigo();
+    } else {
+      const c = document.createElement('div'); c.className = 'col'; c.style.setProperty('--d', e.dur);
+      c.innerHTML = (e.acc ? `<span class="accordo">${e.accordo}</span>` : '') +
+        `<span class="sil${e.acc ? ' acc' : ''}" id="ev${i}" style="--g:${GRADO[e.midi]}">${e.testo}</span>`;
+      misure.appendChild(c);
+    }
+    pos += e.dur;
+  });
+  return ev;
+}
+
+function pulsante(suona) {
+  $('suona-testo').textContent = suona ? 'Ferma' : 'Suona';
+  $('icona').setAttribute('d', suona ? 'M2 2h10v10H2z' : 'M2 1l11 6-11 6z');
+  $('suona').setAttribute('aria-pressed', String(suona));
+}
+
+function ferma() {
+  timer.forEach(clearTimeout); timer = [];
+  document.querySelectorAll('.sil.on').forEach(x => x.classList.remove('on'));
+  if (ctx) { ctx.close(); ctx = null; }
+  pulsante(false);
+}
+
+const ottavo = () => 60 / Number($('tempo').value) / 2;
+
+$('suona').onclick = async () => {
+  if (ctx) { ferma(); return; }
+  ctx = new AudioContext();
+  pulsante(true);
+  catenaCorrente = catena(ctx);
+  await giro();
+};
+
+// Ogni giro rilegge il testo; in ripetizione riusa lo stesso contesto audio,
+// perché Safari non fa partire un contesto nuovo senza un clic.
+async function giro() {
+  $('suona').disabled = true;
+  const ok = await caricaCampioni(ctx);
+  $('suona').disabled = false;
+  if (!ctx) return;
+  if (!ok) { ferma(); return; }
+  const ev = disegna();
+  const t0 = ctx.currentTime + 0.1;
+  const fine = programma(ctx, ev, t0, ottavo(), (i, t, d) => {
+    const el = $('ev' + i);
+    timer.push(setTimeout(() => {
+      el.classList.add('on');
+      const rigo = el.closest('.rigo'), x = el.offsetLeft;
+      if (x < rigo.scrollLeft + 60 || x > rigo.scrollLeft + rigo.clientWidth - 80) rigo.scrollLeft = x - 60;
+    }, (t - t0 + 0.1) * 1000));
+    timer.push(setTimeout(() => el.classList.remove('on'), (t - t0 + 0.1 + d) * 1000));
+  });
+  timer.push(setTimeout(() => ctx && $('ripeti').checked ? giro() : ferma(), (fine - t0 + 1.5) * 1000));
+}
+
+$('tempo').addEventListener('input', () => { $('tempo-val').textContent = $('tempo').value; });
+document.querySelectorAll('input[name="metro"]').forEach(r => r.addEventListener('change', disegna));
+$('testo').addEventListener('input', disegna);
+disegna();
+</script>
+</body>
+</html>
