@@ -2,7 +2,7 @@
 layout: post
 title: Lula ha vinto. Da qui si riparte.
 seo_title: Lula ha vinto. Da qui si riparte.
-description: 'Lula rieletto presidente del Brasile con il 51,7%. Flávio Bolsonaro contesta il voto come Trump: da questa vittoria si può fermare l’onda nera.'
+description: "Lula rieletto presidente del Brasile con il 51,7%. Flávio Bolsonaro contesta il voto come Trump: da questa vittoria si può fermare l'onda nera."
 date: 2026-10-26 16:57:00 +0100
 author: lino-rialti
 category: politica-estera
@@ -21,7 +21,7 @@ tags:
 image: /assets/images/uploads/IMG_7604.jpeg
 image_caption: Lula ha vinto contro Bolsonaro
 image_alt: Il cartello indica la vittoria di Lula su Bolsonaro jr
-excerpt: Lula batte Flávio Bolsonaro al ballottaggio con il 51,7% e conquista il quarto mandato. Lo sconfitto rifiuta il risultato sulla scia di Trump, ma il TSE conferma la regolarità del voto. Dal Brasile un segnale contro l’avanzata dell’estrema destra transnazionale.
+excerpt: Lula batte Flávio Bolsonaro al ballottaggio con il 51,7% e conquista il quarto mandato. Lo sconfitto rifiuta il risultato sulla scia di Trump, ma il TSE conferma la regolarità del voto. Dal Brasile un segnale contro l'avanzata dell'estrema destra transnazionale.
 focus_keyword: Lula vince ballottaggio Brasile
 ---
 
