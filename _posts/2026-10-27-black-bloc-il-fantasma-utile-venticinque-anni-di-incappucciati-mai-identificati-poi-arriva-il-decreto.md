@@ -23,7 +23,7 @@ tags:
 image: /assets/images/uploads/IMG_7607.jpeg
 image_caption: 'Da Genova 2001 ai cortei di ottobre: perché i black bloc non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
 image_alt: 'Da Genova 2001 ai cortei di ottobre: perché i black bloc non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
-excerpt: 'Da venticinque anni i black bloc compaiono nei cortei e non vengono mai identificati. Dopo gli scontri del 17 e 24 ottobre il governo risponde con un decreto che estende il fermo preventivo ai minorenni: a Roma tredicenni trattenuti davanti a scuola, a Torino un’auto della Digos scortata tra la folla. Un editoriale sulle domande senza risposta.'
+excerpt: "Da venticinque anni i black bloc compaiono nei cortei e non vengono mai identificati. Dopo gli scontri del 17 e 24 ottobre il governo risponde con un decreto che estende il fermo preventivo ai minorenni: a Roma tredicenni trattenuti davanti a scuola, a Torino un'auto della Digos scortata tra la folla. Un editoriale sulle domande senza risposta."
 focus_keyword: Black Block
 ---
 
