@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Black bloc, il fantasma utile  Venticinque anni di incappucciati mai identificati. Poi arriva il decreto
-seo_title: Black bloc, il fantasma utile  Venticinque anni di incappucciati mai identificati. Poi arriva il decreto
-description: 'Da Genova 2001 ai cortei di ottobre: perché i black bloc non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
+title: Black block, il fantasma utile  Venticinque anni di incappucciati mai identificati. Poi arriva il decreto
+seo_title: Black block, il fantasma utile  Venticinque anni di incappucciati mai identificati. Poi arriva il decreto
+description: 'Da Genova 2001 ai cortei di ottobre: perché i black block non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
 date: 2026-10-27 07:28:00 +0100
 author: lino-rialti
 category: opinioni-editoriali
@@ -23,13 +23,13 @@ tags:
 image: /assets/images/uploads/IMG_7607.jpeg
 image_caption: 'Da Genova 2001 ai cortei di ottobre: perché i black bloc non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
 image_alt: 'Da Genova 2001 ai cortei di ottobre: perché i black bloc non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
-excerpt: "Da venticinque anni i black bloc compaiono nei cortei e non vengono mai identificati. Dopo gli scontri del 17 e 24 ottobre il governo risponde con un decreto che estende il fermo preventivo ai minorenni: a Roma tredicenni trattenuti davanti a scuola, a Torino un'auto della Digos scortata tra la folla. Un editoriale sulle domande senza risposta."
+excerpt: "Da venticinque anni i black block compaiono nei cortei e non vengono mai identificati. Dopo gli scontri del 17 e 24 ottobre il governo risponde con un decreto che estende il fermo preventivo ai minorenni: a Roma tredicenni trattenuti davanti a scuola, a Torino un'auto della Digos scortata tra la folla. Un editoriale sulle domande senza risposta."
 focus_keyword: Black Block
 ---
 
 .
 
-Da Genova 2001 a oggi il black bloc è il personaggio più riconoscibile e meno afferrabile della cronaca italiana. 
+Da Genova 2001 a oggi il black block è il personaggio più riconoscibile e meno afferrabile della cronaca italiana. 
 
 Lo vediamo ogni volta: passamontagna, bombe carta, vetrine, cassonetti in fiamme. Non lo vediamo mai dopo. 
 
@@ -37,7 +37,7 @@ Qualcuno, a Genova, è stato condannato per devastazione e saccheggio, ma il fen
 
 Le settimane appena trascorse hanno replicato lo schema. Il 17 ottobre a Milano, al corteo di “Italia in piazza” contro il caro vita, in più di cinquemila: poi la sassaiola in via Broletto, bombe carta e fumogeni in piazza Duomo, due agenti feriti e una quarantina di fermati, secondo il sindacato di polizia Coisp. 
 
-Il 24 ottobre scontri per ore a Bologna, tensione a Firenze, dove alla stazione la polizia ha fermato una decina di ragazzi con passamontagna negli zaini e uno con una maschera antigas. Oltralpe, il ministro dell’Interno Nuñez ha denunciato centinaia di black bloc infiltrati nei cortei francesi.
+Il 24 ottobre scontri per ore a Bologna, tensione a Firenze, dove alla stazione la polizia ha fermato una decina di ragazzi con passamontagna negli zaini e uno con una maschera antigas. Oltralpe, il ministro dell’Interno Nuñez ha denunciato centinaia di black block infiltrati nei cortei francesi.
 
 Ed è proprio la Francia a porre la domanda che qui nessuno fa: a che serve l’intelligence? Il 17 ottobre furono i sindaci a denunciare che i casseurs avevano potuto devastare e saccheggiare indisturbati e lo stesso governo dovette ammettere il fallimento nella gestione dell’ordine pubblico. Una settimana dopo, con un migliaio di fermi, contro i 385 della stessa ora del 17, la giornata si è chiusa con tafferugli a fine corteo. Dunque si può. Quando si vuole.
 
