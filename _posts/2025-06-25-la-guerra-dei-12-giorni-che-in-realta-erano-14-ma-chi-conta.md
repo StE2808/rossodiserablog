@@ -6,17 +6,23 @@ last_modified_at: 2026-06-07 17:13:36 +0200
 author: lino-rialti
 image: /assets/images/2025/06/img_6531-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "Ah, la famosa 'guerra dei 12 giorni'. Peccato che di giorni ce ne siano stati 14, ma evidentemente quando si tratta di conflitti internazionali, la..."
+description: "La guerra dei 12 giorni tra Israele e Iran è durata 14 giorni e tutti rivendicano la vittoria: Iran, Israele e Trump. Intanto a Gaza si continua a morire."
 category: politica-estera
 tags: ["Conflitto", "crisi", "Cultura", "gaza", "giustizia", "Governo", "guerra", "hamas", "Iran", "israele", "libert\u00e0", "Meloni", "odio", "Pace", "palestina", "politica", "repressione", "resistenza", "societ\u00e0", "Trump", "UE", "Umanit\u00e0", "USA", "violenza"]
+seo_title: "Guerra dei 12 giorni tra Israele e Iran: chi ha vinto?"
+focus_keyword: "guerra dei 12 giorni"
 ---
 Ah, la famosa "guerra dei 12 giorni"! Peccato che di giorni ce ne siano stati 14, ma evidentemente quando si tratta di conflitti internazionali, la matematica diventa un optional. D'altronde, chi ha tempo di contare quando c'è da dichiarare vittoria?
 
-E parlando di vittorie, che spettacolo vedere "tutti"che rivendicano il merito del cessate il fuoco! L'Iran festeggia, Israele pure, Trump si prende i complimenti per una telefonata (probabilmente la più costosa della storia, considerando che ha fermato una guerra… o almeno così dice lui). È come quando tre persone si contendono il merito di aver acceso una lampadina: tutti hanno premuto l'interruttore, ma solo uno aveva la corrente attaccata.
+## Chi ha vinto la guerra dei 12 giorni? Iran, Israele e Trump
+
+E parlando di vittorie, che spettacolo vedere "tutti" che rivendicano il merito del cessate il fuoco! L'Iran festeggia, Israele pure, Trump si prende i complimenti per una telefonata (probabilmente la più costosa della storia, considerando che ha fermato una guerra… o almeno così dice lui). È come quando tre persone si contendono il merito di aver acceso una lampadina: tutti hanno premuto l'interruttore, ma solo uno aveva la corrente attaccata.
 
 Il [presidente iraniano Pezeshkian](https://rossodiserablog.it/israele-bombarda-l-iran-l-ipocrisia-dell-occidente-di-fronte/) ha "rivendicato la tregua come una vittoria" - perché niente dice "abbiamo vinto" come smettere di combattere dopo aver violato il cessate il fuoco. È un po' come dichiarare di aver vinto una partita di calcio dopo aver fatto autogol, ma con più stile diplomatico.
 
 Dall'altra parte, Trump è apparso "furioso" davanti ai giornalisti urlando «Non sanno che cazzo stanno facendo» - il che, traducendo dal trumpiano, significa: "Anche io non so che cazzo sto facendo, ma almeno lo ammetto con più enfasi". Naturalmente, subito dopo si è "riconciliato con il suo alleato", perché niente cementa un'amicizia internazionale come una bella arrabbiatura pubblica seguita da un rapido dietrofront.
+
+## Dopo la tregua con l'Iran, l'attenzione torna su Gaza
 
 L'esercito israeliano, nel frattempo, ha confermato che "ora la sua attenzione tornerà su Gaza" - come se Gaza fosse stata una pausa pubblicitaria durante la programmazione principale. "Torniamo ora al nostro conflitto abituale, già in corso da decenni, grazie per la pazienza".
 

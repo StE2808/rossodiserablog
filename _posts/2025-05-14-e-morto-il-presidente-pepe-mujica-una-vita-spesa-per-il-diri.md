@@ -6,15 +6,19 @@ last_modified_at: 2026-06-07 17:52:41 +0200
 author: lino-rialti
 image: /assets/images/2025/05/img_6433-1.webp
 image_alt: "Immagine di copertina dell'articolo"
-description: "E' rimbalzata sui social la notizia della scomparsa del Presidente José 'Pepe' Mujica, figura straordinaria che ha lasciato un'impronta indelebile nella..."
+description: "Morto a 89 anni Pepe Mujica, ex presidente dell'Uruguay: ex guerrigliero, viveva in una casa colonica e donava il 90% dello stipendio in beneficenza."
 category: cronaca-bianca
 tags: ["diritti", "Etica", "felicit\u00e0", "giustizia", "Jos\u00e9", "Mujica", "politica", "sociale", "societ\u00e0", "Solidariet\u00e0", "Uruguay"]
+seo_title: "Morto Pepe Mujica, il presidente del diritto a essere felici"
+focus_keyword: "Pepe Mujica"
 ---
 E' rimbalzata sui social la notizia della scomparsa del Presidente José "Pepe" Mujica, figura straordinaria che ha lasciato un'impronta indelebile nella storia dell'Uruguay e del mondo intero.
 
 Uomo semplice e di principi incrollabili, Mujica ha vissuto i suoi 89 anni con una coerenza rara nel panorama politico mondiale. Ex guerrigliero che conobbe la durezza di 15 anni di carcere durante la dittatura, non permise mai che le sofferenze del passato offuscassero la sua visione luminosa dell'umanità.
 
 "Non veniamo alla luce per svilupparci solamente," amava ripetere, "[veniamo alla luce per essere felici](https://rossodiserablog.it/laura-santi-la-liberta-come-ultimo-atto-d-amore/). Perché la vita è corta e se ne va via rapidamente." Questa convinzione profonda ha guidato le sue scelte, sia politiche che personali.
+
+## Il presidente più povero del mondo: la casa colonica e il 90% dello stipendio
 
 Mentre occupava la più alta carica dello Stato, ha continuato a vivere nella sua modesta casa colonica con la moglie e il suo fedele cane a tre zampe, devolvendo il 90% del suo stipendio in beneficenza. "Povero non è colui che tiene poco, ma colui che necessita tanto e desidera ancora di più," ricordava citando gli antichi pensatori.
 
