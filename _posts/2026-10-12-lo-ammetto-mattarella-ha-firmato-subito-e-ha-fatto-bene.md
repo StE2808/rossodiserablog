@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Lo ammetto: Mattarella ha firmato subito e ha fatto bene.'
-seo_title: 'Mattarella firma subito lo Stabilicum: perché la mossa anticipa la battaglia alla Consulta'
-description: Mattarella ha promulgato subito lo Stabilicum. Una scelta che evita il rinvio inutile, apre la strada ai ricorsi e dà tempo alla Consulta prima del voto 2027.
+seo_title: "Stabilicum, perché Mattarella ha fatto bene a firmare"
+description: "Mattarella ha promulgato subito lo Stabilicum: una scelta che evita un rinvio inutile, apre la strada ai ricorsi e dà tempo alla Consulta prima del 2027."
 date: 2026-10-12 06:33:00 +0200
 author: lino-rialti
 category: politica-interna
@@ -33,3 +33,43 @@ Chi aveva fretta di blindare le poltrone ha solo anticipato l'inizio della parti
 Lunedì 12 ottobre alle 13:00 seguiremo la conferenza stampa del professor Zaccaria. Subito dopo partiranno i ricorsi.
 
 La democrazia si difende anche scegliendo il momento giusto.
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché Mattarella ha firmato subito lo Stabilicum?</h3></summary>
+
+Perché il rinvio alle Camere si può fare una sola volta: se il Parlamento riapprova lo stesso testo, l'articolo 74 della Costituzione obbliga il [Presidente della Repubblica](/per-fortuna-che-abbiamo-mattarella-l-ultimo-baluardo-della-c/) a promulgarlo. Rinviarlo avrebbe fatto perdere solo qualche mese. Firmando subito, la nuova legge elettorale esiste e si può impugnare, lasciando alla Corte costituzionale il tempo di pronunciarsi prima del voto del 2027.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Lo Stabilicum si può impugnare davanti alla Corte costituzionale?</h3></summary>
+
+Sì, ed è proprio la ragione della firma rapida: una legge in vigore si può contestare e portare davanti alla Consulta, una legge lasciata nel limbo no. I giuristi guidati dal professor Zaccaria hanno preparato i ricorsi subito dopo la conferenza stampa del 12 ottobre 2026, per evitare che la legge arrivi alle elezioni del 2027 come un fatto compiuto.
+
+</details>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Perché Mattarella ha firmato subito lo Stabilicum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perché il rinvio alle Camere si può fare una sola volta: se il Parlamento riapprova lo stesso testo, l'articolo 74 della Costituzione obbliga il Presidente della Repubblica a promulgarlo. Rinviarlo avrebbe fatto perdere solo qualche mese. Firmando subito, la nuova legge elettorale esiste e si può impugnare, lasciando alla Corte costituzionale il tempo di pronunciarsi prima del voto del 2027."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Lo Stabilicum si può impugnare davanti alla Corte costituzionale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì, ed è proprio la ragione della firma rapida: una legge in vigore si può contestare e portare davanti alla Consulta, una legge lasciata nel limbo no. I giuristi guidati dal professor Zaccaria hanno preparato i ricorsi subito dopo la conferenza stampa del 12 ottobre 2026, per evitare che la legge arrivi alle elezioni del 2027 come un fatto compiuto."
+      }
+    }
+  ]
+}
+</script>

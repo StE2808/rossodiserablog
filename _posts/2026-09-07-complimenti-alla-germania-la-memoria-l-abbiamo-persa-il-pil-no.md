@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Complimenti alla Germania: la memoria l'abbiamo persa, il PIL no"
-seo_title: "Complimenti alla Germania: la memoria l'abbiamo persa, il PIL no"
+seo_title: "AfD al 44,2% in Sassonia-Anhalt: memoria persa, PIL no"
 description: L'AfD trionfa in Sassonia-Anhalt col 44,2%. Un'analisi ironica su memoria storica, PIL, debito pubblico e turbocapitalismo che affama l'Europa.
 date: 2026-09-07 10:13:00 +0200
 author: lino-rialti
@@ -13,18 +13,17 @@ tags:
   - Estrema destra
   - Germania
   - Ulrich Siegsmund
-  - Alice Weildel
-  - Friederich Merz
+  - Alice Weidel
+  - Friedrich Merz
   - PIL e decrescita
   - Debito pubblico
   - Welfare
   - Turbocapitalismo
-  - Disuguaglianze
 image: /assets/images/uploads/IMG_7488.jpeg
 image_caption: Siegmund Ulrich, candidato di Afd in Sassonia-Anhalt
 image_alt: Siegmund Ulrich, candidato di Afd in Sassonia-Anhalt
 excerpt: "Il 44,2% raccolto dall'AfD in Sassonia-Anhalt, con la CDU crollata al 18%, apre una riflessione ironica e pungente su chi trae vantaggio dalla polarizzazione sociale in Europa. Il pezzo intreccia la rimozione della memoria storica tedesca con quattro nodi economici: il dogma della crescita del PIL su un pianeta dalle risorse finite, l'uso strumentale del debito pubblico per giustificare tagli al welfare, la povertà energetica e salariale che convive con profitti record, e il ruolo dei grandi patrimoni nel finanziare campagne che scaricano le colpe del sistema su migranti, disoccupati e poveri."
-focus_keyword: ''
+focus_keyword: "AfD Sassonia-Anhalt"
 ---
 
 Bene, benissimo. Applausi. La Sassonia-Anhalt ha appena consegnato ad Alternative für Deutschland il 44,2% dei voti, doppiando in un colpo solo il proprio risultato del 2021 e riducendo la CDU di Sven Schulze a un rassicurante 18%. Affluenza record, quasi l'80%: la democrazia, quando decide di farsi del male, non lo fa mai a metà. Ulrich Siegmund, 35 anni, ha dichiarato di aver "fatto la storia" del suo Land. Ha ragione, purtroppo: è la storia che qualcuno, da queste parti, sperava non si ripetesse più.
@@ -46,3 +45,58 @@ E’ il turbocapitalismo che si compra la rabbia altrui. La parte più scomoda: 
 Così la Sassonia-Anhalt diventa il laboratorio perfetto: disoccupazione, spopolamento, salari tra i più bassi di Germania, un senso diffuso di essere cittadini di serie B rispetto all'Ovest. Materiale ideale per chi ha bisogno di un nemico esterno da indicare, e di un sistema economico interno da non toccare mai.
 
 Complimenti davvero. La memoria l'abbiamo persa. Il PIL, quello no: continua a crescere, insieme ai dividendi di chi ha tutto l'interesse a tenerci occupati a litigare tra poveri.
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Quanto ha preso l'AfD in Sassonia-Anhalt?</h3></summary>
+
+Alternative für Deutschland ha preso il 44,2% dei voti in Sassonia-Anhalt, raddoppiando il proprio risultato del 2021, mentre la CDU di Sven Schulze è scesa al 18%. L'affluenza ha sfiorato l'80%. All'AfD di Ulrich Siegmund sono mancati pochi seggi: ottant'anni dopo la guerra, un partito di estrema destra è a un soffio dal governare da solo uno stato tedesco.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Perché l'AfD cresce nell'Est della Germania?</h3></summary>
+
+Perché in Sassonia-Anhalt si sommano disoccupazione, spopolamento, salari tra i più bassi del Paese e la sensazione di essere cittadini di serie B rispetto all'Ovest. Su questo terreno chi vuole spostare la rabbia dal piano economico a quello identitario trova facilmente un nemico esterno da indicare, mentre il sistema economico resta intatto: conviene tenere la gente a [litigare tra poveri](/ci-fanno-litigare-in-orizzontale/).
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Il debito pubblico obbliga a tagliare il welfare?</h3></summary>
+
+No: il debito pubblico c'è sempre stato, ed è sempre stata una scelta politica decidere su chi farne ricadere il peso. Viene brandito come una clava quando si tratta di tagliare welfare, sanità e pensioni, ma smette di far paura quando bisogna salvare le banche o [finanziare il riarmo](/spesa-militare-italia-welfare-riarmo/). Diventa un problema serio solo quando a chiedere aiuto è chi sta in fondo alla fila.
+
+</details>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quanto ha preso l'AfD in Sassonia-Anhalt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alternative für Deutschland ha preso il 44,2% dei voti in Sassonia-Anhalt, raddoppiando il proprio risultato del 2021, mentre la CDU di Sven Schulze è scesa al 18%. L'affluenza ha sfiorato l'80%. All'AfD di Ulrich Siegmund sono mancati pochi seggi: ottant'anni dopo la guerra, un partito di estrema destra è a un soffio dal governare da solo uno stato tedesco."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché l'AfD cresce nell'Est della Germania?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perché in Sassonia-Anhalt si sommano disoccupazione, spopolamento, salari tra i più bassi del Paese e la sensazione di essere cittadini di serie B rispetto all'Ovest. Su questo terreno chi vuole spostare la rabbia dal piano economico a quello identitario trova facilmente un nemico esterno da indicare, mentre il sistema economico resta intatto: conviene tenere la gente a litigare tra poveri."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il debito pubblico obbliga a tagliare il welfare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No: il debito pubblico c'è sempre stato, ed è sempre stata una scelta politica decidere su chi farne ricadere il peso. Viene brandito come una clava quando si tratta di tagliare welfare, sanità e pensioni, ma smette di far paura quando bisogna salvare le banche o finanziare il riarmo. Diventa un problema serio solo quando a chiedere aiuto è chi sta in fondo alla fila."
+      }
+    }
+  ]
+}
+</script>

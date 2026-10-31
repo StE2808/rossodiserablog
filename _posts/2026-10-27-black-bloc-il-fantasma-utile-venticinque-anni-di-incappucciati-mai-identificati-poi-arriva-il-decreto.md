@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black bloc, il fantasma utile  Venticinque anni di incappucciati mai identificati. Poi arriva il decreto
-seo_title: Black bloc, il fantasma utile  Venticinque anni di incappucciati mai identificati. Poi arriva il decreto
+seo_title: "Black bloc mai identificati: 25 anni, poi il decreto"
 description: 'Da Genova 2001 ai cortei di ottobre: perché i black bloc non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
 date: 2026-10-27 07:28:00 +0100
 author: lino-rialti
@@ -20,22 +20,19 @@ tags:
   - Decreto
   - Sicurezza
   - FermoPreventivo
-  - BlackBloc
   - Black-Block
 image: /assets/images/uploads/IMG_7607.jpeg
 image_caption: 'Da Genova 2001 ai cortei di ottobre: perché i black bloc non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
 image_alt: 'Da Genova 2001 ai cortei di ottobre: perché i black bloc non vengono mai fermati, mentre il decreto sicurezza colpisce gli studenti minorenni?'
 excerpt: "Da venticinque anni i black bloc compaiono nei cortei e non vengono mai identificati. Dopo gli scontri del 17 e 24 ottobre il governo risponde con un decreto che estende il fermo preventivo ai minorenni: a Roma tredicenni trattenuti davanti a scuola, a Torino un'auto della Digos scortata tra la folla. Un editoriale sulle domande senza risposta."
-focus_keyword: Black Bloc
+focus_keyword: "black bloc"
 ---
-
-.
 
 Da Genova 2001 a oggi il black bloc è il personaggio più riconoscibile e meno afferrabile della cronaca italiana. 
 
 Lo vediamo ogni volta: passamontagna, bombe carta, vetrine, cassonetti in fiamme. Non lo vediamo mai dopo. 
 
-Qualcuno, a Genova, è stato condannato per devastazione e saccheggio, ma il fenomeno resta una nebulosa senza volto: nessuno sa dirci chi siano, chi li coordini, perché compaiano sempre al momento giusto. Un paradosso che molti governi , si sono accontentati di lasciare lì: questo governo sta affinando la tecnica.
+Qualcuno, a Genova, è stato condannato per devastazione e saccheggio, ma il fenomeno resta una nebulosa senza volto: nessuno sa dirci chi siano, chi li coordini, perché compaiano sempre al momento giusto. Un paradosso che molti governi si sono accontentati di lasciare lì: questo governo sta affinando la tecnica.
 
 Le settimane appena trascorse hanno replicato lo schema. Il 17 ottobre a Milano, al corteo di “Italia in piazza” contro il caro vita, in più di cinquemila: poi la sassaiola in via Broletto, bombe carta e fumogeni in piazza Duomo, due agenti feriti e una quarantina di fermati, secondo il sindacato di polizia Coisp. 
 
@@ -62,3 +59,73 @@ Se i fatti sono quelli riferiti dai genitori, trattenere tredicenni per impedire
 E allora le domande, quelle che il potere preferisce non sentire. Perché migliaia di studenti in piazza per il caro vita e per il futuro vengono ridotti a un passamontagna? Perché 220 minorenni su 271 accompagnati in questura a Milano il 17 ottobre sono un’emergenza di polizia e non una spia di un disagio che nessuno ascolta? Perché un tredicenne, fermo davanti alla sua scuola, diventa un pericolo da tenere due ore in commissariato? Perché si criminalizza una generazione intera invece di chiedersi cosa l’abbia portata in strada? E perché, individuato l’amministratore della pagina del Movimento 17 ottobre, i titoli hanno gridato alla “mente” e ripescato le sue piazze del 2025, quando un collegamento operativo con le violenze, ad oggi, non risulta accertato? Da quando il fango su chi organizza il dissenso arriva prima delle prove, mentre sull’autista dell’auto scortata a Torino non si sa ancora nulla?
 
 Finché il governo non risponde, il black bloc resta quello che è: un fantasma utile. A chi lo combatte e a chi, magari, non ha troppa fretta di fermarlo.
+
+## Domande frequenti
+
+<details class="faq-item" markdown="1">
+<summary><h3>Chi sono i black bloc?</h3></summary>
+
+I black bloc sono gruppi che si infiltrano nei cortei a volto coperto, con passamontagna, bombe carta e fumogeni, per [devastare vetrine](/tre-piazze-un-solo-bersaglio-palazzo-chigi-maranza-studenti-tir-e-trattori-il-governo-meloni-nel-pallone/) e incendiare cassonetti. In Italia compaiono da Genova 2001 e restano una nebulosa senza volto: a parte alcune condanne per devastazione e saccheggio a Genova, non si sa chi siano, chi li coordini e perché compaiano sempre al momento giusto.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa prevede il nuovo decreto sicurezza sui minorenni?</h3></summary>
+
+[Il decreto](/dietro-il-decreto-sicurezza-l-emergenza-inesistente-che-mina/) «Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile» introduce il reato di partecipazione violenta a una manifestazione, punito fino a cinque anni di carcere, l'arresto in flagranza differita e il fermo preventivo fino a dodici ore, esteso per la prima volta ai minorenni. I genitori sono chiamati a pagare i danni dei figli.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa è successo davanti al liceo Albertelli di Roma?</h3></summary>
+
+Sabato 24 ottobre 2026, davanti al liceo Albertelli di Roma, la polizia ha avvicinato un gruppo di ragazzi di 13 e 14 anni radunati prima di andare al corteo. Secondo una lettera dei genitori pubblicata dal quotidiano Domani, alcuni sono stati portati in commissariato e trattenuti due ore senza alcun reato, per dissuaderli dal manifestare.
+
+</details>
+
+<details class="faq-item" markdown="1">
+<summary><h3>Cosa è successo in piazza Castello a Torino il 24 ottobre?</h3></summary>
+
+Una Citroën C3 bianca ha attraversato a velocità sostenuta piazza Castello, area pedonale piena di manifestanti, ed è stata poi scortata da agenti in tenuta antisommossa in via Pietro Micca e fatta proseguire. Fonti ufficiose parlano di un mezzo della Digos, senza conferme. Il deputato Marco Grimaldi (Avs) ha presentato un'interrogazione per sapere chi guidasse.
+
+</details>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Chi sono i black bloc?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I black bloc sono gruppi che si infiltrano nei cortei a volto coperto, con passamontagna, bombe carta e fumogeni, per devastare vetrine e incendiare cassonetti. In Italia compaiono da Genova 2001 e restano una nebulosa senza volto: a parte alcune condanne per devastazione e saccheggio a Genova, non si sa chi siano, chi li coordini e perché compaiano sempre al momento giusto."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cosa prevede il nuovo decreto sicurezza sui minorenni?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il decreto «Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile» introduce il reato di partecipazione violenta a una manifestazione, punito fino a cinque anni di carcere, l'arresto in flagranza differita e il fermo preventivo fino a dodici ore, esteso per la prima volta ai minorenni. I genitori sono chiamati a pagare i danni dei figli."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cosa è successo davanti al liceo Albertelli di Roma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sabato 24 ottobre 2026, davanti al liceo Albertelli di Roma, la polizia ha avvicinato un gruppo di ragazzi di 13 e 14 anni radunati prima di andare al corteo. Secondo una lettera dei genitori pubblicata dal quotidiano Domani, alcuni sono stati portati in commissariato e trattenuti due ore senza alcun reato, per dissuaderli dal manifestare."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cosa è successo in piazza Castello a Torino il 24 ottobre?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Una Citroën C3 bianca ha attraversato a velocità sostenuta piazza Castello, area pedonale piena di manifestanti, ed è stata poi scortata da agenti in tenuta antisommossa in via Pietro Micca e fatta proseguire. Fonti ufficiose parlano di un mezzo della Digos, senza conferme. Il deputato Marco Grimaldi (Avs) ha presentato un'interrogazione per sapere chi guidasse."
+      }
+    }
+  ]
+}
+</script>
