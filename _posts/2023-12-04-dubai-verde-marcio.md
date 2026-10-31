@@ -10,7 +10,7 @@ description: "'Triplicare l'energia nucleare entro il 2050': questo il motto del
 category: ambiente
 tags: ["clima", "co2", "COP28", "crisi", "crisi climatica", "Dubai", "Italia", "Meloni"]
 ---
-"Triplicare l'energia nucleare entro il 2050": questo il motto del terzo giorno della COP 28 a Dubai.
+"Triplicare l'energia nucleare entro il 2050": questo [il motto del terzo giorno della COP 28](/cop-28-ci-siamo-giocati-il-futuro/) a Dubai.
 
 Entra nel vivo l'incontro sul clima, infatti, se durante i primi due giorni si era parlato di refusione dei danni per quegli Stati che, nonostante non abbiano causato il cambiamento climatico, ne subiscono massicciamente le conseguenze, comunque sono stati stanziati pochi soldi, veramente spiccioli,  ora, con la terza giornata il mostro si svela per quello che è: viva il petrolio e viva il nucleare alla faccia di tutti i disastri avvenuti e quelli a venire.
 

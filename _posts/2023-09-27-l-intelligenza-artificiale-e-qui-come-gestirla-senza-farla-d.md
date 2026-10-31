@@ -64,7 +64,7 @@ Guardate, non siamo nemici. Ognuno di noi ha i propri punti di forza e di debole
 
 ## Futuro economico + IA = cambiamento? Assolutamente!
 
-Siamo in un'epoca di cambio radicale, dove le macchine stanno cominciando a fare un sacco di cose che una volta erano appannaggio esclusivo degli umani. È come se fossimo a una svolta, e la strada che prenderemo potrebbe cambiare tutto, da come lavoriamo a come viviamo.
+Siamo in un'epoca di cambio radicale, dove le macchine stanno cominciando a fare [un sacco di cose che una volta erano appannaggio esclusivo degli umani](/fatti-la-cassa-da-solo-e-scegliti-la-cultura/). È come se fossimo a una svolta, e la strada che prenderemo potrebbe cambiare tutto, da come lavoriamo a come viviamo.
 
 ## Reddito di base:
 

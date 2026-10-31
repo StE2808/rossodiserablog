@@ -14,7 +14,7 @@ Una riforma costituzionale ed un ponte: queste sono le priorità del governo Mel
 
 Ma poi, se si chiede in giro, infatti il nostro popolo non chiede altro, o no? Ma visto che a questo Governo non riesce niente di buono, soprattutto dopo la luna di miele dei primi 100 giorni, anche per tentare di coprire magagne e figuracce, gaffes ed abbocchi, allora ci si butta su armi di distrazione di massa: ora è il momento del ponte sullo Stretto e intanto briga sulla "Riforma delle Riforme", la riforma costituzionale per l'elezione diretta del [premier](/meloni-ed-il-progetto-segreto/). 
 
-E così Giorgia Meloni ed il suo entourage, ci stanno preparando una riforma costituzionale pericolosa perché  assurda e scritta male. Se poi dovesse uscire qualche pastrocchio, se qualcuno armato di capacità, retorica e seguito facesse notare qualche serio problema costituzionale, si potrà sempre dire che si tratta di una bozza, come attualmente va di moda tra le fila del Governo.
+E così Giorgia Meloni ed il suo entourage, ci stanno preparando [una riforma costituzionale pericolosa](/la-meloni-ed-il-tubo/) perché  assurda e scritta male. Se poi dovesse uscire qualche pastrocchio, se qualcuno armato di capacità, retorica e seguito facesse notare qualche serio problema costituzionale, si potrà sempre dire che si tratta di una bozza, come attualmente va di moda tra le fila del Governo.
 
 Ma la riforma presentata un paio di giorni fa non sta in piedi, non ha i numeri e così come è scritta non la firmerebbe nemmeno Renzi... ed è tutto un dire.
 

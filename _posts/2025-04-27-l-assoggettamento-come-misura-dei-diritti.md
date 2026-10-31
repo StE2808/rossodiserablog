@@ -10,7 +10,7 @@ description: "L'umanità ha sviluppato un peculiare rapporto con gli animali, st
 category: diritti-umani
 tags: ["animali", "diritti", "giustizia", "politica", "societ\u00e0"]
 ---
-L'umanità ha sviluppato un peculiare rapporto con gli animali, strutturato secondo una gerarchia di considerazione morale che sembra inversamente proporzionale al grado di autonomia delle diverse specie. Questa dinamica merita un'analisi approfondita.
+L'umanità ha sviluppato [un peculiare rapporto con gli animali](/l-importanza-dello-spazio-tra-forchetta-e-bocca/), strutturato secondo una gerarchia di considerazione morale che sembra inversamente proporzionale al grado di autonomia delle diverse specie. Questa dinamica merita un'analisi approfondita.
 
 Gli animali domestici come cani e gatti, completamente assoggettati e integrati nelle nostre vite, godono del massimo livello di protezione legale e considerazione affettiva. Beneficiano di cure veterinarie, leggi contro il maltrattamento e persino di un riconoscimento come "membri della famiglia". La loro completa dipendenza dall'uomo sembra aver generato un senso di responsabilità che si traduce in diritti concreti.
 

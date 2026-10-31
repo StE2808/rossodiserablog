@@ -28,7 +28,7 @@ In un recente articolo il Wall Street Journal ha dichiarato tramontata la fiduci
 
 E allora si comprende come oggi solo il 36% degli americani ancora crede in quel sogno chiamato capitalismo contro il 53% del 2012 ed il 46 % del 2016, un trend innegabile. Il 50% degli intervistati ritiene che la vita in America sia peggiore di 50 anni fa e solo il 30% ritiene che sia migliore. 
 
-La crisi del capitalismo è certificata dalla risposta netta ad una domanda molto complessa: “*crede che l’attuale sistema economico e politico sia contro di lei?*”,  neanche a dirlo, la risposta è stata “*sì penso sia contro di me*” per il 50% degli intervistati contro il 39% che si è detta non d’accordo.
+[La crisi del capitalismo è certificata](/dal-patinato-al-popolare-la-sfida-del-progressismo-in-un-mon/) dalla risposta netta ad una domanda molto complessa: “*crede che l’attuale sistema economico e politico sia contro di lei?*”,  neanche a dirlo, la risposta è stata “*sì penso sia contro di me*” per il 50% degli intervistati contro il 39% che si è detta non d’accordo.
 
 Quelli più pessimisti si sono dichiarati i giovani e le donne, comprensibilmente, solo il 28% di questi ancora crede all’american dream.
 
@@ -36,7 +36,7 @@ L’Europa, fortemente influenzata dalle tendenze di oltreoceano, sicuramente ac
 
 In America come in Europa la mobilità sociale diminuisce, evidenziando un persistente immobilismo sociale legato alle gravi disuguaglianze di reddito, i più colpiti sono i giovani e da sempre il genere femminile che infatti sono i più scontenti e pronti a dichiararlo. 
 
-Con l’avanzata della Cina e con il rafforzamento dell’economia del continente indiano, si fa sempre più seria la crisi egemonica degli Stati Uniti che si manifesta non solo economicamente, ma anche nel fallimento dell'idea che ognuno possa raggiungere la felicità attraverso i propri meriti. 
+Con l’avanzata della Cina e con il rafforzamento dell’economia del continente indiano, si fa sempre più seria [la crisi egemonica degli Stati Uniti](/la-luna-piena-di-sogni-e-conflitti-geopolitica-della-corsa-a/) che si manifesta non solo economicamente, ma anche nel fallimento dell'idea che ognuno possa raggiungere la felicità attraverso i propri meriti. 
 
 Il problema non è aver fatto la diagnosi ma il trovarne la cura. Infatti se la necessità di una critica all'individualismo sottostante al sogno americano emerge, il risveglio collettivo sembra ancora lontano, con la propaganda politica che persiste nei miti individualistici, sia negli Stati Uniti che nelle altre democrazie liberali, Europa compresa.
 

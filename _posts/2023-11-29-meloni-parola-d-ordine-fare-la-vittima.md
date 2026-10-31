@@ -22,7 +22,7 @@ E poi la bufala sul pericolo del ritorno di un “governo tecnico” e quindi la
 
 E allora via a dibattiti, accuse, rettifiche, mezze smentire, correzioni di tiro. L’importante è confondere l’opinione pubblica, fare abbastanza caciara, alzare polvere sufficiente per confondere. 
 
-Comunque l'uomo forte solo al comando (anche se dovrebbe trattrsi di una donna di nome Giorgia) piace alla base della destra e distrae gli italiani dai problemi veri, seri e reali, intanto un 30% degli italiani, tra cui anche molti elettori della Meloni, non arriva a fine mese ed ancora crede che la colpa sia di qualcun altro? Per quanto?
+Comunque [l'uomo forte solo al comando](/la-meravigliosa-cronaca-del-nostro-fulgido-presente-ovvero-g/) (anche se dovrebbe trattrsi di una donna di nome Giorgia) piace alla base della destra e distrae gli italiani dai problemi veri, seri e reali, intanto un 30% degli italiani, tra cui anche molti elettori della Meloni, non arriva a fine mese ed ancora crede che la colpa sia di qualcun altro? Per quanto?
 
 E quindi, fin che dura fa verdura, via liberissima a vittimismo, bugie e spauracchi. Ma incombe un detto popolare, quello secondo cui "le bugie hanno le gambe corte" e presto molti si dovranno svegliare dal torpore indotto da questo governo di maghi da strapazzo, bravo però nella ipnosi collettiva che fino ad ora ha impastato le coscienze degli italioti.  
 

@@ -72,7 +72,7 @@ La prossima volta che leggete di "professionisti del dissenso" o di "estremisti"
 
 Spesso chiedono cose che, dette in un salotto, sembrerebbero ragionevoli: aria più pulita, politiche climatiche serie, che la polizia non manganelli i minorenni. Cose che, a cena con gli amici e col vino buono, sottoscriveremmo tutti.
 
-Forse il problema non è il messaggio. Forse il problema è che qualcuno ha deciso che certi messaggi, per quanto ragionevoli, non devono più essere pronunciati ad alta voce. È la stessa [paura che è più facile della speranza](https://rossodiserablog.it/la-paura-e-piu-facile-della-speranza/): l'ansia del potere davanti a chi non si rassegna.
+Forse il problema non è il messaggio. Forse il problema è che qualcuno ha deciso che certi messaggi, per quanto ragionevoli, [non devono più essere pronunciati ad alta voce](/elogio-del-silenzio-imbarazzante/). È la stessa [paura che è più facile della speranza](https://rossodiserablog.it/la-paura-e-piu-facile-della-speranza/): l'ansia del potere davanti a chi non si rassegna.
 
 E se questo è vero, allora la domanda iniziale ("la democrazia sta bene?") ha una risposta. No, non sta benissimo. Ha la sindrome del nemico interno, e la febbre sale.
 

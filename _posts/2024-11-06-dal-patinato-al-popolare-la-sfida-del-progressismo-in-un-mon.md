@@ -40,7 +40,7 @@ Alla fine, le persone vogliono sentirsi parte di qualcosa di autentico, che dia 
 
 ## Una Politica per il Futuro
 
-Forse, il tempo per fare tutto questo è già finito. La fiducia è una risorsa fragile e, una volta persa, è difficile da recuperare. Ma la strada è necessaria: costruire un'idea di progresso che sia davvero di tutti, un progetto condiviso che risponda al bisogno di senso, di appartenenza, di stabilità. Un progetto che abbandoni finalmente la superficialità e si immerga nella realtà, offrendo una visione di futuro che non sia una spruzzata di lucentezza o una sfilata di bei pensieri, ma una vera prospettiva di cambiamento, capace di dare speranza anche a chi ormai non ha più nulla da perdere.
+Forse, il tempo per fare tutto questo è già finito. La fiducia è una risorsa fragile e, una volta persa, è difficile da recuperare. Ma la strada è necessaria: [costruire un'idea di progresso che sia davvero di tutti](/l-etica-del-viandante-ci-potra-salvare/), un progetto condiviso che risponda al bisogno di senso, di appartenenza, di stabilità. Un progetto che abbandoni finalmente la superficialità e si immerga nella realtà, offrendo una visione di futuro che non sia una spruzzata di lucentezza o una sfilata di bei pensieri, ma una vera prospettiva di cambiamento, capace di dare speranza anche a chi ormai non ha più nulla da perdere.
 
 ## Domande frequenti
 

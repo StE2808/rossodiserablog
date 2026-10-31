@@ -14,13 +14,13 @@ La pace ridotta ad un ideale, dovrebbe unire le nazioni in una ricerca comune di
 
 In Ucraina, gli interessi occidentali ma soprattutto americani hanno, dapprima creato tensioni tra forze governative e ribelli filo-russi, poi trasformato molte comunità in teatri di conflitto armato, infine , gradualmente, armato un governo corrotto, quello di Zelensky e provocato situazioni instabili che hanno portato Putin a sentirsi giustificato di intraprendere una operazione speciale, che poi è diventata presto una guerra vera e propria, che ha lasciato e sta lasciando dietro di sé, una scia di distruzione e disperazione.
 
-Le vite spezzate, i rifugiati senza meta, presi in una morsa infernale, un luogo sicuro, un rifugio sono però a Gaza. Un popolo, quello palestinese, dislocato, spinto, bombardato, affamato, annientato, disorientato, sottoposto a sofferenze indicibili e continuo sversamento di sangue (soprattutto civili innocenti e inermi).
+Le vite spezzate, i rifugiati senza meta, presi in una morsa infernale, un luogo sicuro, un rifugio sono però a Gaza. [Un popolo, quello palestinese](/la-cina-sta-lanciando-aiuti-umanitari-su-gaza-il-paradosso-d/), dislocato, spinto, bombardato, affamato, annientato, disorientato, sottoposto a sofferenze indicibili e continuo sversamento di sangue (soprattutto civili innocenti e inermi).
 
 Vite umane, lontane ma ravvicinate dalla tragedia della guerra provocata da interessi lontani ed incomprensibili a gran parte di chi ne paga le conseguenze.
 
 Nella striscia di Gaza, l'incessante ciclo di violenza e repressione ha portato a [un genocidio che ha colpito civili innocenti](https://rossodiserablog.it/gaza-i-fatti-i-numeri-le-responsabilita/), compresi donne e bambini, che sono vittime impotenti di un conflitto politico profondo. Le violazioni dei diritti umani e le atrocità commesse in nome della politica e dell'ideologia sono inaccettabili e richiedono una risposta urgente e decisa dalla comunità internazionale.
 
-Mentre il mondo guarda con orrore queste tragedie umane, è chiaro che la pace non può essere raggiunta fino a quando non si affrontano le cause sottostanti di questi conflitti, compresa l'ingiustizia, la disuguaglianza e l'ambizione politica.
+Mentre il mondo [guarda con orrore queste tragedie umane](/l-assuefazione-alla-puzza-della-guerra/), è chiaro che la pace non può essere raggiunta fino a quando non si affrontano le cause sottostanti di questi conflitti, compresa l'ingiustizia, la disuguaglianza e l'ambizione politica.
 
 È essenziale un impegno concertato da parte di tutte le nazioni per porre fine alla violenza, garantire la giustizia e promuovere una cultura di dialogo e rispetto reciproco. Solo allora la pace potrà essere ripristinata e la speranza per un futuro migliore potrà essere rinnovata.
 

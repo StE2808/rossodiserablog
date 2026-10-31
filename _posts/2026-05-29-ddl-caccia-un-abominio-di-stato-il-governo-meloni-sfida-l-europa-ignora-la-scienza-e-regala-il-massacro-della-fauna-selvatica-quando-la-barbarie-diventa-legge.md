@@ -41,7 +41,7 @@ Nel dicembre scorso la Commissione Europea ha inviato una lettera formale al gov
 
 Il DDL apre la caccia nel demanio marittimo — sì, sulle spiagge. Introduce l'uso di richiami vivi. Inserisce nuove specie cacciabili: lo stambecco, protetto da quasi due secoli; l'oca selvatica, di cui sopravvivono ormai pochi esemplari. Consente la caccia in valichi montani e aree demaniali. Autorizza sistemi di puntamento notturno, vietati dalla Convenzione di Berna. Cancella l'obbligo di scegliere una sola forma di caccia. E, nel colpo più simbolicamente brutale, elimina il lupo dall'elenco delle specie particolarmente protette — aprendo la strada alla sua caccia futura.
 
-Non basta. Il DDL introduce anche un nuovo divieto di 'ostacolare o rallentare' l'attività venatoria. Una norma che mira a criminalizzare il dissenso pacifico nei confronti della caccia. Una stretta sulla libertà di espressione travestita da tutela dell'ordine pubblico.
+Non basta. Il DDL introduce anche un nuovo divieto di 'ostacolare o rallentare' l'attività venatoria. Una norma che mira a [criminalizzare il dissenso pacifico](/allarme-ambientale-il-nuovo-ddl-sulla-caccia-minaccia-l-ecos/) nei confronti della caccia. Una stretta sulla libertà di espressione travestita da tutela dell'ordine pubblico.
 
 ## Chi paga il prezzo
 

@@ -15,7 +15,7 @@ Questo evento annuale è atteso, ancora da molti, come una tradizione consolidat
 
 Mentre un esercito di trogloditi, che Zelensky arruolerebbe volentieri ma che, codardo, si guarda bene dall’affrontare un nemico con pari capacità di fuoco, si alza presto la mattina, si veste da soldato professionista, si arma visori, di fucili anche a ripetizione e cartucce micidiali, pronti a partire per il gioco della caccia.  
 
-C'è, invece in molte altre persone, crescente consapevolezza che uccidere per il piacere di farlo potrebbe essere un segno di grave patologia. Insomma chi uccide per gioco un animale non umano è pericoloso per se, per gli altri e sicuramente per il pianeta ed i suoi abitanti.
+C'è, invece in molte altre persone, crescente consapevolezza che uccidere per il piacere di farlo potrebbe essere un segno di grave patologia. Insomma [chi uccide per gioco un animale non umano](/un-leone-fugge-dal-circo-basta-spettacoli-con-gli-animali/) è pericoloso per se, per gli altri e sicuramente per il pianeta ed i suoi abitanti.
 
 La caccia è una tradizione profondamente radicata nella società  italiana. È stata storicamente associata a scopi di sostentamento e controllo della fauna selvatica. Tuttavia, negli ultimi decenni, anche queste motivazioni sono svanite lasciando la caccia quale disastrosa attività ludica. Fortunatamente è sempre più avversata a causa della crescente sensibilizzazione riguardo alla [conservazione della fauna selvatica](https://rossodiserablog.it/uccisi-tutti-i-mufloni-del-giglio/) ed al suo ambiente. 
 

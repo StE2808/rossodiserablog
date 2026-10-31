@@ -47,7 +47,7 @@ La distorsione narrativa della destra si regge su una selezione opportunistica d
 
 Come ha detto il segretario del Pd siciliano Anthony Barbagallo, il centrodestra in Sicilia governava undici comuni al voto prima delle amministrative: dopo i ballottaggi ne governa solo quattro. “Una vera e propria Waterloo”, ha aggiunto. E non è il tipo di dichiarazione che si fa da una posizione di sconfitta.
 
-Il quadro è chiaro: il centrosinistra unito vince, o comunque cresce. Quello che non cresce è la capacità della destra di fare i conti. Ma almeno su questo, la calcolatrice di Schlein funziona benissimo.
+Il quadro è chiaro: il centrosinistra unito vince, o comunque cresce. Quello che non cresce è [la capacità della destra di fare i conti](/il-naufragio-di-mestre/). Ma almeno su questo, la calcolatrice di Schlein funziona benissimo.
 
 ## Domande frequenti
 

@@ -25,7 +25,7 @@ E allora, cosa dire ai figli che ci guardano con occhi pieni di domande? Come sp
 
 Così, ai ragazzi che oggi guardano al domani con una speranza che cerchiamo di alimentare, diciamo: Buon Natale. E con esso, il coraggio di raccogliere il testimone che con esitazione e speranza passiamo nelle loro mani. Il mondo che affrontano potrebbe essere un labirinto di sfide, ma è anche un mosaico di opportunità.
 
-Il Natale, in questa nuova luce, diventa un momento di riflessione e di rinnovata promessa: non solo un giorno di festa, ma un impegno a lottare per un domani in cui il "fare di più" diventa la norma, non l'eccezione. E forse, in questa promessa, troveremo il vero spirito del Natale, un spirito non di consumismo, ma di condivisione, di coraggio e di rinnovato impegno per [il mondo che vogliamo lasciare](https://rossodiserablog.it/l-importanza-della-conservazione-dei-mari-e-degli-oceani/). Buon Natale, generazioni future, e che sia davvero un augurio di speranza.
+Il Natale, in questa nuova luce, diventa [un momento di riflessione e di rinnovata promessa](/fine-anno-perche-i-bilanci-non-servono-a-niente/): non solo un giorno di festa, ma un impegno a lottare per un domani in cui il "fare di più" diventa la norma, non l'eccezione. E forse, in questa promessa, troveremo il vero spirito del Natale, un spirito non di consumismo, ma di condivisione, di coraggio e di rinnovato impegno per [il mondo che vogliamo lasciare](https://rossodiserablog.it/l-importanza-della-conservazione-dei-mari-e-degli-oceani/). Buon Natale, generazioni future, e che sia davvero un augurio di speranza.
 
 ## Domande frequenti
 

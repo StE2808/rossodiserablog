@@ -12,7 +12,7 @@ tags: ["crisi", "diritti", "giustizia", "Governo", "lavoratori", "lavoro", "Melo
 ---
 Il governo Meloni soffia sulla paura, regala a piene mani insicurezza, lavorando sulla povertà come una colpa. Colpa di chi l'avrebbe generata prima di Lei e colpa di chi, in condizione di indigenza, colpevolmente non vorrebbe affrancarsene. Intanto [distrugge lo Stato sociale](/quando-lo-stato-diventa-un-bancomat-la-teoria-del-racket-spiegata-senza-giri-di-parole/), la Giustizia, la Sanità Pubblica, creando i presupposti per uno smarrimento generalizzato. Senza un progetto politico industriale, subisce, nascondendolo, un dramma, quello di 24 mesi di fila della paralisi della produzione industriale, tornata a valori del periodo pandemico.
 
-In questa situazione la sinistra italiana deve ripensare il concetto di sicurezza. Walter Veltroni, in un recente articolo sul Corriere della Sera, si concentra principalmente sulla criminalità e la violenza fisica. Ma è una visione troppo ristretta, che rischia di far cadere nella trappola narrativa della destra.
+In questa situazione la sinistra italiana deve [ripensare il concetto di sicurezza](/il-risveglio-che-non-fa-notizia-dalla-casa-di-mamdani-e-sanchez-alle-piazze-del-sud/). Walter Veltroni, in un recente articolo sul Corriere della Sera, si concentra principalmente sulla criminalità e la violenza fisica. Ma è una visione troppo ristretta, che rischia di far cadere nella trappola narrativa della destra.
 
 La sicurezza oggi è molto più ampia. Parliamo di protezione dalla povertà, accesso alle cure mediche, stabilità lavorativa, tutela ambientale e difesa della privacy digitale. Sono tutte paure concrete che toccano soprattutto chi ha meno risorse e reti di supporto.
 

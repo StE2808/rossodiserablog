@@ -35,7 +35,7 @@ Il quarto e ultimo passo era forse il più audace: trasformare tutto in una stor
 - **Sii un Prof Empatico.** Immaginare di insegnare a un bambino ti rende più [empatico](/la-fiamma-della-resistenza-due-pesi-due-misure/) e paziente. Sono qualità fondamentali quando si tratta di trasmettere conoscenza.
 - **Autonomia nell'Apprendimento.** Questa tecnica ti permette di essere autodidatta, senza aspettare che qualcuno ti prenda per mano.
 
-La Tecnica Feynman non è solo un metodo per studiare meglio. È un pacchetto all-in-one che ti trasforma in una sorta di ninja del sapere, con superpoteri come il [pensiero critico](/la-banalita-del-male-non-e-mai-tramontata/) e l'autovalutazione. Provare per credere.
+La Tecnica Feynman [non è solo un metodo per studiare meglio](/tecnica-feynman-ai-tempi-intelligenza-artificiale/). È un pacchetto all-in-one che ti trasforma in una sorta di ninja del sapere, con superpoteri come il [pensiero critico](/la-banalita-del-male-non-e-mai-tramontata/) e l'autovalutazione. Provare per credere.
 
 ## Domande frequenti
 

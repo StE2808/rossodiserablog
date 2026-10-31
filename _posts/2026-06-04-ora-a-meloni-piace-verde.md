@@ -32,7 +32,7 @@ La flessibilità concessa da Bruxelles non è una deroga, né un’inversione di
 
 ## L'Europa chiede di accelerare, non di frenare
 
-L’Europa, semmai, chiede di accelerare: completare la transizione, spingere sull’elettrificazione dei consumi, incrementare la quota di rinnovabili nel mix energetico. Sono le stesse direttrici che il governo Meloni ha ostacolato, rallentato o dichiarato ideologiche per tre anni — dal freno all’agrivoltaico alle resistenze sul [phase-out del gas](https://rossodiserablog.it/fossili-e-fumo-l-italia-paga-il-conto-di-una-guerra-che-non-doveva-scoppiare/), dalla difesa dei motori termici alla narrativa contro il «Green Deal delle élite».
+L’Europa, semmai, chiede di accelerare: [completare la transizione](/emissions-trading-system-chi-piu-inquina-meno-paga/), spingere sull’elettrificazione dei consumi, incrementare la quota di rinnovabili nel mix energetico. Sono le stesse direttrici che il governo Meloni ha ostacolato, rallentato o dichiarato ideologiche per tre anni — dal freno all’agrivoltaico alle resistenze sul [phase-out del gas](https://rossodiserablog.it/fossili-e-fumo-l-italia-paga-il-conto-di-una-guerra-che-non-doveva-scoppiare/), dalla difesa dei motori termici alla narrativa contro il «Green Deal delle élite».
 
 ## La giravolta della comunicazione
 

@@ -23,7 +23,7 @@ C'è un momento preciso in cui smetti di sistemarti i capelli e decidi che il ve
 
 Il turchese dello sfondo non è casuale. È il colore di chi ha deciso che le regole sono suggerimenti, che il caos può essere una forma d'arte, che l'eleganza non sta nella perfezione ma nell'attitudine.
 
-**Viviamo in un'epoca ossessionata dal controllo.** Controlliamo le notifiche, i passi, le calorie, i like. E poi arriva una folata di vento a ricordarci che le cose più belle succedono quando molli la presa.
+**Viviamo in un'epoca ossessionata dal controllo.** Controlliamo le notifiche, i passi, le calorie, i like. E poi arriva [una folata di vento](/tra-cielo-e-terra-l-affascinante-viaggio-degli-aquiloni/) a ricordarci che le cose più belle succedono quando molli la presa.
 
 Non sto dicendo di fumare – quello lasciamolo agli anni '60. Sto dicendo che ogni tanto serve guardarsi allo specchio con i capelli impazziti e pensare: _"Perfetto così"_.
 

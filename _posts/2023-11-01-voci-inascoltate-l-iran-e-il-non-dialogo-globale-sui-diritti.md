@@ -17,7 +17,7 @@ In un'era di globalizzazione e interconnessione, le ingiustizie perpetrate in un
 
 Recentemente, gli occhi della comunità internazionale si sono rivolti verso l'Iran in seguito a tre eventi distinti ma interconnessi che hanno svelato la realtà di [repressione](/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/) che oscura le vite di molti cittadini iraniani: le tragiche storie di[ Armita Geravand e Mahsa Amini](https://rossodiserablog.it/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il-/), e la nomina controversa di Ali Bahreini, ambasciatore dell'Iran, alla presidenza del Forum Sociale del Consiglio delle Nazioni Unite per i diritti umani.
 
-Armita Geravand, una ragazza di 16 anni, è diventata un simbolo di resistenza dopo essere stata aggredita per non aver rispettato le leggi sul velo. La sua aggressione ha drammaticamente ricordato la tragedia di Mahsa Amini, che aveva subito un destino simile un anno prima, mettendo in luce il prezzo, spesso mortale, della battaglia per la libertà personale in Iran.
+[Armita Geravand, una ragazza di 16 anni](/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il/), è diventata un simbolo di resistenza dopo essere stata aggredita per non aver rispettato le leggi sul velo. La sua aggressione ha drammaticamente ricordato la tragedia di Mahsa Amini, che aveva subito un destino simile un anno prima, mettendo in luce il prezzo, spesso mortale, della battaglia per la libertà personale in Iran.
 
 D'altro canto, la nomina di Ali Bahreini ha suscitato una tempesta di critiche, con molti che vedono in essa una tacita approvazione delle politiche repressive dell'Iran, in un momento in cui la rappresentanza e la responsabilità nei forum internazionali sono di vitale importanza.
 

@@ -85,7 +85,7 @@ Mentre insegniamo alle macchine a ragionare, a prevedere, a generare, a decidere
 
 La sensazione, e fa un certo effetto scriverlo, è di no. È di aver imparato a costruire oracoli digitali prima di aver imparato a diventare esseri umani migliori. Di aver fabbricato strumenti capaci di simulare la saggezza senza aver fatto i compiti su come si diventa saggi. Di aver inseguito l'espansione della mente artificiale come surrogato del lavoro, lento e poco glamour, sull'espansione della nostra.
 
-La parabola della Silicon Valley, in fondo, non è la storia di una tecnologia che ci ha sopraffatti. È la storia di un sogno che aveva preso una scorciatoia (*cambiamo prima la coscienza, le regole verranno da sole*) e che ha scoperto, mezzo secolo dopo e con un conto miliardario in mano, che le scorciatoie verso la liberazione hanno una sgradevole tendenza a portarti dritto al potere.
+La parabola della Silicon Valley, in fondo, non è la storia di una tecnologia che ci ha sopraffatti. È la storia di [un sogno che aveva preso una scorciatoia](/lsd-psilocibina-controcultura-divieto/) (*cambiamo prima la coscienza, le regole verranno da sole*) e che ha scoperto, mezzo secolo dopo e con un conto miliardario in mano, che le scorciatoie verso la liberazione hanno una sgradevole tendenza a portarti dritto al potere.
 
 Forse il punto non è temere le macchine che imparano a ragionare. Forse il punto è ricordarci che nessun oracolo, per quanto potente, ci dispenserà mai dalla fatica più vecchia del mondo: quella di imparare a stare insieme, e a usare bene ciò che già siamo.
 

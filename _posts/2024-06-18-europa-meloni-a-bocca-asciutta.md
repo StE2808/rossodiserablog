@@ -21,7 +21,7 @@ Meloni è stata esclusa dalle negoziazioni e non ha ottenuto nulla. È rimasta i
 
 In Europa, se Meloni vorrà [sostenere Von der Leyen](https://rossodiserablog.it/storie-di-saggi-selvaggi-diritti-e-doveri/), dovrà farlo segretamente perché i voti dei Fratelli d'Italia sono così imbarazzanti che, se accettati, potrebbero minare gli accordi tra le forze democratiche, che hanno posto un veto sull'ingresso dell'estrema destra nella maggioranza.
 
-Con Meloni al governo, l'Italia perde il ruolo di primo piano che ha sempre avuto in Europa. A quel livello, Meloni è rimasta un "underdog", come lei stessa si era definita, ossia qualcuno che sta sotto e continua a stare sotto, un capo di governo rispettato ma tenuto fuori dai giochi politici e di potere.
+Con Meloni al governo, l'Italia perde il ruolo di primo piano che ha sempre avuto in Europa. A quel livello, Meloni è rimasta un "underdog", come lei stessa si era definita, ossia qualcuno che sta sotto e continua a stare sotto, un capo di governo rispettato ma [tenuto fuori dai giochi politici e di potere](/la-grande-mediatrice-ovvero-come-meloni-divenne-il-ponte-di/).
 
 Così, Von der Leyen ha fregato la furbetta Meloni. Forse alla fine, per accontentarla le rifileranno qualche posto mediocre come contentino.
 

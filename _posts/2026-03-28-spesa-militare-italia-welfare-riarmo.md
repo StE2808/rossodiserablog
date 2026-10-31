@@ -52,7 +52,7 @@ Nel frattempo, l'industria degli armamenti ha aumentato del 40% il budget per il
 
 ## Non esistono scelte neutre
 
-Qualcuno dirà: la Russia è alle porte, l'America non è più affidabile, l'Europa deve difendersi. Tutto vero. Non sono un pacifista che pensa di fermare i carri armati con le petizioni.
+Qualcuno dirà: [la Russia è alle porte](/avvocatura-dello-stato-italia-in-guerra-porto-ravenna/), l'America non è più affidabile, l'Europa deve difendersi. Tutto vero. Non sono un pacifista che pensa di fermare i carri armati con le petizioni.
 
 Ma difendersi non significa accettare che ogni euro in più per la difesa sia un euro in meno per la vita delle persone. Questa equazione non è inevitabile: è il risultato di un sistema che considera la spesa sociale un lusso e quella militare un investimento. Un ospedale che chiude non è un "effetto collaterale" del riarmo: è il riarmo stesso, pagato con la salute di chi non può permettersi il privato.
 

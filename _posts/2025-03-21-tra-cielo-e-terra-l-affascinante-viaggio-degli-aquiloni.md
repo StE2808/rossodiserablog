@@ -17,7 +17,7 @@ C'è qualcosa di magico nel vedere un aquilone librarsi nel cielo. Quel fragile 
 
 Mi sono spesso perso a guardare un aquilone che volteggia nel vento, pensando a quanto profondamente questa immagine rifletta la nostra condizione umana. Non siamo forse anche noi sospesi tra libertà e costrizione? Non cerchiamo costantemente quell'equilibrio perfetto tra autonomia e appartenenza?
 
-L'aquilone ci parla di questo: della tensione creativa tra controllo e abbandono, tra dirigere e lasciarsi trasportare. Chi tiene il filo esercita un controllo, ma deve anche arrendersi al vento, collaborare con esso, assecondarlo. È questo il segreto: non dominare completamente, non abbandonarsi totalmente, ma fluire armoniosamente insieme alle forze della natura.
+L'aquilone ci parla di questo: della tensione creativa tra controllo e abbandono, tra dirigere e lasciarsi trasportare. Chi tiene il filo esercita un controllo, ma [deve anche arrendersi al vento](/il-vento-nei-capelli/), collaborare con esso, assecondarlo. È questo il segreto: non dominare completamente, non abbandonarsi totalmente, ma fluire armoniosamente insieme alle forze della natura.
 
 La storia dell'aquilone inizia tremila anni fa nella Cina degli Stati Combattenti. Immagino il filosofo Mozi che, con pazienza infinita, dedica tre anni a costruire un aquilone di legno a forma di uccello. Non era un passatempo, ma uno strumento militare: serviva per misurare distanze, comunicare messaggi, osservare movimenti nemici. Il generale Han Hsin che usa un aquilone per calcolare quanto scavare sotto le mura di una città assediata mi fa sorridere: l'ingegno umano che trasforma un oggetto semplice in uno strumento di vittoria.
 

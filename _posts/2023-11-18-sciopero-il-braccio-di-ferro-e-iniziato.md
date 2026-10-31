@@ -14,7 +14,7 @@ Adesso basta! Con questo slogan ieri i lavoratori italiani e soprattutto quelli 
 
 CGIL e  UIL hanno guidato la protesta mentre la CISL si è astenuta passando, de facto, dalla parte del governo. 
 
-I sindacati esultano e parlano di altissima percentuale di partecipazione, ovviamente il ministro dei Trasporti Matteo Salvini sostiene che le adesioni sono state “poche”, in particolare nel settore dei trasporti, dove comunque proprio lui si è impuntato ed ha precettato il comparto permettendo quattro ore di astensione e non la giornata.
+I sindacati esultano e parlano di altissima percentuale di partecipazione, ovviamente [il ministro dei Trasporti Matteo Salvini](/treni-20ennesima-20giornata-20di-20caos/) sostiene che le adesioni sono state “poche”, in particolare nel settore dei trasporti, dove comunque proprio lui si è impuntato ed ha precettato il comparto permettendo quattro ore di astensione e non la giornata.
 
 ![](/assets/images/2023/11/img_4275.webp)
 Come in una nota dei sindacati si parla di un’adesione intorno al 70% per il trasporto pubblico e quello ferroviario.

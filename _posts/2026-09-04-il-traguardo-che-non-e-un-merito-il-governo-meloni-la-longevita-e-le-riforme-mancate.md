@@ -47,7 +47,7 @@ Lo stesso partito, nel video celebrativo diffuso per l'occasione, fa scorrere un
 | Persone a rischio povertà | quasi 11 milioni | 18,6% (Rapporto annuale Istat 2025) |
 | Posti di lavoro rivendicati da FdI | +1.305.000 | dato del video celebrativo |
 
-L'occupazione che cresce e la povertà che non arretra raccontano due Italie parallele, e la propaganda sceglie quale mostrare.
+L'occupazione che cresce e la povertà che non arretra raccontano due Italie parallele, e [la propaganda sceglie quale mostrare](/meloni-e-guernica-no-siete-stati-voi/).
 
 ## Il decreto sicurezza e i profili di illegittimità segnalati
 

@@ -52,7 +52,7 @@ Quello che è successo tra Amodei e il Pentagono mette a nudo una verità che pr
 
 Amodei ha detto no, e per questo è stato punito. Ma la domanda vera non riguarda lui. Non riguarda se il suo gesto fosse coraggioso o calcolato, etico o commerciale. La domanda è un'altra: come ci siamo ridotti a dipendere dalla coscienza di un singolo CEO per stabilire il confine tra difesa nazionale e sorveglianza di massa?
 
-Un'azienda privata esiste per generare profitto. Può avere dei valori (Anthropic è nata con la missione dichiarata di sviluppare AI in modo sicuro), ma i valori di un CEO non hanno il peso della legge. Non sono stati votati da nessuno. Non sopravvivono necessariamente a un cambio di leadership, a un'offerta d'acquisto ostile, a un trimestre finanziario andato male.
+Un'azienda privata esiste per generare profitto. Può avere dei valori (Anthropic è nata con la [missione dichiarata di sviluppare AI in modo sicuro](/fermateci-la-paura-di-anthropic/)), ma i valori di un CEO non hanno il peso della legge. Non sono stati votati da nessuno. Non sopravvivono necessariamente a un cambio di leadership, a un'offerta d'acquisto ostile, a un trimestre finanziario andato male.
 
 Amodei lo ha detto nell'intervista a CBS: "Dissentire dal governo è la cosa più americana del mondo". E ha ragione. Ma pensateci un secondo: il confine tra sorveglianza di massa e uso legittimo dell'AI viene tracciato in un negoziato privato tra un imprenditore e un Segretario alla Difesa. Non in un parlamento. Non in un tribunale. Non in un trattato internazionale.
 

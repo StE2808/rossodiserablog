@@ -27,7 +27,7 @@ tags:
 
 1. **La Silicon Valley ha un debito fiscale verso il paese che l'ha resa possibile.** Le infrastrutture pubbliche, la ricerca finanziata dallo Stato, le università che hanno formato i suoi ingegneri: tutto questo l'élite tecnologica lo ha consumato gratis. Poi ha parcheggiato i profitti alle Cayman. Prima di parlare di dovere morale, si parli di arretrati.
 
-2. **La democrazia non è un'inefficienza da correggere.** Quando qualcuno ti spiega che Putin è un interlocutore più "efficiente" dell'Unione Europea, ti sta dicendo che preferisce non dover rendere conto a nessuno. L'efficienza autoritaria è la vecchia tentazione di chi ha abbastanza soldi da non aver mai dovuto convincere un elettore.
+2. **[La democrazia non è un'inefficienza da correggere](/complimenti-alla-germania-la-memoria-l-abbiamo-persa-il-pil-no/).** Quando qualcuno ti spiega che Putin è un interlocutore più "efficiente" dell'Unione Europea, ti sta dicendo che preferisce non dover rendere conto a nessuno. L'efficienza autoritaria è la vecchia tentazione di chi ha abbastanza soldi da non aver mai dovuto convincere un elettore.
 
 3. **Il welfare pubblico vive delle tasse che loro non pagano.** L'ospedale che ti accoglie, la scuola di tuo figlio, la pensione di tuo padre: tutto questo esiste perché qualcuno paga. Non loro. Amazon in Italia nel 2022 ha fatturato miliardi e ha versato allo Stato una cifra ridicola. Poi ci spiegano come si costruisce una nazione.
 
