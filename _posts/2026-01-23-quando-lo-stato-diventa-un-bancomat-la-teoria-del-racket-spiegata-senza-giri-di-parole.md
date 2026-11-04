@@ -4,7 +4,7 @@ title: 'Quando lo Stato Diventa un Bancomat: La Teoria del Racket Spiegata Senza
 seo_title: 'Horkheimer e il Racket: quando lo Stato diventa un club'
 description: "Horkheimer lo aveva già capito: il potere non si conquista, si affitta. La teoria del racket: lo Stato club dei potenti."
 date: 2026-01-23 11:13:00 +0100
-last_modified_at: 2026-05-16 19:44:53 +0200
+last_modified_at: 2026-11-04 15:00:00 +0100
 author: stefano-vozzi
 category: societa
 tags:
@@ -31,7 +31,7 @@ Max Horkheimer, filosofo della Scuola di Francoforte, aveva un nome per tutto qu
 
 La parola "racket" ci fa pensare immediatamente alla mafia, alle estorsioni, al crimine organizzato. Ma Horkheimer la usava in senso più ampio e, paradossalmente, più inquietante. Perché il racket di cui parlava non opera necessariamente nell'illegalità. Opera nelle zone grigie dove il confine tra pubblico e privato diventa così sfumato da risultare invisibile.
 
-Un racket, in questo senso, è un gruppo di potere – economico, politico, corporativo – che garantisce vantaggi e protezione ai suoi membri. Il prezzo? La lealtà assoluta al gruppo. La conseguenza? L'esclusione sistematica di chi sta fuori.
+Un racket, in questo senso, è un gruppo di potere – economico, politico, corporativo – che [garantisce vantaggi e protezione ai suoi membri](https://exchanges.warwick.ac.uk/index.php/exchanges/article/view/1696). Il prezzo? La lealtà assoluta al gruppo. La conseguenza? L'esclusione sistematica di chi sta fuori.
 
 Pensateci. Quante volte avete letto di appalti che finiscono sempre nelle stesse mani? Di [normative scritte su misura](/meloni-contro-i-diritti-dei-lavoratori/) per favorire specifici settori economici? Di porte girevoli tra politica e grandi corporation, dove gli stessi individui passano senza soluzione di continuità da ruoli pubblici a incarichi privati e viceversa?
 
@@ -43,7 +43,7 @@ Il liberalismo classico ci aveva promesso istituzioni neutrali, leggi uguali per
 
 Quello che stiamo vivendo oggi è la lenta ma inesorabile erosione di questa neutralità. Le istituzioni che dovrebbero proteggerci – lo Stato, il diritto, i meccanismi democratici – vengono progressivamente catturate da interessi particolari che le trasformano in strumenti di estrazione di valore.
 
-Gli studiosi parlano di **istituzioni estrattive** per descrivere questo fenomeno. L'immagine è semplice quanto brutale: immaginate lo Stato come un grande serbatoio di risorse collettive, raccolte attraverso le tasse. In teoria, quelle risorse dovrebbero essere ridistribuite secondo criteri di equità, bisogno, merito.
+Gli studiosi parlano di [**istituzioni estrattive**](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/) per descrivere questo fenomeno. L'immagine è semplice quanto brutale: immaginate lo Stato come un grande serbatoio di risorse collettive, raccolte attraverso le tasse. In teoria, quelle risorse dovrebbero essere ridistribuite secondo criteri di equità, bisogno, merito.
 
 Invece, certi gruppi ben organizzati infilano una "cannuccia" nel sistema e aspirano ricchezza a loro esclusivo vantaggio. Come vampiri che succhiano sangue da un corpo che si indebolisce progressivamente, questi racket estraggono valore dalle risorse pubbliche trasformandole in profitti privati.
 
@@ -65,7 +65,7 @@ Non è un complotto. È semplicemente come funziona il sistema quando le istituz
 
 ## La Dissonanza Che Ci Logora
 
-E noi cittadini comuni? Ci troviamo intrappolati in quella che gli psicologi chiamano **dissonanza cognitiva**: lo stridente contrasto tra ciò che ci viene detto e ciò che vediamo accadere.
+E noi cittadini comuni? Ci troviamo intrappolati in quella che gli psicologi chiamano [**dissonanza cognitiva**](https://francoangeli.it/libro?id=4130): lo stridente contrasto tra ciò che ci viene detto e ciò che vediamo accadere.
 
 **La narrazione ufficiale ci racconta:**
 
@@ -92,7 +92,7 @@ Prendiamo la sanità pubblica italiana, un esempio che conosciamo tutti. Ci dico
 
 Contemporaneamente, scopriamo che:
 
-- Miliardi vengono spesi in convenzioni con strutture private
+- [Miliardi vengono spesi in convenzioni con strutture private](https://salviamo-ssn.it/attivita/rapporto/9-rapporto-gimbe.it-IT.html)
 - I fondi per la prevenzione vengono tagliati sistematicamente
 - Le aziende sanitarie private ricevono contributi pubblici crescenti
 - I professionisti migliori migrano dal pubblico al privato (spesso convenzionato)
