@@ -23,9 +23,7 @@ excerpt: Dopo la sconfitta alle midterm, Trump sostiene che avrebbe vinto se il 
 focus_keyword: Trump midterm 2026
 ---
 
-Per settimane ha supplicato i suoi di fingere che il suo nome fosse sulla scheda. Gli elettori lo hanno accontentato: hanno finto, hanno votato, lo hanno punito. E questo è un
-
-asindeto con anafora, no non è una figuraccia o forse lo è. 
+Per settimane ha supplicato i suoi di fingere che il suo nome fosse sulla scheda. Gli elettori lo hanno accontentato: hanno finto, hanno votato, lo hanno punito. E questo è un asindeto con anafora, no non è una figuraccia o forse lo è. 
 
 Ora che i Democratici si prendono la Camera, ci spiega che avrebbe vinto “in a landslide”, una valanga, se solo ci fosse stato il suo nome e questa è ironia, anche se involontaria. Come se un plebiscito potesse tenersi a sua insaputa e questo è un paradosso. È il bambino che perde la partita e se ne va col pallone sotto il braccio, questa è una similitudine. Solo che il pallone è il Paese e qui siamo di fronte ad una metafora. 
 
