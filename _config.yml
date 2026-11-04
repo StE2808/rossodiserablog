@@ -34,13 +34,12 @@ markdown: kramdown
 encoding: utf-8
 permalink: /:title/
 
-# Paginazione
-paginate: 12
-paginate_path: "/pagina/:num/"
+# Paginazione: tolta il 04/11/2026. La home mostra sempre gli ultimi 20 (site.posts),
+# quindi /pagina/2..23/ erano copie identiche della home (audit Codex). La navigazione
+# completa sta in /archivio/, che linka tutti gli articoli.
 
 # Plugin
 plugins:
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed

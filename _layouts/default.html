@@ -22,7 +22,13 @@
     </script>
 
     <!-- SEO -->
-    {% seo title=false %}
+    {% if page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
+    {% comment %} jekyll-seo-tag: teniamo i meta, ma togliamo il suo og:title (lo scriviamo sotto con seo_title)
+       e il suo JSON-LD (BlogPosting con l'autore come slug, doppione dell'Article di post.html). 04/11/2026 {% endcomment %}
+    {% capture seo_out %}{% seo title=false %}{% endcapture %}
+    {% assign seo_out = seo_out | split: '<script type="application/ld+json">' | first %}
+    {% assign seo_lines = seo_out | newline_to_br | split: '<br />' %}
+    {% for l in seo_lines %}{% unless l contains 'property="og:title"' %}{{ l }}{% endunless %}{% endfor %}
 
     <!-- Identita' del sito per motori di ricerca e AI: chi siamo, dove siamo, chi scrive.
          Senza questo un modello che non ci conosce inventa (verificato: Gemini ci ha
@@ -109,7 +115,7 @@
     <!-- NAVBAR -->
     <nav class="navbar">
         <a href="{{ '/' | relative_url }}" class="navbar-brand">
-            <img src="{{ '/assets/images/logo_trasparenza.png' | relative_url }}" alt="Rosso di Sera" class="navbar-logo">
+            <img src="{{ '/assets/images/logo-navbar.png' | relative_url }}" alt="Rosso di Sera" class="navbar-logo" width="90" height="90">
             <span class="navbar-title">Rosso di Sera</span>
         </a>
         

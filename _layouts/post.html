@@ -22,11 +22,14 @@ layout: default
   "image": {% if page.image %}"{{ page.image | absolute_url }}"{% else %}null{% endif %},
   "author": {
     "@type": "Person",
-    "name": {% if page.author == "stefano-vozzi" %}"Stefano Vozzi"{% elsif page.author == "lino-rialti" %}"Lino Rialti"{% else %}{{ page.author | replace: "-", " " | capitalize | jsonify }}{% endif %}
+    {% if page.author == "stefano-vozzi" or page.author == "lino-rialti" %}"@id": "https://rossodiserablog.it/#{{ page.author }}",
+    "url": "{{ '/authors/' | append: page.author | append: '/' | absolute_url }}",
+    {% endif %}"name": {% if page.author == "stefano-vozzi" %}"Stefano Vozzi"{% elsif page.author == "lino-rialti" %}"Lino Rialti"{% else %}{{ page.author | replace: "-", " " | capitalize | jsonify }}{% endif %}
   },
-  "keywords": "{{ page.focus_keyword | default: page.category }}",
+  "keywords": {{ page.focus_keyword | default: page.category | jsonify }},
   "publisher": {
     "@type": "Organization",
+    "@id": "https://rossodiserablog.it/#organization",
     "name": "Rosso di Sera",
     "logo": {
       "@type": "ImageObject",
