@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il pallone e il cappellino e le figure retoriche di Trump
+title: Il pallone, il cappellino e le figure retoriche di Trump
 seo_title: Il pallone e il cappellino e le figure retoriche di Trump
 description: Trump perde la Camera alle midterm 2026 e dice che avrebbe vinto se ci fosse stato il suo nome sulla scheda. Ma il voto era un plebiscito su di lui.
 date: 2026-11-04 07:02:00 +0100
