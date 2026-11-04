@@ -125,7 +125,7 @@ Il linguaggio non è neutrale. Quando accettiamo l'eufemismo, accettiamo anche l
 
 ## La Scelta Che Resta
 
-Horkheimer scriveva in un'epoca di crisi profonda, negli anni che precedevano la Seconda Guerra Mondiale, quando le democrazie liberali sembravano sul punto di essere spazzate via da regimi totalitari. La sua teoria del racket nasceva dall'osservazione di come le istituzioni democratiche potessero essere svuotate dall'interno, trasformate in gusci vuoti che mantenevano l'apparenza della legalità mentre diventavano strumenti di dominio.
+Horkheimer scriveva in un'epoca di crisi profonda, negli anni della Seconda Guerra Mondiale, quando le democrazie liberali sembravano sul punto di essere spazzate via da regimi totalitari. La sua teoria del racket nasceva dall'osservazione di come le istituzioni democratiche potessero essere svuotate dall'interno, trasformate in gusci vuoti che mantenevano l'apparenza della legalità mentre diventavano strumenti di dominio.
 
 Noi viviamo una crisi diversa ma altrettanto profonda. Non c'è (ancora) un regime totalitario alle porte, ma c'è qualcosa di più subdolo: la normalizzazione di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune e sempre più interessi particolari ben organizzati.
 
@@ -165,7 +165,7 @@ Le risposte sono su due livelli. Il primo è semantico: chiamare le cose con il 
 <details class="faq-item" markdown="1">
 <summary><h3>In quale contesto storico Horkheimer sviluppò la teoria del racket?</h3></summary>
 
-Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. Quella crisi somiglia alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune e sempre più gli interessi che le hanno catturate.
+Horkheimer scrisse negli anni della Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. Quella crisi somiglia alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune e sempre più gli interessi che le hanno catturate.
 
 </details>
 
@@ -203,7 +203,7 @@ Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osserv
       "name": "In quale contesto storico Horkheimer sviluppò la teoria del racket?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Horkheimer scrisse negli anni che precedevano la Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. Quella crisi somiglia alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune e sempre più gli interessi che le hanno catturate."
+        "text": "Horkheimer scrisse negli anni della Seconda Guerra Mondiale, osservando come le democrazie liberali potessero essere svuotate dall'interno e trasformate in strumenti di dominio mantenendo l'apparenza della legalità. Quella crisi somiglia alla normalizzazione attuale di un sistema in cui le istituzioni pubbliche servono sempre meno il bene comune e sempre più gli interessi che le hanno catturate."
       }
     }
   ]
