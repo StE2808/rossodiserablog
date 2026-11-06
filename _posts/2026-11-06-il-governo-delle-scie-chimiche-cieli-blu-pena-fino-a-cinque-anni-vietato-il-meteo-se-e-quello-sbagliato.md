@@ -16,7 +16,7 @@ image: /assets/images/uploads/IMG_7626.jpeg
 image_caption: 'Legge Cieli Blu: vietato il meteo, pena fino a 5 anni'
 image_alt: 'Legge Cieli Blu: vietato il meteo, pena fino a 5 anni'
 excerpt: Satira sulla proposta di legge popolare "Cieli Blu", che mette nello stesso divieto la geoingegneria, campo di ricerca reale, e le scie chimiche, mai dimostrate. Il pezzo contesta pene fino a cinque anni di carcere senza criteri tecnici per distinguere una scia di condensazione da un'irrorazione, e ironizza su chi corteggia l'elettorato complottista. Chiude, appunto, con il fantacalcio.
-focus_keyword: 'Cieli Blu’: il governo insegue i complottisti'
+focus_keyword: "Cieli Blu': il governo insegue i complottisti"
 ---
 
 Il Parlamento potrebbe presto discutere un'urgenza nazionale: le scie degli aerei. Si chiama "Cieli blu" e la sua prima trovata è già nel titolo, dove la geoingegneria, disciplina di ricerca climatica, viene servita insieme alle "scie chimiche", fenomeno di cui nessuno ha mai dimostrato l'esistenza. Due cose diverse nello stesso decalogo: come mettere la chirurgia e il malocchio nello stesso ordine dei medici.
