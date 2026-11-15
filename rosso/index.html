@@ -41,6 +41,8 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 .cop .somm .r{display:grid;grid-template-columns:92px 1fr 1fr;gap:4px 20px;align-items:baseline;font:400 16px/1.25 'Source Serif 4'}
 .cop .somm .r>span:nth-child(2):last-child{grid-column:2/4}
 .cop h1{margin:44px 0 0;font:400 clamp(44px,4.6vw,66px)/.98 'Gloock',serif;letter-spacing:-.01em}
+.cop .firma{margin:12px 0 0;font:500 14px 'Archivo'}
+.cop .firma a{color:inherit;text-decoration-color:var(--rosso);text-underline-offset:3px}
 .cop .cat{font:400 21px/1.3 'Source Serif 4';margin-top:14px}
 .cop .foto{margin:0;position:relative;min-height:100%}
 .cop .foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
@@ -69,7 +71,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 /* MOVIMENTO */
 .mov{display:flex;align-items:baseline;gap:18px;padding:22px 48px;background:var(--ink);color:var(--carta)}
 .mov b{font:400 44px/1 'Gloock';color:var(--rosso)}
-.mov span{font:800 28px 'Archivo';font-stretch:75%;text-transform:uppercase;letter-spacing:.01em}
+.mov h2{margin:0;font:800 28px 'Archivo';font-stretch:75%;text-transform:uppercase;letter-spacing:.01em}
 .mov i{font:italic 17px 'Source Serif 4';opacity:.75;margin-left:auto}
 
 /* BLOCCHI */
@@ -105,6 +107,8 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 /* DOMANDE */
 .domande{background:var(--ink);color:var(--carta);padding:80px 48px 72px}
 .domande .et{color:var(--rosso-chiaro)}
+.domande .dopo{margin:36px 0 0;font:400 18px/1.4 'Source Serif 4'}
+.domande .dopo a{color:var(--carta);text-decoration-color:var(--rosso-chiaro);text-underline-offset:3px}
 .domande .q1{font:400 clamp(52px,7vw,104px)/.95 'Gloock';margin:12px 0 28px;letter-spacing:-.015em}
 .domande .q{font:italic 400 26px/1.3 'Source Serif 4';margin:6px 0;opacity:.9}
 .piede{display:flex;justify-content:space-between;padding:18px 48px;font:400 13px 'Archivo';color:var(--grigio)}
@@ -176,10 +180,11 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 <!-- COPERTINA -->
 <section class="cop">
   <div class="sx">
-    <p class="testata"><img src="img/logo.png" alt="Logo di Rosso di Sera: un sole rosso con un albero e un uccellino"><span>Rosso<br>di Sera</span></p>
-    <div class="uscita"><span>N. 1 · Il racket</span><span>Novembre 2026</span></div>
+    <p class="testata"><img src="img/logo.png" width="512" height="512" alt="Logo di Rosso di Sera: un sole rosso con un albero e un uccellino"><span>Rosso<br>di Sera</span></p>
+    <div class="uscita"><span>N. 1 · Il racket</span><span><time datetime="2026-11-19">Giovedì 19 novembre 2026</time></span></div>
     <h1>Chi ha scritto la lista degli invitati?</h1>
     <div class="cat">Quando lo Stato diventa un club. Ottant'anni fa un filosofo gli aveva dato un nome: racket.</div>
+    <p class="firma">di <a href="https://rossodiserablog.it/autori/#stefano-vozzi" rel="author">Stefano Vozzi</a></p>
     <hr class="filetto">
     <div class="somm">
       <div class="r"><span class="et">Capire</span><span>Chi era Horkheimer e cosa chiamava racket</span></div>
@@ -187,7 +192,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
       <div class="r"><span class="et">Pensare</span><span>Tre domande da portarsi a casa</span></div>
     </div>
   </div>
-  <figure class="foto"><img src="img/emiciclo-tribuna.jpg" alt="Un'aula parlamentare vuota vista dalla tribuna del pubblico, con i banchi apparecchiati per una cena: tovaglie, piatti, bicchieri di vino rosso"><aside class="rubriche" aria-label="Leggi anche">
+  <figure class="foto"><img src="img/emiciclo-tribuna.jpg" width="1024" height="1280" alt="Un'aula parlamentare vuota vista dalla tribuna del pubblico, con i banchi apparecchiati per una cena: tovaglie, piatti, bicchieri di vino rosso"><aside class="rubriche" aria-label="Leggi anche">
       <div class="et">Leggi anche</div>
       <div class="rub"><span>Politica</span><a href="https://rossodiserablog.it/il-governo-delle-scie-chimiche-cieli-blu-pena-fino-a-cinque-anni-vietato-il-meteo-se-e-quello-sbagliato/">Il Governo delle scie chimiche</a></div>
       <div class="rub"><span>Politica</span><a href="https://rossodiserablog.it/il-pallone-e-il-cappellino-e-le-figure-retoriche-di-trump/">Il pallone, il cappellino e le figure retoriche di Trump</a></div>
@@ -217,7 +222,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 </section>
 
 <!-- I. CAPIRE -->
-<div class="mov"><b>I</b><span>Capire</span><i>che cos'è il racket</i></div>
+<div class="mov"><b>I</b><h2>Capire</h2><i>che cos'è il racket</i></div>
 <section class="blocchi" style="--col:3">
   <article class="blocco">
     <div class="n">01</div>
@@ -243,11 +248,11 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
     <hr class="filetto">
     <div class="sotto">Il racket moderno non ha bisogno di intimidire. Gli basta essere utile ai suoi.</div>
   </div>
-  <figure class="foto-f"><img src="img/riservato.jpg" alt="Un banco dell'aula apparecchiato: piatto, posate, un calice di vino rosso e un cartellino segnaposto con scritto a mano «Riservato»"></figure>
+  <figure class="foto-f"><img src="img/riservato.jpg" width="1024" height="1280" alt="Un banco dell'aula apparecchiato: piatto, posate, un calice di vino rosso e un cartellino segnaposto con scritto a mano «Riservato»"></figure>
 </section>
 
 <!-- II. VEDERE -->
-<div class="mov"><b>II</b><span>Vedere</span><i>il racket oggi</i></div>
+<div class="mov"><b>II</b><h2>Vedere</h2><i>il racket oggi</i></div>
 <section class="blocchi" style="--col:3">
   <article class="blocco">
     <div class="n">04</div>
@@ -281,7 +286,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 </section>
 
 <!-- III. PENSARE -->
-<div class="mov"><b>III</b><span>Pensare</span><i>che cosa farne</i></div>
+<div class="mov"><b>III</b><h2>Pensare</h2><i>che cosa farne</i></div>
 <section class="blocchi" style="--col:2">
   <article class="blocco">
     <div class="n">07</div>
@@ -300,6 +305,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
   <p class="q1">Di quale club fai parte tu?</p>
   <p class="q">A quale tavolo ti hanno messo?</p>
   <p class="q">Che cosa succede se nessuno lo dice?</p>
+  <p class="dopo">Il ragionamento per intero: <a href="https://rossodiserablog.it/quando-lo-stato-diventa-un-bancomat-la-teoria-del-racket-spiegata-senza-giri-di-parole/">Quando lo Stato diventa un bancomat</a></p>
 </section>
 <footer class="gerenza">
   <div class="g-col g-cos">
