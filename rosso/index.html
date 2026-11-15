@@ -108,6 +108,28 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 .domande .q{font:italic 400 26px/1.3 'Source Serif 4';margin:6px 0;opacity:.9}
 .piede{display:flex;justify-content:space-between;padding:18px 48px;font:400 13px 'Archivo';color:var(--grigio)}
 
+
+/* BARRA E GERENZA */
+.barra{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:10px 40px;background:var(--ink);font:500 13px 'Archivo'}
+.barra a{color:var(--carta);text-decoration:none}
+.barra>a{font:700 14px 'Arvo',serif}
+.barra .link{display:flex;gap:22px;flex-wrap:wrap}
+.barra .link a:hover,.barra .link a:focus-visible{color:#fff;text-decoration:underline}
+.gerenza{display:grid;grid-template-columns:1.6fr 1fr 1.2fr 1fr 1.6fr;gap:32px;padding:48px 48px 24px;background:var(--ink);color:var(--carta);border-top:1px solid #333}
+.gerenza .g-col{display:flex;flex-direction:column;gap:8px;min-width:0}
+.g-et{font:700 12px 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--rosso);margin-bottom:4px}
+.gerenza p{margin:0 0 6px;font-size:15px;line-height:1.5;opacity:.9}
+.gerenza a{color:var(--carta);font:400 15px/1.35 'Source Serif 4';text-decoration:none}
+.gerenza a:hover,.gerenza a:focus-visible{text-decoration:underline}
+.g-social{display:flex;gap:14px;margin-top:6px}
+.rds-nl-row{display:flex;gap:0}
+.rds-nl-row input{flex:1;min-width:0;padding:10px 12px;border:1px solid var(--carta);background:transparent;color:var(--carta);font:400 15px 'Source Serif 4'}
+.rds-nl-row input::placeholder{color:#9a968e}
+.rds-nl-btn{padding:10px 16px;border:0;background:var(--rosso);color:#fff;font:700 13px 'Archivo';letter-spacing:.04em;text-transform:uppercase;cursor:pointer}
+.rds-nl-hp{position:absolute;left:-9999px}
+.rds-nl-status{font-size:13px!important;opacity:.75!important;margin-top:8px!important}
+.g-fondo{grid-column:1/-1;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid #333;padding-top:16px;font:400 12px 'Archivo';color:#9a968e}
+
 @media (max-width:860px){
   .cop,.tema,.frase,.dato,.dato .riga{grid-template-columns:1fr}
   .dato .riga{gap:14px}
@@ -131,12 +153,19 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
   .blocco{padding:32px 16px;border-right:0}
   .frase .rossa{padding:40px 16px}
   .frase .foto-f{min-height:440px}
-  .piede{padding:16px;flex-direction:column;gap:4px}
+  .barra{padding:10px 16px;flex-direction:column;align-items:flex-start;gap:6px}
+  .barra .link{gap:14px}
+  .gerenza{grid-template-columns:1fr 1fr;padding:36px 16px 20px;gap:28px 20px}
+  .g-cos,.g-nl{grid-column:1/-1}
 }
 </style>
 </head>
 <body>
 <div class="numero">
+<nav class="barra" aria-label="Sito">
+  <a href="https://rossodiserablog.it/">Rosso di Sera</a>
+  <span class="link"><a href="https://rossodiserablog.it/chi-siamo/">Cos'è</a><a href="https://rossodiserablog.it/archivio/">Archivio</a><a href="https://rossodiserablog.it/autori/">Autori</a><a href="https://rossodiserablog.it/contatti/">Scrivici</a><a href="https://rossodiserablog.it/cerca/">Cerca</a></span>
+</nav>
 
 <!-- COPERTINA -->
 <section class="cop">
@@ -159,7 +188,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
       <div class="rub"><span>Tecnologia</span><a href="https://rossodiserablog.it/la-strana-parabola-della-silicon-valley/">La strana parabola della Silicon Valley</a></div>
       <div class="rub"><span>Che bellezza</span><a href="https://rossodiserablog.it/vedute-l-asse-verticale-come-struttura-del-sapere/">Vedute: l'asse verticale come struttura del sapere</a></div>
     </aside>
-    <figcaption>Immagine generata per questo numero, non è un'aula reale.</figcaption></figure>
+    </figure>
 </section>
 
 <!-- TEMA -->
@@ -266,7 +295,46 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
   <p class="q">A quale tavolo ti hanno messo?</p>
   <p class="q">Che cosa succede se nessuno lo dice?</p>
 </section>
-<footer class="piede"><span>Rosso di Sera · format v1, prova</span><span>dall'articolo di Stefano Vozzi «Quando lo Stato diventa un bancomat»</span></footer>
+<footer class="gerenza">
+  <div class="g-col g-cos">
+    <div class="g-et">Cos'è</div>
+    <p><b>Rosso di Sera</b> è una rivista di politica e cultura. Il giovedì esce un numero dedicato a un tema; ogni giorno escono le rubriche: Politica, Tecnologia, Che bellezza.</p>
+    <a href="https://rossodiserablog.it/chi-siamo/">Chi siamo</a>
+  </div>
+  <div class="g-col">
+    <div class="g-et">Chi scrive</div>
+    <a href="https://rossodiserablog.it/autori/#stefano-vozzi">Stefano Vozzi</a>
+    <a href="https://rossodiserablog.it/autori/#lino-rialti">Lino Rialti</a>
+  </div>
+  <div class="g-col">
+    <div class="g-et">Leggi</div>
+    <a href="https://rossodiserablog.it/archivio/">Archivio</a>
+    <a href="https://rossodiserablog.it/cerca/">Cerca nel sito</a>
+    <a href="https://rossodiserablog.it/quando-lo-stato-diventa-un-bancomat-la-teoria-del-racket-spiegata-senza-giri-di-parole/">L'articolo da cui nasce questo numero</a>
+  </div>
+  <div class="g-col">
+    <div class="g-et">Scrivici</div>
+    <a href="https://rossodiserablog.it/contatti/">Contatti</a>
+    <span class="g-social"><a href="https://www.facebook.com/profile.php?id=61550470389942" target="_blank" rel="noopener">Facebook</a><a href="https://x.com/di_rosso45458" target="_blank" rel="noopener">X</a><a href="https://stefanovozzi.substack.com" target="_blank" rel="noopener">Substack</a></span>
+  </div>
+  <div class="g-col g-nl">
+    <div class="g-et">Il numero, ogni giovedì</div>
+    <form class="rds-nl-form" action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" method="post" target="_blank">
+      <div class="rds-nl-row">
+        <input type="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" aria-label="Il tuo indirizzo email" autocomplete="email" required>
+        <button type="submit" class="rds-nl-btn">Iscriviti</button>
+      </div>
+      <input type="text" name="website" class="rds-nl-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <input type="hidden" name="ml-submit" value="1">
+      <input type="hidden" name="anticsrf" value="true">
+      <p class="rds-nl-status" role="status" aria-live="polite">Niente spam, ti cancelli con un clic.</p>
+    </form>
+  </div>
+  <div class="g-fondo"><span>© 2026 Rosso di Sera</span><span>Immagini di questo numero generate per l'illustrazione, non sono luoghi reali.</span></div>
+</footer>
+<script>
+(function(){document.querySelectorAll('.rds-nl-form').forEach(function(form){form.addEventListener('submit',function(ev){ev.preventDefault();var st=form.querySelector('.rds-nl-status'),hp=form.querySelector('.rds-nl-hp'),btn=form.querySelector('.rds-nl-btn');if(hp&&hp.value){return;}btn.disabled=true;st.textContent='Invio in corso...';fetch(form.action,{method:'POST',body:new FormData(form)}).then(function(r){return r.json();}).then(function(d){if(d&&d.success){form.querySelector('.rds-nl-row').hidden=true;st.textContent="Quasi fatto! Ti abbiamo inviato un'email di conferma: aprila e clicca il pulsante per completare l'iscrizione.";}else{throw new Error('x');}}).catch(function(){btn.disabled=false;st.textContent='Qualcosa non ha funzionato. Riprova tra poco.';});});});})();
+</script>
 
 </div>
 </body>
