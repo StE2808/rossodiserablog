@@ -20,7 +20,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Arvo:wght@700&family=Gloock&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
 <style>
-:root{--carta:#f1efea;--ink:#121212;--rosso:#c23c3c;--rosso-marca:#8b1a1a;--grigio:#6b6862;--filetto:#cfcbc2}
+:root{--carta:#f1efea;--ink:#121212;--rosso:#c23c3c;--rosso-marca:#8b1a1a;--grigio:#6b6862;--filetto:#cfcbc2;--rosso-chiaro:#e05a52}
 html,body{margin:0;background:#dcd9d2}
 html{overflow-x:clip}
 body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoothing:antialiased}
@@ -87,7 +87,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 .frase{display:grid;grid-template-columns:1fr 1fr;min-height:560px}
 .frase .rossa{background:var(--rosso);color:var(--ink);padding:56px 48px;display:flex;flex-direction:column;justify-content:center}
 .frase .rossa p.grande{margin:0;font:900 clamp(48px,5.2vw,78px)/.95 'Archivo';font-stretch:68%;letter-spacing:-.01em}
-.frase .rossa .sotto{font:400 20px/1.35 'Source Serif 4';max-width:26ch;margin-top:8px}
+.frase .rossa .sotto{color:#fff;font:400 20px/1.35 'Source Serif 4';max-width:26ch;margin-top:8px}
 .frase .rossa .filetto{background:var(--ink)}
 
 .frase .foto-f{margin:0;position:relative;min-height:100%}
@@ -104,6 +104,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 
 /* DOMANDE */
 .domande{background:var(--ink);color:var(--carta);padding:80px 48px 72px}
+.domande .et{color:var(--rosso-chiaro)}
 .domande .q1{font:400 clamp(52px,7vw,104px)/.95 'Gloock';margin:12px 0 28px;letter-spacing:-.015em}
 .domande .q{font:italic 400 26px/1.3 'Source Serif 4';margin:6px 0;opacity:.9}
 .piede{display:flex;justify-content:space-between;padding:18px 48px;font:400 13px 'Archivo';color:var(--grigio)}
@@ -112,16 +113,16 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 /* BARRA E GERENZA */
 .barra{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:10px 40px;background:var(--ink);font:500 13px 'Archivo'}
 .barra a{color:var(--carta);text-decoration:none}
-.barra>a{font:700 14px 'Arvo',serif}
-.barra .link{display:flex;gap:22px;flex-wrap:wrap}
+.barra .link{display:flex;gap:22px;flex-wrap:wrap;margin-left:auto}
 .barra .link a:hover,.barra .link a:focus-visible{color:#fff;text-decoration:underline}
 .gerenza{display:grid;grid-template-columns:1.6fr 1fr 1.2fr 1fr 1.6fr;gap:32px;padding:48px 48px 24px;background:var(--ink);color:var(--carta);border-top:1px solid #333}
 .gerenza .g-col{display:flex;flex-direction:column;gap:8px;min-width:0}
-.g-et{font:700 12px 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--rosso);margin-bottom:4px}
+.g-et{font:700 12px 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--rosso-chiaro);margin-bottom:4px}
 .gerenza p{margin:0 0 6px;font-size:15px;line-height:1.5;opacity:.9}
 .gerenza a{color:var(--carta);font:400 15px/1.35 'Source Serif 4';text-decoration:none}
 .gerenza a:hover,.gerenza a:focus-visible{text-decoration:underline}
 .g-social{display:flex;gap:14px;margin-top:6px}
+.rds-nl-label{display:block;font:400 14px 'Source Serif 4';opacity:.9;margin-bottom:6px}
 .rds-nl-row{display:flex;gap:0}
 .rds-nl-row input{flex:1;min-width:0;padding:10px 12px;border:1px solid var(--carta);background:transparent;color:var(--carta);font:400 15px 'Source Serif 4'}
 .rds-nl-row input::placeholder{color:#9a968e}
@@ -154,7 +155,13 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
   .frase .rossa{padding:40px 16px}
   .frase .foto-f{min-height:440px}
   .barra{padding:10px 16px;flex-direction:column;align-items:flex-start;gap:6px}
-  .barra .link{gap:14px}
+  .barra .link{gap:4px 18px;margin-left:0}
+  .barra a{display:inline-flex;align-items:center;min-height:44px}
+  .gerenza a{display:inline-flex;align-items:center;min-height:44px;min-width:44px}
+  .gerenza .g-col{gap:0}
+  .rds-nl-row input,.rds-nl-btn{min-height:44px}
+  .barra{gap:0}
+  .cop .testata img{margin-left:-8px}
   .gerenza{grid-template-columns:1fr 1fr;padding:36px 16px 20px;gap:28px 20px}
   .g-cos,.g-nl{grid-column:1/-1}
 }
@@ -163,7 +170,6 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 <body>
 <div class="numero">
 <nav class="barra" aria-label="Sito">
-  <a href="https://rossodiserablog.it/">Rosso di Sera</a>
   <span class="link"><a href="https://rossodiserablog.it/chi-siamo/">Cos'è</a><a href="https://rossodiserablog.it/archivio/">Archivio</a><a href="https://rossodiserablog.it/autori/">Autori</a><a href="https://rossodiserablog.it/contatti/">Scrivici</a><a href="https://rossodiserablog.it/cerca/">Cerca</a></span>
 </nav>
 
@@ -233,7 +239,7 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 
 <section class="frase">
   <div class="rossa">
-    <p class="grande">Non è corruzione. È appartenenza.</p>
+    <p class="grande">Non è corruzione.<br>È appartenenza.</p>
     <hr class="filetto">
     <div class="sotto">Il racket moderno non ha bisogno di intimidire. Gli basta essere utile ai suoi.</div>
   </div>
@@ -320,8 +326,9 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
   <div class="g-col g-nl">
     <div class="g-et">Il numero, ogni giovedì</div>
     <form class="rds-nl-form" action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" method="post" target="_blank">
+      <label class="rds-nl-label" for="nl-email">La tua email</label>
       <div class="rds-nl-row">
-        <input type="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" aria-label="Il tuo indirizzo email" autocomplete="email" required>
+        <input type="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" autocomplete="email" required>
         <button type="submit" class="rds-nl-btn">Iscriviti</button>
       </div>
       <input type="text" name="website" class="rds-nl-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
