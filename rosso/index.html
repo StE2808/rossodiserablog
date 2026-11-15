@@ -44,10 +44,12 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 .cop .cat{font:400 21px/1.3 'Source Serif 4';margin-top:14px}
 .cop .foto{margin:0;position:relative;min-height:100%}
 .cop .foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
-.cop .rubriche{position:absolute;top:28px;right:28px;background:rgba(241,239,234,.82);border:1px solid var(--ink);padding:14px 18px 12px;min-width:190px}
-.cop .rubriche ul{list-style:none;margin:8px 0 0;padding:0}
-.cop .rubriche li{font:400 22px/1.15 'Gloock',serif;padding:7px 0;border-top:1px solid var(--filetto)}
-.cop .rubriche li:first-child{border-top:0}
+.cop .rubriche{position:absolute;top:28px;right:28px;bottom:76px;width:min(300px,44%);background:rgba(194,60,60,.8);color:#fff;padding:20px 22px;display:flex;flex-direction:column;gap:0;box-sizing:border-box;overflow:hidden}
+.cop .rubriche .et{color:#fff;margin-bottom:10px}
+.cop .rubriche .rub{padding:14px 0;border-top:1px solid rgba(255,255,255,.45)}
+.cop .rubriche .rub span{display:block;font:700 11px 'Archivo';letter-spacing:.08em;text-transform:uppercase;opacity:.85;margin-bottom:4px}
+.cop .rubriche .rub a{font:400 20px/1.15 'Gloock',serif;color:#fff;text-decoration:none}
+.cop .rubriche .rub a:hover,.cop .rubriche .rub a:focus-visible{text-decoration:underline}
 .cop .foto figcaption{position:absolute;right:12px;bottom:10px;font:400 11px 'Archivo';color:#ddd;opacity:.8}
 
 /* TEMA */
@@ -116,8 +118,9 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
   .cop .somm{order:2;margin:20px 16px 32px}
   .cop .somm .r{grid-template-columns:76px 1fr}
   .cop .somm .r>span:nth-child(n+2){grid-column:2}
-  .cop .rubriche{top:12px;right:12px;min-width:0;padding:10px 14px 8px}
-  .cop .rubriche li{font-size:17px;padding:5px 0}
+  .cop .rubriche{top:12px;right:12px;bottom:40px;width:62%;padding:14px 16px}
+  .cop .rubriche .rub{padding:9px 0}
+  .cop .rubriche .rub a{font-size:16px}
   .cop .sx,.tema,.dato,.domande{padding:36px 16px}
   .tema{gap:28px}
   .tema .corpo{columns:1}
@@ -148,9 +151,12 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
       <div class="r"><span class="et">Pensare</span><span>Tre domande da portarsi a casa</span></div>
     </div>
   </div>
-  <figure class="foto"><img src="img/emiciclo-tribuna.jpg" alt="Un'aula parlamentare vuota vista dalla tribuna del pubblico, con i banchi apparecchiati per una cena: tovaglie, piatti, bicchieri di vino rosso"><aside class="rubriche" aria-label="Le rubriche">
+  <figure class="foto"><img src="img/emiciclo-tribuna.jpg" alt="Un'aula parlamentare vuota vista dalla tribuna del pubblico, con i banchi apparecchiati per una cena: tovaglie, piatti, bicchieri di vino rosso"><aside class="rubriche" aria-label="Leggi anche">
       <div class="et">Leggi anche</div>
-      <ul><li>Politica</li><li>Tecnologia</li><li>Che bellezza</li></ul>
+      <div class="rub"><span>Politica</span><a href="https://rossodiserablog.it/il-governo-delle-scie-chimiche-cieli-blu-pena-fino-a-cinque-anni-vietato-il-meteo-se-e-quello-sbagliato/">Il Governo delle scie chimiche</a></div>
+      <div class="rub"><span>Politica</span><a href="https://rossodiserablog.it/il-pallone-e-il-cappellino-e-le-figure-retoriche-di-trump/">Il pallone, il cappellino e le figure retoriche di Trump</a></div>
+      <div class="rub"><span>Tecnologia</span><a href="https://rossodiserablog.it/la-strana-parabola-della-silicon-valley/">La strana parabola della Silicon Valley</a></div>
+      <div class="rub"><span>Che bellezza</span><a href="https://rossodiserablog.it/vedute-l-asse-verticale-come-struttura-del-sapere/">Vedute: l'asse verticale come struttura del sapere</a></div>
     </aside>
     <figcaption>Immagine generata per questo numero, non è un'aula reale.</figcaption></figure>
 </section>
