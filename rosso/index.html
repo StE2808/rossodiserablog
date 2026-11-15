@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Il racket · Rosso di Sera</title>
+<!--
+  FORMAT ROSSO DI SERA, v1 (15/11/2026)
+  Componenti riutilizzabili, in quest'ordine per ogni numero:
+    .cop      copertina: testata, sommario, foto, titolo, catenaccio
+    .tema     apertura del tema: etichetta, titolo, catenaccio, capolettera, indice laterale
+    .mov      intestazione di un movimento (I. Capire / II. Vedere / III. Pensare)
+    .blocchi  griglia di blocchi numerati (numero rosso, titolo, 40-90 parole)
+    .frase    pagina rossa piena con una frase + foto accanto
+    .dato     un numero grande con fonte
+    .domande  chiusura: tre domande, la prima grande
+  La contaminazione del numero va in UN punto (di solito la foto di copertina o la .frase), non dappertutto.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Arvo:wght@700&family=Gloock&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+:root{--carta:#f1efea;--ink:#121212;--rosso:#c23c3c;--rosso-marca:#8b1a1a;--grigio:#6b6862;--filetto:#cfcbc2}
+html,body{margin:0;background:#dcd9d2}
+html{overflow-x:clip}
+body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoothing:antialiased}
+.numero{max-width:1240px;margin:0 auto;background:var(--carta)}
+.ph{background:#2a2a2a;color:#bdbab3;display:flex;align-items:center;justify-content:center;text-align:center;padding:24px;font:italic 13px/1.45 'Source Serif 4';box-sizing:border-box}
+.ph b{color:var(--rosso);font-style:normal}
+.et{font:700 12px 'Archivo';font-stretch:90%;letter-spacing:.06em;text-transform:uppercase;color:var(--rosso)}
+.filetto{width:64px;height:5px;background:var(--rosso);border:0;margin:20px 0}
+
+/* COPERTINA */
+.cop{display:grid;grid-template-columns:5fr 7fr;min-height:760px}
+.cop .sx{padding:40px 40px 36px;display:flex;flex-direction:column}
+.testata{display:flex;align-items:center;gap:18px;margin:0}
+.testata img{width:clamp(116px,12.5vw,168px);height:auto;margin:-18px -12px -18px -20px}
+.testata span{font:700 clamp(44px,4.8vw,66px)/.95 'Arvo',serif;letter-spacing:.5px;color:var(--ink)}
+.cop .uscita{display:flex;justify-content:space-between;border-top:1px solid var(--ink);margin-top:18px;padding-top:8px;font:500 13px 'Archivo'}
+.cop .somm{margin-top:auto;display:grid;gap:14px;border:1px solid var(--ink);padding:18px 20px;background:#fff}
+.cop .somm .r{display:grid;grid-template-columns:92px 1fr 1fr;gap:4px 20px;align-items:baseline;font:400 16px/1.25 'Source Serif 4'}
+.cop .somm .r>span:nth-child(2):last-child{grid-column:2/4}
+.cop h1{margin:44px 0 0;font:400 clamp(44px,4.6vw,66px)/.98 'Gloock',serif;letter-spacing:-.01em}
+.cop .cat{font:400 21px/1.3 'Source Serif 4';margin-top:14px}
+.cop .foto{margin:0;position:relative;min-height:100%}
+.cop .foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.cop .rubriche{position:absolute;top:28px;right:28px;background:var(--carta);border:1px solid var(--ink);padding:14px 18px 12px;min-width:190px}
+.cop .rubriche ul{list-style:none;margin:8px 0 0;padding:0}
+.cop .rubriche li{font:400 22px/1.15 'Gloock',serif;padding:7px 0;border-top:1px solid var(--filetto)}
+.cop .rubriche li:first-child{border-top:0}
+.cop .foto figcaption{position:absolute;right:12px;bottom:10px;font:400 11px 'Archivo';color:#ddd;opacity:.8}
+
+/* TEMA */
+.tema{display:grid;grid-template-columns:7fr 3fr;gap:48px;padding:72px 48px 64px;border-top:8px solid var(--ink)}
+.tema h2{margin:10px 0 0;font:400 clamp(48px,5.4vw,80px)/.95 'Gloock',serif;letter-spacing:-.015em}
+.tema .cat{font:400 23px/1.35 'Source Serif 4';margin:16px 0 0;max-width:30ch}
+.tema .corpo{columns:2;column-gap:32px;margin-top:8px}
+.tema .corpo p{margin:0 0 1em}
+.tema .corpo p:first-child::first-letter{float:left;font:400 84px/.8 'Gloock',serif;color:var(--rosso);margin:6px 10px 0 0}
+.indice{border-left:1px solid var(--filetto);padding-left:24px;align-self:start}
+.indice div{padding:14px 0;border-bottom:1px solid var(--filetto)}
+.indice b{display:block;font:400 30px/1 'Gloock';color:var(--rosso)}
+.indice strong{display:block;font:800 15px/1.2 'Archivo';margin-top:4px}
+.indice span{font:400 14px/1.35 'Source Serif 4';color:var(--grigio)}
+
+/* MOVIMENTO */
+.mov{display:flex;align-items:baseline;gap:18px;padding:22px 48px;background:var(--ink);color:var(--carta)}
+.mov b{font:400 44px/1 'Gloock';color:var(--rosso)}
+.mov span{font:800 28px 'Archivo';font-stretch:75%;text-transform:uppercase;letter-spacing:.01em}
+.mov i{font:italic 17px 'Source Serif 4';opacity:.75;margin-left:auto}
+
+/* BLOCCHI */
+.blocchi{display:grid;grid-template-columns:repeat(var(--col,3),1fr)}
+.blocco{padding:40px 36px 44px;border-right:1px solid var(--filetto);border-bottom:1px solid var(--filetto)}
+.blocco:last-child{border-right:0}
+.blocco .n{font:400 56px/.9 'Gloock';color:var(--rosso)}
+.blocco h3{font:800 23px/1.12 'Archivo';font-stretch:88%;margin:10px 0 12px}
+.blocco p{margin:0 0 .8em;font-size:16.5px}
+.blocco ol{margin:6px 0 0;padding-left:22px;font-size:16px}
+.blocco ol li{margin:3px 0}
+.blocco ol li::marker{color:var(--rosso);font-weight:700}
+
+/* FRASE */
+.frase{display:grid;grid-template-columns:1fr 1fr;min-height:560px}
+.frase .rossa{background:var(--rosso);color:var(--ink);padding:56px 48px;display:flex;flex-direction:column;justify-content:center}
+.frase .rossa p.grande{margin:0;font:900 clamp(48px,5.2vw,78px)/.95 'Archivo';font-stretch:68%;letter-spacing:-.01em}
+.frase .rossa .sotto{font:400 20px/1.35 'Source Serif 4';max-width:26ch;margin-top:8px}
+.frase .rossa .filetto{background:var(--ink)}
+
+.frase .foto-f{margin:0;position:relative;min-height:100%}
+.frase .foto-f img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+
+/* DATO */
+.dato{display:grid;grid-template-columns:auto 1fr;gap:36px;align-items:end;padding:56px 48px;border-bottom:1px solid var(--filetto)}
+.dato .cifra{font:400 clamp(96px,13vw,190px)/.8 'Gloock';color:var(--rosso);letter-spacing:-.03em}
+.dato p{margin:0;max-width:44ch;font-size:19px}
+.dato .fonte{font:400 13px 'Archivo';color:var(--grigio);margin-top:10px}
+
+/* DOMANDE */
+.domande{background:var(--ink);color:var(--carta);padding:80px 48px 72px}
+.domande .q1{font:400 clamp(52px,7vw,104px)/.95 'Gloock';margin:12px 0 28px;letter-spacing:-.015em}
+.domande .q{font:italic 400 26px/1.3 'Source Serif 4';margin:6px 0;opacity:.9}
+.piede{display:flex;justify-content:space-between;padding:18px 48px;font:400 13px 'Archivo';color:var(--grigio)}
+
+@media (max-width:860px){
+  .cop,.tema,.frase,.dato{grid-template-columns:1fr}
+  .cop{display:flex;flex-direction:column;min-height:0}
+  .cop .sx{display:contents}
+  .cop .sx>*{margin-left:16px;margin-right:16px}
+  .cop .testata{margin-top:28px}
+  .cop .foto{min-height:480px;order:1;margin:28px 0 0}
+  .cop .somm{order:2;margin:20px 16px 32px}
+  .cop .somm .r{grid-template-columns:76px 1fr}
+  .cop .somm .r>span:nth-child(n+2){grid-column:2}
+  .cop .rubriche{top:12px;right:12px;min-width:0;padding:10px 14px 8px}
+  .cop .rubriche li{font-size:17px;padding:5px 0}
+  .cop .sx,.tema,.dato,.domande{padding:36px 16px}
+  .tema{gap:28px}
+  .tema .corpo{columns:1}
+  .indice{border-left:0;padding-left:0}
+  .mov{padding:18px 16px;flex-wrap:wrap}.mov i{margin-left:0;width:100%}
+  .blocchi{grid-template-columns:1fr}
+  .blocco{padding:32px 16px;border-right:0}
+  .frase .rossa{padding:40px 16px}
+  .frase .foto-f{min-height:440px}
+  .piede{padding:16px;flex-direction:column;gap:4px}
+}
+</style>
+</head>
+<body>
+<div class="numero">
+
+<!-- COPERTINA -->
+<section class="cop">
+  <div class="sx">
+    <p class="testata"><img src="img/logo.png" alt="Logo di Rosso di Sera: un sole rosso con un albero e un uccellino"><span>Rosso<br>di Sera</span></p>
+    <div class="uscita"><span>N. 1 · Il racket</span><span>Novembre 2026</span></div>
+    <h1>Chi ha scritto la lista degli invitati?</h1>
+    <div class="cat">Quando lo Stato diventa un club: la teoria del racket spiegata senza giri di parole</div>
+    <hr class="filetto">
+    <div class="somm">
+      <div class="r"><span class="et">Capire</span><span>Chi era Horkheimer e cosa chiamava racket</span></div>
+      <div class="r"><span class="et">Vedere</span><span>Il ciclo legale che svuota lo Stato</span><span>La sanità, un caso da vicino</span></div>
+      <div class="r"><span class="et">Pensare</span><span>Tre domande da portarsi a casa</span></div>
+    </div>
+  </div>
+  <figure class="foto"><img src="img/emiciclo-tribuna.jpg" alt="Un'aula parlamentare vuota vista dalla tribuna del pubblico, con i banchi apparecchiati per una cena: tovaglie, piatti, bicchieri di vino rosso"><aside class="rubriche" aria-label="Le rubriche">
+      <div class="et">Anche in questo numero</div>
+      <ul><li>Politica</li><li>Tecnologia</li><li>Che bellezza</li></ul>
+    </aside>
+    <figcaption>Immagine generata per questo numero, non è un'aula reale.</figcaption></figure>
+</section>
+
+<!-- TEMA -->
+<section class="tema">
+  <div>
+    <div class="et">Il tema</div>
+    <h2>La teoria del racket</h2>
+    <div class="cat">Non è solo mafia. È un sistema che trasforma lo Stato in un club privato.</div>
+    <hr class="filetto">
+    <div class="corpo">
+      <p>Vi è mai capitato di sentirvi presi in giro? Non dalla bugia di tutti i giorni: da quella sensazione quasi fisica che arriva quando ci dicono una cosa e vediamo succedere il contrario. «Non ci sono soldi» per infermieri e insegnanti, e poi i miliardi per salvare una banca.</p>
+      <p>Un filosofo tedesco aveva un nome per tutto questo, e lo aveva trovato ottant'anni fa, mentre il mondo era in guerra. Questo numero prova a spiegarlo in tre passi: capire che cos'è, vederlo all'opera oggi, chiederci che cosa farne.</p>
+    </div>
+  </div>
+  <nav class="indice" aria-label="In questo numero">
+    <div><b>I</b><strong>Capire</strong><span>Horkheimer e il racket</span></div>
+    <div><b>II</b><strong>Vedere</strong><span>Il ciclo, la sanità, l'obiezione</span></div>
+    <div><b>III</b><strong>Pensare</strong><span>I nomi delle cose, tre domande</span></div>
+  </nav>
+</section>
+
+<!-- I. CAPIRE -->
+<div class="mov"><b>I</b><span>Capire</span><i>che cos'è il racket</i></div>
+<section class="blocchi" style="--col:3">
+  <article class="blocco">
+    <div class="n">01</div>
+    <h3>Chi era Max Horkheimer</h3>
+    <p>Filosofo tedesco, guidò la Scuola di Francoforte. Con l'arrivo del nazismo andò in esilio negli Stati Uniti, e lì, fra il 1939 e il 1944, scrisse i suoi testi sul racket.</p>
+    <p>Li scrisse mentre le democrazie sembravano sul punto di crollare.</p>
+  </article>
+  <article class="blocco">
+    <div class="n">02</div>
+    <h3>Che cosa intendeva per racket</h3>
+    <p>Non la mafia. Un gruppo di potere, economico, politico o professionale, che garantisce vantaggi e protezione ai suoi membri. Il prezzo è la lealtà al gruppo. La conseguenza è che chi sta fuori resta fuori.</p>
+  </article>
+  <article class="blocco">
+    <div class="n">03</div>
+    <h3>Perché non è corruzione</h3>
+    <p>La corruzione infrange le regole. Il racket le scrive. Non serve la bustarella quando l'accesso ai benefici dipende dall'appartenenza, e non dai diritti: lo Stato diventa un club, e il club è perfettamente in regola.</p>
+  </article>
+</section>
+
+<section class="frase">
+  <div class="rossa">
+    <p class="grande">Non è corruzione. È appartenenza.</p>
+    <hr class="filetto">
+    <div class="sotto">Il racket moderno non ha bisogno di intimidire. Gli basta essere utile ai suoi.</div>
+  </div>
+  <figure class="foto-f"><img src="img/riservato.jpg" alt="Un banco dell'aula apparecchiato: piatto, posate, un calice di vino rosso e un cartellino segnaposto con scritto a mano «Riservato»"></figure>
+</section>
+
+<!-- II. VEDERE -->
+<div class="mov"><b>II</b><span>Vedere</span><i>il racket oggi</i></div>
+<section class="blocchi" style="--col:3">
+  <article class="blocco">
+    <div class="n">04</div>
+    <h3>Il ciclo, passo per passo</h3>
+    <ol>
+      <li>Un settore influente finanzia campagne e think tank.</li>
+      <li>I think tank producono studi.</li>
+      <li>I politici propongono le riforme.</li>
+      <li>Commissioni di esperti del settore le perfezionano.</li>
+      <li>Le leggi passano, applaudite.</li>
+      <li>I soldi pubblici scorrono verso quel settore. Poi si ricomincia.</li>
+    </ol>
+  </article>
+  <article class="blocco">
+    <div class="n">05</div>
+    <h3>Un caso da vicino: la sanità</h3>
+    <p>Ci dicono che non ci sono soldi per medici e infermieri. Intanto crescono le convenzioni con le strutture private, e i professionisti migliori passano dal pubblico al privato. Chi sta fuori fa la fila, e paga due volte.</p>
+  </article>
+  <article class="blocco">
+    <div class="n">06</div>
+    <h3>Allora è tutto racket?</h3>
+    <p>No, e qui la teoria va maneggiata con cura. Un sindacato, un ordine professionale, una lobby dichiarata fanno interessi di parte alla luce del sole. Il racket comincia quando l'interesse di pochi si traveste da bene di tutti, e nessuno può più controllarlo.</p>
+  </article>
+</section>
+
+<section class="dato">
+  <div class="cifra">[dato]</div>
+  <div><p>Qui va un numero vero sulla sanità (per esempio la spesa per le strutture private accreditate), grande, con la sua fonte. Il dato si verifica prima di scriverlo.</p><div class="fonte">Fonte: da verificare</div></div>
+</section>
+
+<!-- III. PENSARE -->
+<div class="mov"><b>III</b><span>Pensare</span><i>che cosa farne</i></div>
+<section class="blocchi" style="--col:2">
+  <article class="blocco">
+    <div class="n">07</div>
+    <h3>Chiamare le cose con il loro nome</h3>
+    <p>Quando i soldi pubblici finiscono in tasche private non è «partnership pubblico-privato»: è estrazione. Quando le leggi le scrive chi dovrebbe esserne regolato non è «ascolto delle parti sociali»: è cattura. Accettare l'eufemismo vuol dire accettare che sia normale.</p>
+  </article>
+  <article class="blocco">
+    <div class="n">08</div>
+    <h3>L'inevitabile o l'imprevedibile</h3>
+    <p>C'è chi pensa che sia sempre stato così e che non ci sia niente da fare. E c'è chi ricorda che i sistemi che sembravano eterni sono crollati, spesso quando meno ce lo si aspettava. La differenza la fa chi smette di rassegnarsi.</p>
+  </article>
+</section>
+
+<section class="domande">
+  <div class="et">Da portarsi a casa</div>
+  <p class="q1">Di quale club fai parte tu?</p>
+  <p class="q">A quale tavolo ti hanno messo?</p>
+  <p class="q">Che cosa succede se nessuno lo dice?</p>
+</section>
+<footer class="piede"><span>Rosso di Sera · format v1, prova</span><span>dall'articolo di Stefano Vozzi «Quando lo Stato diventa un bancomat»</span></footer>
+
+</div>
+</body>
+</html>

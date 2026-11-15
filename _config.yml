@@ -81,6 +81,10 @@ defaults:
       path: "paroleinmusica"
     values:
       sitemap: false
+  - scope:
+      path: "rosso"
+    values:
+      sitemap: false
 
 # Esclusioni
 exclude:
