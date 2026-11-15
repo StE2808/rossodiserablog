@@ -91,9 +91,10 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 .frase .foto-f img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
 
 /* DATO */
-.dato{display:grid;grid-template-columns:auto 1fr;gap:36px;align-items:end;padding:56px 48px;border-bottom:1px solid var(--filetto)}
-.dato .cifra{font:400 clamp(96px,13vw,190px)/.8 'Gloock';color:var(--rosso);letter-spacing:-.03em}
-.dato p{margin:0;max-width:44ch;font-size:19px}
+.dato{display:grid;grid-template-columns:1fr 1fr;gap:48px;padding:56px 48px;border-bottom:1px solid var(--filetto)}
+.dato .riga{display:grid;grid-template-columns:auto 1fr;gap:28px;align-items:end}
+.dato .cifra{font:400 clamp(80px,8.5vw,128px)/.8 'Gloock';color:var(--rosso);letter-spacing:-.03em}
+.dato p{margin:0;max-width:40ch;font-size:17px}
 .dato .unita{display:block;font:800 22px/1 'Archivo';font-stretch:80%;letter-spacing:.04em;text-transform:uppercase;color:var(--ink);margin-top:10px}
 .dato .fonte a{color:inherit}
 .dato .fonte{font:400 13px 'Archivo';color:var(--grigio);margin-top:10px}
@@ -105,7 +106,8 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 .piede{display:flex;justify-content:space-between;padding:18px 48px;font:400 13px 'Archivo';color:var(--grigio)}
 
 @media (max-width:860px){
-  .cop,.tema,.frase,.dato{grid-template-columns:1fr}
+  .cop,.tema,.frase,.dato,.dato .riga{grid-template-columns:1fr}
+  .dato .riga{gap:14px}
   .cop{display:flex;flex-direction:column;min-height:0}
   .cop .sx{display:contents}
   .cop .sx>*{margin-left:16px;margin-right:16px}
@@ -230,8 +232,10 @@ body{color:var(--ink);font:400 17px/1.6 'Source Serif 4',serif;-webkit-font-smoo
 </section>
 
 <section class="dato">
-  <div class="cifra">28,7<span class="unita">miliardi</span></div>
-  <div><p>Sono i soldi pubblici andati nel 2024 alla sanità privata convenzionata: 5,3 miliardi in più che nel 2012 (+22,8%). Circa un euro ogni cinque della spesa sanitaria pubblica.</p><div class="fonte">Fonte: Fondazione GIMBE, analisi «Soggetti privati in sanità», dicembre 2025 (<a href="https://www.tecnicaospedaliera.it/soggetti-privati-in-sanita-lanalisi-di-fondazione-gimbe/">sintesi</a>)</div></div>
+  <div class="riga"><div class="cifra">28,7<span class="unita">miliardi</span></div>
+  <div><p>Sono i soldi pubblici andati nel 2024 alla sanità privata convenzionata: 5,3 miliardi in più che nel 2012 (+22,8%). Circa un euro ogni cinque della spesa sanitaria pubblica.</p><div class="fonte">Fonte: Fondazione GIMBE, analisi «Soggetti privati in sanità», dicembre 2025 (<a href="https://www.tecnicaospedaliera.it/soggetti-privati-in-sanita-lanalisi-di-fondazione-gimbe/">sintesi</a>)</div></div></div>
+  <div class="riga"><div class="cifra">41,3<span class="unita">miliardi</span></div>
+  <div><p>Sono quelli che le famiglie hanno pagato di tasca propria nel 2024, per visite, esami e farmaci: il 22,3% di tutta la spesa sanitaria. È il «paga due volte»: prima con le tasse, poi alla cassa.</p><div class="fonte">Fonte: dati Istat nell'8° Rapporto GIMBE sul Servizio sanitario nazionale, ottobre 2025 (<a href="https://www.quotidianosanita.it/studi-e-analisi/l-agonia-del-ssn-spiana-la-strada-al-privato-negli-ultimi-anni-alla-sanit-mld-in-meno-a-carico-delle-famiglie-mld-e-un-italiano-su-dieci-rinuncia-alle-cure-il-rapporto-gimbe/">sintesi</a>)</div></div></div>
 </section>
 
 <!-- III. PENSARE -->
