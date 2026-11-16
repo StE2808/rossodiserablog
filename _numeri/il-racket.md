@@ -1,5 +1,6 @@
 ---
 layout: numero
+permalink: /rosso/
 prova: true
 sitemap: false
 uscita_prevista: true
