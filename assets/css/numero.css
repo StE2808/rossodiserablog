@@ -385,3 +385,5 @@ html,body{background:#333}  /* sfondo esterno: nero 80% (16/11/2026) */
 }
 .a-faq .faq-item summary::before{display:inline-block;width:20px;font-size:32px;color:var(--rosso-chiaro);font-style:normal}
 .foto.ph,.foto-f.ph{min-height:420px;font:700 13px Archivo;letter-spacing:.06em;text-transform:uppercase;color:#bdbab3}
+.frase .foto-f.intera{background:#111;justify-content:center}.frase .foto-f.intera img{flex:none;aspect-ratio:auto;height:auto;object-fit:contain;margin:auto 0}
+figure figcaption a{color:inherit;text-decoration-color:var(--rosso-chiaro)}

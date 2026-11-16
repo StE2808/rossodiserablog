@@ -151,7 +151,7 @@
 <hr class="filetto">
 {% if d.sotto %}<div class="sotto">{{ d.sotto }}</div>{% endif %}
 </div>
-{% if d.image %}<figure class="foto-f"><img alt="{{ d.image_alt | escape }}" loading="lazy" src="{{ d.image | relative_url }}">{% if d.generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% endif %}</figure>{% elsif page.prova %}<figure class="foto-f ph"><b>Immagine in arrivo</b></figure>{% endif %}
+{% if d.image %}<figure class="foto-f{% if d.adatta %} intera{% endif %}"><img alt="{{ d.image_alt | escape }}" loading="lazy" src="{{ d.image | relative_url }}">{% if d.generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif d.didascalia %}<figcaption>{{ d.didascalia | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>{% endif %}</figure>{% elsif page.prova %}<figure class="foto-f ph"><b>Immagine in arrivo</b></figure>{% endif %}
 </section>
 {%- elsif d.type == "dati" %}
 {%- assign id_dati = d.titolo | slugify %}

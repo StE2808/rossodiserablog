@@ -204,6 +204,8 @@ collections:
                   - { label: "Foto accanto (la seconda foto del numero)", name: "image", widget: "image", required: false }
                   - { label: "Descrizione della foto (alt)", name: "image_alt", widget: "string", required: false }
                   - { label: "La foto è generata", name: "generata", widget: "boolean", default: true }
+                  - { label: "Didascalia e crediti (foto vera)", name: "didascalia", widget: "string", required: false, hint: "Es. Bot farm in Ucraina, 2022. Foto: Polizia nazionale ucraina, CC BY 4.0" }
+                  - { label: "Mostra la foto intera", name: "adatta", widget: "boolean", default: false, required: false, hint: "Per le foto orizzontali: niente ritaglio, bande scure sopra e sotto." }
               - label: "Tabella dati"
                 name: "dati"
                 widget: "object"

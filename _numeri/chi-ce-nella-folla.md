@@ -15,6 +15,9 @@ author: stefano-vozzi
 focus_keyword: bot sui social
 catenaccio: "A novembre una rete di bot si è inceppata sotto i post dei politici. Per un giorno abbiamo visto la regia."
 punto: "Una parte dei commenti che leggiamo sui social esce da reti di account falsi, a volte con telefoni veri e testi scritti da un'intelligenza artificiale. Servono a far sembrare folla quella che è una regia, e a spostare il clima intorno a un tema o a una persona."
+image: /assets/images/numeri/chi-ce-nella-folla/stanza-telefoni.jpg
+image_alt: "Uno stanzone spoglio con rastrelliere piene di smartphone accesi collegati a cavi, i feed dei social che scorrono sugli schermi, una sedia da ufficio vuota davanti a un portatile; su un solo telefono un cuore rosso di mi piace"
+image_generata: true
 leggi_anche:
   - rubrica: Tecnologia
     titolo: Ci fanno litigare in orizzontale, così non guardiamo in verticale
@@ -63,6 +66,11 @@ movimenti:
           Noi addestravamo la macchina.
           Lei addestrava noi.
         sotto: Ogni clic era una lezione. Per tutti e due.
+        image: /assets/images/numeri/chi-ce-nella-folla/botfarm-ucraina-2022.jpg
+        image_alt: "Una rastrelliera di apparecchi carichi di schede SIM e, sotto, scatole piene di SIM nuove: una bot farm scoperta dalla polizia in Ucraina"
+        generata: false
+        adatta: true
+        didascalia: "Una bot farm filorussa scoperta in Ucraina nel 2022. Foto: Polizia nazionale ucraina, [CC BY 4.0](https://commons.wikimedia.org/wiki/File:Pro-Russian_bot_farm_in_Ukraine_(2022).jpg)"
   - nome: Vedere
     titolo: "Vedere: come si fabbrica una folla"
     indice: Telefoni, chatbot e un precedente
