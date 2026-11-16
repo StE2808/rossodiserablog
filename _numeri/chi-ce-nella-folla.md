@@ -123,7 +123,7 @@ movimenti:
           - cifra: "148"
             unita: dollari
             testo: "Il prezzo scontato di uno «chassis per phone farm» da venti telefoni, in vendita online. Il venditore avverte: «Siamo responsabili solo per l'attrezzatura e non per i progetti specifici che intraprendi»."
-            fonte: "Fonte: [scheda del prodotto](https://some3c.com/it/products/20-slot-acrylic-phone-farm-chassis), novembre 2026"
+            fonte: "Fonte: scheda di un negozio online, consultata il 16 novembre 2026"
         limite: "Sono casi singoli o numeri dichiarati dalle piattaforme: raccontano come funziona il meccanismo, non quanto è grande. Quanti siano oggi i commenti finti sui social non lo sa nessuno con certezza."
   - nome: Pensare
     titolo: "Pensare: chi resta, dall'altra parte"
