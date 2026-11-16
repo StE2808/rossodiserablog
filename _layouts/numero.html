@@ -177,6 +177,50 @@
 {% endfor %}
 {% if page.articolo_origine %}<p class="dopo">Il ragionamento per intero: <a href="{{ page.articolo_origine.url | relative_url }}">{{ page.articolo_origine.titolo }}</a></p>{% endif %}
 </section>
+
+<!-- AZIONI: newsletter, commenti, condividi -->
+<section class="azioni" aria-label="Dopo la lettura">
+<div class="az-col">
+<div class="az-et">Newsletter</div>
+<form action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" class="rds-nl-form" method="post" target="_blank">
+<label class="az-txt" for="nl-email">Il numero, ogni giovedì, nella tua posta.</label>
+<div class="rds-nl-row">
+<input autocomplete="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" required type="email">
+<button class="rds-nl-btn" type="submit">Iscriviti</button>
+</div>
+<input aria-hidden="true" autocomplete="off" class="rds-nl-hp" name="website" tabindex="-1" type="text">
+<input name="ml-submit" type="hidden" value="1">
+<input name="anticsrf" type="hidden" value="true">
+<p aria-live="polite" class="rds-nl-status" role="status">Niente spam, ti cancelli con un clic.</p>
+</form>
+</div>
+<div class="az-col">
+<div class="az-et">Commenti</div>
+<p class="az-txt">Sei d'accordo? Ti manca qualcosa? Dillo qui.</p>
+<button class="az-btn" type="button" aria-expanded="false" aria-controls="commenti" id="apri-commenti">Leggi e commenta</button>
+</div>
+<div class="az-col">
+<div class="az-et">Condividi</div>
+<p class="az-txt">Se ti ha fatto pensare, fallo leggere.</p>
+{%- capture url_pag -%}{{ page.url | absolute_url }}{%- endcapture -%}
+{%- capture testo_cond -%}{{ page.title }} · Rosso di Sera{%- endcapture %}
+<div class="az-share">
+<button class="az-btn az-nativo" type="button" hidden>Condividi…</button>
+<a class="az-btn" href="https://www.facebook.com/sharer/sharer.php?u={{ url_pag | url_encode }}" rel="noopener" target="_blank">Facebook</a>
+<a class="az-btn" href="https://x.com/intent/post?url={{ url_pag | url_encode }}&amp;text={{ testo_cond | url_encode }}" rel="noopener" target="_blank">X</a>
+<a class="az-btn" href="https://wa.me/?text={{ testo_cond | append: ' ' | append: url_pag | url_encode }}" rel="noopener" target="_blank">WhatsApp</a>
+<button class="az-btn az-copia" type="button" data-url="{{ url_pag }}">Copia link</button>
+</div>
+</div>
+</section>
+<section class="commenti" id="commenti" aria-label="Commenti" hidden>
+<h2>Commenti</h2>
+<div id="rds-comments">
+<div class="rds-reactions"></div>
+<div class="rds-newform"></div>
+<div class="rds-list"></div>
+</div>
+</section>
 </main>
 
 <footer class="gerenza">
@@ -200,22 +244,21 @@
 <a href="{{ '/contatti/' | relative_url }}">Contatti</a>
 <span class="g-social"><a href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></span>
 </div>
-<div class="g-col g-nl">
-<div class="g-et">Il numero, ogni giovedì</div>
-<form action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" class="rds-nl-form" method="post" target="_blank">
-<label class="rds-nl-label" for="nl-email">La tua email</label>
-<div class="rds-nl-row">
-<input autocomplete="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" required type="email">
-<button class="rds-nl-btn" type="submit">Iscriviti</button>
-</div>
-<input aria-hidden="true" autocomplete="off" class="rds-nl-hp" name="website" tabindex="-1" type="text">
-<input name="ml-submit" type="hidden" value="1">
-<input name="anticsrf" type="hidden" value="true">
-<p aria-live="polite" class="rds-nl-status" role="status">Niente spam, ti cancelli con un clic.</p>
-</form>
-</div>
 <div class="g-fondo"><span>© {{ page.date | date: "%Y" }} Rosso di Sera</span>{% if page.image_generata %}<span>Le illustrazioni di questo numero sono generate, non sono luoghi reali.</span>{% endif %}</div>
 </footer>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script src="{{ '/assets/js/comments.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+<script>
+(function(){
+var b=document.getElementById('apri-commenti'),c=document.getElementById('commenti');
+function apri(){c.hidden=false;b.setAttribute('aria-expanded','true');b.textContent='Chiudi i commenti';}
+b.addEventListener('click',function(){if(c.hidden){apri();c.scrollIntoView({behavior:'smooth'});}else{c.hidden=true;b.setAttribute('aria-expanded','false');b.textContent='Leggi e commenta';}});
+if(location.hash==='#commenti'||/mod=/.test(location.hash))apri();
+var n=document.querySelector('.az-nativo');
+if(navigator.share&&matchMedia('(pointer:coarse)').matches){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:document.title,url:document.querySelector('.az-copia').dataset.url}).catch(function(){});});}
+document.querySelector('.az-copia').addEventListener('click',function(e){var t=e.currentTarget;navigator.clipboard.writeText(t.dataset.url).then(function(){t.textContent='Copiato!';setTimeout(function(){t.textContent='Copia link';},2000);});});
+})();
+</script>
 <script>
 (function(){document.querySelectorAll('.rds-nl-form').forEach(function(form){form.addEventListener('submit',function(ev){ev.preventDefault();var st=form.querySelector('.rds-nl-status'),hp=form.querySelector('.rds-nl-hp'),btn=form.querySelector('.rds-nl-btn');if(hp&&hp.value){return;}btn.disabled=true;st.textContent='Invio in corso...';fetch(form.action,{method:'POST',body:new FormData(form)}).then(function(r){return r.json();}).then(function(d){if(d&&d.success){form.querySelector('.rds-nl-row').hidden=true;st.textContent="Quasi fatto! Ti abbiamo inviato un'email di conferma: aprila e clicca il pulsante per completare l'iscrizione.";}else{throw new Error('x');}}).catch(function(){btn.disabled=false;st.textContent='Qualcosa non ha funzionato. Riprova tra poco.';});});});})();
 </script>

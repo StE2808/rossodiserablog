@@ -199,3 +199,44 @@ figure figcaption{position:static;padding:8px 12px;background:var(--ink);color:v
 .blocco .testo p{margin:0 0 .8em;font-size:16.5px}
 .prova{background:var(--rosso);color:#fff;text-align:center;font:700 12px/1.4 'Archivo';letter-spacing:.06em;text-transform:uppercase;padding:8px 16px;margin:0}
 .cop .firma+.punto{margin-top:24px}
+
+/* FASCIA AZIONI (16/11/2026): newsletter, commenti, condividi */
+.azioni{display:grid;grid-template-columns:1.3fr 1fr 1.3fr;background:var(--rosso);color:#fff}
+.az-col{padding:28px 32px 30px;border-right:1px solid rgba(0,0,0,.25);min-width:0}
+.az-col:last-child{border-right:0}
+.az-et{font:800 20px/1 'Archivo';font-stretch:80%;text-transform:uppercase;letter-spacing:.02em;color:var(--ink)}
+.az-txt{display:block;margin:8px 0 14px;font:400 16px/1.4 'Source Serif 4';color:#fff}
+.azioni .rds-nl-row input{border-color:#fff;background:#fff;color:var(--ink)}
+.azioni .rds-nl-row input::placeholder{color:#77736b}
+.azioni .rds-nl-btn{background:var(--ink);color:#fff}
+.azioni .rds-nl-status{color:#fff;opacity:.9;font-size:13px;margin:8px 0 0}
+.az-btn{display:inline-flex;align-items:center;min-height:44px;padding:0 16px;background:var(--ink);color:#fff;border:0;font:700 13px 'Archivo';letter-spacing:.04em;text-transform:uppercase;text-decoration:none;cursor:pointer}
+.az-btn:hover,.az-btn:focus-visible{background:#000;text-decoration:underline}
+.az-share{display:flex;flex-wrap:wrap;gap:6px}
+.azioni :focus-visible{outline-color:#fff}
+.commenti{background:var(--carta);padding:48px;border-top:1px solid var(--ink)}
+.commenti h2{margin:0 0 20px;font:400 40px/1 'Gloock'}
+.commenti #rds-comments{max-width:760px}
+.rds-reactions{display:flex;gap:.5rem;margin-bottom:1.5rem;flex-wrap:wrap}
+.rds-react{border:1px solid var(--filetto);background:#fff;border-radius:999px;padding:.3rem .8rem;cursor:pointer;font-size:1rem;min-height:44px}
+.rds-react.mine{background:rgba(194,60,60,.1);border-color:var(--rosso)}
+.rds-comment{padding:.8rem 0;border-top:1px solid var(--filetto)}
+.rds-meta{font:400 14px 'Archivo';color:var(--grigio);margin-bottom:.3rem}
+.rds-children{margin-left:1.5rem;border-left:2px solid var(--filetto);padding-left:1rem}
+.rds-reply,.rds-del{background:none;border:none;color:var(--rosso-marca);cursor:pointer;font:600 13px 'Archivo';padding:.4rem 0;min-height:44px}
+.rds-del{color:#b00;margin-left:.5rem}
+.rds-form{display:flex;flex-direction:column;gap:.6rem;margin:1rem 0}
+.rds-form input,.rds-form textarea{padding:.7rem;border:1px solid var(--ink);background:#fff;font:inherit}
+.rds-form textarea{min-height:110px;resize:vertical}
+.rds-form button[type=submit]{align-self:flex-start;background:var(--rosso);color:#fff;border:0;padding:0 20px;min-height:44px;font:700 13px 'Archivo';letter-spacing:.04em;text-transform:uppercase;cursor:pointer}
+.rds-note{font:400 12px 'Archivo';color:var(--grigio)}
+.rds-empty{color:var(--grigio)}
+@media(min-width:861px){.gerenza{grid-template-columns:1.6fr 1fr 1fr 1.2fr}}
+@media(max-width:860px){
+  .azioni{grid-template-columns:1fr}
+  .az-col{padding:24px 16px;border-right:0;border-bottom:1px solid rgba(0,0,0,.25)}
+  .az-col:last-child{border-bottom:0}
+  .commenti{padding:36px 16px}
+}
+@media print{.azioni,.commenti{display:none}}
+.g-social{flex-wrap:wrap;gap:0 24px}.g-social a{min-width:0}
