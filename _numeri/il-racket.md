@@ -15,8 +15,8 @@ author: stefano-vozzi
 focus_keyword: teoria del racket
 catenaccio: "Quando lo Stato diventa un club. Ottant'anni fa un filosofo gli aveva dato un nome: racket."
 punto: "Un racket è un gruppo di potere, economico, politico o professionale, che garantisce vantaggi e protezione ai suoi membri in cambio di lealtà al gruppo. Chi sta fuori resta escluso."
-image: /assets/images/numeri/il-racket/emiciclo-tribuna.jpg
-image_alt: "Un'aula parlamentare vuota vista dalla tribuna del pubblico, con i banchi apparecchiati per una cena: tovaglie, piatti, bicchieri di vino rosso"
+image: /assets/images/numeri/il-racket/emiciclo-gardin.jpg
+image_alt: "Un'aula parlamentare vuota vista dal basso, con i banchi apparecchiati per una cena: tovaglie, piatti, segnaposti bianchi e calici di vino rosso; in fondo una scala sale verso le tribune"
 image_generata: true
 leggi_anche:
   - rubrica: Politica
