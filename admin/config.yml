@@ -123,6 +123,7 @@ collections:
   - name: "numeri"
     label: "Numeri del giovedì"
     label_singular: "Numero"
+    description: "Ogni casella finisce in un punto preciso della pagina: [guarda lo schema](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg) (si apre in un'altra scheda)."
     folder: "_numeri"
     create: true
     slug: "{{slug}}"
@@ -133,7 +134,7 @@ collections:
       - { label: "Nella sitemap", name: "sitemap", widget: "boolean", default: false, required: false, hint: "Spento finché è una prova. Acceso quando il numero esce davvero, insieme a «Versione di prova» spento." }
       - { label: "Numero", name: "numero", widget: "number", value_type: "int", required: true }
       - { label: "Tema in breve", name: "tema_breve", widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
-      - { label: "Titolo (meglio una domanda)", name: "title", widget: "string" }
+      - { label: "Titolo (meglio una domanda)", name: "title", widget: "string", hint: "Dove va ogni casella: [schema della pagina](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg)" }
       - { label: "Titolo SEO", name: "seo_title", widget: "string", required: false, hint: "Max 60 caratteri, le parole che la gente cerca." }
       - { label: "Meta description", name: "description", widget: "text", hint: "120-155 caratteri." }
       - { label: "Parola chiave principale", name: "focus_keyword", widget: "string", required: false }
