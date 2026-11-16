@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+{%- comment -%}
+  IL NUMERO DEL GIOVEDÌ (modello, 16/11/2026)
+  Impagina un numero a blocchi dal front matter: niente HTML a mano.
+  Ordine fisso: copertina (con «Il punto»), «Leggi anche», tema, i movimenti
+  (blocchi numerati in automatico, poi gli inserti «dopo»: frase rossa o tabella dati),
+  le domande, la gerenza.
+  - Un blocco con tipo «domanda» diventa una FAQ visibile e finisce nel FAQPage.
+  - prova: true  → noindex e una fascia «Versione di prova» in cima.
+  - uscita_prevista: true → «Uscita prevista:» davanti alla data.
+  - uscita: data mostrata in copertina (se manca, date). Jekyll non pubblica le date future:
+    date = giorno in cui si mette online, uscita = il giovedì.
+  Stile in /assets/css/numero.css. Linee guida: Obsidian, Rosso di Sera/RossoDiSera_epifania/Linee-guida-format.md
+{%- endcomment -%}
+{%- if page.seo_title and page.seo_title != "" -%}{%- assign effective_title = page.seo_title -%}{%- else -%}{%- assign effective_title = page.title -%}{%- endif -%}
+{%- if page.author == "stefano-vozzi" -%}{%- assign nome_autore = "Stefano Vozzi" -%}{%- elsif page.author == "lino-rialti" -%}{%- assign nome_autore = "Lino Rialti" -%}{%- else -%}{%- assign nome_autore = page.author | replace: "-", " " | capitalize -%}{%- endif -%}
+{%- assign romani = "I,II,III,IV,V,VI" | split: "," -%}
+{%- assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
+{%- assign giorni = "domenica,lunedì,martedì,mercoledì,giovedì,venerdì,sabato" | split: "," -%}
+{%- assign d_uscita = page.uscita | default: page.date -%}
+{%- assign i_mese = d_uscita | date: "%-m" | minus: 1 -%}
+{%- assign i_giorno = d_uscita | date: "%w" | plus: 0 -%}
+{%- capture data_estesa -%}{{ giorni[i_giorno] | capitalize }} {{ d_uscita | date: "%-d" }} {{ mesi[i_mese] }} {{ d_uscita | date: "%Y" }}{%- endcapture -%}
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ effective_title }} | Rosso di Sera</title>
+{% if page.prova or page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
+<meta name="google-site-verification" content="gw5Fk6K2XT2ucVmoWb0WBhi5aVtD-iZtugkImmhzbVU" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7QJLYXF81"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q7QJLYXF81');</script>
+{%- comment -%} jekyll-seo-tag come in default.html: senza il suo og:title e senza il suo JSON-LD {%- endcomment -%}
+{% capture seo_out %}{% seo title=false %}{% endcapture %}
+{% assign seo_out = seo_out | split: '<script type="application/ld+json">' | first %}
+{% assign seo_lines = seo_out | newline_to_br | split: '<br />' %}
+{% for l in seo_lines %}{% unless l contains 'property="og:title"' %}{{ l }}{% endunless %}{% endfor %}
+<meta property="og:title" content="{{ effective_title | escape }}">
+{% if page.image_alt %}<meta property="og:image:alt" content="{{ page.image_alt | escape }}">{% endif %}
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Arvo:wght@700&family=Gloock&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/numero.css' | relative_url }}">
+{% include identita-sito.html %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: page.punto | strip_newlines | jsonify }},
+  "image": {% if page.image %}{{ page.image | absolute_url | jsonify }}{% else %}null{% endif %},
+  "inLanguage": "it-IT",
+  "author": {
+    "@type": "Person",
+    {% if page.author == "stefano-vozzi" or page.author == "lino-rialti" %}"@id": "https://rossodiserablog.it/#{{ page.author }}",
+    "url": {{ '/authors/' | append: page.author | append: '/' | absolute_url | jsonify }},
+    {% endif %}"name": {{ nome_autore | jsonify }}
+  },
+  "keywords": {{ page.focus_keyword | default: page.tema_breve | jsonify }},
+  "publisher": { "@id": "https://rossodiserablog.it/#organization" },
+  "isPartOf": { "@id": "https://rossodiserablog.it/#website" },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ page.url | absolute_url | jsonify }} }
+}
+</script>
+{%- assign faq_n = 0 -%}
+{%- capture faq_json -%}{%- for m in page.movimenti -%}{%- for b in m.blocchi -%}{%- if b.tipo == "domanda" -%}{%- if faq_n > 0 -%},{%- endif -%}{%- assign faq_n = faq_n | plus: 1 %}
+    { "@type": "Question", "name": {{ b.titolo | jsonify }}, "acceptedAnswer": { "@type": "Answer", "text": {{ b.testo | markdownify | strip_html | strip_newlines | strip | jsonify }} } }{%- endif -%}{%- endfor -%}{%- endfor -%}{%- endcapture -%}
+{% if faq_n > 0 %}<script type="application/ld+json">
+{ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{{ faq_json }}
+] }
+</script>{% endif %}
+</head>
+<body><a class="salta" href="#contenuto">Vai al contenuto</a>
+<div class="numero">
+{% if page.prova %}<p class="prova">Versione di prova, non ancora pubblicata</p>{% endif %}
+<nav aria-label="Sito" class="barra">
+<span class="link"><a href="{{ '/' | relative_url }}">Home</a><a href="{{ '/chi-siamo/' | relative_url }}">Cos'è</a><a href="{{ '/archivio/' | relative_url }}">Archivio</a><a href="{{ '/autori/' | relative_url }}">Autori</a><a href="{{ '/contatti/' | relative_url }}">Scrivici</a><a href="{{ '/cerca/' | relative_url }}">Cerca</a></span>
+</nav>
+<main id="contenuto">
+
+<!-- COPERTINA -->
+<section class="cop">
+<div class="sx">
+<p class="testata"><img alt="Logo di Rosso di Sera: un sole rosso con un albero e un uccellino" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<br>di Sera</span></p>
+<div class="uscita"><span>N. {{ page.numero }}{% if page.tema_breve %} · {{ page.tema_breve }}{% endif %}</span><span>{% if page.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
+<h1>{{ page.title }}</h1>
+{% if page.catenaccio %}<div class="cat">{{ page.catenaccio }}</div>{% endif %}
+<p class="firma">di <a href="{{ '/autori/' | relative_url }}#{{ page.author }}" rel="author">{{ nome_autore }}</a></p>
+<hr class="filetto">
+{% if page.punto %}<aside aria-label="Il punto" class="punto"><b>Il punto</b><p>{{ page.punto }}</p></aside>{% endif %}
+<div class="somm">
+{% for m in page.movimenti %}<div class="r"><span class="et">{{ m.nome }}</span>{% for s in m.sommario %}<span>{{ s }}</span>{% endfor %}</div>
+{% endfor %}</div>
+</div>
+{% if page.image %}<figure class="foto"><img alt="{{ page.image_alt | escape }}" fetchpriority="high" src="{{ page.image | relative_url }}">
+{% if page.image_generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
+</section>
+
+<!-- LEGGI ANCHE: dal front matter, altrimenti gli ultimi quattro articoli -->
+<aside aria-labelledby="leggi-anche" class="rubriche">
+<h2 id="leggi-anche">Leggi anche</h2>
+<div class="rub-grid">
+{%- if page.leggi_anche and page.leggi_anche.size > 0 -%}
+{%- for r in page.leggi_anche limit: 4 -%}<div class="rub"><span>{{ r.rubrica }}</span><a href="{{ r.url | relative_url }}">{{ r.titolo }}</a></div>{%- endfor -%}
+{%- else -%}
+{%- for p in site.posts limit: 4 -%}<div class="rub"><span>{{ p.category | replace: "-", " " | capitalize }}</span><a href="{{ p.url | relative_url }}">{{ p.title }}</a></div>{%- endfor -%}
+{%- endif -%}
+</div>
+</aside>
+
+<!-- TEMA -->
+<section class="tema">
+<div>
+<div class="et">Il tema</div>
+<h2>{{ page.tema.titolo }}</h2>
+{% if page.tema.catenaccio %}<div class="cat">{{ page.tema.catenaccio }}</div>{% endif %}
+<hr class="filetto">
+<div class="corpo">
+{{ page.tema.apertura | markdownify }}
+</div>
+</div>
+<nav aria-label="In questo numero" class="indice">
+{% for m in page.movimenti %}<div><a href="#{{ m.nome | slugify }}"><b>{{ romani[forloop.index0] }}</b><strong>{{ m.nome }}</strong><span>{{ m.indice }}</span></a></div>
+{% endfor %}</nav>
+</section>
+
+<!-- MOVIMENTI -->
+{%- assign n = 0 -%}
+{% for m in page.movimenti %}
+<div class="mov" id="{{ m.nome | slugify }}"><b>{{ romani[forloop.index0] }}</b><h2>{{ m.titolo | default: m.nome }}</h2></div>
+<section class="blocchi" style="--col:{{ m.colonne | default: m.blocchi.size }}">
+{%- for b in m.blocchi -%}{%- assign n = n | plus: 1 %}
+<article class="blocco">
+<div class="n">{% if n < 10 %}0{% endif %}{{ n }}</div>
+{%- if b.tipo == "domanda" %}
+<details class="faq-item" open><summary><h3>{{ b.titolo }}</h3></summary><div class="testo">{{ b.testo | markdownify }}</div></details>
+{%- else %}
+<h3>{{ b.titolo }}</h3>
+<div class="testo">{{ b.testo | markdownify }}</div>
+{%- endif %}
+</article>
+{%- endfor %}
+</section>
+{%- for d in m.dopo -%}
+{%- if d.type == "frase" %}
+<section class="frase">
+<div class="rossa">
+<p class="grande">{{ d.grande | strip | newline_to_br }}</p>
+<hr class="filetto">
+{% if d.sotto %}<div class="sotto">{{ d.sotto }}</div>{% endif %}
+</div>
+{% if d.image %}<figure class="foto-f"><img alt="{{ d.image_alt | escape }}" loading="lazy" src="{{ d.image | relative_url }}">{% if d.generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% endif %}</figure>{% endif %}
+</section>
+{%- elsif d.type == "dati" %}
+{%- assign id_dati = d.titolo | slugify %}
+<section aria-labelledby="{{ id_dati }}" class="dato"><h2 id="{{ id_dati }}">{{ d.titolo }}</h2>
+<div aria-label="{{ d.titolo | escape }}" class="tabella-scroll" role="region" tabindex="0"><table>
+{% if d.didascalia %}<caption>{{ d.didascalia }}</caption>{% endif %}
+<thead><tr><th scope="col">Importo</th><th scope="col">Che cosa misura</th><th scope="col">Fonte</th></tr></thead>
+<tbody>
+{%- for r in d.righe %}
+<tr><th scope="row"><span class="cifra">{{ r.cifra }}</span><span class="unita">{{ r.unita }}</span></th><td>{{ r.testo | markdownify | remove: '<p>' | remove: '</p>' }}</td><td><div class="fonte">{{ r.fonte | markdownify | remove: '<p>' | remove: '</p>' }}</div></td></tr>
+{%- endfor %}
+</tbody></table></div>
+{% if d.limite %}<p class="limite">{{ d.limite }}</p>{% endif %}
+</section>
+{%- endif -%}
+{%- endfor -%}
+{% endfor %}
+
+<!-- DOMANDE -->
+<section class="domande">
+<div class="et">Da portarsi a casa</div>
+{% for q in page.domande %}<p class="{% if forloop.first %}q1{% else %}q{% endif %}">{{ q }}</p>
+{% endfor %}
+{% if page.articolo_origine %}<p class="dopo">Il ragionamento per intero: <a href="{{ page.articolo_origine.url | relative_url }}">{{ page.articolo_origine.titolo }}</a></p>{% endif %}
+</section>
+</main>
+
+<footer class="gerenza">
+<div class="g-col g-cos">
+<div class="g-et">Cos'è</div>
+<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Il giovedì esce un numero dedicato a un tema; ogni giorno escono le rubriche: Politica, Tecnologia, Che bellezza.</p>
+<a href="{{ '/chi-siamo/' | relative_url }}">Chi siamo</a>
+</div>
+<div class="g-col">
+<div class="g-et">Chi scrive</div>
+<a href="{{ '/autori/' | relative_url }}#stefano-vozzi">Stefano Vozzi</a>
+<a href="{{ '/autori/' | relative_url }}#lino-rialti">Lino Rialti</a>
+</div>
+<div class="g-col">
+<div class="g-et">Leggi</div>
+<a href="{{ '/archivio/' | relative_url }}">Archivio</a>
+<a href="{{ '/cerca/' | relative_url }}">Cerca nel sito</a>
+</div>
+<div class="g-col">
+<div class="g-et">Scrivici</div>
+<a href="{{ '/contatti/' | relative_url }}">Contatti</a>
+<span class="g-social"><a href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></span>
+</div>
+<div class="g-col g-nl">
+<div class="g-et">Il numero, ogni giovedì</div>
+<form action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" class="rds-nl-form" method="post" target="_blank">
+<label class="rds-nl-label" for="nl-email">La tua email</label>
+<div class="rds-nl-row">
+<input autocomplete="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" required type="email">
+<button class="rds-nl-btn" type="submit">Iscriviti</button>
+</div>
+<input aria-hidden="true" autocomplete="off" class="rds-nl-hp" name="website" tabindex="-1" type="text">
+<input name="ml-submit" type="hidden" value="1">
+<input name="anticsrf" type="hidden" value="true">
+<p aria-live="polite" class="rds-nl-status" role="status">Niente spam, ti cancelli con un clic.</p>
+</form>
+</div>
+<div class="g-fondo"><span>© {{ page.date | date: "%Y" }} Rosso di Sera</span>{% if page.image_generata %}<span>Le illustrazioni di questo numero sono generate, non sono luoghi reali.</span>{% endif %}</div>
+</footer>
+<script>
+(function(){document.querySelectorAll('.rds-nl-form').forEach(function(form){form.addEventListener('submit',function(ev){ev.preventDefault();var st=form.querySelector('.rds-nl-status'),hp=form.querySelector('.rds-nl-hp'),btn=form.querySelector('.rds-nl-btn');if(hp&&hp.value){return;}btn.disabled=true;st.textContent='Invio in corso...';fetch(form.action,{method:'POST',body:new FormData(form)}).then(function(r){return r.json();}).then(function(d){if(d&&d.success){form.querySelector('.rds-nl-row').hidden=true;st.textContent="Quasi fatto! Ti abbiamo inviato un'email di conferma: aprila e clicca il pulsante per completare l'iscrizione.";}else{throw new Error('x');}}).catch(function(){btn.disabled=false;st.textContent='Qualcosa non ha funzionato. Riprova tra poco.';});});});})();
+</script>
+</div>
+</body>
+</html>

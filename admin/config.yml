@@ -119,6 +119,115 @@ collections:
           - numbered-list
           - code
 
+  # IL NUMERO DEL GIOVEDÌ (16/11/2026): un modulo, il layout numero.html impagina da solo.
+  - name: "numeri"
+    label: "Numeri del giovedì"
+    label_singular: "Numero"
+    folder: "_numeri"
+    create: true
+    slug: "{{slug}}"
+    summary: "N. {{numero}} · {{title}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "numero" }
+      - { label: "Versione di prova", name: "prova", widget: "boolean", default: true, hint: "Acceso: la pagina è online ma nascosta a Google, con la fascia «Versione di prova». Spegnerlo solo quando il numero esce davvero." }
+      - { label: "Nella sitemap", name: "sitemap", widget: "boolean", default: false, required: false, hint: "Spento finché è una prova. Acceso quando il numero esce davvero, insieme a «Versione di prova» spento." }
+      - { label: "Numero", name: "numero", widget: "number", value_type: "int", required: true }
+      - { label: "Tema in breve", name: "tema_breve", widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
+      - { label: "Titolo (meglio una domanda)", name: "title", widget: "string" }
+      - { label: "Titolo SEO", name: "seo_title", widget: "string", required: false, hint: "Max 60 caratteri, le parole che la gente cerca." }
+      - { label: "Meta description", name: "description", widget: "text", hint: "120-155 caratteri." }
+      - { label: "Parola chiave principale", name: "focus_keyword", widget: "string", required: false }
+      - { label: "Data di messa online", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", hint: "Mai nel futuro: Jekyll non pubblica le date future." }
+      - { label: "Giovedì d'uscita", name: "uscita", widget: "datetime", format: "YYYY-MM-DD", time_format: false, required: false, hint: "La data che si legge in copertina. Se vuota, vale la data di messa online." }
+      - { label: "Scrivi «Uscita prevista»", name: "uscita_prevista", widget: "boolean", default: false, required: false }
+      - label: "Autore"
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "Lino Rialti", value: "lino-rialti" }
+          - { label: "Stefano Vozzi", value: "stefano-vozzi" }
+      - { label: "Catenaccio", name: "catenaccio", widget: "text", hint: "Una o due frasi sotto il titolo." }
+      - { label: "Il punto", name: "punto", widget: "text", hint: "25-50 parole: la tesi del numero detta in chiaro. Serve a Google e alle IA." }
+      - { label: "Foto di copertina", name: "image", widget: "image" }
+      - { label: "Descrizione della foto (alt)", name: "image_alt", widget: "string", hint: "Cosa si vede, non il titolo." }
+      - { label: "La foto è generata", name: "image_generata", widget: "boolean", default: true, hint: "Aggiunge «Illustrazione generata» sotto la foto." }
+      - { label: "Didascalia (se la foto è vera)", name: "image_caption", widget: "string", required: false }
+      - label: "Leggi anche"
+        name: "leggi_anche"
+        widget: "list"
+        required: false
+        max: 4
+        hint: "Fino a quattro pezzi delle rubriche. Se vuoto, escono gli ultimi quattro articoli."
+        fields:
+          - { label: "Rubrica", name: "rubrica", widget: "select", options: ["Politica", "Tecnologia", "Che bellezza"] }
+          - { label: "Titolo", name: "titolo", widget: "string" }
+          - { label: "Indirizzo", name: "url", widget: "string", hint: "Es. /la-strana-parabola-della-silicon-valley/" }
+      - label: "Il tema (apertura)"
+        name: "tema"
+        widget: "object"
+        fields:
+          - { label: "Titolo", name: "titolo", widget: "string" }
+          - { label: "Catenaccio", name: "catenaccio", widget: "string", required: false }
+          - { label: "Apertura", name: "apertura", widget: "markdown", buttons: [bold, italic, link], hint: "150-200 parole, la prima lettera diventa il capolettera." }
+      - label: "Movimenti"
+        name: "movimenti"
+        widget: "list"
+        summary: "{{fields.nome}}"
+        hint: "Di solito tre: Capire, Vedere, Pensare. I blocchi si numerano da soli."
+        fields:
+          - { label: "Nome", name: "nome", widget: "string", hint: "Capire, Vedere o Pensare." }
+          - { label: "Titolo della fascia", name: "titolo", widget: "string", hint: "Es. «Capire: che cos'è il racket». È un H2: meglio con le parole che si cercano." }
+          - { label: "Riga nell'indice", name: "indice", widget: "string" }
+          - { label: "Voci nel sommario di copertina", name: "sommario", widget: "list", field: { label: "Voce", name: "voce", widget: "string" } }
+          - { label: "Colonne (computer)", name: "colonne", widget: "number", value_type: "int", min: 1, max: 4, required: false, hint: "Se vuoto, una colonna per blocco." }
+          - label: "Blocchi"
+            name: "blocchi"
+            widget: "list"
+            summary: "{{fields.titolo}}"
+            fields:
+              - { label: "Titolo", name: "titolo", widget: "string", hint: "Deve capirsi da solo. Se è una domanda, scegli il tipo «Domanda»." }
+              - { label: "Tipo", name: "tipo", widget: "select", default: "testo", options: [{ label: "Testo", value: "testo" }, { label: "Domanda (diventa FAQ per Google)", value: "domanda" }] }
+              - { label: "Testo", name: "testo", widget: "markdown", buttons: [bold, italic, link, numbered-list, bulleted-list], hint: "40-90 parole. Le domande: 40-60." }
+          - label: "Dopo i blocchi"
+            name: "dopo"
+            widget: "list"
+            required: false
+            hint: "Facoltativo: una pagina rossa con una frase, o una tabella di dati."
+            types:
+              - label: "Frase rossa"
+                name: "frase"
+                widget: "object"
+                fields:
+                  - { label: "Frase grande", name: "grande", widget: "text", hint: "Ogni a capo resta un a capo." }
+                  - { label: "Sottotesto", name: "sotto", widget: "string", required: false }
+                  - { label: "Foto accanto", name: "image", widget: "image", required: false }
+                  - { label: "Descrizione della foto (alt)", name: "image_alt", widget: "string", required: false }
+                  - { label: "La foto è generata", name: "generata", widget: "boolean", default: true }
+              - label: "Tabella dati"
+                name: "dati"
+                widget: "object"
+                fields:
+                  - { label: "Titolo", name: "titolo", widget: "string" }
+                  - { label: "Didascalia", name: "didascalia", widget: "string", hint: "Dove, quando, che unità." }
+                  - label: "Righe"
+                    name: "righe"
+                    widget: "list"
+                    summary: "{{fields.cifra}} {{fields.unita}}"
+                    fields:
+                      - { label: "Cifra", name: "cifra", widget: "string", hint: "Es. 28,7" }
+                      - { label: "Unità", name: "unita", widget: "string", hint: "Es. miliardi di euro" }
+                      - { label: "Che cosa misura", name: "testo", widget: "text" }
+                      - { label: "Fonte", name: "fonte", widget: "string", hint: "Fonte verificata sul testo originale; un link in markdown va bene." }
+                  - { label: "Limiti dei dati", name: "limite", widget: "text", required: false }
+      - { label: "Domande finali", name: "domande", widget: "list", min: 1, max: 3, hint: "Tre, la prima grande. Al posto delle conclusioni.", field: { label: "Domanda", name: "domanda", widget: "string" } }
+      - label: "Articolo da cui nasce (facoltativo)"
+        name: "articolo_origine"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Titolo", name: "titolo", widget: "string", required: false }
+          - { label: "Indirizzo", name: "url", widget: "string", required: false }
+
   - name: "authors"
     label: "Autori"
     folder: "_authors"

@@ -28,6 +28,9 @@ timezone: Europe/Rome
 collections:
   authors:
     output: true
+  numeri:
+    output: true
+    permalink: /numeri/:name/
 
 # Build settings
 markdown: kramdown
