@@ -88,9 +88,8 @@
 <div class="uscita"><span>N. {{ page.numero }}{% if page.tema_breve %} · {{ page.tema_breve }}{% endif %}</span><span>{% if page.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
 <h1>{{ page.title }}</h1>
 {% if page.catenaccio %}<div class="cat">{{ page.catenaccio }}</div>{% endif %}
-<p class="firma">di <a href="{{ '/autori/' | relative_url }}#{{ page.author }}" rel="author">{{ nome_autore }}</a></p>
-<hr class="filetto">
-{% if page.punto %}<aside aria-label="Il punto" class="punto"><b>Il punto</b><p>{{ page.punto }}</p></aside>{% endif %}
+<p class="firma">di <a href="{{ '/authors/' | append: page.author | append: '/' | relative_url }}" rel="author">{{ nome_autore }}</a></p>
+{% if page.punto %}<aside aria-label="Il punto" class="punto"><b>Il punto</b><p>{{ page.punto }}</p></aside>{% else %}<hr class="filetto">{% endif %}
 <div class="somm">
 {% for m in page.movimenti %}<div class="r"><span class="et">{{ m.nome }}</span>{% for s in m.sommario %}<span>{{ s }}</span>{% endfor %}</div>
 {% endfor %}</div>
@@ -188,8 +187,8 @@
 </div>
 <div class="g-col">
 <div class="g-et">Chi scrive</div>
-<a href="{{ '/autori/' | relative_url }}#stefano-vozzi">Stefano Vozzi</a>
-<a href="{{ '/autori/' | relative_url }}#lino-rialti">Lino Rialti</a>
+<a href="{{ '/authors/stefano-vozzi/' | relative_url }}">Stefano Vozzi</a>
+<a href="{{ '/authors/lino-rialti/' | relative_url }}">Lino Rialti</a>
 </div>
 <div class="g-col">
 <div class="g-et">Leggi</div>

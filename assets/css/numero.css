@@ -198,3 +198,4 @@ figure figcaption{position:static;padding:8px 12px;background:var(--ink);color:v
 .blocco .testo>*:first-child{margin-top:0}
 .blocco .testo p{margin:0 0 .8em;font-size:16.5px}
 .prova{background:var(--rosso);color:#fff;text-align:center;font:700 12px/1.4 'Archivo';letter-spacing:.06em;text-transform:uppercase;padding:8px 16px;margin:0}
+.cop .firma+.punto{margin-top:24px}
