@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+{%- comment -%}
+  ARTICOLO A RIVISTA (prova, 16/11/2026)
+  Traduce da solo il markdown di un articolo nella lingua del numero:
+  - in testa foto e titolo affiancati (come le righe della home), testata con «blog»;
+  - il testo prima del primo H2 è l'attacco, con capolettera e l'indice dei capitoli;
+  - ogni H2 diventa un capitolo numerato (01, 02…), numero e titolo nella colonna di sinistra;
+  - l'H2 «Domande frequenti» diventa la fascia nera delle domande;
+  - una citazione che comincia con «Il punto» resta un riquadro, le altre diventano la pagina rossa;
+  - in fondo fascia rossa (newsletter, commenti, condividi) e posta dei lettori.
+  Uso: come layout di un post, oppure in prova con «fonte: /url-dell-articolo/» nel front matter.
+  Barra, fascia, commenti e gerenza sono copiati da numero.html.
+{%- endcomment -%}
+{%- if page.fonte -%}{%- assign a = site.posts | where: "url", page.fonte | first -%}{%- assign corpo = a.content -%}{%- else -%}{%- assign a = page -%}{%- assign corpo = content -%}{%- endif -%}
+{%- if a.author == "stefano-vozzi" -%}{%- assign aut = "Stefano Vozzi" -%}{%- elsif a.author == "lino-rialti" -%}{%- assign aut = "Lino Rialti" -%}{%- else -%}{%- assign aut = a.author | replace: "-", " " | capitalize -%}{%- endif -%}
+{%- assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
+{%- assign im = a.date | date: "%-m" | minus: 1 -%}
+{%- assign parole = corpo | strip_html | number_of_words -%}{%- assign minuti = parole | divided_by: 200 | at_least: 1 -%}
+{%- assign cat = a.category | replace: "-", " " | capitalize | replace: "Societa", "Società" -%}
+{%- assign parti = corpo | split: '<h2' -%}
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ a.seo_title | default: a.title }} | Rosso di Sera</title>
+{% if page.prova or page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
+<meta name="google-site-verification" content="gw5Fk6K2XT2ucVmoWb0WBhi5aVtD-iZtugkImmhzbVU" />
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Arvo:wght@700&family=Gloock&family=Rock+Salt&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/numero.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+{% include identita-sito.html %}
+</head>
+<body><a class="salta" href="#contenuto">Vai al contenuto</a>
+<div class="numero articolo-r">
+{% if page.prova %}<p class="prova">Versione di prova della pagina articolo</p>{% endif %}
+<nav aria-label="Sito" class="barra">
+<span class="link"><a href="{{ '/' | relative_url }}">Home</a><a href="{{ '/chi-siamo/' | relative_url }}">Cos'è</a><a href="{{ '/archivio/' | relative_url }}">Archivio</a><a href="{{ '/autori/' | relative_url }}">Autori</a><a href="{{ '/contatti/' | relative_url }}">Scrivici</a><a href="{{ '/cerca/' | relative_url }}">Cerca</a></span>
+</nav>
+<main id="contenuto">
+
+<!-- TESTA: testata, titolo e foto affiancati -->
+<header class="a-testa{% unless a.image %} senza{% endunless %}">
+<div class="a-sx">
+<p class="testata piccola"><a href="{{ '/' | relative_url }}"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></a></p>
+<div class="uscita"><span>{{ cat }}</span><span><time datetime="{{ a.date | date: '%Y-%m-%d' }}">{{ a.date | date: "%-d" }} {{ mesi[im] }} {{ a.date | date: "%Y" }}</time> · {{ minuti }} min</span></div>
+<h1>{{ a.title }}</h1>
+{% if a.excerpt %}<p class="cat">{{ a.excerpt | strip_html | strip_newlines | truncatewords: 40, "…" }}</p>{% endif %}
+<p class="firma">di <a href="{{ '/authors/' | append: a.author | append: '/' | relative_url }}" rel="author">{{ aut }}</a></p>
+</div>
+{% if a.image %}<figure class="foto"><img alt="{{ a.image_alt | escape }}" fetchpriority="high" src="{{ a.image | relative_url }}">{% if a.image_caption and a.image_caption != "" %}<figcaption>{{ a.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
+</header>
+
+<!-- ATTACCO + INDICE DEI CAPITOLI -->
+<section class="a-attacco">
+<div class="a-corpo attacco">{{ parti[0] }}</div>
+{% if parti.size > 1 %}<nav aria-label="In questo articolo" class="indice">
+{%- assign k = 0 -%}
+{%- for p in parti offset: 1 -%}{%- assign testa = p | split: '</h2>' | first -%}{%- assign titolo = testa | split: '>' | last -%}{%- assign idh = testa | split: 'id="' | last | split: '"' | first -%}
+{%- unless titolo contains "Domande frequenti" -%}{%- assign k = k | plus: 1 %}
+<div><a href="#{{ idh }}"><b>{% if k < 10 %}0{% endif %}{{ k }}</b><span>{{ titolo }}</span></a></div>
+{%- endunless -%}{%- endfor %}
+</nav>{% endif %}
+</section>
+
+<!-- CAPITOLI: ogni H2 un blocco numerato -->
+{%- assign k = 0 -%}
+{%- for p in parti offset: 1 -%}
+{%- assign testa = p | split: '</h2>' | first -%}
+{%- assign titolo = testa | split: '>' | last -%}
+{%- assign resto = p | remove_first: testa | remove_first: '</h2>' -%}
+{%- if titolo contains "Domande frequenti" %}
+<section class="domande a-faq"><div class="et">Domande frequenti</div><h2 class="q1"{{ testa | split: '>' | first }}>Le domande che ci fate</h2>{{ resto }}</section>
+{%- else -%}{%- assign k = k | plus: 1 %}
+<section class="capitolo">
+<div class="c-sx"><div class="n">{% if k < 10 %}0{% endif %}{{ k }}</div><h2{{ testa }}</h2></div>
+<div class="a-corpo">{{ resto }}</div>
+</section>
+{%- endif -%}
+{%- endfor %}
+
+<!-- AZIONI: newsletter, commenti, condividi -->
+<section class="azioni" aria-label="Dopo la lettura">
+<div class="az-col">
+<div class="az-et">Newsletter</div>
+<form action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" class="rds-nl-form" method="post" target="_blank">
+<label class="az-txt" for="nl-email">Il numero, ogni giovedì, nella tua posta.</label>
+<div class="rds-nl-row">
+<input autocomplete="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" required type="email">
+<button class="rds-nl-btn" type="submit">Iscriviti</button>
+</div>
+<input aria-hidden="true" autocomplete="off" class="rds-nl-hp" name="website" tabindex="-1" type="text">
+<input name="ml-submit" type="hidden" value="1">
+<input name="anticsrf" type="hidden" value="true">
+<p aria-live="polite" class="rds-nl-status" role="status">Niente spam, ti cancelli con un clic.</p>
+</form>
+</div>
+<div class="az-col">
+<div class="az-et">Commenti</div>
+<p class="az-txt">Sei d'accordo? Ti manca qualcosa? Dillo qui.</p>
+<button class="az-btn" type="button" aria-expanded="false" aria-controls="commenti" id="apri-commenti">Leggi e commenta</button>
+</div>
+<div class="az-col">
+<div class="az-et">Condividi</div>
+<p class="az-txt">Se ti ha fatto pensare, fallo leggere.</p>
+{%- capture url_pag -%}{{ a.url | absolute_url }}{%- endcapture -%}
+{%- capture testo_cond -%}{{ a.title }} · Rosso di Sera{%- endcapture %}
+<div class="az-share">
+<button class="az-btn az-nativo" type="button" hidden>Condividi…</button>
+<a class="az-btn" href="https://www.facebook.com/sharer/sharer.php?u={{ url_pag | url_encode }}" rel="noopener" target="_blank">Facebook</a>
+<a class="az-btn" href="https://x.com/intent/post?url={{ url_pag | url_encode }}&amp;text={{ testo_cond | url_encode }}" rel="noopener" target="_blank">X</a>
+<a class="az-btn" href="https://wa.me/?text={{ testo_cond | append: ' ' | append: url_pag | url_encode }}" rel="noopener" target="_blank">WhatsApp</a>
+<button class="az-btn az-copia" type="button" data-url="{{ url_pag }}">Copia link</button>
+</div>
+</div>
+</section>
+<section class="commenti" id="commenti" aria-label="Commenti" hidden>
+<div class="c-testa">
+<div class="et">La posta dei lettori</div>
+<h2>Rispondi tu</h2>
+<p>Le domande le abbiamo fatte noi. Le risposte, se ti va, scrivile qui: le leggiamo tutte.</p>
+</div>
+<div id="rds-comments">
+<div class="rds-reactions"></div>
+<div class="rds-newform"></div>
+<div class="rds-list"></div>
+</div>
+</section>
+</main>
+
+<footer class="gerenza">
+<div class="g-col g-cos">
+<div class="g-et">Cos'è</div>
+<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Il giovedì esce un numero dedicato a un tema; ogni giorno escono le rubriche: Politica, Tecnologia, Che bellezza.</p>
+<a href="{{ '/chi-siamo/' | relative_url }}">Chi siamo</a>
+</div>
+<div class="g-col">
+<div class="g-et">Chi scrive</div>
+<a href="{{ '/authors/stefano-vozzi/' | relative_url }}">Stefano Vozzi</a>
+<a href="{{ '/authors/lino-rialti/' | relative_url }}">Lino Rialti</a>
+</div>
+<div class="g-col">
+<div class="g-et">Leggi</div>
+<a href="{{ '/archivio/' | relative_url }}">Archivio</a>
+<a href="{{ '/cerca/' | relative_url }}">Cerca nel sito</a>
+</div>
+<div class="g-col">
+<div class="g-et">Scrivici</div>
+<a href="{{ '/contatti/' | relative_url }}">Contatti</a>
+<span class="g-social"><a href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></span>
+</div>
+<div class="g-fondo"><span>© {{ site.time | date: "%Y" }} Rosso di Sera</span></div>
+</footer>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script src="{{ '/assets/js/comments.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+<script>
+(function(){
+var b=document.getElementById('apri-commenti'),c=document.getElementById('commenti');
+function apri(){c.hidden=false;b.setAttribute('aria-expanded','true');b.textContent='Chiudi i commenti';}
+b.addEventListener('click',function(){if(c.hidden){apri();c.scrollIntoView({behavior:'smooth'});}else{c.hidden=true;b.setAttribute('aria-expanded','false');b.textContent='Leggi e commenta';}});
+if(location.hash==='#commenti'||/mod=/.test(location.hash))apri();
+var n=document.querySelector('.az-nativo');
+if(navigator.share&&matchMedia('(pointer:coarse)').matches){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:document.title,url:document.querySelector('.az-copia').dataset.url}).catch(function(){});});}
+document.querySelector('.az-copia').addEventListener('click',function(e){var t=e.currentTarget;navigator.clipboard.writeText(t.dataset.url).then(function(){t.textContent='Copiato!';setTimeout(function(){t.textContent='Copia link';},2000);});});
+})();
+</script>
+<script>
+(function(){document.querySelectorAll('.rds-nl-form').forEach(function(form){form.addEventListener('submit',function(ev){ev.preventDefault();var st=form.querySelector('.rds-nl-status'),hp=form.querySelector('.rds-nl-hp'),btn=form.querySelector('.rds-nl-btn');if(hp&&hp.value){return;}btn.disabled=true;st.textContent='Invio in corso...';fetch(form.action,{method:'POST',body:new FormData(form)}).then(function(r){return r.json();}).then(function(d){if(d&&d.success){form.querySelector('.rds-nl-row').hidden=true;st.textContent="Quasi fatto! Ti abbiamo inviato un'email di conferma: aprila e clicca il pulsante per completare l'iscrizione.";}else{throw new Error('x');}}).catch(function(){btn.disabled=false;st.textContent='Qualcosa non ha funzionato. Riprova tra poco.';});});});})();
+</script>
+</div>
+
+<script>
+/* citazioni: «Il punto» resta riquadro, le altre diventano pagina rossa */
+document.querySelectorAll('.a-corpo blockquote').forEach(function(q){var s=q.querySelector('strong');if(s&&/^il punto/i.test(s.textContent.trim())){q.classList.add('bq-punto');var t=s.nextSibling;if(t&&t.nodeType===3){t.textContent=t.textContent.replace(/^\s*:\s*/,'');}}else{q.classList.add('bq-rossa');}});
+</script>
+</div>
+</body>
+</html>

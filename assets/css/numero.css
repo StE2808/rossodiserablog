@@ -315,3 +315,72 @@ figure figcaption{position:static;padding:8px 12px;background:var(--ink);color:v
 @media(max-width:860px){.home .cop h1.testata{margin:28px 16px 0}.home .cop .titolo-n{margin:28px 16px 0}}
 html,body{background:#333}  /* sfondo esterno: nero 80% (16/11/2026) */
 .mov .sole{width:30px;height:30px;border-radius:50%;background:var(--rosso-chiaro);flex:none;align-self:center}
+
+/* ARTICOLO A RIVISTA (prova, 16/11/2026) */
+.a-testa{display:grid;grid-template-columns:minmax(0,6fr) minmax(0,6fr);min-height:640px}
+.a-testa.senza{grid-template-columns:1fr}
+.a-sx{padding:40px 48px 44px;display:flex;flex-direction:column}
+.testata.piccola a{display:flex;align-items:center;gap:14px;color:inherit;text-decoration:none}
+.testata.piccola img{width:96px;height:auto;margin:-10px -6px -10px -12px}
+.testata.piccola span{font:700 34px/.95 'Arvo',serif;color:var(--ink)}
+.testata.piccola .blog{font-size:15px}
+.a-sx .uscita{display:flex;justify-content:space-between;gap:12px;border-top:1px solid var(--ink);margin-top:18px;padding-top:8px;font:500 13px 'Archivo'}
+.a-sx .uscita span:first-child{color:var(--rosso-marca);font-weight:700;text-transform:uppercase;letter-spacing:.05em}
+.a-sx h1{margin:auto 0 0;padding-top:40px;font:400 clamp(40px,4.4vw,64px)/1 'Gloock',serif;letter-spacing:-.01em}
+.a-sx .cat{font:400 20px/1.4 'Source Serif 4';margin:18px 0 0;max-width:40ch}
+.a-sx .firma{margin:16px 0 0;font:500 14px 'Archivo'}
+.a-sx .firma a{color:inherit;text-decoration-color:var(--rosso);text-underline-offset:3px}
+.a-testa .foto{margin:0;position:relative;min-height:100%;background:#2a2a2a}
+.a-testa .foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(1) contrast(1.06);transition:filter .6s}
+.a-testa .foto:hover img{filter:none}
+.a-testa .foto figcaption{position:absolute;left:0;right:0;bottom:0}
+.a-attacco{display:grid;grid-template-columns:minmax(0,8fr) minmax(0,4fr);gap:56px;padding:64px 48px 56px;border-top:8px solid var(--ink)}
+.a-corpo{font:400 19px/1.65 'Source Serif 4';max-width:66ch;min-width:0}
+.a-corpo p{margin:0 0 1.05em}
+.a-corpo a{color:inherit;text-decoration-color:var(--rosso);text-underline-offset:3px}
+.a-corpo h3{font:800 22px/1.2 'Archivo';font-stretch:88%;margin:1.6em 0 .5em}
+.a-corpo img{max-width:100%;height:auto;display:block;margin:1.5em 0}
+.a-corpo ul,.a-corpo ol{padding-left:22px}
+.a-corpo li{margin:.3em 0}
+.a-corpo li::marker{color:var(--rosso);font-weight:700}
+.attacco>p:first-child::first-letter{float:left;font:400 92px/.8 'Gloock',serif;color:var(--rosso);margin:8px 12px 0 0}
+.a-attacco .indice{border-left:1px solid var(--filetto);padding-left:24px;align-self:start;position:sticky;top:16px}
+.a-attacco .indice div{padding:10px 0;border-bottom:1px solid var(--filetto)}
+.a-attacco .indice a{display:grid;grid-template-columns:38px 1fr;gap:8px;align-items:baseline;color:inherit;text-decoration:none;min-height:44px}
+.a-attacco .indice b{font:400 24px/1 'Gloock';color:var(--rosso)}
+.a-attacco .indice span{font:600 14px/1.3 'Archivo'}
+.a-attacco .indice a:hover span{text-decoration:underline;text-decoration-color:var(--rosso)}
+.capitolo{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,8fr);gap:48px;padding:56px 48px;border-top:1px solid var(--ink)}
+.c-sx{align-self:start;position:sticky;top:16px}
+.c-sx .n{font:400 76px/.85 'Gloock';color:var(--rosso)}
+.c-sx h2{margin:14px 0 0;font:800 clamp(24px,2.3vw,32px)/1.12 'Archivo';font-stretch:85%;scroll-margin-top:16px}
+.bq-punto{margin:1.4em 0;border-left:4px solid var(--rosso);padding:0 0 0 16px;font-size:17px;line-height:1.5}
+.bq-punto strong:first-child{display:block;font:700 12px/1.4 'Archivo';text-transform:uppercase;letter-spacing:.06em;color:var(--rosso-marca)}
+.bq-rossa{margin:2em 0;background:var(--rosso);color:var(--ink);padding:36px 32px}
+.bq-rossa p{font:900 clamp(30px,3vw,44px)/1 'Archivo';font-stretch:68%;margin:0}
+.a-corpo table{width:100%;border-collapse:collapse;font:400 16px/1.4 'Source Serif 4';margin:1.6em 0;display:block;overflow-x:auto}
+.a-corpo th{font:700 12px/1.4 'Archivo';text-transform:uppercase;letter-spacing:.04em;text-align:left;border-bottom:2px solid var(--ink);padding:10px 12px}
+.a-corpo td{padding:12px;border-bottom:1px solid var(--filetto);vertical-align:top}
+.a-corpo td:first-child{font:400 22px/1.1 'Gloock';color:var(--rosso)}
+.a-faq h2.q1{font:400 clamp(44px,5.4vw,80px)/.95 'Gloock';margin:12px 0 32px}
+.a-faq .faq-item{border-top:1px solid #444;padding:6px 0}
+.a-faq .faq-item summary{list-style:none;cursor:pointer;padding:14px 0}
+.a-faq .faq-item summary::-webkit-details-marker{display:none}
+.a-faq .faq-item summary h3{display:inline;font:italic 400 26px/1.3 'Source Serif 4';color:var(--carta)}
+.a-faq .faq-item summary::before{content:"+";color:var(--rosso-chiaro);font:400 28px 'Gloock';margin-right:12px}
+.a-faq .faq-item[open] summary::before{content:"–"}
+.a-faq .faq-item p{font:400 18px/1.6 'Source Serif 4';color:#dedad2;max-width:70ch;margin:0 0 16px 32px}
+.a-faq .faq-item a{color:var(--carta);text-decoration-color:var(--rosso-chiaro)}
+@media(max-width:860px){
+  .a-testa{display:flex;flex-direction:column;min-height:0}
+  .a-sx{padding:24px 16px 28px}
+  .a-sx h1{padding-top:24px;font-size:38px}
+  .a-testa .foto{min-height:0;aspect-ratio:4/3}
+  .a-attacco,.capitolo{grid-template-columns:1fr;gap:20px;padding:36px 16px}
+  .a-attacco .indice{position:static;border-left:0;padding-left:0}
+  .c-sx{position:static}
+  .c-sx .n{font-size:56px}
+  .a-corpo{font-size:18px}
+  .a-faq .faq-item p{margin-left:0}
+}
+.a-faq .faq-item summary::before{display:inline-block;width:20px;font-size:32px;color:var(--rosso-chiaro);font-style:normal}
