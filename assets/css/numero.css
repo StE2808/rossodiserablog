@@ -240,3 +240,34 @@ figure figcaption{position:static;padding:8px 12px;background:var(--ink);color:v
 }
 @media print{.azioni,.commenti{display:none}}
 .g-social{flex-wrap:wrap;gap:0 24px}.g-social a{min-width:0}
+
+/* POSTA DEI LETTORI (16/11/2026): i commenti nella lingua della rivista */
+.commenti{display:grid;grid-template-columns:4fr 8fr;gap:48px;padding:64px 48px;border-top:0}
+.commenti[hidden]{display:none}
+.c-testa h2{margin:10px 0 0;font:400 clamp(44px,5vw,72px)/.95 'Gloock',serif;letter-spacing:-.015em}
+.c-testa p{margin:18px 0 0;font:400 19px/1.45 'Source Serif 4';max-width:26ch}
+.commenti #rds-comments{max-width:none;min-width:0}
+.commenti .rds-reactions{gap:0;margin:0 0 28px;border:1px solid var(--ink);display:inline-flex}
+.commenti .rds-react{border:0;border-right:1px solid var(--ink);border-radius:0;background:transparent;padding:0 18px;min-height:48px;font:700 15px 'Archivo';display:inline-flex;align-items:center;gap:8px}
+.commenti .rds-react:last-child{border-right:0}
+.commenti .rds-react span{font:400 22px 'Gloock';color:var(--rosso)}
+.commenti .rds-react:hover{background:#fff}
+.commenti .rds-react.mine{background:var(--ink);color:#fff}
+.commenti .rds-react.mine span{color:var(--rosso-chiaro)}
+.commenti .rds-form{gap:0;margin:0 0 8px;border-top:2px solid var(--ink)}
+.commenti .rds-form input,.commenti .rds-form textarea{border:0;border-bottom:1px solid var(--ink);background:transparent;padding:16px 0;font:400 19px/1.5 'Source Serif 4';color:var(--ink)}
+.commenti .rds-form input::placeholder,.commenti .rds-form textarea::placeholder{color:#77736b;font-style:italic}
+.commenti .rds-form input:focus,.commenti .rds-form textarea:focus{outline:0;border-bottom:2px solid var(--rosso)}
+.commenti .rds-form textarea{min-height:140px}
+.commenti .rds-form .cf-turnstile{margin:18px 0 0}
+.commenti .rds-form button[type=submit]{margin-top:18px;background:var(--ink)}
+.commenti .rds-form button[type=submit]:hover{background:#000;text-decoration:underline}
+.commenti .rds-note{margin:12px 0 0}
+.commenti .rds-list{margin-top:36px}
+.commenti .rds-comment{padding:22px 0;border-top:1px solid var(--filetto)}
+.commenti .rds-meta{font:400 13px 'Archivo';color:var(--grigio);margin-bottom:8px}
+.commenti .rds-meta strong{font:800 14px 'Archivo';text-transform:uppercase;letter-spacing:.05em;color:var(--rosso-marca)}
+.commenti .rds-body{font:400 18px/1.55 'Source Serif 4';max-width:60ch}
+.commenti .rds-children{margin-left:28px;border-left:3px solid var(--rosso);padding-left:20px}
+.commenti .rds-empty{font:italic 19px 'Source Serif 4';color:var(--grigio);border-top:1px solid var(--filetto);padding-top:20px}
+@media(max-width:860px){.commenti{grid-template-columns:1fr;gap:24px;padding:40px 16px}.commenti .rds-react{padding:0 12px}}
