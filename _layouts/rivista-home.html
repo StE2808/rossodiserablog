@@ -8,7 +8,9 @@
 {%- endcomment -%}
 {%- assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
 {%- assign giorni = "domenica,lunedì,martedì,mercoledì,giovedì,venerdì,sabato" | split: "," -%}
-{%- assign n = site.numeri | sort: "date" | last -%}
+{%- comment -%} In copertina l'ultimo numero pubblicato: i numeri in prova solo nella home di prova (audit Codex 16/11, B05). {%- endcomment -%}
+{%- if page.prova -%}{%- assign cand = site.numeri -%}{%- else -%}{%- assign cand = site.numeri | where_exp: "x", "x.prova != true" -%}{%- endif -%}
+{%- assign n = cand | sort: "date" | last -%}
 {%- if n.author == "stefano-vozzi" -%}{%- assign nome_autore = "Stefano Vozzi" -%}{%- elsif n.author == "lino-rialti" -%}{%- assign nome_autore = "Lino Rialti" -%}{%- else -%}{%- assign nome_autore = n.author -%}{%- endif -%}
 {%- assign d_uscita = n.uscita | default: n.date -%}
 {%- assign i_mese = d_uscita | date: "%-m" | minus: 1 -%}
@@ -46,7 +48,7 @@
 <section class="cop">
 <div class="sx">
 <h1 class="testata"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></h1>
-<div class="uscita"><span>Il numero · N. {{ n.numero }}{% if n.tema_breve %} · {{ n.tema_breve }}{% endif %}</span><span><time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
+<div class="uscita"><span>Il numero · N. {{ n.numero }}{% if n.tema_breve %} · {{ n.tema_breve }}{% endif %}</span><span>{% if n.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
 <h2 class="titolo-n"><a href="{{ n.url | relative_url }}">{{ n.title }}</a></h2>
 {% if n.catenaccio %}<div class="cat">{{ n.catenaccio }}</div>{% endif %}
 <p class="firma">di <a href="{{ '/authors/' | append: n.author | append: '/' | relative_url }}" rel="author">{{ nome_autore }}</a></p>
@@ -59,6 +61,8 @@
 {% if n.image %}<figure class="foto"><a href="{{ n.url | relative_url }}" tabindex="-1" aria-hidden="true"><img alt="" fetchpriority="high" src="{{ n.image | relative_url }}"></a>
 {% if n.image_generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif n.image_caption %}<figcaption>{{ n.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
 </section>
+{% else %}
+<section class="cop"><div class="sx"><h1 class="testata"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></h1></div></section>
 {% endif %}
 
 <!-- GLI ARTICOLI, A BLOCCHI, FOTO ALTERNATE -->
