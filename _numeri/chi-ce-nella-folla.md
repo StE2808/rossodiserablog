@@ -108,6 +108,10 @@ movimenti:
             unita: smartphone
             testo: Sono bastati all'artista Simon Weckert, a Berlino nel 2020, per far comparire un ingorgo inesistente su Google Maps.
             fonte: "Fonte: [Tom's Guide](https://tomsguide.com/news/99-smartphones-google-maps-hack), febbraio 2020"
+          - cifra: "100.000"
+            unita: SIM
+            testo: "Sequestrate a New York nel settembre 2025, in più di 300 server nascosti entro 56 km dalla sede ONU durante l'Assemblea generale. Che potessero bloccare la rete cellulare della città è una valutazione del Secret Service, non un fatto accertato."
+            fonte: "Fonte: [CyberScoop](https://cyberscoop.com/secret-service-dismantles-nyc-telecom-threat-un-general-assembly/), settembre 2025; [Wired](https://www.wired.it/article/sim-farm-new-york-cybercriminali-rete-cellulare/)"
           - cifra: "42.000"
             unita: account
             testo: Chiusi da X a luglio 2026 perché rispondevano in automatico con un chatbot. È un dato dichiarato dalla piattaforma.
@@ -116,6 +120,10 @@ movimenti:
             unita: profili
             testo: Hanno pubblicato lo stesso rifiuto di un chatbot sotto un post della Lega, a novembre 2026.
             fonte: "Fonte: [Sky TG24](https://tg24.sky.it/politica/2026/11/14/bot-social-politici-italia), 14 novembre 2026 (da ricontrollare)"
+          - cifra: "148"
+            unita: dollari
+            testo: "Il prezzo scontato di uno «chassis per phone farm» da venti telefoni, in vendita online. Il venditore avverte: «Siamo responsabili solo per l'attrezzatura e non per i progetti specifici che intraprendi»."
+            fonte: "Fonte: [scheda del prodotto](https://some3c.com/it/products/20-slot-acrylic-phone-farm-chassis), novembre 2026"
         limite: "Sono casi singoli o numeri dichiarati dalle piattaforme: raccontano come funziona il meccanismo, non quanto è grande. Quanti siano oggi i commenti finti sui social non lo sa nessuno con certezza."
   - nome: Pensare
     titolo: "Pensare: chi resta, dall'altra parte"
