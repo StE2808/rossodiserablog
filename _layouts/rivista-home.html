@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+{%- comment -%}
+  HOME A RIVISTA (prova, 16/11/2026)
+  In testa la copertina dell'ultimo numero (collezione numeri), sotto gli ultimi articoli
+  a blocchi, foto alternate a sinistra e a destra, in bianco e nero (a colori al passaggio).
+  Stesso stile del numero: /assets/css/numero.css. NB: barra, copertina e gerenza sono
+  copiate da _layouts/numero.html: se cambiano lì, cambiarle anche qui.
+{%- endcomment -%}
+{%- assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
+{%- assign giorni = "domenica,lunedì,martedì,mercoledì,giovedì,venerdì,sabato" | split: "," -%}
+{%- assign n = site.numeri | sort: "date" | last -%}
+{%- if n.author == "stefano-vozzi" -%}{%- assign nome_autore = "Stefano Vozzi" -%}{%- elsif n.author == "lino-rialti" -%}{%- assign nome_autore = "Lino Rialti" -%}{%- else -%}{%- assign nome_autore = n.author -%}{%- endif -%}
+{%- assign d_uscita = n.uscita | default: n.date -%}
+{%- assign i_mese = d_uscita | date: "%-m" | minus: 1 -%}
+{%- assign i_giorno = d_uscita | date: "%w" | plus: 0 -%}
+{%- capture data_estesa -%}{{ giorni[i_giorno] | capitalize }} {{ d_uscita | date: "%-d" }} {{ mesi[i_mese] }} {{ d_uscita | date: "%Y" }}{%- endcapture -%}
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.seo_title | default: page.title }} | Rosso di Sera</title>
+{% if page.prova or page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
+<meta name="google-site-verification" content="gw5Fk6K2XT2ucVmoWb0WBhi5aVtD-iZtugkImmhzbVU" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7QJLYXF81"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q7QJLYXF81');</script>
+{% capture seo_out %}{% seo title=false %}{% endcapture %}
+{% assign seo_out = seo_out | split: '<script type="application/ld+json">' | first %}
+{{ seo_out }}
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Arvo:wght@700&family=Gloock&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/numero.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+{% include identita-sito.html %}
+</head>
+<body><a class="salta" href="#contenuto">Vai al contenuto</a>
+<div class="numero home">
+{% if page.prova %}<p class="prova">Versione di prova della home, non ancora pubblicata</p>{% endif %}
+<nav aria-label="Sito" class="barra">
+<span class="link"><a href="{{ '/chi-siamo/' | relative_url }}">Cos'è</a><a href="{{ '/archivio/' | relative_url }}">Archivio</a><a href="{{ '/autori/' | relative_url }}">Autori</a><a href="{{ '/contatti/' | relative_url }}">Scrivici</a><a href="{{ '/cerca/' | relative_url }}">Cerca</a></span>
+</nav>
+<main id="contenuto">
+
+<!-- IN TESTA: LA COPERTINA DELL'ULTIMO NUMERO -->
+{% if n %}
+<section class="cop">
+<div class="sx">
+<h1 class="testata"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<br>di Sera</span></h1>
+<div class="uscita"><span>Il numero · N. {{ n.numero }}{% if n.tema_breve %} · {{ n.tema_breve }}{% endif %}</span><span><time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
+<h2 class="titolo-n"><a href="{{ n.url | relative_url }}">{{ n.title }}</a></h2>
+{% if n.catenaccio %}<div class="cat">{{ n.catenaccio }}</div>{% endif %}
+<p class="firma">di <a href="{{ '/authors/' | append: n.author | append: '/' | relative_url }}" rel="author">{{ nome_autore }}</a></p>
+{% if n.punto %}<aside aria-label="Il punto" class="punto"><b>Il punto</b><p>{{ n.punto }}</p></aside>{% endif %}
+<div class="somm">
+{% for m in n.movimenti %}<div class="r"><span class="et">{{ m.nome }}</span>{% for s in m.sommario %}<span>{{ s }}</span>{% endfor %}</div>
+{% endfor %}</div>
+<p class="vai"><a class="az-btn rosso" href="{{ n.url | relative_url }}">Leggi il numero</a></p>
+</div>
+{% if n.image %}<figure class="foto"><a href="{{ n.url | relative_url }}" tabindex="-1" aria-hidden="true"><img alt="" fetchpriority="high" src="{{ n.image | relative_url }}"></a>
+{% if n.image_generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif n.image_caption %}<figcaption>{{ n.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
+</section>
+{% endif %}
+
+<!-- GLI ARTICOLI, A BLOCCHI, FOTO ALTERNATE -->
+<div class="mov"><b>§</b><h2>Gli ultimi articoli</h2></div>
+<section class="articoli" aria-label="Ultimi articoli">
+{%- assign quanti = page.quanti | default: 10 -%}
+{%- for p in site.posts limit: quanti -%}
+{%- if p.author == "stefano-vozzi" -%}{%- assign aut = "Stefano Vozzi" -%}{%- elsif p.author == "lino-rialti" -%}{%- assign aut = "Lino Rialti" -%}{%- else -%}{%- assign aut = p.author | replace: "-", " " | capitalize -%}{%- endif -%}
+{%- assign pm = p.date | date: "%-m" | minus: 1 %}
+<article class="art{% cycle '', ' inv' %}{% unless p.image %} senza{% endunless %}">
+{% if p.image %}<figure class="art-foto"><a href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img alt="" loading="lazy" src="{{ p.image | relative_url }}"></a></figure>{% endif %}
+<div class="art-testo">
+<div class="et">{{ p.category | replace: "-", " " | capitalize | replace: "Societa", "Società" }}</div>
+<h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+<p class="sunto">{{ p.excerpt | strip_html | strip_newlines | truncatewords: 48, "…" }}</p>
+<p class="meta">{{ aut }} · <time datetime="{{ p.date | date: '%Y-%m-%d' }}">{{ p.date | date: "%-d" }} {{ mesi[pm] }} {{ p.date | date: "%Y" }}</time></p>
+</div>
+</article>
+{%- endfor %}
+</section>
+<p class="tutti"><a class="az-btn" href="{{ '/archivio/' | relative_url }}">Tutti gli articoli, in archivio</a></p>
+
+<!-- FASCIA: NEWSLETTER, ARCHIVIO, SEGUICI -->
+<section class="azioni" aria-label="Resta in contatto">
+<div class="az-col">
+<div class="az-et">Newsletter</div>
+<form action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" class="rds-nl-form" method="post" target="_blank">
+<label class="az-txt" for="nl-email">Il numero, ogni giovedì, nella tua posta.</label>
+<div class="rds-nl-row">
+<input autocomplete="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" required type="email">
+<button class="rds-nl-btn" type="submit">Iscriviti</button>
+</div>
+<input aria-hidden="true" autocomplete="off" class="rds-nl-hp" name="website" tabindex="-1" type="text">
+<input name="ml-submit" type="hidden" value="1">
+<input name="anticsrf" type="hidden" value="true">
+<p aria-live="polite" class="rds-nl-status" role="status">Niente spam, ti cancelli con un clic.</p>
+</form>
+</div>
+<div class="az-col">
+<div class="az-et">Archivio</div>
+<p class="az-txt">Tutto quello che abbiamo scritto dal 2023, per mese e per tema.</p>
+<a class="az-btn" href="{{ '/archivio/' | relative_url }}">Apri l'archivio</a>
+</div>
+<div class="az-col">
+<div class="az-et">Seguici</div>
+<p class="az-txt">Il numero e gli articoli, anche sui social.</p>
+<div class="az-share"><a class="az-btn" href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a class="az-btn" href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a class="az-btn" href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></div>
+</div>
+</section>
+</main>
+
+<footer class="gerenza">
+<div class="g-col g-cos">
+<div class="g-et">Cos'è</div>
+<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Il giovedì esce un numero dedicato a un tema; ogni giorno escono le rubriche: Politica, Tecnologia, Che bellezza.</p>
+<a href="{{ '/chi-siamo/' | relative_url }}">Chi siamo</a>
+</div>
+<div class="g-col">
+<div class="g-et">Chi scrive</div>
+<a href="{{ '/authors/stefano-vozzi/' | relative_url }}">Stefano Vozzi</a>
+<a href="{{ '/authors/lino-rialti/' | relative_url }}">Lino Rialti</a>
+</div>
+<div class="g-col">
+<div class="g-et">Leggi</div>
+<a href="{{ '/archivio/' | relative_url }}">Archivio</a>
+<a href="{{ '/cerca/' | relative_url }}">Cerca nel sito</a>
+</div>
+<div class="g-col">
+<div class="g-et">Scrivici</div>
+<a href="{{ '/contatti/' | relative_url }}">Contatti</a>
+<span class="g-social"><a href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></span>
+</div>
+<div class="g-fondo"><span>© {{ site.time | date: "%Y" }} Rosso di Sera</span>{% if page.image_generata %}<span>Le illustrazioni di questo numero sono generate, non sono luoghi reali.</span>{% endif %}</div>
+</footer>
+<script>
+(function(){document.querySelectorAll('.rds-nl-form').forEach(function(form){form.addEventListener('submit',function(ev){ev.preventDefault();var st=form.querySelector('.rds-nl-status'),hp=form.querySelector('.rds-nl-hp'),btn=form.querySelector('.rds-nl-btn');if(hp&&hp.value){return;}btn.disabled=true;st.textContent='Invio in corso...';fetch(form.action,{method:'POST',body:new FormData(form)}).then(function(r){return r.json();}).then(function(d){if(d&&d.success){form.querySelector('.rds-nl-row').hidden=true;st.textContent="Quasi fatto! Ti abbiamo inviato un'email di conferma: aprila e clicca il pulsante per completare l'iscrizione.";}else{throw new Error('x');}}).catch(function(){btn.disabled=false;st.textContent='Qualcosa non ha funzionato. Riprova tra poco.';});});});})();
+</script>
+</div>
+</body>
+</html>

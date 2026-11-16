@@ -271,3 +271,40 @@ figure figcaption{position:static;padding:8px 12px;background:var(--ink);color:v
 .commenti .rds-children{margin-left:28px;border-left:3px solid var(--rosso);padding-left:20px}
 .commenti .rds-empty{font:italic 19px 'Source Serif 4';color:var(--grigio);border-top:1px solid var(--filetto);padding-top:20px}
 @media(max-width:860px){.commenti{grid-template-columns:1fr;gap:24px;padding:40px 16px}.commenti .rds-react{padding:0 12px}}
+
+/* HOME A RIVISTA (prova, 16/11/2026) */
+.home .cop h1.testata{margin:0;font-size:inherit;font-weight:inherit}
+.home .cop .titolo-n{margin:40px 0 0;font:400 clamp(44px,4.6vw,66px)/.98 'Gloock',serif;letter-spacing:-.01em}
+.home .cop .titolo-n a{color:inherit;text-decoration:none}
+.home .cop .titolo-n a:hover{text-decoration:underline;text-decoration-color:var(--rosso);text-decoration-thickness:3px;text-underline-offset:6px}
+.home .cop .punto{margin-top:24px}
+.home .cop .vai{margin:20px 0 0}
+.home .cop .foto a{display:contents}
+.az-btn.rosso{background:var(--rosso)}
+.az-btn.rosso:hover{background:var(--rosso-marca)}
+.articoli{border-top:0}
+.art{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);border-bottom:1px solid var(--ink);min-height:360px}
+.art.inv{grid-template-columns:minmax(0,7fr) minmax(0,5fr)}
+.art.inv .art-foto{order:2}
+.art.senza{grid-template-columns:1fr}
+.art-foto{margin:0;position:relative;overflow:hidden;background:#2a2a2a}
+.art-foto img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(1) contrast(1.08);transition:filter .5s ease}
+.art:hover .art-foto img,.art:focus-within .art-foto img{filter:none}
+.art-testo{padding:44px 48px;display:flex;flex-direction:column;justify-content:center;min-width:0}
+.art.senza .art-testo{border-left:8px solid var(--rosso)}
+.art h3{margin:10px 0 16px;font:400 clamp(30px,3.1vw,46px)/1.02 'Gloock',serif;letter-spacing:-.01em}
+.art h3 a{color:var(--ink);text-decoration:none}
+.art h3 a:hover,.art h3 a:focus-visible{text-decoration:underline;text-decoration-color:var(--rosso);text-decoration-thickness:2px;text-underline-offset:5px}
+.art .sunto{margin:0;font-size:18px;line-height:1.55;max-width:56ch}
+.art .meta{margin:18px 0 0;font:500 13px 'Archivo';color:var(--grigio)}
+.tutti{margin:0;padding:32px 48px;text-align:left}
+@media (prefers-reduced-motion:reduce){.art-foto img{transition:none}}
+@media(max-width:860px){
+  .home .cop .vai{order:3;margin:0 16px 32px}
+  .art,.art.inv{grid-template-columns:1fr;min-height:0}
+  .art.inv .art-foto{order:0}
+  .art-foto{aspect-ratio:3/2}
+  .art-testo{padding:28px 16px 32px}
+  .art h3{font-size:30px}
+  .tutti{padding:28px 16px}
+}
