@@ -313,3 +313,4 @@ figure figcaption{position:static;padding:8px 12px;background:var(--ink);color:v
 .testata .blog{display:inline-block;margin-left:.45em;vertical-align:.35em;font:400 clamp(17px,1.8vw,26px)/1 'Rock Salt',cursive;color:var(--rosso);transform:rotate(-8deg);white-space:nowrap;letter-spacing:0}
 .testata>span{white-space:nowrap}
 @media(max-width:860px){.home .cop h1.testata{margin:28px 16px 0}.home .cop .titolo-n{margin:28px 16px 0}}
+html,body{background:#333}  /* sfondo esterno: nero 80% (16/11/2026) */
