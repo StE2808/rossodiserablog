@@ -95,7 +95,7 @@
 {% endfor %}</div>
 </div>
 {% if page.image %}<figure class="foto"><img alt="{{ page.image_alt | escape }}" fetchpriority="high" src="{{ page.image | relative_url }}">
-{% if page.image_generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
+{% if page.image_generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}</figure>{% elsif page.prova %}<figure class="foto ph"><b>Immagine di copertina in arrivo</b></figure>{% endif %}
 </section>
 
 <!-- LEGGI ANCHE: dal front matter, altrimenti gli ultimi quattro articoli -->
@@ -151,14 +151,14 @@
 <hr class="filetto">
 {% if d.sotto %}<div class="sotto">{{ d.sotto }}</div>{% endif %}
 </div>
-{% if d.image %}<figure class="foto-f"><img alt="{{ d.image_alt | escape }}" loading="lazy" src="{{ d.image | relative_url }}">{% if d.generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% endif %}</figure>{% endif %}
+{% if d.image %}<figure class="foto-f"><img alt="{{ d.image_alt | escape }}" loading="lazy" src="{{ d.image | relative_url }}">{% if d.generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% endif %}</figure>{% elsif page.prova %}<figure class="foto-f ph"><b>Immagine in arrivo</b></figure>{% endif %}
 </section>
 {%- elsif d.type == "dati" %}
 {%- assign id_dati = d.titolo | slugify %}
 <section aria-labelledby="{{ id_dati }}" class="dato"><h2 id="{{ id_dati }}">{{ d.titolo }}</h2>
 <div aria-label="{{ d.titolo | escape }}" class="tabella-scroll" role="region" tabindex="0"><table>
 {% if d.didascalia %}<caption>{{ d.didascalia }}</caption>{% endif %}
-<thead><tr><th scope="col">Importo</th><th scope="col">Che cosa misura</th><th scope="col">Fonte</th></tr></thead>
+<thead><tr><th scope="col">{{ d.colonna | default: "Importo" }}</th><th scope="col">Che cosa misura</th><th scope="col">Fonte</th></tr></thead>
 <tbody>
 {%- for r in d.righe %}
 <tr><th scope="row"><span class="cifra">{{ r.cifra }}</span><span class="unita">{{ r.unita }}</span></th><td>{{ r.testo | markdownify | remove: '<p>' | remove: '</p>' }}</td><td><div class="fonte">{{ r.fonte | markdownify | remove: '<p>' | remove: '</p>' }}</div></td></tr>

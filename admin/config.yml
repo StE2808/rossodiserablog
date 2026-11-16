@@ -210,6 +210,7 @@ collections:
                 fields:
                   - { label: "Titolo", name: "titolo", widget: "string" }
                   - { label: "Didascalia", name: "didascalia", widget: "string", hint: "Dove, quando, che unità." }
+                  - { label: "Intestazione prima colonna", name: "colonna", widget: "string", required: false, hint: "Es. Importo, Numero, Anno. Se vuota: Importo." }
                   - label: "Righe"
                     name: "righe"
                     widget: "list"
