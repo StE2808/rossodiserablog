@@ -62,7 +62,7 @@
 {% endif %}
 
 <!-- GLI ARTICOLI, A BLOCCHI, FOTO ALTERNATE -->
-<div class="mov"><b>§</b><h2>Gli ultimi articoli</h2></div>
+<div class="mov"><span class="sole" aria-hidden="true"></span><h2>Gli ultimi articoli</h2></div>
 <section class="articoli" aria-label="Ultimi articoli">
 {%- assign quanti = page.quanti | default: 10 -%}
 {%- for p in site.posts limit: quanti -%}

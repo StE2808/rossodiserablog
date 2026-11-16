@@ -314,3 +314,4 @@ figure figcaption{position:static;padding:8px 12px;background:var(--ink);color:v
 .testata>span{white-space:nowrap}
 @media(max-width:860px){.home .cop h1.testata{margin:28px 16px 0}.home .cop .titolo-n{margin:28px 16px 0}}
 html,body{background:#333}  /* sfondo esterno: nero 80% (16/11/2026) */
+.mov .sole{width:30px;height:30px;border-radius:50%;background:var(--rosso-chiaro);flex:none;align-self:center}
