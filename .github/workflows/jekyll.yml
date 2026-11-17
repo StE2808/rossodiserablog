@@ -4,6 +4,10 @@
     push:
       branches: ["main"]
     workflow_dispatch:
+    # Ogni ora: pubblica gli approfondimenti con «Esce sul sito» acceso e la data arrivata.
+    # Se non c'è niente da pubblicare la build non parte (job «pubblica» qui sotto).
+    schedule:
+      - cron: "7 * * * *"
 
   permissions:
     contents: write
@@ -18,12 +22,38 @@
     cancel-in-progress: false
 
   jobs:
-    build:
+    # Approfondimenti (17/11/2026): dal CMS sono anteprime in _numeri/; arrivata la data
+    # di pubblicazione con «Esce sul sito» acceso, lo script li sposta in _posts/approfondimenti/.
+    pubblica:
       runs-on: ubuntu-latest
       if: github.actor != 'github-actions[bot]'
+      outputs:
+        fatti: ${{ steps.sposta.outputs.fatti }}
       steps:
         - name: Checkout
           uses: actions/checkout@v5
+        - name: Sposta gli approfondimenti arrivati alla data
+          id: sposta
+          run: python3 scripts/pubblica_approfondimenti.py
+        - name: Commit
+          if: steps.sposta.outputs.fatti == '1'
+          run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A _numeri _posts/approfondimenti
+            git commit -m "Pubblica gli approfondimenti arrivati alla data"
+            git pull --rebase origin main
+            git push
+
+    build:
+      needs: pubblica
+      runs-on: ubuntu-latest
+      if: github.actor != 'github-actions[bot]' && (github.event_name != 'schedule' || needs.pubblica.outputs.fatti == '1')
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v5
+          with:
+            ref: main
 
         - name: Setup Ruby
           uses: ruby/setup-ruby@v1

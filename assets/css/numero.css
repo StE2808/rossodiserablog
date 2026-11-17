@@ -387,3 +387,8 @@ html,body{background:#333}  /* sfondo esterno: nero 80% (16/11/2026) */
 .foto.ph,.foto-f.ph{min-height:420px;font:700 13px Archivo;letter-spacing:.06em;text-transform:uppercase;color:#bdbab3}
 .frase .foto-f.intera{background:#111;justify-content:center}.frase .foto-f.intera img{flex:none;aspect-ratio:auto;height:auto;object-fit:contain;margin:auto 0}
 figure figcaption a{color:inherit;text-decoration-color:var(--rosso-chiaro)}
+
+/* Anteprima degli approfondimenti (17/11/2026): fascia con il pulsante Pubblica, che apre la scheda nel CMS */
+.prova.anteprima{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center;align-items:center}
+.prova.anteprima a{background:#fff;color:var(--rosso);padding:8px 16px;min-height:44px;display:inline-flex;align-items:center;text-decoration:none;font-weight:700}
+.prova.anteprima a:focus-visible{outline:2px solid #fff;outline-offset:2px}

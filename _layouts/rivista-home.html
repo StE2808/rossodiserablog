@@ -13,7 +13,7 @@
 {%- if page.prova -%}{%- assign cand = veri | concat: site.numeri -%}{%- else -%}{%- assign cand = veri -%}{%- endif -%}
 {%- assign n = cand | sort: "date" | last -%}
 {%- if n.author == "stefano-vozzi" -%}{%- assign nome_autore = "Stefano Vozzi" -%}{%- elsif n.author == "lino-rialti" -%}{%- assign nome_autore = "Lino Rialti" -%}{%- else -%}{%- assign nome_autore = n.author -%}{%- endif -%}
-{%- assign d_uscita = n.uscita | default: n.date -%}
+{%- assign d_uscita = n.uscita | default: n.data_pubblicazione | default: n.date -%}
 {%- assign i_mese = d_uscita | date: "%-m" | minus: 1 -%}
 {%- assign i_giorno = d_uscita | date: "%w" | plus: 0 -%}
 {%- capture data_estesa -%}{{ giorni[i_giorno] | capitalize }} {{ d_uscita | date: "%-d" }} {{ mesi[i_mese] }} {{ d_uscita | date: "%Y" }}{%- endcapture -%}

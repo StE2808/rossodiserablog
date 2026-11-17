@@ -17,7 +17,7 @@
 {%- assign romani = "I,II,III,IV,V,VI" | split: "," -%}
 {%- assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
 {%- assign giorni = "domenica,lunedì,martedì,mercoledì,giovedì,venerdì,sabato" | split: "," -%}
-{%- assign d_uscita = page.uscita | default: page.date -%}
+{%- assign d_uscita = page.uscita | default: page.data_pubblicazione | default: page.date -%}
 {%- assign i_mese = d_uscita | date: "%-m" | minus: 1 -%}
 {%- assign i_giorno = d_uscita | date: "%w" | plus: 0 -%}
 {%- capture data_estesa -%}{{ giorni[i_giorno] | capitalize }} {{ d_uscita | date: "%-d" }} {{ mesi[i_mese] }} {{ d_uscita | date: "%Y" }}{%- endcapture -%}
@@ -26,7 +26,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ effective_title }} | Rosso di Sera</title>
-{% if page.prova or page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
+{% if page.prova or page.noindex or page.collection == "numeri" %}<meta name="robots" content="noindex, follow">{% endif %}
 <meta name="google-site-verification" content="gw5Fk6K2XT2ucVmoWb0WBhi5aVtD-iZtugkImmhzbVU" />
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7QJLYXF81"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q7QJLYXF81');</script>
@@ -75,7 +75,11 @@
 </head>
 <body><a class="salta" href="#contenuto">Vai al contenuto</a>
 <div class="numero">
-{% if page.prova %}<p class="prova">Versione di prova, non ancora pubblicata</p>{% endif %}
+{%- if page.collection == "numeri" and page.prova != true -%}
+<div class="prova anteprima"><span>Anteprima: la vedi solo tu, Google no.</span>
+{%- if page.pubblica and page.data_pubblicazione %} <span>Esce sul sito il {{ page.data_pubblicazione | date: "%d/%m/%Y alle %H:%M" }}.</span> <a href="{{ '/admin/#/collections/numeri/entries/' | append: page.slug | relative_url }}">Cambia</a>
+{%- else %} <a href="{{ '/admin/#/collections/numeri/entries/' | append: page.slug | relative_url }}">Pubblica</a>{% endif %}</div>
+{%- elsif page.prova -%}<p class="prova">Versione di prova, non ancora pubblicata</p>{%- endif -%}
 <nav aria-label="Sito" class="barra">
 <span class="link"><a href="{{ '/' | relative_url }}">Home</a><a href="{{ '/chi-siamo/' | relative_url }}">Cos'è</a><a href="{{ '/archivio/' | relative_url }}">Archivio</a><a href="{{ '/autori/' | relative_url }}">Autori</a><a href="{{ '/contatti/' | relative_url }}">Scrivici</a><a href="{{ '/cerca/' | relative_url }}">Cerca</a></span>
 </nav>

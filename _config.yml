@@ -28,10 +28,11 @@ timezone: Europe/Rome
 collections:
   authors:
     output: true
-  # Prove nascoste fatte a mano (solo da mostrare): gli approfondimenti veri sono post in _posts/approfondimenti/
+  # Anteprime degli approfondimenti (dal CMS) e prove a mano: noindex, fuori da sitemap e home.
+  # Con «Esce sul sito» e la data arrivata, scripts/pubblica_approfondimenti.py le sposta in _posts/approfondimenti/.
   numeri:
     output: true
-    permalink: /prove/:name/
+    permalink: /anteprima/:name/
 
 # Build settings
 markdown: kramdown
@@ -70,7 +71,6 @@ defaults:
       type: "numeri"
     values:
       layout: "numero"
-      prova: true
       sitemap: false
   - scope:
       path: ""
