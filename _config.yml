@@ -28,9 +28,10 @@ timezone: Europe/Rome
 collections:
   authors:
     output: true
+  # Prove nascoste fatte a mano (solo da mostrare): gli approfondimenti veri sono post in _posts/approfondimenti/
   numeri:
     output: true
-    permalink: /approfondimenti/:name/
+    permalink: /prove/:name/
 
 # Build settings
 markdown: kramdown
@@ -55,6 +56,22 @@ feed:
 
 # Defaults
 defaults:
+  # Approfondimenti (17/11/2026): post veri, quindi entrano da soli in archivio, categorie, feed, ricerca.
+  # In home il più recente sta in copertina finché non esce il successivo (rivista-home.html).
+  - scope:
+      path: "_posts/approfondimenti"
+      type: "posts"
+    values:
+      layout: "numero"
+      approfondimento: true
+      permalink: "/approfondimenti/:title/"
+  - scope:
+      path: ""
+      type: "numeri"
+    values:
+      layout: "numero"
+      prova: true
+      sitemap: false
   - scope:
       path: ""
       type: "posts"

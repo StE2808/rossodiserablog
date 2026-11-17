@@ -111,34 +111,42 @@ collections:
           - numbered-list
           - code
 
-  # GLI APPROFONDIMENTI (ex «numero del giovedì», 16-17/11/2026): un modulo, il layout numero.html impagina da solo.
+  # GLI APPROFONDIMENTI (ex «numero del giovedì», 16-17/11/2026): post veri in _posts/approfondimenti/, layout e indirizzo da _config.yml, bozze protette dall'editorial workflow. Un modulo, il layout numero.html impagina da solo.
   - name: "numeri"
     label: "Approfondimenti"
     label_singular: "Approfondimento"
     description: "Ogni casella finisce in un punto preciso della pagina: [guarda lo schema](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg) (si apre in un'altra scheda)."
-    folder: "_numeri"
+    folder: "_posts/approfondimenti"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "N. {{numero}} · {{title}}"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "numero" }
-      - { label: "Versione di prova", name: "prova", widget: "boolean", default: true, hint: "Acceso: la pagina è online ma nascosta a Google, con la fascia «Versione di prova». Spegnerlo solo quando il numero esce davvero." }
-      - { label: "Nella sitemap", name: "sitemap", widget: "boolean", default: false, required: false, hint: "Spento finché è una prova. Acceso quando il numero esce davvero, insieme a «Versione di prova» spento." }
       - { label: "Numero", name: "numero", widget: "number", value_type: "int", required: true }
       - { label: "Tema in breve", name: "tema_breve", widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
       - { label: "Titolo (meglio una domanda)", name: "title", widget: "string", hint: "Dove va ogni casella: [schema della pagina](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg)" }
       - { label: "Titolo SEO", name: "seo_title", widget: "string", required: false, hint: "Max 60 caratteri, le parole che la gente cerca." }
       - { label: "Meta description", name: "description", widget: "text", hint: "120-155 caratteri." }
       - { label: "Parola chiave principale", name: "focus_keyword", widget: "string", required: false }
-      - { label: "Data di messa online", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", hint: "Mai nel futuro: Jekyll non pubblica le date future." }
-      - { label: "Data d'uscita", name: "uscita", widget: "datetime", format: "YYYY-MM-DD", time_format: false, required: false, hint: "La data che si legge in copertina. Se vuota, vale la data di messa online." }
-      - { label: "Scrivi «Uscita prevista»", name: "uscita_prevista", widget: "boolean", default: false, required: false }
+      - { label: "Data di messa online", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", hint: "Mai nel futuro: Jekyll non pubblica le date future. È la data che si legge in copertina." }
       - label: "Autore"
         name: "author"
         widget: "select"
         options:
           - { label: "Lino Rialti", value: "lino-rialti" }
           - { label: "Stefano Vozzi", value: "stefano-vozzi" }
+      - label: "Categoria"
+        name: "category"
+        widget: "select"
+        hint: "L'argomento: l'approfondimento compare anche lì, oltre che in copertina e fra gli arretrati."
+        options:
+          - { label: "Politica italiana", value: "politica-interna" }
+          - { label: "Esteri", value: "politica-estera" }
+          - { label: "Società e diritti", value: "societa" }
+          - { label: "Opinioni", value: "opinioni-editoriali" }
+          - { label: "Scienza, tecnologia e ambiente", value: "scienza-tecnologia" }
+          - { label: "Cultura", value: "cultura-spettacolo" }
+          - { label: "Economia", value: "economia-finanza" }
       - { label: "Catenaccio", name: "catenaccio", widget: "text", hint: "Una o due frasi sotto il titolo." }
       - { label: "Il punto", name: "punto", widget: "text", hint: "25-50 parole: la tesi del numero detta in chiaro. Serve a Google e alle IA." }
       - { label: "Foto di copertina", name: "image", widget: "image", hint: "La seconda foto non sta qui: si mette dentro Movimenti › (il movimento) › Dopo i blocchi › Frase rossa › Foto accanto. Nel numero sul racket è nel primo movimento, Capire." }
@@ -150,9 +158,8 @@ collections:
         widget: "list"
         required: false
         max: 4
-        hint: "Fino a quattro pezzi delle rubriche. Se vuoto, escono gli ultimi quattro articoli."
+        hint: "Fino a quattro articoli. La categoria si mette da sola. Se vuoto, escono gli ultimi quattro articoli."
         fields:
-          - { label: "Rubrica", name: "rubrica", widget: "select", options: ["Politica", "Tecnologia", "Che bellezza"] }
           - { label: "Titolo", name: "titolo", widget: "string" }
           - { label: "Indirizzo", name: "url", widget: "string", hint: "Es. /la-strana-parabola-della-silicon-valley/" }
       - label: "Il tema (apertura)"

@@ -71,7 +71,7 @@ layout: default
                 <h3 class="article-title">
                     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 </h3>
-                <p class="article-excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+                <p class="article-excerpt">{% if post.approfondimento %}{{ post.punto | default: post.description | truncate: 150 }}{% else %}{{ post.excerpt | strip_html | truncate: 150 }}{% endif %}</p>
                 {% if post.tags.size > 0 %}
                 <div class="article-tags">
                     {% for tag in post.tags limit:3 %}

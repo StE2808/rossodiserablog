@@ -8,8 +8,9 @@
 {%- endcomment -%}
 {%- assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
 {%- assign giorni = "domenica,lunedì,martedì,mercoledì,giovedì,venerdì,sabato" | split: "," -%}
-{%- comment -%} In copertina l'ultimo numero pubblicato: i numeri in prova solo nella home di prova (audit Codex 16/11, B05). {%- endcomment -%}
-{%- if page.prova -%}{%- assign cand = site.numeri -%}{%- else -%}{%- assign cand = site.numeri | where_exp: "x", "x.prova != true" -%}{%- endif -%}
+{%- comment -%} In copertina l'ultimo approfondimento pubblicato: resta lì finché non esce il successivo, poi scende nel flusso (17/11/2026). Le prove di _numeri solo nella home di prova. {%- endcomment -%}
+{%- assign veri = site.posts | where: "approfondimento", true -%}
+{%- if page.prova -%}{%- assign cand = veri | concat: site.numeri -%}{%- else -%}{%- assign cand = veri -%}{%- endif -%}
 {%- assign n = cand | sort: "date" | last -%}
 {%- if n.author == "stefano-vozzi" -%}{%- assign nome_autore = "Stefano Vozzi" -%}{%- elsif n.author == "lino-rialti" -%}{%- assign nome_autore = "Lino Rialti" -%}{%- else -%}{%- assign nome_autore = n.author -%}{%- endif -%}
 {%- assign d_uscita = n.uscita | default: n.date -%}
@@ -69,15 +70,16 @@
 <div class="mov"><span class="sole" aria-hidden="true"></span><h2>Gli ultimi articoli</h2></div>
 <section class="articoli" aria-label="Ultimi articoli">
 {%- assign quanti = page.quanti | default: 10 -%}
-{%- for p in site.posts limit: quanti -%}
+{%- assign flusso = site.posts | where_exp: "x", "x.url != n.url" -%}
+{%- for p in flusso limit: quanti -%}
 {%- if p.author == "stefano-vozzi" -%}{%- assign aut = "Stefano Vozzi" -%}{%- elsif p.author == "lino-rialti" -%}{%- assign aut = "Lino Rialti" -%}{%- else -%}{%- assign aut = p.author | replace: "-", " " | capitalize -%}{%- endif -%}
 {%- assign pm = p.date | date: "%-m" | minus: 1 %}
 <article class="art{% cycle '', ' inv' %}{% unless p.image %} senza{% endunless %}">
 {% if p.image %}<figure class="art-foto"><a href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img alt="" loading="lazy" src="{{ p.image | relative_url }}"></a></figure>{% endif %}
 <div class="art-testo">
-<div class="et">{{ site.data.categorie[p.category].nome | default: p.category }}</div>
+<div class="et">{% if p.approfondimento %}Approfondimento · N. {{ p.numero }}{% else %}{{ site.data.categorie[p.category].nome | default: p.category }}{% endif %}</div>
 <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-<p class="sunto">{{ p.excerpt | strip_html | strip_newlines | truncatewords: 48, "…" }}</p>
+<p class="sunto">{% if p.approfondimento %}{{ p.punto | default: p.description }}{% else %}{{ p.excerpt | strip_html | strip_newlines | truncatewords: 48, "…" }}{% endif %}</p>
 <p class="meta">{{ aut }} · <time datetime="{{ p.date | date: '%Y-%m-%d' }}">{{ p.date | date: "%-d" }} {{ mesi[pm] }} {{ p.date | date: "%Y" }}</time></p>
 </div>
 </article>
