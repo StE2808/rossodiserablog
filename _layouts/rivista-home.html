@@ -48,7 +48,7 @@
 <section class="cop">
 <div class="sx">
 <h1 class="testata"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></h1>
-<div class="uscita"><span>Il numero · N. {{ n.numero }}{% if n.tema_breve %} · {{ n.tema_breve }}{% endif %}</span><span>{% if n.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
+<div class="uscita"><span>Approfondimento · N. {{ n.numero }}{% if n.tema_breve %} · {{ n.tema_breve }}{% endif %}</span><span>{% if n.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
 <h2 class="titolo-n"><a href="{{ n.url | relative_url }}">{{ n.title }}</a></h2>
 {% if n.catenaccio %}<div class="cat">{{ n.catenaccio }}</div>{% endif %}
 <p class="firma">di <a href="{{ '/authors/' | append: n.author | append: '/' | relative_url }}" rel="author">{{ nome_autore }}</a></p>
@@ -56,7 +56,7 @@
 <div class="somm">
 {% for m in n.movimenti %}<div class="r"><span class="et">{{ m.nome }}</span>{% for s in m.sommario %}<span>{{ s }}</span>{% endfor %}</div>
 {% endfor %}</div>
-<p class="vai"><a class="az-btn rosso" href="{{ n.url | relative_url }}">Leggi il numero</a></p>
+<p class="vai"><a class="az-btn rosso" href="{{ n.url | relative_url }}">Leggi l'approfondimento</a></p>
 </div>
 {% if n.image %}<figure class="foto"><a href="{{ n.url | relative_url }}" tabindex="-1" aria-hidden="true"><img alt="" fetchpriority="high" src="{{ n.image | relative_url }}"></a>
 {% if n.image_generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif n.image_caption %}<figcaption>{{ n.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
@@ -90,7 +90,7 @@
 <div class="az-col">
 <div class="az-et">Newsletter</div>
 <form action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" class="rds-nl-form" method="post" target="_blank">
-<label class="az-txt" for="nl-email">Il numero, ogni giovedì, nella tua posta.</label>
+<label class="az-txt" for="nl-email">Gli approfondimenti, nella tua posta.</label>
 <div class="rds-nl-row">
 <input autocomplete="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" required type="email">
 <button class="rds-nl-btn" type="submit">Iscriviti</button>
@@ -108,7 +108,7 @@
 </div>
 <div class="az-col">
 <div class="az-et">Seguici</div>
-<p class="az-txt">Il numero e gli articoli, anche sui social.</p>
+<p class="az-txt">Gli approfondimenti e gli articoli, anche sui social.</p>
 <div class="az-share"><a class="az-btn" href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a class="az-btn" href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a class="az-btn" href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></div>
 </div>
 </section>
@@ -117,7 +117,7 @@
 <footer class="gerenza">
 <div class="g-col g-cos">
 <div class="g-et">Cos'è</div>
-<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Il giovedì esce un numero dedicato a un tema; ogni giorno escono le rubriche: Politica, Tecnologia, Che bellezza.</p>
+<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Negli approfondimenti un tema scavato a fondo; ogni giorno le rubriche: Politica, Tecnologia, Che bellezza.</p>
 <a href="{{ '/chi-siamo/' | relative_url }}">Chi siamo</a>
 </div>
 <div class="g-col">
@@ -135,7 +135,7 @@
 <a href="{{ '/contatti/' | relative_url }}">Contatti</a>
 <span class="g-social"><a href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></span>
 </div>
-<div class="g-fondo"><span>© {{ site.time | date: "%Y" }} Rosso di Sera</span>{% if page.image_generata %}<span>Le illustrazioni di questo numero sono generate, non sono luoghi reali.</span>{% endif %}</div>
+<div class="g-fondo"><span>© {{ site.time | date: "%Y" }} Rosso di Sera</span>{% if page.image_generata %}<span>Le illustrazioni di questa pagina sono generate, non sono luoghi reali.</span>{% endif %}</div>
 </footer>
 <script>
 (function(){document.querySelectorAll('.rds-nl-form').forEach(function(form){form.addEventListener('submit',function(ev){ev.preventDefault();var st=form.querySelector('.rds-nl-status'),hp=form.querySelector('.rds-nl-hp'),btn=form.querySelector('.rds-nl-btn');if(hp&&hp.value){return;}btn.disabled=true;st.textContent='Invio in corso...';fetch(form.action,{method:'POST',body:new FormData(form)}).then(function(r){return r.json();}).then(function(d){if(d&&d.success){form.querySelector('.rds-nl-row').hidden=true;st.textContent="Quasi fatto! Ti abbiamo inviato un'email di conferma: aprila e clicca il pulsante per completare l'iscrizione.";}else{throw new Error('x');}}).catch(function(){btn.disabled=false;st.textContent='Qualcosa non ha funzionato. Riprova tra poco.';});});});})();

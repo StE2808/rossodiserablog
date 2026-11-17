@@ -30,7 +30,7 @@ collections:
     output: true
   numeri:
     output: true
-    permalink: /numeri/:name/
+    permalink: /approfondimenti/:name/
 
 # Build settings
 markdown: kramdown

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 {%- comment -%}
-  IL NUMERO DEL GIOVEDÌ (modello, 16/11/2026)
+  L'APPROFONDIMENTO (ex «numero del giovedì», modello 16/11/2026; nome cambiato il 17/11: il giovedì resta una regola interna, niente cadenza promessa)
   Impagina un numero a blocchi dal front matter: niente HTML a mano.
   Ordine fisso: copertina (con «Il punto»), «Leggi anche», tema, i movimenti
   (blocchi numerati in automatico, poi gli inserti «dopo»: frase rossa o tabella dati),
@@ -9,7 +9,7 @@
   - prova: true  → noindex e una fascia «Versione di prova» in cima.
   - uscita_prevista: true → «Uscita prevista:» davanti alla data.
   - uscita: data mostrata in copertina (se manca, date). Jekyll non pubblica le date future:
-    date = giorno in cui si mette online, uscita = il giovedì.
+    date = giorno in cui si mette online, uscita = la data mostrata in copertina.
   Stile in /assets/css/numero.css. Linee guida: Obsidian, Rosso di Sera/RossoDiSera_epifania/Linee-guida-format.md
 {%- endcomment -%}
 {%- if page.seo_title and page.seo_title != "" -%}{%- assign effective_title = page.seo_title -%}{%- else -%}{%- assign effective_title = page.title -%}{%- endif -%}
@@ -85,7 +85,7 @@
 <section class="cop">
 <div class="sx">
 <p class="testata"><img alt="Logo di Rosso di Sera: un sole rosso con un albero e un uccellino" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></p>
-<div class="uscita"><span>N. {{ page.numero }}{% if page.tema_breve %} · {{ page.tema_breve }}{% endif %}</span><span>{% if page.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
+<div class="uscita"><span>Approfondimento · N. {{ page.numero }}{% if page.tema_breve %} · {{ page.tema_breve }}{% endif %}</span><span>{% if page.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
 <h1>{{ page.title }}</h1>
 {% if page.catenaccio %}<div class="cat">{{ page.catenaccio }}</div>{% endif %}
 <p class="firma">di <a href="{{ '/authors/' | append: page.author | append: '/' | relative_url }}" rel="author">{{ nome_autore }}</a></p>
@@ -183,7 +183,7 @@
 <div class="az-col">
 <div class="az-et">Newsletter</div>
 <form action="https://assets.mailerlite.com/jsonp/2497131/forms/194685494634742919/subscribe" class="rds-nl-form" method="post" target="_blank">
-<label class="az-txt" for="nl-email">Il numero, ogni giovedì, nella tua posta.</label>
+<label class="az-txt" for="nl-email">Gli approfondimenti, nella tua posta.</label>
 <div class="rds-nl-row">
 <input autocomplete="email" id="nl-email" name="fields[email]" placeholder="la-tua@email.it" required type="email">
 <button class="rds-nl-btn" type="submit">Iscriviti</button>
@@ -230,7 +230,7 @@
 <footer class="gerenza">
 <div class="g-col g-cos">
 <div class="g-et">Cos'è</div>
-<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Il giovedì esce un numero dedicato a un tema; ogni giorno escono le rubriche: Politica, Tecnologia, Che bellezza.</p>
+<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Negli approfondimenti un tema scavato a fondo; ogni giorno le rubriche: Politica, Tecnologia, Che bellezza.</p>
 <a href="{{ '/chi-siamo/' | relative_url }}">Chi siamo</a>
 </div>
 <div class="g-col">
@@ -248,7 +248,7 @@
 <a href="{{ '/contatti/' | relative_url }}">Contatti</a>
 <span class="g-social"><a href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></span>
 </div>
-<div class="g-fondo"><span>© {{ page.date | date: "%Y" }} Rosso di Sera</span>{% if page.image_generata %}<span>Le illustrazioni di questo numero sono generate, non sono luoghi reali.</span>{% endif %}</div>
+<div class="g-fondo"><span>© {{ page.date | date: "%Y" }} Rosso di Sera</span>{% if page.image_generata %}<span>Le illustrazioni di questa pagina sono generate, non sono luoghi reali.</span>{% endif %}</div>
 </footer>
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 <script src="{{ '/assets/js/comments.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>

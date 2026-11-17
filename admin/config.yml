@@ -119,10 +119,10 @@ collections:
           - numbered-list
           - code
 
-  # IL NUMERO DEL GIOVEDÌ (16/11/2026): un modulo, il layout numero.html impagina da solo.
+  # GLI APPROFONDIMENTI (ex «numero del giovedì», 16-17/11/2026): un modulo, il layout numero.html impagina da solo.
   - name: "numeri"
-    label: "Numeri del giovedì"
-    label_singular: "Numero"
+    label: "Approfondimenti"
+    label_singular: "Approfondimento"
     description: "Ogni casella finisce in un punto preciso della pagina: [guarda lo schema](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg) (si apre in un'altra scheda)."
     folder: "_numeri"
     create: true
@@ -139,7 +139,7 @@ collections:
       - { label: "Meta description", name: "description", widget: "text", hint: "120-155 caratteri." }
       - { label: "Parola chiave principale", name: "focus_keyword", widget: "string", required: false }
       - { label: "Data di messa online", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", hint: "Mai nel futuro: Jekyll non pubblica le date future." }
-      - { label: "Giovedì d'uscita", name: "uscita", widget: "datetime", format: "YYYY-MM-DD", time_format: false, required: false, hint: "La data che si legge in copertina. Se vuota, vale la data di messa online." }
+      - { label: "Data d'uscita", name: "uscita", widget: "datetime", format: "YYYY-MM-DD", time_format: false, required: false, hint: "La data che si legge in copertina. Se vuota, vale la data di messa online." }
       - { label: "Scrivi «Uscita prevista»", name: "uscita_prevista", widget: "boolean", default: false, required: false }
       - label: "Autore"
         name: "author"
