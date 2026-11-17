@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/11/shengjin_wpwtr16.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Un paio di giorni fa il coup de theatre: dal cilindro dell'illusionista capo, la nostra Maggica Giorgia, è uscito un coniglio dalla forma di protocollo..."
-category: diritti-umani
+category: societa
 tags: ["accordo", "albania", "edi rama", "Gjader", "immigrazione", "Meloni", "PD", "Shengjin", "Shlein"]
 ---
 Un paio di giorni fa il coup de theatre: dal cilindro dell'illusionista capo, la nostra *Maggica* Giorgia, è uscito un coniglio dalla forma di protocollo con l'Albania sulla gestione dei migranti. E' stata magia pura.

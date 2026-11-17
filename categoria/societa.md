@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Società
+title: Società e diritti
 category_slug: societa
-description: Costume, tendenze sociali e vita quotidiana
+description: "Diritti umani, migranti, sanità, lavoro e i fenomeni sociali che cambiano l'Italia."
 permalink: /categoria/societa/
 ---

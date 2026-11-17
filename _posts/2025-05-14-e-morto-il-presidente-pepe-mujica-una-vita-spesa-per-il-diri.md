@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2025/05/img_6433-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Morto a 89 anni Pepe Mujica, ex presidente dell'Uruguay: ex guerrigliero, viveva in una casa colonica e donava il 90% dello stipendio in beneficenza."
-category: cronaca-bianca
+category: societa
 tags: ["diritti", "Etica", "felicit\u00e0", "giustizia", "Jos\u00e9", "Mujica", "politica", "sociale", "societ\u00e0", "Solidariet\u00e0", "Uruguay"]
 seo_title: "Morto Pepe Mujica, il presidente del diritto a essere felici"
 focus_keyword: "Pepe Mujica"

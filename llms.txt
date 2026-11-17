@@ -15,14 +15,13 @@ Blog editoriale italiano di politica, società e cultura. Pubblica analisi criti
 
 ## Temi principali
 
-- **Politica interna italiana** ({{ site.categories['politica-interna'] | size }} articoli): governo Meloni, giustizia, scuola, welfare, diritti
-- **Opinioni editoriali** ({{ site.categories['opinioni-editoriali'] | size }} articoli): analisi e commenti su attualità
-- **Politica estera** ({{ site.categories['politica-estera'] | size }} articoli): USA, geopolitica, imperialismo, Ucraina, Medio Oriente
-- **Società** ({{ site.categories['societa'] | size }} articoli): fenomeni sociali, psicologia collettiva, critica culturale
-- **Diritti umani** ({{ site.categories['diritti-umani'] | size }} articoli): migranti, discriminazione, aporofobia, fine vita
-- **Ambiente** ({{ site.categories['ambiente'] | size }} articoli): clima, energie rinnovabili, politiche ambientali
-- **Cultura e spettacolo** ({{ site.categories['cultura-spettacolo'] | size }} articoli): arte, musica, libri, critica culturale
-- **Scienza e tecnologia** ({{ site.categories['scienza-tecnologia'] | size }} articoli): etica dell'AI, accelerazione tecnologica, sorveglianza predittiva, accesso alla conoscenza
+- **Politica italiana** ({{ site.categories['politica-interna'] | size }} articoli): governo Meloni, giustizia, scuola, welfare, storia della Repubblica
+- **Esteri** ({{ site.categories['politica-estera'] | size }} articoli): USA, geopolitica, imperialismo, Ucraina, Medio Oriente
+- **Società e diritti** ({{ site.categories['societa'] | size }} articoli): diritti umani, migranti, sanità, fine vita, fenomeni sociali
+- **Opinioni** ({{ site.categories['opinioni-editoriali'] | size }} articoli): commenti ed editoriali sull'attualità
+- **Scienza, tecnologia e ambiente** ({{ site.categories['scienza-tecnologia'] | size }} articoli): etica dell'IA, sorveglianza, clima, energie rinnovabili
+- **Cultura** ({{ site.categories['cultura-spettacolo'] | size }} articoli): libri, arte, musica, filosofia, critica culturale
+- **Economia** ({{ site.categories['economia-finanza'] | size }} articoli): soldi, lavoro, banche
 
 ## Articoli chiave: filosofia politica e democrazia
 
@@ -92,10 +91,9 @@ Questa sezione si aggiorna da sola a ogni pubblicazione. Ultimo aggiornamento: {
 ## Categorie (link diretti)
 
 - https://rossodiserablog.it/categoria/politica-interna/
-- https://rossodiserablog.it/categoria/opinioni-editoriali/
 - https://rossodiserablog.it/categoria/politica-estera/
 - https://rossodiserablog.it/categoria/societa/
-- https://rossodiserablog.it/categoria/diritti-umani/
-- https://rossodiserablog.it/categoria/ambiente/
-- https://rossodiserablog.it/categoria/cultura-spettacolo/
+- https://rossodiserablog.it/categoria/opinioni-editoriali/
 - https://rossodiserablog.it/categoria/scienza-tecnologia/
+- https://rossodiserablog.it/categoria/cultura-spettacolo/
+- https://rossodiserablog.it/categoria/economia-finanza/

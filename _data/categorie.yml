@@ -1,0 +1,22 @@
+# Le 7 categorie del blog (sfoltite il 17/11/2026 da 15). Nome visibile e descrizione: li leggono i layout.
+politica-interna:
+  nome: "Politica italiana"
+  descrizione: "Governo, Parlamento, giustizia, scuola e welfare: la politica italiana letta con occhio critico."
+politica-estera:
+  nome: "Esteri"
+  descrizione: "Geopolitica, Stati Uniti, Europa, guerre e potere globale."
+societa:
+  nome: "Società e diritti"
+  descrizione: "Diritti umani, migranti, sanità, lavoro e i fenomeni sociali che cambiano l'Italia."
+opinioni-editoriali:
+  nome: "Opinioni"
+  descrizione: "Commenti ed editoriali sull'attualità."
+scienza-tecnologia:
+  nome: "Scienza, tecnologia e ambiente"
+  descrizione: "Intelligenza artificiale, sorveglianza, scienza, clima ed energia."
+cultura-spettacolo:
+  nome: "Cultura"
+  descrizione: "Libri, arte, musica, filosofia e critica culturale."
+economia-finanza:
+  nome: "Economia"
+  descrizione: "Soldi, lavoro, banche e chi incassa."

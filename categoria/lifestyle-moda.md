@@ -1,7 +1,6 @@
 ---
-layout: category
-title: Lifestyle e Moda
-category_slug: lifestyle-moda
-description: Tendenze, benessere e stili di vita
+layout: rimando
 permalink: /categoria/lifestyle-moda/
+rimando: /categoria/cultura-spettacolo/
+sitemap: false
 ---

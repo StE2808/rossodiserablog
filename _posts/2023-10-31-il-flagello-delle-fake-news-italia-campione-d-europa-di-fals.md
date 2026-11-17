@@ -10,7 +10,7 @@ description: "L'Italia prima in Europa per fake news: 45.000 post falsi rimossi 
 seo_title: "Fake news Italia: campioni europei di disinformazione"
 focus_keyword: fake news Italia
 excerpt: "Nel primo semestre 2023, Meta ha rimosso più contenuti falsi dall'Italia che da qualsiasi altro paese europeo: 45.000 post su Facebook, 1.900 su Instagram. Il 76,5% degli italiani fatica a distinguere le fake news. Un'emergenza democratica."
-category: cronaca-bianca
+category: societa
 tags: ["Collaborazione Inter-Piattaforma", "Disinformazione", "Facebook", "Fact-Checking", "Fake News", "Finti Account", "Fonti Affidabili", "Impegno degli Utenti", "Instagram", "Meta", "Social Media", "Tecnologie di Rilevamento", "Verifica dell\u2019Identit\u00e0"]
 ---
 In un'epoca dominata dall'informazione digitale, l'Italia si trova a fronteggiare un nemico insidioso e pervasivo: le fake news. Recentemente, il Paese ha guadagnato l'infausto primato in Europa per il numero di contenuti falsi rimossi da Facebook e Instagram nel primo semestre del 2023, con un totale di 45.000 post su Facebook e 1.900 su Instagram eliminati da Meta, la società madre delle suddette piattaforme.

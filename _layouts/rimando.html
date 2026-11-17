@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="it"><head><meta charset="utf-8">
+{%- comment -%} Rimando permanente per indirizzi tolti (categorie sfoltite il 17/11/2026). GitHub Pages non fa 301: canonical + refresh + noindex. {%- endcomment -%}
+<title>Pagina spostata · {{ site.title }}</title>
+<link rel="canonical" href="{{ page.rimando | absolute_url }}">
+<meta name="robots" content="noindex, follow">
+<meta http-equiv="refresh" content="0; url={{ page.rimando | relative_url }}">
+<script>location.replace("{{ page.rimando | relative_url }}");</script>
+</head><body><p>Questa pagina si è spostata: <a href="{{ page.rimando | relative_url }}">vai qui</a>.</p></body></html>

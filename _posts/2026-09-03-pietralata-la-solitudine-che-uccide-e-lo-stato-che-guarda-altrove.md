@@ -5,7 +5,7 @@ seo_title: 'Pietralata: la strage familiare e il welfare che manca'
 description: A Pietralata muore un'intera famiglia. I biglietti d'addio raccontano la solitudine di chi accudisce una figlia con disabilità grave senza sostegno.
 date: 2026-09-03 09:19:00 +0200
 author: lino-rialti
-category: cronaca-nera
+category: societa
 tags:
   - disabilità grave
   - caregiver familiari

@@ -5,7 +5,7 @@ seo_title: "Disastro di Seveso: 50 anni dalla nube tossica"
 description: "Il disastro di Seveso, 50 anni dopo: la nube di diossina, la direttiva europea che ne nacque e i rischi ancora aperti dei cantieri Pedemontana."
 date: 2026-07-09 09:58:00 +0200
 author: lino-rialti
-category: ambiente
+category: scienza-tecnologia
 tags:
   - '#DisastroDiSeveso'
   - '#Seveso50'

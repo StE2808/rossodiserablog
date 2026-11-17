@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/12/articolo_cop28.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Con questa COP ci siamo, probabilmente, giocati il futuro. No, non è una bella notizia"
-category: ambiente
+category: scienza-tecnologia
 tags: ["ambientalisti", "climatica", "COP28", "crisi", "gas", "impatti climatici", "impatto ambientale", "metano", "nucleare", "petrolio", "sultan al jaber", "UAE"]
 ---
 Con questa COP ci siamo, probabilmente, giocati il futuro. No, non è una bella notizia. E' stata persino trovata la quadra tra tutti i partecipanti per la risoluzione conclusiva che è stata approvata con un giorno d'anticipo.

@@ -19,7 +19,7 @@ layout: default
             {% if post.image %}
             <div class="article-image">
                 <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}">
-                <span class="article-category">{{ post.category | replace: "-", " " | capitalize }}</span>
+                <span class="article-category">{{ site.data.categorie[post.category].nome | default: post.category }}</span>
             </div>
             {% endif %}
             <div class="article-content">

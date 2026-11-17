@@ -6,7 +6,7 @@ description: 'Bourdieu spiega perché ogni scelta di moda è un atto di classe: 
 date: 2026-05-20 14:52:00 +0200
 last_modified_at: 2026-05-22 09:20:43 +0200
 author: lino-rialti
-category: lifestyle-moda
+category: cultura-spettacolo
 tags:
   - Bourdieu
   - moda

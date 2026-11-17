@@ -1,7 +1,6 @@
 ---
-layout: category
-title: Cronaca Bianca
-category_slug: cronaca-bianca
-description: Notizie e attualità quotidiana
+layout: rimando
 permalink: /categoria/cronaca-bianca/
+rimando: /categoria/societa/
+sitemap: false
 ---

@@ -10,7 +10,7 @@ description: "Il cambiamento climatico aumenta i prezzi di caffè, tonno e ciocc
 seo_title: "Cambiamento climatico e prezzi alimentari: cosa cambia"
 focus_keyword: cambiamento climatico prezzi alimentari
 excerpt: "Il cambiamento climatico sta già aumentando i prezzi di caffè, tonno e cioccolato. Il 23% dei nostri cibi preferiti proviene da paesi devastati da siccità e inondazioni. Un allarme che colpisce direttamente la tavola italiana."
-category: ambiente
+category: scienza-tecnologia
 tags: ["Argentina", "aumento dei prezzi alimentari", "Brasile", "caff\u00e8", "cambiamento climatico", "Colombia", "Costa d'Avorio", "cultura tradizionale", "Ecuador", "impatti climatici", "India", "investimenti per il clima", "paesi vulnerabili", "stile di vita", "tonno", "Uganda", "Vietnam"]
 ---
 **Il cambiamento climatico** non è solo una minaccia per il pianeta, ma sta colpendo direttamente il nostro budget e la tavola italiana. **Dall'amato caffè alle deliziose banane, dal tonno in scatola al cioccolato,** il 23% dei nostri cibi preferiti è destinato a costarci di più. La ragione? Paesi in via di sviluppo, da cui provengono molti dei nostri prodotti, stanno subendo le conseguenze disastrose della siccità, del caldo e delle inondazioni causate dal cambiamento climatico. Brasile, Vietnam, Ecuador, India, Argentina, Uganda e Colombia, sette dei nostri principali partner commerciali, sono tra i più colpiti.

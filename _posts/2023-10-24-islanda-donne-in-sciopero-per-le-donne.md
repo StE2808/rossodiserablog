@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/10/1447231.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Oggi è un giorno particolare in Islanda, un giorno in cui solo le donne scioperano per le donne. Infatti in tutto lo Stato le donne si stanno astenendo..."
-category: cronaca-bianca
+category: societa
 tags: ["donne", "Kallar\u00f0u \u00feetta jafnr\u00e9tti", "sciopero"]
 ---
 Oggi è un giorno particolare in Islanda, un giorno in cui solo le donne scioperano per le donne. 

@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Politica Estera
+title: Esteri
 category_slug: politica-estera
-description: Scenari internazionali e geopolitica
+description: "Geopolitica, Stati Uniti, Europa, guerre e potere globale."
 permalink: /categoria/politica-estera/
 ---

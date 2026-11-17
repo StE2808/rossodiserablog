@@ -46,7 +46,7 @@ layout: default
 </script>
     <header class="post-header">
         {% if page.category %}
-        <a href="{{ '/categoria/' | append: page.category | relative_url }}" class="post-category">{{ page.category | replace: "-", " " | capitalize }}</a>
+        <a href="{{ '/categoria/' | append: page.category | relative_url }}" class="post-category">{{ site.data.categorie[page.category].nome | default: page.category }}</a>
         {% endif %}
         <h1 class="post-title">{{ page.title }}</h1>
         <div class="post-meta">

@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2024/04/img_4757.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La pace ridotta ad un ideale, dovrebbe unire le nazioni in una ricerca comune di armonia e stabilità, è, invece, stata fatta a brandelli dall'orrore della..."
-category: diritti-umani
+category: societa
 tags: ["Conflitto", "crisi", "diritti", "Economia", "Etica", "Europa", "gaza", "giustizia", "Governo", "guerra", "hamas", "israele", "Meloni", "odio", "Pace", "palestina", "politica", "Russia", "Ucraina", "USA", "violenza", "Zelensky"]
 ---
 La pace ridotta ad un ideale, dovrebbe unire le nazioni in una ricerca comune di armonia e stabilità, è, invece, stata fatta a brandelli dall'[orrore della guerra in Ucraina](/spiragli-di-pace-in-ucraina/) e dal genocidio in corso nella striscia di Gaza.

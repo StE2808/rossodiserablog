@@ -1,7 +1,6 @@
 ---
-layout: category
-title: Inchieste e Dossier
-category_slug: inchieste-dossier
-description: Approfondimenti e reportage investigativi
+layout: rimando
 permalink: /categoria/inchieste-dossier/
+rimando: /categoria/politica-interna/
+sitemap: false
 ---

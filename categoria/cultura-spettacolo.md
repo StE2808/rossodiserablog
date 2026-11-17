@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Cultura e Spettacolo
+title: Cultura
 category_slug: cultura-spettacolo
-description: Arte, cinema, musica, libri e intrattenimento
+description: "Libri, arte, musica, filosofia e critica culturale."
 permalink: /categoria/cultura-spettacolo/
 ---

@@ -6,7 +6,7 @@ description: "Il Piano Demagnetize (1952): CIA e Gladio condizionarono la democr
 date: 2026-01-13 09:52:00 +0100
 last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
-category: inchieste-dossier
+category: politica-interna
 tags:
   - Piano Demagnetize
   - Strategia della tensione

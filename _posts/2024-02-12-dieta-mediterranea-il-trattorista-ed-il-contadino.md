@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2024/02/grano-1024x577-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mentre i trattoristi europei, emissari e rappresentanti di lobby potentissime, sfilano attraendo schiere di politici populisti in cerca dei voti per le..."
-category: ambiente
+category: scienza-tecnologia
 tags: ["carne", "cereali", "contadini", "dieta", "imprenditori agricoli", "land grabbing", "latte", "latticini", "obesit\u00e0", "PAC", "PIL", "proteste", "Salute", "trattoristi"]
 ---
 Mentre i trattoristi europei, emissari e rappresentanti di lobby potentissime, sfilano attraendo schiere di politici populisti in cerca dei voti per le prossime elezioni, i contadini stanno scomparendo nel silenzio.

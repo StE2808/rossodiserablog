@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2025/05/img_6452-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Il ddl caccia di Lollobrigida porta le specie cacciabili da 7 a 47, apre le aree protette, riapre la cattura degli uccelli e multa chi protesta."
-category: ambiente
+category: scienza-tecnologia
 tags: ["Ambiente", "caccia", "cacciatori", "ecocidio", "ecologia", "ecosistema", "ecosistemi", "Etica", "Europa", "fauna", "giustizia", "Governo", "politica", "repressione", "sicurezza", "societ\u00e0", "UE", "violenza"]
 seo_title: "Ddl caccia di Lollobrigida: 47 specie cacciabili e multe"
 focus_keyword: "ddl caccia"

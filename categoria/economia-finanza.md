@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Economia e Finanza
+title: Economia
 category_slug: economia-finanza
-description: Mercati, lavoro e scenari economici
+description: "Soldi, lavoro, banche e chi incassa."
 permalink: /categoria/economia-finanza/
 ---

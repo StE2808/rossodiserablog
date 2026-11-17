@@ -5,7 +5,7 @@ seo_title: "Crisi climatica: quanto è recente nella storia della Terra"
 description: "L'età della Terra è 4,54 miliardi di anni, l'era industriale appena 175: se fosse una persona di 46 anni, la febbre del clima è dell'ultimo minuto."
 date: 2026-06-19 09:00:00 +0200
 author: stefano-vozzi
-category: ambiente
+category: scienza-tecnologia
 tags:
   - cambiamento climatico
   - crisi climatica

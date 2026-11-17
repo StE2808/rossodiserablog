@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/10/waste_cocobeach_india.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'isola di plastica del Pacifico copre fino a 10 milioni di km² e un'altra cresce tra Elba e Corsica: cos'è, quanto pesa e chi prova a ripulirla."
-category: ambiente
+category: scienza-tecnologia
 tags: ["inquinamento", "isola", "isola di plastica", "microplastica", "microplastiche", "The great Pacific garbage patch"]
 seo_title: "Isola di plastica: dal Pacifico al Mediterraneo"
 focus_keyword: "isola di plastica"

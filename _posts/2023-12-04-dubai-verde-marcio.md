@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/12/immagine-inquinamento.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "'Triplicare l'energia nucleare entro il 2050': questo il motto del terzo giorno della COP 28 a Dubai. Entra nel vivo l'incontro sul clima, infatti, se..."
-category: ambiente
+category: scienza-tecnologia
 tags: ["clima", "co2", "COP28", "crisi", "crisi climatica", "Dubai", "Italia", "Meloni"]
 ---
 "Triplicare l'energia nucleare entro il 2050": questo [il motto del terzo giorno della COP 28](/cop-28-ci-siamo-giocati-il-futuro/) a Dubai.

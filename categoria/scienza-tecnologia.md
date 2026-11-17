@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Scienza e Tecnologia
+title: Scienza, tecnologia e ambiente
 category_slug: scienza-tecnologia
-description: Innovazione, ricerca e mondo digitale
+description: "Intelligenza artificiale, sorveglianza, scienza, clima ed energia."
 permalink: /categoria/scienza-tecnologia/
 ---

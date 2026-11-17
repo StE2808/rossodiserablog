@@ -10,7 +10,7 @@ description: "Il Conclave come antidoto alla frenesia digitale: cardinali senza 
 seo_title: "Il Conclave: quando l'attesa batte l'immediatezza digitale"
 focus_keyword: conclave habemus papam
 excerpt: "In un'epoca di dirette continue e notifiche incessanti, il Conclave impone il silenzio: niente smartphone, solo la fumata bianca. Un rito millenario che ci ricorda che le decisioni più importanti maturano nell'attesa, non nell'immediatezza."
-category: cronaca-bianca
+category: societa
 tags: ["Attesa", "Conclave", "Fumata Bianca", "Habemus Papam", "Immediatezza", "Notizie in Diretta", "Riflessione", "Ritmi Umani", "Social Media", "Tecnologia", "Tempo", "vaticano"]
 ---
 Viviamo in un'epoca satura di "dirette", dove lo scorrere incessante dei feed social trasforma ogni evento in un'esperienza condivisa in tempo reale, spesso deprivata del filtro della riflessione e dell'attesa. L'ansia di "esserci", di documentare e condividere ogni istante, porta con sé il rischio di una narrazione frammentata e, talvolta, inquinata da anticipazioni e disinformazione. In questo contesto di bulimia informativa, emerge con forza un rito millenario che sfida la frenesia del nostro tempo: il Conclave.

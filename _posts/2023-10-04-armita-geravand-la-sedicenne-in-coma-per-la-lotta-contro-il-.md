@@ -10,7 +10,7 @@ description: "Armita Geravand, 16 anni, aggredita dalla polizia morale iraniana 
 seo_title: "Armita Geravand: la sedicenne iraniana in coma per il velo"
 focus_keyword: Armita Geravand Iran
 excerpt: "Il 1° ottobre 2023, Armita Geravand, 16 anni, è stata aggredita dalla polizia morale iraniana alla metropolitana di Tehran per non aver indossato il velo. Come Mahsa Amini un anno prima, è diventata simbolo della resistenza delle giovani donne iraniane."
-category: cronaca-bianca
+category: societa
 tags: ["Armita Geravand", "Cultura", "diritti delle donne", "giovani donne iraniane", "giustizia", "libert\u00e0 di espressione", "lotta per i diritti", "Mahsa Amini", "polizia morale", "repressione", "Repubblica Islamica dell\u2019Iran", "resistenza", "Solidariet\u00e0", "Tehran"]
 ---
 In un mondo in cui l'espressione personale dovrebbe essere un diritto inalienabile, ci sono ancora luoghi in cui il semplice atto di mostrare i propri capelli può portare a conseguenze tragiche. Questa è la storia di Armita Geravand, una giovane iraniana di 16 anni, che ha recentemente vissuto la crudele realtà della repressione culturale e religiosa nel suo paese.

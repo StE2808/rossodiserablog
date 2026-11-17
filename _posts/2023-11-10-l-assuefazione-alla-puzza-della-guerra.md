@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/11/img_4245-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "L'attuale maledetta assuefazione alla guerra ha gettato un velo di oscurità sulla nostra umanità. In questo teatro sanguinario, l'odore pestilenziale..."
-category: diritti-umani
+category: societa
 tags: ["due popoli due stati", "gaza", "Governo", "guerra", "odio", "Pace", "palestina", "politica"]
 ---
 L'attuale maledetta assuefazione alla guerra ha gettato un velo di oscurità sulla nostra umanità. In questo teatro sanguinario, l'odore pestilenziale della guerra, partendo da Gaza, avvolge ogni angolo del nostro mondo, penetrando nelle vite di coloro che ne sono vittime e avvelenando le coscienze di chi la perpetua.

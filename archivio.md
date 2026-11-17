@@ -34,7 +34,7 @@ permalink: /archivio/
                         {% endif %}
                         <div class="related-content">
                             {% if post.category %}
-                            <a href="{{ '/categoria/' | append: post.category | relative_url }}" class="archive-category-tag">{{ post.category | replace: "-", " " }}</a>
+                            <a href="{{ '/categoria/' | append: post.category | relative_url }}" class="archive-category-tag">{{ site.data.categorie[post.category].nome | default: post.category }}</a>
                             {% endif %}
                             <h4 class="related-card-title">
                                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

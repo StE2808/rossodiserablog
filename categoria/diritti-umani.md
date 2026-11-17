@@ -1,7 +1,6 @@
 ---
-layout: category
-title: Diritti Umani
-category_slug: diritti-umani
-description: Libertà, uguaglianza e giustizia sociale
+layout: rimando
 permalink: /categoria/diritti-umani/
+rimando: /categoria/societa/
+sitemap: false
 ---

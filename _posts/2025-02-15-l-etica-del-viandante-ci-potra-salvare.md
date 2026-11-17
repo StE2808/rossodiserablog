@@ -6,7 +6,7 @@ description: "C'è un'antica figura che attraversa il tempo con passo leggero e 
 date: 2025-02-15 00:00:00 +0100
 last_modified_at: 2026-06-07 17:59:08 +0200
 author: stefano-vozzi
-category: ambiente
+category: scienza-tecnologia
 tags:
   - Armonia con la natura
   - Ascolto

@@ -10,7 +10,7 @@ description: "Armita Geravand, Mahsa Amini e la nomina di Ali Bahreini all'ONU: 
 seo_title: "Iran e diritti umani: le voci che il mondo non vuole sentire"
 focus_keyword: diritti umani Iran
 excerpt: "Armita Geravand in coma per il velo, Mahsa Amini morta un anno prima, e Ali Bahreini nominato alla presidenza del Forum ONU sui diritti umani. Tre episodi che raccontano la distanza tra la realtà iraniana e i principi della comunità internazionale."
-category: cronaca-bianca
+category: societa
 tags: ["Ali Bahreini", "Armita Geravand", "comunit\u00e0 internazionale", "diritti umani", "Forum Sociale del Consiglio delle Nazioni Unite", "giustizia", "Iran", "Mahsa Amini", "repressione", "solidariet\u00e0 globale"]
 ---
 In un'era di globalizzazione e interconnessione, le ingiustizie perpetrate in un angolo del mondo risuonano attraverso i continenti, risvegliando le coscienze e catalizzando il dialogo sui diritti umani. L'Iran, con la sua ricca tapezzeria culturale e politica, si trova spesso al centro di tali dialoghi, rappresentando un microcosmo delle sfide globali nella promozione dei [diritti umani](/sos-autoritarismo/) e della dignità.

@@ -1,7 +1,6 @@
 ---
-layout: category
-title: Cronaca Giudiziaria
-category_slug: cronaca-giudiziaria
-description: Tribunali, processi e vicende legali
+layout: rimando
 permalink: /categoria/cronaca-giudiziaria/
+rimando: /categoria/societa/
+sitemap: false
 ---

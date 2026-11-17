@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/09/venezia-invasa-dai-turisti.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "La notizia era attesa ed è arrivata: a Venezia i posti letto destinati ai turisti hanno superato quelli per i residenti. Infatti i residenti sono 49.304..."
-category: lifestyle-moda
+category: cultura-spettacolo
 tags: ["assalto", "Governo", "invasione", "mercato", "Ocio", "politica", "societ\u00e0", "Venessia.com", "Venezia"]
 ---
 La notizia era attesa ed è arrivata: a Venezia i posti letto destinati ai turisti hanno superato quelli per i residenti.

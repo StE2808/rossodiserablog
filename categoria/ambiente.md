@@ -1,7 +1,6 @@
 ---
-layout: category
-title: Ambiente
-category_slug: ambiente
-description: Ecologia, clima e sostenibilità
+layout: rimando
 permalink: /categoria/ambiente/
+rimando: /categoria/scienza-tecnologia/
+sitemap: false
 ---

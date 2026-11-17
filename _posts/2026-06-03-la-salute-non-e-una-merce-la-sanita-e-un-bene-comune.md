@@ -5,7 +5,7 @@ seo_title: 'Sanità bene comune: il paradosso del modello lombardo'
 description: "Ospedali lombardi tra i migliori al mondo ma liste d'attesa e privatizzazione: nella sanità conta la qualità media garantita a tutti, non il picco."
 date: 2026-06-03 07:58:00 +0200
 author: lino-rialti
-category: inchieste-dossier
+category: societa
 tags:
   - sanità pubblica
   - SSN

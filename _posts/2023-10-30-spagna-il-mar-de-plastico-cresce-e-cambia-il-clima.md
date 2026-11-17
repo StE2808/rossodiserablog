@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/10/mar-de-plastico.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Mar de Plastico di Almería: 44 mila ettari di serre visibili dallo spazio nati dall'autarchia di Franco, che cambiano il clima e sfruttano i lavoratori."
-category: ambiente
+category: scienza-tecnologia
 tags: ["almeria", "clima", "condizioni di lavoro", "lavoratori", "lavoro", "mar de plastico", "plastica", "spagna"]
 seo_title: "Mar de Plastico ad Almería: serre, clima e sfruttamento"
 focus_keyword: "Mar de Plastico"

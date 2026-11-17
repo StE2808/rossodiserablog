@@ -10,7 +10,7 @@ description: "Una lettera alle generazioni future sul debito climatico che stiam
 seo_title: "Generazioni future: cosa lasciamo ai nostri figli sul clima?"
 focus_keyword: cambiamento climatico generazioni future
 excerpt: "Un Natale diverso: non auguri tradizionali, ma una riflessione sul debito che stiamo lasciando alle generazioni future. Caffè amaro, tifoni in corsa, promesse non mantenute. La vera eredità che stiamo costruendo."
-category: ambiente
+category: scienza-tecnologia
 tags: ["Amore", "cambiamenti climatici", "consapevolezza", "coraggio", "eredit\u00e0", "eroi", "futuro migliore", "Generazioni Future", "impegno", "Lake Street Dive", "lotta", "Natale", "promesse", "realt\u00e0", "responsabilit\u00e0", "sostenibilit\u00e0", "speranza"]
 ---
 Nella quiete serena dei nostri "Buon Natale" sussurrati, dove l'eco delle nostre voci si perde tra le pieghe di un tempo che sembra correre troppo in fretta, ci ritroviamo a chiederci: ma cosa stiamo davvero lasciando in eredità alle nuove generazioni? Non una semplice festa imbandita di luci e colori, ma un domani dai contorni incerti.

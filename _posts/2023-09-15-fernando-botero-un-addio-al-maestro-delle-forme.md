@@ -10,7 +10,7 @@ description: "Fernando Botero, l'artista colombiano delle figure voluminose, mor
 seo_title: "Fernando Botero: vita, opere e morte del maestro colombiano"
 focus_keyword: Fernando Botero
 excerpt: "Il 15 settembre 2023 è morto a 91 anni Fernando Botero, l'artista colombiano che ha reinventato la forma con figure voluminose e sensuali. Un addio al maestro che ha legato la sua arte alla Toscana e al mondo intero."
-category: cronaca-bianca
+category: societa
 tags: ["Arte", "Bellezza", "Colombia", "Fernando Botero", "Forme", "Generazioni Future", "Ispirazione", "Lascito", "Lutto", "Morte"]
 ---
 Oggi, 15 settembre 2023, il mondo dell'arte ha perso una delle sue figure più iconiche. Fernando Botero, l'artista colombiano noto per le sue rappresentazioni voluminose e sensuali di figure umane e animali, è morto all'età di 91 anni. Nato in Colombia nel 1932, Botero ha vissuto una vita straordinaria, arricchita da un talento innato e una passione irrefrenabile per l'arte. La sua carriera è stata una costante esplorazione delle forme, dei colori e delle dimensioni, un viaggio che lo ha portato a diventare uno degli artisti più amati e riconosciuti a livello internazionale.

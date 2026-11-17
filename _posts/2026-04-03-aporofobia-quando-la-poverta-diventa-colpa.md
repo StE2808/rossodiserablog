@@ -6,7 +6,7 @@ description: "Aporofobia: il disprezzo verso i poveri che si nasconde nella meri
 date: 2026-04-03 09:59:00 +0200
 last_modified_at: 2026-05-16 19:44:53 +0200
 author: lino-rialti
-category: diritti-umani
+category: societa
 tags:
   - Aporofobia
   - Povertà

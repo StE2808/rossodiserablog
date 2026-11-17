@@ -10,7 +10,7 @@ description: "Sanders a 83 anni e AOC al Fighting Oligarchy Tour: 34.000 persone
 seo_title: "Bernie Sanders e AOC: lezioni per l'opposizione italiana"
 focus_keyword: Bernie Sanders AOC Fighting Oligarchy Tour
 excerpt: "A 83 anni Bernie Sanders raccoglie 34.000 persone a Denver con AOC. Il Fighting Oligarchy Tour non è solo protesta: è proposta concreta su salario minimo, sanità e clima. L'opposizione italiana guarda e non impara."
-category: diritti-umani
+category: societa
 tags: ["AlexandriaOcasioCortez", "AttivismoIntergenerazionale", "BernieSanders", "DemocraziaSana", "FightingOligarchy", "MobilitazionePolitica", "OpposizioneItaliana", "PoliticaProgressista", "RinnovamentoPolitico", "VisioneAlternativa"]
 ---
 Avete mai osservato un fiume che scorre con determinazione, superando ogni ostacolo sul suo cammino? È l'immagine che mi viene in mente guardando **Bernie Sanders** e **Alexandria Ocasio-Cortez** nel loro "**Fighting Oligarchy**" tour. Da una parte un ottuagenario con l'energia di un ventenne, dall'altra una millennial che trasforma le parole in azioni concrete. E noi, qui in Italia? La nostra **opposizione politica** sembra un ruscello che si perde tra le pietre prima di raggiungere il mare.

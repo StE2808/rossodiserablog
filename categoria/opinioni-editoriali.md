@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Opinioni ed Editoriali
+title: Opinioni
 category_slug: opinioni-editoriali
-description: Commenti, analisi e punti di vista
+description: "Commenti ed editoriali sull'attualità."
 permalink: /categoria/opinioni-editoriali/
 ---

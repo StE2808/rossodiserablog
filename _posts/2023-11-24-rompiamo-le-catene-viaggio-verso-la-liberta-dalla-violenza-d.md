@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2023/11/img_4318-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "Dopo i recenti fatti di cronaca, la violenza di genere è assurta finalmente ad argomento di discussione, anche se troppo spesso ancora la..."
-category: diritti-umani
+category: societa
 tags: ["Amore", "Cultura", "diritti", "genere", "giustizia", "Governo", "Identit\u00e0", "Lutto", "Morte", "odio", "politica", "Salute", "sicurezza", "sociale", "Solidariet\u00e0", "violenza", "violenza di genere", "violenza sulle donne"]
 ---
 Dopo i recenti fatti di cronaca, la violenza di genere è assurta finalmente ad argomento di discussione, anche se troppo spesso ancora la strumentalizzazione distrugge di notte quello che di buono di giorno viene tessuto. 

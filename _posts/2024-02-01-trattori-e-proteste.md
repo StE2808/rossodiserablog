@@ -7,7 +7,7 @@ author: lino-rialti
 image: /assets/images/2024/02/img_4545-1.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "E se i trattoristi in rivolta fossero strumentalizzati. Sembra molto verosimile"
-category: ambiente
+category: scienza-tecnologia
 tags: ["blocchi", "cambiamento climatico", "clima", "climatica", "diritti", "Economia", "Europa", "Generazioni Future", "giustizia", "Governo", "impatti climatici", "impatto ambientale", "inquinamento", "lavoro", "manifestazioni", "Meloni", "mercato", "politica", "repressione", "salvini", "sicurezza", "societ\u00e0", "strada", "stradali", "strade trattori", "UE", "violenza"]
 ---
 E se i trattoristi in rivolta fossero strumentalizzati? Sembra molto verosimile.

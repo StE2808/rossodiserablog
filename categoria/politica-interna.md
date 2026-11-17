@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Politica Interna
+title: Politica italiana
 category_slug: politica-interna
-description: Analisi e approfondimenti sulla politica italiana
+description: "Governo, Parlamento, giustizia, scuola e welfare: la politica italiana letta con occhio critico."
 permalink: /categoria/politica-interna/
 ---

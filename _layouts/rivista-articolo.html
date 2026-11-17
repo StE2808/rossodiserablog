@@ -16,7 +16,7 @@
 {%- assign mesi = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
 {%- assign im = a.date | date: "%-m" | minus: 1 -%}
 {%- assign parole = corpo | strip_html | number_of_words -%}{%- assign minuti = parole | divided_by: 200 | at_least: 1 -%}
-{%- assign cat = a.category | replace: "-", " " | capitalize | replace: "Societa", "Società" -%}
+{%- assign cat = site.data.categorie[a.category].nome | default: a.category -%}
 {%- assign parti = corpo | split: '<h2' -%}
 <html lang="it">
 <head>
@@ -132,7 +132,7 @@
 <footer class="gerenza">
 <div class="g-col g-cos">
 <div class="g-et">Cos'è</div>
-<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Negli approfondimenti un tema scavato a fondo; ogni giorno le rubriche: Politica, Tecnologia, Che bellezza.</p>
+<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Ogni giorno articoli di politica, esteri, società e cultura; negli approfondimenti un tema scavato a fondo.</p>
 <a href="{{ '/chi-siamo/' | relative_url }}">Chi siamo</a>
 </div>
 <div class="g-col">

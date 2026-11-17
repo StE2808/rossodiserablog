@@ -10,7 +10,7 @@ description: "Mari e oceani coprono il 71% della Terra e assorbono CO2, ma plast
 seo_title: "Conservazione dei mari e degli oceani: cosa rischiamo"
 focus_keyword: conservazione mari oceani
 excerpt: "Gli oceani coprono il 71% della Terra, producono ossigeno, regolano il clima e nutrono miliardi di persone. Ma l'inquinamento da plastica, l'acidificazione e la pesca eccessiva li stanno distruggendo. Cosa possiamo fare per salvarli."
-category: ambiente
+category: scienza-tecnologia
 tags: ["biodiversit\u00e0 marina", "cambiamento climatico", "ciclo del carbonio", "conservazione marina", "inquinamento dei mari", "Mari", "oceani", "sostenibilit\u00e0 marina"]
 ---
 ## I mari e gli oceani: custodi del nostro pianeta

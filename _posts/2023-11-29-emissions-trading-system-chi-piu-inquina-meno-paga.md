@@ -10,7 +10,7 @@ description: "L'EU ETS assegna permessi gratuiti alle grandi aziende inquinanti.
 seo_title: "Emissions Trading System: chi inquina paga davvero?"
 focus_keyword: Emissions Trading System
 excerpt: "L'Emissions Trading System europeo dovrebbe applicare il principio 'chi inquina paga'. Ma meno dell'1% delle aziende produce metà delle emissioni e riceve permessi gratuiti per miliardi. Un'analisi del meccanismo che fatica a funzionare."
-category: ambiente
+category: scienza-tecnologia
 tags: ["ArcelorMittal", "\u00e9lite emissioni", "chi inquina paga", "contributo lotta cambiamento climatico", "costi ambientali e sociali", "disincentivo innovazione", "efficienza cambiamento climatico", "Emissions Trading System", "ENEL", "Eni", "EU ETS", "fondi per sostenibilit\u00e0", "futuro sostenibile", "grandi aziende inquinanti", "impatto ambientale", "importanza economica", "inquinamento", "inquinatori", "licenze emissioni gas serra", "limitazione efficacia EU ETS", "mitigazione impatto climatico", "normative ambientali", "permessi gratuiti", "piccole e medie imprese", "pratiche sostenibili", "responsabilit\u00e0 inquinatori", "riduzione emissioni", "riduzione emissioni gas serra", "riforma EU ETS", "RWE", "spostamento produzione", "supporto famiglie", "sviluppo tecnologie pulite", "Unione Europea"]
 ---
 L'Unione Europea affronta un complesso dibattito sull'Emissions Trading System (EU ETS), un meccanismo progettato per ridurre le emissioni di gas serra. Tuttavia, emerge una problematica significativa: l'assegnazione di "permessi gratuiti" alle grandi aziende inquinanti, una pratica che solleva dubbi sulla sua efficienza nel contrastare il [cambiamento climatico](/dubai-verde-marcio/) e sulla conformità al principio fondamentale del "chi inquina paga".
