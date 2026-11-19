@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: rivista-pagina
 title: Contatti
 permalink: /contatti/
 ---
 
 <section class="contact-section">
     <header class="section-header">
+        {% include testata-piccola.html %}
         <span class="section-label">Scrivici</span>
         <h1 class="section-title">Contatti</h1>
         <p class="section-description">Hai una domanda, un suggerimento o vuoi semplicemente dirci la tua? Compila il form qui sotto e ti risponderemo al più presto.</p>

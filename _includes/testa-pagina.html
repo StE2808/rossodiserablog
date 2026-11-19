@@ -1,0 +1,7 @@
+{%- comment -%} Testa delle pagine di servizio: include.etichetta, include.titolo, include.intro, include.conta (19/11/2026) {%- endcomment -%}
+<header class="p-testa">
+{% include testata-piccola.html %}
+<div class="uscita"><span>{{ include.etichetta }}</span>{% if include.conta %}<span>{{ include.conta }}</span>{% endif %}</div>
+<h1>{{ include.titolo }}</h1>
+{% if include.intro and include.intro != "" %}<div class="intro">{{ include.intro }}</div>{% endif %}
+</header>

@@ -1,94 +1,21 @@
 ---
-layout: default
+layout: rivista-pagina
 title: Autori
+seo_title: "Gli autori di Rosso di Sera"
+description: "Chi scrive su Rosso di Sera: Lino Rialti, giornalista dal 1992, e Stefano Vozzi, nella comunicazione dal 1991."
 permalink: /autori/
 ---
-
-<h1 class="page-title">Gli Autori</h1>
-
-<div class="authors-grid">
-{% for author in site.authors %}
-    <div class="author-card">
-        <h2>{{ author.name }}</h2>
-        <p class="author-role">{{ author.position }}</p>
-        <p>{{ author.content }}</p>
-        
-        {% assign author_posts = site.posts | where: "author", author.short_name %}
-        <p class="author-stats">{{ author_posts.size }} articoli pubblicati</p>
-        
-        <h3>Ultimi articoli:</h3>
-        <ul>
-        {% for post in author_posts limit: 5 %}
-            <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-        {% endfor %}
-        </ul>
-    </div>
-{% endfor %}
+{% include testa-pagina.html etichetta="Chi scrive" titolo="Gli autori" %}
+<div class="p-autori">
+{%- for author in site.authors %}
+{%- assign lista_au = site.posts | where: "author", author.short_name %}
+<section class="p-autore" id="{{ author.short_name }}">
+<div class="et">{{ author.position }}</div>
+<h2><a href="{{ author.url | relative_url }}">{{ author.name }}</a></h2>
+<div class="p-bio">{{ author.content }}</div>
+<p class="meta">{{ lista_au.size }} articoli · <a href="{{ author.url | relative_url }}">tutti i suoi articoli</a></p>
+<h3 class="et">Gli ultimi</h3>
+<ul>{% for post in lista_au limit: 5 %}<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>{% endfor %}</ul>
+</section>
+{%- endfor %}
 </div>
-
-<style>
-.page-title {
-    font-family: 'Playfair Display', serif;
-    color: #8b1a1a;
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.authors-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 2rem;
-}
-
-.author-card {
-    background: white;
-    padding: 2rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.author-card h2 {
-    font-family: 'Playfair Display', serif;
-    color: #8b1a1a;
-    margin-bottom: 0.5rem;
-}
-
-.author-role {
-    color: #6b1414;
-    font-style: italic;
-    margin-bottom: 1rem;
-}
-
-.author-stats {
-    background: #f5ede4;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    display: inline-block;
-    margin: 1rem 0;
-    font-weight: 600;
-    color: #6b1414;
-}
-
-.author-card h3 {
-    color: #333;
-    font-size: 1rem;
-    margin: 1.5rem 0 0.5rem;
-}
-
-.author-card ul {
-    list-style: none;
-}
-
-.author-card li {
-    padding: 0.3rem 0;
-}
-
-.author-card a {
-    color: #333;
-    text-decoration: none;
-}
-
-.author-card a:hover {
-    color: #8b1a1a;
-}
-</style>

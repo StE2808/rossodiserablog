@@ -1,64 +1,21 @@
 ---
-layout: default
+layout: rivista-pagina
 title: Archivio
+seo_title: "Archivio di Rosso di Sera: tutti gli articoli"
+description: "Tutti gli articoli di Rosso di Sera, mese per mese: politica italiana, esteri, società, opinioni, scienza, cultura ed economia."
 permalink: /archivio/
 ---
-
-<section class="archive-section">
-    <header class="section-header">
-        <span class="section-label">Tutti gli articoli</span>
-        <h1 class="section-title">Archivio Completo</h1>
-    </header>
-
-    <div class="archive-container">
-        {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-        {% for year in posts_by_year %}
-
-        <div class="archive-year-section">
-            <h2 class="archive-year-title">{{ year.name }}</h2>
-
-            {% assign posts_by_month = year.items | group_by_exp: "post", "post.date | date: '%m'" %}
-            {% for month in posts_by_month %}
-
-            {% assign month_name = month.items[0].date | date: "%B" %}
-            <div class="archive-month-section">
-                <h3 class="archive-month-title">{{ month_name }} {{ year.name }}</h3>
-
-                <div class="archive-grid">
-                    {% for post in month.items %}
-                    <article class="related-card">
-                        {% if post.image %}
-                        <a href="{{ post.url | relative_url }}" class="related-image-link">
-                            <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">
-                        </a>
-                        {% endif %}
-                        <div class="related-content">
-                            {% if post.category %}
-                            <a href="{{ '/categoria/' | append: post.category | relative_url }}" class="archive-category-tag">{{ site.data.categorie[post.category].nome | default: post.category }}</a>
-                            {% endif %}
-                            <h4 class="related-card-title">
-                                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                            </h4>
-                            <div class="archive-card-meta">
-                                <span class="related-date">{{ post.date | date: "%d %B %Y" }}</span>
-                                <span class="archive-author">
-                                    {% if post.author == "stefano-vozzi" %}
-                                        Stefano Vozzi
-                                    {% elsif post.author == "lino-rialti" %}
-                                        Lino Rialti
-                                    {% else %}
-                                        {{ post.author | replace: "-", " " | capitalize }}
-                                    {% endif %}
-                                </span>
-                            </div>
-                        </div>
-                    </article>
-                    {% endfor %}
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-
-        {% endfor %}
-    </div>
+{%- assign mesi_a = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
+{%- capture conta -%}{{ site.posts.size }} articoli{%- endcapture -%}
+{% include testa-pagina.html etichetta="Tutti gli articoli" titolo="Archivio" conta=conta intro="Mese per mese, dal più recente. Per argomento, scegli una categoria." %}
+<nav class="p-categorie" aria-label="Categorie">
+{%- for c in site.data.categorie %}{% unless c[1].tolta %}<a href="{{ '/categoria/' | append: c[0] | append: '/' | relative_url }}">{{ c[1].nome }}</a>{% endunless %}{% endfor -%}
+</nav>
+{%- assign per_mese = site.posts | group_by_exp: "x", "x.date | date: '%Y-%m'" -%}
+{%- for m in per_mese %}
+{%- assign im_a = m.items[0].date | date: "%-m" | minus: 1 %}
+<section class="p-mese" aria-labelledby="m-{{ m.name }}">
+<h2 id="m-{{ m.name }}" class="mov"><span class="sole" aria-hidden="true"></span>{{ mesi_a[im_a] | capitalize }} {{ m.items[0].date | date: "%Y" }}<i>{{ m.items.size }}</i></h2>
+{% include elenco-articoli.html lista=m.items %}
 </section>
+{%- endfor %}

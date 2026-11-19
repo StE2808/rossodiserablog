@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+{%- comment -%}
+  PAGINA DI SERVIZIO A RIVISTA (19/11/2026): archivio, categorie, autori, scaffale, chi siamo, contatti, cerca.
+  Barra e gerenza copiate da rivista-articolo.html: se cambiano lì, cambiarle anche qui.
+  La testa della pagina (etichetta, titolo, intro) la scrive ogni pagina con _includes/testa-pagina.html.
+{%- endcomment -%}
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.seo_title | default: page.title }} | Rosso di Sera</title>
+<meta name="google-site-verification" content="gw5Fk6K2XT2ucVmoWb0WBhi5aVtD-iZtugkImmhzbVU" />
+{% include testa-seo.html %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Arvo:wght@700&family=Gloock&family=Rock+Salt&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/numero.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+{% include identita-sito.html %}
+</head>
+<body><a class="salta" href="#contenuto">Vai al contenuto</a>
+<div class="numero pagina">
+<nav aria-label="Sito" class="barra">
+<span class="link"><a href="{{ '/' | relative_url }}">Home</a><a href="{{ '/chi-siamo/' | relative_url }}">Cos'è</a><a href="{{ '/approfondimenti/' | relative_url }}">Approfondimenti</a><a href="{{ '/archivio/' | relative_url }}">Archivio</a><a href="{{ '/autori/' | relative_url }}">Autori</a><a href="{{ '/contatti/' | relative_url }}">Scrivici</a><a href="{{ '/cerca/' | relative_url }}">Cerca</a></span>
+</nav>
+<main id="contenuto">
+{{ content }}
+</main>
+
+<footer class="gerenza">
+<div class="g-col g-cos">
+<div class="g-et">Cos'è</div>
+<p><b>Rosso di Sera</b> è una rivista di politica e cultura. Ogni giorno articoli di politica, esteri, società e cultura; negli approfondimenti un tema scavato a fondo.</p>
+<a href="{{ '/chi-siamo/' | relative_url }}">Chi siamo</a>
+</div>
+<div class="g-col">
+<div class="g-et">Chi scrive</div>
+<a href="{{ '/authors/stefano-vozzi/' | relative_url }}">Stefano Vozzi</a>
+<a href="{{ '/authors/lino-rialti/' | relative_url }}">Lino Rialti</a>
+</div>
+<div class="g-col">
+<div class="g-et">Leggi</div>
+<a href="{{ '/archivio/' | relative_url }}">Archivio</a>
+<a href="{{ '/cerca/' | relative_url }}">Cerca nel sito</a>
+</div>
+<div class="g-col">
+<div class="g-et">Scrivici</div>
+<a href="{{ '/contatti/' | relative_url }}">Contatti</a>
+<span class="g-social"><a href="https://www.facebook.com/profile.php?id=61550470389942" rel="noopener" target="_blank">Facebook</a><a href="https://x.com/di_rosso45458" rel="noopener" target="_blank">X</a><a href="https://www.instagram.com/rosso_di_sera_blog/" rel="noopener" target="_blank">Instagram</a></span>
+</div>
+<div class="g-fondo"><span>© {{ site.time | date: "%Y" }} Rosso di Sera</span></div>
+</footer>
+</div>
+</body>
+</html>

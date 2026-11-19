@@ -1,0 +1,16 @@
+{%- comment -%} Elenco compatto di articoli (archivio, categorie, autori): include.lista; include.senza_autore per le pagine autore (19/11/2026) {%- endcomment -%}
+{%- assign mesi_e = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
+<div class="elenco">
+{%- for p in include.lista %}
+{%- if p.author == "stefano-vozzi" -%}{%- assign aut_e = "Stefano Vozzi" -%}{%- elsif p.author == "lino-rialti" -%}{%- assign aut_e = "Lino Rialti" -%}{%- else -%}{%- assign aut_e = p.author | replace: "-", " " | capitalize -%}{%- endif -%}
+{%- assign me = p.date | date: "%-m" | minus: 1 %}
+<article class="voce{% unless p.image %} senza{% endunless %}">
+{% if p.image %}<a class="v-foto" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img alt="" loading="lazy" src="{{ p.image | relative_url }}"></a>{% endif %}
+<div class="v-testo">
+<div class="et">{% if p.approfondimento %}Approfondimento · N. {{ p.numero }}{% else %}{{ site.data.categorie[p.category].nome | default: p.category }}{% endif %}</div>
+<h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+<p class="meta">{% unless include.senza_autore %}{{ aut_e }} · {% endunless %}<time datetime="{{ p.date | date: '%Y-%m-%d' }}">{{ p.date | date: "%-d" }} {{ mesi_e[me] }} {{ p.date | date: "%Y" }}</time></p>
+</div>
+</article>
+{%- endfor %}
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: rivista-pagina
 title: Cerca
 permalink: /cerca/
 description: "Cerca tra tutti gli articoli di Rosso di Sera per parola chiave, autore o tema."
@@ -9,6 +9,7 @@ noindex: true
 
 <section class="search-section">
     <header class="section-header">
+        {% include testata-piccola.html %}
         <span class="section-label">Cerca nel blog</span>
         <h1 class="section-title">Cerca</h1>
     </header>
