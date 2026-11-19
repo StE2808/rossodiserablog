@@ -505,3 +505,9 @@ h2.mov i{font:italic 16px 'Source Serif 4';text-transform:none;letter-spacing:0}
 @media(max-width:860px){.cop .testata img{margin-left:-12px}}
 @media(max-width:480px){.testata img,.testata.piccola img{width:104px}.testata span,.testata.piccola span{font-size:38px}.testata .blog,.testata.piccola .blog{font-size:17px}}
 .p-categorie a{max-width:100%;white-space:normal}
+
+/* tabelle nelle pagine di servizio (19/11/2026, pagina /novita/) */
+.p-corpo table{width:100%;border-collapse:collapse;margin:16px 0 28px;font-size:.95em}
+.p-corpo th,.p-corpo td{text-align:left;vertical-align:top;padding:10px 12px 10px 0;border-top:1px solid var(--ink)}
+.p-corpo thead th{border-top:0;border-bottom:2px solid var(--ink);font-family:"Archivo",sans-serif;font-size:.8em;letter-spacing:.06em;text-transform:uppercase}
+.p-corpo td:first-child{font-weight:600}
