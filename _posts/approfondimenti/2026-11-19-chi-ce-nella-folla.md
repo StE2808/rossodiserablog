@@ -1,5 +1,5 @@
 ---
-numero: 2
+numero: 1
 tema_breve: La folla finta
 title: Chi c'è nella folla?
 seo_title: "Bot sui social: i commenti finti sotto i post dei politici"

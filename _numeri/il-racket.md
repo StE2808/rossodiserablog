@@ -4,7 +4,7 @@ permalink: /rosso/
 prova: true
 sitemap: false
 uscita_prevista: true
-numero: 1
+numero: 2
 tema_breve: Il racket
 title: Chi ha scritto la lista degli invitati?
 seo_title: "Teoria del racket: Horkheimer e lo Stato come club"
