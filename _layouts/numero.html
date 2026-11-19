@@ -88,7 +88,7 @@
 <!-- COPERTINA -->
 <section class="cop">
 <div class="sx">
-<p class="testata"><img alt="Logo di Rosso di Sera: un sole rosso con un albero e un uccellino" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></p>
+<p class="testata"><a href="{{ '/' | relative_url }}"><img alt="Logo di Rosso di Sera: un sole rosso con un albero e un uccellino" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></a></p>
 <div class="uscita"><span>Approfondimento · N. {{ page.numero }}{% if page.tema_breve %} · {{ page.tema_breve }}{% endif %}</span><span>{% if page.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
 <h1>{{ page.title }}</h1>
 {% if page.catenaccio %}<div class="cat">{{ page.catenaccio }}</div>{% endif %}

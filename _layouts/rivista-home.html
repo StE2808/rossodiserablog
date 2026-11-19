@@ -42,7 +42,7 @@
 {% if n %}
 <section class="cop">
 <div class="sx">
-<h1 class="testata"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></h1>
+<h1 class="testata"><a href="{{ '/' | relative_url }}"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></a></h1>
 <div class="uscita"><span>Approfondimento · N. {{ n.numero }}{% if n.tema_breve %} · {{ n.tema_breve }}{% endif %}</span><span>{% if n.uscita_prevista %}Uscita prevista: {% endif %}<time datetime="{{ d_uscita | date: '%Y-%m-%d' }}">{{ data_estesa }}</time></span></div>
 <h2 class="titolo-n"><a href="{{ n.url | relative_url }}">{{ n.title }}</a></h2>
 {% if n.catenaccio %}<div class="cat">{{ n.catenaccio }}</div>{% endif %}
@@ -57,7 +57,7 @@
 {% if n.image_generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif n.image_caption %}<figcaption>{{ n.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
 </section>
 {% else %}
-<section class="cop"><div class="sx"><h1 class="testata"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></h1></div></section>
+<section class="cop"><div class="sx"><h1 class="testata"><a href="{{ '/' | relative_url }}"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></a></h1></div></section>
 {% endif %}
 
 <!-- GLI ARTICOLI, A BLOCCHI, FOTO ALTERNATE -->
