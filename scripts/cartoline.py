@@ -87,7 +87,7 @@ def scheda(fm):
 
 
 def pagina(s, verticale):
-    testata = ('<p class="testata"><img alt="" src="%s"><span>Rosso<b class="blog">blog</b><br>di Sera</span></p>'
+    testata = ('<p class="testata"><img alt="" src="%s"><span>Rosso<br>di Sera<b class="blog">blog</b></span></p>'
                % s['logo'])
     riga = '<div class="riga"><b>%s</b><span>%s</span></div>' % (s['et'], s['data'])
     foto = '<div class="foto">%s</div>' % ('<img alt="" src="%s">' % s['img'] if s['img'] else '')

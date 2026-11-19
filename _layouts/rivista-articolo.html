@@ -65,7 +65,7 @@
 <!-- TESTA: testata, titolo e foto affiancati -->
 <header class="a-testa{% unless a.image %} senza{% endunless %}">
 <div class="a-sx">
-<p class="testata piccola"><a href="{{ '/' | relative_url }}"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<b class="blog">blog</b><br>di Sera</span></a></p>
+<p class="testata piccola"><a href="{{ '/' | relative_url }}"><img alt="" height="512" src="{{ '/assets/images/numeri/logo-testata.png' | relative_url }}" width="512"><span>Rosso<br>di Sera<b class="blog">blog</b></span></a></p>
 <div class="uscita"><span>{% if a.category %}<a href="{{ '/categoria/' | append: a.category | append: '/' | relative_url }}">{{ cat }}</a>{% else %}{{ cat }}{% endif %}</span><span><time datetime="{{ a.date | date: '%Y-%m-%d' }}">{{ a.date | date: "%-d" }} {{ mesi[im] }} {{ a.date | date: "%Y" }}</time> · {{ minuti }} min</span></div>
 <h1>{{ a.title }}</h1>
 {%- comment -%} Sotto il titolo solo una descrizione vera: l'excerpt automatico ripeteva l'attacco (19/11/2026) {%- endcomment -%}
