@@ -133,9 +133,12 @@
 
         - name: Genera i WebP mancanti e riscrive i riferimenti (solo per il build)
           run: |
-            sudo apt-get install -y webp
+            # 19/11/2026: se i server di Ubuntu non rispondono (503), si converte con Pillow da PyPI
+            sudo apt-get install -y webp || python3 -m pip install --quiet --break-system-packages pillow
             python3 << 'PYTHON_SCRIPT'
-            import os, re, subprocess
+            import os, re, subprocess, shutil
+            CWEBP = shutil.which('cwebp')
+            print('Conversione con', 'cwebp' if CWEBP else 'Pillow')
 
             # I .webp sono artefatti di build: si generano qui e NON vengono committati.
             # Il repo tiene le immagini originali caricate dal CMS, il sito serve i webp.
@@ -156,8 +159,12 @@
                 if os.path.exists(webp):
                     gia_presenti += 1
                 else:
-                    subprocess.run(['cwebp', '-quiet', '-q', '80',
-                                    os.path.join(UPLOADS, nome), '-o', webp], check=True)
+                    if CWEBP:
+                        subprocess.run(['cwebp', '-quiet', '-q', '80',
+                                        os.path.join(UPLOADS, nome), '-o', webp], check=True)
+                    else:
+                        from PIL import Image
+                        Image.open(os.path.join(UPLOADS, nome)).save(webp, 'WEBP', quality=80)
                     generati.append(nome)
                 basi_con_webp.add(base)
 
