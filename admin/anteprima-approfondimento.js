@@ -174,7 +174,7 @@
   function pagina(fm, opz) {
     opz = opz || {};
     var img = opz.immagine || function (p) { return p; };
-    var p = Object.assign({}, fm, analizza(fm.body));
+    var p = Object.assign({}, fm, analizza(fm.body));  // con le caselle il corpo è vuoto e restano le caselle
     var autore = AUTORI[p.author] || p.author || '';
     var h = [];
     h.push('<div class="numero">');
@@ -220,8 +220,9 @@
     var n = 0;
     (p.movimenti || []).forEach(function (m, i) {
       h.push('<div class="mov" id="' + slugify(m.nome) + '"><b>' + ROMANI[i] + '</b><h2>' + esc(m.titolo || m.nome) + '</h2></div>');
-      h.push('<section class="blocchi" style="--col:' + (m.colonne || m.blocchi.length) + '">');
-      m.blocchi.forEach(function (b) {
+      var blocchi = m.blocchi || [];
+      h.push('<section class="blocchi" style="--col:' + (m.colonne || blocchi.length) + '">');
+      blocchi.forEach(function (b) {
         n += 1;
         h.push('<article class="blocco"><div class="n">' + (n < 10 ? '0' : '') + n + '</div>');
         if (b.tipo === 'domanda') h.push('<details class="faq-item" open><summary><h3>' + esc(b.titolo) + '</h3></summary><div class="testo">' + md(b.testo, opz) + '</div></details>');
@@ -229,7 +230,7 @@
         h.push('</article>');
       });
       h.push('</section>');
-      m.dopo.forEach(function (d) {
+      (m.dopo || []).forEach(function (d) {
         if (d.type === 'frase') {
           h.push('<section class="frase"><div class="rossa"><p class="grande">' + esc(d.grande).replace(/\n/g, '<br />\n') + '</p><hr class="filetto">');
           if (d.sotto) h.push('<div class="sotto">' + esc(d.sotto) + '</div>');

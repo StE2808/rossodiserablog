@@ -16,68 +16,81 @@ image_generata: true
 image_caption: test didascalia foto 1
 leggi_anche: []
 articolo_origine: null
----
+catenaccio: una o due frasi sotto il titolo.
+punto: 25-50 parole, la tesi detta in chiaro (serve a Google e alle IA).
+tema:
+  titolo: Titolo del tema
+  catenaccio: la frase sotto il titolo del tema.
+  apertura: 'Primo paragrafo dell''apertura (150-200 parole in tutto; la prima lettera diventa il capolettera).
 
-Catenaccio: una o due frasi sotto il titolo.
-Il punto: 25-50 parole, la tesi detta in chiaro (serve a Google e alle IA).
 
-## Apertura: Titolo del tema
-Sottotitolo: la frase sotto il titolo del tema.
+    Secondo paragrafo.
 
-Primo paragrafo dell'apertura (150-200 parole in tutto; la prima lettera diventa il capolettera).
-
-Secondo paragrafo.
-
-## Capire: titolo della prima fascia, con le parole che si cercano
-Indice: la riga nell'indice
-Sommario: prima voce in copertina; seconda voce
-Colonne: 3
-
-### Titolo del primo blocco
-Testo del blocco, 40-90 parole.
-
-### Una domanda che la gente si fa?
-Se il titolo finisce col punto di domanda diventa una FAQ per Google. 40-60 parole.
-
-### Frase rossa
-La frase grande,
-anche su due righe.
-Sotto: la riga piccola sotto la frase.
-Foto: /assets/images/numeri/nome-approfondimento/foto.jpg
-Descrizione foto: cosa si vede
-Foto generata: sì
-Didascalia: solo per le foto vere, con i crediti.
-
-## Vedere: titolo della seconda fascia
-Indice: la riga nell'indice
-Sommario: prima voce; seconda voce
-
-### Titolo del blocco
-Testo del blocco.
-
-### Tabella: Titolo della tabella
-Didascalia: dove, quando, che unità.
-
-Numero: 28,7
-Unità: miliardi di euro
-Cosa: che cosa misura questo numero.
-Fonte: [nome della fonte](https://indirizzo), data
-
-Numero: 41,3
-Unità: miliardi di euro
-Cosa: che cosa misura.
-Fonte: [nome della fonte](https://indirizzo), data
-
-Limite: i limiti dei dati.
-
-## Pensare: titolo della terza fascia
-Indice: la riga nell'indice
-Sommario: prima voce; seconda voce
-
-### Titolo del blocco
-Testo del blocco.
-
-## Domande
+    '
+domande:
 - La prima domanda, quella grande?
 - La seconda?
 - La terza?
+movimenti:
+- nome: Capire
+  titolo: 'Capire: titolo della prima fascia, con le parole che si cercano'
+  indice: la riga nell'indice
+  sommario:
+  - prima voce in copertina
+  - seconda voce
+  colonne: 3
+  blocchi:
+  - titolo: Titolo del primo blocco
+    tipo: testo
+    testo: Testo del blocco, 40-90 parole.
+  - titolo: Una domanda che la gente si fa?
+    tipo: domanda
+    testo: Se il titolo finisce col punto di domanda diventa una FAQ per Google. 40-60 parole.
+  dopo:
+  - type: frase
+    grande: 'La frase grande,
+
+      anche su due righe.
+
+      '
+    sotto: la riga piccola sotto la frase.
+    image: /assets/images/numeri/nome-approfondimento/foto.jpg
+    image_alt: cosa si vede
+    generata: true
+    didascalia: solo per le foto vere, con i crediti.
+- nome: Vedere
+  titolo: 'Vedere: titolo della seconda fascia'
+  indice: la riga nell'indice
+  sommario:
+  - prima voce
+  - seconda voce
+  blocchi:
+  - titolo: Titolo del blocco
+    tipo: testo
+    testo: Testo del blocco.
+  dopo:
+  - type: dati
+    titolo: Titolo della tabella
+    didascalia: dove, quando, che unità.
+    colonna: Numero
+    righe:
+    - cifra: "28,7"
+      unita: miliardi di euro
+      testo: che cosa misura questo numero.
+      fonte: 'Fonte: [nome della fonte](https://indirizzo), data'
+    - cifra: "41,3"
+      unita: miliardi di euro
+      testo: che cosa misura.
+      fonte: 'Fonte: [nome della fonte](https://indirizzo), data'
+    limite: i limiti dei dati.
+- nome: Pensare
+  titolo: 'Pensare: titolo della terza fascia'
+  indice: la riga nell'indice
+  sommario:
+  - prima voce
+  - seconda voce
+  blocchi:
+  - titolo: Titolo del blocco
+    tipo: testo
+    testo: Testo del blocco.
+---

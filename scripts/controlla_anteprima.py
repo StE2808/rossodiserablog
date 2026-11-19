@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Controlla che l'anteprima di Sveltia (admin/anteprima-approfondimento.js) non si scosti dal sito (19/11/2026).
 
-Due prove, per ogni approfondimento scritto come documento:
-  1. il parser in JavaScript dà gli stessi campi di scripts/documento_approfondimento.py;
+Due prove per ogni approfondimento (a caselle o scritto come documento):
+  1. solo per i documenti: il parser in JavaScript dà gli stessi campi di scripts/documento_approfondimento.py;
   2. l'impaginazione in JavaScript ha la stessa struttura e lo stesso testo della pagina costruita da Jekyll
      (da «cop» a «domande», senza «Leggi anche»: quello lo decide il sito).
 
@@ -91,8 +91,7 @@ def main():
     errori = 0
     for f in files:
         fm_txt, corpo = doc.dividi(Path(f).read_text(encoding='utf-8'))
-        if '## ' not in corpo:
-            continue
+        documento = '## ' in corpo
         fm = yaml.safe_load(fm_txt) or {}
         fm['body'] = corpo
         r = subprocess.run(['node', '-e', NODE, str(REPO / 'admin/anteprima-approfondimento.js')],
@@ -110,7 +109,9 @@ def main():
         if 'tema' in py:
             py['tema']['apertura'] = py['tema']['apertura'].rstrip('\n')
         nome = Path(f).name
-        if py != js:
+        if not documento:
+            pass
+        elif py != js:
             errori += 1
             print(f'DIVERSO {nome}: il parser JavaScript non dà gli stessi campi del Python')
             for k in sorted(set(py) | set(js)):
