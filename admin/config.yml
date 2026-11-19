@@ -4,7 +4,7 @@ backend:
   branch: main
   base_url: https://sveltia-cms-auth.s-vozzi.workers.dev
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow  (spento il 19/11/2026: «Salva» manda il pezzo al sito; gli approfondimenti restano anteprime nascoste finché «Esce sul sito» è spento)
 
 media_folder: "assets/images/uploads"
 public_folder: "/assets/images/uploads"
