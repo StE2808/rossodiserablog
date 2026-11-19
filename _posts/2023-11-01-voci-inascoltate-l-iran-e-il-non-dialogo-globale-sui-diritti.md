@@ -15,7 +15,7 @@ tags: ["Ali Bahreini", "Armita Geravand", "comunit\u00e0 internazionale", "dirit
 ---
 In un'era di globalizzazione e interconnessione, le ingiustizie perpetrate in un angolo del mondo risuonano attraverso i continenti, risvegliando le coscienze e catalizzando il dialogo sui diritti umani. L'Iran, con la sua ricca tapezzeria culturale e politica, si trova spesso al centro di tali dialoghi, rappresentando un microcosmo delle sfide globali nella promozione dei [diritti umani](/sos-autoritarismo/) e della dignità.
 
-Recentemente, gli occhi della comunità internazionale si sono rivolti verso l'Iran in seguito a tre eventi distinti ma interconnessi che hanno svelato la realtà di [repressione](/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/) che oscura le vite di molti cittadini iraniani: le tragiche storie di[ Armita Geravand e Mahsa Amini](https://rossodiserablog.it/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il-/), e la nomina controversa di Ali Bahreini, ambasciatore dell'Iran, alla presidenza del Forum Sociale del Consiglio delle Nazioni Unite per i diritti umani.
+Recentemente, gli occhi della comunità internazionale si sono rivolti verso l'Iran in seguito a tre eventi distinti ma interconnessi che hanno svelato la realtà di [repressione](/la-sindrome-del-nemico-interno-quando-la-democrazia-teme-i-suoi-figli/) che oscura le vite di molti cittadini iraniani: le tragiche storie di[ Armita Geravand e Mahsa Amini](https://rossodiserablog.it/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il/), e la nomina controversa di Ali Bahreini, ambasciatore dell'Iran, alla presidenza del Forum Sociale del Consiglio delle Nazioni Unite per i diritti umani.
 
 [Armita Geravand, una ragazza di 16 anni](/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il/), è diventata un simbolo di resistenza dopo essere stata aggredita per non aver rispettato le leggi sul velo. La sua aggressione ha drammaticamente ricordato la tragedia di Mahsa Amini, che aveva subito un destino simile un anno prima, mettendo in luce il prezzo, spesso mortale, della battaglia per la libertà personale in Iran.
 
@@ -43,7 +43,7 @@ Ali Bahreini, ambasciatore iraniano, è stato nominato alla presidenza del Forum
 <details class="faq-item" markdown="1">
 <summary><h3>Qual è la situazione dei diritti delle donne in Iran?</h3></summary>
 
-In Iran le donne sono obbligate per legge a coprirsi i capelli e il corpo in pubblico. La polizia morale ha il compito di far rispettare queste regole. Chi non si adegua rischia fermi, aggressioni e conseguenze legali. I casi di Mahsa Amini (2022) e [Armita Geravand](/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il-/) (2023), entrambe vittime della polizia morale, hanno acceso i riflettori internazionali sulla brutalità con cui queste leggi vengono applicate.
+In Iran le donne sono obbligate per legge a coprirsi i capelli e il corpo in pubblico. La polizia morale ha il compito di far rispettare queste regole. Chi non si adegua rischia fermi, aggressioni e conseguenze legali. I casi di Mahsa Amini (2022) e [Armita Geravand](/armita-geravand-la-sedicenne-in-coma-per-la-lotta-contro-il/) (2023), entrambe vittime della polizia morale, hanno acceso i riflettori internazionali sulla brutalità con cui queste leggi vengono applicate.
 
 </details>
 

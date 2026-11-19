@@ -14,7 +14,7 @@ Il cardinale statunitense Robert Francis Prevost è stato [eletto come 267° pap
 
 L'annuncio è stato dato ieri sera dalla loggia di San Pietro dal cardinale Mamberti. La scelta del nome, che richiama Leone XIII autore della "Rerum novarum", suggerisce un'attenzione alle questioni sociali.
 
-[Nel suo primo discorso](https://rossodiserablog.it/la-prima-omelia-di-papa-leone-xiv-un-appello-all-inclusione-/), letto da un testo preparato (a differenza dei suoi predecessori recenti che parlavano a braccio), il nuovo pontefice ha enfatizzato il tema della pace: "La pace sia con tutti voi" e "Costruiamo ponti con dialoghi e incontri per essere un solo popolo in pace".
+[Nel suo primo discorso](https://rossodiserablog.it/la-prima-omelia-di-papa-leone-xiv-un-appello-all-inclusione/), letto da un testo preparato (a differenza dei suoi predecessori recenti che parlavano a braccio), il nuovo pontefice ha enfatizzato il tema della pace: "La pace sia con tutti voi" e "Costruiamo ponti con dialoghi e incontri per essere un solo popolo in pace".
 
 [Donald Trump si è congratulato](https://rossodiserablog.it/la-provocazione-oltre-i-limiti-quando-il-potere-diventa-sacr/) definendolo "il primo papa americano", sebbene Prevost non appartenga all'area conservatrice dell'episcopato USA e avesse criticato il vicepresidente Vance per le sue posizioni sui migranti.
 

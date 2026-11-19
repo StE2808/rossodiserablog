@@ -20,7 +20,7 @@ La maggioranza di destra a trazione leghista in Regione Piemonte ha partorito un
 
 E dove finiranno questi soldi? Ma ovviamente nei trasporti - quelli già magnificamente devastati dal ministro Salvini - e nella sanità - quella che la destra ha già generosamente spolpato fino all'osso. Perché, si sa, prima distruggi e poi fingi di ricostruire. Strategia impeccabile!
 
-I nostri geniali statisti hanno trovato la formula magica per risolvere i problemi dell'Italia: [tagliare fondi all'istruzione](https://rossodiserablog.it/lo-studio-della-storia-nelle-nuove-indicazioni-ministeriali-/), alla formazione, ai futuri ricercatori, alla Cultura con la C maiuscola. Perché, diciamocelo, a cosa serve la cultura quando puoi avere le ostriche a prezzi scontati?
+I nostri geniali statisti hanno trovato la formula magica per risolvere i problemi dell'Italia: [tagliare fondi all'istruzione](https://rossodiserablog.it/lo-studio-della-storia-nelle-nuove-indicazioni-ministeriali/), alla formazione, ai futuri ricercatori, alla Cultura con la C maiuscola. Perché, diciamocelo, a cosa serve la cultura quando puoi avere le ostriche a prezzi scontati?
 
 Ecco la meravigliosa coerenza: con una mano riducono l'IVA alle ostriche, con l'altra tagliano fondi all'università. Il messaggio è chiarissimo: "Cari italiani, mangiate bene oggi, tanto domani penseranno gli altri!".
 

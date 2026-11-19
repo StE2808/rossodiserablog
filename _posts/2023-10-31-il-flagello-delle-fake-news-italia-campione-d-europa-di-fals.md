@@ -21,7 +21,7 @@ Il fenomeno si estende ben oltre i confini dei social media. Una ricerca condott
 
 Come possiamo fermare [questa epidemia di disinformazione](https://rossodiserablog.it/epistocrazia-quando-il-sapere-sfida-il-voto-universale/)? La responsabilità ricade sia sui cittadini che sulle piattaforme di social media.
 
-1. **Educazione a riconoscere le fake news**: È fondamentale [educare il pubblico su come identificare e contrastare le fake news](https://rossodiserablog.it/lo-studio-della-storia-nelle-nuove-indicazioni-ministeriali-/). Questo processo include la valutazione delle fonti, la verifica delle informazioni e il riconoscimento delle tattiche utilizzate per propagare la disinformazione.
+1. **Educazione a riconoscere le fake news**: È fondamentale [educare il pubblico su come identificare e contrastare le fake news](https://rossodiserablog.it/lo-studio-della-storia-nelle-nuove-indicazioni-ministeriali/). Questo processo include la valutazione delle fonti, la verifica delle informazioni e il riconoscimento delle tattiche utilizzate per propagare la disinformazione.
 2. **Promozione di fonti affidabili**: Le piattaforme di social media devono promuovere attivamente fonti di informazione affidabili e verificate, riducendo la visibilità delle fonti di disinformazione.
 3. **Sviluppo e sostegno di piattaforme di verifica dei fatti**: Creare e supportare piattaforme dedicate alla verifica dei fatti può contribuire a smascherare le fake news e fornire chiarimenti su questioni ambigue.
 4. **Regolamentazione**: Una regolamentazione più severa delle piattaforme di social media potrebbe essere necessaria per garantire che prendano misure adeguate per combattere la disinformazione.
