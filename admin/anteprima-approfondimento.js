@@ -15,6 +15,8 @@
   var MESI = 'gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre'.split(' ');
   var GIORNI = 'domenica lunedì martedì mercoledì giovedì venerdì sabato'.split(' ');
   var AUTORI = { 'stefano-vozzi': 'Stefano Vozzi', 'lino-rialti': 'Lino Rialti' };
+  var SERVIZIO = { 'titolo': 'title', 'tema breve': 'tema_breve', 'titolo seo': 'seo_title',
+    'meta description': 'description', 'parola chiave': 'focus_keyword', 'idea per la foto di copertina': 'idea_foto' };
   var GENERATA = 'Illustrazione generata: la scena non rappresenta un luogo reale.';
 
   /* ---------- il parser (copia di documento_approfondimento.py) ---------- */
@@ -100,15 +102,29 @@
     return d;
   }
 
+  function pulisci(corpo) {
+    var t = String(corpo || '').replace(/\r\n/g, '\n').replace(/\u00a0/g, ' ');
+    var m = /```[^\n]*\n([\s\S]*?)```/.exec(t);
+    if (m && m[1].indexOf('## ') >= 0) t = m[1];
+    return t.split('\n').map(function (r) {
+      r = r.replace(/^\s*(#{2,3})\s*\*\*(.*?)\*\*\s*$/, '$1 $2');
+      r = r.replace(/^\s*(#{2,3})(?=[^#\s])/, '$1 ');
+      r = r.replace(/^\s*(#{2,3}) /, '$1 ');
+      r = r.replace(/^\s*\*\*([^*]+?):\*\*\s*/, '$1: ');
+      r = r.replace(/^\s*\*\*([^*]+?)\*\*\s*:\s*/, '$1: ');
+      return r.replace(/\s+$/, '');
+    }).join('\n');
+  }
+
   function analizza(corpo) {
-    var righe = String(corpo || '').replace(/\r\n/g, '\n').split('\n');
+    var righe = pulisci(corpo).split('\n');
     var campi = {}, movimenti = [];
     sezioni(righe, '## ').forEach(function (s) {
       var titolo = s[0], blocco = s[1];
       if (titolo === null) {
         blocco.forEach(function (r) {
-          var e = etichetta(r, ['catenaccio', 'il punto']);
-          if (e) campi[e[0] === 'catenaccio' ? 'catenaccio' : 'punto'] = e[1];
+          var e = etichetta(r, ['catenaccio', 'il punto'].concat(Object.keys(SERVIZIO)));
+          if (e && e[1]) campi[SERVIZIO[e[0]] || (e[0] === 'catenaccio' ? 'catenaccio' : 'punto')] = e[1];
         });
         return;
       }
@@ -123,8 +139,9 @@
         tema.apertura = testo(t);
         campi.tema = tema;
       } else if (nome.toLowerCase() === 'domande') {
-        campi.domande = blocco.filter(function (r) { return r.trim().charAt(0) === '-'; })
-          .map(function (r) { return r.trim().slice(1).trim(); });
+        var voce = /^([-*•]|\d+[.)])\s*/;
+        campi.domande = blocco.filter(function (r) { return voce.test(r.trim()); })
+          .map(function (r) { return r.trim().replace(voce, ''); });
       } else {
         var m = { nome: nome, titolo: titolo, blocchi: [], dopo: [] };
         var parti = sezioni(blocco, '### ');
@@ -174,16 +191,23 @@
   function pagina(fm, opz) {
     opz = opz || {};
     var img = opz.immagine || function (p) { return p; };
-    var p = Object.assign({}, fm, analizza(fm.body));  // con le caselle il corpo è vuoto e restano le caselle
+    var campi = analizza(fm.body);  // con le caselle il corpo è vuoto e restano le caselle
+    Object.keys(SERVIZIO).forEach(function (k) {  // le caselle di servizio già riempite vincono sul testo
+      var c = SERVIZIO[k];
+      if (fm[c] !== undefined && fm[c] !== null && fm[c] !== '') delete campi[c];
+    });
+    var p = Object.assign({}, fm, campi);
     var autore = AUTORI[p.author] || p.author || '';
     var h = [];
     h.push('<div class="numero">');
-    h.push('<div class="prova anteprima"><span>Anteprima dentro Sveltia: quasi uguale alla pagina vera. Quella esatta è su /anteprima/ dopo il salvataggio.</span></div>');
+    var dv = (String(fm.body || '').match(/DA VERIFICARE/g) || []).length;
+    h.push('<div class="prova anteprima"><span>Anteprima dentro Sveltia: quasi uguale alla pagina vera. Quella esatta è su /anteprima/ dopo il salvataggio.</span>'
+      + (dv ? ' <span><b>Attenzione: ' + dv + (dv > 1 ? ' punti' : ' punto') + ' [DA VERIFICARE] nel testo.</b></span>' : '') + '</div>');
     h.push('<main id="contenuto">');
     // copertina
     h.push('<section class="cop"><div class="sx">');
     h.push('<p class="testata"><a><img alt="" src="' + esc(img('/assets/images/numeri/logo-testata.png')) + '" width="512" height="512"><span>Rosso<br>di Sera<b class="blog">blog</b></span></a></p>');
-    h.push('<div class="uscita"><span>Approfondimento · N. ' + esc(p.numero) + (p.tema_breve ? ' · ' + esc(p.tema_breve) : '') + '</span><span><time>' + esc(dataEstesa(p.uscita || p.data_pubblicazione || p.date)) + '</time></span></div>');
+    h.push('<div class="uscita"><span>Approfondimento · N. ' + esc(p.numero) + (p.tema_breve ? ' · ' + esc(p.tema_breve) : '') + '</span><span><time>' + esc(dataEstesa(p.uscita || p.data_pubblicazione || p.date || new Date().toISOString().slice(0, 10)))  /* senza data Jekyll mette il giorno del build */ + '</time></span></div>');
     h.push('<h1>' + esc(p.title) + '</h1>');
     if (p.catenaccio) h.push('<div class="cat">' + esc(p.catenaccio) + '</div>');
     h.push('<p class="firma">di <a>' + esc(autore) + '</a></p>');
@@ -198,7 +222,7 @@
       if (p.image_generata) h.push('<figcaption>' + GENERATA + '</figcaption>');
       else if (p.image_caption) h.push('<figcaption>' + esc(p.image_caption) + '</figcaption>');
       h.push('</figure>');
-    } else h.push('<figure class="foto ph"><b>Immagine di copertina in arrivo</b></figure>');
+    } else if (p.prova) h.push('<figure class="foto ph"><b>Immagine di copertina in arrivo</b></figure>');
     h.push('</section>');
     // leggi anche
     h.push('<aside class="rubriche"><h2>Leggi anche</h2><div class="rub-grid">');
@@ -240,7 +264,7 @@
             if (d.generata) h.push('<figcaption>' + GENERATA + '</figcaption>');
             else if (d.didascalia) h.push('<figcaption>' + mdRiga(d.didascalia, opz) + '</figcaption>');
             h.push('</figure>');
-          }
+          } else if (p.prova) h.push('<figure class="foto-f ph"><b>Immagine in arrivo</b></figure>');
           h.push('</section>');
         } else if (d.type === 'dati') {
           h.push('<section class="dato"><h2>' + esc(d.titolo) + '</h2><div class="tabella-scroll"><table>');

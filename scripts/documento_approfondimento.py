@@ -73,6 +73,10 @@ from pathlib import Path
 import yaml
 
 CAMPI_DOC = ('catenaccio', 'punto', 'tema', 'movimenti', 'domande')
+# Righe in cima al testo preparato con l'IA: riempiono le caselle di servizio solo se sono vuote.
+SERVIZIO = {'titolo': 'title', 'tema breve': 'tema_breve', 'titolo seo': 'seo_title',
+            'meta description': 'description', 'parola chiave': 'focus_keyword',
+            'idea per la foto di copertina': 'idea_foto'}
 SI = {'sì', 'si', 'yes', 'true', 'vero'}
 
 
@@ -182,15 +186,33 @@ def _tabella(titolo, righe):
     return {k: d[k] for k in ordine if k in d}
 
 
+def pulisci(corpo):
+    """Toglie lo «sporco» tipico delle IA (ChatGPT, Grok, Gemini...): blocco di codice con chiacchiere
+    intorno, titoletti ed etichette in grassetto, spazi strani."""
+    t = corpo.replace('\r\n', '\n').replace('\u00a0', ' ')
+    m = re.search(r'```[^\n]*\n(.*?)```', t, re.S)
+    if m and '## ' in m.group(1):
+        t = m.group(1)
+    out = []
+    for r in t.split('\n'):
+        r = re.sub(r'^\s*(#{2,3})\s*\*\*(.*?)\*\*\s*$', r'\1 \2', r)   # ## **Titolo**
+        r = re.sub(r'^\s*(#{2,3})(?=[^#\s])', r'\1 ', r)                # ##Titolo
+        r = re.sub(r'^\s*(#{2,3}) ', r'\1 ', r)                          #   ## Titolo
+        r = re.sub(r'^\s*\*\*([^*]+?):\*\*\s*', r'\1: ', r)              # **Etichetta:** testo
+        r = re.sub(r'^\s*\*\*([^*]+?)\*\*\s*:\s*', r'\1: ', r)          # **Etichetta**: testo
+        out.append(r.rstrip())
+    return '\n'.join(out)
+
+
 def analizza(corpo):
-    righe = corpo.replace('\r\n', '\n').split('\n')
+    righe = pulisci(corpo).split('\n')
     campi, movimenti = {}, []
     for titolo, blocco in _sezioni(righe, '## '):
         if titolo is None:
             for r in blocco:
-                e = _etichetta(r, {'catenaccio', 'il punto'})
-                if e:
-                    campi['catenaccio' if e[0] == 'catenaccio' else 'punto'] = e[1]
+                e = _etichetta(r, {'catenaccio', 'il punto'} | set(SERVIZIO))
+                if e and e[1]:
+                    campi[SERVIZIO.get(e[0]) or ('catenaccio' if e[0] == 'catenaccio' else 'punto')] = e[1]
             continue
         nome = titolo.split(':', 1)[0].strip()
         if nome.lower() == 'apertura':
@@ -205,7 +227,8 @@ def analizza(corpo):
             tema['apertura'] = '\n\n'.join(_unisci(p) for p in _paragrafi(testo)) + '\n'
             campi['tema'] = tema
         elif nome.lower() == 'domande':
-            campi['domande'] = [r.strip()[1:].strip() for r in blocco if r.strip().startswith('-')]
+            voce = re.compile(r'^([-*•]|\d+[.)])\s*')
+            campi['domande'] = [voce.sub('', r.strip()) for r in blocco if voce.match(r.strip())]
         else:
             m = {'nome': nome, 'titolo': titolo}
             parti = _sezioni(blocco, '### ')
@@ -287,13 +310,21 @@ def applica(cartelle):
         for f in sorted(Path(c).glob('*.md')):
             testo = f.read_text(encoding='utf-8')
             fm_txt, corpo = dividi(testo)
-            if fm_txt is None or '## ' not in corpo:
+            if fm_txt is None or '## ' not in pulisci(corpo):
                 continue
             campi = analizza(corpo)
             fm = yaml.safe_load(fm_txt) or {}
+            for k in SERVIZIO.values():  # le caselle di servizio già riempite vincono sul testo
+                if k in campi and fm.get(k) not in (None, ''):
+                    del campi[k]
             presenti = [k for k in campi if k in fm]
+            pieni = [k for k in presenti if fm.get(k) not in (None, '', [], {})]
+            if pieni:
+                print(f'ATTENZIONE {f}: {pieni} sia nelle caselle sia nel documento, vince il documento')
+            n_dv = corpo.count('DA VERIFICARE')
+            if n_dv:
+                print(f'ATTENZIONE {f}: {n_dv} punti [DA VERIFICARE]')
             if presenti:
-                print(f'ATTENZIONE {f}: {presenti} sia nelle caselle sia nel documento, vince il documento')
                 righe = fm_txt.split('\n'); tenute, salta = [], False
                 for r in righe:
                     chiave = re.match(r'^([A-Za-z_]+):', r)

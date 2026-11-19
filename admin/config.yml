@@ -122,11 +122,16 @@ collections:
     summary: "N. {{numero}} · {{title}}"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "numero" }
+      - label: "Testo preparato con l'IA (facoltativo)"
+        name: "body"
+        widget: "text"
+        required: false
+        hint: "Il modo veloce: incolla qui il testo preparato con l'IA (ChatGPT, Grok, Gemini...) usando il prompt di Rosso di Sera. Se c'è, comanda lui: riempie la pagina da solo e i box qui sotto si possono lasciare vuoti. Le correzioni, allora, si fanno qui dentro. Titolo SEO, meta description e parola chiave li prende dalle prime righe, se le caselle sono vuote."
       - { label: "Numero", name: "numero", widget: "number", value_type: "int", required: true }
-      - { label: "Tema in breve", name: "tema_breve", widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
+      - { label: "Tema in breve", name: "tema_breve", required: false, widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
       - { label: "Titolo (meglio una domanda)", name: "title", widget: "string", hint: "Dove va ogni casella: [schema della pagina](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg)" }
       - { label: "Titolo SEO", name: "seo_title", widget: "string", required: false, hint: "Max 60 caratteri, le parole che la gente cerca." }
-      - { label: "Meta description", name: "description", widget: "text", hint: "120-155 caratteri." }
+      - { label: "Meta description", name: "description", required: false, widget: "text", hint: "120-155 caratteri." }
       - { label: "Parola chiave principale", name: "focus_keyword", widget: "string", required: false }
       - { label: "Esce sul sito", name: "pubblica", widget: "boolean", default: false, required: false, hint: "Spento: resta un'anteprima (la vedi solo tu, all'indirizzo /anteprima/...). Acceso: esce sul sito alla data qui sotto, entro un'ora. Controlla l'anteprima prima di accenderlo." }
       - { label: "Data di pubblicazione", name: "data_pubblicazione", widget: "datetime", format: "YYYY-MM-DD HH:mm", required: false, hint: "Giorno e ora in cui esce. Si può anche programmare: se è nel futuro, aspetta quel momento." }
@@ -148,11 +153,11 @@ collections:
           - { label: "Scienza, tecnologia e ambiente", value: "scienza-tecnologia" }
           - { label: "Cultura", value: "cultura-spettacolo" }
           - { label: "Economia", value: "economia-finanza" }
-      - { label: "Catenaccio", name: "catenaccio", widget: "text", hint: "Una o due frasi sotto il titolo." }
-      - { label: "Il punto", name: "punto", widget: "text", hint: "25-50 parole: la tesi del numero detta in chiaro. Serve a Google e alle IA." }
-      - { label: "Foto di copertina", name: "image", widget: "image", hint: "La seconda foto non sta qui: si mette dentro Movimenti › (il movimento) › Dopo i blocchi › Frase rossa › Foto accanto. Nel numero sul racket è nel primo movimento, Capire." }
-      - { label: "Descrizione della foto (alt)", name: "image_alt", widget: "string", hint: "Cosa si vede, non il titolo." }
-      - { label: "La foto è generata", name: "image_generata", widget: "boolean", default: true, hint: "Aggiunge «Illustrazione generata» sotto la foto." }
+      - { label: "Catenaccio", name: "catenaccio", required: false, widget: "text", hint: "Una o due frasi sotto il titolo." }
+      - { label: "Il punto", name: "punto", required: false, widget: "text", hint: "25-50 parole: la tesi del numero detta in chiaro. Serve a Google e alle IA." }
+      - { label: "Foto di copertina", name: "image", required: false, widget: "image", hint: "La seconda foto non sta qui: si mette dentro Movimenti › (il movimento) › Dopo i blocchi › Frase rossa › Foto accanto. Nel numero sul racket è nel primo movimento, Capire." }
+      - { label: "Descrizione della foto (alt)", name: "image_alt", required: false, widget: "string", hint: "Cosa si vede, non il titolo." }
+      - { label: "La foto è generata", name: "image_generata", required: false, widget: "boolean", default: true, hint: "Aggiunge «Illustrazione generata» sotto la foto." }
       - { label: "Didascalia (se la foto è vera)", name: "image_caption", widget: "string", required: false }
       - label: "Leggi anche"
         name: "leggi_anche"
@@ -161,34 +166,37 @@ collections:
         max: 4
         hint: "Fino a quattro articoli. La categoria si mette da sola. Se vuoto, escono gli ultimi quattro articoli."
         fields:
-          - { label: "Titolo", name: "titolo", widget: "string" }
-          - { label: "Indirizzo", name: "url", widget: "string", hint: "Es. /la-strana-parabola-della-silicon-valley/" }
+          - { label: "Titolo", name: "titolo", required: false, widget: "string" }
+          - { label: "Indirizzo", name: "url", required: false, widget: "string", hint: "Es. /la-strana-parabola-della-silicon-valley/" }
       - label: "Il tema (apertura)"
         name: "tema"
+        required: false
         widget: "object"
         fields:
-          - { label: "Titolo", name: "titolo", widget: "string" }
+          - { label: "Titolo", name: "titolo", required: false, widget: "string" }
           - { label: "Catenaccio", name: "catenaccio", widget: "string", required: false }
-          - { label: "Apertura", name: "apertura", widget: "markdown", buttons: [bold, italic, link], hint: "150-200 parole, la prima lettera diventa il capolettera." }
+          - { label: "Apertura", name: "apertura", required: false, widget: "markdown", buttons: [bold, italic, link], hint: "150-200 parole, la prima lettera diventa il capolettera." }
       - label: "Movimenti"
         name: "movimenti"
+        required: false
         widget: "list"
         summary: "{{fields.nome}}"
         hint: "Di solito tre: Capire, Vedere, Pensare. I blocchi si numerano da soli."
         fields:
-          - { label: "Nome", name: "nome", widget: "string", hint: "Capire, Vedere o Pensare." }
-          - { label: "Titolo della fascia", name: "titolo", widget: "string", hint: "Es. «Capire: che cos'è il racket». È un H2: meglio con le parole che si cercano." }
-          - { label: "Riga nell'indice", name: "indice", widget: "string" }
-          - { label: "Voci nel sommario di copertina", name: "sommario", widget: "list", field: { label: "Voce", name: "voce", widget: "string" } }
-          - { label: "Colonne (computer)", name: "colonne", widget: "number", value_type: "int", min: 1, max: 4, required: false, hint: "Se vuoto, una colonna per blocco." }
+          - { label: "Nome", name: "nome", required: false, widget: "string", hint: "Capire, Vedere o Pensare." }
+          - { label: "Titolo della fascia", name: "titolo", required: false, widget: "string", hint: "Es. «Capire: che cos'è il racket». È un H2: meglio con le parole che si cercano." }
+          - { label: "Riga nell'indice", name: "indice", required: false, widget: "string" }
+          - { label: "Voci nel sommario di copertina", name: "sommario", required: false, widget: "list", field: { label: "Voce", name: "voce", widget: "string", required: false } }
+          - { label: "Colonne (computer)", name: "colonne", widget: "number", value_type: "int", max: 4, required: false, hint: "Se vuoto, una colonna per blocco." }
           - label: "Blocchi"
             name: "blocchi"
+            required: false
             widget: "list"
             summary: "{{fields.titolo}}"
             fields:
-              - { label: "Titolo", name: "titolo", widget: "string", hint: "Deve capirsi da solo. Se è una domanda, scegli il tipo «Domanda»." }
-              - { label: "Tipo", name: "tipo", widget: "select", default: "testo", options: [{ label: "Testo", value: "testo" }, { label: "Domanda (diventa FAQ per Google)", value: "domanda" }] }
-              - { label: "Testo", name: "testo", widget: "markdown", buttons: [bold, italic, link, numbered-list, bulleted-list], hint: "40-90 parole. Le domande: 40-60." }
+              - { label: "Titolo", name: "titolo", required: false, widget: "string", hint: "Deve capirsi da solo. Se è una domanda, scegli il tipo «Domanda»." }
+              - { label: "Tipo", name: "tipo", required: false, widget: "select", default: "testo", options: [{ label: "Testo", value: "testo" }, { label: "Domanda (diventa FAQ per Google)", value: "domanda" }] }
+              - { label: "Testo", name: "testo", required: false, widget: "markdown", buttons: [bold, italic, link, numbered-list, bulleted-list], hint: "40-90 parole. Le domande: 40-60." }
           - label: "Dopo i blocchi"
             name: "dopo"
             widget: "list"
@@ -197,33 +205,36 @@ collections:
             types:
               - label: "Frase rossa"
                 name: "frase"
+                required: false
                 widget: "object"
                 fields:
-                  - { label: "Frase grande", name: "grande", widget: "text", hint: "Ogni a capo resta un a capo." }
+                  - { label: "Frase grande", name: "grande", required: false, widget: "text", hint: "Ogni a capo resta un a capo." }
                   - { label: "Sottotesto", name: "sotto", widget: "string", required: false }
                   - { label: "Foto accanto (la seconda foto del numero)", name: "image", widget: "image", required: false }
                   - { label: "Descrizione della foto (alt)", name: "image_alt", widget: "string", required: false }
-                  - { label: "La foto è generata", name: "generata", widget: "boolean", default: true }
+                  - { label: "La foto è generata", name: "generata", required: false, widget: "boolean", default: true }
                   - { label: "Didascalia e crediti (foto vera)", name: "didascalia", widget: "string", required: false, hint: "Es. Bot farm in Ucraina, 2022. Foto: Polizia nazionale ucraina, CC BY 4.0" }
                   - { label: "Mostra la foto intera", name: "adatta", widget: "boolean", default: false, required: false, hint: "Per le foto orizzontali: niente ritaglio, bande scure sopra e sotto." }
               - label: "Tabella dati"
                 name: "dati"
+                required: false
                 widget: "object"
                 fields:
-                  - { label: "Titolo", name: "titolo", widget: "string" }
-                  - { label: "Didascalia", name: "didascalia", widget: "string", hint: "Dove, quando, che unità." }
+                  - { label: "Titolo", name: "titolo", required: false, widget: "string" }
+                  - { label: "Didascalia", name: "didascalia", required: false, widget: "string", hint: "Dove, quando, che unità." }
                   - { label: "Intestazione prima colonna", name: "colonna", widget: "string", required: false, hint: "Es. Importo, Numero, Anno. Se vuota: Importo." }
                   - label: "Righe"
                     name: "righe"
+                    required: false
                     widget: "list"
                     summary: "{{fields.cifra}} {{fields.unita}}"
                     fields:
-                      - { label: "Cifra", name: "cifra", widget: "string", hint: "Es. 28,7" }
-                      - { label: "Unità", name: "unita", widget: "string", hint: "Es. miliardi di euro" }
-                      - { label: "Che cosa misura", name: "testo", widget: "text" }
-                      - { label: "Fonte", name: "fonte", widget: "string", hint: "Fonte verificata sul testo originale; un link in markdown va bene." }
+                      - { label: "Cifra", name: "cifra", required: false, widget: "string", hint: "Es. 28,7" }
+                      - { label: "Unità", name: "unita", required: false, widget: "string", hint: "Es. miliardi di euro" }
+                      - { label: "Che cosa misura", name: "testo", required: false, widget: "text" }
+                      - { label: "Fonte", name: "fonte", required: false, widget: "string", hint: "Fonte verificata sul testo originale; un link in markdown va bene." }
                   - { label: "Limiti dei dati", name: "limite", widget: "text", required: false }
-      - { label: "Domande finali", name: "domande", widget: "list", min: 1, max: 3, hint: "Tre, la prima grande. Al posto delle conclusioni.", field: { label: "Domanda", name: "domanda", widget: "string" } }
+      - { label: "Domande finali", name: "domande", required: false, widget: "list", max: 3, hint: "Tre, la prima grande. Al posto delle conclusioni.", field: { label: "Domanda", name: "domanda", widget: "string", required: false } }
       - label: "Articolo da cui nasce (facoltativo)"
         name: "articolo_origine"
         widget: "object"
@@ -243,11 +254,16 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "N. {{numero}} · {{title}}"
     fields:
+      - label: "Testo preparato con l'IA (facoltativo)"
+        name: "body"
+        widget: "text"
+        required: false
+        hint: "Il modo veloce: incolla qui il testo preparato con l'IA (ChatGPT, Grok, Gemini...) usando il prompt di Rosso di Sera. Se c'è, comanda lui: riempie la pagina da solo e i box qui sotto si possono lasciare vuoti. Le correzioni, allora, si fanno qui dentro. Titolo SEO, meta description e parola chiave li prende dalle prime righe, se le caselle sono vuote."
       - { label: "Numero", name: "numero", widget: "number", value_type: "int", required: true }
-      - { label: "Tema in breve", name: "tema_breve", widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
+      - { label: "Tema in breve", name: "tema_breve", required: false, widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
       - { label: "Titolo (meglio una domanda)", name: "title", widget: "string", hint: "Dove va ogni casella: [schema della pagina](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg)" }
       - { label: "Titolo SEO", name: "seo_title", widget: "string", required: false, hint: "Max 60 caratteri, le parole che la gente cerca." }
-      - { label: "Meta description", name: "description", widget: "text", hint: "120-155 caratteri." }
+      - { label: "Meta description", name: "description", required: false, widget: "text", hint: "120-155 caratteri." }
       - { label: "Parola chiave principale", name: "focus_keyword", widget: "string", required: false }
       - { label: "Data di uscita", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", hint: "Messa dal sito quando è uscito: non cambiarla." }
       - label: "Autore"
@@ -268,11 +284,11 @@ collections:
           - { label: "Scienza, tecnologia e ambiente", value: "scienza-tecnologia" }
           - { label: "Cultura", value: "cultura-spettacolo" }
           - { label: "Economia", value: "economia-finanza" }
-      - { label: "Catenaccio", name: "catenaccio", widget: "text", hint: "Una o due frasi sotto il titolo." }
-      - { label: "Il punto", name: "punto", widget: "text", hint: "25-50 parole: la tesi del numero detta in chiaro. Serve a Google e alle IA." }
-      - { label: "Foto di copertina", name: "image", widget: "image", hint: "La seconda foto non sta qui: si mette dentro Movimenti › (il movimento) › Dopo i blocchi › Frase rossa › Foto accanto. Nel numero sul racket è nel primo movimento, Capire." }
-      - { label: "Descrizione della foto (alt)", name: "image_alt", widget: "string", hint: "Cosa si vede, non il titolo." }
-      - { label: "La foto è generata", name: "image_generata", widget: "boolean", default: true, hint: "Aggiunge «Illustrazione generata» sotto la foto." }
+      - { label: "Catenaccio", name: "catenaccio", required: false, widget: "text", hint: "Una o due frasi sotto il titolo." }
+      - { label: "Il punto", name: "punto", required: false, widget: "text", hint: "25-50 parole: la tesi del numero detta in chiaro. Serve a Google e alle IA." }
+      - { label: "Foto di copertina", name: "image", required: false, widget: "image", hint: "La seconda foto non sta qui: si mette dentro Movimenti › (il movimento) › Dopo i blocchi › Frase rossa › Foto accanto. Nel numero sul racket è nel primo movimento, Capire." }
+      - { label: "Descrizione della foto (alt)", name: "image_alt", required: false, widget: "string", hint: "Cosa si vede, non il titolo." }
+      - { label: "La foto è generata", name: "image_generata", required: false, widget: "boolean", default: true, hint: "Aggiunge «Illustrazione generata» sotto la foto." }
       - { label: "Didascalia (se la foto è vera)", name: "image_caption", widget: "string", required: false }
       - label: "Leggi anche"
         name: "leggi_anche"
@@ -281,34 +297,37 @@ collections:
         max: 4
         hint: "Fino a quattro articoli. La categoria si mette da sola. Se vuoto, escono gli ultimi quattro articoli."
         fields:
-          - { label: "Titolo", name: "titolo", widget: "string" }
-          - { label: "Indirizzo", name: "url", widget: "string", hint: "Es. /la-strana-parabola-della-silicon-valley/" }
+          - { label: "Titolo", name: "titolo", required: false, widget: "string" }
+          - { label: "Indirizzo", name: "url", required: false, widget: "string", hint: "Es. /la-strana-parabola-della-silicon-valley/" }
       - label: "Il tema (apertura)"
         name: "tema"
+        required: false
         widget: "object"
         fields:
-          - { label: "Titolo", name: "titolo", widget: "string" }
+          - { label: "Titolo", name: "titolo", required: false, widget: "string" }
           - { label: "Catenaccio", name: "catenaccio", widget: "string", required: false }
-          - { label: "Apertura", name: "apertura", widget: "markdown", buttons: [bold, italic, link], hint: "150-200 parole, la prima lettera diventa il capolettera." }
+          - { label: "Apertura", name: "apertura", required: false, widget: "markdown", buttons: [bold, italic, link], hint: "150-200 parole, la prima lettera diventa il capolettera." }
       - label: "Movimenti"
         name: "movimenti"
+        required: false
         widget: "list"
         summary: "{{fields.nome}}"
         hint: "Di solito tre: Capire, Vedere, Pensare. I blocchi si numerano da soli."
         fields:
-          - { label: "Nome", name: "nome", widget: "string", hint: "Capire, Vedere o Pensare." }
-          - { label: "Titolo della fascia", name: "titolo", widget: "string", hint: "Es. «Capire: che cos'è il racket». È un H2: meglio con le parole che si cercano." }
-          - { label: "Riga nell'indice", name: "indice", widget: "string" }
-          - { label: "Voci nel sommario di copertina", name: "sommario", widget: "list", field: { label: "Voce", name: "voce", widget: "string" } }
-          - { label: "Colonne (computer)", name: "colonne", widget: "number", value_type: "int", min: 1, max: 4, required: false, hint: "Se vuoto, una colonna per blocco." }
+          - { label: "Nome", name: "nome", required: false, widget: "string", hint: "Capire, Vedere o Pensare." }
+          - { label: "Titolo della fascia", name: "titolo", required: false, widget: "string", hint: "Es. «Capire: che cos'è il racket». È un H2: meglio con le parole che si cercano." }
+          - { label: "Riga nell'indice", name: "indice", required: false, widget: "string" }
+          - { label: "Voci nel sommario di copertina", name: "sommario", required: false, widget: "list", field: { label: "Voce", name: "voce", widget: "string", required: false } }
+          - { label: "Colonne (computer)", name: "colonne", widget: "number", value_type: "int", max: 4, required: false, hint: "Se vuoto, una colonna per blocco." }
           - label: "Blocchi"
             name: "blocchi"
+            required: false
             widget: "list"
             summary: "{{fields.titolo}}"
             fields:
-              - { label: "Titolo", name: "titolo", widget: "string", hint: "Deve capirsi da solo. Se è una domanda, scegli il tipo «Domanda»." }
-              - { label: "Tipo", name: "tipo", widget: "select", default: "testo", options: [{ label: "Testo", value: "testo" }, { label: "Domanda (diventa FAQ per Google)", value: "domanda" }] }
-              - { label: "Testo", name: "testo", widget: "markdown", buttons: [bold, italic, link, numbered-list, bulleted-list], hint: "40-90 parole. Le domande: 40-60." }
+              - { label: "Titolo", name: "titolo", required: false, widget: "string", hint: "Deve capirsi da solo. Se è una domanda, scegli il tipo «Domanda»." }
+              - { label: "Tipo", name: "tipo", required: false, widget: "select", default: "testo", options: [{ label: "Testo", value: "testo" }, { label: "Domanda (diventa FAQ per Google)", value: "domanda" }] }
+              - { label: "Testo", name: "testo", required: false, widget: "markdown", buttons: [bold, italic, link, numbered-list, bulleted-list], hint: "40-90 parole. Le domande: 40-60." }
           - label: "Dopo i blocchi"
             name: "dopo"
             widget: "list"
@@ -317,33 +336,36 @@ collections:
             types:
               - label: "Frase rossa"
                 name: "frase"
+                required: false
                 widget: "object"
                 fields:
-                  - { label: "Frase grande", name: "grande", widget: "text", hint: "Ogni a capo resta un a capo." }
+                  - { label: "Frase grande", name: "grande", required: false, widget: "text", hint: "Ogni a capo resta un a capo." }
                   - { label: "Sottotesto", name: "sotto", widget: "string", required: false }
                   - { label: "Foto accanto (la seconda foto del numero)", name: "image", widget: "image", required: false }
                   - { label: "Descrizione della foto (alt)", name: "image_alt", widget: "string", required: false }
-                  - { label: "La foto è generata", name: "generata", widget: "boolean", default: true }
+                  - { label: "La foto è generata", name: "generata", required: false, widget: "boolean", default: true }
                   - { label: "Didascalia e crediti (foto vera)", name: "didascalia", widget: "string", required: false, hint: "Es. Bot farm in Ucraina, 2022. Foto: Polizia nazionale ucraina, CC BY 4.0" }
                   - { label: "Mostra la foto intera", name: "adatta", widget: "boolean", default: false, required: false, hint: "Per le foto orizzontali: niente ritaglio, bande scure sopra e sotto." }
               - label: "Tabella dati"
                 name: "dati"
+                required: false
                 widget: "object"
                 fields:
-                  - { label: "Titolo", name: "titolo", widget: "string" }
-                  - { label: "Didascalia", name: "didascalia", widget: "string", hint: "Dove, quando, che unità." }
+                  - { label: "Titolo", name: "titolo", required: false, widget: "string" }
+                  - { label: "Didascalia", name: "didascalia", required: false, widget: "string", hint: "Dove, quando, che unità." }
                   - { label: "Intestazione prima colonna", name: "colonna", widget: "string", required: false, hint: "Es. Importo, Numero, Anno. Se vuota: Importo." }
                   - label: "Righe"
                     name: "righe"
+                    required: false
                     widget: "list"
                     summary: "{{fields.cifra}} {{fields.unita}}"
                     fields:
-                      - { label: "Cifra", name: "cifra", widget: "string", hint: "Es. 28,7" }
-                      - { label: "Unità", name: "unita", widget: "string", hint: "Es. miliardi di euro" }
-                      - { label: "Che cosa misura", name: "testo", widget: "text" }
-                      - { label: "Fonte", name: "fonte", widget: "string", hint: "Fonte verificata sul testo originale; un link in markdown va bene." }
+                      - { label: "Cifra", name: "cifra", required: false, widget: "string", hint: "Es. 28,7" }
+                      - { label: "Unità", name: "unita", required: false, widget: "string", hint: "Es. miliardi di euro" }
+                      - { label: "Che cosa misura", name: "testo", required: false, widget: "text" }
+                      - { label: "Fonte", name: "fonte", required: false, widget: "string", hint: "Fonte verificata sul testo originale; un link in markdown va bene." }
                   - { label: "Limiti dei dati", name: "limite", widget: "text", required: false }
-      - { label: "Domande finali", name: "domande", widget: "list", min: 1, max: 3, hint: "Tre, la prima grande. Al posto delle conclusioni.", field: { label: "Domanda", name: "domanda", widget: "string" } }
+      - { label: "Domande finali", name: "domande", required: false, widget: "list", max: 3, hint: "Tre, la prima grande. Al posto delle conclusioni.", field: { label: "Domanda", name: "domanda", widget: "string", required: false } }
       - label: "Articolo da cui nasce (facoltativo)"
         name: "articolo_origine"
         widget: "object"
