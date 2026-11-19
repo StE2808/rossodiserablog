@@ -191,7 +191,8 @@
   function pagina(fm, opz) {
     opz = opz || {};
     var img = opz.immagine || function (p) { return p; };
-    var campi = analizza(fm.body);  // con le caselle il corpo è vuoto e restano le caselle
+    var ePrompt = String(fm.body || '').indexOf('ECCO IL MIO ARTICOLO') >= 0;  // la casella ha ancora il prompt
+    var campi = ePrompt ? {} : analizza(fm.body);  // con le caselle il corpo è vuoto e restano le caselle
     Object.keys(SERVIZIO).forEach(function (k) {  // le caselle di servizio già riempite vincono sul testo
       var c = SERVIZIO[k];
       if (fm[c] !== undefined && fm[c] !== null && fm[c] !== '') delete campi[c];
@@ -215,8 +216,9 @@
     var autore = AUTORI[p.author] || p.author || '';
     var h = [];
     h.push('<div class="numero">');
-    var dv = (String(fm.body || '').match(/DA VERIFICARE/g) || []).length;
+    var dv = ePrompt ? 0 : (String(fm.body || '').match(/DA VERIFICARE/g) || []).length;
     h.push('<div class="prova anteprima"><span>Anteprima dentro Sveltia: quasi uguale alla pagina vera. Quella esatta è su /anteprima/ dopo il salvataggio.</span>'
+      + (ePrompt ? ' <span><b>Nella casella «Testo preparato con l\'IA» c\'è ancora il prompt: incollaci la risposta dell\'IA.</b></span>' : '')
       + (dv ? ' <span><b>Attenzione: ' + dv + (dv > 1 ? ' punti' : ' punto') + ' [DA VERIFICARE] nel testo.</b></span>' : '') + '</div>');
     h.push('<main id="contenuto">');
     // copertina

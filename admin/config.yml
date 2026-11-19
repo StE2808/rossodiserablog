@@ -122,11 +122,112 @@ collections:
     summary: "N. {{numero}} · {{title}}"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "numero" }
-      - label: "Testo preparato con l'IA (facoltativo)"
+      - label: "Testo preparato con l'IA (facoltativo, il modo veloce)"
         name: "body"
         widget: "text"
         required: false
-        hint: "Il modo veloce: incolla qui il testo preparato con l'IA (ChatGPT, Grok, Gemini...) usando il prompt di Rosso di Sera. Se c'è, comanda lui: riempie la pagina da solo e i box qui sotto si possono lasciare vuoti. Le correzioni, allora, si fanno qui dentro. Titolo SEO, meta description e parola chiave li prende dalle prime righe, se le caselle sono vuote."
+        hint: 'COME SI USA: 1) sotto «ECCO IL MIO ARTICOLO» incolla il tuo articolo; 2) seleziona tutto il testo di questa casella (clic dentro, poi Cmd+A) e copialo (Cmd+C); 3) incollalo in ChatGPT, Gemini, Grok o l''IA che preferisci; 4) quando risponde, copia la risposta, torna qui, cancella tutto e incolla la risposta al posto del prompt. Il testo dell''IA riempie la pagina da solo: i box qui sotto si possono lasciare vuoti, e le correzioni si fanno qui dentro. RICORDATI DI COMPILARE: il numero, il titolo, l''autore, la categoria, la foto di copertina e la seconda foto (con le loro descrizioni). Tema breve, titolo SEO, meta description e parola chiave li prende dal testo dell''IA. Quando è pronto: «Esce sul sito» e la data.'
+        default: |
+          Ti incollo sotto un mio articolo. Riorganizzalo nella struttura di un approfondimento di Rosso di Sera (rossodiserablog.it), nel formato qui sotto. Usa il mio testo: riordina, dividi e taglia, ma non cambiare il senso e non aggiungere idee mie che non ci sono.
+
+          SCRIVI PER CHI LEGGE: il risultato va pubblicato così com'è. Mai frasi che parlano dell'articolo o di queste istruzioni («nel testo», «indicato nell'articolo», «risposta all'obiezione», «secondo l'autore»).
+
+          I DATI: usa solo quelli del mio articolo, con le fonti che ho messo io. Non inventare mai numeri, date, nomi, citazioni o fonti. Se un dato non ha fonte, nella tabella scrivi solo il nome della fonte che cito, senza link.
+
+          LA STRUTTURA
+          - Titolo: meglio una domanda.
+          - Apertura: 150-200 parole che portano dentro il tema.
+          - Tre fasce, in quest'ordine: CAPIRE (chi, che cosa, spiegato da zero), VEDERE (come funziona, un caso concreto, almeno un dato in tabella, l'obiezione «allora è tutto...?»), PENSARE (le conclusioni possibili).
+          - In ogni fascia da 2 a 4 blocchi. Ogni blocco: un titolo che si capisce da solo, 40-90 parole.
+          - Almeno due blocchi hanno per titolo una domanda che la gente cerca su Google (finisce con «?»), con la risposta subito, in 40-60 parole.
+          - Una «frase rossa»: la frase più forte del pezzo, massimo 12 parole (se serve accorciala), con una riga piccola sotto. In fondo a una fascia, di solito Capire.
+          - Alla fine tre domande al posto delle conclusioni, la prima la più importante. Domande brevi, massimo 12 parole: devono restare in testa.
+
+          IL FORMATO
+          Rispondi solo con il testo qui sotto, dentro un unico blocco di codice. Sostituisci le parti tra parentesi. Le righe che cominciano con ## e ### e le parole prima dei due punti (Catenaccio:, Indice:, Numero: ...) restano identiche: il sito le usa per impaginare.
+
+          ```
+          Titolo: (il titolo)
+          Tema breve: (due o tre parole, es. Il racket)
+          Titolo SEO: (massimo 60 caratteri, con le parole che la gente cerca)
+          Meta description: (120-155 caratteri: cosa trova chi legge)
+          Parola chiave: (la ricerca principale su Google)
+          Idea per la foto di copertina: (una scena in bianco e nero, con un solo dettaglio rosso, senza persone reali riconoscibili)
+
+          Catenaccio: (una o due frasi sotto il titolo, massimo 25 parole)
+          Il punto: (25-50 parole: la tesi detta in chiaro)
+
+          ## Apertura: (titolo del tema)
+          Sottotitolo: (una frase sotto il titolo del tema)
+
+          (Primo paragrafo dell'apertura.)
+
+          (Secondo paragrafo.)
+
+          ## Capire: (titolo della fascia, con le parole che si cercano)
+          Indice: (una riga che riassume la fascia, massimo 8 parole)
+          Sommario: (prima voce, 3-6 parole); (seconda voce)
+
+          ### (Titolo del blocco)
+          (Testo del blocco.)
+
+          ### (Una domanda che la gente si fa?)
+          (Risposta.)
+
+          ### Frase rossa
+          (La frase forte,
+          anche su due righe.)
+          Sotto: (la riga piccola sotto la frase)
+
+          ## Vedere: (titolo della fascia)
+          Indice: (una riga)
+          Sommario: (prima voce); (seconda voce)
+
+          ### (Titolo del blocco)
+          (Testo del blocco.)
+
+          ### Allora (l'obiezione)?
+          (La risposta all'obiezione.)
+
+          ### Tabella: (titolo della tabella)
+          Didascalia: (dove, quando, che unità di misura)
+
+          Numero: (solo la cifra, es. 28,7)
+          Unità: (es. miliardi di euro)
+          Cosa: (che cosa misura questo numero)
+          Fonte: [(nome della fonte)]((link)), (data)
+
+          Numero: (cifra)
+          Unità: (unità)
+          Cosa: (che cosa misura)
+          Fonte: [(nome)]((link)), (data)
+
+          Limite: (i limiti di questi dati, in una frase)
+
+          ## Pensare: (titolo della fascia)
+          Indice: (una riga)
+          Sommario: (prima voce); (seconda voce)
+
+          ### (Titolo del blocco)
+          (Testo del blocco.)
+
+          ### (Titolo del blocco)
+          (Testo del blocco.)
+
+          ## Domande
+          - (La prima domanda?)
+          - (La seconda?)
+          - (La terza?)
+          ```
+
+          Regole del formato:
+          - Nella tabella ogni voce sono quattro righe (Numero, Unità, Cosa, Fonte), con una riga vuota tra una voce e l'altra. Da 2 a 5 voci.
+          - Nel Sommario le voci si separano con il punto e virgola.
+          - Si possono aggiungere o togliere blocchi ###, ma l'ordine Capire, Vedere, Pensare non cambia.
+
+          ECCO IL MIO ARTICOLO:
+
+          (cancella questa riga e incolla qui il tuo articolo)
       - { label: "Numero", name: "numero", widget: "number", value_type: "int", required: true }
       - { label: "Tema in breve", name: "tema_breve", required: false, widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
       - { label: "Titolo (meglio una domanda)", name: "title", widget: "string", hint: "Dove va ogni casella: [schema della pagina](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg)" }
@@ -259,11 +360,11 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "N. {{numero}} · {{title}}"
     fields:
-      - label: "Testo preparato con l'IA (facoltativo)"
+      - label: "Testo preparato con l'IA (facoltativo, il modo veloce)"
         name: "body"
         widget: "text"
         required: false
-        hint: "Il modo veloce: incolla qui il testo preparato con l'IA (ChatGPT, Grok, Gemini...) usando il prompt di Rosso di Sera. Se c'è, comanda lui: riempie la pagina da solo e i box qui sotto si possono lasciare vuoti. Le correzioni, allora, si fanno qui dentro. Titolo SEO, meta description e parola chiave li prende dalle prime righe, se le caselle sono vuote."
+        hint: 'COME SI USA: 1) sotto «ECCO IL MIO ARTICOLO» incolla il tuo articolo; 2) seleziona tutto il testo di questa casella (clic dentro, poi Cmd+A) e copialo (Cmd+C); 3) incollalo in ChatGPT, Gemini, Grok o l''IA che preferisci; 4) quando risponde, copia la risposta, torna qui, cancella tutto e incolla la risposta al posto del prompt. Il testo dell''IA riempie la pagina da solo: i box qui sotto si possono lasciare vuoti, e le correzioni si fanno qui dentro. RICORDATI DI COMPILARE: il numero, il titolo, l''autore, la categoria, la foto di copertina e la seconda foto (con le loro descrizioni). Tema breve, titolo SEO, meta description e parola chiave li prende dal testo dell''IA. Quando è pronto: «Esce sul sito» e la data.'
       - { label: "Numero", name: "numero", widget: "number", value_type: "int", required: true }
       - { label: "Tema in breve", name: "tema_breve", required: false, widget: "string", hint: "Due o tre parole per la testata, es. «Il racket»." }
       - { label: "Titolo (meglio una domanda)", name: "title", widget: "string", hint: "Dove va ogni casella: [schema della pagina](https://rossodiserablog.it/assets/images/numeri/guida-numero.jpg)" }

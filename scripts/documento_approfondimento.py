@@ -330,6 +330,9 @@ def applica(cartelle):
             fm_txt, corpo = dividi(testo)
             if fm_txt is None or '## ' not in pulisci(corpo):
                 continue
+            if 'ECCO IL MIO ARTICOLO' in corpo:  # nella casella c'è ancora il prompt, non la risposta dell'IA
+                print(f'ATTENZIONE {f}: nella casella c\'è ancora il prompt, non il testo dell\'IA: lo salto')
+                continue
             campi = analizza(corpo)
             fm = yaml.safe_load(fm_txt) or {}
             seconda_foto(campi, fm)
