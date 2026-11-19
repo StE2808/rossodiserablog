@@ -494,3 +494,5 @@ h2.mov i{font:italic 16px 'Source Serif 4';text-transform:none;letter-spacing:0}
   h2.mov{padding:16px}
 }
 .pagina .section-header .testata{margin-bottom:18px}
+.p-corpo p a{color:var(--rosso-marca)}
+.p-corpo b{font-weight:700}
