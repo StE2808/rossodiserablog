@@ -304,6 +304,24 @@ def dividi(testo):
     return (m.group(1), m.group(2)) if m else (None, testo)
 
 
+def seconda_foto(campi, fm):
+    """La casella «Seconda foto» va accanto alla prima frase rossa (e vince su una foto scritta nel testo)."""
+    if not fm.get('foto2'):
+        return
+    for m in campi.get('movimenti', []):
+        for x in m.get('dopo', []):
+            if x.get('type') == 'frase':
+                for k in ('image', 'image_alt', 'generata', 'adatta', 'didascalia'):
+                    x.pop(k, None)
+                x['image'] = fm['foto2']
+                if fm.get('foto2_alt'): x['image_alt'] = fm['foto2_alt']
+                x['generata'] = bool(fm.get('foto2_generata', True))
+                if fm.get('foto2_intera'): x['adatta'] = True
+                if fm.get('foto2_didascalia'): x['didascalia'] = fm['foto2_didascalia']
+                return
+    print('ATTENZIONE: c\'è la seconda foto ma nel testo manca la frase rossa, la foto non esce')
+
+
 def applica(cartelle):
     fatti = 0
     for c in cartelle:
@@ -314,6 +332,7 @@ def applica(cartelle):
                 continue
             campi = analizza(corpo)
             fm = yaml.safe_load(fm_txt) or {}
+            seconda_foto(campi, fm)
             for k in SERVIZIO.values():  # le caselle di servizio già riempite vincono sul testo
                 if k in campi and fm.get(k) not in (None, ''):
                     del campi[k]

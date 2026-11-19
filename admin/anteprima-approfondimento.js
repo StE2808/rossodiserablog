@@ -196,6 +196,21 @@
       var c = SERVIZIO[k];
       if (fm[c] !== undefined && fm[c] !== null && fm[c] !== '') delete campi[c];
     });
+    if (fm.foto2) {  // la casella «Seconda foto» va accanto alla prima frase rossa (copia di seconda_foto)
+      var fatta = false;
+      (campi.movimenti || []).forEach(function (m) {
+        (m.dopo || []).forEach(function (x) {
+          if (fatta || x.type !== 'frase') return;
+          fatta = true;
+          ['image', 'image_alt', 'generata', 'adatta', 'didascalia'].forEach(function (k) { delete x[k]; });
+          x.image = fm.foto2;
+          if (fm.foto2_alt) x.image_alt = fm.foto2_alt;
+          x.generata = fm.foto2_generata === undefined || fm.foto2_generata === null ? true : !!fm.foto2_generata;
+          if (fm.foto2_intera) x.adatta = true;
+          if (fm.foto2_didascalia) x.didascalia = fm.foto2_didascalia;
+        });
+      });
+    }
     var p = Object.assign({}, fm, campi);
     var autore = AUTORI[p.author] || p.author || '';
     var h = [];

@@ -155,10 +155,15 @@ collections:
           - { label: "Economia", value: "economia-finanza" }
       - { label: "Catenaccio", name: "catenaccio", required: false, widget: "text", hint: "Una o due frasi sotto il titolo." }
       - { label: "Il punto", name: "punto", required: false, widget: "text", hint: "25-50 parole: la tesi del numero detta in chiaro. Serve a Google e alle IA." }
-      - { label: "Foto di copertina", name: "image", required: false, widget: "image", hint: "La seconda foto non sta qui: si mette dentro Movimenti › (il movimento) › Dopo i blocchi › Frase rossa › Foto accanto. Nel numero sul racket è nel primo movimento, Capire." }
+      - { label: "Foto di copertina", name: "image", required: false, widget: "image", hint: "La foto grande in copertina. La seconda va nella casella «Seconda foto» qui sotto." }
       - { label: "Descrizione della foto (alt)", name: "image_alt", required: false, widget: "string", hint: "Cosa si vede, non il titolo." }
       - { label: "La foto è generata", name: "image_generata", required: false, widget: "boolean", default: true, hint: "Aggiunge «Illustrazione generata» sotto la foto." }
       - { label: "Didascalia (se la foto è vera)", name: "image_caption", widget: "string", required: false }
+      - { label: "Seconda foto (accanto alla frase rossa)", name: "foto2", widget: "image", required: false, hint: "Esce accanto alla frase rossa. Se c'è, vince sulla foto messa dentro i box della frase rossa." }
+      - { label: "Seconda foto: descrizione (alt)", name: "foto2_alt", widget: "string", required: false, hint: "Cosa si vede." }
+      - { label: "Seconda foto: è generata", name: "foto2_generata", widget: "boolean", default: true, required: false }
+      - { label: "Seconda foto: didascalia e crediti (se è vera)", name: "foto2_didascalia", widget: "string", required: false, hint: "Es. Bot farm in Ucraina, 2022. Foto: Polizia nazionale ucraina, CC BY 4.0" }
+      - { label: "Seconda foto: mostrala intera", name: "foto2_intera", widget: "boolean", default: false, required: false, hint: "Per le foto orizzontali: niente ritaglio, bande scure sopra e sotto." }
       - label: "Leggi anche"
         name: "leggi_anche"
         widget: "list"
@@ -286,10 +291,15 @@ collections:
           - { label: "Economia", value: "economia-finanza" }
       - { label: "Catenaccio", name: "catenaccio", required: false, widget: "text", hint: "Una o due frasi sotto il titolo." }
       - { label: "Il punto", name: "punto", required: false, widget: "text", hint: "25-50 parole: la tesi del numero detta in chiaro. Serve a Google e alle IA." }
-      - { label: "Foto di copertina", name: "image", required: false, widget: "image", hint: "La seconda foto non sta qui: si mette dentro Movimenti › (il movimento) › Dopo i blocchi › Frase rossa › Foto accanto. Nel numero sul racket è nel primo movimento, Capire." }
+      - { label: "Foto di copertina", name: "image", required: false, widget: "image", hint: "La foto grande in copertina. La seconda va nella casella «Seconda foto» qui sotto." }
       - { label: "Descrizione della foto (alt)", name: "image_alt", required: false, widget: "string", hint: "Cosa si vede, non il titolo." }
       - { label: "La foto è generata", name: "image_generata", required: false, widget: "boolean", default: true, hint: "Aggiunge «Illustrazione generata» sotto la foto." }
       - { label: "Didascalia (se la foto è vera)", name: "image_caption", widget: "string", required: false }
+      - { label: "Seconda foto (accanto alla frase rossa)", name: "foto2", widget: "image", required: false, hint: "Esce accanto alla frase rossa. Se c'è, vince sulla foto messa dentro i box della frase rossa." }
+      - { label: "Seconda foto: descrizione (alt)", name: "foto2_alt", widget: "string", required: false, hint: "Cosa si vede." }
+      - { label: "Seconda foto: è generata", name: "foto2_generata", widget: "boolean", default: true, required: false }
+      - { label: "Seconda foto: didascalia e crediti (se è vera)", name: "foto2_didascalia", widget: "string", required: false, hint: "Es. Bot farm in Ucraina, 2022. Foto: Polizia nazionale ucraina, CC BY 4.0" }
+      - { label: "Seconda foto: mostrala intera", name: "foto2_intera", widget: "boolean", default: false, required: false, hint: "Per le foto orizzontali: niente ritaglio, bande scure sopra e sotto." }
       - label: "Leggi anche"
         name: "leggi_anche"
         widget: "list"
