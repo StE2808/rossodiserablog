@@ -241,12 +241,6 @@
       h.push('</figure>');
     } else if (p.prova) h.push('<figure class="foto ph"><b>Immagine di copertina in arrivo</b></figure>');
     h.push('</section>');
-    // leggi anche
-    h.push('<aside class="rubriche"><h2>Leggi anche</h2><div class="rub-grid">');
-    var la = (p.leggi_anche || []).slice(0, 4);
-    if (la.length) la.forEach(function (r) { h.push('<div class="rub"><span>' + esc(r.rubrica || '') + '</span><a>' + esc(r.titolo) + '</a></div>'); });
-    else h.push('<div class="rub"><span>Sul sito</span><a>Qui escono gli ultimi quattro articoli</a></div>');
-    h.push('</div></aside>');
     // tema
     var tema = p.tema || {};
     h.push('<section class="tema"><div><div class="et">Il tema</div><h2>' + esc(tema.titolo) + '</h2>');
@@ -300,7 +294,14 @@
     h.push('<section class="domande"><div class="et">Da portarsi a casa</div>');
     (p.domande || []).forEach(function (q, i) { h.push('<p class="' + (i ? 'q' : 'q1') + '">' + esc(q) + '</p>'); });
     if (p.articolo_origine && p.articolo_origine.url) h.push('<p class="dopo">Il ragionamento per intero: <a>' + esc(p.articolo_origine.titolo) + '</a></p>');
-    h.push('</section></main></div>');
+    h.push('</section>');
+    // leggi anche: in fondo, come in numero.html (19/11)
+    h.push('<aside class="rubriche a-dopo"><h2>Leggi anche</h2><div class="rub-grid">');
+    var la = (p.leggi_anche || []).slice(0, 4);
+    if (la.length) la.forEach(function (r) { h.push('<div class="rub"><span>' + esc(r.rubrica || '') + '</span><a>' + esc(r.titolo) + '</a></div>'); });
+    else h.push('<div class="rub"><span>Sul sito</span><a>Qui escono gli ultimi quattro articoli</a></div>');
+    h.push('</div></aside>');
+    h.push('</main></div>');
     return h.join('\n');
   }
 

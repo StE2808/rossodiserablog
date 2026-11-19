@@ -102,18 +102,6 @@
 {% if page.image_generata %}<figcaption>Illustrazione generata: la scena non rappresenta un luogo reale.</figcaption>{% elsif page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}</figure>{% elsif page.prova %}<figure class="foto ph"><b>Immagine di copertina in arrivo</b></figure>{% endif %}
 </section>
 
-<!-- LEGGI ANCHE: dal front matter, altrimenti gli ultimi quattro articoli -->
-<aside aria-labelledby="leggi-anche" class="rubriche">
-<h2 id="leggi-anche">Leggi anche</h2>
-<div class="rub-grid">
-{%- if page.leggi_anche and page.leggi_anche.size > 0 -%}
-{%- for r in page.leggi_anche limit: 4 -%}{%- assign rp = site.posts | where: "url", r.url | first -%}<div class="rub"><span>{% if rp %}{{ site.data.categorie[rp.category].nome | default: r.rubrica }}{% else %}{{ r.rubrica }}{% endif %}</span><a href="{{ r.url | relative_url }}">{{ r.titolo }}</a></div>{%- endfor -%}
-{%- else -%}
-{%- assign altri = site.posts | where_exp: "x", "x.url != page.url" -%}{%- for p in altri limit: 4 -%}<div class="rub"><span>{{ site.data.categorie[p.category].nome | default: p.category }}</span><a href="{{ p.url | relative_url }}">{{ p.title }}</a></div>{%- endfor -%}
-{%- endif -%}
-</div>
-</aside>
-
 <!-- TEMA -->
 <section class="tema">
 <div>
@@ -229,6 +217,18 @@
 <div class="rds-list"></div>
 </div>
 </section>
+
+<!-- LEGGI ANCHE in fondo, come negli articoli (19/11/2026): dal front matter, altrimenti gli ultimi quattro articoli -->
+<aside aria-labelledby="leggi-anche" class="rubriche a-dopo">
+<h2 id="leggi-anche">Leggi anche</h2>
+<div class="rub-grid">
+{%- if page.leggi_anche and page.leggi_anche.size > 0 -%}
+{%- for r in page.leggi_anche limit: 4 -%}{%- assign rp = site.posts | where: "url", r.url | first -%}<div class="rub"><span>{% if rp %}{{ site.data.categorie[rp.category].nome | default: r.rubrica }}{% else %}{{ r.rubrica }}{% endif %}</span><a href="{{ r.url | relative_url }}">{{ r.titolo }}</a></div>{%- endfor -%}
+{%- else -%}
+{%- assign altri = site.posts | where_exp: "x", "x.url != page.url" -%}{%- for p in altri limit: 4 -%}<div class="rub"><span>{{ site.data.categorie[p.category].nome | default: p.category }}</span><a href="{{ p.url | relative_url }}">{{ p.title }}</a></div>{%- endfor -%}
+{%- endif -%}
+</div>
+</aside>
 </main>
 
 <footer class="gerenza">
