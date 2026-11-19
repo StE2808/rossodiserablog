@@ -392,3 +392,8 @@ figure figcaption a{color:inherit;text-decoration-color:var(--rosso-chiaro)}
 .prova.anteprima{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center;align-items:center}
 .prova.anteprima a{background:#fff;color:var(--rosso);padding:8px 16px;min-height:44px;display:inline-flex;align-items:center;text-decoration:none;font-weight:700}
 .prova.anteprima a:focus-visible{outline:2px solid #fff;outline-offset:2px}
+
+/* 19/11/2026: categoria cliccabile in testa all'articolo e «Leggi anche» in fondo */
+.a-sx .uscita a{color:inherit;text-decoration:none}
+.a-sx .uscita a:hover,.a-sx .uscita a:focus-visible{text-decoration:underline;text-underline-offset:3px}
+.rubriche.a-dopo{border-bottom:0}

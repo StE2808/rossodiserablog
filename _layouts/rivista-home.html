@@ -22,14 +22,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ page.seo_title | default: page.title }} | Rosso di Sera</title>
-{% if page.prova or page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
 <meta name="google-site-verification" content="gw5Fk6K2XT2ucVmoWb0WBhi5aVtD-iZtugkImmhzbVU" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7QJLYXF81"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q7QJLYXF81');</script>
-{% capture seo_out %}{% seo title=false %}{% endcapture %}
-{% assign seo_out = seo_out | split: '<script type="application/ld+json">' | first %}
-{{ seo_out }}
-<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+{% include testa-seo.html %}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Arvo:wght@700&family=Gloock&family=Rock+Salt&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
@@ -40,7 +34,7 @@
 <div class="numero home">
 {% if page.prova %}<p class="prova">Versione di prova della home, non ancora pubblicata</p>{% endif %}
 <nav aria-label="Sito" class="barra">
-<span class="link"><a href="{{ '/chi-siamo/' | relative_url }}">Cos'è</a><a href="{{ '/archivio/' | relative_url }}">Archivio</a><a href="{{ '/autori/' | relative_url }}">Autori</a><a href="{{ '/contatti/' | relative_url }}">Scrivici</a><a href="{{ '/cerca/' | relative_url }}">Cerca</a></span>
+<span class="link"><a href="{{ '/chi-siamo/' | relative_url }}">Cos'è</a><a href="{{ '/approfondimenti/' | relative_url }}">Approfondimenti</a><a href="{{ '/archivio/' | relative_url }}">Archivio</a><a href="{{ '/autori/' | relative_url }}">Autori</a><a href="{{ '/contatti/' | relative_url }}">Scrivici</a><a href="{{ '/cerca/' | relative_url }}">Cerca</a></span>
 </nav>
 <main id="contenuto">
 

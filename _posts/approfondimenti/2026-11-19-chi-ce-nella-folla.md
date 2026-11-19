@@ -1,16 +1,17 @@
 ---
-layout: numero
-permalink: /rosso/folla/
-prova: true
-sitemap: false
-uscita_prevista: true
 numero: 2
 tema_breve: La folla finta
 title: Chi c'è nella folla?
 seo_title: "Bot sui social: i commenti finti sotto i post dei politici"
 description: "Sotto i post di Salvini e altri politici sono comparsi commenti scritti da un chatbot che si rifiutava. Come funzionano bot, phone farm e algoritmi."
-date: 2026-11-16 12:00:00 +0100
-uscita: 2026-11-26
+date: 2026-11-19 10:00:00 +0100
+category: scienza-tecnologia
+tags:
+  - bot
+  - social network
+  - phone farm
+  - intelligenza artificiale
+  - disinformazione
 author: stefano-vozzi
 focus_keyword: bot sui social
 catenaccio: "A novembre una rete di bot si è inceppata sotto i post dei politici. Per un giorno abbiamo visto la regia."
@@ -35,9 +36,9 @@ tema:
   titolo: La folla finta
   catenaccio: "Bot, fattorie di telefoni e algoritmi: chi sembra pensare cosa, sui social."
   apertura: |
-    Per l'anniversario del Bataclan la Lega pubblica un post per ricordare le vittime. Sotto, come sempre, arrivano i commenti. Uno compare 44 volte, identico, da 44 profili diversi, ed è in inglese. È la frase educata con cui un'intelligenza artificiale si rifiuta di fare una cosa che le hai chiesto.
+    Per l'anniversario del Bataclan Salvini pubblica su Instagram un post per ricordare le vittime. Sotto, come sempre, arrivano i commenti. Uno compare 44 volte, identico, da 44 profili diversi, ed è in inglese. È la frase educata con cui un'intelligenza artificiale si rifiuta di fare una cosa che le hai chiesto.
 
-    Nelle stesse ore succede qualcosa di simile sotto i post di Salvini, di Fidanza, di Nardella. Destra e sinistra, stessa sorte.
+    Nelle stesse ore succede qualcosa di simile sotto i post di Fidanza, di Nardella, di Laureti. Destra e sinistra, stessa sorte.
 
     La spiegazione più probabile è quasi comica. Qualcuno aveva affidato a un chatbot il compito di scrivere commenti, tutti diversi, per non farsi beccare dai filtri. Il chatbot è stato aggiornato, la versione nuova ha detto di no, e il programma che pubblicava ha pubblicato anche il no.
 
@@ -118,8 +119,8 @@ movimenti:
             fonte: "Fonte: [Search Engine Journal](https://www.searchenginejournal.com/x-live-tweets-its-fight-against-chatbot-spam-in-real-time/), luglio 2026"
           - cifra: "44"
             unita: profili
-            testo: Hanno pubblicato lo stesso rifiuto di un chatbot sotto un post della Lega, a novembre 2026.
-            fonte: "Fonte: [Sky TG24](https://tg24.sky.it/politica/2026/11/14/bot-social-politici-italia), 14 novembre 2026 (da ricontrollare)"
+            testo: "Hanno pubblicato lo stesso rifiuto di un chatbot, in inglese, sotto il post di Salvini sul Bataclan, il 13 novembre 2026. Li ha contati Truman, un account di informazione su Instagram: né Meta né altri l'hanno verificato."
+            fonte: "Fonte: conteggio di Truman (Instagram); i fatti in [LaPresse](https://www.lapresse.it/politica/2026/11/14/messaggi-bot-sotto-il-post-di-salvini-la-lega-preoccupante/), 14 novembre 2026"
           - cifra: "148"
             unita: dollari
             testo: "Il prezzo scontato di uno «chassis per phone farm» da venti telefoni, in vendita online. Il venditore avverte: «Siamo responsabili solo per l'attrezzatura e non per i progetti specifici che intraprendi»."

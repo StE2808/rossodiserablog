@@ -4,9 +4,6 @@ title: Gli approfondimenti
 seo_title: "Approfondimenti di Rosso di Sera: un tema scavato a fondo"
 description: "Tutti gli approfondimenti di Rosso di Sera, dal più recente: ogni volta un tema di politica, società o tecnologia spiegato a blocchi, con dati e fonti."
 permalink: /approfondimenti/
-# Finché non esce il primo approfondimento vero: nascosta. Al primo, togliere le due righe sotto e aggiungere il link nella barra.
-noindex: true
-sitemap: false
 ---
 {%- comment -%} Lo scaffale degli arretrati (17/11/2026): tutti gli approfondimenti, dal più recente. Il più recente è anche in copertina nella home. {%- endcomment -%}
 {%- assign tutti = site.posts | where: "approfondimento", true -%}

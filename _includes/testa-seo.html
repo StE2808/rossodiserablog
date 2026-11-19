@@ -1,0 +1,21 @@
+{%- comment -%}
+  TESTA SEO COMUNE dei layout a rivista (rivista-articolo, rivista-home, numero), 19/11/2026.
+  Stesse regole di default.html: analytics, noindex, jekyll-seo-tag senza il suo og:title
+  e senza il suo JSON-LD (l'Article lo scrive il layout), og:title con seo_title.
+  La verifica di Google Search Console resta scritta nei singoli layout.
+  Se cambia qui, guardare anche default.html (pagine vecchie: archivio, categorie, autori).
+{%- endcomment -%}
+{%- if page.seo_title and page.seo_title != "" -%}{%- assign t_seo = page.seo_title -%}{%- else -%}{%- assign t_seo = page.title -%}{%- endif -%}
+{% if page.prova or page.noindex or page.collection == "numeri" %}<meta name="robots" content="noindex, follow">{% endif %}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7QJLYXF81"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q7QJLYXF81');</script>
+{% capture seo_out %}{% seo title=false %}{% endcapture %}
+{% assign seo_out = seo_out | split: '<script type="application/ld+json">' | first %}
+{% assign seo_lines = seo_out | newline_to_br | split: '<br />' %}
+{% for l in seo_lines %}{% unless l contains 'property="og:title"' %}{{ l }}{% endunless %}{% endfor %}
+<meta property="og:title" content="{{ t_seo | escape }}">
+{% if page.image_alt and page.image_alt != "" %}<meta property="og:image:alt" content="{{ page.image_alt | escape }}">{% elsif page.title %}<meta property="og:image:alt" content="{{ page.title | escape }}">{% endif %}
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+<link rel="alternate" type="application/rss+xml" title="Rosso di Sera" href="{{ '/feed.xml' | absolute_url }}">
