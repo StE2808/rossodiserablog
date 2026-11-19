@@ -496,3 +496,10 @@ h2.mov i{font:italic 16px 'Source Serif 4';text-transform:none;letter-spacing:0}
 .pagina .section-header .testata{margin-bottom:18px}
 .p-corpo p a{color:var(--rosso-marca)}
 .p-corpo b{font-weight:700}
+/* 19/11/2026: UNA sola misura per la testata ovunque (Stefano): logo 96px, scritta 34px, «blog» 15px.
+   Vale per copertine (home, approfondimenti), articoli, pagine; le cartoline social usano gli stessi numeri (scripts/cartoline.py). */
+.testata,.testata>a{gap:14px}
+.testata img,.testata.piccola img{width:96px;height:auto;margin:-10px -6px -10px -12px}
+.testata span,.testata.piccola span{font:700 34px/.95 'Arvo',serif;letter-spacing:0;color:var(--ink)}
+.testata .blog,.testata.piccola .blog{font-size:15px}
+@media(max-width:860px){.cop .testata img{margin-left:-12px}}
