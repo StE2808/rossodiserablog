@@ -26,9 +26,9 @@ CSS = """
 *{box-sizing:border-box}html,body{margin:0;background:var(--carta);color:var(--ink)}
 .c{position:relative;overflow:hidden;background:var(--carta)}
 .testata{display:flex;align-items:center;gap:14px;margin:0}
-.testata img{width:96px;height:auto;margin:-10px -6px -10px -12px}
-.testata span{font:700 34px/.95 'Arvo',serif}
-.testata .blog{display:inline-block;margin-left:.45em;vertical-align:.35em;font:400 15px/1 'Rock Salt',cursive;color:var(--rosso);transform:rotate(-8deg)}
+.testata img{width:138px;height:auto;margin:-10px -6px -10px -12px}
+.testata span{font:700 49px/.95 'Arvo',serif}
+.testata .blog{display:inline-block;margin-left:.45em;vertical-align:.35em;font:400 22px/1 'Rock Salt',cursive;color:var(--rosso);transform:rotate(-8deg)}
 .riga{display:flex;justify-content:space-between;gap:12px;border-top:1px solid var(--ink);padding-top:8px;font:500 14px 'Archivo'}
 .riga span{white-space:nowrap}
 .riga b{color:var(--rosso-marca);text-transform:uppercase;letter-spacing:.05em}
