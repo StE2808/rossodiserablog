@@ -93,6 +93,27 @@ def _paragrafi(righe):
     return out
 
 
+def _unisci(p):
+    """Un paragrafo: le righe di un elenco (1. / - ) restano a capo, le altre si uniscono."""
+    if any(re.match(r'^\s*(\d+\.|[-*])\s', r) for r in p):
+        return '\n'.join(p)
+    return ' '.join(p)
+
+
+class _Dumper(yaml.SafeDumper):
+    pass
+
+
+def _stringa(dumper, s):
+    # Jekyll (YAML di Ruby) legge «28,7» o «1,234» come numeri interi: tra virgolette restano testo.
+    if re.fullmatch(r'[-+]?[\d.,_:]+', s):
+        return dumper.represent_scalar('tag:yaml.org,2002:str', s, style='"')
+    return dumper.represent_str(s)
+
+
+_Dumper.add_representer(str, _stringa)
+
+
 def _etichetta(riga, ammesse):
     m = re.match(r'^([A-Za-zÀ-ÿ ]+?):\s?(.*)$', riga)
     if m and m.group(1).strip().lower() in ammesse:
@@ -181,7 +202,7 @@ def analizza(corpo):
                     tema['catenaccio'] = e[1]
                 else:
                     testo.append(r)
-            tema['apertura'] = '\n\n'.join(' '.join(p) for p in _paragrafi(testo)) + '\n'
+            tema['apertura'] = '\n\n'.join(_unisci(p) for p in _paragrafi(testo)) + '\n'
             campi['tema'] = tema
         elif nome.lower() == 'domande':
             campi['domande'] = [r.strip()[1:].strip() for r in blocco if r.strip().startswith('-')]
@@ -205,7 +226,7 @@ def analizza(corpo):
                     dopo.append(_tabella(t.split(':', 1)[1].strip() if ':' in t else '', rr))
                 else:
                     blocchi.append({'titolo': t, 'tipo': 'domanda' if t.endswith('?') else 'testo',
-                                    'testo': '\n\n'.join(' '.join(p) for p in _paragrafi(rr))})
+                                    'testo': '\n\n'.join(_unisci(p) for p in _paragrafi(rr))})
             m['blocchi'] = blocchi
             if dopo:
                 m['dopo'] = dopo
@@ -244,7 +265,7 @@ def verso_documento(fm):
             elif d.get('type') == 'dati':
                 o += ['', '### Tabella: ' + d.get('titolo', '')]
                 if d.get('didascalia'): o.append('Didascalia: ' + d['didascalia'])
-                if d.get('colonna') and d['colonna'] != 'Numero': o.append('Colonna: ' + d['colonna'])
+                if d.get('colonna', 'Importo') != 'Numero': o.append('Colonna: ' + d.get('colonna', 'Importo'))  # senza, il layout scriveva Importo
                 for r in d.get('righe', []):
                     fonte = re.sub(r'^Fonte:\s*', '', r['fonte'])
                     o += ['', f"Numero: {r['cifra']}", f"Unità: {r['unita']}", f"Cosa: {r['testo']}", f"Fonte: {fonte}"]
@@ -281,8 +302,8 @@ def applica(cartelle):
                     if not salta:
                         tenute.append(r)
                 fm_txt = '\n'.join(tenute)
-            nuovo = '---\n' + fm_txt.rstrip('\n') + '\n' + yaml.safe_dump(
-                campi, allow_unicode=True, sort_keys=False, width=10000) + '---\n'
+            nuovo = '---\n' + fm_txt.rstrip('\n') + '\n' + yaml.dump(
+                campi, Dumper=_Dumper, allow_unicode=True, sort_keys=False, width=10000) + '---\n'
             f.write_text(nuovo, encoding='utf-8')
             fatti += 1
             print(f'documento → caselle: {f}')

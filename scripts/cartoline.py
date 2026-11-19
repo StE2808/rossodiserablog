@@ -59,7 +59,12 @@ h1{font:400 64px/1 'Gloock',serif;letter-spacing:-.01em;margin:0}
 
 def leggi(post):
     testo = open(post, encoding='utf-8').read()
-    fm = yaml.safe_load(testo.split('---', 2)[1])
+    _, fm_txt, corpo = testo.split('---', 2)
+    fm = yaml.safe_load(fm_txt)
+    if '## ' in corpo:  # approfondimento scritto come documento: catenaccio & co. stanno nel corpo
+        sys.path.insert(0, str(REPO / 'scripts'))
+        from documento_approfondimento import analizza
+        fm = {**analizza(corpo), **fm}
     slug = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', pathlib.Path(post).stem)
     return fm, slug
 

@@ -197,6 +197,13 @@
             print(f'Post con riferimenti riscritti per il build: {aggiornati}')
             PYTHON_SCRIPT
 
+        # Approfondimenti scritti come documento unico (19/11/2026): il corpo diventa le caselle
+        # che usa numero.html. Solo per il build, nel repo il file resta un documento.
+        - name: Approfondimenti, dal documento alle caselle (solo per il build)
+          run: |
+            python3 -c "import yaml" 2>/dev/null || python3 -m pip install --quiet --break-system-packages pyyaml
+            python3 scripts/documento_approfondimento.py --applica _numeri _posts/approfondimenti
+
         - name: Setup Pages
           id: pages
           uses: actions/configure-pages@v5
