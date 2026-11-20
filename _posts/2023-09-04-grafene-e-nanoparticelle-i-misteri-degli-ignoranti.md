@@ -8,6 +8,8 @@ image: /assets/images/2023/09/black-eyed-kids-legend.webp
 image_alt: "Immagine di copertina dell'articolo"
 description: "In principio c'era solo la scia chimica, poi arrivò a darle manforte il grafene. Infatti era circolata, insistente, la voce che sosteneva che i vaccini..."
 category: scienza-tecnologia
+noindex: true
+sitemap: false
 tags: ["5G", "balck", "children", "covid", "eyed", "grafene", "malattia", "nanoparticelle", "sociale"]
 ---
 In principio c'era solo la scia chimica, poi arrivò a darle manforte il grafene. 
