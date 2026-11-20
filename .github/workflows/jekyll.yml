@@ -48,6 +48,8 @@
     build:
       needs: pubblica
       runs-on: ubuntu-latest
+      outputs:
+        indexnow: ${{ steps.indexnow.outputs.corpo }}
       if: github.actor != 'github-actions[bot]' && (github.event_name != 'schedule' || needs.pubblica.outputs.fatti == '1')
       steps:
         - name: Checkout
@@ -213,6 +215,11 @@
           env:
             JEKYLL_ENV: production
 
+        - name: IndexNow, URL nuovi o cambiati rispetto al sito online
+          id: indexnow
+          continue-on-error: true
+          run: echo "corpo=$(python3 scripts/indexnow.py corpo _site/sitemap.xml)" >> "$GITHUB_OUTPUT"
+
         - name: Upload artifact
           uses: actions/upload-pages-artifact@v4
 
@@ -226,4 +233,14 @@
         - name: Deploy to GitHub Pages
           id: deployment
           uses: actions/deploy-pages@v5
+
+        - name: IndexNow (Bing e gli altri), dopo la messa online
+          if: needs.build.outputs.indexnow != ''
+          continue-on-error: true
+          env:
+            CORPO: ${{ needs.build.outputs.indexnow }}
+          run: |
+            sleep 60
+            curl -s -o /dev/null -w "IndexNow: risposta %{http_code}\n" -X POST https://api.indexnow.org/indexnow \
+              -H "Content-Type: application/json; charset=utf-8" --data "$CORPO"
 
