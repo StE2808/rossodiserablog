@@ -111,10 +111,10 @@ movimenti:
     didascalia: Casi documentati, dal 2017 a oggi.
     colonna: Numero
     righe:
-    - cifra: "474"
-      unita: iPhone
-      testo: Sequestrati in Thailandia nel giugno 2017 in una sola fattoria di telefoni, insieme a 347.200 SIM.
-      fonte: 'Fonte: [South China Morning Post](https://www.scmp.com/news/asia/southeast-asia/article/2098167/thai-police-raid-wechat-click-farm-find-347200-sim-cards), 13 giugno 2017'
+    - cifra: "1,1"
+      unita: miliardi di profili falsi
+      testo: 'Quelli su cui Meta dice di essere intervenuta su Facebook in tre mesi, a fine 2025. Secondo l''azienda, i falsi restano circa il 5% delle persone che lo usano ogni giorno. È la stima della piattaforma stessa, quindi la più prudente.'
+      fonte: 'Fonte: [rapporto di Meta al Codice europeo contro la disinformazione](https://www.disinfocode.eu/reports/meta/8), marzo 2026'
     - cifra: "99"
       unita: smartphone
       testo: Sono bastati all'artista Simon Weckert, a Berlino nel 2020, per far comparire un ingorgo inesistente su Google Maps.
