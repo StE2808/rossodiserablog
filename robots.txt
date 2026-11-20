@@ -1,24 +1,19 @@
 # Robots.txt per Rosso di Sera
 # https://rossodiserablog.it
 #
-# ATTENZIONE: online questo file non e' servito da solo. Cloudflare (AI Crawl
-# Control -> Segnali -> "Robots.txt gestito", attivo) antepone un blocco proprio
-# con i Content-Signal e i divieti per i crawler di addestramento:
+# Aperto a tutti, anche ai crawler di addestramento delle IA (decisione di
+# Stefano, 20/11/2026: «lasciamo cosi' com'e'»).
 #
-#   User-agent: *
-#   Content-Signal: search=yes, ai-train=no, use=reference
-#   Allow: /
-#   ...poi Disallow per GPTBot, ClaudeBot, CCBot, Bytespider, Google-Extended,
-#   Amazonbot, meta-externalagent, Applebot-Extended
+# Fino a un certo punto Cloudflare (AI Crawl Control, "Robots.txt gestito")
+# anteponeva a questo file un blocco con Content-Signal ai-train=no e i Disallow
+# per GPTBot, ClaudeBot, CCBot, Google-Extended & co. Il 20/11/2026 risultava
+# spento (variante "off" nelle impostazioni bot della zona, blocco IA del
+# firewall disattivato), probabilmente dopo una migrazione dei pannelli di
+# Cloudflare. Si e' deciso di non riaccenderlo: per l'addestramento un blog
+# piccolo non fa differenza, e la citazione da parte delle IA resta aperta.
 #
-# Quel blocco dice gia' esattamente la nostra posizione (si' a ricerca e
-# citazione, no all'addestramento) e in piu' la esprime come riserva di diritti
-# ai sensi dell'art. 4 della direttiva UE 2019/790, che e' la forma prevista
-# dalla legge europea per opporsi all'estrazione dei testi.
-#
-# Percio' qui NON si ripetono quei divieti: sarebbero duplicati, e i gruppi
-# User-agent ripetuti vengono interpretati male da alcuni crawler.
-# Per vedere il file completo come lo ricevono i bot:
+# Per riaccenderlo: Cloudflare -> AI Crawl Control -> Robots.txt gestito.
+# Per vedere il file come lo ricevono i bot:
 #   curl -s https://rossodiserablog.it/robots.txt
 
 User-agent: *
