@@ -2,9 +2,9 @@
 layout: post
 title: 'La sindrome del nemico interno: quando la democrazia teme i suoi figli'
 seo_title: 'Sindrome del nemico interno: democrazia reprime il dissenso'
-description: 'Da Pisa a Washington, le democrazie scoprono il nemico in casa. Studenti, attivisti, giudici: quando il dissenso diventa malattia.'
+description: 'Da Pisa a Washington, le democrazie scoprono il nemico in casa. Studenti, attivisti, giudici, e ora il fermo preventivo per i minorenni.'
 date: 2026-01-16 10:03:00 +0100
-last_modified_at: 2026-05-16 19:44:53 +0200
+last_modified_at: 2026-11-20 12:30:00 +0100
 author: stefano-vozzi
 category: opinioni-editoriali
 tags:
@@ -36,7 +36,7 @@ Non siamo soli. In Francia, a Sainte-Soline, trentamila manifestanti contro un m
 
 Nel Regno Unito, il Public Order Act 2023 punisce chi si incatena con quasi un anno di carcere. Le Serious Disruption Prevention Orders possono vietarti di manifestare anche senza aver commesso reati. Una ragazza rischia cinque anni per aver partecipato a una Zoom call.
 
-E Trump? Nell'ottobre 2024 ha chiamato i democratici "enemy from within": più pericolosi di Cina e Russia. Ha proposto la Guardia Nazionale contro di loro. McCarthismo, solo che stavolta il nemico è chiunque dissenta. Non è un caso isolato: è la stessa logica raccontata ne [il capro espiatorio perfetto](https://rossodiserablog.it/il-capro-espiatorio-perfetto/), dove basta un'etichetta per trasformare un ragazzo in un nemico pubblico.
+E Trump? Nell'ottobre 2024 ha chiamato i democratici "enemy from within": più pericolosi di Cina e Russia. Ha proposto la Guardia Nazionale contro di loro. [McCarthismo](https://it.wikipedia.org/wiki/Maccartismo), solo che stavolta il nemico è chiunque dissenta. Non è un caso isolato: è la stessa logica raccontata ne [il capro espiatorio perfetto](https://rossodiserablog.it/il-capro-espiatorio-perfetto/), dove basta un'etichetta per trasformare un ragazzo in un nemico pubblico.
 
 ---
 
@@ -53,6 +53,22 @@ Quindi la **delegittimazione**: non sei un cittadino che protesta, sei un infilt
 Infine, la **sproporzione punitiva**: sei anni per un rave, cinque per una Zoom call, il carcere per esserti seduto in strada. Pene così alte che il messaggio non è "ti punisco", è "ti avverto".
 
 E sotto tutto questo, sempre, il **nemico interno**. Perché ogni sistema ha bisogno di un "loro" per definire il "noi". Solo che quando il "loro" diventa il ragazzo seduto in strada, la giudice che applica una sentenza europea, lo studente con la kefiah: beh, il "noi" si restringe parecchio.
+
+---
+
+## Dieci mesi dopo: il fermo preventivo per i tredicenni
+
+Questo pezzo l'ho scritto a gennaio. Pensavo di descrivere una tendenza, invece era un programma, e a ottobre è arrivata la puntata successiva.
+
+Dopo gli scontri del 17 ottobre a Milano e del 24 a Bologna, il governo ha approvato in pochi giorni un decreto su «sicurezza pubblica e criminalità minorile». Dentro c'è un reato nuovo, la partecipazione violenta a una manifestazione, fino a cinque anni. C'è l'arresto in flagranza differita. E c'è il fermo preventivo fino a dodici ore, esteso per la prima volta ai minorenni.
+
+Ecco la criminalizzazione preventiva di cui parlavo qui sopra, solo che adesso ha un articolo di legge e vale anche per chi ha appena finito le medie.
+
+Il clima si è visto subito. Il 24 ottobre a Roma, davanti al liceo Albertelli, alcuni ragazzi di tredici e quattordici anni che si radunavano per andare al corteo sono stati portati in commissariato e trattenuti due ore: lo raccontano i genitori in una lettera a Domani. Nessun reato. Solo l'intenzione di manifestare.
+
+Intanto i [black bloc](https://it.wikipedia.org/wiki/Black_bloc) veri, col passamontagna e le bombe carta, restano quello che sono da [Genova](https://it.wikipedia.org/wiki/Fatti_della_scuola_Diaz) in poi: nessuno sa dirci chi siano. Ne ho scritto in [Black bloc, il fantasma utile](/black-bloc-il-fantasma-utile-venticinque-anni-di-incappucciati-mai-identificati-poi-arriva-il-decreto/). La stretta, come al solito, cade su chi è più facile da prendere: un ragazzino con lo zaino davanti a scuola.
+
+A giugno la Lega aveva anche proposto di [togliere ai magistrati le indagini sui reati della polizia in servizio](/la-polizia-giudicata-da-se-stessa-la-lega-ci-riprova/). Messo tutto in fila, il quadro è questo: più poteri a chi ferma, meno controlli su come ferma, e un nemico interno che ogni anno diventa più giovane.
 
 ---
 
