@@ -22,7 +22,7 @@
     </script>
 
     <!-- SEO -->
-    {% if page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
+    {% if page.noindex %}<meta name="robots" content="noindex, follow">{% else %}<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">{% endif %}
     {% comment %} jekyll-seo-tag: teniamo i meta, ma togliamo il suo og:title (lo scriviamo sotto con seo_title)
        e il suo JSON-LD (BlogPosting con l'autore come slug, doppione dell'Article di post.html). 04/11/2026 {% endcomment %}
     {% capture seo_out %}{% seo title=false %}{% endcapture %}

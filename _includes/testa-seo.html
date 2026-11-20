@@ -6,7 +6,7 @@
   Se cambia qui, guardare anche default.html (pagine vecchie: archivio, categorie, autori).
 {%- endcomment -%}
 {%- if page.seo_title and page.seo_title != "" -%}{%- assign t_seo = page.seo_title -%}{%- else -%}{%- assign t_seo = page.title -%}{%- endif -%}
-{% if page.prova or page.noindex or page.collection == "numeri" %}<meta name="robots" content="noindex, follow">{% endif %}
+{% if page.prova or page.noindex or page.collection == "numeri" %}<meta name="robots" content="noindex, follow">{% else %}<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">{% endif %}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7QJLYXF81"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q7QJLYXF81');</script>
 {% capture seo_out %}{% seo title=false %}{% endcapture %}
