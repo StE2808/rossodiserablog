@@ -206,6 +206,12 @@
             python3 -c "import yaml" 2>/dev/null || python3 -m pip install --quiet --break-system-packages pyyaml
             python3 scripts/documento_approfondimento.py --applica _numeri _posts/approfondimenti
 
+        - name: Cartoline social degli ultimi 20 articoli, per /social/ (solo per il build)
+          continue-on-error: true
+          run: |
+            python3 -c "import PIL, yaml" 2>/dev/null || python3 -m pip install --quiet --break-system-packages pillow pyyaml
+            python3 scripts/cartoline.py --ultimi 20 | tail -1
+
         - name: Setup Pages
           id: pages
           uses: actions/configure-pages@v5

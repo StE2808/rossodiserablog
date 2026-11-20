@@ -1,0 +1,81 @@
+---
+layout: rivista-pagina
+title: Cartoline per i social
+permalink: /social/
+description: "Le cartoline social degli ultimi articoli di Rosso di Sera, pronte da scaricare."
+sitemap: false
+noindex: true
+---
+{%- comment -%}
+  PAGINA DI SERVIZIO /social/ (20/11/2026): per gli ultimi 20 articoli e approfondimenti, le due cartoline
+  (orizzontale 1200x675 per X e Facebook, verticale 1080x1350 per Instagram) e il testo da copiare.
+  Le immagini le fa scripts/cartoline.py --ultimi 20 nel deploy (solo nel build, non nel repo):
+  il numero qui sotto e quello nel workflow vanno tenuti uguali.
+  Nascosta: noindex e fuori sitemap, nessun link dal sito.
+{%- endcomment -%}
+{%- assign quanti = 20 -%}
+{%- assign mesi_s = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," -%}
+{% include testa-pagina.html etichetta="Per chi pubblica" titolo="Cartoline per i social" intro="Gli ultimi articoli, ognuno con due immagini pronte: l'orizzontale per X e Facebook, la verticale per Instagram. Sotto, il testo da copiare. Su Facebook il link va nel primo commento, non nel post." %}
+<style>
+.s-lista{padding:8px 48px 64px;min-width:0;overflow-wrap:anywhere}
+.s-voce{border-top:1px solid var(--ink);padding:28px 0 36px}
+.s-voce .uscita{display:flex;justify-content:space-between;gap:12px;font:500 13px 'Archivo'}
+.s-voce .uscita b{color:var(--rosso-marca);text-transform:uppercase;letter-spacing:.05em}
+.s-voce h2{margin:10px 0 18px;font:400 clamp(26px,3vw,36px)/1.1 'Gloock',serif}
+.s-voce h2 a{color:inherit;text-decoration:none}
+.s-imm{display:grid;grid-template-columns:16fr 7fr;gap:20px;align-items:start}
+.s-imm figure{margin:0;min-width:0}
+.s-imm img{display:block;width:100%;max-width:100%;height:auto;border:1px solid var(--filetto);background:#fff}
+.s-imm figcaption{background:none;padding:0;color:var(--grigio);display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-top:8px;font:500 13px 'Archivo';color:var(--grigio)}
+.s-btn{display:inline-block;padding:7px 12px;border:1.5px solid var(--ink);background:var(--carta);color:var(--ink);font:700 12px 'Archivo';letter-spacing:.06em;text-transform:uppercase;text-decoration:none;cursor:pointer}
+.s-btn:hover,.s-btn:focus-visible{background:var(--ink);color:var(--carta)}
+.s-testo{margin-top:20px}
+.s-testo textarea{display:block;width:100%;min-height:118px;padding:12px 14px;border:1px solid var(--filetto);background:#fff;color:var(--ink);font:400 16px/1.5 'Source Serif 4',serif;resize:vertical}
+.s-testo .s-btn{margin-top:8px}
+@media (max-width:720px){
+  .s-lista{padding:8px 16px 48px}
+  .s-imm{grid-template-columns:1fr}
+  .s-imm figure:last-child{max-width:340px}
+}
+</style>
+<div class="s-lista">
+{%- assign n = 0 -%}
+{%- for p in site.posts -%}
+{%- if p.noindex -%}{%- continue -%}{%- endif -%}
+{%- if n >= quanti -%}{%- break -%}{%- endif -%}
+{%- assign n = n | plus: 1 -%}
+{%- assign im = p.date | date: "%-m" | minus: 1 -%}
+{%- assign o = '/assets/images/social/' | append: p.slug | append: '-orizzontale.jpg' | relative_url -%}
+{%- assign v = '/assets/images/social/' | append: p.slug | append: '-verticale.jpg' | relative_url -%}
+{%- assign sotto = p.description | default: p.catenaccio | default: p.excerpt | strip_html | strip_newlines | strip -%}
+{%- if p.approfondimento -%}{%- assign et = "Approfondimento" -%}{%- else -%}{%- assign et = site.data.categorie[p.category].nome | default: p.category -%}{%- endif %}
+<article class="s-voce">
+<div class="uscita"><b>{{ et }}</b><span>{{ p.date | date: "%-d" }} {{ mesi_s[im] }} {{ p.date | date: "%Y" }}</span></div>
+<h2><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h2>
+<div class="s-imm">
+<figure><img src="{{ o }}" alt="Cartolina orizzontale: {{ p.title | escape }}" loading="lazy" width="1200" height="675">
+<figcaption><span>Orizzontale, X e Facebook</span><a class="s-btn" href="{{ o }}" download>Scarica</a></figcaption></figure>
+<figure><img src="{{ v }}" alt="Cartolina verticale: {{ p.title | escape }}" loading="lazy" width="1080" height="1350">
+<figcaption><span>Verticale, Instagram</span><a class="s-btn" href="{{ v }}" download>Scarica</a></figcaption></figure>
+</div>
+<div class="s-testo">
+<textarea readonly aria-label="Testo da copiare per {{ p.title | escape }}">{{ p.title }}
+
+{{ sotto }}
+
+{{ p.url | absolute_url }}</textarea>
+<button type="button" class="s-btn s-copia">Copia il testo</button>
+</div>
+</article>
+{%- endfor %}
+</div>
+<script>
+document.querySelectorAll('.s-copia').forEach(function (b) {
+  b.addEventListener('click', function () {
+    var t = b.previousElementSibling;
+    var fatto = function () { b.textContent = 'Copiato'; setTimeout(function () { b.textContent = 'Copia il testo'; }, 1600); };
+    if (navigator.clipboard) { navigator.clipboard.writeText(t.value).then(fatto, function () { t.select(); document.execCommand('copy'); fatto(); }); }
+    else { t.select(); document.execCommand('copy'); fatto(); }
+  });
+});
+</script>

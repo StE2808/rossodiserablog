@@ -8,13 +8,17 @@ Le salva in assets/images/social/<slug>-orizzontale.jpg e <slug>-verticale.jpg
 (pubbliche dopo il push: Buffer vuole un URL).
 
 Uso:  python3 scripts/cartoline.py _posts/approfondimenti/2026-11-19-chi-ce-nella-folla.md
-Serve Google Chrome. Le immagini dei post devono esistere in locale (originali jpg/png).
+      python3 scripts/cartoline.py --ultimi 20      (gli ultimi 20 pubblicati: lo fa il deploy per /social/)
+Serve Google Chrome (sul Mac quello in Applicazioni, su GitHub google-chrome). Le immagini dei post
+devono esistere in locale. Per il JPEG usa Pillow se c'è, altrimenti sips (Mac).
+Dal 20/11/2026 il deploy le rifà a ogni pubblicazione (solo nel build, non le committa).
 """
-import sys, re, html, subprocess, tempfile, pathlib
+import sys, re, html, subprocess, tempfile, pathlib, shutil, datetime
 import yaml
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
-CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+CHROME = next((c for c in ('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+                           shutil.which('google-chrome'), shutil.which('chromium')) if c and pathlib.Path(c).exists()), None)
 FONTS = ('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900'
          '&family=Arvo:wght@700&family=Gloock&family=Rock+Salt'
          '&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap')
@@ -119,16 +123,36 @@ def scatta(html_txt, w, h, scala, uscita):
                         '--allow-file-access-from-files', f'--force-device-scale-factor={scala}',
                         '--virtual-time-budget=8000', f'--window-size={w},{h}',
                         f'--screenshot={png}', f.as_uri()], check=True, capture_output=True)
-        subprocess.run(['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', '88', str(png), '--out', str(uscita)],
-                       check=True, capture_output=True)
+        try:
+            from PIL import Image
+            Image.open(png).convert('RGB').save(uscita, 'JPEG', quality=88, optimize=True)
+        except ImportError:
+            subprocess.run(['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', '88', str(png), '--out', str(uscita)],
+                           check=True, capture_output=True)
+
+
+def ultimi(n):
+    """Gli ultimi n post pubblicati (data passata, senza noindex), dal più recente."""
+    ora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
+    tutti = []
+    for f in (REPO / '_posts').rglob('*.md'):
+        fm = yaml.safe_load(f.read_text(encoding='utf-8').split('---', 2)[1]) or {}
+        d = str(fm.get('date', ''))[:16]
+        if fm.get('noindex') or not d or d > ora:
+            continue
+        tutti.append((d, f))
+    return [str(f) for _, f in sorted(tutti, reverse=True)[:n]]
 
 
 def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
+    if not CHROME:
+        sys.exit('Chrome non trovato')
+    posts = ultimi(int(sys.argv[2])) if sys.argv[1] == '--ultimi' else sys.argv[1:]
     out = REPO / 'assets/images/social'
     out.mkdir(parents=True, exist_ok=True)
-    for post in sys.argv[1:]:
+    for post in posts:
         fm, slug = leggi(post)
         s = scheda(fm)
         if not s['img']:

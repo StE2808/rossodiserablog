@@ -53,3 +53,7 @@ dashboard/
 __pycache__/
 *.pyc
 assets/images/uploads/*.webp
+
+# Cartoline social: le rifà il deploy (scripts/cartoline.py --ultimi 20), 20/11/2026
+assets/images/social/*
+!assets/images/social/chi-ce-nella-folla-*
