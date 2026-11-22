@@ -131,14 +131,38 @@ def scatta(html_txt, w, h, scala, uscita):
                            check=True, capture_output=True)
 
 
+def momento(v):
+    """La `date` del front matter come istante con fuso (senza fuso: ora di Roma).
+    Serve il fuso perché il deploy gira in UTC: il 22/11/2026 un post delle 12:30 (+0100)
+    messo online alle 11:33 UTC sembrava nel futuro e restava senza cartoline."""
+    from zoneinfo import ZoneInfo
+    roma = ZoneInfo('Europe/Rome')
+    if isinstance(v, datetime.datetime):
+        d = v
+    elif isinstance(v, datetime.date):
+        d = datetime.datetime(v.year, v.month, v.day)
+    else:
+        s, d = str(v).strip(), None
+        for fmt in ('%Y-%m-%d %H:%M:%S %z', '%Y-%m-%dT%H:%M:%S%z', '%Y-%m-%d %H:%M:%S',
+                    '%Y-%m-%d %H:%M', '%Y-%m-%d'):
+            try:
+                d = datetime.datetime.strptime(s, fmt)
+                break
+            except ValueError:
+                pass
+        if d is None:
+            return None
+    return d if d.tzinfo else d.replace(tzinfo=roma)
+
+
 def ultimi(n):
     """Gli ultimi n post pubblicati (data passata, senza noindex), dal più recente."""
-    ora = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
+    ora = datetime.datetime.now(datetime.timezone.utc)
     tutti = []
     for f in (REPO / '_posts').rglob('*.md'):
         fm = yaml.safe_load(f.read_text(encoding='utf-8').split('---', 2)[1]) or {}
-        d = str(fm.get('date', ''))[:16]
-        if fm.get('noindex') or not d or d > ora:
+        d = momento(fm.get('date', ''))
+        if fm.get('noindex') or d is None or d > ora:
             continue
         tutti.append((d, f))
     return [str(f) for _, f in sorted(tutti, reverse=True)[:n]]
